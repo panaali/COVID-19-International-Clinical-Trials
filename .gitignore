@@ -1,4 +1,5 @@
 download
 .vscode
 .DS_Store
-data/ICTRP_weekly/ICTRPWeek23March2020.csv # file size is bigger than 100 MB
+# file size is bigger than 100 MB
+data/ICTRP_weekly/ICTRPWeek23March2020.csv
