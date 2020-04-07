@@ -1,1 +1,235 @@
-{"clinical_study": {"@rank": "73", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04332913"}, "id_info": {"org_study_id": "0064468/20", "nct_id": "NCT04332913"}, "brief_title": "Efficacy and Safety of Tocilizumab in the Treatment of SARS-Cov-2 Related Pneumonia", "acronym": "TOSCA", "official_title": "Efficacy and Safety of Tocilizumab in the Treatment of Patients With Respiratory Distress Syndrome and Cytokine Release Syndrome Secondary to COVID-19: a Proof of Concept Study", "sponsors": {"lead_sponsor": {"agency": "University of L'Aquila", "agency_class": "Other"}}, "source": "University of L'Aquila", "brief_summary": {"textblock": "The current spread of the COrona VIrus Disease-2019 (COVID-19) epidemic in Italy, and the\n      current lack of effective and approved drugs for its treatment, poses the problem of Severe\n      acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infected patients management,\n      especially those who underwent to experience COVID-19 complications, such as CRS. This unmet\n      need becomes more severe if the investigator consider that, the COVID-19 mortality stands\n      around 2% in the general population, but it rises to 49% when considering intensive care unit\n      (ICU) patients. To increase the chances of survival of these patients, the compassionate use\n      of the available drugs is required, based on literature data, to the best of our abilities.\n      ICU patients with cytokine release syndrome (CRS) secondary to COVID-19, show increased\n      production of pro-inflammatory cytokines, including interleukin (IL-6), IL-2, IL-7, IL-10,\n      tumor necrosis factor (TNF)-\u03b1 and interferon (INF)\u03b3, similar to that found in patients who\n      develop CRS secondary to Chimeric Antigen Receptor-T (CAR-T) therapy. Although\n      immuno-modulatory therapy is not routinely recommended in COVID-19 pneumonia, tocilizumab\n      might have a rationale in those patients who develop CRS, blocking the complications caused\n      by high levels of IL-6, and possibly preventing the development of a multi-organ failure.\n      Reassuring data in this sense, come from the first studies conducted in China. In a Chinese\n      pilot study, Xiaoling Xu and collaborators used tocilizumab (at a dosage of 400 mg iv in a\n      single dose, with a possible second dose in case of no clinical response) in patients with\n      COVID-19 in the presence of one of the following criteria: i) respiratory rate \u2265 30 acts/min;\n      ii) SpO2 \u2264 93% in ambient air; iii) PaO2/FiO2 \u2264 300 mmHg. In the 21 patients treated with\n      tocilizumab a significant reduction in IL-6 levels and fever, with improvement in lung\n      function, was demonstrated. Besides, 90% of treated patients showed an improvement in the\n      radiological picture, in terms of a decrease in the frosted glass areas, and a return to\n      normal lymphocytes count in the peripheral blood. This is a prospective observational\n      clinical study and it is aimed at verifying tocilizumab efficacy and safety in patients with\n      COVID-19 complicated by acute distress respiratory syndrome (ARDS) and CRS."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 31, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 31, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Percentage of patients with complete recovery defined as fever disappearance and return to normal peripheral oxygen saturation values (SpO2) after 14 days from the end of treatment with tocilizumab.", "time_frame": "14 days", "description": "Fever normalization criteria: Temperature <36.6 \u00b0 C for at least 72 hours; SpO2 normalization criterion: SpO2> 94% for at least 72 hours"}, "secondary_outcome": [{"measure": "Percentage of patients achieving a score <3 on the Brescia-COVID respiratory severity scale (BCRSS) after the last tocilizumab administration.", "time_frame": "24 hours"}, {"measure": "Percentage of patients with partial recovery defined as the disappearance of fever 14 days after the end of treatment with tocilizumab.", "time_frame": "14 days", "description": "Fever normalization criteria: Temperature <36.6 \u00b0 C for at least 72 hours"}, {"measure": "Duration of hospitalization", "time_frame": "14 days", "description": "days"}, {"measure": "Time to the first negative SARS-CoV-2 negative RT-PCR test", "time_frame": "14 days", "description": "days"}, {"measure": "Changes from the baseline in the white blood cell count", "time_frame": "7, 14 days", "description": "number/microliter"}, {"measure": "Changes from the baseline in the lymphocyte populations (cluster of differentiation (CD)3+CD4+, CD3+CD8+, CD19+, Th17)", "time_frame": "7, 14 days", "description": "number/microliter"}, {"measure": "Changes from the baseline of c-reactive protein (CRP) values", "time_frame": "7, 14 days"}, {"measure": "Changes from the baseline of Ferritin values", "time_frame": "7, 14 days"}, {"measure": "Changes from the baseline of BNP values", "time_frame": "7,14 days"}, {"measure": "Changes from the baseline of CK-MB values", "time_frame": "7,14 days"}, {"measure": "Changes from the baseline of Troponin values", "time_frame": "7,14 days"}, {"measure": "Changes from the baseline of LDH values", "time_frame": "7,14 days"}, {"measure": "Changes from the baseline of myoglobulin values", "time_frame": "7,14 days"}, {"measure": "Changes in myocardial ischemia signs at the electrocardiographic trace (YES or NO)", "time_frame": "7,14 days", "description": "(ST segments elevation or depression, T-wave changes)"}, {"measure": "Rate of adverse events report during and after tocilizumab", "time_frame": "14 days"}, {"measure": "Mortality (number of Partecipants, cause and timing)", "time_frame": "12 weeks"}, {"measure": "Percentage of patients who develop autoimmune diseases", "time_frame": "1 year"}], "enrollment": {"@type": "Anticipated", "#text": "30"}, "condition": "COVID-19 Pneumonia", "eligibility": {"study_pop": {"textblock": "COVID-19 patients with pneumonia requiring hospitalization"}, "sampling_method": "Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  All gender patients aged \u2265 18 years;\n\n          -  Patients with SARS-CoV-2 infection confirmed by tests (RT-PCR) and pulmonary\n             involvement, hospitalized, at the end of the initial phase of high viral load of\n             COVID-19 (apyretic> 72 hours and / or at least 7 days after onset of symptoms);\n\n          -  Worsening of respiratory exchanges such as to require non-invasive or invasive\n             ventilation support (BCRSS score \u2265 3).\n\n          -  High levels of IL-6 (> 40 pg/mL) or alternatively CRP and/or ferritin and/or D-dimer\n             and/or fibrinogen values higher than the reference values or rapidly increasing;\n\n          -  Signature of informed consent.\n\n        Exclusion Criteria:\n\n          -  Alanine aminotransferase and/or Aspartate aminotransferase (ALT / AST) > 5 times\n             compared to normal laboratory values.\n\n          -  Presence of a chronic renal failure \u2265 4 stage (glomerular filtrate values <30\n             ml/min/1.73 m2).\n\n          -  Presence of neutropenia (neutrophils count < 500 / mm3).\n\n          -  Platelet count less than 50 x 103/\u03bcL.\n\n          -  Documented sepsis from other pathogens other than SARS-CoV-2.\n\n          -  Presence of co-morbidities associated, in clinical judgment, with an unfavourable\n             outcome.\n\n          -  Complicated diverticulitis and / or intestinal perforation.\n\n          -  Skin infection in progress (e.g. dermohypodermitis not controlled by antibiotic\n             therapy).\n\n          -  Immuno-suppressive anti-rejection therapy.\n\n          -  Pregnancy or woman of childbearing age who does not use contraceptive and/or\n             breastfeeding measures.\n\n          -  Previous ischemic attack or myocardial infarction.\n\n          -  NYHA class III or IV heart failure.\n\n          -  Severe depressive syndrome or other psychiatric disease which, in the opinion of the\n             doctor, can preclude patient participation in the study.\n\n          -  Presence of known malignant neoplasms.\n\n          -  Clinically significant history of alcohol abuse or drug addiction which, in the\n             opinion of the doctor, may preclude the subject's participation in the study.\n\n          -  Any condition which, in the opinion of the doctor, precludes the possibility of using\n             the study drug provided for in the RCP.\n\n          -  Any other laboratory condition or parameter that, in the doctor's judgment, precludes\n             the subject's participation in the study."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A"}, "overall_contact": {"last_name": "Roberto Giacomelli, MD, PhD", "phone": "0039 0862 434742", "email": "roberto.giacomelli@univaq.it"}, "reference": [{"citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.", "PMID": "32007143"}, {"citation": "Hays P, Costello C, Asudani D. Clinical care of chimeric antigen receptor T-cell patients and managing immune-related adverse effects in the ambulatory and hospitalized setting: a review. Future Oncol. 2019 Dec;15(36):4235-4246. doi: 10.2217/fon-2019-0467. Epub 2019 Nov 27.", "PMID": "31773980"}, {"citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.", "PMID": "31986264"}, {"citation": "Hunter CA, Jones SA. IL-6 as a keystone cytokine in health and disease. Nat Immunol. 2015 May;16(5):448-57. doi: 10.1038/ni.3153. Review. Erratum in: Nat Immunol. 2017 Oct 18;18(11):1271.", "PMID": "25898198"}, {"citation": "Le RQ, Li L, Yuan W, Shord SS, Nie L, Habtemariam BA, Przepiorka D, Farrell AT, Pazdur R. FDA Approval Summary: Tocilizumab for Treatment of Chimeric Antigen Receptor T Cell-Induced Severe or Life-Threatening Cytokine Release Syndrome. Oncologist. 2018 Aug;23(8):943-947. doi: 10.1634/theoncologist.2018-0028. Epub 2018 Apr 5.", "PMID": "29622697"}, {"citation": "Pathan N, Hemingway CA, Alizadeh AA, Stephens AC, Boldrick JC, Oragui EE, McCabe C, Welch SB, Whitney A, O'Gara P, Nadel S, Relman DA, Harding SE, Levin M. Role of interleukin 6 in myocardial dysfunction of meningococcal septic shock. Lancet. 2004 Jan 17;363(9404):203-9.", "PMID": "14738793"}, {"citation": "Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print]", "PMID": "32125452"}, {"citation": "Salehi S, Abedi A, Balakrishnan S, Gholamrezanezhad A. Coronavirus Disease 2019 (COVID-19): A Systematic Review of Imaging Findings in 919 Patients. AJR Am J Roentgenol. 2020 Mar 14:1-7. doi: 10.2214/AJR.20.23034. [Epub ahead of print]", "PMID": "32174129"}, {"citation": "Shimabukuro-Vornhagen A, G\u00f6del P, Subklewe M, Stemmler HJ, Schl\u00f6\u00dfer HA, Schlaak M, Kochanek M, B\u00f6ll B, von Bergwelt-Baildon MS. Cytokine release syndrome. J Immunother Cancer. 2018 Jun 15;6(1):56. doi: 10.1186/s40425-018-0343-9. Review.", "PMID": "29907163"}, {"citation": "Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 Feb 24. pii: S2213-2600(20)30079-5. doi: 10.1016/S2213-2600(20)30079-5. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 28;:.", "PMID": "32105632"}, {"citation": "van der Stegen SJ, Davies DM, Wilkie S, Foster J, Sosabowski JK, Burnet J, Whilding LM, Petrovic RM, Ghaem-Maghami S, Mather S, Jeannon JP, Parente-Pereira AC, Maher J. Preclinical in vivo modeling of cytokine release syndrome induced by ErbB-retargeted human T cells: identifying a window of therapeutic opportunity? J Immunol. 2013 Nov 1;191(9):4589-98. doi: 10.4049/jimmunol.1301523. Epub 2013 Sep 23.", "PMID": "24062490"}, {"citation": "Winkler U, Jensen M, Manzke O, Schulz H, Diehl V, Engert A. Cytokine-release syndrome in patients with B-cell chronic lymphocytic leukemia and high lymphocyte counts after treatment with an anti-CD20 monoclonal antibody (rituximab, IDEC-C2B8). Blood. 1999 Oct 1;94(7):2217-24.", "PMID": "10498591"}, {"citation": "Xiaoling Xu, Mingfeng Han, Tiantian Li et al. Effective Treatment of Severe COVID-19 Patients with Tocilizumab. chinaXiv:202003.00026v1"}, {"citation": "Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Feb 18. pii: S2213-2600(20)30076-X. doi: 10.1016/S2213-2600(20)30076-X. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 25;:.", "PMID": "32085846"}], "results_reference": {"citation": "Gorbalenya AE, Baker SC, Baric RS, et al. Severe acute respiratory syndrome-related coronavirus: The species and its viruses - a statement of the Coronavirus Study Group. BioRxivchinaXiv:202003.00026v172020:2020.02.07.937862."}, "verification_date": "April 2020", "study_first_submitted": "March 26, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University of L'Aquila", "investigator_full_name": "Prof. Roberto Giacomelli", "investigator_title": "Full Professor"}, "keyword": "Tocilizumab", "condition_browse": {"mesh_term": "Pneumonia"}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "73",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04332913"
+        },
+        "id_info": {
+            "org_study_id": "0064468/20",
+            "nct_id": "NCT04332913"
+        },
+        "brief_title": "Efficacy and Safety of Tocilizumab in the Treatment of SARS-Cov-2 Related Pneumonia",
+        "acronym": "TOSCA",
+        "official_title": "Efficacy and Safety of Tocilizumab in the Treatment of Patients With Respiratory Distress Syndrome and Cytokine Release Syndrome Secondary to COVID-19: a Proof of Concept Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of L'Aquila",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of L'Aquila",
+        "brief_summary": {
+            "textblock": "The current spread of the COrona VIrus Disease-2019 (COVID-19) epidemic in Italy, and the\n      current lack of effective and approved drugs for its treatment, poses the problem of Severe\n      acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infected patients management,\n      especially those who underwent to experience COVID-19 complications, such as CRS. This unmet\n      need becomes more severe if the investigator consider that, the COVID-19 mortality stands\n      around 2% in the general population, but it rises to 49% when considering intensive care unit\n      (ICU) patients. To increase the chances of survival of these patients, the compassionate use\n      of the available drugs is required, based on literature data, to the best of our abilities.\n      ICU patients with cytokine release syndrome (CRS) secondary to COVID-19, show increased\n      production of pro-inflammatory cytokines, including interleukin (IL-6), IL-2, IL-7, IL-10,\n      tumor necrosis factor (TNF)-\u03b1 and interferon (INF)\u03b3, similar to that found in patients who\n      develop CRS secondary to Chimeric Antigen Receptor-T (CAR-T) therapy. Although\n      immuno-modulatory therapy is not routinely recommended in COVID-19 pneumonia, tocilizumab\n      might have a rationale in those patients who develop CRS, blocking the complications caused\n      by high levels of IL-6, and possibly preventing the development of a multi-organ failure.\n      Reassuring data in this sense, come from the first studies conducted in China. In a Chinese\n      pilot study, Xiaoling Xu and collaborators used tocilizumab (at a dosage of 400 mg iv in a\n      single dose, with a possible second dose in case of no clinical response) in patients with\n      COVID-19 in the presence of one of the following criteria: i) respiratory rate \u2265 30 acts/min;\n      ii) SpO2 \u2264 93% in ambient air; iii) PaO2/FiO2 \u2264 300 mmHg. In the 21 patients treated with\n      tocilizumab a significant reduction in IL-6 levels and fever, with improvement in lung\n      function, was demonstrated. Besides, 90% of treated patients showed an improvement in the\n      radiological picture, in terms of a decrease in the frosted glass areas, and a return to\n      normal lymphocytes count in the peripheral blood. This is a prospective observational\n      clinical study and it is aimed at verifying tocilizumab efficacy and safety in patients with\n      COVID-19 complicated by acute distress respiratory syndrome (ARDS) and CRS."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Percentage of patients with complete recovery defined as fever disappearance and return to normal peripheral oxygen saturation values (SpO2) after 14 days from the end of treatment with tocilizumab.",
+            "time_frame": "14 days",
+            "description": "Fever normalization criteria: Temperature <36.6 \u00b0 C for at least 72 hours; SpO2 normalization criterion: SpO2> 94% for at least 72 hours"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Percentage of patients achieving a score <3 on the Brescia-COVID respiratory severity scale (BCRSS) after the last tocilizumab administration.",
+                "time_frame": "24 hours"
+            },
+            {
+                "measure": "Percentage of patients with partial recovery defined as the disappearance of fever 14 days after the end of treatment with tocilizumab.",
+                "time_frame": "14 days",
+                "description": "Fever normalization criteria: Temperature <36.6 \u00b0 C for at least 72 hours"
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "14 days",
+                "description": "days"
+            },
+            {
+                "measure": "Time to the first negative SARS-CoV-2 negative RT-PCR test",
+                "time_frame": "14 days",
+                "description": "days"
+            },
+            {
+                "measure": "Changes from the baseline in the white blood cell count",
+                "time_frame": "7, 14 days",
+                "description": "number/microliter"
+            },
+            {
+                "measure": "Changes from the baseline in the lymphocyte populations (cluster of differentiation (CD)3+CD4+, CD3+CD8+, CD19+, Th17)",
+                "time_frame": "7, 14 days",
+                "description": "number/microliter"
+            },
+            {
+                "measure": "Changes from the baseline of c-reactive protein (CRP) values",
+                "time_frame": "7, 14 days"
+            },
+            {
+                "measure": "Changes from the baseline of Ferritin values",
+                "time_frame": "7, 14 days"
+            },
+            {
+                "measure": "Changes from the baseline of BNP values",
+                "time_frame": "7,14 days"
+            },
+            {
+                "measure": "Changes from the baseline of CK-MB values",
+                "time_frame": "7,14 days"
+            },
+            {
+                "measure": "Changes from the baseline of Troponin values",
+                "time_frame": "7,14 days"
+            },
+            {
+                "measure": "Changes from the baseline of LDH values",
+                "time_frame": "7,14 days"
+            },
+            {
+                "measure": "Changes from the baseline of myoglobulin values",
+                "time_frame": "7,14 days"
+            },
+            {
+                "measure": "Changes in myocardial ischemia signs at the electrocardiographic trace (YES or NO)",
+                "time_frame": "7,14 days",
+                "description": "(ST segments elevation or depression, T-wave changes)"
+            },
+            {
+                "measure": "Rate of adverse events report during and after tocilizumab",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Mortality (number of Partecipants, cause and timing)",
+                "time_frame": "12 weeks"
+            },
+            {
+                "measure": "Percentage of patients who develop autoimmune diseases",
+                "time_frame": "1 year"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": "COVID-19 Pneumonia",
+        "eligibility": {
+            "study_pop": {
+                "textblock": "COVID-19 patients with pneumonia requiring hospitalization"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All gender patients aged \u2265 18 years;\n\n          -  Patients with SARS-CoV-2 infection confirmed by tests (RT-PCR) and pulmonary\n             involvement, hospitalized, at the end of the initial phase of high viral load of\n             COVID-19 (apyretic> 72 hours and / or at least 7 days after onset of symptoms);\n\n          -  Worsening of respiratory exchanges such as to require non-invasive or invasive\n             ventilation support (BCRSS score \u2265 3).\n\n          -  High levels of IL-6 (> 40 pg/mL) or alternatively CRP and/or ferritin and/or D-dimer\n             and/or fibrinogen values higher than the reference values or rapidly increasing;\n\n          -  Signature of informed consent.\n\n        Exclusion Criteria:\n\n          -  Alanine aminotransferase and/or Aspartate aminotransferase (ALT / AST) > 5 times\n             compared to normal laboratory values.\n\n          -  Presence of a chronic renal failure \u2265 4 stage (glomerular filtrate values <30\n             ml/min/1.73 m2).\n\n          -  Presence of neutropenia (neutrophils count < 500 / mm3).\n\n          -  Platelet count less than 50 x 103/\u03bcL.\n\n          -  Documented sepsis from other pathogens other than SARS-CoV-2.\n\n          -  Presence of co-morbidities associated, in clinical judgment, with an unfavourable\n             outcome.\n\n          -  Complicated diverticulitis and / or intestinal perforation.\n\n          -  Skin infection in progress (e.g. dermohypodermitis not controlled by antibiotic\n             therapy).\n\n          -  Immuno-suppressive anti-rejection therapy.\n\n          -  Pregnancy or woman of childbearing age who does not use contraceptive and/or\n             breastfeeding measures.\n\n          -  Previous ischemic attack or myocardial infarction.\n\n          -  NYHA class III or IV heart failure.\n\n          -  Severe depressive syndrome or other psychiatric disease which, in the opinion of the\n             doctor, can preclude patient participation in the study.\n\n          -  Presence of known malignant neoplasms.\n\n          -  Clinically significant history of alcohol abuse or drug addiction which, in the\n             opinion of the doctor, may preclude the subject's participation in the study.\n\n          -  Any condition which, in the opinion of the doctor, precludes the possibility of using\n             the study drug provided for in the RCP.\n\n          -  Any other laboratory condition or parameter that, in the doctor's judgment, precludes\n             the subject's participation in the study."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A"
+        },
+        "overall_contact": {
+            "last_name": "Roberto Giacomelli, MD, PhD",
+            "phone": "0039 0862 434742",
+            "email": "roberto.giacomelli@univaq.it"
+        },
+        "reference": [
+            {
+                "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
+                "PMID": "32007143"
+            },
+            {
+                "citation": "Hays P, Costello C, Asudani D. Clinical care of chimeric antigen receptor T-cell patients and managing immune-related adverse effects in the ambulatory and hospitalized setting: a review. Future Oncol. 2019 Dec;15(36):4235-4246. doi: 10.2217/fon-2019-0467. Epub 2019 Nov 27.",
+                "PMID": "31773980"
+            },
+            {
+                "citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.",
+                "PMID": "31986264"
+            },
+            {
+                "citation": "Hunter CA, Jones SA. IL-6 as a keystone cytokine in health and disease. Nat Immunol. 2015 May;16(5):448-57. doi: 10.1038/ni.3153. Review. Erratum in: Nat Immunol. 2017 Oct 18;18(11):1271.",
+                "PMID": "25898198"
+            },
+            {
+                "citation": "Le RQ, Li L, Yuan W, Shord SS, Nie L, Habtemariam BA, Przepiorka D, Farrell AT, Pazdur R. FDA Approval Summary: Tocilizumab for Treatment of Chimeric Antigen Receptor T Cell-Induced Severe or Life-Threatening Cytokine Release Syndrome. Oncologist. 2018 Aug;23(8):943-947. doi: 10.1634/theoncologist.2018-0028. Epub 2018 Apr 5.",
+                "PMID": "29622697"
+            },
+            {
+                "citation": "Pathan N, Hemingway CA, Alizadeh AA, Stephens AC, Boldrick JC, Oragui EE, McCabe C, Welch SB, Whitney A, O'Gara P, Nadel S, Relman DA, Harding SE, Levin M. Role of interleukin 6 in myocardial dysfunction of meningococcal septic shock. Lancet. 2004 Jan 17;363(9404):203-9.",
+                "PMID": "14738793"
+            },
+            {
+                "citation": "Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print]",
+                "PMID": "32125452"
+            },
+            {
+                "citation": "Salehi S, Abedi A, Balakrishnan S, Gholamrezanezhad A. Coronavirus Disease 2019 (COVID-19): A Systematic Review of Imaging Findings in 919 Patients. AJR Am J Roentgenol. 2020 Mar 14:1-7. doi: 10.2214/AJR.20.23034. [Epub ahead of print]",
+                "PMID": "32174129"
+            },
+            {
+                "citation": "Shimabukuro-Vornhagen A, G\u00f6del P, Subklewe M, Stemmler HJ, Schl\u00f6\u00dfer HA, Schlaak M, Kochanek M, B\u00f6ll B, von Bergwelt-Baildon MS. Cytokine release syndrome. J Immunother Cancer. 2018 Jun 15;6(1):56. doi: 10.1186/s40425-018-0343-9. Review.",
+                "PMID": "29907163"
+            },
+            {
+                "citation": "Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 Feb 24. pii: S2213-2600(20)30079-5. doi: 10.1016/S2213-2600(20)30079-5. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 28;:.",
+                "PMID": "32105632"
+            },
+            {
+                "citation": "van der Stegen SJ, Davies DM, Wilkie S, Foster J, Sosabowski JK, Burnet J, Whilding LM, Petrovic RM, Ghaem-Maghami S, Mather S, Jeannon JP, Parente-Pereira AC, Maher J. Preclinical in vivo modeling of cytokine release syndrome induced by ErbB-retargeted human T cells: identifying a window of therapeutic opportunity? J Immunol. 2013 Nov 1;191(9):4589-98. doi: 10.4049/jimmunol.1301523. Epub 2013 Sep 23.",
+                "PMID": "24062490"
+            },
+            {
+                "citation": "Winkler U, Jensen M, Manzke O, Schulz H, Diehl V, Engert A. Cytokine-release syndrome in patients with B-cell chronic lymphocytic leukemia and high lymphocyte counts after treatment with an anti-CD20 monoclonal antibody (rituximab, IDEC-C2B8). Blood. 1999 Oct 1;94(7):2217-24.",
+                "PMID": "10498591"
+            },
+            {
+                "citation": "Xiaoling Xu, Mingfeng Han, Tiantian Li et al. Effective Treatment of Severe COVID-19 Patients with Tocilizumab. chinaXiv:202003.00026v1"
+            },
+            {
+                "citation": "Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Feb 18. pii: S2213-2600(20)30076-X. doi: 10.1016/S2213-2600(20)30076-X. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 25;:.",
+                "PMID": "32085846"
+            }
+        ],
+        "results_reference": {
+            "citation": "Gorbalenya AE, Baker SC, Baric RS, et al. Severe acute respiratory syndrome-related coronavirus: The species and its viruses - a statement of the Coronavirus Study Group. BioRxivchinaXiv:202003.00026v172020:2020.02.07.937862."
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 26, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of L'Aquila",
+            "investigator_full_name": "Prof. Roberto Giacomelli",
+            "investigator_title": "Full Professor"
+        },
+        "keyword": "Tocilizumab",
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

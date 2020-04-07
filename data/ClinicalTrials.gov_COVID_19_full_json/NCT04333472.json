@@ -1,1 +1,240 @@
-{"clinical_study": {"@rank": "82", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04333472"}, "id_info": {"org_study_id": "CAN-COR-1", "nct_id": "NCT04333472"}, "brief_title": "Piclidenoson for Treatment of COVID-19", "official_title": "Piclidenoson for Treatment of COVID-19 - A Randomized Open Label Pilot Trial", "sponsors": {"lead_sponsor": {"agency": "Can-Fite BioPharma", "agency_class": "Industry"}, "collaborator": {"agency": "Rabin Medical Center", "agency_class": "Other"}}, "source": "Can-Fite BioPharma", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No", "is_us_export": "Yes"}, "brief_summary": {"textblock": "Patients with documented COVID-19 infection will be randomized 1:1 to receive Piclidenoson 2\n      mg Q12H orally with standard care (intervention arm) or standard care alone (control arm)."}, "detailed_description": {"textblock": "Upon admission to the hospital, patients with documented COVID-19 infection will be\n      randomized 1:1 to receive Piclidenoson 2 mg Q12H orally with standard care (intervention arm)\n      or standard care alone (control arm). Piclidenoson will be administered on an empty stomach,\n      i.e, 1 hour before or 2 hours after eating. Patients' vital signs (temperature, blood\n      pressure, pulse rate per minute, breath rate per minute and oxygen saturation), will be\n      monitored according to standard of care (SoC). Symptom questionnaires will be collected from\n      patients once daily during the period of hospitalization. Efficacy of Piclidenoson will be\n      assessed by analysis of COVID-19 (Fluxergy, Irvine CA), in respiratory secretions obtained by\n      nasopharyngeal and oropharyngeal swabs, collected consecutively at day 1, 3, 5, 7, 10, 14, 21\n      and 28 following initial diagnosis, in addition to its effect on different clinical outcomes.\n      Safety and tolerability of Piclidenoson will be assessed by AE monitoring, vital signs and\n      ECG assessment and clinical laboratory tests (CBC, and extended chemistry panel)."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 6, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "July 6, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "June 6, 2020"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Duration of viral shedding in days", "time_frame": "28 days", "description": "The duration of viral shedding in days since initial diagnosis, as determined by RT-PCR to COVID-19"}, {"measure": "Time to clinical recovery (TTCR) in days", "time_frame": "28 days", "description": "TTCR is defined as the time (in hours) from initiation of trial treatment until normalization of fever, respiratory rate, and oxygen saturation, and alleviation of cough, sustained for at least 72 hours"}, {"measure": "Treatment-emergent adverse events (AEs)", "time_frame": "28 days", "description": "Proportion of patients experiencing AEs"}], "secondary_outcome": [{"measure": "Requirement for non-invasive or mechanical ventilation", "time_frame": "28 days", "description": "Proportion of patients requiring non-invasive or mechanical ventilation"}, {"measure": "Length of hospital stay in days", "time_frame": "28 days", "description": "Duration of hospital stay"}, {"measure": "Estimated PaO2/FiO2 ratio on day of discharge", "time_frame": "28 days", "description": "Ratio of arterial oxygen partial pressure to fractional inspired oxygen"}, {"measure": "All-cause mortality", "time_frame": "28 days", "description": "Proportion of patients who die"}, {"measure": "Patients reaching undetectable COVID-19 virus levels in respiratory secretions", "time_frame": "28 days", "description": "Proportion of patients reaching undetectable COVID-19 virus levels in respiratory secretions at selected timepoints"}, {"measure": "Duration of symptoms and signs of respiratory infection in days", "time_frame": "28 days", "description": "Duration of symptoms and signs of respiratory infection associated with COVID-19"}, {"measure": "Need for supportive respiratory management", "time_frame": "28 days", "description": "Proportion of patients who need for supportive respiratory management"}, {"measure": "Viral load", "time_frame": "28 days", "description": "COVID-19 viral load in respiratory secretions using a semi-quantitative method"}, {"measure": "Treatment-emergent serious AEs (SAEs)", "time_frame": "28 days", "description": "Proportion of patients experiencing AEs"}, {"measure": "AEs leading to withdrawal", "time_frame": "28 days", "description": "Rate of AEs leading to early discontinuation of trial treatment"}, {"measure": "Treatment-emergent abnormalities in clinical laboratory parameters", "time_frame": "28 days", "description": "Proportion of patients experiencing treatment-emergent changes in clinical laboratory"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "40"}, "condition": ["COVID-19", "Coronavirus Infection"], "arm_group": [{"arm_group_label": "Piclidenoson", "arm_group_type": "Experimental", "description": "Piclidenoson 2 mg every 12 hours orally added to standard of care"}, {"arm_group_label": "Standard of Care", "arm_group_type": "No Intervention", "description": "Standard treatment"}], "intervention": {"intervention_type": "Drug", "intervention_name": "Piclidenoson", "description": "Piclidenoson 2 mg orally every 12 hours for up to 21 days", "arm_group_label": "Piclidenoson", "other_name": "CF101"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Female and male patients over the age of 18.\n\n          2. Confirmed COVID-19 infection by PCR analysis.\n\n          3. Hospitalized at Hasharon Medical Center.\n\n          4. Display moderate to severe symptoms of respiratory infection.\n\n          5. Willing and able to convey informed consent.\n\n          6. Willing and able to comply with all study procedures\n\n          7. Female patients of childbearing potential and male patients with partners of\n             childbearing potential must agree to use adequate methods of contraception during the\n             study and through 90 days after the last dose of study medication. Female patients of\n             childbearing potential are all those except patients who are surgically sterile, who\n             have medically documented ovarian failure, or who are at least 1 year postmenopausal.\n\n        Exclusion Criteria:\n\n          1. Treatment with interferons, immunomodulators and/or immunosuppressive or B-cell\n             depleting medications within 12 months before screening.\n\n          2. Previous receipt of Piclidenoson.\n\n          3. Patients with respiratory infection requiring invasive or non-invasive ventilatory\n             support (bipap or intubation and mechanical ventilation).\n\n          4. Participation in a clinical trial with use of any investigational drug within 30 days\n             before screening.\n\n          5. History of any of the following diseases or conditions:\n\n               -  Advanced or decompensated liver disease (presence or history of bleeding varices,\n                  ascites, encephalopathy or hepato-renal syndrome)\n\n               -  Immunologically mediated disease (e.g., rheumatoid arthritis, inflammatory bowel\n                  disease, severe psoriasis, systemic lupus erythematosus) that requires use of\n                  systemic corticosteroids in the 6 months before screening.\n\n               -  Gastrointestinal disease which could interfere with the absorption of\n                  Piclidenoson.\n\n               -  Any malignancy within 5 years.\n\n               -  Cardiomyopathy, significant ischemic cardiac or cerebrovascular disease\n                  (including history of angina, myocardial infarction, or interventional procedure\n                  for coronary artery disease), or cardiac rhythm disorder.\n\n               -  QTcF interval on an average of triplicate ECGs \u2265500 msec.\n\n               -  A condition which increases proarrhythmic risk, including hypokalemia,\n                  hypomagnesemia, congenital Long QT Syndrome.\n\n               -  Ongoing or planned use of a concomitant medication that is on the CredibleMedsTM\n                  list of drugs known to cause Torsades de Pointes, unless the patient can be\n                  screened and monitored under the guidelines proposed by Giudicessi (Mayo Clinic\n                  Proceedings 2020).\n\n               -  Chronic pulmonary disease (e.g., chronic obstructive pulmonary disease)\n                  associated with functional impairment.\n\n               -  Pancreatitis.\n\n               -  Severe or uncontrolled psychiatric disorder.\n\n               -  Active seizure disorder defined by either an untreated seizure disorder or\n                  continued seizure activity within the preceding year despite treatment with\n                  anti-seizure medication.\n\n               -  Bone marrow or solid organ transplantation.\n\n               -  Other significant medical condition that may require intervention during the\n                  trial (such as uncontrolled diabetes or thyroid disease), or patients for whom\n                  participation in the trial would increase their risk.\n\n               -  Current alcohol abuse.\n\n               -  Drug abuse within the previous 6 months before screening, with the exception of\n                  cannabinoids and their derivatives.\n\n          6. Any of the following abnormal laboratory test in the 12 months prior to enrollment:\n\n               -  Platelet count <90,000 cells/mm3\n\n               -  White blood cell (WBC) count <3,000 cells/mm3\n\n               -  Absolute neutrophil count (ANC) <1,500 cells/mm3\n\n               -  Hemoglobin <11 g/dL for women and <12 g/dL for men\n\n               -  Estimated creatinine clearance (CrCl) < 50 mL/min by Cockroft-Gault formulation\n\n               -  Bilirubin level \u2265 2.5 mg/dL unless due to Gilbert's syndrome\n\n               -  Serum albumin level <3.5 g/dL\n\n               -  International normalized ratio (INR) \u22651.5."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Zivit Harpaz", "role": "Study Director", "affiliation": "Can-Fite BioPharma Ltd"}, "overall_contact": {"last_name": "Zivit Harpaz", "phone": "+972-3-9241114", "email": "Zivit@canfite.co.il"}, "location": {"facility": {"name": "Rabin Medical Center", "address": {"city": "Petah tikva", "country": "Israel"}}}, "location_countries": {"country": "Israel"}, "link": {"url": "http://canfite.co.il", "description": "Sponsor website"}, "reference": [{"citation": "Fishman P, Cohen S. The A3 adenosine receptor (A3AR): therapeutic target and predictive biological marker in rheumatoid arthritis. Clin Rheumatol. 2016 Sep;35(9):2359-62. doi: 10.1007/s10067-016-3202-4. Epub 2016 Feb 17. Review.", "PMID": "26886128"}, {"citation": "Cohen S, Fishman P. Targeting the A(3) adenosine receptor to treat cytokine release syndrome in cancer immunotherapy. Drug Des Devel Ther. 2019 Jan 30;13:491-497. doi: 10.2147/DDDT.S195294. eCollection 2019. Review.", "PMID": "30787591"}], "verification_date": "April 2020", "study_first_submitted": "April 1, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": ["Coronavirus Infections", "Severe Acute Respiratory Syndrome"]}, "patient_data": {"sharing_ipd": "Yes", "ipd_description": "To be determined", "ipd_info_type": ["Study Protocol", "Clinical Study Report (CSR)"], "ipd_time_frame": "January 2021, indefinitely", "ipd_access_criteria": "To be determined"}}}
+{
+    "clinical_study": {
+        "@rank": "82",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04333472"
+        },
+        "id_info": {
+            "org_study_id": "CAN-COR-1",
+            "nct_id": "NCT04333472"
+        },
+        "brief_title": "Piclidenoson for Treatment of COVID-19",
+        "official_title": "Piclidenoson for Treatment of COVID-19 - A Randomized Open Label Pilot Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Can-Fite BioPharma",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "Rabin Medical Center",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Can-Fite BioPharma",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "Patients with documented COVID-19 infection will be randomized 1:1 to receive Piclidenoson 2\n      mg Q12H orally with standard care (intervention arm) or standard care alone (control arm)."
+        },
+        "detailed_description": {
+            "textblock": "Upon admission to the hospital, patients with documented COVID-19 infection will be\n      randomized 1:1 to receive Piclidenoson 2 mg Q12H orally with standard care (intervention arm)\n      or standard care alone (control arm). Piclidenoson will be administered on an empty stomach,\n      i.e, 1 hour before or 2 hours after eating. Patients' vital signs (temperature, blood\n      pressure, pulse rate per minute, breath rate per minute and oxygen saturation), will be\n      monitored according to standard of care (SoC). Symptom questionnaires will be collected from\n      patients once daily during the period of hospitalization. Efficacy of Piclidenoson will be\n      assessed by analysis of COVID-19 (Fluxergy, Irvine CA), in respiratory secretions obtained by\n      nasopharyngeal and oropharyngeal swabs, collected consecutively at day 1, 3, 5, 7, 10, 14, 21\n      and 28 following initial diagnosis, in addition to its effect on different clinical outcomes.\n      Safety and tolerability of Piclidenoson will be assessed by AE monitoring, vital signs and\n      ECG assessment and clinical laboratory tests (CBC, and extended chemistry panel)."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 6, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 6, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Duration of viral shedding in days",
+                "time_frame": "28 days",
+                "description": "The duration of viral shedding in days since initial diagnosis, as determined by RT-PCR to COVID-19"
+            },
+            {
+                "measure": "Time to clinical recovery (TTCR) in days",
+                "time_frame": "28 days",
+                "description": "TTCR is defined as the time (in hours) from initiation of trial treatment until normalization of fever, respiratory rate, and oxygen saturation, and alleviation of cough, sustained for at least 72 hours"
+            },
+            {
+                "measure": "Treatment-emergent adverse events (AEs)",
+                "time_frame": "28 days",
+                "description": "Proportion of patients experiencing AEs"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Requirement for non-invasive or mechanical ventilation",
+                "time_frame": "28 days",
+                "description": "Proportion of patients requiring non-invasive or mechanical ventilation"
+            },
+            {
+                "measure": "Length of hospital stay in days",
+                "time_frame": "28 days",
+                "description": "Duration of hospital stay"
+            },
+            {
+                "measure": "Estimated PaO2/FiO2 ratio on day of discharge",
+                "time_frame": "28 days",
+                "description": "Ratio of arterial oxygen partial pressure to fractional inspired oxygen"
+            },
+            {
+                "measure": "All-cause mortality",
+                "time_frame": "28 days",
+                "description": "Proportion of patients who die"
+            },
+            {
+                "measure": "Patients reaching undetectable COVID-19 virus levels in respiratory secretions",
+                "time_frame": "28 days",
+                "description": "Proportion of patients reaching undetectable COVID-19 virus levels in respiratory secretions at selected timepoints"
+            },
+            {
+                "measure": "Duration of symptoms and signs of respiratory infection in days",
+                "time_frame": "28 days",
+                "description": "Duration of symptoms and signs of respiratory infection associated with COVID-19"
+            },
+            {
+                "measure": "Need for supportive respiratory management",
+                "time_frame": "28 days",
+                "description": "Proportion of patients who need for supportive respiratory management"
+            },
+            {
+                "measure": "Viral load",
+                "time_frame": "28 days",
+                "description": "COVID-19 viral load in respiratory secretions using a semi-quantitative method"
+            },
+            {
+                "measure": "Treatment-emergent serious AEs (SAEs)",
+                "time_frame": "28 days",
+                "description": "Proportion of patients experiencing AEs"
+            },
+            {
+                "measure": "AEs leading to withdrawal",
+                "time_frame": "28 days",
+                "description": "Rate of AEs leading to early discontinuation of trial treatment"
+            },
+            {
+                "measure": "Treatment-emergent abnormalities in clinical laboratory parameters",
+                "time_frame": "28 days",
+                "description": "Proportion of patients experiencing treatment-emergent changes in clinical laboratory"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "40"
+        },
+        "condition": [
+            "COVID-19",
+            "Coronavirus Infection"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Piclidenoson",
+                "arm_group_type": "Experimental",
+                "description": "Piclidenoson 2 mg every 12 hours orally added to standard of care"
+            },
+            {
+                "arm_group_label": "Standard of Care",
+                "arm_group_type": "No Intervention",
+                "description": "Standard treatment"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Piclidenoson",
+            "description": "Piclidenoson 2 mg orally every 12 hours for up to 21 days",
+            "arm_group_label": "Piclidenoson",
+            "other_name": "CF101"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Female and male patients over the age of 18.\n\n          2. Confirmed COVID-19 infection by PCR analysis.\n\n          3. Hospitalized at Hasharon Medical Center.\n\n          4. Display moderate to severe symptoms of respiratory infection.\n\n          5. Willing and able to convey informed consent.\n\n          6. Willing and able to comply with all study procedures\n\n          7. Female patients of childbearing potential and male patients with partners of\n             childbearing potential must agree to use adequate methods of contraception during the\n             study and through 90 days after the last dose of study medication. Female patients of\n             childbearing potential are all those except patients who are surgically sterile, who\n             have medically documented ovarian failure, or who are at least 1 year postmenopausal.\n\n        Exclusion Criteria:\n\n          1. Treatment with interferons, immunomodulators and/or immunosuppressive or B-cell\n             depleting medications within 12 months before screening.\n\n          2. Previous receipt of Piclidenoson.\n\n          3. Patients with respiratory infection requiring invasive or non-invasive ventilatory\n             support (bipap or intubation and mechanical ventilation).\n\n          4. Participation in a clinical trial with use of any investigational drug within 30 days\n             before screening.\n\n          5. History of any of the following diseases or conditions:\n\n               -  Advanced or decompensated liver disease (presence or history of bleeding varices,\n                  ascites, encephalopathy or hepato-renal syndrome)\n\n               -  Immunologically mediated disease (e.g., rheumatoid arthritis, inflammatory bowel\n                  disease, severe psoriasis, systemic lupus erythematosus) that requires use of\n                  systemic corticosteroids in the 6 months before screening.\n\n               -  Gastrointestinal disease which could interfere with the absorption of\n                  Piclidenoson.\n\n               -  Any malignancy within 5 years.\n\n               -  Cardiomyopathy, significant ischemic cardiac or cerebrovascular disease\n                  (including history of angina, myocardial infarction, or interventional procedure\n                  for coronary artery disease), or cardiac rhythm disorder.\n\n               -  QTcF interval on an average of triplicate ECGs \u2265500 msec.\n\n               -  A condition which increases proarrhythmic risk, including hypokalemia,\n                  hypomagnesemia, congenital Long QT Syndrome.\n\n               -  Ongoing or planned use of a concomitant medication that is on the CredibleMedsTM\n                  list of drugs known to cause Torsades de Pointes, unless the patient can be\n                  screened and monitored under the guidelines proposed by Giudicessi (Mayo Clinic\n                  Proceedings 2020).\n\n               -  Chronic pulmonary disease (e.g., chronic obstructive pulmonary disease)\n                  associated with functional impairment.\n\n               -  Pancreatitis.\n\n               -  Severe or uncontrolled psychiatric disorder.\n\n               -  Active seizure disorder defined by either an untreated seizure disorder or\n                  continued seizure activity within the preceding year despite treatment with\n                  anti-seizure medication.\n\n               -  Bone marrow or solid organ transplantation.\n\n               -  Other significant medical condition that may require intervention during the\n                  trial (such as uncontrolled diabetes or thyroid disease), or patients for whom\n                  participation in the trial would increase their risk.\n\n               -  Current alcohol abuse.\n\n               -  Drug abuse within the previous 6 months before screening, with the exception of\n                  cannabinoids and their derivatives.\n\n          6. Any of the following abnormal laboratory test in the 12 months prior to enrollment:\n\n               -  Platelet count <90,000 cells/mm3\n\n               -  White blood cell (WBC) count <3,000 cells/mm3\n\n               -  Absolute neutrophil count (ANC) <1,500 cells/mm3\n\n               -  Hemoglobin <11 g/dL for women and <12 g/dL for men\n\n               -  Estimated creatinine clearance (CrCl) < 50 mL/min by Cockroft-Gault formulation\n\n               -  Bilirubin level \u2265 2.5 mg/dL unless due to Gilbert's syndrome\n\n               -  Serum albumin level <3.5 g/dL\n\n               -  International normalized ratio (INR) \u22651.5."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Zivit Harpaz",
+            "role": "Study Director",
+            "affiliation": "Can-Fite BioPharma Ltd"
+        },
+        "overall_contact": {
+            "last_name": "Zivit Harpaz",
+            "phone": "+972-3-9241114",
+            "email": "Zivit@canfite.co.il"
+        },
+        "location": {
+            "facility": {
+                "name": "Rabin Medical Center",
+                "address": {
+                    "city": "Petah tikva",
+                    "country": "Israel"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Israel"
+        },
+        "link": {
+            "url": "http://canfite.co.il",
+            "description": "Sponsor website"
+        },
+        "reference": [
+            {
+                "citation": "Fishman P, Cohen S. The A3 adenosine receptor (A3AR): therapeutic target and predictive biological marker in rheumatoid arthritis. Clin Rheumatol. 2016 Sep;35(9):2359-62. doi: 10.1007/s10067-016-3202-4. Epub 2016 Feb 17. Review.",
+                "PMID": "26886128"
+            },
+            {
+                "citation": "Cohen S, Fishman P. Targeting the A(3) adenosine receptor to treat cytokine release syndrome in cancer immunotherapy. Drug Des Devel Ther. 2019 Jan 30;13:491-497. doi: 10.2147/DDDT.S195294. eCollection 2019. Review.",
+                "PMID": "30787591"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "To be determined",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Clinical Study Report (CSR)"
+            ],
+            "ipd_time_frame": "January 2021, indefinitely",
+            "ipd_access_criteria": "To be determined"
+        }
+    }
+}

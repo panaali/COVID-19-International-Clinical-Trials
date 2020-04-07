@@ -1,1 +1,174 @@
-{"clinical_study": {"@rank": "86", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04331665"}, "id_info": {"org_study_id": "U-DEPLOY: RUX-COVID", "secondary_id": "20-5315", "nct_id": "NCT04331665"}, "brief_title": "Study of the Efficacy and Safety of Ruxolitinib to Treat COVID-19 Pneumonia", "official_title": "A Single Arm Open-label Clinical Study to Investigate the Efficacy and Safety of Ruxolitinib for the Treatment of COVID-19 Pneumonia", "sponsors": {"lead_sponsor": {"agency": "University Health Network, Toronto", "agency_class": "Other"}}, "source": "University Health Network, Toronto", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The purpose of this study is to determine the safety and efficacy of the drug ruxolitinib in\n      people diagnosed with COVID-19 pneumonia by determining the number of people whose conditions\n      worsen (requiring machines to help with breathing or needing supplemental oxygen) while\n      receiving the drug.\n\n      This is a sub-study of the U-DEPLOY study: UHN Umbrella Trial Defining Coordinated Approach\n      to Pandemic Trials of COVID-19 and Data Harmonization to Accelerate Discovery. U-DEPLOY helps\n      to facilitate timely conduct of studies across the University Health Network and other\n      centers."}, "detailed_description": {"textblock": "Multifocal interstitial pneumonia is the most common cause of deterioration in people with\n      COVID-19. This is attributed to a severe reaction where releases too many cytokines (proteins\n      that play an important role in immune responses) which rush into the lungs resulting in lung\n      inflammation and fluid buildup. This can lead to damage to the lungs and leading to breathing\n      problems. Ruxolitinib when given early in the disease, may prevent the overproduction of\n      cytokines which, in turn, may prevent lung damage."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 6, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "January 31, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "October 30, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Proportion of patients with COVID-19 pneumonia who become critically ill (defined as requiring mechanical ventilation and/or FiO2 of 60% of more)", "time_frame": "6 months"}, "secondary_outcome": [{"measure": "All cause mortality rate", "time_frame": "9 months"}, {"measure": "Average duration of hospital stay", "time_frame": "9 months"}, {"measure": "Number of occurrence of secondary infections", "time_frame": "9 months"}], "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "64"}, "condition": ["COVID-19", "Pneumonia"], "arm_group": {"arm_group_label": "Ruxolitinib to prevent COVID-19 pneumonia", "arm_group_type": "Experimental", "description": "All participants will receive ruxolitinib at at 10 mg, twice a day, for 14 days, followed by 5 mg, twice a day, for 2 days and 5 mg, once daily, for 1 day."}, "intervention": {"intervention_type": "Drug", "intervention_name": "Ruxolitinib", "description": "Ruxolitinib is an inhibitor of JAK1 and JAK2 (proteins important in cell signalling) approved for the treatment of myelofibrosis, polycythemia vera, and graft-versus-host disease.", "arm_group_label": "Ruxolitinib to prevent COVID-19 pneumonia", "other_name": "JAKAVI"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  COVID-19 infection diagnosed by nasopharyngeal sample\n\n          -  Need for supplemental oxygen to maintain oxygen saturation > 93%\n\n          -  12 years of age or older\n\n        Exclusion Criteria:\n\n          -  Neutrophils < 1 x 10^9/L\n\n          -  Platelets < 50 x 10^9/L\n\n          -  Total bilirubin, aspartate aminotransferase (AST), or alanine aminotransferase (ALT) >\n             5x upper limit of normal (ULN)\n\n          -  Creatinine clearance (CrCl) < 15 mL/minute\n\n          -  Pregnant women\n\n          -  Patients requiring invasive mechanical ventilation. Patients requiring non-invasive\n             mechanical ventilation (e.g., BiPAP) are eligible.\n\n          -  Patients who require supplemental oxygen support prior to COVID-19 infection.\n\n          -  Patients who are on ruxolitinib."}, "gender": "All", "minimum_age": "12 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": [{"last_name": "Steven Chan, M.D.", "role": "Principal Investigator", "affiliation": "Princess Margaret Cancer Centre"}, {"last_name": "Vikas Gupta, M.D.", "role": "Principal Investigator", "affiliation": "Princess Margaret Cancer Centre"}], "overall_contact": {"last_name": "Steven Chan, M.D.", "phone": "416-946-4501", "phone_ext": "2253", "email": "steven.chan@uhn.ca"}, "location": {"facility": {"name": "Princess Margaret Cancer Centre", "address": {"city": "Toronto", "state": "Ontario", "zip": "M5G 2M9", "country": "Canada"}}, "contact": {"last_name": "Steven Chan, M.D.", "phone": "416-946-4501", "phone_ext": "2253", "email": "steven.chan@uhn.ca"}, "investigator": [{"last_name": "Steven Chan, M.D.", "role": "Principal Investigator"}, {"last_name": "Vikas Gupta, M.D.", "role": "Principal Investigator"}]}, "location_countries": {"country": "Canada"}, "verification_date": "April 2020", "study_first_submitted": "April 1, 2020", "study_first_submitted_qc": "April 1, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Pneumonia"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "86",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04331665"
+        },
+        "id_info": {
+            "org_study_id": "U-DEPLOY: RUX-COVID",
+            "secondary_id": "20-5315",
+            "nct_id": "NCT04331665"
+        },
+        "brief_title": "Study of the Efficacy and Safety of Ruxolitinib to Treat COVID-19 Pneumonia",
+        "official_title": "A Single Arm Open-label Clinical Study to Investigate the Efficacy and Safety of Ruxolitinib for the Treatment of COVID-19 Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Health Network, Toronto",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Health Network, Toronto",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this study is to determine the safety and efficacy of the drug ruxolitinib in\n      people diagnosed with COVID-19 pneumonia by determining the number of people whose conditions\n      worsen (requiring machines to help with breathing or needing supplemental oxygen) while\n      receiving the drug.\n\n      This is a sub-study of the U-DEPLOY study: UHN Umbrella Trial Defining Coordinated Approach\n      to Pandemic Trials of COVID-19 and Data Harmonization to Accelerate Discovery. U-DEPLOY helps\n      to facilitate timely conduct of studies across the University Health Network and other\n      centers."
+        },
+        "detailed_description": {
+            "textblock": "Multifocal interstitial pneumonia is the most common cause of deterioration in people with\n      COVID-19. This is attributed to a severe reaction where releases too many cytokines (proteins\n      that play an important role in immune responses) which rush into the lungs resulting in lung\n      inflammation and fluid buildup. This can lead to damage to the lungs and leading to breathing\n      problems. Ruxolitinib when given early in the disease, may prevent the overproduction of\n      cytokines which, in turn, may prevent lung damage."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "January 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 30, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Proportion of patients with COVID-19 pneumonia who become critically ill (defined as requiring mechanical ventilation and/or FiO2 of 60% of more)",
+            "time_frame": "6 months"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "All cause mortality rate",
+                "time_frame": "9 months"
+            },
+            {
+                "measure": "Average duration of hospital stay",
+                "time_frame": "9 months"
+            },
+            {
+                "measure": "Number of occurrence of secondary infections",
+                "time_frame": "9 months"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "64"
+        },
+        "condition": [
+            "COVID-19",
+            "Pneumonia"
+        ],
+        "arm_group": {
+            "arm_group_label": "Ruxolitinib to prevent COVID-19 pneumonia",
+            "arm_group_type": "Experimental",
+            "description": "All participants will receive ruxolitinib at at 10 mg, twice a day, for 14 days, followed by 5 mg, twice a day, for 2 days and 5 mg, once daily, for 1 day."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Ruxolitinib",
+            "description": "Ruxolitinib is an inhibitor of JAK1 and JAK2 (proteins important in cell signalling) approved for the treatment of myelofibrosis, polycythemia vera, and graft-versus-host disease.",
+            "arm_group_label": "Ruxolitinib to prevent COVID-19 pneumonia",
+            "other_name": "JAKAVI"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 infection diagnosed by nasopharyngeal sample\n\n          -  Need for supplemental oxygen to maintain oxygen saturation > 93%\n\n          -  12 years of age or older\n\n        Exclusion Criteria:\n\n          -  Neutrophils < 1 x 10^9/L\n\n          -  Platelets < 50 x 10^9/L\n\n          -  Total bilirubin, aspartate aminotransferase (AST), or alanine aminotransferase (ALT) >\n             5x upper limit of normal (ULN)\n\n          -  Creatinine clearance (CrCl) < 15 mL/minute\n\n          -  Pregnant women\n\n          -  Patients requiring invasive mechanical ventilation. Patients requiring non-invasive\n             mechanical ventilation (e.g., BiPAP) are eligible.\n\n          -  Patients who require supplemental oxygen support prior to COVID-19 infection.\n\n          -  Patients who are on ruxolitinib."
+            },
+            "gender": "All",
+            "minimum_age": "12 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Steven Chan, M.D.",
+                "role": "Principal Investigator",
+                "affiliation": "Princess Margaret Cancer Centre"
+            },
+            {
+                "last_name": "Vikas Gupta, M.D.",
+                "role": "Principal Investigator",
+                "affiliation": "Princess Margaret Cancer Centre"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Steven Chan, M.D.",
+            "phone": "416-946-4501",
+            "phone_ext": "2253",
+            "email": "steven.chan@uhn.ca"
+        },
+        "location": {
+            "facility": {
+                "name": "Princess Margaret Cancer Centre",
+                "address": {
+                    "city": "Toronto",
+                    "state": "Ontario",
+                    "zip": "M5G 2M9",
+                    "country": "Canada"
+                }
+            },
+            "contact": {
+                "last_name": "Steven Chan, M.D.",
+                "phone": "416-946-4501",
+                "phone_ext": "2253",
+                "email": "steven.chan@uhn.ca"
+            },
+            "investigator": [
+                {
+                    "last_name": "Steven Chan, M.D.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Vikas Gupta, M.D.",
+                    "role": "Principal Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Canada"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 1, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

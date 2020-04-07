@@ -1,1 +1,206 @@
-{"clinical_study": {"@rank": "219", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04335773"}, "id_info": {"org_study_id": "20/03794", "nct_id": "NCT04335773"}, "brief_title": "COVID-19 in Hospitalised Norwegian Children - Risk Factors, Outcomes and Immunology", "official_title": "COVID-19 in Hospitalised Norwegian Children - Risk Factors, Outcomes and Immunology", "sponsors": {"lead_sponsor": {"agency": "University Hospital, Akershus", "agency_class": "Other"}, "collaborator": [{"agency": "St. Olavs Hospital", "agency_class": "Other"}, {"agency": "Helse Stavanger HF", "agency_class": "Other"}, {"agency": "Haukeland University Hospital", "agency_class": "Other"}, {"agency": "University Hospital of North Norway", "agency_class": "Other"}, {"agency": "Alesund Hospital", "agency_class": "Other"}, {"agency": "Norwegian Institute of Public Health", "agency_class": "Other"}, {"agency": "The University of New South Wales", "agency_class": "Other"}, {"agency": "University of Bristol", "agency_class": "Other"}, {"agency": "Sykehuset Ostfold", "agency_class": "Other"}, {"agency": "Nordlandssykehuset HF", "agency_class": "Other"}, {"agency": "Vestre Viken Hospital Trust", "agency_class": "Other"}, {"agency": "Helse Fonna", "agency_class": "Other"}, {"agency": "Levanger Hospital", "agency_class": "Other"}, {"agency": "Oslo University Hospital", "agency_class": "Other"}, {"agency": "Sykehuset Innlandet HF", "agency_class": "Other"}]}, "source": "University Hospital, Akershus", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Prospective cohort study of COVID-19 infection among children in Norway."}, "detailed_description": {"textblock": "This nation-wide, prospective cohort study of COVID-19 infection addresses three main issues:\n      1) Epidemiological risk factors; 2) Natural history (including immunological mechanisms and\n      long term effects) and 3) Support of infection prevention. Also, the study focuses solely on\n      children.\n\n      Children (0-18 years of age) admitted to hospital with suspected COVID-19 are eligible (Fig.\n      1). Those with confirmed COVID-19 serve as cases, whereas those with non-COVID-19 serve as\n      controls; both groups will be followed prospectively for 6 months. Three objectives/Work\n      Packages (WPs) are defined:\n\n        -  In WP1, we will investigate risk factors for severe outcome of the acute infection;\n           potential risk factors include sex, age, comorbidities, initial clinical findings,\n           infectious load, and genetic markers.\n\n        -  In WP2, we will investigate the immunological response to acute infection, focusing on\n           initial innate host response and its associations to inflammatory enhancement, genetic\n           factors and clinical course.\n\n        -  In WP3, we will investigate the prevalence and risk factors of long-lasting\n           complication, in particular the development of post-infectious chronic fatigue"}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 31, 2030"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 31, 2030"}, "study_type": "Observational [Patient Registry]", "has_expanded_access": "No", "study_design_info": {"observational_model": "Case-Control", "time_perspective": "Prospective"}, "target_duration": "6 Months", "primary_outcome": [{"measure": "Risk Factors", "time_frame": "2030", "description": "Which are the risk factors of a severe acute infection"}, {"measure": "Immunulogical mechanisms", "time_frame": "2030", "description": "Immunological response to acute infection, focusing on initial innate host response and its associations to inflammatory enhancement, genetic factors and clinical course."}, {"measure": "Long term outcome", "time_frame": "2030", "description": "prevalence and risk factors of long-lasting complication, in particular the development of post-infectious chronic fatigue"}], "number_of_groups": "2", "enrollment": {"@type": "Anticipated", "#text": "350"}, "condition": ["Pediatric Respiratory Diseases", "COVID", "Fatigue Post Viral"], "arm_group": [{"arm_group_label": "Sars-CoV-2 positive", "description": "Children positive for SARS-CoV-2"}, {"arm_group_label": "SARS-CoV-2 negative", "description": "Children negative SARS-CoV-2"}], "biospec_retention": "Samples With DNA", "biospec_descr": {"textblock": "Blodsamples, Eluate from nasopharyngeal sample, Urin, Feces,"}, "eligibility": {"study_pop": {"textblock": "Children seeking hospital care i Norway"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n        Suspected covid-19 infection and age 0-18 years\n\n        Exclusion Criteria:\n\n        Age >18 years"}, "gender": "All", "minimum_age": "N/A", "maximum_age": "18 Years", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Christopher Inchley, Phd", "phone": "90069276", "email": "chris.inchley@gmail.com"}, "overall_contact_backup": {"last_name": "Lise Beier Havdal", "phone": "45663188", "email": "lisebeierommen@gmail.com"}, "verification_date": "April 2020", "study_first_submitted": "April 3, 2020", "study_first_submitted_qc": "April 3, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 3, 2020", "last_update_submitted_qc": "April 3, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University Hospital, Akershus", "investigator_full_name": "Christopher Inchley", "investigator_title": "Mr"}, "condition_browse": {"mesh_term": ["Respiration Disorders", "Fatigue", "Respiratory Tract Diseases"]}}}
+{
+    "clinical_study": {
+        "@rank": "219",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04335773"
+        },
+        "id_info": {
+            "org_study_id": "20/03794",
+            "nct_id": "NCT04335773"
+        },
+        "brief_title": "COVID-19 in Hospitalised Norwegian Children - Risk Factors, Outcomes and Immunology",
+        "official_title": "COVID-19 in Hospitalised Norwegian Children - Risk Factors, Outcomes and Immunology",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Akershus",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "St. Olavs Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Helse Stavanger HF",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Haukeland University Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "University Hospital of North Norway",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Alesund Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Norwegian Institute of Public Health",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "The University of New South Wales",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "University of Bristol",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Sykehuset Ostfold",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Nordlandssykehuset HF",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Vestre Viken Hospital Trust",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Helse Fonna",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Levanger Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Oslo University Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Sykehuset Innlandet HF",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University Hospital, Akershus",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Prospective cohort study of COVID-19 infection among children in Norway."
+        },
+        "detailed_description": {
+            "textblock": "This nation-wide, prospective cohort study of COVID-19 infection addresses three main issues:\n      1) Epidemiological risk factors; 2) Natural history (including immunological mechanisms and\n      long term effects) and 3) Support of infection prevention. Also, the study focuses solely on\n      children.\n\n      Children (0-18 years of age) admitted to hospital with suspected COVID-19 are eligible (Fig.\n      1). Those with confirmed COVID-19 serve as cases, whereas those with non-COVID-19 serve as\n      controls; both groups will be followed prospectively for 6 months. Three objectives/Work\n      Packages (WPs) are defined:\n\n        -  In WP1, we will investigate risk factors for severe outcome of the acute infection;\n           potential risk factors include sex, age, comorbidities, initial clinical findings,\n           infectious load, and genetic markers.\n\n        -  In WP2, we will investigate the immunological response to acute infection, focusing on\n           initial innate host response and its associations to inflammatory enhancement, genetic\n           factors and clinical course.\n\n        -  In WP3, we will investigate the prevalence and risk factors of long-lasting\n           complication, in particular the development of post-infectious chronic fatigue"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2030"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2030"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "6 Months",
+        "primary_outcome": [
+            {
+                "measure": "Risk Factors",
+                "time_frame": "2030",
+                "description": "Which are the risk factors of a severe acute infection"
+            },
+            {
+                "measure": "Immunulogical mechanisms",
+                "time_frame": "2030",
+                "description": "Immunological response to acute infection, focusing on initial innate host response and its associations to inflammatory enhancement, genetic factors and clinical course."
+            },
+            {
+                "measure": "Long term outcome",
+                "time_frame": "2030",
+                "description": "prevalence and risk factors of long-lasting complication, in particular the development of post-infectious chronic fatigue"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "350"
+        },
+        "condition": [
+            "Pediatric Respiratory Diseases",
+            "COVID",
+            "Fatigue Post Viral"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Sars-CoV-2 positive",
+                "description": "Children positive for SARS-CoV-2"
+            },
+            {
+                "arm_group_label": "SARS-CoV-2 negative",
+                "description": "Children negative SARS-CoV-2"
+            }
+        ],
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "Blodsamples, Eluate from nasopharyngeal sample, Urin, Feces,"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Children seeking hospital care i Norway"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Suspected covid-19 infection and age 0-18 years\n\n        Exclusion Criteria:\n\n        Age >18 years"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "18 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Christopher Inchley, Phd",
+            "phone": "90069276",
+            "email": "chris.inchley@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Lise Beier Havdal",
+            "phone": "45663188",
+            "email": "lisebeierommen@gmail.com"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University Hospital, Akershus",
+            "investigator_full_name": "Christopher Inchley",
+            "investigator_title": "Mr"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Respiration Disorders",
+                "Fatigue",
+                "Respiratory Tract Diseases"
+            ]
+        }
+    }
+}

@@ -1,1 +1,256 @@
-{"clinical_study": {"@rank": "7", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04335123"}, "id_info": {"org_study_id": "STUDY00145514", "nct_id": "NCT04335123"}, "brief_title": "Study of Open Label Losartan in COVID-19", "official_title": "An Open Label Phase 1 Trial of Losartan for Worsening Respiratory Illness in COVID-19", "sponsors": {"lead_sponsor": {"agency": "University of Kansas Medical Center", "agency_class": "Other"}}, "source": "University of Kansas Medical Center", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Briefly, 50 patients with COVID-19 and respiratory failure who meet eligibility criteria and\n      agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If\n      parameters are met the dose of losartan will be increased to 50 mg daily on study day 3.\n      Participants will continue losartan until they experience resolution of respiratory failure\n      (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria\n      (detailed below) or complete 14 days of therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group."}, "detailed_description": {"textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Clinical Trial setup:\n\n      Detailed inclusion and exclusion criteria are listed below. Briefly, 50 patients with\n      COVID-19 and respiratory failure who meet criteria and agree to participation in the study\n      will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of\n      losartan will be increased to 50 mg on study day 3. Participants will continue losartan until\n      they experience resolution of respiratory failure (normal oxygen levels on room air), are\n      discharged from the hospital, meet stoppage criteria (detailed below) or complete 14 days of\n      therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 25, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "October 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "September 2020"}, "phase": "Phase 1", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "intervention_model_description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg on study day 3. Patients and/or surrogate decision maker who do not give consent to treatment will be asked to allow collection of data from their medical record for use as a control group.", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Number of participants with treatment-related adverse events as assessed by protocol definition of AE", "time_frame": "14 days of losartan treatment", "description": "Safety will be reported based on Protocol defined AEs.\nFor the purpose of this protocol, an AE will be defined as as any untoward medical occurrence in a subject during the study listed under DMSB - Anticipated Adverse Events and Grading Scale section of this protocol as well as safety monitoring data listed on protocol table 1 as well as stoppage criteria for losartan.\nThe event does not necessarily have a causal relationship with the treatment. AEs will be collected for both study groups, treatment and control from the time the ICF is signed until the subject completes study participation."}, "secondary_outcome": [{"measure": "Number of days on supplemental oxygen in respiratory failure due to COVID-19", "time_frame": "14 days of losartan treatment", "description": "Number of days on supplemental oxygen in respiratory failure due to COVID-19"}, {"measure": "Incidence of mechanical ventilation use", "time_frame": "14 days of losartan treatment", "description": "Incidence of mechanical ventilation use"}, {"measure": "Days on mechanical ventilation", "time_frame": "14 days of losartan treatment", "description": "Days on mechanical ventilation"}, {"measure": "Incidence of non-invasive positive pressure ventilation or heated high flow nasal cannula use", "time_frame": "14 days of losartan treatment", "description": "Incidence of non-invasive positive pressure ventilation or heated high flow nasal cannula use"}, {"measure": "Days on non-invasive positive pressure ventilation or high flow nasal cannula", "time_frame": "14 days of losartan treatment", "description": "Days on non-invasive positive pressure ventilation or high flow nasal cannula"}, {"measure": "Incidence of transfer to ICU from non-ICU hospital bed", "time_frame": "14 days of losartan treatment", "description": "Incidence of transfer to ICU from non-ICU hospital bed"}, {"measure": "ICU length of stay (days)", "time_frame": "14 days of losartan treatment", "description": "ICU length of stay (days)"}, {"measure": "30-day mortality rate", "time_frame": "30 days after diagnosis of COVID-19", "description": "30-day mortality rate"}, {"measure": "Hospital length of stay (days)", "time_frame": "14 days of losartan treatment", "description": "Hospital length of stay (days)"}, {"measure": "Cumulative incidence of severe adverse events", "time_frame": "14 days of losartan treatment", "description": "Cumulative incidence of severe adverse events"}, {"measure": "Cumulative incidence of adverse events", "time_frame": "14 days of losartan treatment", "description": "Cumulative incidence of adverse events"}, {"measure": "Change from baseline in oxygenation", "time_frame": "14 days of losartan treatment", "description": "Change from baseline in oxygenation"}, {"measure": "Incidence of medications with possible antiviral activity (hydroxychloroquine, lopinavir/ritonavir, ribavirin or remdesivir) or adjunctive therapy use (e.g., tocilizumab)", "time_frame": "14 days of losartan treatment", "description": "Incidence of medications with possible antiviral activity (hydroxychloroquine, lopinavir/ritonavir, ribavirin or remdesivir) or adjunctive therapy use (e.g., tocilizumab)"}, {"measure": "Incidence (and length in days) of extracorporeal membrane oxygenation use", "time_frame": "14 days of losartan treatment", "description": "Incidence (and length in days) of extracorporeal membrane oxygenation use"}, {"measure": "Incidence (and length in days) of renal replacement therapy use", "time_frame": "14 days of losartan treatment", "description": "Incidence (and length in days) of renal replacement therapy use"}, {"measure": "Intolerance of high dose (50mg) losartan after tolerating 25mg", "time_frame": "14 days of losartan treatment", "description": "Intolerance of high dose (50mg) losartan after tolerating 25mg"}], "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "50"}, "condition": "COVID-19", "arm_group": {"arm_group_label": "Open Label Losartan", "arm_group_type": "Experimental", "description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg daily on study day 3. Participants will continue losartan until they experience resolution of respiratory failure (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria (detailed below) or complete 14 days of therapy."}, "intervention": {"intervention_type": "Drug", "intervention_name": "Losartan", "description": "25 mg QD from day 0 to day 3. Dose escalation to 50 mg QD until study completion", "arm_group_label": "Open Label Losartan", "other_name": "Cozaar"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Age >18 years admitted to the University of Kansas Health System.\n\n          -  Confirmation of infection with SARS-CoV-2 by PCR testing.\n\n          -  Hypoxic respiratory failure\n\n             o Requiring mechanical ventilation or oxygen, an oxygen saturation (SpO2) \u226494% or a\n             PaO2/FiO2 (P/F) ratio <300 or tachypnea (respiratory rate \u226524 breaths/min).\n\n          -  Other concomitant medications such as antivirals and hydroxychloroquine are allowed.\n\n        Exclusion Criteria:\n\n          -  Pregnancy.\n\n          -  Respiratory failure due to a process other than COVID-19.\n\n          -  Intolerance to ARBs.\n\n          -  Current treatment with an angiotensin receptor blocker (ARB) or angiotensin converting\n             enzyme (ACE) inhibitor.\n\n          -  Current chronic use of medication with known interactions with losartan including\n             NSAIDs (intermittent prior use is acceptable), potassium supplementation aliskiren.\n\n          -  Blood pressure less than 90 mm Hg systolic or 60 mm Hg diastolic recorded on at least\n             two readings 30 min apart.\n\n          -  Need for vasopressors, unless norepinephrine \u22640.1 \u00b5g/kg/min\n\n          -  need for vasopressors.\n\n          -  Hyperkalemia (serum K+ >5.5 mM).\n\n          -  Known cardiac failure (left ventricular ejection fraction \u226435%), renal insufficiency\n             (Cockcroft-Gault <30 mL/min/1.73 m2 or urinary output <20 mL/h), hepatic failure (LFTs\n             > 5x normal upper limit).\n\n          -  Known renal artery stenosis.\n\n          -  Neurological, psychiatric, endocrine or neoplastic diseases that are judged to\n             interfere with participation in the study.\n\n          -  On another interventional trial (including one for COVID-19) that excludes\n             participation."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Matthias Salathe", "role": "Principal Investigator", "affiliation": "University of Kansas Medical Center"}, "overall_contact": {"last_name": "Matthias Salathe, MD", "phone": "9135886000", "email": "msalathe@kumc.edu"}, "overall_contact_backup": {"last_name": "Carolina Aguiar", "phone": "9139459295", "email": "caguiar@kumc.edu"}, "location": {"facility": {"name": "University of Kansas Medical Center", "address": {"city": "Kansas City", "state": "Kansas", "zip": "66160", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "Matthias Salathe, MD", "phone": "913-588-6000", "email": "msalathe@kumc.edu"}, "contact_backup": {"last_name": "Carolina Aguiar", "phone": "9139459295", "email": "caguiar@kumc.edu"}, "investigator": [{"last_name": "Usman Nazir, MD", "role": "Sub-Investigator"}, {"last_name": "Charles Bengtson, MD", "role": "Sub-Investigator"}, {"last_name": "Lewis Satterwhite, MD", "role": "Sub-Investigator"}]}, "location_countries": {"country": "United States"}, "verification_date": "April 2020", "study_first_submitted": "March 31, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University of Kansas Medical Center", "investigator_full_name": "Matthias Salathe, MD", "investigator_title": "Professor- University of Kansas Medical Center"}, "keyword": ["COVID-19", "losartan", "respiratory failure", "SARS-CoV-2"], "intervention_browse": {"mesh_term": "Losartan"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "7",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04335123"
+        },
+        "id_info": {
+            "org_study_id": "STUDY00145514",
+            "nct_id": "NCT04335123"
+        },
+        "brief_title": "Study of Open Label Losartan in COVID-19",
+        "official_title": "An Open Label Phase 1 Trial of Losartan for Worsening Respiratory Illness in COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Kansas Medical Center",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Kansas Medical Center",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Briefly, 50 patients with COVID-19 and respiratory failure who meet eligibility criteria and\n      agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If\n      parameters are met the dose of losartan will be increased to 50 mg daily on study day 3.\n      Participants will continue losartan until they experience resolution of respiratory failure\n      (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria\n      (detailed below) or complete 14 days of therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group."
+        },
+        "detailed_description": {
+            "textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Clinical Trial setup:\n\n      Detailed inclusion and exclusion criteria are listed below. Briefly, 50 patients with\n      COVID-19 and respiratory failure who meet criteria and agree to participation in the study\n      will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of\n      losartan will be increased to 50 mg on study day 3. Participants will continue losartan until\n      they experience resolution of respiratory failure (normal oxygen levels on room air), are\n      discharged from the hospital, meet stoppage criteria (detailed below) or complete 14 days of\n      therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "phase": "Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg on study day 3. Patients and/or surrogate decision maker who do not give consent to treatment will be asked to allow collection of data from their medical record for use as a control group.",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Number of participants with treatment-related adverse events as assessed by protocol definition of AE",
+            "time_frame": "14 days of losartan treatment",
+            "description": "Safety will be reported based on Protocol defined AEs.\nFor the purpose of this protocol, an AE will be defined as as any untoward medical occurrence in a subject during the study listed under DMSB - Anticipated Adverse Events and Grading Scale section of this protocol as well as safety monitoring data listed on protocol table 1 as well as stoppage criteria for losartan.\nThe event does not necessarily have a causal relationship with the treatment. AEs will be collected for both study groups, treatment and control from the time the ICF is signed until the subject completes study participation."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of days on supplemental oxygen in respiratory failure due to COVID-19",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Number of days on supplemental oxygen in respiratory failure due to COVID-19"
+            },
+            {
+                "measure": "Incidence of mechanical ventilation use",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Incidence of mechanical ventilation use"
+            },
+            {
+                "measure": "Days on mechanical ventilation",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Days on mechanical ventilation"
+            },
+            {
+                "measure": "Incidence of non-invasive positive pressure ventilation or heated high flow nasal cannula use",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Incidence of non-invasive positive pressure ventilation or heated high flow nasal cannula use"
+            },
+            {
+                "measure": "Days on non-invasive positive pressure ventilation or high flow nasal cannula",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Days on non-invasive positive pressure ventilation or high flow nasal cannula"
+            },
+            {
+                "measure": "Incidence of transfer to ICU from non-ICU hospital bed",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Incidence of transfer to ICU from non-ICU hospital bed"
+            },
+            {
+                "measure": "ICU length of stay (days)",
+                "time_frame": "14 days of losartan treatment",
+                "description": "ICU length of stay (days)"
+            },
+            {
+                "measure": "30-day mortality rate",
+                "time_frame": "30 days after diagnosis of COVID-19",
+                "description": "30-day mortality rate"
+            },
+            {
+                "measure": "Hospital length of stay (days)",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Hospital length of stay (days)"
+            },
+            {
+                "measure": "Cumulative incidence of severe adverse events",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Cumulative incidence of severe adverse events"
+            },
+            {
+                "measure": "Cumulative incidence of adverse events",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Cumulative incidence of adverse events"
+            },
+            {
+                "measure": "Change from baseline in oxygenation",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Change from baseline in oxygenation"
+            },
+            {
+                "measure": "Incidence of medications with possible antiviral activity (hydroxychloroquine, lopinavir/ritonavir, ribavirin or remdesivir) or adjunctive therapy use (e.g., tocilizumab)",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Incidence of medications with possible antiviral activity (hydroxychloroquine, lopinavir/ritonavir, ribavirin or remdesivir) or adjunctive therapy use (e.g., tocilizumab)"
+            },
+            {
+                "measure": "Incidence (and length in days) of extracorporeal membrane oxygenation use",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Incidence (and length in days) of extracorporeal membrane oxygenation use"
+            },
+            {
+                "measure": "Incidence (and length in days) of renal replacement therapy use",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Incidence (and length in days) of renal replacement therapy use"
+            },
+            {
+                "measure": "Intolerance of high dose (50mg) losartan after tolerating 25mg",
+                "time_frame": "14 days of losartan treatment",
+                "description": "Intolerance of high dose (50mg) losartan after tolerating 25mg"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "Open Label Losartan",
+            "arm_group_type": "Experimental",
+            "description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg daily on study day 3. Participants will continue losartan until they experience resolution of respiratory failure (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria (detailed below) or complete 14 days of therapy."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Losartan",
+            "description": "25 mg QD from day 0 to day 3. Dose escalation to 50 mg QD until study completion",
+            "arm_group_label": "Open Label Losartan",
+            "other_name": "Cozaar"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age >18 years admitted to the University of Kansas Health System.\n\n          -  Confirmation of infection with SARS-CoV-2 by PCR testing.\n\n          -  Hypoxic respiratory failure\n\n             o Requiring mechanical ventilation or oxygen, an oxygen saturation (SpO2) \u226494% or a\n             PaO2/FiO2 (P/F) ratio <300 or tachypnea (respiratory rate \u226524 breaths/min).\n\n          -  Other concomitant medications such as antivirals and hydroxychloroquine are allowed.\n\n        Exclusion Criteria:\n\n          -  Pregnancy.\n\n          -  Respiratory failure due to a process other than COVID-19.\n\n          -  Intolerance to ARBs.\n\n          -  Current treatment with an angiotensin receptor blocker (ARB) or angiotensin converting\n             enzyme (ACE) inhibitor.\n\n          -  Current chronic use of medication with known interactions with losartan including\n             NSAIDs (intermittent prior use is acceptable), potassium supplementation aliskiren.\n\n          -  Blood pressure less than 90 mm Hg systolic or 60 mm Hg diastolic recorded on at least\n             two readings 30 min apart.\n\n          -  Need for vasopressors, unless norepinephrine \u22640.1 \u00b5g/kg/min\n\n          -  need for vasopressors.\n\n          -  Hyperkalemia (serum K+ >5.5 mM).\n\n          -  Known cardiac failure (left ventricular ejection fraction \u226435%), renal insufficiency\n             (Cockcroft-Gault <30 mL/min/1.73 m2 or urinary output <20 mL/h), hepatic failure (LFTs\n             > 5x normal upper limit).\n\n          -  Known renal artery stenosis.\n\n          -  Neurological, psychiatric, endocrine or neoplastic diseases that are judged to\n             interfere with participation in the study.\n\n          -  On another interventional trial (including one for COVID-19) that excludes\n             participation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Matthias Salathe",
+            "role": "Principal Investigator",
+            "affiliation": "University of Kansas Medical Center"
+        },
+        "overall_contact": {
+            "last_name": "Matthias Salathe, MD",
+            "phone": "9135886000",
+            "email": "msalathe@kumc.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Carolina Aguiar",
+            "phone": "9139459295",
+            "email": "caguiar@kumc.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Kansas Medical Center",
+                "address": {
+                    "city": "Kansas City",
+                    "state": "Kansas",
+                    "zip": "66160",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Matthias Salathe, MD",
+                "phone": "913-588-6000",
+                "email": "msalathe@kumc.edu"
+            },
+            "contact_backup": {
+                "last_name": "Carolina Aguiar",
+                "phone": "9139459295",
+                "email": "caguiar@kumc.edu"
+            },
+            "investigator": [
+                {
+                    "last_name": "Usman Nazir, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Charles Bengtson, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Lewis Satterwhite, MD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Kansas Medical Center",
+            "investigator_full_name": "Matthias Salathe, MD",
+            "investigator_title": "Professor- University of Kansas Medical Center"
+        },
+        "keyword": [
+            "COVID-19",
+            "losartan",
+            "respiratory failure",
+            "SARS-CoV-2"
+        ],
+        "intervention_browse": {
+            "mesh_term": "Losartan"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,1 +1,202 @@
-{"clinical_study": {"@rank": "302", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04322682"}, "id_info": {"org_study_id": "MHIPS-2020-001", "nct_id": "NCT04322682"}, "brief_title": "Colchicine Coronavirus SARS-CoV2 Trial (COLCORONA)", "acronym": "COVID-19", "official_title": "Colchicine Coronavirus SARS-CoV2 Trial (COLCORONA)", "sponsors": {"lead_sponsor": {"agency": "Montreal Heart Institute", "agency_class": "Other"}, "collaborator": {"agency": "DACIMA Software", "agency_class": "Other"}}, "source": "Montreal Heart Institute", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "This is a phase 3, multi-center, randomized, double-blind, placebo-controlled multicenter\n      study to evaluate the efficacy and safety of colchicine in adult patients diagnosed with\n      COVID-19 infection and have at least one high-risk criterion. Approximately 6000 subjects\n      meeting all inclusion and no exclusion criteria will be randomized to receive either\n      colchicine or placebo tablets for 30 days."}, "detailed_description": {"textblock": "The primary objective of this study is to determine whether short-term treatment with\n      colchicine reduces the rate of death and lung complications related to COVID-19. The\n      secondary objective is to determine the safety of treatment with colchicine in this patient\n      population.\n\n      Approximately 6000 patients will be enrolled to receive either colchicine or placebo (1:1\n      allocation ratio) for 30 days. Follow-up assessments will occur at 15 and 30 days following\n      randomization for evaluation of the occurrence of any trial endpoints or other adverse\n      events.\n\n      Safety and efficacy will be based on data from randomized patients. An independent data and\n      safety monitoring board (DSMB) will periodically review study results as well as the overall\n      conduct of the study, and will make recommendations to the study Executive Steering Committee\n      (ESC) to continue, stop or modify the study protocol."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 23, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "September 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "September 2020"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "This will be a randomized, double-blind, placebo-controlled, multi-center study. Following signature of the informed consent form, approximately 6000 subjects meeting all inclusion and no exclusion criteria will be randomized to receive either colchicine or placebo (1:1 allocation ratio) for 30 days. Follow-up phone or video assessments will occur at 15 and 30 days following randomization for evaluation of the occurrence of any trial endpoints or other adverse events.", "primary_purpose": "Treatment", "masking": "Single (Participant)"}, "primary_outcome": {"measure": "Number of participants who die or require hospitalization due to COVID-19 infection", "time_frame": "30 days post randomization", "description": "The primary endpoint will be the composite of death or the need for hospitalization due to COVID-19 infection in the first 30 days after randomization."}, "secondary_outcome": [{"measure": "Number of participants who die", "time_frame": "30 days post randomization", "description": "The secondary endpoint is the occurrence of death in the 30 days following randomization."}, {"measure": "Number of participants requiring hospitalization due to COVID-19 infection", "time_frame": "30 days post randomization", "description": "The secondary endpoint is the need for hospitalization due to COVID-19 infection in the 30 days following randomization."}, {"measure": "Number of participants requiring mechanical ventilation", "time_frame": "30 days post randomization", "description": "The secondary endpoint is the need for mechanical ventilation in the 30 days following randomization."}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "6000"}, "condition": "Corona Virus Infection", "arm_group": [{"arm_group_label": "Colchicine 0.5 mg", "arm_group_type": "Active Comparator", "description": "Patients will receive study medication colchicine 0.5 mg per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced."}, {"arm_group_label": "Placebo", "arm_group_type": "Placebo Comparator", "description": "Patients will receive a placebo per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced."}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Colchicine", "description": "Patients in this arm will receive study medication colchicine 0.5 mg per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced.", "arm_group_label": "Colchicine 0.5 mg", "other_name": "Immuno-modulatory"}, {"intervention_type": "Drug", "intervention_name": "Placebo oral tablet", "description": "Patients will receive the placebo 0.5 mg per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced.", "arm_group_label": "Placebo"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Males and females, at least 40 years of age, capable and willing to provide informed\n             consent;\n\n          2. Patient must have received a diagnosis of COVID-19 infection within the last 24 hours;\n\n          3. Outpatient setting (not currently hospitalized or under immediate consideration for\n             hospitalization);\n\n          4. Patient must possess at least one of the following high-risk criteria: 70 years or\n             more of age, diabetes mellitus, uncontrolled hypertension (systolic blood pressure\n             \u2265150 mm Hg), known respiratory disease (including asthma or chronic obstructive\n             pulmonary disease), known heart failure, known coronary disease, fever of \u226538.4\u00b0C\n             within the last 48 hours, dyspnea at the time of presentation, bicytopenia,\n             pancytopenia, or the combination of high neutrophil count and low lymphocyte count;\n\n          5. Female patient is either not of childbearing potential, defined as postmenopausal for\n             at least 1 year or surgically sterile, or is of childbearing potential and practicing\n             at least one method of contraception and preferably two complementary forms of\n             contraception including a barrier method (e.g. male or female condoms, spermicides,\n             sponges, foams, jellies, diaphragm, intrauterine device (IUD)) throughout the study\n             and for 30 days after study completion;\n\n          6. Patient must be able and willing to comply with the requirements of this study\n             protocol.\n\n        Exclusion Criteria:\n\n          1. Patient currently hospitalized or under immediate consideration for hospitalization;\n\n          2. Patient currently in shock or with hemodynamic instability;\n\n          3. Patient with inflammatory bowel disease (Crohn's disease or ulcerative colitis),\n             chronic diarrhea or malabsorption;\n\n          4. Patient with pre-existent progressive neuromuscular disease;\n\n          5. Estimated Glomerular filtration rate (eGFR), using the MDRD equation for all subjects\n             being considered for enrollment, with a cut-off of < 30 mL/m in/1.73m2;\n\n          6. Patient with a history of cirrhosis, chronic active hepatitis or severe hepatic\n             disease;\n\n          7. Female patient who is pregnant, or breast-feeding or is considering becoming pregnant\n             during the study or for 6 months after the last dose of study medication;\n\n          8. Patient currently taking colchicine for other indications (mainly chronic indications\n             represented by Familial Mediterranean Fever or gout);\n\n          9. Patient with a history of an allergic reaction or significant sensitivity to\n             colchicine;\n\n         10. Patient undergoing chemotherapy for cancer;\n\n         11. Patient is considered by the investigator, for any reason, to be an unsuitable\n             candidate for the study."}, "gender": "All", "minimum_age": "40 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": [{"last_name": "Jean-Claude Tardif, MD", "role": "Principal Investigator", "affiliation": "Montreal Heart Institute"}, {"last_name": "Zohar Bassevitch, B.SC.", "role": "Study Director", "affiliation": "Montreal Health Innovations Coordinating Center"}], "overall_contact": {"last_name": "Jean-Claude Tardif, MD", "phone": "514-376-3330", "phone_ext": "3612", "email": "jean-claude.tardif@icm-mhi.org"}, "overall_contact_backup": {"last_name": "Zohar Bassevitch, B.SC.", "phone": "514-461-1300", "phone_ext": "2214", "email": "zohar.bassevitch@mhicc.org"}, "location": {"facility": {"name": "Montreal Heart Institute", "address": {"city": "Montreal", "state": "Quebec", "zip": "H1T 1C8", "country": "Canada"}}, "status": "Recruiting", "contact": {"last_name": "Chantal Lacoste", "phone": "514 376-3330", "phone_ext": "3604", "email": "chantal.lacoste@icm-mhi.org"}, "investigator": {"last_name": "Jean-Claude Tardif, M.D", "role": "Principal Investigator"}}, "location_countries": {"country": "Canada"}, "verification_date": "March 2020", "study_first_submitted": "March 23, 2020", "study_first_submitted_qc": "March 25, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 26, 2020"}, "last_update_submitted": "March 26, 2020", "last_update_submitted_qc": "March 26, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": ["Coronavirus Infections", "Severe Acute Respiratory Syndrome", "Virus Diseases"]}, "intervention_browse": {"mesh_term": "Colchicine"}}}
+{
+    "clinical_study": {
+        "@rank": "302",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04322682"
+        },
+        "id_info": {
+            "org_study_id": "MHIPS-2020-001",
+            "nct_id": "NCT04322682"
+        },
+        "brief_title": "Colchicine Coronavirus SARS-CoV2 Trial (COLCORONA)",
+        "acronym": "COVID-19",
+        "official_title": "Colchicine Coronavirus SARS-CoV2 Trial (COLCORONA)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Montreal Heart Institute",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "DACIMA Software",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Montreal Heart Institute",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a phase 3, multi-center, randomized, double-blind, placebo-controlled multicenter\n      study to evaluate the efficacy and safety of colchicine in adult patients diagnosed with\n      COVID-19 infection and have at least one high-risk criterion. Approximately 6000 subjects\n      meeting all inclusion and no exclusion criteria will be randomized to receive either\n      colchicine or placebo tablets for 30 days."
+        },
+        "detailed_description": {
+            "textblock": "The primary objective of this study is to determine whether short-term treatment with\n      colchicine reduces the rate of death and lung complications related to COVID-19. The\n      secondary objective is to determine the safety of treatment with colchicine in this patient\n      population.\n\n      Approximately 6000 patients will be enrolled to receive either colchicine or placebo (1:1\n      allocation ratio) for 30 days. Follow-up assessments will occur at 15 and 30 days following\n      randomization for evaluation of the occurrence of any trial endpoints or other adverse\n      events.\n\n      Safety and efficacy will be based on data from randomized patients. An independent data and\n      safety monitoring board (DSMB) will periodically review study results as well as the overall\n      conduct of the study, and will make recommendations to the study Executive Steering Committee\n      (ESC) to continue, stop or modify the study protocol."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 23, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "This will be a randomized, double-blind, placebo-controlled, multi-center study. Following signature of the informed consent form, approximately 6000 subjects meeting all inclusion and no exclusion criteria will be randomized to receive either colchicine or placebo (1:1 allocation ratio) for 30 days. Follow-up phone or video assessments will occur at 15 and 30 days following randomization for evaluation of the occurrence of any trial endpoints or other adverse events.",
+            "primary_purpose": "Treatment",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": {
+            "measure": "Number of participants who die or require hospitalization due to COVID-19 infection",
+            "time_frame": "30 days post randomization",
+            "description": "The primary endpoint will be the composite of death or the need for hospitalization due to COVID-19 infection in the first 30 days after randomization."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of participants who die",
+                "time_frame": "30 days post randomization",
+                "description": "The secondary endpoint is the occurrence of death in the 30 days following randomization."
+            },
+            {
+                "measure": "Number of participants requiring hospitalization due to COVID-19 infection",
+                "time_frame": "30 days post randomization",
+                "description": "The secondary endpoint is the need for hospitalization due to COVID-19 infection in the 30 days following randomization."
+            },
+            {
+                "measure": "Number of participants requiring mechanical ventilation",
+                "time_frame": "30 days post randomization",
+                "description": "The secondary endpoint is the need for mechanical ventilation in the 30 days following randomization."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "6000"
+        },
+        "condition": "Corona Virus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Colchicine 0.5 mg",
+                "arm_group_type": "Active Comparator",
+                "description": "Patients will receive study medication colchicine 0.5 mg per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Patients will receive a placebo per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Colchicine",
+                "description": "Patients in this arm will receive study medication colchicine 0.5 mg per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced.",
+                "arm_group_label": "Colchicine 0.5 mg",
+                "other_name": "Immuno-modulatory"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo oral tablet",
+                "description": "Patients will receive the placebo 0.5 mg per os (PO) twice daily for the first 3 days and then once daily for the last 27 days. If a dose is missed, it should not be replaced.",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Males and females, at least 40 years of age, capable and willing to provide informed\n             consent;\n\n          2. Patient must have received a diagnosis of COVID-19 infection within the last 24 hours;\n\n          3. Outpatient setting (not currently hospitalized or under immediate consideration for\n             hospitalization);\n\n          4. Patient must possess at least one of the following high-risk criteria: 70 years or\n             more of age, diabetes mellitus, uncontrolled hypertension (systolic blood pressure\n             \u2265150 mm Hg), known respiratory disease (including asthma or chronic obstructive\n             pulmonary disease), known heart failure, known coronary disease, fever of \u226538.4\u00b0C\n             within the last 48 hours, dyspnea at the time of presentation, bicytopenia,\n             pancytopenia, or the combination of high neutrophil count and low lymphocyte count;\n\n          5. Female patient is either not of childbearing potential, defined as postmenopausal for\n             at least 1 year or surgically sterile, or is of childbearing potential and practicing\n             at least one method of contraception and preferably two complementary forms of\n             contraception including a barrier method (e.g. male or female condoms, spermicides,\n             sponges, foams, jellies, diaphragm, intrauterine device (IUD)) throughout the study\n             and for 30 days after study completion;\n\n          6. Patient must be able and willing to comply with the requirements of this study\n             protocol.\n\n        Exclusion Criteria:\n\n          1. Patient currently hospitalized or under immediate consideration for hospitalization;\n\n          2. Patient currently in shock or with hemodynamic instability;\n\n          3. Patient with inflammatory bowel disease (Crohn's disease or ulcerative colitis),\n             chronic diarrhea or malabsorption;\n\n          4. Patient with pre-existent progressive neuromuscular disease;\n\n          5. Estimated Glomerular filtration rate (eGFR), using the MDRD equation for all subjects\n             being considered for enrollment, with a cut-off of < 30 mL/m in/1.73m2;\n\n          6. Patient with a history of cirrhosis, chronic active hepatitis or severe hepatic\n             disease;\n\n          7. Female patient who is pregnant, or breast-feeding or is considering becoming pregnant\n             during the study or for 6 months after the last dose of study medication;\n\n          8. Patient currently taking colchicine for other indications (mainly chronic indications\n             represented by Familial Mediterranean Fever or gout);\n\n          9. Patient with a history of an allergic reaction or significant sensitivity to\n             colchicine;\n\n         10. Patient undergoing chemotherapy for cancer;\n\n         11. Patient is considered by the investigator, for any reason, to be an unsuitable\n             candidate for the study."
+            },
+            "gender": "All",
+            "minimum_age": "40 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Jean-Claude Tardif, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Montreal Heart Institute"
+            },
+            {
+                "last_name": "Zohar Bassevitch, B.SC.",
+                "role": "Study Director",
+                "affiliation": "Montreal Health Innovations Coordinating Center"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Jean-Claude Tardif, MD",
+            "phone": "514-376-3330",
+            "phone_ext": "3612",
+            "email": "jean-claude.tardif@icm-mhi.org"
+        },
+        "overall_contact_backup": {
+            "last_name": "Zohar Bassevitch, B.SC.",
+            "phone": "514-461-1300",
+            "phone_ext": "2214",
+            "email": "zohar.bassevitch@mhicc.org"
+        },
+        "location": {
+            "facility": {
+                "name": "Montreal Heart Institute",
+                "address": {
+                    "city": "Montreal",
+                    "state": "Quebec",
+                    "zip": "H1T 1C8",
+                    "country": "Canada"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Chantal Lacoste",
+                "phone": "514 376-3330",
+                "phone_ext": "3604",
+                "email": "chantal.lacoste@icm-mhi.org"
+            },
+            "investigator": {
+                "last_name": "Jean-Claude Tardif, M.D",
+                "role": "Principal Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "Canada"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 23, 2020",
+        "study_first_submitted_qc": "March 25, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 26, 2020"
+        },
+        "last_update_submitted": "March 26, 2020",
+        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Colchicine"
+        }
+    }
+}

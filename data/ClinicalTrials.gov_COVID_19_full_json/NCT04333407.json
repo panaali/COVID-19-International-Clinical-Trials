@@ -1,1 +1,182 @@
-{"clinical_study": {"@rank": "3", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04333407"}, "id_info": {"org_study_id": "20HH5868", "nct_id": "NCT04333407"}, "brief_title": "Preventing Cardiac Complication of COVID-19 Disease With Early Acute Coronary Syndrome Therapy: A Randomised Controlled Trial.", "acronym": "C-19-ACS", "official_title": "Preventing Cardiac Complication of COVID-19 Disease With Early Acute Coronary Syndrome Therapy: A Randomised Controlled Trial.", "sponsors": {"lead_sponsor": {"agency": "Imperial College London", "agency_class": "Other"}}, "source": "Imperial College London", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The outbreak of a novel coronavirus (SARS-CoV-2) and associated COVID-19 disease in late\n      December 2019 has led to a global pandemic. At the time of writing, there have been 150 000\n      confirmed cases and 3500 deaths. Apart from the morbidity and mortality directly related to\n      COVID-19 cases, society has had to also cope with complex political and economic\n      repercussions of this disease.\n\n      At present, and despite pressing need for therapeutic intervention, management of patients\n      with COVID-19 is entirely supportive. Despite the majority of patients experiencing a mild\n      respiratory illness a subgroup, and in particular those with pre-existing cardiovascular\n      disease, will experience severe illness that requires invasive cardiorespiratory support in\n      the intensive care unit.\n\n      Furthermore, the severity of COVID-19 disease (as well as the likelihood of progressing to\n      severe disease) appears to be in part driven by direct injury to the cardiovascular system.\n      Analysis of data from two recent studies confirms a significantly higher likelihood of acute\n      cardiac injury in patients who have to be admitted to intensive care for the management of\n      COVID-19 disease.\n\n      The exact type of acute of cardiac injury that COVID-19 patients suffer remains unclear.\n      There is however mounting evidence that heart attack like events are responsible. Tests\n      ordinarily performed to definitely assess for heart attacks will not be possible in very sick\n      COVID-19 patients. Randomising patients to cardioprotective medicines will help us understand\n      the role of the cardiovascular system in COVID-19 disease. It will also help us determine if\n      there is more we can do to treat these patients."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 31, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 30, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 30, 2021"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "Prospective Multicentre Randomised Controlled Trial", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Primary Efficacy Outcome", "time_frame": "at 30 days after admission", "description": "All-cause mortality"}, "secondary_outcome": [{"measure": "Secondary Efficacy Outcome 1", "time_frame": "within 7 days and within 30 days of admission", "description": "Absolute change in serum troponin from admission (or from suspicion/diagnosis of Covid-19 if already an inpatient) measurement to peak value (measured using high sensitivity troponin assay). (Phase I interim analysis)"}, {"measure": "Secondary Efficacy Outcome 2", "time_frame": "at 7 days and 30 days after admission", "description": "Discharge Rate: Proportion of patients discharged (or documented as medically fit for discharge)"}, {"measure": "Secondary Efficacy Outcome 3", "time_frame": "at 7 days and at 30 days after admission", "description": "Intubation Rate: Proportion of patients who have been intubated for mechanical ventilation"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "3170"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "Active Arm", "arm_group_type": "Experimental"}, {"arm_group_label": "Control Arm", "arm_group_type": "No Intervention"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Aspirin 75mg", "description": "\u2022 If patient not on aspirin, add aspirin 75mg once daily unless contraindicated.", "arm_group_label": "Active Arm"}, {"intervention_type": "Drug", "intervention_name": "Clopidogrel 75mg", "description": "\u2022 If patient not on clopidogrel or equivalent, add clopidogrel 75mg once daily unless contraindicated", "arm_group_label": "Active Arm"}, {"intervention_type": "Drug", "intervention_name": "Rivaroxaban 2.5 MG", "description": "If patient not on an anticoagulation, add rivaroxaban 2.5mg bd unless contraindicated\nIf patient on DOAC then change to rivaroxaban 2.5mg unless contraindicated", "arm_group_label": "Active Arm"}, {"intervention_type": "Drug", "intervention_name": "Atorvastatin 40mg", "description": "\u2022 If patient not on a statin, add atorvastatin 40mg once daily unless contraindicated", "arm_group_label": "Active Arm"}, {"intervention_type": "Drug", "intervention_name": "Omeprazole 20mg", "description": "\u2022 If patient not on a proton pump inhibitor, add omeprazole 20mg once daily.", "arm_group_label": "Active Arm"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Confirmed COVID-19 infection\n\n          2. Age =/>40 or diabetes or known coronary disease or hypertension\n\n          3. Requires hospital admission for further clinical management.\n\n        Exclusion Criteria:\n\n          1. Clear evidence of cardiac pathology needing ACS treatment.\n\n          2. Myocarditis with serum Troponin > 5000\n\n          3. Bleeding risk suspected e.g. recent surgery, history of GI bleed, other abnormal blood\n             results (Hb<10g/dl, Plts <100, any evidence of DIC)\n\n          4. Study treatment may negatively impact standard best care (physician discretion).\n\n          5. Unrelated co-morbidity with life expectancy <3 months.\n\n          6. Pregnancy.\n\n          7. Age <18 years and >85 years."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "85 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Prapa Kanagaratnam, FRCP, PhD", "role": "Principal Investigator", "affiliation": "Imperial College Healthcare NHS Trust"}, "overall_contact": {"last_name": "Alena Marynina, BSc, MSc", "phone": "07404750659", "email": "alena.marynina@nhs.net"}, "overall_contact_backup": {"last_name": "Clare Coyle, BMBCh, BA, MRCP", "phone": "07985 352148", "email": "c.coyle@imperial.ac.uk"}, "verification_date": "April 2020", "study_first_submitted": "April 1, 2020", "study_first_submitted_qc": "April 1, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "last_update_submitted": "April 1, 2020", "last_update_submitted_qc": "April 1, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": "Coronavirus, SARS-CoV-2, COVID-19, Cardiovascular", "condition_browse": {"mesh_term": "Acute Coronary Syndrome"}, "intervention_browse": {"mesh_term": ["Aspirin", "Omeprazole", "Rivaroxaban", "Clopidogrel", "Atorvastatin"]}, "patient_data": {"sharing_ipd": "No", "ipd_description": "No individual participant data will be shared with other researchers or organisations. Anonymised data might be shared with other research organisations"}}}
+{
+    "clinical_study": {
+        "@rank": "3",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04333407"
+        },
+        "id_info": {
+            "org_study_id": "20HH5868",
+            "nct_id": "NCT04333407"
+        },
+        "brief_title": "Preventing Cardiac Complication of COVID-19 Disease With Early Acute Coronary Syndrome Therapy: A Randomised Controlled Trial.",
+        "acronym": "C-19-ACS",
+        "official_title": "Preventing Cardiac Complication of COVID-19 Disease With Early Acute Coronary Syndrome Therapy: A Randomised Controlled Trial.",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Imperial College London",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Imperial College London",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The outbreak of a novel coronavirus (SARS-CoV-2) and associated COVID-19 disease in late\n      December 2019 has led to a global pandemic. At the time of writing, there have been 150 000\n      confirmed cases and 3500 deaths. Apart from the morbidity and mortality directly related to\n      COVID-19 cases, society has had to also cope with complex political and economic\n      repercussions of this disease.\n\n      At present, and despite pressing need for therapeutic intervention, management of patients\n      with COVID-19 is entirely supportive. Despite the majority of patients experiencing a mild\n      respiratory illness a subgroup, and in particular those with pre-existing cardiovascular\n      disease, will experience severe illness that requires invasive cardiorespiratory support in\n      the intensive care unit.\n\n      Furthermore, the severity of COVID-19 disease (as well as the likelihood of progressing to\n      severe disease) appears to be in part driven by direct injury to the cardiovascular system.\n      Analysis of data from two recent studies confirms a significantly higher likelihood of acute\n      cardiac injury in patients who have to be admitted to intensive care for the management of\n      COVID-19 disease.\n\n      The exact type of acute of cardiac injury that COVID-19 patients suffer remains unclear.\n      There is however mounting evidence that heart attack like events are responsible. Tests\n      ordinarily performed to definitely assess for heart attacks will not be possible in very sick\n      COVID-19 patients. Randomising patients to cardioprotective medicines will help us understand\n      the role of the cardiovascular system in COVID-19 disease. It will also help us determine if\n      there is more we can do to treat these patients."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 30, 2021"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Prospective Multicentre Randomised Controlled Trial",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Primary Efficacy Outcome",
+            "time_frame": "at 30 days after admission",
+            "description": "All-cause mortality"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Secondary Efficacy Outcome 1",
+                "time_frame": "within 7 days and within 30 days of admission",
+                "description": "Absolute change in serum troponin from admission (or from suspicion/diagnosis of Covid-19 if already an inpatient) measurement to peak value (measured using high sensitivity troponin assay). (Phase I interim analysis)"
+            },
+            {
+                "measure": "Secondary Efficacy Outcome 2",
+                "time_frame": "at 7 days and 30 days after admission",
+                "description": "Discharge Rate: Proportion of patients discharged (or documented as medically fit for discharge)"
+            },
+            {
+                "measure": "Secondary Efficacy Outcome 3",
+                "time_frame": "at 7 days and at 30 days after admission",
+                "description": "Intubation Rate: Proportion of patients who have been intubated for mechanical ventilation"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "3170"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Active Arm",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Control Arm",
+                "arm_group_type": "No Intervention"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Aspirin 75mg",
+                "description": "\u2022 If patient not on aspirin, add aspirin 75mg once daily unless contraindicated.",
+                "arm_group_label": "Active Arm"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Clopidogrel 75mg",
+                "description": "\u2022 If patient not on clopidogrel or equivalent, add clopidogrel 75mg once daily unless contraindicated",
+                "arm_group_label": "Active Arm"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Rivaroxaban 2.5 MG",
+                "description": "If patient not on an anticoagulation, add rivaroxaban 2.5mg bd unless contraindicated\nIf patient on DOAC then change to rivaroxaban 2.5mg unless contraindicated",
+                "arm_group_label": "Active Arm"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Atorvastatin 40mg",
+                "description": "\u2022 If patient not on a statin, add atorvastatin 40mg once daily unless contraindicated",
+                "arm_group_label": "Active Arm"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Omeprazole 20mg",
+                "description": "\u2022 If patient not on a proton pump inhibitor, add omeprazole 20mg once daily.",
+                "arm_group_label": "Active Arm"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Confirmed COVID-19 infection\n\n          2. Age =/>40 or diabetes or known coronary disease or hypertension\n\n          3. Requires hospital admission for further clinical management.\n\n        Exclusion Criteria:\n\n          1. Clear evidence of cardiac pathology needing ACS treatment.\n\n          2. Myocarditis with serum Troponin > 5000\n\n          3. Bleeding risk suspected e.g. recent surgery, history of GI bleed, other abnormal blood\n             results (Hb<10g/dl, Plts <100, any evidence of DIC)\n\n          4. Study treatment may negatively impact standard best care (physician discretion).\n\n          5. Unrelated co-morbidity with life expectancy <3 months.\n\n          6. Pregnancy.\n\n          7. Age <18 years and >85 years."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "85 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Prapa Kanagaratnam, FRCP, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Imperial College Healthcare NHS Trust"
+        },
+        "overall_contact": {
+            "last_name": "Alena Marynina, BSc, MSc",
+            "phone": "07404750659",
+            "email": "alena.marynina@nhs.net"
+        },
+        "overall_contact_backup": {
+            "last_name": "Clare Coyle, BMBCh, BA, MRCP",
+            "phone": "07985 352148",
+            "email": "c.coyle@imperial.ac.uk"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 1, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "last_update_submitted": "April 1, 2020",
+        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "Coronavirus, SARS-CoV-2, COVID-19, Cardiovascular",
+        "condition_browse": {
+            "mesh_term": "Acute Coronary Syndrome"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Aspirin",
+                "Omeprazole",
+                "Rivaroxaban",
+                "Clopidogrel",
+                "Atorvastatin"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "No individual participant data will be shared with other researchers or organisations. Anonymised data might be shared with other research organisations"
+        }
+    }
+}

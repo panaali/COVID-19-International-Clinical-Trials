@@ -1,1 +1,245 @@
-{"clinical_study": {"@rank": "276", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04322773"}, "id_info": {"org_study_id": "APPI2-CV-2020-01", "nct_id": "NCT04322773"}, "brief_title": "Anti-il6 Treatment of Serious COVID-19 Disease With Threatening Respiratory Failure", "acronym": "TOCIVID", "official_title": "Effectiveness of Interleukin-6 Receptor Inhibitors in the Management of Patients With Severe SARS-CoV-2 Pneumonia: An Open-Label, Multicenter Sequential and Cluster Randomized Trial", "sponsors": {"lead_sponsor": {"agency": "Marius Henriksen", "agency_class": "Other"}, "collaborator": {"agency": "Lars Erik Kristensen", "agency_class": "Other"}}, "source": "Frederiksberg University Hospital", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "Coronavirus disease 2019 (COVID-19) is caused by the newly discovered coronavirus,\n      SARS-CoV-2. The median time from onset of symptoms of COVID-19 to development of acute\n      respiratory distress syndrome (ARDS) has been reported as short as 9 days. No effective\n      prophylactic or post-exposure therapy is currently available. According to data from the\n      Danish Health Authority (www.sst.dk/corona), as of March 21st, 2020, there were 1326 patients\n      infected with the disease in Denmark, more than 250 are admitted to a hospital, and >50 of\n      them have required intensive care. Nearly 350.000 cases and 15.000 deaths have been reported\n      globally. These numbers are likely to markedly increase during the coming weeks, challenging\n      the capacity of health systems worldwide.\n\n      In patients infected with SARS-CoV-2, it has been described that disease severity and\n      outcomes are related to the characteristics of the immune response. Interleukin (IL)-6 and\n      other components of the inflammatory cascade contribute to host defense against infections.\n      However, exaggerated synthesis of IL-6 can lead to an acute severe systemic inflammatory\n      response known as 'cytokine storm'. In the pathogenesis of SARS-CoV-2 pneumonia, a study\n      found that a cytokine storm involving a considerable release of proinflammatory cytokines\n      occurred, including IL-6, IL-12, and tumor necrosis factor \u03b1 (TNF-\u03b1). Studies on the Middle\n      East respiratory syndrome caused by another coronavirus (MERS-CoV), indicate that cytokine\n      genes of IL-6, IL-1\u03b2, and IL-8 can be markedly upregulated. Similarly, patients with\n      SARS-CoV-2 pneumonia admitted to an intensive care unit had higher plasma levels of cytokines\n      including IL-6, IL-2, IL-7, IL-10, granulocyte-colony stimulating factor (G-CSF),\n      interferon-\u03b3-inducible protein (IP10), monocyte chemoattractant protein (MCP1), macrophage\n      inflammatory protein 1 alpha (MIP1A), and TNF-\u03b1. These findings indicate that the magnitude\n      and characteristics of the cytokine response is related to the severity and prognosis of\n      patients with SARS-CoV-2 pneumonia.\n\n      It has been suggested that IL-6 blockade may constitute a novel therapeutic strategy for\n      other types of cytokine storm, such as the systemic inflammatory response syndrome including\n      sepsis, macrophage activation syndrome and hemophagocytic lymphohistiocytosis. Remarkable\n      beneficial effects of IL-6 blockade therapy using a IL-6 receptor inhibitor has been\n      described in patients with severe SARS-CoV-2 pneumonia in a retrospective case series from\n      China.\n\n      Currently, there are two available drugs based on human monoclonal antibodies against IL-6\n      receptor, tocilizumab (RoActemra, Roche) and sarilumab (Kevzara, Sanofi). IL-6 receptor\n      inhibitors are currently licensed for several autoimmune disorders and are considered well\n      tolerated and safe in general. The most common side effects reported are upper respiratory\n      tract infections, headache, hypertension, and abnormal liver function tests. The most serious\n      side effects are serious infections, complications of diverticulitis, and hypersensitivity\n      reactions.\n\n      it is hypothesized that IL-6 might play a key role in the cytokine storm associated with\n      serious adverse outcomes in patients infected with SARS-CoV-2 pneumonia, and that blockade of\n      IL-6 would be suitable therapeutic target for these patients. The study will investigate the\n      effect of different types of IL-6 inhibition versus no adjuvant treatment compared to\n      standard of care in patients with severe SARS-CoV-2 pneumonia.\n\n      Primary objective: To compare the effect of either one of three IL-6 inhibitor\n      administrations, relative to the standard of care, on time to independence from supplementary\n      oxygen therapy, measured in days from baseline to day 28, in patients with severe SARS-CoV-2\n      pneumonia."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 4, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 1, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "June 1, 2021"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Sequential Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Time to independence from supplementary oxygen therapy", "time_frame": "days from enrolment up 28 days"}, "secondary_outcome": [{"measure": "Number of deaths", "time_frame": "28 days from enrolment"}, {"measure": "Days out of hospital and alive", "time_frame": "28 days from enrolment"}, {"measure": "Ventilator free days alive and out of hospital", "time_frame": "28 days from enrolment"}, {"measure": "C-reactive protein (CRP) level", "time_frame": "baseline", "description": "Measured from standard blood test"}, {"measure": "C-reactive protein (CRP) level", "time_frame": "peak during hospitalisation, up to 28 days", "description": "Measured from standard blood test"}, {"measure": "C-reactive protein (CRP) level", "time_frame": "14 days", "description": "Measured from standard blood test"}, {"measure": "C-reactive protein (CRP) level", "time_frame": "28 days", "description": "Measured from standard blood test"}, {"measure": "Number of participants with serious adverse events", "time_frame": "During treatment, up to 28 days", "description": "Measured as occurrence of any serious adverse events"}], "number_of_arms": "4", "enrollment": {"@type": "Anticipated", "#text": "200"}, "condition": "Corona Virus Disease", "arm_group": [{"arm_group_label": "Roactemra iv", "arm_group_type": "Experimental", "description": "Single dose treatment with 400 mg tocilizumab intravensously"}, {"arm_group_label": "Roactemra sc", "arm_group_type": "Experimental", "description": "Single dose treatment with 2 x 162 mg tocilizumab subcutaneously"}, {"arm_group_label": "Kevzara sc", "arm_group_type": "Experimental", "description": "Single dose treatment with 1 x 200 mg sarilumab subcutaneously"}, {"arm_group_label": "Standard care", "arm_group_type": "Active Comparator", "description": "Management as usual"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "RoActemra iv", "description": "single dose treatment with tocilizumab 400 mg intravenously", "arm_group_label": "Roactemra iv", "other_name": "tocilizumab 400 mg"}, {"intervention_type": "Drug", "intervention_name": "RoActemra sc", "description": "single dose treatment with tocilizumab 2 x 162 mg subcutaneously", "arm_group_label": "Roactemra sc", "other_name": "tocilizumab 2 x 162 mg"}, {"intervention_type": "Drug", "intervention_name": "Kevzara sc", "description": "single dose treatment with sarilumab 1 x 200 mg subcutaneously", "arm_group_label": "Kevzara sc", "other_name": "sarilumab 1 x 200 mg"}, {"intervention_type": "Other", "intervention_name": "Standard medical care", "description": "management as usual", "arm_group_label": ["Kevzara sc", "Roactemra iv", "Roactemra sc", "Standard care"]}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  SARS-CoV-2 infection confirmed by real time-PCR and\n\n          -  Positive imaging: consolidation, ground glass opacities, or bilateral pulmonary\n             infiltration either by CT-scan or chest x-ray; and\n\n          -  Need of oxygen therapy to maintain SO2>94% OR FiO2/PaO2 > 20 and at least two of the\n             following laboratory measures:\n\n          -  CRP level >70 mg/L\n\n          -  CRP level >= 40 mg/L and doubled within 48 hours (without other confirmed infectious\n             or non-infectious course),\n\n          -  Lactatdehydrogenase > 250 U/L,\n\n          -  thrombocytopenia < 120.000 x 10E9/L,\n\n          -  lymphocyte count < 0.6 x 10E9/L,\n\n          -  D-dimer > 1 ug/mL,\n\n          -  serum ferritin > 300 ug/mL\n\n        Exclusion Criteria:\n\n          -  pregnancy suspected or confirmed,\n\n          -  severe heart failure,\n\n          -  suspected or confirmed bacterial infection,\n\n          -  current solid or hematological malignancy,\n\n          -  neutropenia,\n\n          -  ALAT elevation more than three times the laboratory upper limit,\n\n          -  ASA class 5 (after COVID19 admission) or higher at inclusion (prior admission),\n\n          -  severe chronic obstructive pulmonary disease or heart failure (NYHA class II or\n             higher),\n\n          -  pregnant or lactating women,\n\n          -  current treatment with conventional synthetic disease-modifying antirheumatic drugs\n             (DMARDs)/immunosuppressive agents including IL-6 inhibitors, or with Janus kinase\n             inhibitors (JAKi) in the past 30 days or plans to receive during the study period,\n\n          -  current use of chronic oral corticosteroids in a dose higher than prednisone 10 mg or\n             equivalent per day,\n\n          -  previous or active tuberculosis (TB),\n\n          -  HIV infection regardless of immunological status, hepatitis,\n\n          -  evidence of recent (30 days) invasive bacterial or fungal infections,\n\n          -  patients who have received immunosuppressive antibody therapy within the past 5\n             months, including intravenous immunoglobulin or plans to receive during the study\n             period,\n\n          -  IV drug abuse,\n\n          -  history of inflammatory bowel disease,\n\n          -  diverticulitis,\n\n          -  ulcer,\n\n          -  perforated gastrointestinal tract,\n\n          -  participation in any clinical research study evaluating an investigational product\n             (IP) or therapy within 3 months and less than five half-lives of IP prior inclusion to\n             the study,\n\n          -  any physical examination findings and/or history of any illness that, in the opinion\n             of the study investigator, might confound the results of the study or pose an\n             additional risk to the patient by their participation in the study,\n\n          -  inability to give informed consent."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Lars Erik Kristensen, PhD", "role": "Principal Investigator", "affiliation": "The Parker Institute"}, "overall_contact": {"last_name": "Lars Erik Kristensen, PhD", "phone": "0045 38164157", "email": "lars.erik.kristensen@regionh.dk"}, "location": {"facility": {"name": "Bispebjerg-Frederiksberg Hospital", "address": {"city": "Copenhagen", "zip": "2000", "country": "Denmark"}}, "contact": {"last_name": "Lars Erik Kristensen, PhD", "phone": "0045 38164157", "email": "lars.erik.kristensen@regionh.dk"}, "contact_backup": {"last_name": "Line Rustad", "phone": "0045 38164158", "email": "line.rustad@regionh.dk"}, "investigator": {"last_name": "Lars Erik Kristensen, PhD", "role": "Principal Investigator"}}, "location_countries": {"country": "Denmark"}, "verification_date": "April 2020", "study_first_submitted": "March 24, 2020", "study_first_submitted_qc": "March 24, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 26, 2020"}, "last_update_submitted": "April 1, 2020", "last_update_submitted_qc": "April 1, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Frederiksberg University Hospital", "investigator_full_name": "Marius Henriksen", "investigator_title": "Professor"}, "condition_browse": {"mesh_term": ["Coronavirus Infections", "Virus Diseases"]}, "patient_data": {"sharing_ipd": "Yes", "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)", "Informed Consent Form (ICF)", "Clinical Study Report (CSR)", "Analytic Code"]}}}
+{
+    "clinical_study": {
+        "@rank": "276",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04322773"
+        },
+        "id_info": {
+            "org_study_id": "APPI2-CV-2020-01",
+            "nct_id": "NCT04322773"
+        },
+        "brief_title": "Anti-il6 Treatment of Serious COVID-19 Disease With Threatening Respiratory Failure",
+        "acronym": "TOCIVID",
+        "official_title": "Effectiveness of Interleukin-6 Receptor Inhibitors in the Management of Patients With Severe SARS-CoV-2 Pneumonia: An Open-Label, Multicenter Sequential and Cluster Randomized Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Marius Henriksen",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Lars Erik Kristensen",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Frederiksberg University Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "Coronavirus disease 2019 (COVID-19) is caused by the newly discovered coronavirus,\n      SARS-CoV-2. The median time from onset of symptoms of COVID-19 to development of acute\n      respiratory distress syndrome (ARDS) has been reported as short as 9 days. No effective\n      prophylactic or post-exposure therapy is currently available. According to data from the\n      Danish Health Authority (www.sst.dk/corona), as of March 21st, 2020, there were 1326 patients\n      infected with the disease in Denmark, more than 250 are admitted to a hospital, and >50 of\n      them have required intensive care. Nearly 350.000 cases and 15.000 deaths have been reported\n      globally. These numbers are likely to markedly increase during the coming weeks, challenging\n      the capacity of health systems worldwide.\n\n      In patients infected with SARS-CoV-2, it has been described that disease severity and\n      outcomes are related to the characteristics of the immune response. Interleukin (IL)-6 and\n      other components of the inflammatory cascade contribute to host defense against infections.\n      However, exaggerated synthesis of IL-6 can lead to an acute severe systemic inflammatory\n      response known as 'cytokine storm'. In the pathogenesis of SARS-CoV-2 pneumonia, a study\n      found that a cytokine storm involving a considerable release of proinflammatory cytokines\n      occurred, including IL-6, IL-12, and tumor necrosis factor \u03b1 (TNF-\u03b1). Studies on the Middle\n      East respiratory syndrome caused by another coronavirus (MERS-CoV), indicate that cytokine\n      genes of IL-6, IL-1\u03b2, and IL-8 can be markedly upregulated. Similarly, patients with\n      SARS-CoV-2 pneumonia admitted to an intensive care unit had higher plasma levels of cytokines\n      including IL-6, IL-2, IL-7, IL-10, granulocyte-colony stimulating factor (G-CSF),\n      interferon-\u03b3-inducible protein (IP10), monocyte chemoattractant protein (MCP1), macrophage\n      inflammatory protein 1 alpha (MIP1A), and TNF-\u03b1. These findings indicate that the magnitude\n      and characteristics of the cytokine response is related to the severity and prognosis of\n      patients with SARS-CoV-2 pneumonia.\n\n      It has been suggested that IL-6 blockade may constitute a novel therapeutic strategy for\n      other types of cytokine storm, such as the systemic inflammatory response syndrome including\n      sepsis, macrophage activation syndrome and hemophagocytic lymphohistiocytosis. Remarkable\n      beneficial effects of IL-6 blockade therapy using a IL-6 receptor inhibitor has been\n      described in patients with severe SARS-CoV-2 pneumonia in a retrospective case series from\n      China.\n\n      Currently, there are two available drugs based on human monoclonal antibodies against IL-6\n      receptor, tocilizumab (RoActemra, Roche) and sarilumab (Kevzara, Sanofi). IL-6 receptor\n      inhibitors are currently licensed for several autoimmune disorders and are considered well\n      tolerated and safe in general. The most common side effects reported are upper respiratory\n      tract infections, headache, hypertension, and abnormal liver function tests. The most serious\n      side effects are serious infections, complications of diverticulitis, and hypersensitivity\n      reactions.\n\n      it is hypothesized that IL-6 might play a key role in the cytokine storm associated with\n      serious adverse outcomes in patients infected with SARS-CoV-2 pneumonia, and that blockade of\n      IL-6 would be suitable therapeutic target for these patients. The study will investigate the\n      effect of different types of IL-6 inhibition versus no adjuvant treatment compared to\n      standard of care in patients with severe SARS-CoV-2 pneumonia.\n\n      Primary objective: To compare the effect of either one of three IL-6 inhibitor\n      administrations, relative to the standard of care, on time to independence from supplementary\n      oxygen therapy, measured in days from baseline to day 28, in patients with severe SARS-CoV-2\n      pneumonia."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 4, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Sequential Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Time to independence from supplementary oxygen therapy",
+            "time_frame": "days from enrolment up 28 days"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of deaths",
+                "time_frame": "28 days from enrolment"
+            },
+            {
+                "measure": "Days out of hospital and alive",
+                "time_frame": "28 days from enrolment"
+            },
+            {
+                "measure": "Ventilator free days alive and out of hospital",
+                "time_frame": "28 days from enrolment"
+            },
+            {
+                "measure": "C-reactive protein (CRP) level",
+                "time_frame": "baseline",
+                "description": "Measured from standard blood test"
+            },
+            {
+                "measure": "C-reactive protein (CRP) level",
+                "time_frame": "peak during hospitalisation, up to 28 days",
+                "description": "Measured from standard blood test"
+            },
+            {
+                "measure": "C-reactive protein (CRP) level",
+                "time_frame": "14 days",
+                "description": "Measured from standard blood test"
+            },
+            {
+                "measure": "C-reactive protein (CRP) level",
+                "time_frame": "28 days",
+                "description": "Measured from standard blood test"
+            },
+            {
+                "measure": "Number of participants with serious adverse events",
+                "time_frame": "During treatment, up to 28 days",
+                "description": "Measured as occurrence of any serious adverse events"
+            }
+        ],
+        "number_of_arms": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "Corona Virus Disease",
+        "arm_group": [
+            {
+                "arm_group_label": "Roactemra iv",
+                "arm_group_type": "Experimental",
+                "description": "Single dose treatment with 400 mg tocilizumab intravensously"
+            },
+            {
+                "arm_group_label": "Roactemra sc",
+                "arm_group_type": "Experimental",
+                "description": "Single dose treatment with 2 x 162 mg tocilizumab subcutaneously"
+            },
+            {
+                "arm_group_label": "Kevzara sc",
+                "arm_group_type": "Experimental",
+                "description": "Single dose treatment with 1 x 200 mg sarilumab subcutaneously"
+            },
+            {
+                "arm_group_label": "Standard care",
+                "arm_group_type": "Active Comparator",
+                "description": "Management as usual"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "RoActemra iv",
+                "description": "single dose treatment with tocilizumab 400 mg intravenously",
+                "arm_group_label": "Roactemra iv",
+                "other_name": "tocilizumab 400 mg"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "RoActemra sc",
+                "description": "single dose treatment with tocilizumab 2 x 162 mg subcutaneously",
+                "arm_group_label": "Roactemra sc",
+                "other_name": "tocilizumab 2 x 162 mg"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Kevzara sc",
+                "description": "single dose treatment with sarilumab 1 x 200 mg subcutaneously",
+                "arm_group_label": "Kevzara sc",
+                "other_name": "sarilumab 1 x 200 mg"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Standard medical care",
+                "description": "management as usual",
+                "arm_group_label": [
+                    "Kevzara sc",
+                    "Roactemra iv",
+                    "Roactemra sc",
+                    "Standard care"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  SARS-CoV-2 infection confirmed by real time-PCR and\n\n          -  Positive imaging: consolidation, ground glass opacities, or bilateral pulmonary\n             infiltration either by CT-scan or chest x-ray; and\n\n          -  Need of oxygen therapy to maintain SO2>94% OR FiO2/PaO2 > 20 and at least two of the\n             following laboratory measures:\n\n          -  CRP level >70 mg/L\n\n          -  CRP level >= 40 mg/L and doubled within 48 hours (without other confirmed infectious\n             or non-infectious course),\n\n          -  Lactatdehydrogenase > 250 U/L,\n\n          -  thrombocytopenia < 120.000 x 10E9/L,\n\n          -  lymphocyte count < 0.6 x 10E9/L,\n\n          -  D-dimer > 1 ug/mL,\n\n          -  serum ferritin > 300 ug/mL\n\n        Exclusion Criteria:\n\n          -  pregnancy suspected or confirmed,\n\n          -  severe heart failure,\n\n          -  suspected or confirmed bacterial infection,\n\n          -  current solid or hematological malignancy,\n\n          -  neutropenia,\n\n          -  ALAT elevation more than three times the laboratory upper limit,\n\n          -  ASA class 5 (after COVID19 admission) or higher at inclusion (prior admission),\n\n          -  severe chronic obstructive pulmonary disease or heart failure (NYHA class II or\n             higher),\n\n          -  pregnant or lactating women,\n\n          -  current treatment with conventional synthetic disease-modifying antirheumatic drugs\n             (DMARDs)/immunosuppressive agents including IL-6 inhibitors, or with Janus kinase\n             inhibitors (JAKi) in the past 30 days or plans to receive during the study period,\n\n          -  current use of chronic oral corticosteroids in a dose higher than prednisone 10 mg or\n             equivalent per day,\n\n          -  previous or active tuberculosis (TB),\n\n          -  HIV infection regardless of immunological status, hepatitis,\n\n          -  evidence of recent (30 days) invasive bacterial or fungal infections,\n\n          -  patients who have received immunosuppressive antibody therapy within the past 5\n             months, including intravenous immunoglobulin or plans to receive during the study\n             period,\n\n          -  IV drug abuse,\n\n          -  history of inflammatory bowel disease,\n\n          -  diverticulitis,\n\n          -  ulcer,\n\n          -  perforated gastrointestinal tract,\n\n          -  participation in any clinical research study evaluating an investigational product\n             (IP) or therapy within 3 months and less than five half-lives of IP prior inclusion to\n             the study,\n\n          -  any physical examination findings and/or history of any illness that, in the opinion\n             of the study investigator, might confound the results of the study or pose an\n             additional risk to the patient by their participation in the study,\n\n          -  inability to give informed consent."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Lars Erik Kristensen, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "The Parker Institute"
+        },
+        "overall_contact": {
+            "last_name": "Lars Erik Kristensen, PhD",
+            "phone": "0045 38164157",
+            "email": "lars.erik.kristensen@regionh.dk"
+        },
+        "location": {
+            "facility": {
+                "name": "Bispebjerg-Frederiksberg Hospital",
+                "address": {
+                    "city": "Copenhagen",
+                    "zip": "2000",
+                    "country": "Denmark"
+                }
+            },
+            "contact": {
+                "last_name": "Lars Erik Kristensen, PhD",
+                "phone": "0045 38164157",
+                "email": "lars.erik.kristensen@regionh.dk"
+            },
+            "contact_backup": {
+                "last_name": "Line Rustad",
+                "phone": "0045 38164158",
+                "email": "line.rustad@regionh.dk"
+            },
+            "investigator": {
+                "last_name": "Lars Erik Kristensen, PhD",
+                "role": "Principal Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "Denmark"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 24, 2020",
+        "study_first_submitted_qc": "March 24, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 26, 2020"
+        },
+        "last_update_submitted": "April 1, 2020",
+        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Frederiksberg University Hospital",
+            "investigator_full_name": "Marius Henriksen",
+            "investigator_title": "Professor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Virus Diseases"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)",
+                "Clinical Study Report (CSR)",
+                "Analytic Code"
+            ]
+        }
+    }
+}

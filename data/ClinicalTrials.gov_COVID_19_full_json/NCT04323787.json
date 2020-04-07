@@ -1,1 +1,212 @@
-{"clinical_study": {"@rank": "206", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04323787"}, "id_info": {"org_study_id": "20-002610", "nct_id": "NCT04323787"}, "brief_title": "Viral Infection and Respiratory Illness Universal Study[VIRUS]: COVID19 Registry", "acronym": "VIRUS", "official_title": "Viral Infection and Respiratory Illness Universal Study[VIRUS]: COVID-19 Registry and Validation of C2D2 (Critical Care Data Dictionary)", "sponsors": {"lead_sponsor": {"agency": "Mayo Clinic", "agency_class": "Other"}}, "source": "Mayo Clinic", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Researchers are creating a real time COVID-19 registry of current ICU/hospital care patterns\n      to allow evaluations of safety and observational effectiveness of COVID-19 practices and to\n      determine the variations in practice across hospitals."}, "detailed_description": {"textblock": "Investigators aim is to create a real time COVID-19 registry of current ICU/hospital care\n      patterns to allow evaluations of safety and observational effectiveness of COVID-19 practices\n      and to determine the variations in practice across hospitals.\n\n      Such a set of standards would increase the quality of single and multi-center studies,\n      national registries as well as aggregation syntheses such as meta-analyses. It will also be\n      of utmost importance in tiring times of public health emergencies and will help understand\n      practice variability and outcomes during COVID-19 pandemic."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 30, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "April 30, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 30, 2021"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Other"}, "primary_outcome": {"measure": "ICU and hospital mortality of COVID-19 patients", "time_frame": "7 days", "description": "Primary outcome will be to measure ICU and hospital mortality up to 7 days of COVID-19 patients"}, "secondary_outcome": {"measure": "30 days mortality", "time_frame": "30 days", "description": "Secondary outcome will be to measure 30 days mortality from Hospital discharge"}, "number_of_groups": "1", "enrollment": {"@type": "Anticipated", "#text": "50000"}, "condition": "Coronavirus", "arm_group": {"arm_group_label": "COVID19 test positive/pending or high clinical suspicion", "description": "COVID19 test positive/pending/high clinical suspicion- patient admitted to hospital"}, "intervention": {"intervention_type": "Other", "intervention_name": "observational", "description": "No Intervention", "arm_group_label": "COVID19 test positive/pending or high clinical suspicion", "other_name": "No Intervention"}, "eligibility": {"study_pop": {"textblock": "COVID-19 Hospitalized patients"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  COVID-19 PCR positive (within 7 days)\n\n          -  COVID-19 PCR pending\n\n          -  COVID-19 high clinical suspicion\n\n        Exclusion Criteria:\n\n          -  Patient without Prior Research Authorization (applicable to Mayo Clinic sites)\n\n          -  Non COVID-19 related admissions\n\n          -  Repeated Admission to ICUs/Hospital"}, "gender": "All", "minimum_age": "N/A", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Rahul Kashya, MBBS", "role": "Principal Investigator", "affiliation": "Mayo Clinic"}, "location": [{"facility": {"name": "Mayo Clinic in Arizona", "address": {"city": "Scottsdale", "state": "Arizona", "zip": "85259", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "Ayan Sen, MD", "phone": "480-342-2000", "email": "sen.ayan@mayo.edu"}}, {"facility": {"name": "Mayo Clinic in Florida", "address": {"city": "Jacksonville", "state": "Florida", "zip": "32224", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "Devang Sanghavi, MD", "phone": "904-956-3331", "email": "Sanghavi.Devang@mayo.edu"}}, {"facility": {"name": "Society of Critical Care Medicine (150+ sites)", "address": {"city": "Chicago", "state": "Illinois", "zip": "60056", "country": "United States"}}, "status": "Not yet recruiting", "contact": {"last_name": "Vishakha Kumar, MD", "phone": "847-827-6869", "email": "vkumar@sccm.org"}}, {"facility": {"name": "Rahul Kashyap", "address": {"city": "Rochester", "state": "Minnesota", "zip": "55905", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "Rahul Kashyap", "phone": "507-255-7196", "email": "Kashyap.Rahul@mayo.edu"}, "investigator": {"last_name": "Ognjen Gajic, MD", "role": "Sub-Investigator"}}], "location_countries": {"country": "United States"}, "link": [{"url": "https://www.mayo.edu/research/clinical-trials", "description": "Mayo Clinic Clinical Trials"}, {"url": "https://www.sccm.org/Research/Research/Discovery-Research-Network/VIRUS-COVID-19-Registry", "description": "SCCM Discovery VIRUS COVID19 Information Webpage"}], "verification_date": "April 2020", "study_first_submitted": "March 24, 2020", "study_first_submitted_qc": "March 25, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "last_update_submitted": "April 1, 2020", "last_update_submitted_qc": "April 1, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Mayo Clinic", "investigator_full_name": "Rahul Kashyap", "investigator_title": "Principal Investigator"}, "keyword": "COVID19", "condition_browse": {"mesh_term": "Virus Diseases"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "206",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04323787"
+        },
+        "id_info": {
+            "org_study_id": "20-002610",
+            "nct_id": "NCT04323787"
+        },
+        "brief_title": "Viral Infection and Respiratory Illness Universal Study[VIRUS]: COVID19 Registry",
+        "acronym": "VIRUS",
+        "official_title": "Viral Infection and Respiratory Illness Universal Study[VIRUS]: COVID-19 Registry and Validation of C2D2 (Critical Care Data Dictionary)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Mayo Clinic",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Mayo Clinic",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Researchers are creating a real time COVID-19 registry of current ICU/hospital care patterns\n      to allow evaluations of safety and observational effectiveness of COVID-19 practices and to\n      determine the variations in practice across hospitals."
+        },
+        "detailed_description": {
+            "textblock": "Investigators aim is to create a real time COVID-19 registry of current ICU/hospital care\n      patterns to allow evaluations of safety and observational effectiveness of COVID-19 practices\n      and to determine the variations in practice across hospitals.\n\n      Such a set of standards would increase the quality of single and multi-center studies,\n      national registries as well as aggregation syntheses such as meta-analyses. It will also be\n      of utmost importance in tiring times of public health emergencies and will help understand\n      practice variability and outcomes during COVID-19 pandemic."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Other"
+        },
+        "primary_outcome": {
+            "measure": "ICU and hospital mortality of COVID-19 patients",
+            "time_frame": "7 days",
+            "description": "Primary outcome will be to measure ICU and hospital mortality up to 7 days of COVID-19 patients"
+        },
+        "secondary_outcome": {
+            "measure": "30 days mortality",
+            "time_frame": "30 days",
+            "description": "Secondary outcome will be to measure 30 days mortality from Hospital discharge"
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50000"
+        },
+        "condition": "Coronavirus",
+        "arm_group": {
+            "arm_group_label": "COVID19 test positive/pending or high clinical suspicion",
+            "description": "COVID19 test positive/pending/high clinical suspicion- patient admitted to hospital"
+        },
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "observational",
+            "description": "No Intervention",
+            "arm_group_label": "COVID19 test positive/pending or high clinical suspicion",
+            "other_name": "No Intervention"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "COVID-19 Hospitalized patients"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 PCR positive (within 7 days)\n\n          -  COVID-19 PCR pending\n\n          -  COVID-19 high clinical suspicion\n\n        Exclusion Criteria:\n\n          -  Patient without Prior Research Authorization (applicable to Mayo Clinic sites)\n\n          -  Non COVID-19 related admissions\n\n          -  Repeated Admission to ICUs/Hospital"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Rahul Kashya, MBBS",
+            "role": "Principal Investigator",
+            "affiliation": "Mayo Clinic"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Mayo Clinic in Arizona",
+                    "address": {
+                        "city": "Scottsdale",
+                        "state": "Arizona",
+                        "zip": "85259",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ayan Sen, MD",
+                    "phone": "480-342-2000",
+                    "email": "sen.ayan@mayo.edu"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Mayo Clinic in Florida",
+                    "address": {
+                        "city": "Jacksonville",
+                        "state": "Florida",
+                        "zip": "32224",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Devang Sanghavi, MD",
+                    "phone": "904-956-3331",
+                    "email": "Sanghavi.Devang@mayo.edu"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Society of Critical Care Medicine (150+ sites)",
+                    "address": {
+                        "city": "Chicago",
+                        "state": "Illinois",
+                        "zip": "60056",
+                        "country": "United States"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Vishakha Kumar, MD",
+                    "phone": "847-827-6869",
+                    "email": "vkumar@sccm.org"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Rahul Kashyap",
+                    "address": {
+                        "city": "Rochester",
+                        "state": "Minnesota",
+                        "zip": "55905",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Rahul Kashyap",
+                    "phone": "507-255-7196",
+                    "email": "Kashyap.Rahul@mayo.edu"
+                },
+                "investigator": {
+                    "last_name": "Ognjen Gajic, MD",
+                    "role": "Sub-Investigator"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "link": [
+            {
+                "url": "https://www.mayo.edu/research/clinical-trials",
+                "description": "Mayo Clinic Clinical Trials"
+            },
+            {
+                "url": "https://www.sccm.org/Research/Research/Discovery-Research-Network/VIRUS-COVID-19-Registry",
+                "description": "SCCM Discovery VIRUS COVID19 Information Webpage"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 24, 2020",
+        "study_first_submitted_qc": "March 25, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "last_update_submitted": "April 1, 2020",
+        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Mayo Clinic",
+            "investigator_full_name": "Rahul Kashyap",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": "COVID19",
+        "condition_browse": {
+            "mesh_term": "Virus Diseases"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

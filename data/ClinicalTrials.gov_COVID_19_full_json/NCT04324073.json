@@ -1,1 +1,262 @@
-{"clinical_study": {"@rank": "258", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04324073"}, "id_info": {"org_study_id": "APHP200375-2", "nct_id": "NCT04324073"}, "brief_title": "Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Sarilumab Trial - CORIMUNO-19 - SARI", "acronym": "CORIMUNO-SARI", "official_title": "Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Sarilumab Trial - CORIMUNO-19 - SARI", "sponsors": {"lead_sponsor": {"agency": "Assistance Publique - H\u00f4pitaux de Paris", "agency_class": "Other"}}, "source": "Assistance Publique - H\u00f4pitaux de Paris", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The overall objective of the study is to determine the therapeutic effect and tolerance of\n      Sarilumab in patients with moderate, severe pneumonia or critical pneumonia associated with\n      Coronavirus disease 2019 (COVID-19). Sarilumab is a human IgG1 monoclonal antibody that binds\n      specifically to both soluble and membrane-bound IL-6Rs (sIL-6R\u03b1 and mIL-6R\u03b1) and has been\n      shown to inhibit IL-6-mediated signaling through these receptors. The study has a cohort\n      multiple Randomized Controlled Trials (cmRCT) design. Randomization will occur prior to\n      offering Sarilumab administration to patients enrolled in the CORIMUNO-19 cohort. Sarilumab\n      will be administered to consenting adult patients hospitalized with COVID-19 either diagnosed\n      with moderate or severe pneumonia requiring no mechanical ventilation or critical pneumonia\n      requiring mechanical ventilation. Patients who will chose not to receive Sarilumab will\n      receive standard of care. Outcomes of Sarilumab-treated patients will be compared with\n      outcomes of standard of care-treated patients as well as with outcomes of patients treated\n      with other immune modulators."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 27, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 31, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 27, 2021"}, "phase": "Phase 2/Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "Bayesian open labelled randomized clinical trial", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Survival without needs of ventilator utilization at day 14.", "time_frame": "14 days", "description": "Survival without needs of ventilator utilization (including Non invasive ventilation) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NVI), or death. New Do Not Resuscitate (DNR) order will be considered as an event at the date of the DNR."}, {"measure": "WHO progression scale <=5 at day 4", "time_frame": "4 days", "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"}, {"measure": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14", "time_frame": "14 days", "description": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14. Death or DNR order will be considered as a competing event."}, {"measure": "WHO progression scale <=7 at day 4", "time_frame": "4 days", "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"}], "secondary_outcome": [{"measure": "WHO progression scale", "time_frame": "7 and 14 days", "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"}, {"measure": "Survival", "time_frame": "14, 28 and 90 days", "description": "Overall survival"}, {"measure": "28-day ventilator free-days", "time_frame": "28 days"}, {"measure": "respiratory acidosis at day 4", "time_frame": "4 days", "description": "arterial blood pH of <7.25 with a partial pressure of arterial carbon dioxide [Paco2] of \u226560 mm Hg for >6 hours"}, {"measure": "PaO2/FiO2 ratio", "time_frame": "day 1 to day 14", "description": "evolution of PaO2/FiO2 ratio"}, {"measure": "time to oxygen supply independency", "time_frame": "14 days", "description": "time to oxygen supply independency"}, {"measure": "duration of hospitalization", "time_frame": "90 days", "description": "duration of hospitalization"}, {"measure": "time to negative viral excretion", "time_frame": "90 days", "description": "time to negative viral excretion"}, {"measure": "time to ICU discharge", "time_frame": "90 days", "description": "time to ICU discharge"}, {"measure": "time to hospital discharge", "time_frame": "90 days", "description": "time to hospital discharge"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "240"}, "condition": "Corona Virus Infection", "arm_group": [{"arm_group_label": "SARILUMAB", "arm_group_type": "Experimental", "description": "Sarilumab (an IV dose of 400 mg of sarilumab in a 1 hour-infusion at D1)."}, {"arm_group_label": "Standard of care", "arm_group_type": "No Intervention", "description": "best standard of care"}], "intervention": {"intervention_type": "Drug", "intervention_name": "Sarilumab", "description": "(an IV dose of 400 mg of sarilumab in a 1 hour-infusion at D1", "arm_group_label": "SARILUMAB"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Patients included in the CORIMUNO-19 cohort\n\n          2. Patients belonging to one of the 2 following groups:\n\n               -  Group 1: patients not requiring ICU at admission with moderate and severe\n                  pneumopathy according to the OMS Criteria of severity of COVID pneumopathy.\n\n        Moderate cases :\n\n        Cases meeting all of the following criteria:\n\n          -  Showing fever and respiratory symptoms with radiological findings of pneumonia.\n\n          -  Requiring between 3L/min and 5L/min of oxygen to maintain SpO2 >97% Severe cases\n\n        Cases meeting any of the following criteria:\n\n          -  Respiratory distress (\u226730 breaths/ min);\n\n          -  Oxygen saturation\u226493% at rest in ambient air; or Oxygen saturation \u226497 % with O2 >\n             5L/min.\n\n          -  PaO2/FiO2\u2266300mmHg\n\n          -  Group 2: patients requiring ICU based on Criteria of severity of COVID pneumopathy.\n\n          -  Respiratory failure and requiring mechanical ventilation\n\n          -  No do-not-resuscitate order (DNR order)\n\n        Exclusion Criteria:\n\n          -  Patients with exclusion criteria to the CORIMUNO-19 cohort.\n\n          -  Known hypersensitivity to Sarilumab or to any of their excipients.\n\n          -  Pregnancy\n\n          -  Current documented bacterial infection\n\n          -  Patient with any of following laboratory results out of the ranges detailed below at\n             screening should be discussed depending of the medication:\n\n          -  Absolute neutrophil count (ANC) \u2264 1.0 x 109/L\n\n          -  Haemoglobin level: no limitation\n\n          -  Platelets (PLT) < 50 G /L\n\n          -  SGOT or SGPT > 5N"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Olivier HERMINE, MD-PhD", "phone": "603707920", "phone_ext": "+33", "email": "ohermine@gmail.com"}, "overall_contact_backup": {"last_name": "Matthieu RESCHE-RIGON, MD PhD", "phone": "685740240", "phone_ext": "+33", "email": "matthieu.resche-rigon@u-paris.fr"}, "location": [{"facility": {"name": "Kremlin Bicetre hospital APHP", "address": {"city": "Le Kremlin-Bic\u00eatre", "state": "Ile De France", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Xavier Mariette, MD-PHD"}}, {"facility": {"name": "Cochin Aphp", "address": {"city": "Paris", "state": "Ile De France", "country": "France"}}, "status": "Recruiting"}, {"facility": {"name": "HEGP", "address": {"city": "Paris", "state": "Ile De France", "country": "France"}}, "status": "Recruiting"}, {"facility": {"name": "NECKER Hospital", "address": {"city": "Paris", "zip": "75005", "country": "France"}}, "status": "Not yet recruiting", "contact": {"last_name": "olivier HERMINE, MD PHD", "phone": "603707920", "phone_ext": "+33", "email": "ohermine@gmail.com"}, "contact_backup": {"last_name": "matthieu resche-rigon, MD-PhD", "phone": "685740240", "phone_ext": "+33", "email": "matthieu.resche-rigon@u-paris.fr"}}], "location_countries": {"country": "France"}, "verification_date": "March 2020", "study_first_submitted": "March 25, 2020", "study_first_submitted_qc": "March 25, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": ["Coronavirus Infections", "Severe Acute Respiratory Syndrome", "Virus Diseases"]}, "patient_data": {"sharing_ipd": "Yes"}}}
+{
+    "clinical_study": {
+        "@rank": "258",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04324073"
+        },
+        "id_info": {
+            "org_study_id": "APHP200375-2",
+            "nct_id": "NCT04324073"
+        },
+        "brief_title": "Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Sarilumab Trial - CORIMUNO-19 - SARI",
+        "acronym": "CORIMUNO-SARI",
+        "official_title": "Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Sarilumab Trial - CORIMUNO-19 - SARI",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique - H\u00f4pitaux de Paris",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Assistance Publique - H\u00f4pitaux de Paris",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The overall objective of the study is to determine the therapeutic effect and tolerance of\n      Sarilumab in patients with moderate, severe pneumonia or critical pneumonia associated with\n      Coronavirus disease 2019 (COVID-19). Sarilumab is a human IgG1 monoclonal antibody that binds\n      specifically to both soluble and membrane-bound IL-6Rs (sIL-6R\u03b1 and mIL-6R\u03b1) and has been\n      shown to inhibit IL-6-mediated signaling through these receptors. The study has a cohort\n      multiple Randomized Controlled Trials (cmRCT) design. Randomization will occur prior to\n      offering Sarilumab administration to patients enrolled in the CORIMUNO-19 cohort. Sarilumab\n      will be administered to consenting adult patients hospitalized with COVID-19 either diagnosed\n      with moderate or severe pneumonia requiring no mechanical ventilation or critical pneumonia\n      requiring mechanical ventilation. Patients who will chose not to receive Sarilumab will\n      receive standard of care. Outcomes of Sarilumab-treated patients will be compared with\n      outcomes of standard of care-treated patients as well as with outcomes of patients treated\n      with other immune modulators."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 27, 2021"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Bayesian open labelled randomized clinical trial",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Survival without needs of ventilator utilization at day 14.",
+                "time_frame": "14 days",
+                "description": "Survival without needs of ventilator utilization (including Non invasive ventilation) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NVI), or death. New Do Not Resuscitate (DNR) order will be considered as an event at the date of the DNR."
+            },
+            {
+                "measure": "WHO progression scale <=5 at day 4",
+                "time_frame": "4 days",
+                "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"
+            },
+            {
+                "measure": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14",
+                "time_frame": "14 days",
+                "description": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14. Death or DNR order will be considered as a competing event."
+            },
+            {
+                "measure": "WHO progression scale <=7 at day 4",
+                "time_frame": "4 days",
+                "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "WHO progression scale",
+                "time_frame": "7 and 14 days",
+                "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"
+            },
+            {
+                "measure": "Survival",
+                "time_frame": "14, 28 and 90 days",
+                "description": "Overall survival"
+            },
+            {
+                "measure": "28-day ventilator free-days",
+                "time_frame": "28 days"
+            },
+            {
+                "measure": "respiratory acidosis at day 4",
+                "time_frame": "4 days",
+                "description": "arterial blood pH of <7.25 with a partial pressure of arterial carbon dioxide [Paco2] of \u226560 mm Hg for >6 hours"
+            },
+            {
+                "measure": "PaO2/FiO2 ratio",
+                "time_frame": "day 1 to day 14",
+                "description": "evolution of PaO2/FiO2 ratio"
+            },
+            {
+                "measure": "time to oxygen supply independency",
+                "time_frame": "14 days",
+                "description": "time to oxygen supply independency"
+            },
+            {
+                "measure": "duration of hospitalization",
+                "time_frame": "90 days",
+                "description": "duration of hospitalization"
+            },
+            {
+                "measure": "time to negative viral excretion",
+                "time_frame": "90 days",
+                "description": "time to negative viral excretion"
+            },
+            {
+                "measure": "time to ICU discharge",
+                "time_frame": "90 days",
+                "description": "time to ICU discharge"
+            },
+            {
+                "measure": "time to hospital discharge",
+                "time_frame": "90 days",
+                "description": "time to hospital discharge"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "240"
+        },
+        "condition": "Corona Virus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "SARILUMAB",
+                "arm_group_type": "Experimental",
+                "description": "Sarilumab (an IV dose of 400 mg of sarilumab in a 1 hour-infusion at D1)."
+            },
+            {
+                "arm_group_label": "Standard of care",
+                "arm_group_type": "No Intervention",
+                "description": "best standard of care"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Sarilumab",
+            "description": "(an IV dose of 400 mg of sarilumab in a 1 hour-infusion at D1",
+            "arm_group_label": "SARILUMAB"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Patients included in the CORIMUNO-19 cohort\n\n          2. Patients belonging to one of the 2 following groups:\n\n               -  Group 1: patients not requiring ICU at admission with moderate and severe\n                  pneumopathy according to the OMS Criteria of severity of COVID pneumopathy.\n\n        Moderate cases :\n\n        Cases meeting all of the following criteria:\n\n          -  Showing fever and respiratory symptoms with radiological findings of pneumonia.\n\n          -  Requiring between 3L/min and 5L/min of oxygen to maintain SpO2 >97% Severe cases\n\n        Cases meeting any of the following criteria:\n\n          -  Respiratory distress (\u226730 breaths/ min);\n\n          -  Oxygen saturation\u226493% at rest in ambient air; or Oxygen saturation \u226497 % with O2 >\n             5L/min.\n\n          -  PaO2/FiO2\u2266300mmHg\n\n          -  Group 2: patients requiring ICU based on Criteria of severity of COVID pneumopathy.\n\n          -  Respiratory failure and requiring mechanical ventilation\n\n          -  No do-not-resuscitate order (DNR order)\n\n        Exclusion Criteria:\n\n          -  Patients with exclusion criteria to the CORIMUNO-19 cohort.\n\n          -  Known hypersensitivity to Sarilumab or to any of their excipients.\n\n          -  Pregnancy\n\n          -  Current documented bacterial infection\n\n          -  Patient with any of following laboratory results out of the ranges detailed below at\n             screening should be discussed depending of the medication:\n\n          -  Absolute neutrophil count (ANC) \u2264 1.0 x 109/L\n\n          -  Haemoglobin level: no limitation\n\n          -  Platelets (PLT) < 50 G /L\n\n          -  SGOT or SGPT > 5N"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Olivier HERMINE, MD-PhD",
+            "phone": "603707920",
+            "phone_ext": "+33",
+            "email": "ohermine@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Matthieu RESCHE-RIGON, MD PhD",
+            "phone": "685740240",
+            "phone_ext": "+33",
+            "email": "matthieu.resche-rigon@u-paris.fr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Kremlin Bicetre hospital APHP",
+                    "address": {
+                        "city": "Le Kremlin-Bic\u00eatre",
+                        "state": "Ile De France",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Xavier Mariette, MD-PHD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Cochin Aphp",
+                    "address": {
+                        "city": "Paris",
+                        "state": "Ile De France",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "HEGP",
+                    "address": {
+                        "city": "Paris",
+                        "state": "Ile De France",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "NECKER Hospital",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75005",
+                        "country": "France"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "olivier HERMINE, MD PHD",
+                    "phone": "603707920",
+                    "phone_ext": "+33",
+                    "email": "ohermine@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "matthieu resche-rigon, MD-PhD",
+                    "phone": "685740240",
+                    "phone_ext": "+33",
+                    "email": "matthieu.resche-rigon@u-paris.fr"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 25, 2020",
+        "study_first_submitted_qc": "March 25, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes"
+        }
+    }
+}

@@ -1,1 +1,233 @@
-{"clinical_study": {"@rank": "59", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04273529"}, "id_info": {"org_study_id": "20200214-COVID-19-M-T", "nct_id": "NCT04273529"}, "brief_title": "The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia", "official_title": "The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia: a Prospective, Multicenter, Randomized, Double-blind, Placebo, Parallel Controlled Clinical Study", "sponsors": {"lead_sponsor": {"agency": "First Affiliated Hospital of Wenzhou Medical University", "agency_class": "Other"}, "collaborator": [{"agency": "Second Affiliated Hospital of Wenzhou Medical University", "agency_class": "Other"}, {"agency": "Wenzhou Central Hospital", "agency_class": "Other"}]}, "source": "First Affiliated Hospital of Wenzhou Medical University", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of\n      pneumonia of unknown cause. In a short time, Chinese scientists had shared the genome\n      information of a novel coronavirus (2019-nCoV) from these pneumonia patients and developed a\n      real-time reverse transcription PCR (real time RT-PCR) diagnostic assay.\n\n      In view of the fact that there is currently no effective antiviral therapy, the prevention or\n      treatment of lung injury caused by COVID-19 can be an alternative target for current\n      treatment. Thalidomide has anti-inflammatory, anti-fibrotic, anti-angiogenesis, and immune\n      regulation effects. This study is the first Prospective, Multicenter, Randomized,\n      Double-blind, Placebo, Parallel Controlled Clinical Study at home and abroad to use\n      immunomodulators to treat patients with COVID-19 infection."}, "detailed_description": {"textblock": "The new coronavirus (COVID-19) [1] belongs to the new beta coronavirus. Current research\n      shows that it has 85% homology with bat SARS-like coronavirus (bat-SL-CoVZC45), but its\n      genetic characteristics are similar to SARSr-CoV. There is a clear difference from MERSr-COV.\n      Since December 2019, Wuhan City, Hubei Province has successively found multiple cases of\n      patients with pneumonia infected by a new type of coronavirus. With the spread of the\n      epidemic, as of 12:00 on February 12, 2020, a total of 44726 confirmed cases nationwide\n      (Hubei Province) 33,366 cases, accounting for 74.6%), with 1,114 deaths (1068 cases in Hubei\n      Province), and a mortality rate of 2.49% (3.20% in Hubei Province).\n\n      In view of the fact that there is currently no effective antiviral therapy, the prevention or\n      treatment of lung injury caused by COVID-19 can be an alternative target for current\n      treatment. Thalidomide has anti-inflammatory, anti-fibrotic, anti-angiogenesis, and immune\n      regulation effects. In the early clinical practice of treating severe A H1N1, it was\n      clinically concerned, and combined with hormones and conventional treatment, and achieved\n      good results.\n\n      Although the death rate of COVID-19 infected persons is not high, their rapid infectiousness\n      and the lack of effective antiviral treatment currently have become the focus of the national\n      and international epidemic. Thalidomide has been available for more than sixty years, and has\n      been widely used in clinical applications. It has been proved to be safe and effective in\n      IPF, severe H1N1 influenza lung injury and paraquat poisoning lung injury, and the mechanism\n      of anti-inflammatory and anti-fibrosis is relatively clear. As the current research on\n      COVID-19 at home and abroad mainly focuses on the exploration of antiviral efficacy, this\n      study intends to find another way to start with host treatment in the case that antiviral is\n      difficult to overcome in the short term, in order to control or relieve lung inflammation\n      caused by the virus To improve lung function. This study is the first study at home and\n      abroad to use immunomodulators to treat patients with COVID-19 infection. It is hoped that\n      the patients can get out of the bitter sea as soon as possible and provide effective\n      solutions for the country and society."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "February 20, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 30, 2020"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"}, "primary_outcome": {"measure": "Time to Clinical recoveryTime to Clinical Recovery (TTCR)", "time_frame": "up to 28 days", "description": "TTCR is defined as the time (in hours) from initiation of study treatment (active or placebo) until normalisation of fever, respiratory rate, and oxygen saturation, and alleviation of cough, sustained for at least 72 hours. Normalisation and alleviation criteria:\nFever - \u226436.6\u00b0C or -axilla, \u226437.2 \u00b0C oral or \u226437.8\u00b0C rectal or tympanic, Respiratory rate - \u226424/minute on room air, Oxygen saturation - >94% on room air, Cough - mild or absent on a patient reported scale of severe, moderate, mild, absent."}, "secondary_outcome": [{"measure": "All cause mortality", "time_frame": "up to 28 days", "description": "baseline SpO2 during screening, PaO2/FiO2 \uff1c300mmHg or a respiratory rate \u2265 24 breaths per min without supplemental oxygen"}, {"measure": "Frequency of respiratory progression", "time_frame": "up to 28 days", "description": "Defined as SPO2\u2264 94% on room air or PaO2/FiO2 <300mmHg and requirement for supplemental oxygen or more advanced ventilator support."}, {"measure": "Time to defervescence", "time_frame": "up to 28 days", "description": "in those with fever at enrolment"}], "other_outcome": [{"measure": "Time to cough reported as mild or absent", "time_frame": "up to 28 days", "description": "in those with cough at enrolment rated severe or moderate"}, {"measure": "Respiratory improvement time", "time_frame": "up to 28 days", "description": "patients with moderate / severe dyspnea when enrolled"}, {"measure": "Frequency of requirement for supplemental oxygen or non-invasive ventilation", "time_frame": "up to 28 days"}, {"measure": "Time to 2019-nCoV RT-PCR negative in upper respiratory tract specimen", "time_frame": "up to 28 days"}, {"measure": "Change (reduction) in 2019-nCoV viral load in upper respiratory tract specimen as assessed by area under viral load curve", "time_frame": "up to 28 days"}, {"measure": "Frequency of requirement for mechanical ventilation", "time_frame": "up to 28 days"}, {"measure": "Frequency of serious adverse events", "time_frame": "up to 28 days"}, {"measure": "Serum TNF-\u03b1, IL-1\u03b2, IL-2, IL-6, IL-7, IL-10, GSCF, IP10\uff0cMCP1, MIP1\u03b1 and other cytokine expression levels before and after treatment", "time_frame": "up to 28 days"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "100"}, "condition": "COVID-19 Thalidomide", "arm_group": [{"arm_group_label": "Control group", "arm_group_type": "Placebo Comparator", "description": "placebo"}, {"arm_group_label": "Thalidomide group", "arm_group_type": "Experimental", "description": "thalidomide"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "thalidomide", "description": "100mg\uff0cpo\uff0cqn\uff0cfor 14 days.", "arm_group_label": "Thalidomide group", "other_name": "fanyingting"}, {"intervention_type": "Drug", "intervention_name": "placebo", "description": "100mg\uff0cpo\uff0cqn\uff0cfor 14 days.", "arm_group_label": "Control group"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Age \u226518 years;\n\n          2. Laboratory (RT-PCR) diagnosis of common patients infected with COVID-19 (refer to the\n             fifth edition of the Chinese Guidelines for Diagnosis and Treatment);\n\n          3. chest imaging confirmed lung damage;\n\n          4. The diagnosis is less than or equal to 8 days;\n\n        Exclusion Criteria:\n\n          1. Severe liver disease (such as Child Pugh score \u2265 C, AST> 5 times the upper limit);\n             severe renal dysfunction (the glomerulus is 30ml / min / 1.73m2 or less)\n\n          2. Positive pregnancy or breastfeeding or pregnancy test;\n\n          3. In the 30 days before the screening assessment, have taken any experimental treatment\n             drugs for COVID-19 (including off-label, informed consent use or trial-related);\n\n          4. Those with a history of thromboembolism, except for those caused by PICC."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Jinglin Xia, MD", "role": "Principal Investigator", "affiliation": "First Affiliated Hospital of Wenzhou Medical University"}, "overall_contact": {"last_name": "Jinglin Xia, MD", "phone": "0577-55578166", "email": "xiajinglin@fudan.edu.cn"}, "reference": [{"citation": "Zhao L, Xiao K, Wang H, Wang Z, Sun L, Zhang F, Zhang X, Tang F, He W. Thalidomide has a therapeutic effect on interstitial lung fibrosis: evidence from in vitro and in vivo studies. Clin Exp Immunol. 2009 Aug;157(2):310-5. doi: 10.1111/j.1365-2249.2009.03962.x.", "PMID": "19604271"}, {"citation": "Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. 2020 Feb 15;395(10223):473-475. doi: 10.1016/S0140-6736(20)30317-2. Epub 2020 Feb 7.", "PMID": "32043983"}, {"citation": "Jin YH, Cai L, Cheng ZS, Cheng H, Deng T, Fan YP, Fang C, Huang D, Huang LQ, Huang Q, Han Y, Hu B, Hu F, Li BH, Li YR, Liang K, Lin LK, Luo LS, Ma J, Ma LL, Peng ZY, Pan YB, Pan ZY, Ren XQ, Sun HM, Wang Y, Wang YY, Weng H, Wei CJ, Wu DF, Xia J, Xiong Y, Xu HB, Yao XM, Yuan YF, Ye TS, Zhang XC, Zhang YW, Zhang YG, Zhang HM, Zhao Y, Zhao MJ, Zi H, Zeng XT, Wang YY, Wang XH; , for the Zhongnan Hospital of Wuhan University Novel Coronavirus Management and Research Team, Evidence-Based Medicine Chapter of China International Exchange and Promotive Association for Medical and Health Care (CPAM). A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version). Mil Med Res. 2020 Feb 6;7(1):4. doi: 10.1186/s40779-020-0233-6.", "PMID": "32029004"}, {"citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]", "PMID": "32031570"}, {"citation": "Wen H, Ma H, Cai Q, Lin S, Lei X, He B, Wu S, Wang Z, Gao Y, Liu W, Liu W, Tao Q, Long Z, Yan M, Li D, Kelley KW, Yang Y, Huang H, Liu Q. Recurrent ECSIT mutation encoding V140A triggers hyperinflammation and promotes hemophagocytic syndrome in extranodal NK/T cell lymphoma. Nat Med. 2018 Feb;24(2):154-164. doi: 10.1038/nm.4456. Epub 2018 Jan 1.", "PMID": "29291352"}, {"citation": "Kwon HY, Han YJ, Im JH, Baek JH, Lee JS. Two cases of immune reconstitution inflammatory syndrome in HIV patients treated with thalidomide. Int J STD AIDS. 2019 Oct;30(11):1131-1135. doi: 10.1177/0956462419847297. Epub 2019 Sep 19.", "PMID": "31533530"}, {"citation": "Zhu H, Shi X, Ju D, Huang H, Wei W, Dong X. Anti-inflammatory effect of thalidomide on H1N1 influenza virus-induced pulmonary injury in mice. Inflammation. 2014 Dec;37(6):2091-8. doi: 10.1007/s10753-014-9943-9.", "PMID": "24912813"}], "results_reference": {"citation": "Bartlett JB, Dredge K, Dalgleish AG. The evolution of thalidomide and its IMiD derivatives as anticancer agents. Nat Rev Cancer. 2004 Apr;4(4):314-22. doi: 10.1038/nrc1323. Review.", "PMID": "15057291"}, "verification_date": "February 2020", "study_first_submitted": "February 14, 2020", "study_first_submitted_qc": "February 14, 2020", "study_first_posted": {"@type": "Actual", "#text": "February 18, 2020"}, "last_update_submitted": "February 19, 2020", "last_update_submitted_qc": "February 19, 2020", "last_update_posted": {"@type": "Actual", "#text": "February 21, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Pneumonia"}, "intervention_browse": {"mesh_term": "Thalidomide"}}}
+{
+    "clinical_study": {
+        "@rank": "59",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04273529"
+        },
+        "id_info": {
+            "org_study_id": "20200214-COVID-19-M-T",
+            "nct_id": "NCT04273529"
+        },
+        "brief_title": "The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia",
+        "official_title": "The Efficacy and Safety of Thalidomide in the Adjuvant Treatment of Moderate New Coronavirus (COVID-19) Pneumonia: a Prospective, Multicenter, Randomized, Double-blind, Placebo, Parallel Controlled Clinical Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "First Affiliated Hospital of Wenzhou Medical University",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Second Affiliated Hospital of Wenzhou Medical University",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Wenzhou Central Hospital",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "First Affiliated Hospital of Wenzhou Medical University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "In December 2019, Wuhan, in Hubei province, China, became the center of an outbreak of\n      pneumonia of unknown cause. In a short time, Chinese scientists had shared the genome\n      information of a novel coronavirus (2019-nCoV) from these pneumonia patients and developed a\n      real-time reverse transcription PCR (real time RT-PCR) diagnostic assay.\n\n      In view of the fact that there is currently no effective antiviral therapy, the prevention or\n      treatment of lung injury caused by COVID-19 can be an alternative target for current\n      treatment. Thalidomide has anti-inflammatory, anti-fibrotic, anti-angiogenesis, and immune\n      regulation effects. This study is the first Prospective, Multicenter, Randomized,\n      Double-blind, Placebo, Parallel Controlled Clinical Study at home and abroad to use\n      immunomodulators to treat patients with COVID-19 infection."
+        },
+        "detailed_description": {
+            "textblock": "The new coronavirus (COVID-19) [1] belongs to the new beta coronavirus. Current research\n      shows that it has 85% homology with bat SARS-like coronavirus (bat-SL-CoVZC45), but its\n      genetic characteristics are similar to SARSr-CoV. There is a clear difference from MERSr-COV.\n      Since December 2019, Wuhan City, Hubei Province has successively found multiple cases of\n      patients with pneumonia infected by a new type of coronavirus. With the spread of the\n      epidemic, as of 12:00 on February 12, 2020, a total of 44726 confirmed cases nationwide\n      (Hubei Province) 33,366 cases, accounting for 74.6%), with 1,114 deaths (1068 cases in Hubei\n      Province), and a mortality rate of 2.49% (3.20% in Hubei Province).\n\n      In view of the fact that there is currently no effective antiviral therapy, the prevention or\n      treatment of lung injury caused by COVID-19 can be an alternative target for current\n      treatment. Thalidomide has anti-inflammatory, anti-fibrotic, anti-angiogenesis, and immune\n      regulation effects. In the early clinical practice of treating severe A H1N1, it was\n      clinically concerned, and combined with hormones and conventional treatment, and achieved\n      good results.\n\n      Although the death rate of COVID-19 infected persons is not high, their rapid infectiousness\n      and the lack of effective antiviral treatment currently have become the focus of the national\n      and international epidemic. Thalidomide has been available for more than sixty years, and has\n      been widely used in clinical applications. It has been proved to be safe and effective in\n      IPF, severe H1N1 influenza lung injury and paraquat poisoning lung injury, and the mechanism\n      of anti-inflammatory and anti-fibrosis is relatively clear. As the current research on\n      COVID-19 at home and abroad mainly focuses on the exploration of antiviral efficacy, this\n      study intends to find another way to start with host treatment in the case that antiviral is\n      difficult to overcome in the short term, in order to control or relieve lung inflammation\n      caused by the virus To improve lung function. This study is the first study at home and\n      abroad to use immunomodulators to treat patients with COVID-19 infection. It is hoped that\n      the patients can get out of the bitter sea as soon as possible and provide effective\n      solutions for the country and society."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "February 20, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 30, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Time to Clinical recoveryTime to Clinical Recovery (TTCR)",
+            "time_frame": "up to 28 days",
+            "description": "TTCR is defined as the time (in hours) from initiation of study treatment (active or placebo) until normalisation of fever, respiratory rate, and oxygen saturation, and alleviation of cough, sustained for at least 72 hours. Normalisation and alleviation criteria:\nFever - \u226436.6\u00b0C or -axilla, \u226437.2 \u00b0C oral or \u226437.8\u00b0C rectal or tympanic, Respiratory rate - \u226424/minute on room air, Oxygen saturation - >94% on room air, Cough - mild or absent on a patient reported scale of severe, moderate, mild, absent."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "All cause mortality",
+                "time_frame": "up to 28 days",
+                "description": "baseline SpO2 during screening, PaO2/FiO2 \uff1c300mmHg or a respiratory rate \u2265 24 breaths per min without supplemental oxygen"
+            },
+            {
+                "measure": "Frequency of respiratory progression",
+                "time_frame": "up to 28 days",
+                "description": "Defined as SPO2\u2264 94% on room air or PaO2/FiO2 <300mmHg and requirement for supplemental oxygen or more advanced ventilator support."
+            },
+            {
+                "measure": "Time to defervescence",
+                "time_frame": "up to 28 days",
+                "description": "in those with fever at enrolment"
+            }
+        ],
+        "other_outcome": [
+            {
+                "measure": "Time to cough reported as mild or absent",
+                "time_frame": "up to 28 days",
+                "description": "in those with cough at enrolment rated severe or moderate"
+            },
+            {
+                "measure": "Respiratory improvement time",
+                "time_frame": "up to 28 days",
+                "description": "patients with moderate / severe dyspnea when enrolled"
+            },
+            {
+                "measure": "Frequency of requirement for supplemental oxygen or non-invasive ventilation",
+                "time_frame": "up to 28 days"
+            },
+            {
+                "measure": "Time to 2019-nCoV RT-PCR negative in upper respiratory tract specimen",
+                "time_frame": "up to 28 days"
+            },
+            {
+                "measure": "Change (reduction) in 2019-nCoV viral load in upper respiratory tract specimen as assessed by area under viral load curve",
+                "time_frame": "up to 28 days"
+            },
+            {
+                "measure": "Frequency of requirement for mechanical ventilation",
+                "time_frame": "up to 28 days"
+            },
+            {
+                "measure": "Frequency of serious adverse events",
+                "time_frame": "up to 28 days"
+            },
+            {
+                "measure": "Serum TNF-\u03b1, IL-1\u03b2, IL-2, IL-6, IL-7, IL-10, GSCF, IP10\uff0cMCP1, MIP1\u03b1 and other cytokine expression levels before and after treatment",
+                "time_frame": "up to 28 days"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "COVID-19 Thalidomide",
+        "arm_group": [
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Placebo Comparator",
+                "description": "placebo"
+            },
+            {
+                "arm_group_label": "Thalidomide group",
+                "arm_group_type": "Experimental",
+                "description": "thalidomide"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "thalidomide",
+                "description": "100mg\uff0cpo\uff0cqn\uff0cfor 14 days.",
+                "arm_group_label": "Thalidomide group",
+                "other_name": "fanyingting"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "placebo",
+                "description": "100mg\uff0cpo\uff0cqn\uff0cfor 14 days.",
+                "arm_group_label": "Control group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Age \u226518 years;\n\n          2. Laboratory (RT-PCR) diagnosis of common patients infected with COVID-19 (refer to the\n             fifth edition of the Chinese Guidelines for Diagnosis and Treatment);\n\n          3. chest imaging confirmed lung damage;\n\n          4. The diagnosis is less than or equal to 8 days;\n\n        Exclusion Criteria:\n\n          1. Severe liver disease (such as Child Pugh score \u2265 C, AST> 5 times the upper limit);\n             severe renal dysfunction (the glomerulus is 30ml / min / 1.73m2 or less)\n\n          2. Positive pregnancy or breastfeeding or pregnancy test;\n\n          3. In the 30 days before the screening assessment, have taken any experimental treatment\n             drugs for COVID-19 (including off-label, informed consent use or trial-related);\n\n          4. Those with a history of thromboembolism, except for those caused by PICC."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Jinglin Xia, MD",
+            "role": "Principal Investigator",
+            "affiliation": "First Affiliated Hospital of Wenzhou Medical University"
+        },
+        "overall_contact": {
+            "last_name": "Jinglin Xia, MD",
+            "phone": "0577-55578166",
+            "email": "xiajinglin@fudan.edu.cn"
+        },
+        "reference": [
+            {
+                "citation": "Zhao L, Xiao K, Wang H, Wang Z, Sun L, Zhang F, Zhang X, Tang F, He W. Thalidomide has a therapeutic effect on interstitial lung fibrosis: evidence from in vitro and in vivo studies. Clin Exp Immunol. 2009 Aug;157(2):310-5. doi: 10.1111/j.1365-2249.2009.03962.x.",
+                "PMID": "19604271"
+            },
+            {
+                "citation": "Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. 2020 Feb 15;395(10223):473-475. doi: 10.1016/S0140-6736(20)30317-2. Epub 2020 Feb 7.",
+                "PMID": "32043983"
+            },
+            {
+                "citation": "Jin YH, Cai L, Cheng ZS, Cheng H, Deng T, Fan YP, Fang C, Huang D, Huang LQ, Huang Q, Han Y, Hu B, Hu F, Li BH, Li YR, Liang K, Lin LK, Luo LS, Ma J, Ma LL, Peng ZY, Pan YB, Pan ZY, Ren XQ, Sun HM, Wang Y, Wang YY, Weng H, Wei CJ, Wu DF, Xia J, Xiong Y, Xu HB, Yao XM, Yuan YF, Ye TS, Zhang XC, Zhang YW, Zhang YG, Zhang HM, Zhao Y, Zhao MJ, Zi H, Zeng XT, Wang YY, Wang XH; , for the Zhongnan Hospital of Wuhan University Novel Coronavirus Management and Research Team, Evidence-Based Medicine Chapter of China International Exchange and Promotive Association for Medical and Health Care (CPAM). A rapid advice guideline for the diagnosis and treatment of 2019 novel coronavirus (2019-nCoV) infected pneumonia (standard version). Mil Med Res. 2020 Feb 6;7(1):4. doi: 10.1186/s40779-020-0233-6.",
+                "PMID": "32029004"
+            },
+            {
+                "citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]",
+                "PMID": "32031570"
+            },
+            {
+                "citation": "Wen H, Ma H, Cai Q, Lin S, Lei X, He B, Wu S, Wang Z, Gao Y, Liu W, Liu W, Tao Q, Long Z, Yan M, Li D, Kelley KW, Yang Y, Huang H, Liu Q. Recurrent ECSIT mutation encoding V140A triggers hyperinflammation and promotes hemophagocytic syndrome in extranodal NK/T cell lymphoma. Nat Med. 2018 Feb;24(2):154-164. doi: 10.1038/nm.4456. Epub 2018 Jan 1.",
+                "PMID": "29291352"
+            },
+            {
+                "citation": "Kwon HY, Han YJ, Im JH, Baek JH, Lee JS. Two cases of immune reconstitution inflammatory syndrome in HIV patients treated with thalidomide. Int J STD AIDS. 2019 Oct;30(11):1131-1135. doi: 10.1177/0956462419847297. Epub 2019 Sep 19.",
+                "PMID": "31533530"
+            },
+            {
+                "citation": "Zhu H, Shi X, Ju D, Huang H, Wei W, Dong X. Anti-inflammatory effect of thalidomide on H1N1 influenza virus-induced pulmonary injury in mice. Inflammation. 2014 Dec;37(6):2091-8. doi: 10.1007/s10753-014-9943-9.",
+                "PMID": "24912813"
+            }
+        ],
+        "results_reference": {
+            "citation": "Bartlett JB, Dredge K, Dalgleish AG. The evolution of thalidomide and its IMiD derivatives as anticancer agents. Nat Rev Cancer. 2004 Apr;4(4):314-22. doi: 10.1038/nrc1323. Review.",
+            "PMID": "15057291"
+        },
+        "verification_date": "February 2020",
+        "study_first_submitted": "February 14, 2020",
+        "study_first_submitted_qc": "February 14, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "February 18, 2020"
+        },
+        "last_update_submitted": "February 19, 2020",
+        "last_update_submitted_qc": "February 19, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "February 21, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "intervention_browse": {
+            "mesh_term": "Thalidomide"
+        }
+    }
+}

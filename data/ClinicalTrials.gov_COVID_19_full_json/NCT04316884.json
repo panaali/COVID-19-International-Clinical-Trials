@@ -1,1 +1,208 @@
-{"clinical_study": {"@rank": "242", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04316884"}, "id_info": {"org_study_id": "EPN 2017/043 Covid19", "nct_id": "NCT04316884"}, "brief_title": "Mechanisms for Organ Dysfunction in Covid-19", "acronym": "UMODCOVID19", "official_title": "Uppsala Intensive Care Study of Mechanisms for Organ Dysfunction in Covid-19", "sponsors": {"lead_sponsor": {"agency": "Uppsala University", "agency_class": "Other"}}, "source": "Uppsala University", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The study aims to investigate organ dysfunction and biomarkers in patients with suspected or\n      verified COVID-19 during intensive care at Uppsala University Hospital."}, "detailed_description": {"textblock": "Consenting patients with suspected or verified SARS-COV-2 infection, COVID-19, will undergo\n      daily blood, urine and sputum sampling during their stay in intensive care. Data on organ\n      dysfunction will be collected through the electronic patient journal and electronic patient\n      data management system. The collected samples will be analysed for a panel of potential\n      biomarkers that will be correlated to organ dysfunction and clinical outcome."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 12, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 31, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 31, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Acute Kidney Injury", "time_frame": "During Intensive Care, an estimated average of 10 days.", "description": "KDIGO AKI score"}, "secondary_outcome": [{"measure": "ARDS", "time_frame": "During intensive care, an estimated average of 10 days.", "description": "Acute Respiratory Distress Syndrome yes/no"}, {"measure": "30 day mortality", "time_frame": "30 days", "description": "Death within 30 days of ICU admission"}, {"measure": "1 year mortality", "time_frame": "1 year", "description": "Death within 1 year of ICU admission"}, {"measure": "Chronic Kidney Disease", "time_frame": "60 days and 1 year after ICU admission", "description": "Development of Chronic Kidney Disease"}, {"measure": "SOFA-score", "time_frame": "During Intensive Care, an estimated average of 10 days.", "description": "Sequential Organ Failure Score as a continuous variable"}], "number_of_groups": "1", "enrollment": {"@type": "Anticipated", "#text": "100"}, "condition": ["COVID-19", "Organ Dysfunction Syndrome Sepsis", "Organ Dysfunction Syndrome, Multiple", "Septic Shock", "Acute Kidney Injury", "Acute Respiratory Distress Syndrome"], "arm_group": {"arm_group_label": "COVID-19", "description": "Patients with suspected or verified COVID-19 admitted to intensive care at Uppsala University Hospital"}, "biospec_retention": "Samples With DNA", "biospec_descr": {"textblock": "Plasma, Urine and Sputum"}, "eligibility": {"study_pop": {"textblock": "All patients requiring intensive care with suspected or verified COVID19"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  Admitted to intensive care\n\n          -  suspected or verified COVID-19\n\n        Exclusion Criteria:\n\n          -  Pregnancy or breastfeeding\n\n          -  Preexisting end-stage kidney failure or dialysis\n\n          -  Under-age"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Robert Frithiof, MD. PhD", "role": "Principal Investigator", "affiliation": "Uppsala University Hospital"}, "overall_contact": {"last_name": "Robert Frithiof, MD. PhD.", "phone": "0736563473", "email": "robert.frithiof@surgsci.uu.se"}, "overall_contact_backup": {"last_name": "Sara B\u00fclow Anderberg, MD.", "phone": "0730247414", "email": "sarabulow@gmail.com"}, "location": {"facility": {"name": "Uppsala University Hospital", "address": {"city": "Uppsala", "zip": "75185", "country": "Sweden"}}, "status": "Recruiting", "contact": {"last_name": "Robert Frithiof, MD. PhD.", "phone": "073-6563473", "email": "robert.frithiof@surgsci.uu.se"}, "contact_backup": {"last_name": "Sara B\u00fclow Anderberg, MD.", "phone": "073-0247414", "email": "sarabulow@gmail.com"}, "investigator": [{"last_name": "Robert Frithiof, MD. PhD.", "role": "Principal Investigator"}, {"last_name": "Sara B\u00fclow Anderberg, MD.", "role": "Sub-Investigator"}, {"last_name": "Michael Hultstr\u00f6m, MD. PhD.", "role": "Sub-Investigator"}, {"last_name": "Miklos Lipcsey, MD. PhD.", "role": "Sub-Investigator"}]}, "location_countries": {"country": "Sweden"}, "verification_date": "March 2020", "study_first_submitted": "March 13, 2020", "study_first_submitted_qc": "March 18, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 20, 2020"}, "last_update_submitted": "March 18, 2020", "last_update_submitted_qc": "March 18, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 20, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": ["Respiratory Distress Syndrome, Newborn", "Respiratory Distress Syndrome, Adult", "Acute Lung Injury", "Acute Kidney Injury", "Syndrome", "Systemic Inflammatory Response Syndrome", "Multiple Organ Failure"]}, "patient_data": {"sharing_ipd": "Undecided", "ipd_description": "IPD may be made available upon reasonable request."}}}
+{
+    "clinical_study": {
+        "@rank": "242",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04316884"
+        },
+        "id_info": {
+            "org_study_id": "EPN 2017/043 Covid19",
+            "nct_id": "NCT04316884"
+        },
+        "brief_title": "Mechanisms for Organ Dysfunction in Covid-19",
+        "acronym": "UMODCOVID19",
+        "official_title": "Uppsala Intensive Care Study of Mechanisms for Organ Dysfunction in Covid-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Uppsala University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Uppsala University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The study aims to investigate organ dysfunction and biomarkers in patients with suspected or\n      verified COVID-19 during intensive care at Uppsala University Hospital."
+        },
+        "detailed_description": {
+            "textblock": "Consenting patients with suspected or verified SARS-COV-2 infection, COVID-19, will undergo\n      daily blood, urine and sputum sampling during their stay in intensive care. Data on organ\n      dysfunction will be collected through the electronic patient journal and electronic patient\n      data management system. The collected samples will be analysed for a panel of potential\n      biomarkers that will be correlated to organ dysfunction and clinical outcome."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 12, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Acute Kidney Injury",
+            "time_frame": "During Intensive Care, an estimated average of 10 days.",
+            "description": "KDIGO AKI score"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "ARDS",
+                "time_frame": "During intensive care, an estimated average of 10 days.",
+                "description": "Acute Respiratory Distress Syndrome yes/no"
+            },
+            {
+                "measure": "30 day mortality",
+                "time_frame": "30 days",
+                "description": "Death within 30 days of ICU admission"
+            },
+            {
+                "measure": "1 year mortality",
+                "time_frame": "1 year",
+                "description": "Death within 1 year of ICU admission"
+            },
+            {
+                "measure": "Chronic Kidney Disease",
+                "time_frame": "60 days and 1 year after ICU admission",
+                "description": "Development of Chronic Kidney Disease"
+            },
+            {
+                "measure": "SOFA-score",
+                "time_frame": "During Intensive Care, an estimated average of 10 days.",
+                "description": "Sequential Organ Failure Score as a continuous variable"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": [
+            "COVID-19",
+            "Organ Dysfunction Syndrome Sepsis",
+            "Organ Dysfunction Syndrome, Multiple",
+            "Septic Shock",
+            "Acute Kidney Injury",
+            "Acute Respiratory Distress Syndrome"
+        ],
+        "arm_group": {
+            "arm_group_label": "COVID-19",
+            "description": "Patients with suspected or verified COVID-19 admitted to intensive care at Uppsala University Hospital"
+        },
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "Plasma, Urine and Sputum"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All patients requiring intensive care with suspected or verified COVID19"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Admitted to intensive care\n\n          -  suspected or verified COVID-19\n\n        Exclusion Criteria:\n\n          -  Pregnancy or breastfeeding\n\n          -  Preexisting end-stage kidney failure or dialysis\n\n          -  Under-age"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Robert Frithiof, MD. PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Uppsala University Hospital"
+        },
+        "overall_contact": {
+            "last_name": "Robert Frithiof, MD. PhD.",
+            "phone": "0736563473",
+            "email": "robert.frithiof@surgsci.uu.se"
+        },
+        "overall_contact_backup": {
+            "last_name": "Sara B\u00fclow Anderberg, MD.",
+            "phone": "0730247414",
+            "email": "sarabulow@gmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Uppsala University Hospital",
+                "address": {
+                    "city": "Uppsala",
+                    "zip": "75185",
+                    "country": "Sweden"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Robert Frithiof, MD. PhD.",
+                "phone": "073-6563473",
+                "email": "robert.frithiof@surgsci.uu.se"
+            },
+            "contact_backup": {
+                "last_name": "Sara B\u00fclow Anderberg, MD.",
+                "phone": "073-0247414",
+                "email": "sarabulow@gmail.com"
+            },
+            "investigator": [
+                {
+                    "last_name": "Robert Frithiof, MD. PhD.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Sara B\u00fclow Anderberg, MD.",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Michael Hultstr\u00f6m, MD. PhD.",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Miklos Lipcsey, MD. PhD.",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Sweden"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 13, 2020",
+        "study_first_submitted_qc": "March 18, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 20, 2020"
+        },
+        "last_update_submitted": "March 18, 2020",
+        "last_update_submitted_qc": "March 18, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 20, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Respiratory Distress Syndrome, Newborn",
+                "Respiratory Distress Syndrome, Adult",
+                "Acute Lung Injury",
+                "Acute Kidney Injury",
+                "Syndrome",
+                "Systemic Inflammatory Response Syndrome",
+                "Multiple Organ Failure"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "IPD may be made available upon reasonable request."
+        }
+    }
+}

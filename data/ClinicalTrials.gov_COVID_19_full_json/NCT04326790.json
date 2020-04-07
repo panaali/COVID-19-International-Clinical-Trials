@@ -1,1 +1,152 @@
-{"clinical_study": {"@rank": "123", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04326790"}, "id_info": {"org_study_id": "906295542", "nct_id": "NCT04326790"}, "brief_title": "The GReek Study in the Effects of Colchicine in Covid-19 cOmplications Prevention", "acronym": "GRECCO-19", "official_title": "The GReek Study in the Effects of Colchicine in Covid-19 cOmplications Prevention", "sponsors": {"lead_sponsor": {"agency": "National and Kapodistrian University of Athens", "agency_class": "Other"}}, "source": "National and Kapodistrian University of Athens", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Based on data regarding the effect of colchicine on the inflammasome NLP3 and microtubule\n      formation and associations thereof with the pathogenetic cycle of SARS-COV-2, the question\n      arises whether colchicine, administered in a relatively low dose, could potentially have an\n      effect the patients' clinical course by limiting the myocardial necrosis and pneumonia\n      development in the context of COVID-19. If present, this effect would be attributed to its\n      potential to inhibit inflammasome and (less probably) to the process of SARS-CoV-2\n      endocytosis in myocardial and endothelial respiratory cells."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 6, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "September 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "August 31, 2020"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "Patient-level randomization scheme", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "CRP increase to 3 x upper limit of normal", "time_frame": "3 weeks", "description": "Time to increase in C-reactive protein to 3 times the ULN"}, {"measure": "Clinical deterioration in the semiquantitative ordinal scale suggested by the WHO R&D committee", "time_frame": "3 weeks", "description": "Time to clinical deterioration (2 levels in the WHO R&D Blueprint scale)"}, {"measure": "Maximal concentration of cardiac troponin", "time_frame": "10 days", "description": "Maximal concentration of high-sensitivity cardiac troponin"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "180"}, "condition": "Corona Virus Disease 19 (Covid 19)", "arm_group": [{"arm_group_label": "Intervention", "arm_group_type": "Experimental", "description": "Colchicine, on top of standard treatment"}, {"arm_group_label": "Control", "arm_group_type": "Active Comparator", "description": "Standard treatment, including all medications recommedned by the National Public Health Organization"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Colchicine", "description": "Low-dose colchicine treatment, 0.5 mg bid", "arm_group_label": "Intervention"}, {"intervention_type": "Drug", "intervention_name": "Standard treatment", "description": "Standard treatment", "arm_group_label": ["Control", "Intervention"]}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n        Patients >18 years old with laboratory confirmed SARS-CoV-2 infection (RT PCR) AND body\n        temperature >37.5 degrees centigrade AND at least two of: i. sustained coughing, ii.\n        sustained throat pain, iii. anosmia and/or ageusia, iv. fatigue/tiredness, v. PaO2<95 mmHg.\n\n        Exclusion Criteria:\n\n          -  pregnancy, lactation;\n\n          -  known hypersensitivity to colchicine\n\n          -  known hepatic failure\n\n          -  eGFR<20 ml/min\n\n          -  clinical estimation that the patient will require mechanical respiratory support in\n             less than 24 hours\n\n          -  any clinical estimation of the attending physician under which the patient shall be\n             excluded\n\n          -  QTc > 450 msec (colchicine is not known to significantly prolong QTc, but may interact\n             with other medications which prolong QTc).\n\n          -  participation in another clinical trial\n\n          -  under colchicine treatment for other indications\n\n          -  patient who is not likely to comply to study procedures"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Spyridon Deftereos", "phone": "00306944699901", "email": "spdeftereos@gmail.com"}, "verification_date": "March 2020", "study_first_submitted": "March 26, 2020", "study_first_submitted_qc": "March 26, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 30, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "National and Kapodistrian University of Athens", "investigator_full_name": "Spyridon Deftereos", "investigator_title": "Professor of Cardiology"}, "condition_browse": {"mesh_term": ["Coronavirus Infections", "Virus Diseases"]}, "intervention_browse": {"mesh_term": "Colchicine"}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "123",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04326790"
+        },
+        "id_info": {
+            "org_study_id": "906295542",
+            "nct_id": "NCT04326790"
+        },
+        "brief_title": "The GReek Study in the Effects of Colchicine in Covid-19 cOmplications Prevention",
+        "acronym": "GRECCO-19",
+        "official_title": "The GReek Study in the Effects of Colchicine in Covid-19 cOmplications Prevention",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National and Kapodistrian University of Athens",
+                "agency_class": "Other"
+            }
+        },
+        "source": "National and Kapodistrian University of Athens",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Based on data regarding the effect of colchicine on the inflammasome NLP3 and microtubule\n      formation and associations thereof with the pathogenetic cycle of SARS-COV-2, the question\n      arises whether colchicine, administered in a relatively low dose, could potentially have an\n      effect the patients' clinical course by limiting the myocardial necrosis and pneumonia\n      development in the context of COVID-19. If present, this effect would be attributed to its\n      potential to inhibit inflammasome and (less probably) to the process of SARS-CoV-2\n      endocytosis in myocardial and endothelial respiratory cells."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 31, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Patient-level randomization scheme",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "CRP increase to 3 x upper limit of normal",
+                "time_frame": "3 weeks",
+                "description": "Time to increase in C-reactive protein to 3 times the ULN"
+            },
+            {
+                "measure": "Clinical deterioration in the semiquantitative ordinal scale suggested by the WHO R&D committee",
+                "time_frame": "3 weeks",
+                "description": "Time to clinical deterioration (2 levels in the WHO R&D Blueprint scale)"
+            },
+            {
+                "measure": "Maximal concentration of cardiac troponin",
+                "time_frame": "10 days",
+                "description": "Maximal concentration of high-sensitivity cardiac troponin"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "180"
+        },
+        "condition": "Corona Virus Disease 19 (Covid 19)",
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention",
+                "arm_group_type": "Experimental",
+                "description": "Colchicine, on top of standard treatment"
+            },
+            {
+                "arm_group_label": "Control",
+                "arm_group_type": "Active Comparator",
+                "description": "Standard treatment, including all medications recommedned by the National Public Health Organization"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Colchicine",
+                "description": "Low-dose colchicine treatment, 0.5 mg bid",
+                "arm_group_label": "Intervention"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Standard treatment",
+                "description": "Standard treatment",
+                "arm_group_label": [
+                    "Control",
+                    "Intervention"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Patients >18 years old with laboratory confirmed SARS-CoV-2 infection (RT PCR) AND body\n        temperature >37.5 degrees centigrade AND at least two of: i. sustained coughing, ii.\n        sustained throat pain, iii. anosmia and/or ageusia, iv. fatigue/tiredness, v. PaO2<95 mmHg.\n\n        Exclusion Criteria:\n\n          -  pregnancy, lactation;\n\n          -  known hypersensitivity to colchicine\n\n          -  known hepatic failure\n\n          -  eGFR<20 ml/min\n\n          -  clinical estimation that the patient will require mechanical respiratory support in\n             less than 24 hours\n\n          -  any clinical estimation of the attending physician under which the patient shall be\n             excluded\n\n          -  QTc > 450 msec (colchicine is not known to significantly prolong QTc, but may interact\n             with other medications which prolong QTc).\n\n          -  participation in another clinical trial\n\n          -  under colchicine treatment for other indications\n\n          -  patient who is not likely to comply to study procedures"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Spyridon Deftereos",
+            "phone": "00306944699901",
+            "email": "spdeftereos@gmail.com"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 26, 2020",
+        "study_first_submitted_qc": "March 26, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "National and Kapodistrian University of Athens",
+            "investigator_full_name": "Spyridon Deftereos",
+            "investigator_title": "Professor of Cardiology"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Colchicine"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

@@ -1,1 +1,252 @@
-{"clinical_study": {"@rank": "103", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04333693"}, "id_info": {"org_study_id": "RIV-2020-1", "nct_id": "NCT04333693"}, "brief_title": "Outcomes of Vascular Surgery in COVID-19 Infection: National Cohort Study", "acronym": "Covid-VAS", "official_title": "Outcomes of Vascular Surgery in COVID-19 Infection: National Cohort Study (Covid-VAS)", "sponsors": {"lead_sponsor": {"agency": "Vascular Investigation Network Spanish Society for Angiology and Vascular Surgery", "agency_class": "Other"}}, "source": "Vascular Investigation Network Spanish Society for Angiology and Vascular Surgery", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "There is an urgent need to understand the outcomes of COVID-19 infected patients who undergo\n      surgery, specially vascular surgery. Capturing real-world data and sharing Spanish national\n      experience will inform the management of this complex group of patients who undergo surgery\n      throughout the COVID-19 pandemic, improving their clinical care.\n\n      The global community has recognised that rapid dissemination and completion of studies in\n      COVID-19 infected patients is a high priority, so we encourage all stakeholders (local\n      investigators, ethics committees, IRBs) to work as quickly as possible to approve this\n      project.\n\n      This investigator-led, non-commercial, non-interventional study is extremely low risk, or\n      even zero risk. This study does not collect any patient identifiable information (including\n      no dates) and data will not be analysed at hospital-level."}, "detailed_description": {"textblock": "To determine 30-day mortality in patients with COVID-19 infection who undergo vascular\n      surgery.\n\n      This will inform future risk stratification, decision making, and patient consent.\n\n      Inclusion criteria\n\n      The inclusion criteria are:\n\n      \u2022 Adults (age \u226518 years) undergoing ANY type of vascular surgery in an operating theatre,\n      this includes open surgery, endovascular surgery or hybrid procedures.\n\n      AND\n\n      \u2022 Either before or after surgery: (i) lab test confirmed COVID-19 infection or (ii) clinical\n      diagnosis of COVID-19 infection (no test performed).\n\n      Therefore this study should capture:\n\n        -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n           infection before surgery.\n\n        -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n           infection after surgery.\n\n        -  elective surgery patients with clinical diagnosis or lab confirmation of COVID-19\n           infection after surgery. Patients who meet the inclusion criteria should be included\n           regardless of surgical indication (aneurysm, limb or visceral ischemia, carotid\n           stenosis, vascular trauma), anaesthetic type (local, regional, general), procedure type,\n           or surgical approach (open surgery, endovascular surgery, hybrid procedure).\n\n      At most sites it is anticipated that the number of eligible patients is likely to be low. If\n      possible all consecutive patients fulfilling inclusion criteria should be entered.\n\n      Study period Overall we plan to close data entry in September 2020 when the global pandemic\n      is likely to be over, however individual centres may select their own study windows,\n      depending on the timing of COVID-19 epidemic in their community.\n\n      Patient enrolment Ideally patients should be identified prospectively. However, given the\n      rapid progression of the global pandemic, there may be no further new cases of COVID-19\n      infection in some hospitals that treated large numbers of COVID-19 earlier in the pandemic.\n      It is important to capture the experience of these centres, therefore retrospective patient\n      identification and data entry is permitted.\n\n      Primary outcome\n\n        -  30-day mortality Secondary outcome\n\n        -  7-day mortality\n\n        -  30-day reoperation\n\n        -  Postoperative ICU admission\n\n        -  Postoperative respiratory failure\n\n        -  Postoperative acute respiratory distress syndrome (ARDS)\n\n        -  Postoperative sepsis\n\n      Data collection Data will be collected and stored online through a secure server running the\n      Spanish Society for Angiology and Vascular Surgery (SEACV) web application. This secure\n      server allows collaborators to enter and store data in a secure system. A designated\n      collaborator at each participating site will be provided with a project server login details,\n      allowing them to securely submit data on to the system. Only anonymised data will be uploaded\n      to the database. No patient identifiable data will be collected. Data collected will be on\n      comorbidities, physiological state, treatment/operation, and outcome. No dates (e.g. date of\n      surgery) will be collected. qSOFA and CURB-65 will be calculated based on the individual data\n      points entered.\n\n      Local approvals The principal investigator at each participating site is responsible for\n      obtaining necessary local approvals (e.g. research ethics committee or institutional review\n      board approvals).The first approval will be on the Valladolid East Ethics Committee for\n      Clinical Investigation.\n\n      Collaborators will be required to confirm that a local approval is in place at the time of\n      uploading each patient record to the study database.\n\n      Where an audit approval is needed, this can be either registered as service evaluation, or to\n      benchmark against an auditable standard (e.g. overall mortality after emergency surgery\n      should be <15%).\n\n      Prior to formal local study approval, collaborators may prospectively collect data, but this\n      should not be uploaded to the database until approval is confirmed.\n\n      Analysis A detailed statistical analysis plan will be written. Analyses will be overseen by\n      the independent data monitoring committee (DMC). Reports will include description of the\n      primary and secondary outcomes in the cohort. Multivariable modelling will be undertaken to\n      CovidVAS protocol identify risk factors for 30-days mortality. Analyses will be stratified\n      according to whether or not diagnosis of COVID-19 was confirmed by a lab test. Interim\n      analyses will be performed as guided by the independent DMC. The first analysis will be\n      performed once 50 patients have been entered on to the database, and the frequency of\n      subsequent analyses will be agreed with the DMC. The decision to submit data for publication\n      will be agreed by the steering committee with the DMC. Hospital-level data will not be\n      released or published.\n\n      Authorship Collaborators from each site who contribute patients will be recognised on any\n      resulting publications as PubMed-citable co-authors."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "November 1, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "October 1, 2020"}, "study_type": "Observational [Patient Registry]", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "target_duration": "6 Months", "primary_outcome": {"measure": "30-days mortality", "time_frame": "30-days", "description": "30-days mortality after vascular surgery in patients with COVID-19 infection"}, "secondary_outcome": [{"measure": "7-days mortality", "time_frame": "7-days", "description": "7-days mortality after vascular surgery in patients with COVID-19 infection"}, {"measure": "30-days reoperation", "time_frame": "30-days", "description": "30-days reoperation after vascular surgery in patients with COVID-19 infection"}, {"measure": "Postoperative ICU admission", "time_frame": "30-days", "description": "Postoperative ICU admission after vascular surgery in patients with COVID-19 infection"}, {"measure": "Postoperative respiratory failure", "time_frame": "30-days", "description": "Postoperative respiratory failure after vascular surgery in patients with COVID-19 infection"}, {"measure": "Postoperative acute respiratory distress syndrome (ARDS)", "time_frame": "30-days", "description": "Postoperative acute respiratory distress syndrome (ARDS) after vascular surgery in patients with COVID-19 infection"}, {"measure": "Postoperative sepsis", "time_frame": "30-days", "description": "Postoperative sepsis after vascular surgery in patients with COVID-19 infection"}], "number_of_groups": "1", "enrollment": {"@type": "Anticipated", "#text": "50"}, "condition": ["Vascular Surgical Procedures", "COVID-19", "Postoperative Complications"], "arm_group": {"arm_group_label": "Cases", "description": "Adults (age>18years) undergoing any type of vascular surgery (open surgery, endovascular surgery or hybrid procedure) in an operating theatre and either before or after surgery: lab test confirmed COVID-19 or clinical diagnosis of COVI-19 infection (no test performed)"}, "intervention": {"intervention_type": "Procedure", "intervention_name": "Vascular surgery", "description": "Open vascular, endovascular or hybrid procedures", "arm_group_label": "Cases"}, "eligibility": {"study_pop": {"textblock": "Patients with COVID-19 infection who undergo vascular surgery."}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  Adults (age \u226518 years) undergoing ANY type of vascular surgery in an operating\n             theatre, this includes obstetrics. AND\n\n          -  Either before or after surgery: (i) lab test confirmed COVID-19 infection or (ii)\n             clinical diagnosis of COVID-19 infection (no test performed).\n\n        Therefore this study should capture:\n\n          -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n             infection before surgery.\n\n          -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n             infection after surgery.\n\n          -  elective surgery patients with clinical diagnosis or lab confirmation of COVID-19\n             infection after surgery.\n\n        Exclusion Criteria:\n\n          -  Not informed consent signed."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Enrique M San Norberto, MD, PhD, MsC", "phone": "0034686754618", "email": "esannorberto@hotmail.com"}, "overall_contact_backup": {"last_name": "Investigator Council", "phone": "0034910569145", "email": "secretaria@seacv.es"}, "location": {"facility": {"name": "Spanish Society for Angiology and Vascular Surgery", "address": {"city": "Madrid", "zip": "28006", "country": "Spain"}}, "contact": {"last_name": "Enrique M San Norberto, MD, PhD, MsC", "phone": "0034686754618", "email": "esannorberto@hotmail.com"}, "contact_backup": {"last_name": "Investigator Council", "phone": "0034910569145", "email": "secretaria@seacv.es"}, "investigator": [{"last_name": "Enrique M San Norberto, MD, PhD, MsC", "role": "Principal Investigator"}, {"last_name": "Joaquin de Haro, MD, PhD", "role": "Sub-Investigator"}, {"last_name": "Carlos Vaquero, MD, PhD, Prof", "role": "Sub-Investigator"}, {"last_name": "Luis Riera, MD, PhD", "role": "Sub-Investigator"}, {"last_name": "Alvaro Torres, MD, PhD", "role": "Sub-Investigator"}, {"last_name": "Raul Lara, MD, PhD", "role": "Sub-Investigator"}, {"last_name": "Jorge Cuenca, MD, PhD", "role": "Sub-Investigator"}, {"last_name": "Jorge Fern\u00e1ndez-Noya, MD, PdD", "role": "Sub-Investigator"}, {"last_name": "Sergi Bellmunt, MD, PhD", "role": "Sub-Investigator"}]}, "location_countries": {"country": "Spain"}, "link": {"url": "http://www.seacv.es", "description": "Spanish Society for Angiology and Vascular Surgery"}, "reference": [{"citation": "Zoia C, Bongetta D, Veiceschi P, Cenzato M, Di Meco F, Locatelli D, Boeris D, Fontanella MM. Neurosurgery during the COVID-19 pandemic: update from Lombardy, northern Italy. Acta Neurochir (Wien). 2020 Mar 28. doi: 10.1007/s00701-020-04305-w. [Epub ahead of print]", "PMID": "32222820"}, {"citation": "Aminian A, Safari S, Razeghian-Jahromi A, Ghorbani M, Delaney CP. COVID-19 Outbreak and Surgical Practice: Unexpected Fatality in Perioperative Period. Ann Surg. 2020 Mar 26. doi: 10.1097/SLA.0000000000003925. [Epub ahead of print]", "PMID": "32221117"}, {"citation": "Ficarra V, Novara G, Abrate A, Bartoletti R, Crestani A, De Nunzio C, Giannarini G, Gregori A, Liguori G, Mirone V, Pavan N, Scarpa RM, Simonato A, Trombetta C, Tubaro A, Porpiglia F; Members of the Research Urology Network (RUN). Urology practice during COVID-19 pandemic. Minerva Urol Nefrol. 2020 Mar 23. doi: 10.23736/S0393-2249.20.03846-1. [Epub ahead of print]", "PMID": "32202401"}, {"citation": "Iacobucci G. Covid-19: all non-urgent elective surgery is suspended for at least three months in England. BMJ. 2020 Mar 18;368:m1106. doi: 10.1136/bmj.m1106.", "PMID": "32188602"}, {"citation": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Feb 28. doi: 10.1056/NEJMoa2002032. [Epub ahead of print]", "PMID": "32109013"}], "verification_date": "March 2020", "study_first_submitted": "March 31, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["Vascular surgical procedures", "Endovascular procedures", "COVID-19", "Postoperative complications", "Prognosis"], "condition_browse": {"mesh_term": "Postoperative Complications"}, "patient_data": {"sharing_ipd": "Undecided", "ipd_description": "No sharing plan available nowadays."}}}
+{
+    "clinical_study": {
+        "@rank": "103",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04333693"
+        },
+        "id_info": {
+            "org_study_id": "RIV-2020-1",
+            "nct_id": "NCT04333693"
+        },
+        "brief_title": "Outcomes of Vascular Surgery in COVID-19 Infection: National Cohort Study",
+        "acronym": "Covid-VAS",
+        "official_title": "Outcomes of Vascular Surgery in COVID-19 Infection: National Cohort Study (Covid-VAS)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Vascular Investigation Network Spanish Society for Angiology and Vascular Surgery",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Vascular Investigation Network Spanish Society for Angiology and Vascular Surgery",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "There is an urgent need to understand the outcomes of COVID-19 infected patients who undergo\n      surgery, specially vascular surgery. Capturing real-world data and sharing Spanish national\n      experience will inform the management of this complex group of patients who undergo surgery\n      throughout the COVID-19 pandemic, improving their clinical care.\n\n      The global community has recognised that rapid dissemination and completion of studies in\n      COVID-19 infected patients is a high priority, so we encourage all stakeholders (local\n      investigators, ethics committees, IRBs) to work as quickly as possible to approve this\n      project.\n\n      This investigator-led, non-commercial, non-interventional study is extremely low risk, or\n      even zero risk. This study does not collect any patient identifiable information (including\n      no dates) and data will not be analysed at hospital-level."
+        },
+        "detailed_description": {
+            "textblock": "To determine 30-day mortality in patients with COVID-19 infection who undergo vascular\n      surgery.\n\n      This will inform future risk stratification, decision making, and patient consent.\n\n      Inclusion criteria\n\n      The inclusion criteria are:\n\n      \u2022 Adults (age \u226518 years) undergoing ANY type of vascular surgery in an operating theatre,\n      this includes open surgery, endovascular surgery or hybrid procedures.\n\n      AND\n\n      \u2022 Either before or after surgery: (i) lab test confirmed COVID-19 infection or (ii) clinical\n      diagnosis of COVID-19 infection (no test performed).\n\n      Therefore this study should capture:\n\n        -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n           infection before surgery.\n\n        -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n           infection after surgery.\n\n        -  elective surgery patients with clinical diagnosis or lab confirmation of COVID-19\n           infection after surgery. Patients who meet the inclusion criteria should be included\n           regardless of surgical indication (aneurysm, limb or visceral ischemia, carotid\n           stenosis, vascular trauma), anaesthetic type (local, regional, general), procedure type,\n           or surgical approach (open surgery, endovascular surgery, hybrid procedure).\n\n      At most sites it is anticipated that the number of eligible patients is likely to be low. If\n      possible all consecutive patients fulfilling inclusion criteria should be entered.\n\n      Study period Overall we plan to close data entry in September 2020 when the global pandemic\n      is likely to be over, however individual centres may select their own study windows,\n      depending on the timing of COVID-19 epidemic in their community.\n\n      Patient enrolment Ideally patients should be identified prospectively. However, given the\n      rapid progression of the global pandemic, there may be no further new cases of COVID-19\n      infection in some hospitals that treated large numbers of COVID-19 earlier in the pandemic.\n      It is important to capture the experience of these centres, therefore retrospective patient\n      identification and data entry is permitted.\n\n      Primary outcome\n\n        -  30-day mortality Secondary outcome\n\n        -  7-day mortality\n\n        -  30-day reoperation\n\n        -  Postoperative ICU admission\n\n        -  Postoperative respiratory failure\n\n        -  Postoperative acute respiratory distress syndrome (ARDS)\n\n        -  Postoperative sepsis\n\n      Data collection Data will be collected and stored online through a secure server running the\n      Spanish Society for Angiology and Vascular Surgery (SEACV) web application. This secure\n      server allows collaborators to enter and store data in a secure system. A designated\n      collaborator at each participating site will be provided with a project server login details,\n      allowing them to securely submit data on to the system. Only anonymised data will be uploaded\n      to the database. No patient identifiable data will be collected. Data collected will be on\n      comorbidities, physiological state, treatment/operation, and outcome. No dates (e.g. date of\n      surgery) will be collected. qSOFA and CURB-65 will be calculated based on the individual data\n      points entered.\n\n      Local approvals The principal investigator at each participating site is responsible for\n      obtaining necessary local approvals (e.g. research ethics committee or institutional review\n      board approvals).The first approval will be on the Valladolid East Ethics Committee for\n      Clinical Investigation.\n\n      Collaborators will be required to confirm that a local approval is in place at the time of\n      uploading each patient record to the study database.\n\n      Where an audit approval is needed, this can be either registered as service evaluation, or to\n      benchmark against an auditable standard (e.g. overall mortality after emergency surgery\n      should be <15%).\n\n      Prior to formal local study approval, collaborators may prospectively collect data, but this\n      should not be uploaded to the database until approval is confirmed.\n\n      Analysis A detailed statistical analysis plan will be written. Analyses will be overseen by\n      the independent data monitoring committee (DMC). Reports will include description of the\n      primary and secondary outcomes in the cohort. Multivariable modelling will be undertaken to\n      CovidVAS protocol identify risk factors for 30-days mortality. Analyses will be stratified\n      according to whether or not diagnosis of COVID-19 was confirmed by a lab test. Interim\n      analyses will be performed as guided by the independent DMC. The first analysis will be\n      performed once 50 patients have been entered on to the database, and the frequency of\n      subsequent analyses will be agreed with the DMC. The decision to submit data for publication\n      will be agreed by the steering committee with the DMC. Hospital-level data will not be\n      released or published.\n\n      Authorship Collaborators from each site who contribute patients will be recognised on any\n      resulting publications as PubMed-citable co-authors."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 1, 2020"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "6 Months",
+        "primary_outcome": {
+            "measure": "30-days mortality",
+            "time_frame": "30-days",
+            "description": "30-days mortality after vascular surgery in patients with COVID-19 infection"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "7-days mortality",
+                "time_frame": "7-days",
+                "description": "7-days mortality after vascular surgery in patients with COVID-19 infection"
+            },
+            {
+                "measure": "30-days reoperation",
+                "time_frame": "30-days",
+                "description": "30-days reoperation after vascular surgery in patients with COVID-19 infection"
+            },
+            {
+                "measure": "Postoperative ICU admission",
+                "time_frame": "30-days",
+                "description": "Postoperative ICU admission after vascular surgery in patients with COVID-19 infection"
+            },
+            {
+                "measure": "Postoperative respiratory failure",
+                "time_frame": "30-days",
+                "description": "Postoperative respiratory failure after vascular surgery in patients with COVID-19 infection"
+            },
+            {
+                "measure": "Postoperative acute respiratory distress syndrome (ARDS)",
+                "time_frame": "30-days",
+                "description": "Postoperative acute respiratory distress syndrome (ARDS) after vascular surgery in patients with COVID-19 infection"
+            },
+            {
+                "measure": "Postoperative sepsis",
+                "time_frame": "30-days",
+                "description": "Postoperative sepsis after vascular surgery in patients with COVID-19 infection"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": [
+            "Vascular Surgical Procedures",
+            "COVID-19",
+            "Postoperative Complications"
+        ],
+        "arm_group": {
+            "arm_group_label": "Cases",
+            "description": "Adults (age>18years) undergoing any type of vascular surgery (open surgery, endovascular surgery or hybrid procedure) in an operating theatre and either before or after surgery: lab test confirmed COVID-19 or clinical diagnosis of COVI-19 infection (no test performed)"
+        },
+        "intervention": {
+            "intervention_type": "Procedure",
+            "intervention_name": "Vascular surgery",
+            "description": "Open vascular, endovascular or hybrid procedures",
+            "arm_group_label": "Cases"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients with COVID-19 infection who undergo vascular surgery."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults (age \u226518 years) undergoing ANY type of vascular surgery in an operating\n             theatre, this includes obstetrics. AND\n\n          -  Either before or after surgery: (i) lab test confirmed COVID-19 infection or (ii)\n             clinical diagnosis of COVID-19 infection (no test performed).\n\n        Therefore this study should capture:\n\n          -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n             infection before surgery.\n\n          -  emergency surgery patients with clinical diagnosis or lab confirmation of COVID-19\n             infection after surgery.\n\n          -  elective surgery patients with clinical diagnosis or lab confirmation of COVID-19\n             infection after surgery.\n\n        Exclusion Criteria:\n\n          -  Not informed consent signed."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Enrique M San Norberto, MD, PhD, MsC",
+            "phone": "0034686754618",
+            "email": "esannorberto@hotmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Investigator Council",
+            "phone": "0034910569145",
+            "email": "secretaria@seacv.es"
+        },
+        "location": {
+            "facility": {
+                "name": "Spanish Society for Angiology and Vascular Surgery",
+                "address": {
+                    "city": "Madrid",
+                    "zip": "28006",
+                    "country": "Spain"
+                }
+            },
+            "contact": {
+                "last_name": "Enrique M San Norberto, MD, PhD, MsC",
+                "phone": "0034686754618",
+                "email": "esannorberto@hotmail.com"
+            },
+            "contact_backup": {
+                "last_name": "Investigator Council",
+                "phone": "0034910569145",
+                "email": "secretaria@seacv.es"
+            },
+            "investigator": [
+                {
+                    "last_name": "Enrique M San Norberto, MD, PhD, MsC",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Joaquin de Haro, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Carlos Vaquero, MD, PhD, Prof",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Luis Riera, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Alvaro Torres, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Raul Lara, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Jorge Cuenca, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Jorge Fern\u00e1ndez-Noya, MD, PdD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Sergi Bellmunt, MD, PhD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Spain"
+        },
+        "link": {
+            "url": "http://www.seacv.es",
+            "description": "Spanish Society for Angiology and Vascular Surgery"
+        },
+        "reference": [
+            {
+                "citation": "Zoia C, Bongetta D, Veiceschi P, Cenzato M, Di Meco F, Locatelli D, Boeris D, Fontanella MM. Neurosurgery during the COVID-19 pandemic: update from Lombardy, northern Italy. Acta Neurochir (Wien). 2020 Mar 28. doi: 10.1007/s00701-020-04305-w. [Epub ahead of print]",
+                "PMID": "32222820"
+            },
+            {
+                "citation": "Aminian A, Safari S, Razeghian-Jahromi A, Ghorbani M, Delaney CP. COVID-19 Outbreak and Surgical Practice: Unexpected Fatality in Perioperative Period. Ann Surg. 2020 Mar 26. doi: 10.1097/SLA.0000000000003925. [Epub ahead of print]",
+                "PMID": "32221117"
+            },
+            {
+                "citation": "Ficarra V, Novara G, Abrate A, Bartoletti R, Crestani A, De Nunzio C, Giannarini G, Gregori A, Liguori G, Mirone V, Pavan N, Scarpa RM, Simonato A, Trombetta C, Tubaro A, Porpiglia F; Members of the Research Urology Network (RUN). Urology practice during COVID-19 pandemic. Minerva Urol Nefrol. 2020 Mar 23. doi: 10.23736/S0393-2249.20.03846-1. [Epub ahead of print]",
+                "PMID": "32202401"
+            },
+            {
+                "citation": "Iacobucci G. Covid-19: all non-urgent elective surgery is suspended for at least three months in England. BMJ. 2020 Mar 18;368:m1106. doi: 10.1136/bmj.m1106.",
+                "PMID": "32188602"
+            },
+            {
+                "citation": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Feb 28. doi: 10.1056/NEJMoa2002032. [Epub ahead of print]",
+                "PMID": "32109013"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Vascular surgical procedures",
+            "Endovascular procedures",
+            "COVID-19",
+            "Postoperative complications",
+            "Prognosis"
+        ],
+        "condition_browse": {
+            "mesh_term": "Postoperative Complications"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "No sharing plan available nowadays."
+        }
+    }
+}

@@ -1,1 +1,214 @@
-{"clinical_study": {"@rank": "56", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04320615"}, "id_info": {"org_study_id": "WA42380", "secondary_id": "2020-001154-22", "nct_id": "NCT04320615"}, "brief_title": "A Study to Evaluate the Safety and Efficacy of Tocilizumab in Patients With Severe COVID-19 Pneumonia", "acronym": "COVACTA", "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Safety and Efficacy of Tocilizumab in Patients With Severe COVID-19 Pneumonia", "sponsors": {"lead_sponsor": {"agency": "Hoffmann-La Roche", "agency_class": "Industry"}}, "source": "Hoffmann-La Roche", "oversight_info": {"is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "This study will evaluate the efficacy, safety, pharmacodynamics, and pharmacokinetics of\n      tocilizumab (TCZ) compared with a matching placebo in combination with standard of care (SOC)\n      in hospitalized patients with severe COVID-19 pneumonia."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 3, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "September 30, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "August 31, 2021"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "Double (Participant, Investigator)"}, "primary_outcome": {"measure": "Clinical Status Assessed Using a 7-Category Ordinal Scale", "time_frame": "Day 28"}, "secondary_outcome": [{"measure": "Time to Clinical Improvement (TTCI), Defined as a National Early Warning Score 2 (NEWS2) of </= 2 Maintained for 24 Hours", "time_frame": "Up to 60 days"}, {"measure": "Time to Improvement of at Least 2 Categories Relative to Baseline on a 7-Category Ordinal Scale of Clinical Status", "time_frame": "Up to 60 days"}, {"measure": "Incidence of Mechanical Ventilation", "time_frame": "Up to 60 days"}, {"measure": "Ventilator-Free Days to Day 28", "time_frame": "Up to Day 28"}, {"measure": "Organ Failure-Free Days to Day 28", "time_frame": "Up to Day 28"}, {"measure": "Incidence of Intensive Care Unit (ICU) Stay", "time_frame": "Up to 60 days"}, {"measure": "Duration of ICU Stay", "time_frame": "Up to 60 days"}, {"measure": "Time to Clinical Failure", "time_frame": "From first dose to time of death, mechanical ventilation, ICU admission, or study withdrawal (whichever occurs first, for up to 60 days)"}, {"measure": "Mortality Rate", "time_frame": "Days 7, 14, 21, 28, and 60"}, {"measure": "Time to Hospital Discharge", "time_frame": "Up to 60 days"}, {"measure": "Duration of Time on Supplemental Oxygen", "time_frame": "Up to 60 days"}, {"measure": "Percentage of Participants with Adverse Events", "time_frame": "Up to 60 days"}, {"measure": "COVID-19 (SARS-CoV-2) Viral Load Over Time", "time_frame": "Up to 60 days"}, {"measure": "Time to Reverse-Transcriptase Polymerase Chain Reaction (RT-PCR) Virus Negativity", "time_frame": "Up to 60 days"}, {"measure": "Proportion of Participants with Post-Treatment Infection", "time_frame": "Up to 60 days"}, {"measure": "Serum Concentration of IL-6", "time_frame": "Up to 60 days"}, {"measure": "Serum Concentration of sIL-6R", "time_frame": "Up to 60 days"}, {"measure": "Serum Concentration of Ferritin", "time_frame": "Up to 60 days"}, {"measure": "Serum Concentration of C-Reactive Protein (CRP)", "time_frame": "Up to 60 days"}, {"measure": "Serum Concentration of TCZ", "time_frame": "Up to 60 days"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "330"}, "condition": "COVID-19 Pneumonia", "arm_group": [{"arm_group_label": "Tocilizumab (TCZ) Arm", "arm_group_type": "Experimental", "description": "Participants will receive 1 intravenous (IV) infusion of TCZ, dosed at 8 mg/kg, up to a maximum dose 800 mg. Up to 1 additional dose may be given if clinical symptoms worsen or show no improvement."}, {"arm_group_label": "Placebo Arm", "arm_group_type": "Placebo Comparator", "description": "Participants will receive 1 IV infusion of placebo matched to TCZ. Up to 1 additional dose may be given if clinical symptoms worsen or show no improvement."}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Tocilizumab (TCZ)", "description": "Participants will receive 1 dose of IV TCZ. 1 additional dose may be given if clinical symptoms worsen or show no improvement.", "arm_group_label": "Tocilizumab (TCZ) Arm"}, {"intervention_type": "Drug", "intervention_name": "Placebo", "description": "Participants will receive 1 dose of IV placebo matched to TCZ. Up to 1 additional dose may be given if clinical symptoms worsen or show no improvement.", "arm_group_label": "Placebo Arm"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Hospitalized with COVID-19 pneumonia confirmed per WHO criteria (including a positive\n             PCR of any specimen; e.g., respiratory, blood, urine, stool, other bodily fluid) and\n             evidenced by chest X-ray or CT scan\n\n          -  SPO2 </=93% or PaO2/FiO2 <300 mmHg\n\n        Exclusion Criteria:\n\n          -  Known severe allergic reactions to TCZ or other monoclonal antibodies\n\n          -  Active tuberculosis (TB) infection\n\n          -  Suspected active bacterial, fungal, viral, or other infection (besides COVID-19)\n\n          -  In the opinion of the investigator, progression to death is imminent and inevitable\n             within the next 24 hours, irrespective of the provision of treatments\n\n          -  Have received oral anti-rejection or immunomodulatory drugs (including TCZ) with the\n             past 6 months\n\n          -  Participating in other drug clinical trials (participation in COVID-19 anti-viral\n             trials may be permitted if approved by Medical Monitor)\n\n          -  Pregnant or breastfeeding, or positive pregnancy test in a pre-dose examination\n\n          -  Treatment with an investigational drug within 5 half-lives or 30 days (whichever is\n             longer) of randomization (investigational COVID-19 antivirals may be permitted if\n             approved by Medial Monitor)\n\n          -  Any serious medical condition or abnormality of clinical laboratory tests that, in the\n             investigator's judgment, precludes the patient's safe participation in and completion\n             of the study\n\n          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) > 10 x upper limit\n             of normal (ULN) detected within 24 hours at screening or at baseline (per local lab)\n\n          -  Absolute neutrophil count (ANC) < 1000/mL at screening and baseline (per local lab)\n\n          -  Platelet count < 50,000/mL at screening and baseline (per local lab)"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Clinical Trials", "role": "Study Director", "affiliation": "Hoffmann-La Roche"}, "overall_contact": {"last_name": "Reference Study ID Number: WA42380 www.roche.com/about_roche/roche_worldwide.htm", "phone": "888-662-6728", "email": "global-roche-genentech-trials@gene.com"}, "verification_date": "March 2020", "study_first_submitted": "March 23, 2020", "study_first_submitted_qc": "March 23, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 25, 2020"}, "last_update_submitted": "March 26, 2020", "last_update_submitted_qc": "March 26, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 30, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Pneumonia"}, "patient_data": {"sharing_ipd": "Yes", "ipd_description": "Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.clinicalstudydatarequest.com).\nFurther details on Roche's criteria for eligible studies are available here: https://clinicalstudydatarequest.com/Study-Sponsors/Study-Sponsors-Roche.aspx For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here: (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm"}}}
+{
+    "clinical_study": {
+        "@rank": "56",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04320615"
+        },
+        "id_info": {
+            "org_study_id": "WA42380",
+            "secondary_id": "2020-001154-22",
+            "nct_id": "NCT04320615"
+        },
+        "brief_title": "A Study to Evaluate the Safety and Efficacy of Tocilizumab in Patients With Severe COVID-19 Pneumonia",
+        "acronym": "COVACTA",
+        "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Safety and Efficacy of Tocilizumab in Patients With Severe COVID-19 Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hoffmann-La Roche",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Hoffmann-La Roche",
+        "oversight_info": {
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study will evaluate the efficacy, safety, pharmacodynamics, and pharmacokinetics of\n      tocilizumab (TCZ) compared with a matching placebo in combination with standard of care (SOC)\n      in hospitalized patients with severe COVID-19 pneumonia."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 3, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 31, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Clinical Status Assessed Using a 7-Category Ordinal Scale",
+            "time_frame": "Day 28"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time to Clinical Improvement (TTCI), Defined as a National Early Warning Score 2 (NEWS2) of </= 2 Maintained for 24 Hours",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Time to Improvement of at Least 2 Categories Relative to Baseline on a 7-Category Ordinal Scale of Clinical Status",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Incidence of Mechanical Ventilation",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Ventilator-Free Days to Day 28",
+                "time_frame": "Up to Day 28"
+            },
+            {
+                "measure": "Organ Failure-Free Days to Day 28",
+                "time_frame": "Up to Day 28"
+            },
+            {
+                "measure": "Incidence of Intensive Care Unit (ICU) Stay",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Duration of ICU Stay",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Time to Clinical Failure",
+                "time_frame": "From first dose to time of death, mechanical ventilation, ICU admission, or study withdrawal (whichever occurs first, for up to 60 days)"
+            },
+            {
+                "measure": "Mortality Rate",
+                "time_frame": "Days 7, 14, 21, 28, and 60"
+            },
+            {
+                "measure": "Time to Hospital Discharge",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Duration of Time on Supplemental Oxygen",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Percentage of Participants with Adverse Events",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "COVID-19 (SARS-CoV-2) Viral Load Over Time",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Time to Reverse-Transcriptase Polymerase Chain Reaction (RT-PCR) Virus Negativity",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Proportion of Participants with Post-Treatment Infection",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Serum Concentration of IL-6",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Serum Concentration of sIL-6R",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Serum Concentration of Ferritin",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Serum Concentration of C-Reactive Protein (CRP)",
+                "time_frame": "Up to 60 days"
+            },
+            {
+                "measure": "Serum Concentration of TCZ",
+                "time_frame": "Up to 60 days"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "330"
+        },
+        "condition": "COVID-19 Pneumonia",
+        "arm_group": [
+            {
+                "arm_group_label": "Tocilizumab (TCZ) Arm",
+                "arm_group_type": "Experimental",
+                "description": "Participants will receive 1 intravenous (IV) infusion of TCZ, dosed at 8 mg/kg, up to a maximum dose 800 mg. Up to 1 additional dose may be given if clinical symptoms worsen or show no improvement."
+            },
+            {
+                "arm_group_label": "Placebo Arm",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Participants will receive 1 IV infusion of placebo matched to TCZ. Up to 1 additional dose may be given if clinical symptoms worsen or show no improvement."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Tocilizumab (TCZ)",
+                "description": "Participants will receive 1 dose of IV TCZ. 1 additional dose may be given if clinical symptoms worsen or show no improvement.",
+                "arm_group_label": "Tocilizumab (TCZ) Arm"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Participants will receive 1 dose of IV placebo matched to TCZ. Up to 1 additional dose may be given if clinical symptoms worsen or show no improvement.",
+                "arm_group_label": "Placebo Arm"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Hospitalized with COVID-19 pneumonia confirmed per WHO criteria (including a positive\n             PCR of any specimen; e.g., respiratory, blood, urine, stool, other bodily fluid) and\n             evidenced by chest X-ray or CT scan\n\n          -  SPO2 </=93% or PaO2/FiO2 <300 mmHg\n\n        Exclusion Criteria:\n\n          -  Known severe allergic reactions to TCZ or other monoclonal antibodies\n\n          -  Active tuberculosis (TB) infection\n\n          -  Suspected active bacterial, fungal, viral, or other infection (besides COVID-19)\n\n          -  In the opinion of the investigator, progression to death is imminent and inevitable\n             within the next 24 hours, irrespective of the provision of treatments\n\n          -  Have received oral anti-rejection or immunomodulatory drugs (including TCZ) with the\n             past 6 months\n\n          -  Participating in other drug clinical trials (participation in COVID-19 anti-viral\n             trials may be permitted if approved by Medical Monitor)\n\n          -  Pregnant or breastfeeding, or positive pregnancy test in a pre-dose examination\n\n          -  Treatment with an investigational drug within 5 half-lives or 30 days (whichever is\n             longer) of randomization (investigational COVID-19 antivirals may be permitted if\n             approved by Medial Monitor)\n\n          -  Any serious medical condition or abnormality of clinical laboratory tests that, in the\n             investigator's judgment, precludes the patient's safe participation in and completion\n             of the study\n\n          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) > 10 x upper limit\n             of normal (ULN) detected within 24 hours at screening or at baseline (per local lab)\n\n          -  Absolute neutrophil count (ANC) < 1000/mL at screening and baseline (per local lab)\n\n          -  Platelet count < 50,000/mL at screening and baseline (per local lab)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Clinical Trials",
+            "role": "Study Director",
+            "affiliation": "Hoffmann-La Roche"
+        },
+        "overall_contact": {
+            "last_name": "Reference Study ID Number: WA42380 www.roche.com/about_roche/roche_worldwide.htm",
+            "phone": "888-662-6728",
+            "email": "global-roche-genentech-trials@gene.com"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 23, 2020",
+        "study_first_submitted_qc": "March 23, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "last_update_submitted": "March 26, 2020",
+        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.clinicalstudydatarequest.com).\nFurther details on Roche's criteria for eligible studies are available here: https://clinicalstudydatarequest.com/Study-Sponsors/Study-Sponsors-Roche.aspx For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here: (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm"
+        }
+    }
+}

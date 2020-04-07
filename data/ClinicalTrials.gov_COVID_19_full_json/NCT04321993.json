@@ -1,1 +1,243 @@
-{"clinical_study": {"@rank": "35", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04321993"}, "id_info": {"org_study_id": "SAIL-004", "nct_id": "NCT04321993"}, "brief_title": "Treatment of Moderate to Severe Coronavirus Disease (COVID-19) in Hospitalized Patients", "official_title": "Treatment of Moderate to Severe Coronavirus Disease (COVID-19) in Hospitalized Patients", "sponsors": {"lead_sponsor": {"agency": "Lisa Barrett", "agency_class": "Other"}, "collaborator": [{"agency": "Nova Scotia Health Authority", "agency_class": "Other"}, {"agency": "Dalhousie University", "agency_class": "Other"}]}, "source": "Nova Scotia Health Authority", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Investigational medications adjunct to clinical standard of care treatment will be assessed\n      to evaluate safety and effectiveness as an anti-COVID-19 treatment. All hospitalized persons\n      with moderate to severe COVID-19 disease that meet eligibility criteria will be offered\n      participation."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 2020"}, "completion_date": {"@type": "Anticipated", "#text": "July 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "February 2021"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Non-Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Clinical status of subject at day 15 (on a 7 point ordinal scale).", "time_frame": "Up to 15 days", "description": "Not hospitalized, no limitations on activities\nNot hospitalized, limitation on activities;\nHospitalized, not requiring supplemental oxygen;\nHospitalized, requiring supplemental oxygen;\nHospitalized, on non-invasive ventilation or high flow oxygen devices;\nHospitalized, on invasive mechanical ventilation or ECMO;\nDeath."}, "secondary_outcome": [{"measure": "Status on an ordinal scale assessed daily while hospitalized and on days 15 and 29 and 180.", "time_frame": "Up to 180 days", "description": "Not hospitalized, no limitations on activities\nNot hospitalized, limitation on activities;\nHospitalized, not requiring supplemental oxygen;\nHospitalized, requiring supplemental oxygen;\nHospitalized, on non-invasive ventilation or high flow oxygen devices;\nHospitalized, on invasive mechanical ventilation or ECMO;\nDeath."}, {"measure": "Length of time to clinical improvement", "time_frame": "Up to 29 days", "description": "Time to clinical improvement is defined as the time to normalization of respiratory rate, fever, and oxygen saturation, and alleviation of cough within 72 hours."}, {"measure": "Number of participants with normal pulmonary function and normal O2 saturation on days 11, 15 and 29", "time_frame": "Up to 29 days"}, {"measure": "Number of participants that developed Acute Respiratory Distress Syndrome (ARDS) after treatment", "time_frame": "Up to 24 weeks"}, {"measure": "Length of time to clinical progression", "time_frame": "Up to 29 days", "description": "Time to clinical progression, defined as the time to death, mechanical ventilation, or ICU admission"}, {"measure": "Cause of death (if applicable)", "time_frame": "Up to 24 weeks"}, {"measure": "Sequential Organ Failure Assessment (SOFA) score, daily while hospitalized and on days 15 and 29. (Initial, highest, deltas and mean)", "time_frame": "Up to 29 days"}, {"measure": "Length of time to normalization of fever", "time_frame": "Up to 29 days", "description": "Fever normalization as defined by: Temperature < 36.6 \u00b0C armpit, < 37.2 \u00b0C oral, or < 37.8 \u00b0C rectal sustained for minimum 24 hours"}, {"measure": "Length of time to normalization of oxygen saturation", "time_frame": "Up to 29 days", "description": "Oxygen normalization as defined by: peripheral capillary oxygen saturation (Sp02) > 94% sustained minimum 24 hours."}, {"measure": "Duration of supplemental oxygen (if applicable)", "time_frame": "Up to 29 days"}, {"measure": "Duration of mechanical ventilation (if applicable)", "time_frame": "Up to 29 days"}, {"measure": "Duration of hospitalization", "time_frame": "Up to 29 days"}, {"measure": "Adverse events", "time_frame": "Up to 180 days"}], "other_outcome": [{"measure": "Global and SARS-CoV-2-specific immune responses before, during and after intervention and in standard of care treatment arm", "time_frame": "Up to 180 days"}, {"measure": "Percent of subjects with SARS-CoV-2 detectable in blood at days 3, 5, 8, 11, 15, 29 and 180.", "time_frame": "Up to 180 days"}, {"measure": "Quantitative SARS-CoV-2 viral load in blood at days 3, 5, 8, and 11, 15, 29, and 180.", "time_frame": "Up to 180 days"}], "number_of_arms": "5", "enrollment": {"@type": "Anticipated", "#text": "1000"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "Lopinavir/ritonavir", "arm_group_type": "Experimental"}, {"arm_group_label": "Hydroxychloroquine sulfate", "arm_group_type": "Experimental"}, {"arm_group_label": "Baricitinib", "arm_group_type": "Experimental"}, {"arm_group_label": "Sarilumab", "arm_group_type": "Experimental"}, {"arm_group_label": "Clinical standard of care", "arm_group_type": "No Intervention"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Lopinavir/ritonavir", "description": "Lopinavir/ritonavir tablet 200mg/50mg 2 tables by mouth, every 12 hours for 10 days", "arm_group_label": "Lopinavir/ritonavir"}, {"intervention_type": "Drug", "intervention_name": "Hydroxychloroquine sulfate", "description": "Hydroxychloroquine sulfate sulfate tablet 200 mg 2 tablets by mouth, every 12 hours for 10 days", "arm_group_label": "Hydroxychloroquine sulfate"}, {"intervention_type": "Drug", "intervention_name": "Baricitinib (janus kinase inhibitor)", "description": "Baricitinib 2 mg po daily for 10 days", "arm_group_label": "Baricitinib"}, {"intervention_type": "Drug", "intervention_name": "Sarilumab (anti-IL-6 receptor)", "description": "Sarilumab 200mg subcutaneous injection once", "arm_group_label": "Sarilumab"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  18 years or older\n\n          -  Moderate to severe COVID-19 associated disease as defined by the WHO\n\n          -  Hospitalized patient\n\n          -  Willing and able to provide written informed consent prior to performing study\n             procedures\n\n          -  Has laboratory-confirmed SARS-CoV-2 infection as determined by PCR, or other\n             commercial or public health assay\n\n          -  Illness of any duration, and at least one of the following: Radiographic infiltrates\n             by imaging (chest x-ray, CT scan, etc.), or Clinical assessment (evidence of\n             rales/crackles on exam) AND SpO2 \u2264 94% on room air, or Require mechanical ventilation\n             and/or supplemental oxygen.\n\n          -  Febrile defined as temperature \u2265 36.6 \u00b0C armpit, \u2265 37.2 \u00b0C oral, or \u2265 37.8 \u00b0C rectal\n             documented within 48 hours of consent\n\n        Exclusion Criteria:\n\n          -  Participation in any other clinical trial of an experimental treatment for COVID-19\n\n          -  Concurrent treatment with other agents with actual or possible direct acting antiviral\n             activity against SARS-CoV-2 is prohibited < 24 hours prior to study medication\n             initiation\n\n          -  SOFA >10\n\n          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit\n             of normal (ULN)\n\n          -  Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR < 30)\n\n          -  Pregnant women or women who are breastfeeding\n\n          -  Immunocompromised patients taking medication upon screening\n\n          -  Consideration by the investigator, for any reason, that the subject is an unsuitable\n             candidate to receive study treatment"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Barbara Goodall", "phone": "(902) 292-0132", "email": "barbara.goodall@nshealth.ca"}, "overall_contact_backup": {"last_name": "Lisa Barrett", "phone": "(902) 473-6446", "email": "lisa.barrett@nshealth.ca"}, "verification_date": "March 2020", "study_first_submitted": "March 24, 2020", "study_first_submitted_qc": "March 24, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 26, 2020"}, "last_update_submitted": "March 24, 2020", "last_update_submitted_qc": "March 24, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 26, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Nova Scotia Health Authority", "investigator_full_name": "Lisa Barrett", "investigator_title": "Clinician Scientist"}, "condition_browse": {"mesh_term": "Coronavirus Infections"}, "intervention_browse": {"mesh_term": ["Ritonavir", "Lopinavir", "Hydroxychloroquine", "Janus Kinase Inhibitors"]}}}
+{
+    "clinical_study": {
+        "@rank": "35",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04321993"
+        },
+        "id_info": {
+            "org_study_id": "SAIL-004",
+            "nct_id": "NCT04321993"
+        },
+        "brief_title": "Treatment of Moderate to Severe Coronavirus Disease (COVID-19) in Hospitalized Patients",
+        "official_title": "Treatment of Moderate to Severe Coronavirus Disease (COVID-19) in Hospitalized Patients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Lisa Barrett",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Nova Scotia Health Authority",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dalhousie University",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Nova Scotia Health Authority",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Investigational medications adjunct to clinical standard of care treatment will be assessed\n      to evaluate safety and effectiveness as an anti-COVID-19 treatment. All hospitalized persons\n      with moderate to severe COVID-19 disease that meet eligibility criteria will be offered\n      participation."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Clinical status of subject at day 15 (on a 7 point ordinal scale).",
+            "time_frame": "Up to 15 days",
+            "description": "Not hospitalized, no limitations on activities\nNot hospitalized, limitation on activities;\nHospitalized, not requiring supplemental oxygen;\nHospitalized, requiring supplemental oxygen;\nHospitalized, on non-invasive ventilation or high flow oxygen devices;\nHospitalized, on invasive mechanical ventilation or ECMO;\nDeath."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Status on an ordinal scale assessed daily while hospitalized and on days 15 and 29 and 180.",
+                "time_frame": "Up to 180 days",
+                "description": "Not hospitalized, no limitations on activities\nNot hospitalized, limitation on activities;\nHospitalized, not requiring supplemental oxygen;\nHospitalized, requiring supplemental oxygen;\nHospitalized, on non-invasive ventilation or high flow oxygen devices;\nHospitalized, on invasive mechanical ventilation or ECMO;\nDeath."
+            },
+            {
+                "measure": "Length of time to clinical improvement",
+                "time_frame": "Up to 29 days",
+                "description": "Time to clinical improvement is defined as the time to normalization of respiratory rate, fever, and oxygen saturation, and alleviation of cough within 72 hours."
+            },
+            {
+                "measure": "Number of participants with normal pulmonary function and normal O2 saturation on days 11, 15 and 29",
+                "time_frame": "Up to 29 days"
+            },
+            {
+                "measure": "Number of participants that developed Acute Respiratory Distress Syndrome (ARDS) after treatment",
+                "time_frame": "Up to 24 weeks"
+            },
+            {
+                "measure": "Length of time to clinical progression",
+                "time_frame": "Up to 29 days",
+                "description": "Time to clinical progression, defined as the time to death, mechanical ventilation, or ICU admission"
+            },
+            {
+                "measure": "Cause of death (if applicable)",
+                "time_frame": "Up to 24 weeks"
+            },
+            {
+                "measure": "Sequential Organ Failure Assessment (SOFA) score, daily while hospitalized and on days 15 and 29. (Initial, highest, deltas and mean)",
+                "time_frame": "Up to 29 days"
+            },
+            {
+                "measure": "Length of time to normalization of fever",
+                "time_frame": "Up to 29 days",
+                "description": "Fever normalization as defined by: Temperature < 36.6 \u00b0C armpit, < 37.2 \u00b0C oral, or < 37.8 \u00b0C rectal sustained for minimum 24 hours"
+            },
+            {
+                "measure": "Length of time to normalization of oxygen saturation",
+                "time_frame": "Up to 29 days",
+                "description": "Oxygen normalization as defined by: peripheral capillary oxygen saturation (Sp02) > 94% sustained minimum 24 hours."
+            },
+            {
+                "measure": "Duration of supplemental oxygen (if applicable)",
+                "time_frame": "Up to 29 days"
+            },
+            {
+                "measure": "Duration of mechanical ventilation (if applicable)",
+                "time_frame": "Up to 29 days"
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "Up to 29 days"
+            },
+            {
+                "measure": "Adverse events",
+                "time_frame": "Up to 180 days"
+            }
+        ],
+        "other_outcome": [
+            {
+                "measure": "Global and SARS-CoV-2-specific immune responses before, during and after intervention and in standard of care treatment arm",
+                "time_frame": "Up to 180 days"
+            },
+            {
+                "measure": "Percent of subjects with SARS-CoV-2 detectable in blood at days 3, 5, 8, 11, 15, 29 and 180.",
+                "time_frame": "Up to 180 days"
+            },
+            {
+                "measure": "Quantitative SARS-CoV-2 viral load in blood at days 3, 5, 8, and 11, 15, 29, and 180.",
+                "time_frame": "Up to 180 days"
+            }
+        ],
+        "number_of_arms": "5",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1000"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Lopinavir/ritonavir",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Hydroxychloroquine sulfate",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Baricitinib",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Sarilumab",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Clinical standard of care",
+                "arm_group_type": "No Intervention"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Lopinavir/ritonavir",
+                "description": "Lopinavir/ritonavir tablet 200mg/50mg 2 tables by mouth, every 12 hours for 10 days",
+                "arm_group_label": "Lopinavir/ritonavir"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine sulfate",
+                "description": "Hydroxychloroquine sulfate sulfate tablet 200 mg 2 tablets by mouth, every 12 hours for 10 days",
+                "arm_group_label": "Hydroxychloroquine sulfate"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Baricitinib (janus kinase inhibitor)",
+                "description": "Baricitinib 2 mg po daily for 10 days",
+                "arm_group_label": "Baricitinib"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Sarilumab (anti-IL-6 receptor)",
+                "description": "Sarilumab 200mg subcutaneous injection once",
+                "arm_group_label": "Sarilumab"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  18 years or older\n\n          -  Moderate to severe COVID-19 associated disease as defined by the WHO\n\n          -  Hospitalized patient\n\n          -  Willing and able to provide written informed consent prior to performing study\n             procedures\n\n          -  Has laboratory-confirmed SARS-CoV-2 infection as determined by PCR, or other\n             commercial or public health assay\n\n          -  Illness of any duration, and at least one of the following: Radiographic infiltrates\n             by imaging (chest x-ray, CT scan, etc.), or Clinical assessment (evidence of\n             rales/crackles on exam) AND SpO2 \u2264 94% on room air, or Require mechanical ventilation\n             and/or supplemental oxygen.\n\n          -  Febrile defined as temperature \u2265 36.6 \u00b0C armpit, \u2265 37.2 \u00b0C oral, or \u2265 37.8 \u00b0C rectal\n             documented within 48 hours of consent\n\n        Exclusion Criteria:\n\n          -  Participation in any other clinical trial of an experimental treatment for COVID-19\n\n          -  Concurrent treatment with other agents with actual or possible direct acting antiviral\n             activity against SARS-CoV-2 is prohibited < 24 hours prior to study medication\n             initiation\n\n          -  SOFA >10\n\n          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit\n             of normal (ULN)\n\n          -  Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR < 30)\n\n          -  Pregnant women or women who are breastfeeding\n\n          -  Immunocompromised patients taking medication upon screening\n\n          -  Consideration by the investigator, for any reason, that the subject is an unsuitable\n             candidate to receive study treatment"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Barbara Goodall",
+            "phone": "(902) 292-0132",
+            "email": "barbara.goodall@nshealth.ca"
+        },
+        "overall_contact_backup": {
+            "last_name": "Lisa Barrett",
+            "phone": "(902) 473-6446",
+            "email": "lisa.barrett@nshealth.ca"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 24, 2020",
+        "study_first_submitted_qc": "March 24, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 26, 2020"
+        },
+        "last_update_submitted": "March 24, 2020",
+        "last_update_submitted_qc": "March 24, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 26, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Nova Scotia Health Authority",
+            "investigator_full_name": "Lisa Barrett",
+            "investigator_title": "Clinician Scientist"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Ritonavir",
+                "Lopinavir",
+                "Hydroxychloroquine",
+                "Janus Kinase Inhibitors"
+            ]
+        }
+    }
+}

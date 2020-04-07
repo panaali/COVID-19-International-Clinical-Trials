@@ -1,1 +1,269 @@
-{"clinical_study": {"@rank": "62", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04329650"}, "id_info": {"org_study_id": "SILCOR-COVID-19", "nct_id": "NCT04329650"}, "brief_title": "Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia", "official_title": "Phase 2, Randomized, Open-label Study to Compare Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia", "sponsors": {"lead_sponsor": {"agency": "Judit Pich Mart\u00ednez", "agency_class": "Other"}}, "source": "Fundacion Clinic per a la Recerca Biom\u00e9dica", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "In our center up to 25% of the hospitalized patients with COVID-19 progress and need an\n      intensive care unit. It is urgent to find measures that can avoid this progression to severe\n      stages of the disease. We hypothesize that the use of anti-inflammatory drugs used at the\n      time they start hyperinflammation episodes could improve symptoms and prognosis of patients\n      and prevent their progression sufficiently to avoid their need for be admitted to an\n      Intensive Care Unit."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "May 20, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 20, 2020"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Proportion of patients requiring ICU admission at any time within the study period.", "time_frame": "29 days"}, "secondary_outcome": [{"measure": "Days of stay in the ICU during the study period.", "time_frame": "29 days"}, {"measure": "Days until resolution of fever defined as body temperature (axillary \u2264 36.6 \u00b0 C, oral \u2264 37.2 \u00b0 C, or rectal or tympanic \u2264 37.8 \u00b0 C) for at least 48 hours, without administration of antipyretics or until hospital discharge.", "time_frame": "29 days"}, {"measure": "Proportion of patients with a worsening requirement of supplemental oxygen at 29 days. days.", "time_frame": "29 days"}, {"measure": "Days with hypoxemia (SpO2 <93% in ambient air or requiring oxygen supplemental or mechanical ventilation support) at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients using mechanical ventilation at 29 days.", "time_frame": "29 days"}, {"measure": "Days with use of mechanical ventilation at 29 days.", "time_frame": "29 days"}, {"measure": "Days until the start of use of mechanical ventilation, non-invasive ventilation or use of high flow nasal cannula (if the patient have not previously required these interventions at the inclusion of the study) at 29 days.", "time_frame": "29 days"}, {"measure": "Days of hospitalization among survivors at 29 days.", "time_frame": "29 days"}, {"measure": "Mortality rate from any cause at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients with serious adverse events at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients with invasive bacterial or fungal infections clinically significant or opportunistic with grade 4 neutropenia (count neutrophil absolute <500 / mm3) at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients with invasive bacterial or fungal infections clinically significant or opportunistic at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients with grade 2 or higher adverse reactions related to the infusion of the sudy treatments at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients with hypersensitivity reactions of grade 2 or higher related to the administration of the study treatments at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients with gastrointestinal perforation at 29 days.", "time_frame": "29 days"}, {"measure": "Proportion of patients with secondary severe infections confirmed by laboratory or worsening of existing infections at 29 days.", "time_frame": "29 days"}, {"measure": "Changes from baseline in plasma leukocyte levels at days 1, 3, 5, 7 and 9.", "time_frame": "Days 1, 3, 5, 7 and 9"}, {"measure": "Changes from baseline in plasma hemoglobin levels at days 1, 3, 5, 7 and 9.", "time_frame": "Days 1, 3, 5, 7 and 9"}, {"measure": "Changes from baseline in plasma platelet at days 1, 3, 5, 7 and 9.", "time_frame": "Days 1, 3, 5, 7 and 9"}, {"measure": "Changes from baseline in plasma creatinine levels at days 1, 3, 5, 7 and 9.", "time_frame": "Days 1, 3, 5, 7 and 9"}, {"measure": "Changes from baseline in plasma total bilirubin levels at days 1, 3, 5, 7 and 9.", "time_frame": "Days 1, 3, 5, 7 and 9"}, {"measure": "Proportion of patients with ALT\u2265 3 times ULN (for patients with initial values normal) or> 3 times ULN AND at least 2 times more than the initial value (for patients with abnormal initial values) at days 1, 3, 5, 7 and 9.", "time_frame": "Days 1, 3, 5, 7 and 9"}, {"measure": "Changes from baseline in plasma biomarkers (PCR, lymphocytes, ferritin, d-dimer and LDH) at days 1, 3, 5, 7 and 9.", "time_frame": "Days 1, 3, 5, 7 and 9"}, {"measure": "Changes from baseline in chest Rx at days 1, 3 and 5.", "time_frame": "Days 1, 3 and 5"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "100"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "Siltuximab 11mg/Kg", "arm_group_type": "Experimental"}, {"arm_group_label": "Methylprednisolone 250mg/24h", "arm_group_type": "Active Comparator"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Siltuximab", "description": "A single-dose of 11mg/Kg of siltuximab will be administered by intravenous infusion.", "arm_group_label": "Siltuximab 11mg/Kg"}, {"intervention_type": "Drug", "intervention_name": "Methylprednisolone", "description": "A dose of 250mg/24 hours of methylprednisolone during 3 days followed by 30mg/24 hours during 3 days will be administered by intravenous infusion.\nIf the patient is taken lopinavir/ritonavir, the dose will be 125 mg/ 24 hours during 3 days followed by 15mg/24 hours during 3 days.", "arm_group_label": "Methylprednisolone 250mg/24h"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Age \u2265 18 years old.\n\n          2. Hospitalized patient (or documentation of a hospitalization plan if the patient is in\n             an emergency department) with illness of more than 5 days of duration with evidence of\n             pneumonia by chest radiography / tomography computed chest and meets at least one of\n             the following requirements:\n\n               1. Non-critical patient with pneumonia in radiological progression and / or\n\n               2. Patient with progressive respiratory failure at the last 24-48 hours.\n\n          3. Laboratory confirmed SARS-CoV-2 infection (by PCR) or other commercialized analysis or\n             public health in any sample collected 4 days before the randomization or COVID-19\n             criteria following the defined diagnostic criteria at that time in the center.\n\n          4. Patient with a maximum O2 support of 35%\n\n          5. Be willing and able to comply with the study related procedures / evaluations.\n\n          6. Women of childbearing potential * should have a negative serum pregnancy test before\n             enrollment in the study and must commit to using methods highly effective\n             contraceptives (intrauterine device, bilateral tubal occlusion, vasectomized couple\n             and sexual abstinence).\n\n          7. Written informed consent. In case of inability of the patient to sign the informed\n             consent, a verbal informed consent from the legal representative or family witness (or\n             failing this, an impartial witness outside the investigator team) will be obtained by\n             phone.\n\n        When circumstances so allow, participants should sign the consent form. The confirmation of\n        the verbal informed consent will be documented in a document as evidence that verbal\n        consent has been obtained.\n\n        Exclusion Criteria:\n\n          1. Patient who, in the investigator's opinion, is unlikely to survive> 48 hours after the\n             inclusion in the study.\n\n          2. Presence of any of the following abnormal analytical values at the time of the\n             inclusion in the study:\n\n               -  absolute neutrophil count less than 2000 / mm3;\n\n               -  AST or ALT> 5 times the upper limit of normality;\n\n               -  platelets <50,000 per mm3.\n\n          3. In active treatment with immunosuppressants or previous prolonged treatment (more 3\n             months) of oral corticosteroids for a disease not related to COVID-19 at a dose\n             greater than 10 mg of prednisone or equivalent per day.\n\n          4. Known active tuberculosis or known history of tuberculosis uncompleted treatment.\n\n          5. Patients with active systemic bacterial and / or fungal infections.\n\n          6. Participants who, at the investigator's discretion, are not eligible to participate,\n             regardless of the reason, including medical or clinical conditions, or participants\n             potentially at risk of not following study procedures.\n\n          7. Patients who do not have entry criteria in the Intensive Care Unit.\n\n          8. Pregnancy or lactation.\n\n          9. Known hypersensitivity to siltuximab or to any of its excipients (histidine, histidine\n             hydrochloride, polysorbate 80 and sucrose)."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Felipe Garc\u00eda, MD", "role": "Principal Investigator", "affiliation": "Hospital Cl\u00ednic de Barcelona"}, "overall_contact": {"last_name": "Felipe Garc\u00eda, MD", "phone": "+34932275400", "phone_ext": "2884", "email": "fgarcia@clinic.cat"}, "location": {"facility": {"name": "Hospital Cl\u00ednic de Barcelona", "address": {"city": "Barcelona", "zip": "08036", "country": "Spain"}}, "contact": {"last_name": "Felipe Garc\u00eda, MD"}, "investigator": [{"last_name": "Felipe Garc\u00eda, MD", "role": "Principal Investigator"}, {"last_name": "Alex Soriano, MD", "role": "Principal Investigator"}]}, "location_countries": {"country": "Spain"}, "verification_date": "April 2020", "study_first_submitted": "March 31, 2020", "study_first_submitted_qc": "March 31, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Fundacion Clinic per a la Recerca Biom\u00e9dica", "investigator_full_name": "Judit Pich Mart\u00ednez", "investigator_title": "Clinical Research Manager"}, "condition_browse": {"mesh_term": "Pneumonia"}, "intervention_browse": {"mesh_term": ["Methylprednisolone", "Methylprednisolone Acetate", "Methylprednisolone Hemisuccinate", "Prednisolone", "Prednisolone acetate", "Siltuximab", "Prednisolone hemisuccinate", "Prednisolone phosphate", "Antibodies, Monoclonal"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "62",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04329650"
+        },
+        "id_info": {
+            "org_study_id": "SILCOR-COVID-19",
+            "nct_id": "NCT04329650"
+        },
+        "brief_title": "Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia",
+        "official_title": "Phase 2, Randomized, Open-label Study to Compare Efficacy and Safety of Siltuximab vs. Corticosteroids in Hospitalized Patients With COVID19 Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Judit Pich Mart\u00ednez",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Fundacion Clinic per a la Recerca Biom\u00e9dica",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "In our center up to 25% of the hospitalized patients with COVID-19 progress and need an\n      intensive care unit. It is urgent to find measures that can avoid this progression to severe\n      stages of the disease. We hypothesize that the use of anti-inflammatory drugs used at the\n      time they start hyperinflammation episodes could improve symptoms and prognosis of patients\n      and prevent their progression sufficiently to avoid their need for be admitted to an\n      Intensive Care Unit."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 20, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 20, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Proportion of patients requiring ICU admission at any time within the study period.",
+            "time_frame": "29 days"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Days of stay in the ICU during the study period.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Days until resolution of fever defined as body temperature (axillary \u2264 36.6 \u00b0 C, oral \u2264 37.2 \u00b0 C, or rectal or tympanic \u2264 37.8 \u00b0 C) for at least 48 hours, without administration of antipyretics or until hospital discharge.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with a worsening requirement of supplemental oxygen at 29 days. days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Days with hypoxemia (SpO2 <93% in ambient air or requiring oxygen supplemental or mechanical ventilation support) at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients using mechanical ventilation at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Days with use of mechanical ventilation at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Days until the start of use of mechanical ventilation, non-invasive ventilation or use of high flow nasal cannula (if the patient have not previously required these interventions at the inclusion of the study) at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Days of hospitalization among survivors at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Mortality rate from any cause at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with serious adverse events at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with invasive bacterial or fungal infections clinically significant or opportunistic with grade 4 neutropenia (count neutrophil absolute <500 / mm3) at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with invasive bacterial or fungal infections clinically significant or opportunistic at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with grade 2 or higher adverse reactions related to the infusion of the sudy treatments at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with hypersensitivity reactions of grade 2 or higher related to the administration of the study treatments at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with gastrointestinal perforation at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Proportion of patients with secondary severe infections confirmed by laboratory or worsening of existing infections at 29 days.",
+                "time_frame": "29 days"
+            },
+            {
+                "measure": "Changes from baseline in plasma leukocyte levels at days 1, 3, 5, 7 and 9.",
+                "time_frame": "Days 1, 3, 5, 7 and 9"
+            },
+            {
+                "measure": "Changes from baseline in plasma hemoglobin levels at days 1, 3, 5, 7 and 9.",
+                "time_frame": "Days 1, 3, 5, 7 and 9"
+            },
+            {
+                "measure": "Changes from baseline in plasma platelet at days 1, 3, 5, 7 and 9.",
+                "time_frame": "Days 1, 3, 5, 7 and 9"
+            },
+            {
+                "measure": "Changes from baseline in plasma creatinine levels at days 1, 3, 5, 7 and 9.",
+                "time_frame": "Days 1, 3, 5, 7 and 9"
+            },
+            {
+                "measure": "Changes from baseline in plasma total bilirubin levels at days 1, 3, 5, 7 and 9.",
+                "time_frame": "Days 1, 3, 5, 7 and 9"
+            },
+            {
+                "measure": "Proportion of patients with ALT\u2265 3 times ULN (for patients with initial values normal) or> 3 times ULN AND at least 2 times more than the initial value (for patients with abnormal initial values) at days 1, 3, 5, 7 and 9.",
+                "time_frame": "Days 1, 3, 5, 7 and 9"
+            },
+            {
+                "measure": "Changes from baseline in plasma biomarkers (PCR, lymphocytes, ferritin, d-dimer and LDH) at days 1, 3, 5, 7 and 9.",
+                "time_frame": "Days 1, 3, 5, 7 and 9"
+            },
+            {
+                "measure": "Changes from baseline in chest Rx at days 1, 3 and 5.",
+                "time_frame": "Days 1, 3 and 5"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Siltuximab 11mg/Kg",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Methylprednisolone 250mg/24h",
+                "arm_group_type": "Active Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Siltuximab",
+                "description": "A single-dose of 11mg/Kg of siltuximab will be administered by intravenous infusion.",
+                "arm_group_label": "Siltuximab 11mg/Kg"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Methylprednisolone",
+                "description": "A dose of 250mg/24 hours of methylprednisolone during 3 days followed by 30mg/24 hours during 3 days will be administered by intravenous infusion.\nIf the patient is taken lopinavir/ritonavir, the dose will be 125 mg/ 24 hours during 3 days followed by 15mg/24 hours during 3 days.",
+                "arm_group_label": "Methylprednisolone 250mg/24h"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Age \u2265 18 years old.\n\n          2. Hospitalized patient (or documentation of a hospitalization plan if the patient is in\n             an emergency department) with illness of more than 5 days of duration with evidence of\n             pneumonia by chest radiography / tomography computed chest and meets at least one of\n             the following requirements:\n\n               1. Non-critical patient with pneumonia in radiological progression and / or\n\n               2. Patient with progressive respiratory failure at the last 24-48 hours.\n\n          3. Laboratory confirmed SARS-CoV-2 infection (by PCR) or other commercialized analysis or\n             public health in any sample collected 4 days before the randomization or COVID-19\n             criteria following the defined diagnostic criteria at that time in the center.\n\n          4. Patient with a maximum O2 support of 35%\n\n          5. Be willing and able to comply with the study related procedures / evaluations.\n\n          6. Women of childbearing potential * should have a negative serum pregnancy test before\n             enrollment in the study and must commit to using methods highly effective\n             contraceptives (intrauterine device, bilateral tubal occlusion, vasectomized couple\n             and sexual abstinence).\n\n          7. Written informed consent. In case of inability of the patient to sign the informed\n             consent, a verbal informed consent from the legal representative or family witness (or\n             failing this, an impartial witness outside the investigator team) will be obtained by\n             phone.\n\n        When circumstances so allow, participants should sign the consent form. The confirmation of\n        the verbal informed consent will be documented in a document as evidence that verbal\n        consent has been obtained.\n\n        Exclusion Criteria:\n\n          1. Patient who, in the investigator's opinion, is unlikely to survive> 48 hours after the\n             inclusion in the study.\n\n          2. Presence of any of the following abnormal analytical values at the time of the\n             inclusion in the study:\n\n               -  absolute neutrophil count less than 2000 / mm3;\n\n               -  AST or ALT> 5 times the upper limit of normality;\n\n               -  platelets <50,000 per mm3.\n\n          3. In active treatment with immunosuppressants or previous prolonged treatment (more 3\n             months) of oral corticosteroids for a disease not related to COVID-19 at a dose\n             greater than 10 mg of prednisone or equivalent per day.\n\n          4. Known active tuberculosis or known history of tuberculosis uncompleted treatment.\n\n          5. Patients with active systemic bacterial and / or fungal infections.\n\n          6. Participants who, at the investigator's discretion, are not eligible to participate,\n             regardless of the reason, including medical or clinical conditions, or participants\n             potentially at risk of not following study procedures.\n\n          7. Patients who do not have entry criteria in the Intensive Care Unit.\n\n          8. Pregnancy or lactation.\n\n          9. Known hypersensitivity to siltuximab or to any of its excipients (histidine, histidine\n             hydrochloride, polysorbate 80 and sucrose)."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Felipe Garc\u00eda, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Hospital Cl\u00ednic de Barcelona"
+        },
+        "overall_contact": {
+            "last_name": "Felipe Garc\u00eda, MD",
+            "phone": "+34932275400",
+            "phone_ext": "2884",
+            "email": "fgarcia@clinic.cat"
+        },
+        "location": {
+            "facility": {
+                "name": "Hospital Cl\u00ednic de Barcelona",
+                "address": {
+                    "city": "Barcelona",
+                    "zip": "08036",
+                    "country": "Spain"
+                }
+            },
+            "contact": {
+                "last_name": "Felipe Garc\u00eda, MD"
+            },
+            "investigator": [
+                {
+                    "last_name": "Felipe Garc\u00eda, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Alex Soriano, MD",
+                    "role": "Principal Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Spain"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "March 31, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Fundacion Clinic per a la Recerca Biom\u00e9dica",
+            "investigator_full_name": "Judit Pich Mart\u00ednez",
+            "investigator_title": "Clinical Research Manager"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Methylprednisolone",
+                "Methylprednisolone Acetate",
+                "Methylprednisolone Hemisuccinate",
+                "Prednisolone",
+                "Prednisolone acetate",
+                "Siltuximab",
+                "Prednisolone hemisuccinate",
+                "Prednisolone phosphate",
+                "Antibodies, Monoclonal"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,1 +1,211 @@
-{"clinical_study": {"@rank": "111", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04322188"}, "id_info": {"org_study_id": "v 0.9 16th March 2020", "nct_id": "NCT04322188"}, "brief_title": "An Observational Case-control Study of the Use of Siltuximab in ARDS Patients Diagnosed With COVID-19 Infection", "acronym": "SISCO", "official_title": "An Observational Case-control Study of the Use of Siltuximab (SYLVANT) in Patients Diagnosed With COVID-19 Infection Who Have Developed Serious Respiratory Complications", "sponsors": {"lead_sponsor": {"agency": "A.O. Ospedale Papa Giovanni XXIII", "agency_class": "Other"}}, "source": "A.O. Ospedale Papa Giovanni XXIII", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "This observational study will collect data from patients treated under a compassionate use\n      programme with siltuximab (SYLVANT); patients diagnosed with COVID-19 infection who have\n      developed serious respiratory complications.\n\n      This observational study will group the patients into two cohorts receiving siltuximab.\n      Patients in Cohort A are treated in a non-ICU setting and patients in Cohort B are in an ICU\n      setting.\n\n      Each patient will have a matched control receiving standard treatment without siltuximab"}, "detailed_description": {"textblock": "This is a single-center observational case control study in Italy that follows the use of\n      treatment with siltuximab in patients with COVID-19 who have developed serious respiratory\n      complications. Retrospective data collection will be carried out on those patients who have\n      received the drug through the compassionate use program.\n\n      Patients receiving siltuximab that will be included into this observational study will be\n      divided into 2 cohorts, and per current estimation split in a 3:1 ratio: 75% will be in\n      Cohort A as not treated in an ICU setting and are not on mechanical ventilation, while 25%\n      will form Cohort B and consists of patients in an ICU setting who are receiving invasive\n      ventilation.\n\n      Each patient will be matched to a consented control patient receiving treatment other than\n      siltuximab for their condition.\n\n      Match Criteria\n\n      Patients and controls will be matched according to the following criteria:\n\n        -  Age (by decades)\n\n        -  Sex (M/F)\n\n        -  P/F fraction (<100, 100-150 or >150) at baseline\n\n        -  Antiviral therapy Procedures outlined in this protocol are based on the compassionate\n           use program, where patients are managed as per clinicians' best judgement and best\n           practice. No clinical procedures are required by this observational protocol. Data on\n           the procedures already performed during the routine diagnosis and treatment of COVID-19\n           patients will be collected. The list of clinical and laboratory parameters is provided\n           to direct data collection for this observational study (as available in the medical\n           records).\n\n      During their hospitalization, patients will be monitored as per standard hospital practice or\n      as per national (emergency) guidelines in accordance with extraordinary circumstances\n      relating to the COVID-19 outbreak. After discharge, patients will be asked to provide (from\n      their primary health care providers) relevant laboratory results for 30 days following start\n      of COVID-19 treatment via ventilation (either mechanical or non-invasive)."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 19, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "May 19, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 19, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Case-Control", "time_perspective": "Retrospective"}, "primary_outcome": [{"measure": "Cohort A: reduction of the need of invasive ventilation or 30-day mortality", "time_frame": "30 days", "description": "reduction of the need of invasive ventilation or 30-day mortality"}, {"measure": "Cohort B: reduction of mortality", "time_frame": "30 days", "description": "reduction of mortality"}], "secondary_outcome": [{"measure": "Cohort A Reduction of the need of time of ventilatory support", "time_frame": "1 month"}, {"measure": "Cohort B Percentage of patients that undergo to tracheostomy", "time_frame": "1 month"}, {"measure": "Cohort B Improvement of the lung function assessed by radiologic findings", "time_frame": "1 month"}], "number_of_groups": "2", "enrollment": {"@type": "Anticipated", "#text": "50"}, "condition": "Severe Acute Respiratory Syndrome (ARDS) Secondary to SARS-COV-2 Infection", "arm_group": [{"arm_group_label": "Cohort A", "description": "Patients in Cohort A are treated with siltuximab in a non-ICU setting Each patient will have a matched control receiving standard treatment without siltuximab."}, {"arm_group_label": "Cohort B", "description": "patients in Cohort B are treated with siltuximab in an ICU setting Each patient will have a matched control receiving standard treatment without siltuximab."}], "eligibility": {"study_pop": {"textblock": "Patients receiving siltuximab that will be included into this observational study will be\n        divided into 2 cohorts, and per current estimation split in a 3:1 ratio: 75% will be in\n        Cohort A as not treated in an ICU setting and are not on mechanical ventilation, while 25%\n        will form Cohort B and consists of patients in an ICU setting who are receiving invasive\n        ventilation.\n\n        Each patient will be matched to a consented control patient receiving treatment other than\n        siltuximab for their condition"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          1. Clinical and radiological diagnosis of pulmonary infection by COVID-19\n\n          2. Positive microbiological evidence of SARS-CoV-2 infection\n\n          3. Diagnosis of acute respiratory distress syndrome clinical panel in accordance with\n             Berlin 2012 criteria\n\n          4. For Cohort A only: subjects are eligible if they are enrolled and treated within 48\n             hours from the beginning of NIV (non invasive ventilation) or CPAP(continous positive\n             airway pressure)\n\n          5. For Cohort B only: subjects are eligible if they are enrolled and treated within 48\n             hours from the beginning of invasive ventilation\n\n        Exclusion Criteria:\n\n        1. Active infection of bacterial or viral (non COVID-19) origin"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Giuseppe GRITTI, MD", "role": "Principal Investigator", "affiliation": "ASST PAPA GIOVANNI XXIII"}, "overall_contact": {"last_name": "GIUSEPPE GRITTI, MD", "phone": "+39.0352673684", "email": "g.gritti@asst-pg23.it"}, "overall_contact_backup": {"last_name": "ALESSANDRO RAMBALDI, MD", "phone": "+39.0352673683", "email": "arambaldi@asst-pg23.it"}, "location": {"facility": {"name": "ASST - Papa Giovanni XXIII", "address": {"city": "Bergamo", "zip": "24127", "country": "Italy"}}, "status": "Recruiting", "contact": {"last_name": "Alessandro Rambaldi, MD", "phone": "+39 035 2673683", "phone_ext": "3683", "email": "arambaldi@asst-pg23.it"}, "contact_backup": {"last_name": "Giuseppe Gritti, MD", "phone": "+39 035 2673679", "phone_ext": "3679", "email": "g.gritti@asst-pg23.it"}, "investigator": [{"last_name": "FABIANO DI MARCO, MD", "role": "Sub-Investigator"}, {"last_name": "IVANO RIVA, MD", "role": "Sub-Investigator"}, {"last_name": "DIEGO RIPAMONTI, MD", "role": "Sub-Investigator"}]}, "location_countries": {"country": "Italy"}, "reference": [{"citation": "Zumla A, Hui DS, Azhar EI, Memish ZA, Maeurer M. Reducing mortality from 2019-nCoV: host-directed therapies should be an option. Lancet. 2020 Feb 22;395(10224):e35-e36. doi: 10.1016/S0140-6736(20)30305-6. Epub 2020 Feb 5.", "PMID": "32035018"}, {"citation": "ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669.", "PMID": "22797452"}], "verification_date": "March 2020", "study_first_submitted": "March 24, 2020", "study_first_submitted_qc": "March 25, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 26, 2020"}, "last_update_submitted": "March 28, 2020", "last_update_submitted_qc": "March 28, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "A.O. Ospedale Papa Giovanni XXIII", "investigator_full_name": "Giuseppe Gritti", "investigator_title": "Principal Investigator"}, "keyword": ["SARS-COV-2", "ARDS", "COVID-19"], "condition_browse": {"mesh_term": ["Infection", "Communicable Diseases", "Severe Acute Respiratory Syndrome", "Coronavirus Infections"]}, "intervention_browse": {"mesh_term": "Siltuximab"}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "111",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04322188"
+        },
+        "id_info": {
+            "org_study_id": "v 0.9 16th March 2020",
+            "nct_id": "NCT04322188"
+        },
+        "brief_title": "An Observational Case-control Study of the Use of Siltuximab in ARDS Patients Diagnosed With COVID-19 Infection",
+        "acronym": "SISCO",
+        "official_title": "An Observational Case-control Study of the Use of Siltuximab (SYLVANT) in Patients Diagnosed With COVID-19 Infection Who Have Developed Serious Respiratory Complications",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "A.O. Ospedale Papa Giovanni XXIII",
+                "agency_class": "Other"
+            }
+        },
+        "source": "A.O. Ospedale Papa Giovanni XXIII",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This observational study will collect data from patients treated under a compassionate use\n      programme with siltuximab (SYLVANT); patients diagnosed with COVID-19 infection who have\n      developed serious respiratory complications.\n\n      This observational study will group the patients into two cohorts receiving siltuximab.\n      Patients in Cohort A are treated in a non-ICU setting and patients in Cohort B are in an ICU\n      setting.\n\n      Each patient will have a matched control receiving standard treatment without siltuximab"
+        },
+        "detailed_description": {
+            "textblock": "This is a single-center observational case control study in Italy that follows the use of\n      treatment with siltuximab in patients with COVID-19 who have developed serious respiratory\n      complications. Retrospective data collection will be carried out on those patients who have\n      received the drug through the compassionate use program.\n\n      Patients receiving siltuximab that will be included into this observational study will be\n      divided into 2 cohorts, and per current estimation split in a 3:1 ratio: 75% will be in\n      Cohort A as not treated in an ICU setting and are not on mechanical ventilation, while 25%\n      will form Cohort B and consists of patients in an ICU setting who are receiving invasive\n      ventilation.\n\n      Each patient will be matched to a consented control patient receiving treatment other than\n      siltuximab for their condition.\n\n      Match Criteria\n\n      Patients and controls will be matched according to the following criteria:\n\n        -  Age (by decades)\n\n        -  Sex (M/F)\n\n        -  P/F fraction (<100, 100-150 or >150) at baseline\n\n        -  Antiviral therapy Procedures outlined in this protocol are based on the compassionate\n           use program, where patients are managed as per clinicians' best judgement and best\n           practice. No clinical procedures are required by this observational protocol. Data on\n           the procedures already performed during the routine diagnosis and treatment of COVID-19\n           patients will be collected. The list of clinical and laboratory parameters is provided\n           to direct data collection for this observational study (as available in the medical\n           records).\n\n      During their hospitalization, patients will be monitored as per standard hospital practice or\n      as per national (emergency) guidelines in accordance with extraordinary circumstances\n      relating to the COVID-19 outbreak. After discharge, patients will be asked to provide (from\n      their primary health care providers) relevant laboratory results for 30 days following start\n      of COVID-19 treatment via ventilation (either mechanical or non-invasive)."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 19, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 19, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Cohort A: reduction of the need of invasive ventilation or 30-day mortality",
+                "time_frame": "30 days",
+                "description": "reduction of the need of invasive ventilation or 30-day mortality"
+            },
+            {
+                "measure": "Cohort B: reduction of mortality",
+                "time_frame": "30 days",
+                "description": "reduction of mortality"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Cohort A Reduction of the need of time of ventilatory support",
+                "time_frame": "1 month"
+            },
+            {
+                "measure": "Cohort B Percentage of patients that undergo to tracheostomy",
+                "time_frame": "1 month"
+            },
+            {
+                "measure": "Cohort B Improvement of the lung function assessed by radiologic findings",
+                "time_frame": "1 month"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": "Severe Acute Respiratory Syndrome (ARDS) Secondary to SARS-COV-2 Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Cohort A",
+                "description": "Patients in Cohort A are treated with siltuximab in a non-ICU setting Each patient will have a matched control receiving standard treatment without siltuximab."
+            },
+            {
+                "arm_group_label": "Cohort B",
+                "description": "patients in Cohort B are treated with siltuximab in an ICU setting Each patient will have a matched control receiving standard treatment without siltuximab."
+            }
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients receiving siltuximab that will be included into this observational study will be\n        divided into 2 cohorts, and per current estimation split in a 3:1 ratio: 75% will be in\n        Cohort A as not treated in an ICU setting and are not on mechanical ventilation, while 25%\n        will form Cohort B and consists of patients in an ICU setting who are receiving invasive\n        ventilation.\n\n        Each patient will be matched to a consented control patient receiving treatment other than\n        siltuximab for their condition"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Clinical and radiological diagnosis of pulmonary infection by COVID-19\n\n          2. Positive microbiological evidence of SARS-CoV-2 infection\n\n          3. Diagnosis of acute respiratory distress syndrome clinical panel in accordance with\n             Berlin 2012 criteria\n\n          4. For Cohort A only: subjects are eligible if they are enrolled and treated within 48\n             hours from the beginning of NIV (non invasive ventilation) or CPAP(continous positive\n             airway pressure)\n\n          5. For Cohort B only: subjects are eligible if they are enrolled and treated within 48\n             hours from the beginning of invasive ventilation\n\n        Exclusion Criteria:\n\n        1. Active infection of bacterial or viral (non COVID-19) origin"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Giuseppe GRITTI, MD",
+            "role": "Principal Investigator",
+            "affiliation": "ASST PAPA GIOVANNI XXIII"
+        },
+        "overall_contact": {
+            "last_name": "GIUSEPPE GRITTI, MD",
+            "phone": "+39.0352673684",
+            "email": "g.gritti@asst-pg23.it"
+        },
+        "overall_contact_backup": {
+            "last_name": "ALESSANDRO RAMBALDI, MD",
+            "phone": "+39.0352673683",
+            "email": "arambaldi@asst-pg23.it"
+        },
+        "location": {
+            "facility": {
+                "name": "ASST - Papa Giovanni XXIII",
+                "address": {
+                    "city": "Bergamo",
+                    "zip": "24127",
+                    "country": "Italy"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Alessandro Rambaldi, MD",
+                "phone": "+39 035 2673683",
+                "phone_ext": "3683",
+                "email": "arambaldi@asst-pg23.it"
+            },
+            "contact_backup": {
+                "last_name": "Giuseppe Gritti, MD",
+                "phone": "+39 035 2673679",
+                "phone_ext": "3679",
+                "email": "g.gritti@asst-pg23.it"
+            },
+            "investigator": [
+                {
+                    "last_name": "FABIANO DI MARCO, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "IVANO RIVA, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "DIEGO RIPAMONTI, MD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
+        "reference": [
+            {
+                "citation": "Zumla A, Hui DS, Azhar EI, Memish ZA, Maeurer M. Reducing mortality from 2019-nCoV: host-directed therapies should be an option. Lancet. 2020 Feb 22;395(10224):e35-e36. doi: 10.1016/S0140-6736(20)30305-6. Epub 2020 Feb 5.",
+                "PMID": "32035018"
+            },
+            {
+                "citation": "ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669.",
+                "PMID": "22797452"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 24, 2020",
+        "study_first_submitted_qc": "March 25, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 26, 2020"
+        },
+        "last_update_submitted": "March 28, 2020",
+        "last_update_submitted_qc": "March 28, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "A.O. Ospedale Papa Giovanni XXIII",
+            "investigator_full_name": "Giuseppe Gritti",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": [
+            "SARS-COV-2",
+            "ARDS",
+            "COVID-19"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Severe Acute Respiratory Syndrome",
+                "Coronavirus Infections"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Siltuximab"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

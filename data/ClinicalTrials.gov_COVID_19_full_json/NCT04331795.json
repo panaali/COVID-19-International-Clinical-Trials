@@ -1,1 +1,208 @@
-{"clinical_study": {"@rank": "41", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04331795"}, "id_info": {"org_study_id": "IRB20-0515", "nct_id": "NCT04331795"}, "brief_title": "Tocilizumab to Prevent Clinical Decompensation in Hospitalized, Non-critically Ill Patients With COVID-19 Pneumonitis", "acronym": "COVIDOSE", "official_title": "Early Institution of Tocilizumab Titration in Non-Critical Hospitalized COVID-19 Pneumonitis", "sponsors": {"lead_sponsor": {"agency": "University of Chicago", "agency_class": "Other"}}, "source": "University of Chicago", "oversight_info": {"is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "Coronavirus disease-2019 (COVID-19) has a quoted inpatient mortality as high as 25%. This\n      high mortality may be driven by hyperinflammation resembling cytokine release syndrome (CRS),\n      offering the hope that therapies targeting the interleukin-6 (IL-6) axis therapies commonly\n      used to treat CRS can be used to reduce COVID-19 mortality. Retrospective analysis of severe\n      to critical COVID-19 patients receiving tocilizumab demonstrated that the majority of\n      patients had rapid resolution (i.e., within 24-72 hours following administration) of both\n      clinical and biochemical signs (fever and CRP, respectively) of hyperinflammation with only a\n      single tocilizumab dose.\n\n      Hypotheses:\n\n        1. Tocilizumab is effective in decreasing signs, symptoms, and laboratory evidence of\n           COVID-19 pneumonitis in hospitalized, non-critically ill patients with clinical risk\n           factors for clinical decompensation, intensive care utilization, and death.\n\n        2. Low-dose tocilizumab is effective in decreasing signs, symptoms, and laboratory evidence\n           of COVID-19 pneumonitis in hospitalized, non-critically ill patients with and without\n           clinical risk factors for clinical decompensation, intensive care utilization, and\n           death.\n\n      Objectives:\n\n        1. To establish proof of concept that tocilizumab is effective in decreasing signs,\n           symptoms, and laboratory evidence of COVID-19 pneumonitis in hospitalized,\n           non-critically ill patients with clinical risk factors for clinical decompensation,\n           intensive care utilization, and death, as determined by the clinical outcome of\n           resolution of fever and the biochemical outcome measures of time to CRP normalization\n           for the individual patient and the rate of patients whose CRP normalize.\n\n        2. To establish proof of concept that low-dose tocilizumab is effective in decreasing\n           signs, symptoms, and laboratory evidence of COVID-19 pneumonitis in hospitalized,\n           non-critically ill patients without clinical risk factors for clinical decompensation,\n           intensive care utilization, and death, as determined by the clinical outcome of\n           resolution of fever and the biochemical outcome measures of time to CRP normalization\n           for the individual patient and the rate of patients whose CRP normalize."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 3, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 1, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "July 1, 2020"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Non-Randomized", "intervention_model": "Single Group Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Clinical response", "time_frame": "Assessed for the 24 hour period after tocilizumab administration", "description": "Tmax Response: Resolution of fever (from Tmax > 38C in 24H period to Tmax < 38C in following 24H period, with Tmax measured by commonly accepted clinical methods [forehead, tympanic, oral, axillary, rectal]). Maximum temperature within 24-hour period of time (0:00-23:59) on the day prior to, day of, and every 24 hours after tocilizumab administration. The primary endpoint is absence of Tmax greater than or equal to 38\u00baC in the 24-hour period following tocilizumab administration."}, {"measure": "Biochemical response", "time_frame": "Assessed every 24 hours during patient's hospitalization, up to 4 weeks after tocilizumab administration", "description": "CRP normalization rate: Calculated as the ratio of the number of patients who achieve normal CRP value following tocilizumab administration and total number of patients who receive tocilizumab.\nTime to CRP normalization: Calculated as the number of hours between tocilizumab administration and first normal CRP value."}], "secondary_outcome": [{"measure": "Overall survival", "time_frame": "28 days", "description": "28-Day Overall Survival is defined as the status of the patient at the end of 28 days, beginning from the time of the first dose of tocilizumab."}, {"measure": "Survival to hospital discharge", "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be defined as the percentage of patients who are discharged in stable condition compared to the percentage of patients who die in the hospital. Patients who are discharged to hospice will be excluded from this calculation."}, {"measure": "Progression of COVID-19 pneumonitis", "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be a binary outcome defined by worsening COVID-19 pneumonitis resulting in transition from clinical Group A or Group B COVID-19 pneumonitis to critical COVID-19 pneumonitis during the course of the patient's COVID-19 infection. This diagnosis will be determined by treating physicians on the basis of worsening pulmonary infiltrates on chest imaging as well as clinical deterioration marked by persistent fever, rising supplemental oxygen requirement, declining PaO2/FiO2 ratio, and the need for intensive care such as mechanical ventilation or vasopressor/inotrope medication(s)."}, {"measure": "Rate of non-elective mechanical ventilation", "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be a binary outcome defined as worsening COVID-19 disease resulting in the use of non-invasive (BiPap, heated high-flow nasal cannula) or invasive positive pressure ventilation during the course of the patient's COVID-19 infection. For patients admitted to the hospital using non-invasive mechanical ventilation, the utilization of mechanical ventilation will count toward this metric, as well. Calculated as the ratio of the number of patients who require non-invasive or invasive positive pressure ventilation during hospitalization and total number of patients who receive tocilizumab."}, {"measure": "Duration of mechanical ventilation", "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be a continuous outcome defined by the amount of time between initiation and cessation of mechanical ventilation (invasive and non-invasive)."}, {"measure": "Time to mechanical ventilation", "time_frame": "Assessed over hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be a continuous outcome defined by the amount of time between tocilizumab dose administration and the initiation of mechanical ventilation. This will be treated as a time-to-event with possible censoring."}, {"measure": "Rate of vasopressor/inotrope utilization", "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be a binary outcome defined as utilization of any vasopressor or inotropic medication during the course of the patient's COVID-19 infection. Calculated as the ratio of the number of patients who require vasopressor or inotrope medication during hospitalization and total number of patients who receive tocilizumab."}, {"measure": "Duration of vasopressor/inotrope utilization", "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be a continuous outcome defined by the amount of time between initiation of first and cessation of last vasopressor or inotrope medication(s)."}, {"measure": "Time to vasopressor or inotropic utilization", "time_frame": "Assessed over hospitalization, up to 4 weeks after tocilizumab administration", "description": "This will be a continuous outcome defined by the amount of time between first tocilizumab dose administration and the initiation of vasopressor or inotropic medication(s). This will be treated as a time-to-event with possible censoring."}, {"measure": "Number of ICU days", "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration", "description": "Number of ICU days is defined as the time period when a patient is admitted to the ICU (defined as the timestamp on the first vital signs collected in an ICU) until they are transferred from the ICU to a non-ICU setting such as a general acute care bed (defined as the timestamp on the first vital signs collected outside an ICU, excepting any \"off the floor\" vital signs charted from operating rooms or procedure or imaging suites). Death in the ICU will be a competing risk."}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "50"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "Group A", "arm_group_type": "Experimental", "description": "Hospitalized, non-critically ill patients with COVID-19 pneumonitis with risk factors for decompensation"}, {"arm_group_label": "Group B", "arm_group_type": "Experimental", "description": "Hospitalized, non-critically ill patients with COVID-19 pneumonitis without risk factors for decompensation"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Tocilizumab", "description": "Group A: Tocilizumab (beginning dose 200mg) Single dose is provisioned, patient is eligible to receive up to two doses, with re-evaluation of clinical and biochemical responses performed every 24 hours.\nSecond dose is provisioned if evidence of clinical worsening or lack of C-reactive protein response.", "arm_group_label": "Group A"}, {"intervention_type": "Drug", "intervention_name": "Tocilizumab", "description": "Group B: Low-dose tocilizumab (beginning dose 80mg) Single dose is provisioned, patient is eligible to receive up to two doses, with re-evaluation of clinical and biochemical responses performed every 24 hours.\nSecond dose is provisioned if evidence of clinical worsening or lack of C-reactive protein response.", "arm_group_label": "Group B"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Adults \u2265 18 years of age\n\n          -  Approval from the patient's primary service\n\n          -  Admitted as an inpatient to University of Chicago Medicine\n\n          -  Fever, documented in electronic medical record and defined as: T \u2265 38*C by any\n             conventional clinical method (forehead, tympanic, oral, axillary, rectal)\n\n          -  Positive test for active SARS-CoV-2 infection\n\n          -  Radiographic evidence of infiltrates on chest radiograph (CXR) or computed tomography\n             (CT)\n\n        Exclusion Criteria:\n\n          -  Concurrent use of invasive mechanical ventilation (patients receiving non-invasive\n             mechanical ventilation [CPAP, BiPap, HHFNC] are eligible)\n\n          -  Concurrent use of vasopressor or inotropic medications\n\n          -  Previous receipt of tocilizumab or another anti-IL6R or IL-6 inhibitor.\n\n          -  Known history of hypersensitivity to tocilizumab.\n\n          -  Patients who are actively being considered for a study of an antiviral agent that\n             would potentially exclude concurrent enrollment on this study.\n\n          -  Patients actively receiving an investigational antiviral agent in the context of a\n             clinical research study.\n\n          -  Diagnosis of end-stage liver disease or listed for liver transplant.\n\n          -  Elevation of AST or ALT in excess of 5 times the upper limit of normal.\n\n          -  Neutropenia (Absolute neutrophil count < 500/uL).\n\n          -  Thrombocytopenia (Platelets < 50,000/uL).\n\n          -  On active therapy with a biologic immunosuppressive agent.\n\n          -  History of bone marrow transplantation or solid organ transplant.\n\n          -  Known history of Hepatitis B or Hepatitis C.\n\n          -  Known history of mycobacterium tuberculosis infection at risk for reactivation.\n\n          -  Known history of gastrointestinal perforation or active diverticulitis.\n\n          -  Multi-organ failure as determined by primary treating team\n\n          -  Any other documented serious, active infection besides COVID-19.\n\n          -  Pregnant patients\n\n          -  Patients who are unable to discontinue scheduled antipyretic medications, either as\n             monotherapy (e.g., acetaminophen or ibuprofen [aspirin is acceptable]) or as part of\n             combination therapy (e.g., hydrocodone/acetaminophen, aspirin/acetaminophen/caffeine\n             [Excedrin\u00ae])\n\n          -  CRP < 40 mg/L (or ug/mL)\n\n        Patients will be assigned to Group A if:\n\n        \u25cf C-reactive protein (CRP) \u2265 75 ug/mL\n\n        AND\n\n        Any one of the following criteria are met:\n\n          -  Previous ICU admission\n\n          -  Previous non-elective intubation\n\n          -  Admission for heart failure exacerbation within the past 12 months\n\n          -  History of percutaneous coronary intervention (PCI)\n\n          -  History of coronary artery bypass graft (CABG) surgery\n\n          -  Diagnosis of pulmonary hypertension\n\n          -  Baseline requirement for supplemental O2\n\n          -  Diagnosis of interstitial lung disease (ILD)\n\n          -  Admission for chronic obstructive pulmonary disease (COPD) exacerbation within the\n             past 12 months\n\n          -  Asthma with use of daily inhaled corticosteroid\n\n          -  History of pneumonectomy or lobectomy\n\n          -  History of radiation therapy to the lung\n\n          -  History of HIV\n\n          -  Cancer of any stage and receiving active treatment (excluding hormonal therapy)\n\n          -  Any history of diagnosed immunodeficiency\n\n          -  End-stage renal disease (ESRD) requiring peritoneal or hemodialysis\n\n        All other eligible patients assigned to Group B"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Pankti Reid, MD, MPH", "role": "Principal Investigator", "affiliation": "University of Chicago, Department of Medicine, Section of Rheumatology"}, "overall_contact": {"last_name": "Pankti Reid, MD, MPH", "phone": "7737021220", "email": "pankti.reid@uchospitals.edu"}, "location": {"facility": {"name": "University of Chicago Medicine", "address": {"city": "Chicago", "state": "Illinois", "zip": "60637", "country": "United States"}}, "contact": {"last_name": "Pankti Reid, MD, MPH"}}, "location_countries": {"country": "United States"}, "verification_date": "April 2020", "study_first_submitted": "April 1, 2020", "study_first_submitted_qc": "April 1, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "last_update_submitted": "April 1, 2020", "last_update_submitted_qc": "April 1, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Pneumonia"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "41",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04331795"
+        },
+        "id_info": {
+            "org_study_id": "IRB20-0515",
+            "nct_id": "NCT04331795"
+        },
+        "brief_title": "Tocilizumab to Prevent Clinical Decompensation in Hospitalized, Non-critically Ill Patients With COVID-19 Pneumonitis",
+        "acronym": "COVIDOSE",
+        "official_title": "Early Institution of Tocilizumab Titration in Non-Critical Hospitalized COVID-19 Pneumonitis",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Chicago",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Chicago",
+        "oversight_info": {
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "Coronavirus disease-2019 (COVID-19) has a quoted inpatient mortality as high as 25%. This\n      high mortality may be driven by hyperinflammation resembling cytokine release syndrome (CRS),\n      offering the hope that therapies targeting the interleukin-6 (IL-6) axis therapies commonly\n      used to treat CRS can be used to reduce COVID-19 mortality. Retrospective analysis of severe\n      to critical COVID-19 patients receiving tocilizumab demonstrated that the majority of\n      patients had rapid resolution (i.e., within 24-72 hours following administration) of both\n      clinical and biochemical signs (fever and CRP, respectively) of hyperinflammation with only a\n      single tocilizumab dose.\n\n      Hypotheses:\n\n        1. Tocilizumab is effective in decreasing signs, symptoms, and laboratory evidence of\n           COVID-19 pneumonitis in hospitalized, non-critically ill patients with clinical risk\n           factors for clinical decompensation, intensive care utilization, and death.\n\n        2. Low-dose tocilizumab is effective in decreasing signs, symptoms, and laboratory evidence\n           of COVID-19 pneumonitis in hospitalized, non-critically ill patients with and without\n           clinical risk factors for clinical decompensation, intensive care utilization, and\n           death.\n\n      Objectives:\n\n        1. To establish proof of concept that tocilizumab is effective in decreasing signs,\n           symptoms, and laboratory evidence of COVID-19 pneumonitis in hospitalized,\n           non-critically ill patients with clinical risk factors for clinical decompensation,\n           intensive care utilization, and death, as determined by the clinical outcome of\n           resolution of fever and the biochemical outcome measures of time to CRP normalization\n           for the individual patient and the rate of patients whose CRP normalize.\n\n        2. To establish proof of concept that low-dose tocilizumab is effective in decreasing\n           signs, symptoms, and laboratory evidence of COVID-19 pneumonitis in hospitalized,\n           non-critically ill patients without clinical risk factors for clinical decompensation,\n           intensive care utilization, and death, as determined by the clinical outcome of\n           resolution of fever and the biochemical outcome measures of time to CRP normalization\n           for the individual patient and the rate of patients whose CRP normalize."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 3, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Clinical response",
+                "time_frame": "Assessed for the 24 hour period after tocilizumab administration",
+                "description": "Tmax Response: Resolution of fever (from Tmax > 38C in 24H period to Tmax < 38C in following 24H period, with Tmax measured by commonly accepted clinical methods [forehead, tympanic, oral, axillary, rectal]). Maximum temperature within 24-hour period of time (0:00-23:59) on the day prior to, day of, and every 24 hours after tocilizumab administration. The primary endpoint is absence of Tmax greater than or equal to 38\u00baC in the 24-hour period following tocilizumab administration."
+            },
+            {
+                "measure": "Biochemical response",
+                "time_frame": "Assessed every 24 hours during patient's hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "CRP normalization rate: Calculated as the ratio of the number of patients who achieve normal CRP value following tocilizumab administration and total number of patients who receive tocilizumab.\nTime to CRP normalization: Calculated as the number of hours between tocilizumab administration and first normal CRP value."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Overall survival",
+                "time_frame": "28 days",
+                "description": "28-Day Overall Survival is defined as the status of the patient at the end of 28 days, beginning from the time of the first dose of tocilizumab."
+            },
+            {
+                "measure": "Survival to hospital discharge",
+                "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be defined as the percentage of patients who are discharged in stable condition compared to the percentage of patients who die in the hospital. Patients who are discharged to hospice will be excluded from this calculation."
+            },
+            {
+                "measure": "Progression of COVID-19 pneumonitis",
+                "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be a binary outcome defined by worsening COVID-19 pneumonitis resulting in transition from clinical Group A or Group B COVID-19 pneumonitis to critical COVID-19 pneumonitis during the course of the patient's COVID-19 infection. This diagnosis will be determined by treating physicians on the basis of worsening pulmonary infiltrates on chest imaging as well as clinical deterioration marked by persistent fever, rising supplemental oxygen requirement, declining PaO2/FiO2 ratio, and the need for intensive care such as mechanical ventilation or vasopressor/inotrope medication(s)."
+            },
+            {
+                "measure": "Rate of non-elective mechanical ventilation",
+                "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be a binary outcome defined as worsening COVID-19 disease resulting in the use of non-invasive (BiPap, heated high-flow nasal cannula) or invasive positive pressure ventilation during the course of the patient's COVID-19 infection. For patients admitted to the hospital using non-invasive mechanical ventilation, the utilization of mechanical ventilation will count toward this metric, as well. Calculated as the ratio of the number of patients who require non-invasive or invasive positive pressure ventilation during hospitalization and total number of patients who receive tocilizumab."
+            },
+            {
+                "measure": "Duration of mechanical ventilation",
+                "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be a continuous outcome defined by the amount of time between initiation and cessation of mechanical ventilation (invasive and non-invasive)."
+            },
+            {
+                "measure": "Time to mechanical ventilation",
+                "time_frame": "Assessed over hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be a continuous outcome defined by the amount of time between tocilizumab dose administration and the initiation of mechanical ventilation. This will be treated as a time-to-event with possible censoring."
+            },
+            {
+                "measure": "Rate of vasopressor/inotrope utilization",
+                "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be a binary outcome defined as utilization of any vasopressor or inotropic medication during the course of the patient's COVID-19 infection. Calculated as the ratio of the number of patients who require vasopressor or inotrope medication during hospitalization and total number of patients who receive tocilizumab."
+            },
+            {
+                "measure": "Duration of vasopressor/inotrope utilization",
+                "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be a continuous outcome defined by the amount of time between initiation of first and cessation of last vasopressor or inotrope medication(s)."
+            },
+            {
+                "measure": "Time to vasopressor or inotropic utilization",
+                "time_frame": "Assessed over hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "This will be a continuous outcome defined by the amount of time between first tocilizumab dose administration and the initiation of vasopressor or inotropic medication(s). This will be treated as a time-to-event with possible censoring."
+            },
+            {
+                "measure": "Number of ICU days",
+                "time_frame": "Hospitalization, up to 4 weeks after tocilizumab administration",
+                "description": "Number of ICU days is defined as the time period when a patient is admitted to the ICU (defined as the timestamp on the first vital signs collected in an ICU) until they are transferred from the ICU to a non-ICU setting such as a general acute care bed (defined as the timestamp on the first vital signs collected outside an ICU, excepting any \"off the floor\" vital signs charted from operating rooms or procedure or imaging suites). Death in the ICU will be a competing risk."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Group A",
+                "arm_group_type": "Experimental",
+                "description": "Hospitalized, non-critically ill patients with COVID-19 pneumonitis with risk factors for decompensation"
+            },
+            {
+                "arm_group_label": "Group B",
+                "arm_group_type": "Experimental",
+                "description": "Hospitalized, non-critically ill patients with COVID-19 pneumonitis without risk factors for decompensation"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Tocilizumab",
+                "description": "Group A: Tocilizumab (beginning dose 200mg) Single dose is provisioned, patient is eligible to receive up to two doses, with re-evaluation of clinical and biochemical responses performed every 24 hours.\nSecond dose is provisioned if evidence of clinical worsening or lack of C-reactive protein response.",
+                "arm_group_label": "Group A"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Tocilizumab",
+                "description": "Group B: Low-dose tocilizumab (beginning dose 80mg) Single dose is provisioned, patient is eligible to receive up to two doses, with re-evaluation of clinical and biochemical responses performed every 24 hours.\nSecond dose is provisioned if evidence of clinical worsening or lack of C-reactive protein response.",
+                "arm_group_label": "Group B"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults \u2265 18 years of age\n\n          -  Approval from the patient's primary service\n\n          -  Admitted as an inpatient to University of Chicago Medicine\n\n          -  Fever, documented in electronic medical record and defined as: T \u2265 38*C by any\n             conventional clinical method (forehead, tympanic, oral, axillary, rectal)\n\n          -  Positive test for active SARS-CoV-2 infection\n\n          -  Radiographic evidence of infiltrates on chest radiograph (CXR) or computed tomography\n             (CT)\n\n        Exclusion Criteria:\n\n          -  Concurrent use of invasive mechanical ventilation (patients receiving non-invasive\n             mechanical ventilation [CPAP, BiPap, HHFNC] are eligible)\n\n          -  Concurrent use of vasopressor or inotropic medications\n\n          -  Previous receipt of tocilizumab or another anti-IL6R or IL-6 inhibitor.\n\n          -  Known history of hypersensitivity to tocilizumab.\n\n          -  Patients who are actively being considered for a study of an antiviral agent that\n             would potentially exclude concurrent enrollment on this study.\n\n          -  Patients actively receiving an investigational antiviral agent in the context of a\n             clinical research study.\n\n          -  Diagnosis of end-stage liver disease or listed for liver transplant.\n\n          -  Elevation of AST or ALT in excess of 5 times the upper limit of normal.\n\n          -  Neutropenia (Absolute neutrophil count < 500/uL).\n\n          -  Thrombocytopenia (Platelets < 50,000/uL).\n\n          -  On active therapy with a biologic immunosuppressive agent.\n\n          -  History of bone marrow transplantation or solid organ transplant.\n\n          -  Known history of Hepatitis B or Hepatitis C.\n\n          -  Known history of mycobacterium tuberculosis infection at risk for reactivation.\n\n          -  Known history of gastrointestinal perforation or active diverticulitis.\n\n          -  Multi-organ failure as determined by primary treating team\n\n          -  Any other documented serious, active infection besides COVID-19.\n\n          -  Pregnant patients\n\n          -  Patients who are unable to discontinue scheduled antipyretic medications, either as\n             monotherapy (e.g., acetaminophen or ibuprofen [aspirin is acceptable]) or as part of\n             combination therapy (e.g., hydrocodone/acetaminophen, aspirin/acetaminophen/caffeine\n             [Excedrin\u00ae])\n\n          -  CRP < 40 mg/L (or ug/mL)\n\n        Patients will be assigned to Group A if:\n\n        \u25cf C-reactive protein (CRP) \u2265 75 ug/mL\n\n        AND\n\n        Any one of the following criteria are met:\n\n          -  Previous ICU admission\n\n          -  Previous non-elective intubation\n\n          -  Admission for heart failure exacerbation within the past 12 months\n\n          -  History of percutaneous coronary intervention (PCI)\n\n          -  History of coronary artery bypass graft (CABG) surgery\n\n          -  Diagnosis of pulmonary hypertension\n\n          -  Baseline requirement for supplemental O2\n\n          -  Diagnosis of interstitial lung disease (ILD)\n\n          -  Admission for chronic obstructive pulmonary disease (COPD) exacerbation within the\n             past 12 months\n\n          -  Asthma with use of daily inhaled corticosteroid\n\n          -  History of pneumonectomy or lobectomy\n\n          -  History of radiation therapy to the lung\n\n          -  History of HIV\n\n          -  Cancer of any stage and receiving active treatment (excluding hormonal therapy)\n\n          -  Any history of diagnosed immunodeficiency\n\n          -  End-stage renal disease (ESRD) requiring peritoneal or hemodialysis\n\n        All other eligible patients assigned to Group B"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Pankti Reid, MD, MPH",
+            "role": "Principal Investigator",
+            "affiliation": "University of Chicago, Department of Medicine, Section of Rheumatology"
+        },
+        "overall_contact": {
+            "last_name": "Pankti Reid, MD, MPH",
+            "phone": "7737021220",
+            "email": "pankti.reid@uchospitals.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Chicago Medicine",
+                "address": {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "zip": "60637",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "Pankti Reid, MD, MPH"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 1, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "last_update_submitted": "April 1, 2020",
+        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,1 +1,386 @@
-{"clinical_study": {"@rank": "335", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04308668"}, "id_info": {"org_study_id": "STUDY00009267", "nct_id": "NCT04308668"}, "brief_title": "Post-exposure Prophylaxis / Preemptive Therapy for SARS-Coronavirus-2", "acronym": "COVID-19 PEP", "official_title": "Post-exposure Prophylaxis and Preemptive Therapy for SARS-Coronavirus-2: A Pragmatic Randomized Clinical Trial", "sponsors": {"lead_sponsor": {"agency": "University of Minnesota", "agency_class": "Other"}, "collaborator": [{"agency": "McGill University Health Centre/Research Institute of the McGill University Health Centre", "agency_class": "Other"}, {"agency": "University of Manitoba", "agency_class": "Other"}, {"agency": "University of Alberta", "agency_class": "Other"}]}, "source": "University of Minnesota", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Study Objective:\n\n        1. To test if post-exposure prophylaxis with hydroxychloroquine can prevent symptomatic\n           COVID-19 disease after known exposure to the SARS-CoV-2 coronavirus.\n\n        2. To test if preemptive therapy with hydroxychloroquine early in the sypmptomatic COVID-19\n           disease course can prevent progression of persons with known symptomatic COVID19\n           disease, decrease hospitalization."}, "detailed_description": {"textblock": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a rapidly emerging viral\n      infection causing COVID19. The current strategy uses a public health model of identifying\n      infected cases, isolation, and quarantine to stop transmission. Once exposed, observation is\n      standard-of-care. Therapy is generally not given to persons who are not hospitalized.\n\n      Hydroxychloroquine may have antiviral effects against SARS-COV2 which may prevent COVID-19\n      disease or early preemptive therapy may decrease disease severity. This trial will use a\n      modification of standard malaria dosing of hydroxychloroquine to provide post-exposure\n      prophylaxis to prevent disease or preemptive therapy for those with early symptoms. People\n      around the the United States and Canada can participate to help answer this critically\n      important question. No in-person visits are needed.\n\n      This trial is targeting 5 groups of people NATIONWIDE to participate:\n\n        1. If you are symptomatic with a positive COVID-19 test within the first 4 days of symptoms\n           and are not hospitalized; OR\n\n        2. If you live with someone who has been diagnosed with COVID-19, with your last exposure\n           within the last 4 days, and do not have any symptoms; OR\n\n        3. If you live with someone who has been diagnosed with COVID-19, and your symptoms started\n           within the last 4 days; OR\n\n        4. If you are a healthcare worker or first responder with known exposure to someone with\n           lab-confirmed COVID-19 within the last 4 days and do not have symptoms; OR\n\n        5. If you are a healthcare worker or first responder and have compatible symptoms starting\n           within the last 4 days;\n\n      You may participate if you live anywhere in the United States (including territories) or in\n      the Canadian Provinces of Quebec, Manitoba, or Alberta.\n\n      For information on how to participate in the research trial, go to covidpep.umn.edu or email\n      covid19@umn.edu for instructions. Please check your spam folder if you email.\n\n      In Canada, for trial information, please go to: www.covid-19research.ca"}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 17, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "May 12, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 21, 2020"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "Asymptomatic participants are randomized and analyzed separate from symptomatic participants.", "primary_purpose": "Treatment", "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"}, "primary_outcome": [{"measure": "Incidence of COVID19 Disease among those who are asymptomatic at trial entry", "time_frame": "14 days", "description": "Number of participants at 14 days post enrollment with active COVID19 disease."}, {"measure": "Ordinal Scale of COVID19 Disease Severity at 14 days among those who are symptomatic at trial entry", "time_frame": "14 days", "description": "Participants will self-report disease severity status as one of the following 3 options; no COVID19 illness (score of 1), COVID19 illness with no hospitalization (score of 2), or COVID19 illness with hospitalization or death (score of 3). Increased scale score indicates greater disease severity. Outcome is reported as the percent of participants who fall into each category per arm."}], "secondary_outcome": [{"measure": "Incidence of Hospitalization", "time_frame": "14 days", "description": "Outcome reported as the number of participants in each arm who require hospitalization for COVID19-related disease."}, {"measure": "Incidence of Death", "time_frame": "90 days", "description": "Outcome reported as the number of participants in each arm who expire due to COVID-19-related disease."}, {"measure": "Incidence of Confirmed SARS-CoV-2 Detection", "time_frame": "14 days", "description": "Outcome reported as the number of participants in each arm who have confirmed SARS-CoV-2 infection."}, {"measure": "Incidence of Symptoms Compatible with COVID19 (possible disease)", "time_frame": "90 days", "description": "Outcome reported as the number of participants in each arm who self-report symptoms compatible with COVID19 infection."}, {"measure": "Incidence of All-Cause Study Medicine Discontinuation or Withdrawal", "time_frame": "14 days", "description": "Outcome reported as the number of participants in each arm who discontinue or withdraw medication use for any reason."}, {"measure": "Overall symptom severity at 5 and 14 day", "time_frame": "5 and 14 days", "description": "Visual Analog Scale 0-10 score of rating overall symptom severity (0 = no symptoms; 10 = most severe)"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "3000"}, "condition": ["Corona Virus Infection", "Acute Respiratory Distress Syndrome", "SARS-CoV Infection", "Coronavirus", "Coronavirus Infections"], "arm_group": [{"arm_group_label": "Treatment", "arm_group_type": "Experimental", "description": "Participants in this arm will receive the study drug."}, {"arm_group_label": "Placebo", "arm_group_type": "Placebo Comparator", "description": "Participants in this arm will receive a placebo treatment."}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Hydroxychloroquine", "description": "200mg tablet; 800 mg orally once, followed in 6 to 8 hours by 600 mg, then 600mg once a day for 4 consecutive days", "arm_group_label": "Treatment", "other_name": "Plaquenil"}, {"intervention_type": "Other", "intervention_name": "Placebo", "description": "4 placebo tablets once, followed in 6 to 8 hours by 3 tablets, then 3 tablets once-a-day for 4 consecutive days", "arm_group_label": "Placebo"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Provision of informed consent\n\n          -  Exposure to a COVID19 case within 4 days as either a healthcare worker or household\n             contact, OR\n\n          -  Symptomatic COVID19 case with confirmed diagnosis within 4 days of symptom onset OR\n             symptomatic healthcare worker with known COVID19 contact and within 4 days of symptom\n             onset;\n\n        Exclusion Criteria:\n\n          -  Current hospitalization\n\n          -  Allergy to hydroxychloroquine\n\n          -  Retinal eye disease\n\n          -  Known glucose-6 phosphate dehydrogenase (G-6-PD) deficiency\n\n          -  Known chronic kidney disease, stage 4 or 5 or receiving dialysis\n\n          -  Weight < 40 kg\n\n          -  Known Porphyria\n\n          -  Current use of: hydroxychloroquine or cardiac medicines of: flecainide, Tambocor;\n             amiodarone, Cordarone, Pacerone; digoxin or Digox, Digitek, Lanoxin; procainamide or\n             Procan, Procanbid, propafenone, Rythmal)"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "David Boulware, MD, MPH", "role": "Principal Investigator", "affiliation": "University of Minnesota"}, "overall_contact": {"last_name": "David Boulware (Please email), MD, MPH", "phone": "6126249996", "email": "covid19@umn.edu"}, "location": [{"facility": {"name": "Nationwide Enrollment via Internet, please email: covid19@umn.edu", "address": {"city": "Minneapolis", "state": "Minnesota", "zip": "55455", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "David Boulware", "email": "covid19@umn.edu"}}, {"facility": {"name": "University of Minnesota", "address": {"city": "Minneapolis", "state": "Minnesota", "zip": "55455", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "David R Boulware, MD, MPH", "email": "covid19@umn.edu"}, "investigator": [{"last_name": "Matt Pullen, MD", "role": "Sub-Investigator"}, {"last_name": "Sarah Lofgren, MD", "role": "Sub-Investigator"}, {"last_name": "Caleb Skipper, MD", "role": "Sub-Investigator"}, {"last_name": "Radha Rajasingham, MD", "role": "Sub-Investigator"}, {"last_name": "Mahsa Abassi, DO, MPH", "role": "Sub-Investigator"}, {"last_name": "Ananta Bangdiwala, MS", "role": "Sub-Investigator"}, {"last_name": "Kathy Hullsiek, PhD", "role": "Sub-Investigator"}, {"last_name": "Katelyn Pastick", "role": "Sub-Investigator"}, {"last_name": "Elizabeth Okafor", "role": "Sub-Investigator"}]}, {"facility": {"name": "Internet", "address": {"city": "New York", "state": "New York", "zip": "10001", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "David Boulware, MD", "email": "covid19@umn.edu"}}, {"facility": {"name": "University of Alberta", "address": {"city": "Edmonton", "state": "Alberta", "country": "Canada"}}, "status": "Recruiting", "contact": {"last_name": "Ilan Schwartz, MD", "email": "alberta@idtrials.com"}}, {"facility": {"name": "University of Manitoba", "address": {"city": "Winnipeg", "state": "Manitoba", "country": "Canada"}}, "status": "Recruiting", "contact": {"last_name": "Ryan Zarychanski, MD", "email": "manitoba@idtrials.com"}, "contact_backup": {"last_name": "Lauren E Kelly, PhD", "email": "manitoba@idtrials.com"}, "investigator": [{"last_name": "Glen Drobot, MD", "role": "Sub-Investigator"}, {"last_name": "Lauren MacKenzie, MD", "role": "Sub-Investigator"}, {"last_name": "Sylvain Lother, MD", "role": "Sub-Investigator"}]}, {"facility": {"name": "Research Institute of the McGill University Heath Centre", "address": {"city": "Montr\u00e9al", "state": "Quebec", "country": "Canada"}}, "status": "Recruiting", "contact": {"last_name": "Todd C Lee, MD", "phone": "5149341934", "phone_ext": "32965", "email": "quebec@idtrials.com"}, "investigator": [{"last_name": "Emily G McDonald, MDCM MSc", "role": "Sub-Investigator"}, {"last_name": "Matthew P Chang, MDCM", "role": "Sub-Investigator"}, {"last_name": "Alek Lefebvre", "role": "Sub-Investigator"}]}], "location_countries": {"country": ["Canada", "United States"]}, "verification_date": "April 2020", "study_first_submitted": "March 11, 2020", "study_first_submitted_qc": "March 11, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 16, 2020"}, "last_update_submitted": "April 1, 2020", "last_update_submitted_qc": "April 1, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["COVID-19", "Corona Virus", "SARS-COV-2", "Coronavirus"], "condition_browse": {"mesh_term": ["Infection", "Communicable Diseases", "Coronavirus Infections", "Severe Acute Respiratory Syndrome", "Respiratory Distress Syndrome, Newborn", "Respiratory Distress Syndrome, Adult", "Acute Lung Injury"]}, "intervention_browse": {"mesh_term": "Hydroxychloroquine"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "335",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04308668"
+        },
+        "id_info": {
+            "org_study_id": "STUDY00009267",
+            "nct_id": "NCT04308668"
+        },
+        "brief_title": "Post-exposure Prophylaxis / Preemptive Therapy for SARS-Coronavirus-2",
+        "acronym": "COVID-19 PEP",
+        "official_title": "Post-exposure Prophylaxis and Preemptive Therapy for SARS-Coronavirus-2: A Pragmatic Randomized Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Minnesota",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "University of Manitoba",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "University of Alberta",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University of Minnesota",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Study Objective:\n\n        1. To test if post-exposure prophylaxis with hydroxychloroquine can prevent symptomatic\n           COVID-19 disease after known exposure to the SARS-CoV-2 coronavirus.\n\n        2. To test if preemptive therapy with hydroxychloroquine early in the sypmptomatic COVID-19\n           disease course can prevent progression of persons with known symptomatic COVID19\n           disease, decrease hospitalization."
+        },
+        "detailed_description": {
+            "textblock": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a rapidly emerging viral\n      infection causing COVID19. The current strategy uses a public health model of identifying\n      infected cases, isolation, and quarantine to stop transmission. Once exposed, observation is\n      standard-of-care. Therapy is generally not given to persons who are not hospitalized.\n\n      Hydroxychloroquine may have antiviral effects against SARS-COV2 which may prevent COVID-19\n      disease or early preemptive therapy may decrease disease severity. This trial will use a\n      modification of standard malaria dosing of hydroxychloroquine to provide post-exposure\n      prophylaxis to prevent disease or preemptive therapy for those with early symptoms. People\n      around the the United States and Canada can participate to help answer this critically\n      important question. No in-person visits are needed.\n\n      This trial is targeting 5 groups of people NATIONWIDE to participate:\n\n        1. If you are symptomatic with a positive COVID-19 test within the first 4 days of symptoms\n           and are not hospitalized; OR\n\n        2. If you live with someone who has been diagnosed with COVID-19, with your last exposure\n           within the last 4 days, and do not have any symptoms; OR\n\n        3. If you live with someone who has been diagnosed with COVID-19, and your symptoms started\n           within the last 4 days; OR\n\n        4. If you are a healthcare worker or first responder with known exposure to someone with\n           lab-confirmed COVID-19 within the last 4 days and do not have symptoms; OR\n\n        5. If you are a healthcare worker or first responder and have compatible symptoms starting\n           within the last 4 days;\n\n      You may participate if you live anywhere in the United States (including territories) or in\n      the Canadian Provinces of Quebec, Manitoba, or Alberta.\n\n      For information on how to participate in the research trial, go to covidpep.umn.edu or email\n      covid19@umn.edu for instructions. Please check your spam folder if you email.\n\n      In Canada, for trial information, please go to: www.covid-19research.ca"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 17, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 12, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 21, 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Asymptomatic participants are randomized and analyzed separate from symptomatic participants.",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Incidence of COVID19 Disease among those who are asymptomatic at trial entry",
+                "time_frame": "14 days",
+                "description": "Number of participants at 14 days post enrollment with active COVID19 disease."
+            },
+            {
+                "measure": "Ordinal Scale of COVID19 Disease Severity at 14 days among those who are symptomatic at trial entry",
+                "time_frame": "14 days",
+                "description": "Participants will self-report disease severity status as one of the following 3 options; no COVID19 illness (score of 1), COVID19 illness with no hospitalization (score of 2), or COVID19 illness with hospitalization or death (score of 3). Increased scale score indicates greater disease severity. Outcome is reported as the percent of participants who fall into each category per arm."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of Hospitalization",
+                "time_frame": "14 days",
+                "description": "Outcome reported as the number of participants in each arm who require hospitalization for COVID19-related disease."
+            },
+            {
+                "measure": "Incidence of Death",
+                "time_frame": "90 days",
+                "description": "Outcome reported as the number of participants in each arm who expire due to COVID-19-related disease."
+            },
+            {
+                "measure": "Incidence of Confirmed SARS-CoV-2 Detection",
+                "time_frame": "14 days",
+                "description": "Outcome reported as the number of participants in each arm who have confirmed SARS-CoV-2 infection."
+            },
+            {
+                "measure": "Incidence of Symptoms Compatible with COVID19 (possible disease)",
+                "time_frame": "90 days",
+                "description": "Outcome reported as the number of participants in each arm who self-report symptoms compatible with COVID19 infection."
+            },
+            {
+                "measure": "Incidence of All-Cause Study Medicine Discontinuation or Withdrawal",
+                "time_frame": "14 days",
+                "description": "Outcome reported as the number of participants in each arm who discontinue or withdraw medication use for any reason."
+            },
+            {
+                "measure": "Overall symptom severity at 5 and 14 day",
+                "time_frame": "5 and 14 days",
+                "description": "Visual Analog Scale 0-10 score of rating overall symptom severity (0 = no symptoms; 10 = most severe)"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "3000"
+        },
+        "condition": [
+            "Corona Virus Infection",
+            "Acute Respiratory Distress Syndrome",
+            "SARS-CoV Infection",
+            "Coronavirus",
+            "Coronavirus Infections"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Treatment",
+                "arm_group_type": "Experimental",
+                "description": "Participants in this arm will receive the study drug."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Participants in this arm will receive a placebo treatment."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "200mg tablet; 800 mg orally once, followed in 6 to 8 hours by 600 mg, then 600mg once a day for 4 consecutive days",
+                "arm_group_label": "Treatment",
+                "other_name": "Plaquenil"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "4 placebo tablets once, followed in 6 to 8 hours by 3 tablets, then 3 tablets once-a-day for 4 consecutive days",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Provision of informed consent\n\n          -  Exposure to a COVID19 case within 4 days as either a healthcare worker or household\n             contact, OR\n\n          -  Symptomatic COVID19 case with confirmed diagnosis within 4 days of symptom onset OR\n             symptomatic healthcare worker with known COVID19 contact and within 4 days of symptom\n             onset;\n\n        Exclusion Criteria:\n\n          -  Current hospitalization\n\n          -  Allergy to hydroxychloroquine\n\n          -  Retinal eye disease\n\n          -  Known glucose-6 phosphate dehydrogenase (G-6-PD) deficiency\n\n          -  Known chronic kidney disease, stage 4 or 5 or receiving dialysis\n\n          -  Weight < 40 kg\n\n          -  Known Porphyria\n\n          -  Current use of: hydroxychloroquine or cardiac medicines of: flecainide, Tambocor;\n             amiodarone, Cordarone, Pacerone; digoxin or Digox, Digitek, Lanoxin; procainamide or\n             Procan, Procanbid, propafenone, Rythmal)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "David Boulware, MD, MPH",
+            "role": "Principal Investigator",
+            "affiliation": "University of Minnesota"
+        },
+        "overall_contact": {
+            "last_name": "David Boulware (Please email), MD, MPH",
+            "phone": "6126249996",
+            "email": "covid19@umn.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Nationwide Enrollment via Internet, please email: covid19@umn.edu",
+                    "address": {
+                        "city": "Minneapolis",
+                        "state": "Minnesota",
+                        "zip": "55455",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "David Boulware",
+                    "email": "covid19@umn.edu"
+                }
+            },
+            {
+                "facility": {
+                    "name": "University of Minnesota",
+                    "address": {
+                        "city": "Minneapolis",
+                        "state": "Minnesota",
+                        "zip": "55455",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "David R Boulware, MD, MPH",
+                    "email": "covid19@umn.edu"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Matt Pullen, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Sarah Lofgren, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Caleb Skipper, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Radha Rajasingham, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Mahsa Abassi, DO, MPH",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Ananta Bangdiwala, MS",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Kathy Hullsiek, PhD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Katelyn Pastick",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Elizabeth Okafor",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Internet",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10001",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "David Boulware, MD",
+                    "email": "covid19@umn.edu"
+                }
+            },
+            {
+                "facility": {
+                    "name": "University of Alberta",
+                    "address": {
+                        "city": "Edmonton",
+                        "state": "Alberta",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ilan Schwartz, MD",
+                    "email": "alberta@idtrials.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "University of Manitoba",
+                    "address": {
+                        "city": "Winnipeg",
+                        "state": "Manitoba",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ryan Zarychanski, MD",
+                    "email": "manitoba@idtrials.com"
+                },
+                "contact_backup": {
+                    "last_name": "Lauren E Kelly, PhD",
+                    "email": "manitoba@idtrials.com"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Glen Drobot, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Lauren MacKenzie, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Sylvain Lother, MD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Research Institute of the McGill University Heath Centre",
+                    "address": {
+                        "city": "Montr\u00e9al",
+                        "state": "Quebec",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Todd C Lee, MD",
+                    "phone": "5149341934",
+                    "phone_ext": "32965",
+                    "email": "quebec@idtrials.com"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Emily G McDonald, MDCM MSc",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Matthew P Chang, MDCM",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Alek Lefebvre",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            }
+        ],
+        "location_countries": {
+            "country": [
+                "Canada",
+                "United States"
+            ]
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 11, 2020",
+        "study_first_submitted_qc": "March 11, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 16, 2020"
+        },
+        "last_update_submitted": "April 1, 2020",
+        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "Corona Virus",
+            "SARS-COV-2",
+            "Coronavirus"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Respiratory Distress Syndrome, Newborn",
+                "Respiratory Distress Syndrome, Adult",
+                "Acute Lung Injury"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

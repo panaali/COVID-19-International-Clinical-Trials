@@ -1,1 +1,187 @@
-{"clinical_study": {"@rank": "236", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04296643"}, "id_info": {"org_study_id": "20006014", "nct_id": "NCT04296643"}, "brief_title": "Medical Masks vs N95 Respirators for COVID-19", "official_title": "Medical Masks Versus N95 Respirators to Prevent 2019 Novel Coronavirus Disease (COVID-19) in Healthcare Workers: A Randomized Trial", "sponsors": {"lead_sponsor": {"agency": "McMaster University", "agency_class": "Other"}, "collaborator": [{"agency": "Vancouver Coastal Health", "agency_class": "Other"}, {"agency": "University of Alberta", "agency_class": "Other"}, {"agency": "Dalhousie University", "agency_class": "Other"}]}, "source": "McMaster University", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "A randomized controlled trial in which nurses will be randomized to either medical masks or\n      N95 respirators when providing care to patients with COVID-19."}, "detailed_description": {"textblock": "A randomized controlled trial in which nurses will be randomized to either medical masks or\n      N95 respirators when providing medical care to patients with COVID-19. This Canadian\n      multi-centre randomized controlled trial will assess whether medical masks are non-inferior\n      to N95 respirators when nurses provide care involving non-aerosol generating procedures.\n      Nurses will be randomized to either use of a medical mask or to a fit-tested N95 respirator\n      when providing care for patients with febrile respiratory illness. The primary outcome is\n      laboratory confirmed COVID-19 among nurse participants."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "January 1, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 1, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Prevention", "masking": "Single (Outcomes Assessor)"}, "primary_outcome": {"measure": "RT-PCR confirmed COVID-19 infection", "time_frame": "6 months", "description": "Number of participants with RT-PCR confirmed COVID-19 infection"}, "secondary_outcome": [{"measure": "Acute respiratory illness", "time_frame": "6 months", "description": "Number of participants with acute respiratory illness"}, {"measure": "Absenteeism", "time_frame": "6 months", "description": "Number of participants with absenteeism"}, {"measure": "Lower respiratory infection", "time_frame": "6 months", "description": "Number of participants with lower respiratory infection"}, {"measure": "Pneumonia", "time_frame": "6 months", "description": "Number of participants with pneumonia"}, {"measure": "ICU admission", "time_frame": "6 months", "description": "Number of participants with ICU admission"}, {"measure": "Mechanical ventilation", "time_frame": "6 months", "description": "Number of participants needing mechanical ventilation"}, {"measure": "Death", "time_frame": "6 months", "description": "Number of participants that died"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "576"}, "condition": ["Coronavirus", "N95", "Medical Mask"], "arm_group": [{"arm_group_label": "Medical Mask", "arm_group_type": "Experimental", "description": "Medical Mask worn when providing care to patient with febrile respiratory illness"}, {"arm_group_label": "N95 respirator", "arm_group_type": "Active Comparator", "description": "N95 respirator worn when providing care to patient with febrile respiratory illness"}], "intervention": [{"intervention_type": "Device", "intervention_name": "Medical Mask", "description": "Medical Mask (known also as Surgical Mask)", "arm_group_label": "Medical Mask"}, {"intervention_type": "Device", "intervention_name": "N95 respirator", "description": "N95 respirator", "arm_group_label": "N95 respirator"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Nurses who work > 37 hours per week in medical, emergency, pediatric units\n\n        Exclusion Criteria:\n\n          -  Nurses with one or more comorbidities\n\n          -  Nurses who cannot pass an N95 respirator fit-test"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Mark B Loeb", "role": "Principal Investigator", "affiliation": "McMaster University"}, "overall_contact": {"last_name": "Mark Loeb, MD", "phone": "9053340010", "email": "loebm@mcmaster.ca"}, "verification_date": "March 2020", "study_first_submitted": "March 3, 2020", "study_first_submitted_qc": "March 3, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 5, 2020"}, "last_update_submitted": "March 3, 2020", "last_update_submitted_qc": "March 3, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 5, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Coronavirus Infections"}}}
+{
+    "clinical_study": {
+        "@rank": "236",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04296643"
+        },
+        "id_info": {
+            "org_study_id": "20006014",
+            "nct_id": "NCT04296643"
+        },
+        "brief_title": "Medical Masks vs N95 Respirators for COVID-19",
+        "official_title": "Medical Masks Versus N95 Respirators to Prevent 2019 Novel Coronavirus Disease (COVID-19) in Healthcare Workers: A Randomized Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "McMaster University",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Vancouver Coastal Health",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "University of Alberta",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dalhousie University",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "McMaster University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "A randomized controlled trial in which nurses will be randomized to either medical masks or\n      N95 respirators when providing care to patients with COVID-19."
+        },
+        "detailed_description": {
+            "textblock": "A randomized controlled trial in which nurses will be randomized to either medical masks or\n      N95 respirators when providing medical care to patients with COVID-19. This Canadian\n      multi-centre randomized controlled trial will assess whether medical masks are non-inferior\n      to N95 respirators when nurses provide care involving non-aerosol generating procedures.\n      Nurses will be randomized to either use of a medical mask or to a fit-tested N95 respirator\n      when providing care for patients with febrile respiratory illness. The primary outcome is\n      laboratory confirmed COVID-19 among nurse participants."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "January 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 1, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "RT-PCR confirmed COVID-19 infection",
+            "time_frame": "6 months",
+            "description": "Number of participants with RT-PCR confirmed COVID-19 infection"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Acute respiratory illness",
+                "time_frame": "6 months",
+                "description": "Number of participants with acute respiratory illness"
+            },
+            {
+                "measure": "Absenteeism",
+                "time_frame": "6 months",
+                "description": "Number of participants with absenteeism"
+            },
+            {
+                "measure": "Lower respiratory infection",
+                "time_frame": "6 months",
+                "description": "Number of participants with lower respiratory infection"
+            },
+            {
+                "measure": "Pneumonia",
+                "time_frame": "6 months",
+                "description": "Number of participants with pneumonia"
+            },
+            {
+                "measure": "ICU admission",
+                "time_frame": "6 months",
+                "description": "Number of participants with ICU admission"
+            },
+            {
+                "measure": "Mechanical ventilation",
+                "time_frame": "6 months",
+                "description": "Number of participants needing mechanical ventilation"
+            },
+            {
+                "measure": "Death",
+                "time_frame": "6 months",
+                "description": "Number of participants that died"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "576"
+        },
+        "condition": [
+            "Coronavirus",
+            "N95",
+            "Medical Mask"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Medical Mask",
+                "arm_group_type": "Experimental",
+                "description": "Medical Mask worn when providing care to patient with febrile respiratory illness"
+            },
+            {
+                "arm_group_label": "N95 respirator",
+                "arm_group_type": "Active Comparator",
+                "description": "N95 respirator worn when providing care to patient with febrile respiratory illness"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Medical Mask",
+                "description": "Medical Mask (known also as Surgical Mask)",
+                "arm_group_label": "Medical Mask"
+            },
+            {
+                "intervention_type": "Device",
+                "intervention_name": "N95 respirator",
+                "description": "N95 respirator",
+                "arm_group_label": "N95 respirator"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Nurses who work > 37 hours per week in medical, emergency, pediatric units\n\n        Exclusion Criteria:\n\n          -  Nurses with one or more comorbidities\n\n          -  Nurses who cannot pass an N95 respirator fit-test"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Mark B Loeb",
+            "role": "Principal Investigator",
+            "affiliation": "McMaster University"
+        },
+        "overall_contact": {
+            "last_name": "Mark Loeb, MD",
+            "phone": "9053340010",
+            "email": "loebm@mcmaster.ca"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 3, 2020",
+        "study_first_submitted_qc": "March 3, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 5, 2020"
+        },
+        "last_update_submitted": "March 3, 2020",
+        "last_update_submitted_qc": "March 3, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 5, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        }
+    }
+}

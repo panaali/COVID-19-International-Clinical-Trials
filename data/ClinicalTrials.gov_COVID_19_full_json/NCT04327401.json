@@ -1,1 +1,590 @@
-{"clinical_study": {"@rank": "207", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04327401"}, "id_info": {"org_study_id": "codex_v1.1", "nct_id": "NCT04327401"}, "brief_title": "COVID-19-associated ARDS Treated With Dexamethasone: Alliance Covid-19 Brasil III", "acronym": "CODEX", "official_title": "COVID-19-associated ARDS Treated With DEXamethasone: an Open-label, Randomized, Controlled Trial: CODEX (Alliance Covid-19 Brasil III)", "sponsors": {"lead_sponsor": {"agency": "Luiz F. L. Reis, Ph.D.", "agency_class": "Other"}, "collaborator": [{"agency": "Hospital Israelita Albert Einstein", "agency_class": "Other"}, {"agency": "Hospital do Coracao", "agency_class": "Other"}, {"agency": "Brazilian Research In Intensive Care Network", "agency_class": "Other"}, {"agency": "Ache Laboratorios Farmaceuticos S.A.", "agency_class": "Industry"}]}, "source": "Hospital Sirio-Libanes", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "The Severe Acute Respiratory Syndrome COronaVirus 2 (SARS-CoV2) is a new and recognized\n      infectious disease of the respiratory tract. Most cases are mild or asymptomatic. However,\n      around 5% of all patients develop Acute Respiratory Distress Syndrome (ARDS), which is the\n      leading mortality cause in these patients. Corticosteroids have been tested in deferent\n      scenarios of ARDS, including viral pneumonia, and the early use of dexamethasone is safe and\n      appears to reduce the duration of mechanical ventilation in ARDS patients. Nevertheless, no\n      large, randomized, controlled trial was performed evaluating the role of corticosteroids in\n      patients with ARDS due SARS-CoV2 virus. Therefore, the present study will evaluate the\n      effectiveness of dexamethasone compared to control (no corticosteroids) in patients with\n      moderate and severe ARDS due to SARS-CoV2 virus."}, "detailed_description": {"textblock": "The Severe Acute Respiratory Syndrome COronaVirus 2 (SARS-CoV2) is a new and recognized\n      infectious disease of the respiratory tract, and its outbreak deemed a pandemic in early\n      March 2020. Estimates show around 5% of all patients develop Acute Respiratory Distress\n      Syndrome (ARDS), which due to its severity, consumes most Intensive Care Units (ICU)\n      resources and is the leading mortality cause in this population. Given its burden, therapies\n      that reduce the duration of mechanical ventilation or decrease the morbimortality are needed.\n      Studies indicate that inflammation and cytokine storm might be involved in the\n      pathophysiological pathway to ARDS in these patients. Corticosteroids have been tested in\n      deferent scenarios of ARDS, including viral pneumonia, and the early use of dexamethasone is\n      safe and appears to reduce the duration of mechanical ventilation in ARDS patients. A recent\n      small retrospective study evaluating the role of corticosteroids found no association between\n      corticosteroids and hospital length of stay, virus clearance, and symptoms' duration.\n      However, the retrospective nature of data, small sample size (31 patients), and no protocol\n      for corticosteroids administration undermine its results. Therefore, the present study will\n      evaluate the effectiveness of dexamethasone compared to control (no corticosteroids) in\n      ventilator-free days at 28 days in patients with moderate and severe ARDS due to SARS-CoV2\n      virus in Brazil."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "August 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "August 30, 2020"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "Dexamethasone. After randomization, dexamethasone 20mg IV 1x/day for 5 days, followed by 10mg IV 1xd for 5 days + standard treatment (according to the treatment protocol for 2019-nCoV infection).\nStandard treatment (according to the treatment protocol for 2019-nCoV infection).", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Ventilator-free days", "time_frame": "28 days after randomization", "description": "Ventilator-free days, defined as alive and free from mechanical ventilation, at 28 days after randomization."}, "secondary_outcome": [{"measure": "Evaluation of the clinical status", "time_frame": "15 days after randomization", "description": "Evaluation of the clinical status of patients on the 15th day after randomization defined by the 6-point Ordinal Scale, this scale ranges from 1 (Not hospitalized) to 6 (Death) with higher scores meaning worse outcomes."}, {"measure": "All-cause mortality", "time_frame": "28 days after randomization", "description": "All-cause mortality rates at 28 days after randomization."}, {"measure": "Mechanical ventilation duration", "time_frame": "28 days after randomization", "description": "Number of days of mechanical ventilation from randomization to day 28."}, {"measure": "Sequential Organ Failure Assessment (SOFA) Score", "time_frame": "Score at 48 hours, 72 hours and 7 days after randomization", "description": "Sequential Organ Failure Assessment (SOFA) Score 48 hours, 72 hours and 7 days after randomization"}], "other_outcome": [{"measure": "Ventilator-free days in the subgroup of patients with secondary hemophagocytic lymphohistiocytosis", "time_frame": "28 days after randomization", "description": "Ventilator-free days at 28 days after randomization in the subgroup of patients with secondary hemophagocytic lymphohistiocytosis (sHLH) defined using the HScore, with an HScore cutoff of \u2265169 needed to diagnosis sHLH"}, {"measure": "Ventilator-free days in patients with laboratory-confirmed SARS-CoV2", "time_frame": "28 days after randomization", "description": "Ventilator-free days at 28 days after randomization in the subgroup of patients with laboratory-confirmed SARS-CoV2 infection"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "290"}, "condition": ["Coronavirus Infection", "Pneumonia, Viral", "Acute Respiratory Distress Syndrome"], "arm_group": [{"arm_group_label": "Intervention group", "arm_group_type": "Experimental", "description": "Dexamethasone. After randomization, dexamethasone [20mg IV 1x/day for 5 days, followed by 10mg IV 1xd for 5 days] + standard treatment (according to the treatment protocol for 2019-nCoV infection)."}, {"arm_group_label": "Control", "arm_group_type": "No Intervention", "description": "Standard treatment (according to the treatment protocol for 2019-nCoV infection)."}], "intervention": {"intervention_type": "Drug", "intervention_name": "Dexamethasone", "description": "Dexamethasone administration for 10 consecutive days after randomization.", "arm_group_label": "Intervention group", "other_name": ["Decadron", "Dexasone", "Diodex", "Hexadrol", "Maxidex"]}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Probable or confirmed infection by SARS-CoV2\n\n          -  Moderate/severe ARDS defined by the Berlin criteria (PaO2/FiO2 \u2264200mmHg with PEEP\n             \u22655cmH20)\n\n          -  Development of moderate/severe ARDS in less than 24h before randomization\n\n        Exclusion Criteria:\n\n          -  Pregnancy or active lactation\n\n          -  Known history of dexamethasone allergy\n\n          -  Daily use of corticosteroids in the past 15 days\n\n          -  Refractory septic shock with the indication of corticosteroids use or any other\n             clinical indication for corticosteroids\n\n          -  Patient expected to die in the next 24h"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Luciano Cesar Pontes Azevedo, Ph.D", "role": "Principal Investigator", "affiliation": "Teaching Director of Teaching & Research Institute S\u00edrio-Liban\u00eas Hospital"}, "overall_contact": {"last_name": "Luciano Cesar Pontes Azevedo, Ph.D", "phone": "+5511992383611", "email": "luciano.azevedo@hsl.org.br"}, "overall_contact_backup": {"last_name": "Bruno Tomazini, M.D", "phone": "+5511982839173", "email": "bruno.mtomazini@hsl.org.br"}, "location": [{"facility": {"name": "Hospital Ana Nery", "address": {"city": "Salvador", "state": "Bahia", "country": "Brazil"}}, "contact": {"last_name": "Marco AV Guedes, MD"}, "investigator": {"last_name": "Marco AV Guedes, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Instituto de Cardiologia do Distrito Federal", "address": {"city": "Bras\u00edlia", "state": "Distrito Federal", "country": "Brazil"}}, "contact": {"last_name": "Instituto de Cardiologia do Distrito Federal S Biondi, MD"}, "investigator": {"last_name": "Rodrigo S Biondi, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Funda\u00e7\u00e3o Social Rural de Colatina", "address": {"city": "Colatina", "state": "Eso\u00edrito Santo", "country": "Brazil"}}, "contact": {"last_name": "Rodrigo C Figueiredo, MD"}, "investigator": {"last_name": "Rodrigo C Figueiredo, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Hospital Vera Cruz AS", "address": {"city": "Belo Horizonte", "state": "Minas Gerais", "country": "Brazil"}}, "contact": {"last_name": "Fernando C Neuenschwander, MD"}, "investigator": {"last_name": "Fernando C Neuenschwander, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Hospital Maternidade E Pronto Socorro Santa Lucia Ltda", "address": {"city": "Po\u00e7os De Caldas", "state": "Minas Gerais", "country": "Brazil"}}, "contact": {"last_name": "Frederico C DallOrto, MD"}, "investigator": {"last_name": "Frederico C DallOrto, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Universidade Estadual de Londrina", "address": {"city": "Londrina", "state": "Paran\u00e1", "country": "Brazil"}}, "contact": {"last_name": "Cintia MC Grion, MD"}, "investigator": {"last_name": "Cintia MC Grion, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Eurolatino Natal Pesquisas M\u00e9dicas Ltda", "address": {"city": "Natal", "state": "Rio Grande Do Norte", "country": "Brazil"}}, "contact": {"last_name": "Maria SM Paiva, MD"}, "investigator": {"last_name": "Maria SM Paiva, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Irmandade da Santa Casa de Misericordia de Porto Alegre", "address": {"city": "Porto Alegre", "state": "Rio Grande Do Sul", "country": "Brazil"}}, "contact": {"last_name": "Eraldo A Lucio, MD"}, "investigator": {"last_name": "Eraldo A Lucio, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Maestri E Kormann Consultoria Medico-Cientifica", "address": {"city": "Blumenau", "state": "Santa Catarina", "country": "Brazil"}}, "contact": {"last_name": "Adrian PM Kormann, MD"}, "investigator": {"last_name": "Adrian PM Kormann, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Sociedade Literaria e Caritativa Santo Agostinho", "address": {"city": "Crici\u00fama", "state": "Santa Catarina", "country": "Brazil"}}, "contact": {"last_name": "Felipe Dal Pizzol, MD"}, "investigator": {"last_name": "Felipe Dal Pizzol, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Funda\u00e7\u00e3o Pio XII", "address": {"city": "Barretos", "state": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Cristina P Amendola, MD"}, "investigator": {"last_name": "Cristina P Amendola, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Santa Casa de Misericordia de Votuporanga", "address": {"city": "Votuporanga", "state": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Mauro E Hernandes, MD"}, "investigator": {"last_name": "Mauro E Hernandes, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Associacao Beneficente Siria", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Fernando G Zampieri, MD"}, "investigator": {"last_name": "Fernando G Zampieri, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Hospital das Cl\u00ednicas da Faculdade de Medicina de Ribeir\u00e3o Preto da USP - HCFMRP", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Wilson J Lovato, MD"}, "investigator": {"last_name": "Wilson J Lovato, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Hospital Israelita Albert Einstein", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Ot\u00e1vio Berwanger, PhD"}, "investigator": {"last_name": "Ot\u00e1vio Berwanger, PhD", "role": "Principal Investigator"}}, {"facility": {"name": "Prevent Senior Private Operadora de Saude Ltda", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Carla MG Godoy, MD"}, "investigator": {"last_name": "Carla MG Godoy, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Real e Benem\u00e9rita Associa\u00e7\u00e3o Portuguesa de Benefic\u00eancia/SP", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Viviane C Veiga, MD"}, "investigator": {"last_name": "Viviane C Veiga, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Santa Casa de Miseric\u00f3rdia", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Jorge LR Paranhos, MD"}, "investigator": {"last_name": "Jorge LR Paranhos, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Secretaria de Sa\u00fade do Estado de S\u00e3o Paulo", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Israel S Maia, MD"}, "investigator": {"last_name": "Israel S Maia, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Sociedade Beneficente de Senhoras Hospital S\u00edrio-Liban\u00eas", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Luciano CP Azevedo, PhD", "email": "luciano.azevedo@hsl.org.br"}, "contact_backup": {"last_name": "Bruno M Tomazini, MD", "email": "bruno.mtomazini@hsl.org.br"}, "investigator": [{"last_name": "Luciano CP Azevedo, PhD", "role": "Principal Investigator"}, {"last_name": "Bruno M Tomazini, MD", "role": "Sub-Investigator"}, {"last_name": "Eduardo LV Costa, PhD", "role": "Sub-Investigator"}]}, {"facility": {"name": "Universidade Federal de S\u00e3o Paulo", "address": {"city": "S\u00e3o Paulo", "country": "Brazil"}}, "contact": {"last_name": "Flavia R Machado, MD"}, "investigator": {"last_name": "Flavia R Machado, MD", "role": "Principal Investigator"}}], "location_countries": {"country": "Brazil"}, "verification_date": "March 2020", "study_first_submitted": "March 26, 2020", "study_first_submitted_qc": "March 27, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "last_update_submitted": "March 30, 2020", "last_update_submitted_qc": "March 30, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Hospital Sirio-Libanes", "investigator_full_name": "Luiz F. L. Reis, Ph.D.", "investigator_title": "Research Director"}, "keyword": ["SARS-CoV2 virus", "2019-nCOV", "Dexamethasone", "ARDS", "Corticosteroids", "Respiratory failure"], "condition_browse": {"mesh_term": ["Coronavirus Infections", "Severe Acute Respiratory Syndrome", "Pneumonia, Viral", "Respiratory Distress Syndrome, Newborn", "Respiratory Distress Syndrome, Adult", "Acute Lung Injury"]}, "intervention_browse": {"mesh_term": ["Dexamethasone", "Dexamethasone acetate", "BB 1101"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "207",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04327401"
+        },
+        "id_info": {
+            "org_study_id": "codex_v1.1",
+            "nct_id": "NCT04327401"
+        },
+        "brief_title": "COVID-19-associated ARDS Treated With Dexamethasone: Alliance Covid-19 Brasil III",
+        "acronym": "CODEX",
+        "official_title": "COVID-19-associated ARDS Treated With DEXamethasone: an Open-label, Randomized, Controlled Trial: CODEX (Alliance Covid-19 Brasil III)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Luiz F. L. Reis, Ph.D.",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Hospital Israelita Albert Einstein",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Hospital do Coracao",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Brazilian Research In Intensive Care Network",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Ache Laboratorios Farmaceuticos S.A.",
+                    "agency_class": "Industry"
+                }
+            ]
+        },
+        "source": "Hospital Sirio-Libanes",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The Severe Acute Respiratory Syndrome COronaVirus 2 (SARS-CoV2) is a new and recognized\n      infectious disease of the respiratory tract. Most cases are mild or asymptomatic. However,\n      around 5% of all patients develop Acute Respiratory Distress Syndrome (ARDS), which is the\n      leading mortality cause in these patients. Corticosteroids have been tested in deferent\n      scenarios of ARDS, including viral pneumonia, and the early use of dexamethasone is safe and\n      appears to reduce the duration of mechanical ventilation in ARDS patients. Nevertheless, no\n      large, randomized, controlled trial was performed evaluating the role of corticosteroids in\n      patients with ARDS due SARS-CoV2 virus. Therefore, the present study will evaluate the\n      effectiveness of dexamethasone compared to control (no corticosteroids) in patients with\n      moderate and severe ARDS due to SARS-CoV2 virus."
+        },
+        "detailed_description": {
+            "textblock": "The Severe Acute Respiratory Syndrome COronaVirus 2 (SARS-CoV2) is a new and recognized\n      infectious disease of the respiratory tract, and its outbreak deemed a pandemic in early\n      March 2020. Estimates show around 5% of all patients develop Acute Respiratory Distress\n      Syndrome (ARDS), which due to its severity, consumes most Intensive Care Units (ICU)\n      resources and is the leading mortality cause in this population. Given its burden, therapies\n      that reduce the duration of mechanical ventilation or decrease the morbimortality are needed.\n      Studies indicate that inflammation and cytokine storm might be involved in the\n      pathophysiological pathway to ARDS in these patients. Corticosteroids have been tested in\n      deferent scenarios of ARDS, including viral pneumonia, and the early use of dexamethasone is\n      safe and appears to reduce the duration of mechanical ventilation in ARDS patients. A recent\n      small retrospective study evaluating the role of corticosteroids found no association between\n      corticosteroids and hospital length of stay, virus clearance, and symptoms' duration.\n      However, the retrospective nature of data, small sample size (31 patients), and no protocol\n      for corticosteroids administration undermine its results. Therefore, the present study will\n      evaluate the effectiveness of dexamethasone compared to control (no corticosteroids) in\n      ventilator-free days at 28 days in patients with moderate and severe ARDS due to SARS-CoV2\n      virus in Brazil."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 30, 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Dexamethasone. After randomization, dexamethasone 20mg IV 1x/day for 5 days, followed by 10mg IV 1xd for 5 days + standard treatment (according to the treatment protocol for 2019-nCoV infection).\nStandard treatment (according to the treatment protocol for 2019-nCoV infection).",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Ventilator-free days",
+            "time_frame": "28 days after randomization",
+            "description": "Ventilator-free days, defined as alive and free from mechanical ventilation, at 28 days after randomization."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Evaluation of the clinical status",
+                "time_frame": "15 days after randomization",
+                "description": "Evaluation of the clinical status of patients on the 15th day after randomization defined by the 6-point Ordinal Scale, this scale ranges from 1 (Not hospitalized) to 6 (Death) with higher scores meaning worse outcomes."
+            },
+            {
+                "measure": "All-cause mortality",
+                "time_frame": "28 days after randomization",
+                "description": "All-cause mortality rates at 28 days after randomization."
+            },
+            {
+                "measure": "Mechanical ventilation duration",
+                "time_frame": "28 days after randomization",
+                "description": "Number of days of mechanical ventilation from randomization to day 28."
+            },
+            {
+                "measure": "Sequential Organ Failure Assessment (SOFA) Score",
+                "time_frame": "Score at 48 hours, 72 hours and 7 days after randomization",
+                "description": "Sequential Organ Failure Assessment (SOFA) Score 48 hours, 72 hours and 7 days after randomization"
+            }
+        ],
+        "other_outcome": [
+            {
+                "measure": "Ventilator-free days in the subgroup of patients with secondary hemophagocytic lymphohistiocytosis",
+                "time_frame": "28 days after randomization",
+                "description": "Ventilator-free days at 28 days after randomization in the subgroup of patients with secondary hemophagocytic lymphohistiocytosis (sHLH) defined using the HScore, with an HScore cutoff of \u2265169 needed to diagnosis sHLH"
+            },
+            {
+                "measure": "Ventilator-free days in patients with laboratory-confirmed SARS-CoV2",
+                "time_frame": "28 days after randomization",
+                "description": "Ventilator-free days at 28 days after randomization in the subgroup of patients with laboratory-confirmed SARS-CoV2 infection"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "290"
+        },
+        "condition": [
+            "Coronavirus Infection",
+            "Pneumonia, Viral",
+            "Acute Respiratory Distress Syndrome"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention group",
+                "arm_group_type": "Experimental",
+                "description": "Dexamethasone. After randomization, dexamethasone [20mg IV 1x/day for 5 days, followed by 10mg IV 1xd for 5 days] + standard treatment (according to the treatment protocol for 2019-nCoV infection)."
+            },
+            {
+                "arm_group_label": "Control",
+                "arm_group_type": "No Intervention",
+                "description": "Standard treatment (according to the treatment protocol for 2019-nCoV infection)."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Dexamethasone",
+            "description": "Dexamethasone administration for 10 consecutive days after randomization.",
+            "arm_group_label": "Intervention group",
+            "other_name": [
+                "Decadron",
+                "Dexasone",
+                "Diodex",
+                "Hexadrol",
+                "Maxidex"
+            ]
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Probable or confirmed infection by SARS-CoV2\n\n          -  Moderate/severe ARDS defined by the Berlin criteria (PaO2/FiO2 \u2264200mmHg with PEEP\n             \u22655cmH20)\n\n          -  Development of moderate/severe ARDS in less than 24h before randomization\n\n        Exclusion Criteria:\n\n          -  Pregnancy or active lactation\n\n          -  Known history of dexamethasone allergy\n\n          -  Daily use of corticosteroids in the past 15 days\n\n          -  Refractory septic shock with the indication of corticosteroids use or any other\n             clinical indication for corticosteroids\n\n          -  Patient expected to die in the next 24h"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Luciano Cesar Pontes Azevedo, Ph.D",
+            "role": "Principal Investigator",
+            "affiliation": "Teaching Director of Teaching & Research Institute S\u00edrio-Liban\u00eas Hospital"
+        },
+        "overall_contact": {
+            "last_name": "Luciano Cesar Pontes Azevedo, Ph.D",
+            "phone": "+5511992383611",
+            "email": "luciano.azevedo@hsl.org.br"
+        },
+        "overall_contact_backup": {
+            "last_name": "Bruno Tomazini, M.D",
+            "phone": "+5511982839173",
+            "email": "bruno.mtomazini@hsl.org.br"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Hospital Ana Nery",
+                    "address": {
+                        "city": "Salvador",
+                        "state": "Bahia",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Marco AV Guedes, MD"
+                },
+                "investigator": {
+                    "last_name": "Marco AV Guedes, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Instituto de Cardiologia do Distrito Federal",
+                    "address": {
+                        "city": "Bras\u00edlia",
+                        "state": "Distrito Federal",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Instituto de Cardiologia do Distrito Federal S Biondi, MD"
+                },
+                "investigator": {
+                    "last_name": "Rodrigo S Biondi, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Funda\u00e7\u00e3o Social Rural de Colatina",
+                    "address": {
+                        "city": "Colatina",
+                        "state": "Eso\u00edrito Santo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Rodrigo C Figueiredo, MD"
+                },
+                "investigator": {
+                    "last_name": "Rodrigo C Figueiredo, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hospital Vera Cruz AS",
+                    "address": {
+                        "city": "Belo Horizonte",
+                        "state": "Minas Gerais",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Fernando C Neuenschwander, MD"
+                },
+                "investigator": {
+                    "last_name": "Fernando C Neuenschwander, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hospital Maternidade E Pronto Socorro Santa Lucia Ltda",
+                    "address": {
+                        "city": "Po\u00e7os De Caldas",
+                        "state": "Minas Gerais",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Frederico C DallOrto, MD"
+                },
+                "investigator": {
+                    "last_name": "Frederico C DallOrto, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Universidade Estadual de Londrina",
+                    "address": {
+                        "city": "Londrina",
+                        "state": "Paran\u00e1",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Cintia MC Grion, MD"
+                },
+                "investigator": {
+                    "last_name": "Cintia MC Grion, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Eurolatino Natal Pesquisas M\u00e9dicas Ltda",
+                    "address": {
+                        "city": "Natal",
+                        "state": "Rio Grande Do Norte",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Maria SM Paiva, MD"
+                },
+                "investigator": {
+                    "last_name": "Maria SM Paiva, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Irmandade da Santa Casa de Misericordia de Porto Alegre",
+                    "address": {
+                        "city": "Porto Alegre",
+                        "state": "Rio Grande Do Sul",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Eraldo A Lucio, MD"
+                },
+                "investigator": {
+                    "last_name": "Eraldo A Lucio, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Maestri E Kormann Consultoria Medico-Cientifica",
+                    "address": {
+                        "city": "Blumenau",
+                        "state": "Santa Catarina",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Adrian PM Kormann, MD"
+                },
+                "investigator": {
+                    "last_name": "Adrian PM Kormann, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Sociedade Literaria e Caritativa Santo Agostinho",
+                    "address": {
+                        "city": "Crici\u00fama",
+                        "state": "Santa Catarina",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Felipe Dal Pizzol, MD"
+                },
+                "investigator": {
+                    "last_name": "Felipe Dal Pizzol, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Funda\u00e7\u00e3o Pio XII",
+                    "address": {
+                        "city": "Barretos",
+                        "state": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Cristina P Amendola, MD"
+                },
+                "investigator": {
+                    "last_name": "Cristina P Amendola, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Santa Casa de Misericordia de Votuporanga",
+                    "address": {
+                        "city": "Votuporanga",
+                        "state": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Mauro E Hernandes, MD"
+                },
+                "investigator": {
+                    "last_name": "Mauro E Hernandes, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Associacao Beneficente Siria",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Fernando G Zampieri, MD"
+                },
+                "investigator": {
+                    "last_name": "Fernando G Zampieri, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hospital das Cl\u00ednicas da Faculdade de Medicina de Ribeir\u00e3o Preto da USP - HCFMRP",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Wilson J Lovato, MD"
+                },
+                "investigator": {
+                    "last_name": "Wilson J Lovato, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hospital Israelita Albert Einstein",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Ot\u00e1vio Berwanger, PhD"
+                },
+                "investigator": {
+                    "last_name": "Ot\u00e1vio Berwanger, PhD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Prevent Senior Private Operadora de Saude Ltda",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Carla MG Godoy, MD"
+                },
+                "investigator": {
+                    "last_name": "Carla MG Godoy, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Real e Benem\u00e9rita Associa\u00e7\u00e3o Portuguesa de Benefic\u00eancia/SP",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Viviane C Veiga, MD"
+                },
+                "investigator": {
+                    "last_name": "Viviane C Veiga, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Santa Casa de Miseric\u00f3rdia",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Jorge LR Paranhos, MD"
+                },
+                "investigator": {
+                    "last_name": "Jorge LR Paranhos, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Secretaria de Sa\u00fade do Estado de S\u00e3o Paulo",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Israel S Maia, MD"
+                },
+                "investigator": {
+                    "last_name": "Israel S Maia, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Sociedade Beneficente de Senhoras Hospital S\u00edrio-Liban\u00eas",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Luciano CP Azevedo, PhD",
+                    "email": "luciano.azevedo@hsl.org.br"
+                },
+                "contact_backup": {
+                    "last_name": "Bruno M Tomazini, MD",
+                    "email": "bruno.mtomazini@hsl.org.br"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Luciano CP Azevedo, PhD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Bruno M Tomazini, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Eduardo LV Costa, PhD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Universidade Federal de S\u00e3o Paulo",
+                    "address": {
+                        "city": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "contact": {
+                    "last_name": "Flavia R Machado, MD"
+                },
+                "investigator": {
+                    "last_name": "Flavia R Machado, MD",
+                    "role": "Principal Investigator"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Brazil"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 26, 2020",
+        "study_first_submitted_qc": "March 27, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "last_update_submitted": "March 30, 2020",
+        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Hospital Sirio-Libanes",
+            "investigator_full_name": "Luiz F. L. Reis, Ph.D.",
+            "investigator_title": "Research Director"
+        },
+        "keyword": [
+            "SARS-CoV2 virus",
+            "2019-nCOV",
+            "Dexamethasone",
+            "ARDS",
+            "Corticosteroids",
+            "Respiratory failure"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Pneumonia, Viral",
+                "Respiratory Distress Syndrome, Newborn",
+                "Respiratory Distress Syndrome, Adult",
+                "Acute Lung Injury"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Dexamethasone",
+                "Dexamethasone acetate",
+                "BB 1101"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,1 +1,203 @@
-{"clinical_study": {"@rank": "9", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04321421"}, "id_info": {"org_study_id": "IRCCSSanMatteoH", "nct_id": "NCT04321421"}, "brief_title": "Hyperimmune Plasma for Critical Patients With COVID-19", "acronym": "COV19-PLASMA", "official_title": "Plasma From Donors Recovered From New Coronavirus 2019 As Therapy For Critical Patients With Covid-19", "sponsors": {"lead_sponsor": {"agency": "Foundation IRCCS San Matteo Hospital", "agency_class": "Other"}, "collaborator": [{"agency": "OSPEDALE CARLO POMA ASST MANTOVA", "agency_class": "Other"}, {"agency": "OSPEDALE MAGGIORE LODI", "agency_class": "Other"}, {"agency": "OSPEDALE ASST CREMONA", "agency_class": "Other"}]}, "source": "Foundation IRCCS San Matteo Hospital", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become\n      pandemic. To date, no specific treatment has been proven to be effective. Promising results\n      were obtained in China using Hyperimmune plasma from patients recovered from the disease.We\n      plan to treat critical Covid-19 patients with hyperimmune plasma."}, "detailed_description": {"textblock": "Apheresis from recovered donors will be performed with a cell separator device , with 500-600\n      mL of plasma obtained from each donor. Donors are males, age 18 yrs or more, evaluated for\n      transmissible diseases according to the italian law. Adjunctive tests will be for hepatitis A\n      virus, hepatatis E virusand Parvovirus B-19. All donors will be tested for the Covid-19\n      neutralizing title. Each plasma bag obtained from plasmapheresis will be immediately divided\n      in two units and frozen according to the national standards and stored separately.\n\n      Based on experience published in literature 250-300 mL of convalescent plasma will be used to\n      treat each of the recruited patients at most 3 times over 5 days."}, "overall_status": "Active, not recruiting", "start_date": {"@type": "Actual", "#text": "March 17, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "May 31, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 31, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "intervention_model_description": "Longitudinal assessment of COVID-19 patients treated with hyperimmune plasma", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "death", "time_frame": "within 7 days", "description": "death from any cause"}, "secondary_outcome": [{"measure": "time to extubation", "time_frame": "within 7 days", "description": "days since intubation"}, {"measure": "length of intensive care unit stay", "time_frame": "within 7 days", "description": "days from entry to exit from ICU"}, {"measure": "time to CPAP weaning", "time_frame": "within 7 days", "description": "days since CPAP initiation"}, {"measure": "viral load", "time_frame": "at days 1, 3 and 7", "description": "naso-pharyngeal swab, sputum and BAL"}, {"measure": "immune response", "time_frame": "at days 1, 3 and 7", "description": "neutralizing title"}], "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "49"}, "condition": "COVID-19", "arm_group": {"arm_group_label": "treated", "arm_group_type": "Experimental", "description": "treated with hyperimmune plasma"}, "intervention": {"intervention_type": "Other", "intervention_name": "hyperimmune plasma", "description": "administration of hyperimmune plasma at day 1 and based on clinical response on day 3 and 5", "arm_group_label": "treated"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  age >=18 yrs\n\n          -  positive for reverse transcription polymerase chain reaction (RT-PCR) severe acute\n             respiratory syndrome (SARS)-CoV-2\n\n          -  Acute respiratory distress syndrome (ARDS) moderate to severe, according to Berlin\n             definition, lasting less than10 days\n\n          -  Polymerase chain reaction (PCR) increased by 3.5 with respect to baseline or >18 mg/dl\n\n          -  need for mechanical ventilation or continuous positive airway pressure (CPAP)\n\n          -  signed informed consent unless unfeasible for the critical condition\n\n        Exclusion Criteria:\n\n          -  Moderate to severe ARDS lasting more than 10 days\n\n          -  proven hypersensitivity or allergic reaction to hemoderivatives or immunoglobulins\n\n          -  consent denied"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Cesare Perotti, MD", "role": "Principal Investigator", "affiliation": "Foundation IRCCS San Matteo Hospital"}, "location": {"facility": {"name": "Catherine Klersy", "address": {"city": "Pavia", "state": "PV", "zip": "27100", "country": "Italy"}}}, "location_countries": {"country": "Italy"}, "reference": [{"citation": "Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect Dis. 2020 Feb 27. pii: S1473-3099(20)30141-9. doi: 10.1016/S1473-3099(20)30141-9. [Epub ahead of print]", "PMID": "32113510"}, {"citation": "WHO. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected. 2020. https://www.who. int/docs/default-source/coronaviruse/clinical-management-of-novel-cov. pdf (accessed Feb 20, 2020)."}, {"citation": "Lai ST. Treatment of severe acute respiratory syndrome. Eur J Clin Microbiol Infect Dis. 2005 Sep;24(9):583-91. Review.", "PMID": "16172857"}, {"citation": "WHO. Use of convalescent whole blood or plasma collected from patients recovered from Ebola virus disease for transfusion, as an empirical treatment during outbreaks. 2014. http://apps.who.int/iris/rest/ bitstreams/604045/retrieve (accessed Feb 20, 2020)."}, {"citation": "Arabi Y, Balkhy H, Hajeer AH, Bouchama A, Hayden FG, Al-Omari A, Al-Hameed FM, Taha Y, Shindo N, Whitehead J, Merson L, AlJohani S, Al-Khairy K, Carson G, Luke TC, Hensley L, Al-Dawood A, Al-Qahtani S, Modjarrad K, Sadat M, Rohde G, Leport C, Fowler R. Feasibility, safety, clinical, and laboratory effects of convalescent plasma therapy for patients with Middle East respiratory syndrome coronavirus infection: a study protocol. Springerplus. 2015 Nov 19;4:709. doi: 10.1186/s40064-015-1490-9. eCollection 2015.", "PMID": "26618098"}, {"citation": "Hung IF, To KK, Lee CK, Lee KL, Chan K, Yan WW, Liu R, Watt CL, Chan WM, Lai KY, Koo CK, Buckley T, Chow FL, Wong KK, Chan HS, Ching CK, Tang BS, Lau CC, Li IW, Liu SH, Chan KH, Lin CK, Yuen KY. Convalescent plasma treatment reduced mortality in patients with severe pandemic influenza A (H1N1) 2009 virus infection. Clin Infect Dis. 2011 Feb 15;52(4):447-56. doi: 10.1093/cid/ciq106. Epub 2011 Jan 19.", "PMID": "21248066"}, {"citation": "Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, Spitters C, Ericson K, Wilkerson S, Tural A, Diaz G, Cohn A, Fox L, Patel A, Gerber SI, Kim L, Tong S, Lu X, Lindstrom S, Pallansch MA, Weldon WC, Biggs HM, Uyeki TM, Pillai SK; Washington State 2019-nCoV Case Investigation Team. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med. 2020 Mar 5;382(10):929-936. doi: 10.1056/NEJMoa2001191. Epub 2020 Jan 31.", "PMID": "32004427"}], "verification_date": "March 2020", "study_first_submitted": "March 23, 2020", "study_first_submitted_qc": "March 23, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 25, 2020"}, "last_update_submitted": "March 23, 2020", "last_update_submitted_qc": "March 23, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 25, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Foundation IRCCS San Matteo Hospital", "investigator_full_name": "Cesare Perotti", "investigator_title": "Medical Doctor"}, "keyword": ["hyperimmune plasma", "COVID-19"], "patient_data": {"sharing_ipd": "Undecided", "ipd_description": "will be decided"}}}
+{
+    "clinical_study": {
+        "@rank": "9",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04321421"
+        },
+        "id_info": {
+            "org_study_id": "IRCCSSanMatteoH",
+            "nct_id": "NCT04321421"
+        },
+        "brief_title": "Hyperimmune Plasma for Critical Patients With COVID-19",
+        "acronym": "COV19-PLASMA",
+        "official_title": "Plasma From Donors Recovered From New Coronavirus 2019 As Therapy For Critical Patients With Covid-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Foundation IRCCS San Matteo Hospital",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "OSPEDALE CARLO POMA ASST MANTOVA",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "OSPEDALE MAGGIORE LODI",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "OSPEDALE ASST CREMONA",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Foundation IRCCS San Matteo Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become\n      pandemic. To date, no specific treatment has been proven to be effective. Promising results\n      were obtained in China using Hyperimmune plasma from patients recovered from the disease.We\n      plan to treat critical Covid-19 patients with hyperimmune plasma."
+        },
+        "detailed_description": {
+            "textblock": "Apheresis from recovered donors will be performed with a cell separator device , with 500-600\n      mL of plasma obtained from each donor. Donors are males, age 18 yrs or more, evaluated for\n      transmissible diseases according to the italian law. Adjunctive tests will be for hepatitis A\n      virus, hepatatis E virusand Parvovirus B-19. All donors will be tested for the Covid-19\n      neutralizing title. Each plasma bag obtained from plasmapheresis will be immediately divided\n      in two units and frozen according to the national standards and stored separately.\n\n      Based on experience published in literature 250-300 mL of convalescent plasma will be used to\n      treat each of the recruited patients at most 3 times over 5 days."
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 17, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 31, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "Longitudinal assessment of COVID-19 patients treated with hyperimmune plasma",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "death",
+            "time_frame": "within 7 days",
+            "description": "death from any cause"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "time to extubation",
+                "time_frame": "within 7 days",
+                "description": "days since intubation"
+            },
+            {
+                "measure": "length of intensive care unit stay",
+                "time_frame": "within 7 days",
+                "description": "days from entry to exit from ICU"
+            },
+            {
+                "measure": "time to CPAP weaning",
+                "time_frame": "within 7 days",
+                "description": "days since CPAP initiation"
+            },
+            {
+                "measure": "viral load",
+                "time_frame": "at days 1, 3 and 7",
+                "description": "naso-pharyngeal swab, sputum and BAL"
+            },
+            {
+                "measure": "immune response",
+                "time_frame": "at days 1, 3 and 7",
+                "description": "neutralizing title"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "49"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "treated",
+            "arm_group_type": "Experimental",
+            "description": "treated with hyperimmune plasma"
+        },
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "hyperimmune plasma",
+            "description": "administration of hyperimmune plasma at day 1 and based on clinical response on day 3 and 5",
+            "arm_group_label": "treated"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  age >=18 yrs\n\n          -  positive for reverse transcription polymerase chain reaction (RT-PCR) severe acute\n             respiratory syndrome (SARS)-CoV-2\n\n          -  Acute respiratory distress syndrome (ARDS) moderate to severe, according to Berlin\n             definition, lasting less than10 days\n\n          -  Polymerase chain reaction (PCR) increased by 3.5 with respect to baseline or >18 mg/dl\n\n          -  need for mechanical ventilation or continuous positive airway pressure (CPAP)\n\n          -  signed informed consent unless unfeasible for the critical condition\n\n        Exclusion Criteria:\n\n          -  Moderate to severe ARDS lasting more than 10 days\n\n          -  proven hypersensitivity or allergic reaction to hemoderivatives or immunoglobulins\n\n          -  consent denied"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Cesare Perotti, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Foundation IRCCS San Matteo Hospital"
+        },
+        "location": {
+            "facility": {
+                "name": "Catherine Klersy",
+                "address": {
+                    "city": "Pavia",
+                    "state": "PV",
+                    "zip": "27100",
+                    "country": "Italy"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
+        "reference": [
+            {
+                "citation": "Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect Dis. 2020 Feb 27. pii: S1473-3099(20)30141-9. doi: 10.1016/S1473-3099(20)30141-9. [Epub ahead of print]",
+                "PMID": "32113510"
+            },
+            {
+                "citation": "WHO. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected. 2020. https://www.who. int/docs/default-source/coronaviruse/clinical-management-of-novel-cov. pdf (accessed Feb 20, 2020)."
+            },
+            {
+                "citation": "Lai ST. Treatment of severe acute respiratory syndrome. Eur J Clin Microbiol Infect Dis. 2005 Sep;24(9):583-91. Review.",
+                "PMID": "16172857"
+            },
+            {
+                "citation": "WHO. Use of convalescent whole blood or plasma collected from patients recovered from Ebola virus disease for transfusion, as an empirical treatment during outbreaks. 2014. http://apps.who.int/iris/rest/ bitstreams/604045/retrieve (accessed Feb 20, 2020)."
+            },
+            {
+                "citation": "Arabi Y, Balkhy H, Hajeer AH, Bouchama A, Hayden FG, Al-Omari A, Al-Hameed FM, Taha Y, Shindo N, Whitehead J, Merson L, AlJohani S, Al-Khairy K, Carson G, Luke TC, Hensley L, Al-Dawood A, Al-Qahtani S, Modjarrad K, Sadat M, Rohde G, Leport C, Fowler R. Feasibility, safety, clinical, and laboratory effects of convalescent plasma therapy for patients with Middle East respiratory syndrome coronavirus infection: a study protocol. Springerplus. 2015 Nov 19;4:709. doi: 10.1186/s40064-015-1490-9. eCollection 2015.",
+                "PMID": "26618098"
+            },
+            {
+                "citation": "Hung IF, To KK, Lee CK, Lee KL, Chan K, Yan WW, Liu R, Watt CL, Chan WM, Lai KY, Koo CK, Buckley T, Chow FL, Wong KK, Chan HS, Ching CK, Tang BS, Lau CC, Li IW, Liu SH, Chan KH, Lin CK, Yuen KY. Convalescent plasma treatment reduced mortality in patients with severe pandemic influenza A (H1N1) 2009 virus infection. Clin Infect Dis. 2011 Feb 15;52(4):447-56. doi: 10.1093/cid/ciq106. Epub 2011 Jan 19.",
+                "PMID": "21248066"
+            },
+            {
+                "citation": "Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, Spitters C, Ericson K, Wilkerson S, Tural A, Diaz G, Cohn A, Fox L, Patel A, Gerber SI, Kim L, Tong S, Lu X, Lindstrom S, Pallansch MA, Weldon WC, Biggs HM, Uyeki TM, Pillai SK; Washington State 2019-nCoV Case Investigation Team. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med. 2020 Mar 5;382(10):929-936. doi: 10.1056/NEJMoa2001191. Epub 2020 Jan 31.",
+                "PMID": "32004427"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 23, 2020",
+        "study_first_submitted_qc": "March 23, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "last_update_submitted": "March 23, 2020",
+        "last_update_submitted_qc": "March 23, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Foundation IRCCS San Matteo Hospital",
+            "investigator_full_name": "Cesare Perotti",
+            "investigator_title": "Medical Doctor"
+        },
+        "keyword": [
+            "hyperimmune plasma",
+            "COVID-19"
+        ],
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "will be decided"
+        }
+    }
+}

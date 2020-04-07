@@ -1,1 +1,270 @@
-{"clinical_study": {"@rank": "107", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04328961"}, "id_info": {"org_study_id": "STUDY00009750", "nct_id": "NCT04328961"}, "brief_title": "Hydroxychloroquine for COVID-19 PEP", "official_title": "Efficacy of Hydroxychloroquine for Post-exposure Prophylaxis (PEP) to Prevent Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection Among Adults Exposed to Coronavirus Disease (COVID-19): a Blinded, Randomized Study", "sponsors": {"lead_sponsor": {"agency": "University of Washington", "agency_class": "Other"}, "collaborator": [{"agency": "New York University", "agency_class": "Other"}, {"agency": "Bill and Melinda Gates Foundation", "agency_class": "Other"}]}, "source": "University of Washington", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "This is a clinical study for the prevention of SARS-CoV-2 infection in adults exposed to the\n      virus. This study will enroll up to 2000 asymptomatic men and women 18 to 80 years of age\n      (inclusive) who are close contacts of persons with laboratory confirmed SARS-CoV-2 or\n      clinically suspected COVID-19. Eligible participants will be enrolled and randomized to\n      receive the intervention or placebo at the level of the household (all eligible participants\n      in one household will receive the same intervention)."}, "detailed_description": {"textblock": "This is a randomized, multi-center, placebo-equivalent (ascorbic acid) controlled, blinded\n      study of Hydroxychloroquine (HCQ) post-exposure prophylaxis (PEP) for the prevention of\n      SARS-CoV-2 infection in adults exposed to the virus.The overarching goal of this study is to\n      assess the effectiveness of HCQ PEP on the incidence of SARS-CoV-2 detection by polymerase\n      chain reaction (PCR) to inform public health control strategies.This study will enroll up to\n      2000 asymptomatic men and women 18 to 80 years of age (inclusive) at baseline who are close\n      contacts of persons with PCR-confirmed SARS-CoV-2 or clinically suspected COVID-19 and a\n      pending SARS-CoV-2 PCR test. Eligible participants will be enrolled and randomized 1:1 to HCQ\n      or ascorbic acid at the level of the household (all eligible participants in one household\n      will receive the same intervention). Participants will be counseled about the preliminary in\n      vitro data on HCQ activity against SARS CoV-2 and equipoise regarding efficacy in humans.The\n      duration of study participation will be approximately 28 days."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 2020"}, "completion_date": {"@type": "Anticipated", "#text": "October 31, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "September 30, 2020"}, "phase": "Phase 1", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Prevention", "masking": "Single (Participant)"}, "primary_outcome": [{"measure": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection", "time_frame": "Day 1 through Day 14 after enrolment", "description": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection from self-collected samples collected daily for 14 days"}, {"measure": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection", "time_frame": "Day 28 after enrolment", "description": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection from self-collected samples collected at study exit"}], "secondary_outcome": [{"measure": "Rate of participant-reported adverse events", "time_frame": "28 days from start of Hydroxychloroquine therapy", "description": "Safety and tolerability of Hydroxychloroquine as SARS-CoV-2 PEP in adults"}, {"measure": "Incidence rates of COVID-19 through study completion", "time_frame": "28 days from enrolment", "description": "PCR-confirmed COVID-19 diagnosis"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "2000"}, "condition": ["COVID-19", "Corona Virus Infection", "SARS (Severe Acute Respiratory Syndrome)"], "arm_group": [{"arm_group_label": "Ascorbic Acid", "arm_group_type": "Placebo Comparator", "description": "Ascorbic acid 500 mg orally daily for 3 days, then 250 mg orally daily for 11 days"}, {"arm_group_label": "Hydroxychloroquine", "arm_group_type": "Experimental", "description": "Hydrochloroquine 400 mg orally daily for 3 days, then 200 mg orally daily for an additional 11 days"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Hydroxychloroquine Sulfate", "description": "Eligible participants in a household randomized to this study arm will receive hydrochloroquine therapy", "arm_group_label": "Hydroxychloroquine", "other_name": "HCQ arm"}, {"intervention_type": "Drug", "intervention_name": "Ascorbic Acid", "description": "Eligible participants in a household randomized to this study arm will receive ascorbic acid therapy.", "arm_group_label": "Ascorbic Acid", "other_name": "Placebo arm"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Men or women 18 to 80 years of age inclusive, at the time of signing the informed\n             consent\n\n          -  Willing and able to provide informed consent\n\n          -  Had a close contact of a person (index) with known PCR-confirmed SARS-CoV-2 infection\n             or who is currently being assessed for COVID-19. Close contact defined as:\n\n               1. Household contact (i.e., residing with the index case in the 14 days prior to\n                  index diagnosis)\n\n               2. Medical staff, first responders, or other care persons who cared for the index\n                  case without personal protection (mask and gloves)\n\n          -  Less than 4 days since last exposure (close contact with a person with SARS-CoV-2\n             infection) to the index case\n\n          -  Body weight < 100 kg (self-reported)\n\n          -  Access to device and internet for Telehealth visits\n\n        Exclusion Criteria:\n\n          -  Known hypersensitivity to HCQ or other 4-aminoquinoline compounds\n\n          -  Currently hospitalized\n\n          -  Symptomatic with subjective fever, cough, or sore throat\n\n          -  Current medications exclude concomitant use of HCQ\n\n          -  Concomitant use of other anti-malarial treatment or chemoprophylaxis\n\n          -  History of retinopathy of any etiology\n\n          -  Psoriasis\n\n          -  Porphyria\n\n          -  Known bone marrow disorders with significant neutropenia (polymorphonuclear leukocytes\n             < 1500) or thrombocytopenia (< 100 K)\n\n          -  Concomitant use of digoxin, cyclosporin, cimetidine, or tamoxifen\n\n          -  Known liver disease\n\n          -  Known long QT syndrome\n\n          -  Use of any investigational or non-registered drug or vaccine within 30 days preceding\n             the first dose of the study drugs, or planned use during the study period"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "80 Years", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_official": [{"last_name": "Ruanne V. Barnabas, MBChB, DPhil", "role": "Principal Investigator", "affiliation": "University of Washington"}, {"last_name": "Anna Bershteyn, PhD", "role": "Principal Investigator", "affiliation": "NYU Langone Health"}], "overall_contact": {"last_name": "Meighan Krows", "phone": "206-520-3833", "email": "meigs@uw.edu"}, "overall_contact_backup": {"last_name": "Justice Quame-Amaglo", "phone": "206-520-3866", "email": "quamaglo@uw.edu"}, "location": [{"facility": {"name": "NYU Langone Health", "address": {"city": "New York", "state": "New York", "zip": "10016", "country": "United States"}}, "contact": {"last_name": "Anna Bershteyn, PhD", "email": "anna.bershteyn@nyulangone.org"}, "investigator": {"last_name": "Anna Bershteyn, PhD", "role": "Principal Investigator"}}, {"facility": {"name": "University of Washington, Coordinating Center", "address": {"city": "Seattle", "state": "Washington", "zip": "98104", "country": "United States"}}}, {"facility": {"name": "UW Virology Research Clinic", "address": {"city": "Seattle", "state": "Washington", "zip": "98104", "country": "United States"}}, "contact": {"last_name": "Helen Stankiewicz Karita, MD", "phone": "206-520-4340", "email": "helensk@uw.edu"}, "contact_backup": {"last_name": "Kirsten Hauge", "phone": "206-520-4341", "email": "kahauge@uw.edu"}, "investigator": {"last_name": "Christine Johnston, MD", "role": "Principal Investigator"}}], "location_countries": {"country": "United States"}, "verification_date": "March 2020", "study_first_submitted": "March 23, 2020", "study_first_submitted_qc": "March 29, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "last_update_submitted": "March 29, 2020", "last_update_submitted_qc": "March 29, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University of Washington", "investigator_full_name": "Ruanne Barnabas", "investigator_title": "Associate Professor, School of Medicine: Global Health"}, "keyword": ["novel coronavirus", "post-exposure prophylaxis"], "condition_browse": {"mesh_term": ["Infection", "Severe Acute Respiratory Syndrome", "Coronavirus Infections", "Syndrome", "Virus Diseases"]}, "intervention_browse": {"mesh_term": ["Ascorbic Acid", "Hydroxychloroquine"]}, "patient_data": {"sharing_ipd": "Yes", "ipd_description": "De-identified data from the study will be made available in accordance with the funder's open access policy.", "ipd_info_type": ["Study Protocol", "Informed Consent Form (ICF)", "Analytic Code"], "ipd_time_frame": "Within 3 months of publication of primary results.", "ipd_access_criteria": "De-identified data from the study will be made available in accordance with the funder's open access policy.", "ipd_url": "https://www.gatesfoundation.org/how-we-work/general-information/open-access-policy"}}}
+{
+    "clinical_study": {
+        "@rank": "107",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04328961"
+        },
+        "id_info": {
+            "org_study_id": "STUDY00009750",
+            "nct_id": "NCT04328961"
+        },
+        "brief_title": "Hydroxychloroquine for COVID-19 PEP",
+        "official_title": "Efficacy of Hydroxychloroquine for Post-exposure Prophylaxis (PEP) to Prevent Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection Among Adults Exposed to Coronavirus Disease (COVID-19): a Blinded, Randomized Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Washington",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "New York University",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Bill and Melinda Gates Foundation",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University of Washington",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a clinical study for the prevention of SARS-CoV-2 infection in adults exposed to the\n      virus. This study will enroll up to 2000 asymptomatic men and women 18 to 80 years of age\n      (inclusive) who are close contacts of persons with laboratory confirmed SARS-CoV-2 or\n      clinically suspected COVID-19. Eligible participants will be enrolled and randomized to\n      receive the intervention or placebo at the level of the household (all eligible participants\n      in one household will receive the same intervention)."
+        },
+        "detailed_description": {
+            "textblock": "This is a randomized, multi-center, placebo-equivalent (ascorbic acid) controlled, blinded\n      study of Hydroxychloroquine (HCQ) post-exposure prophylaxis (PEP) for the prevention of\n      SARS-CoV-2 infection in adults exposed to the virus.The overarching goal of this study is to\n      assess the effectiveness of HCQ PEP on the incidence of SARS-CoV-2 detection by polymerase\n      chain reaction (PCR) to inform public health control strategies.This study will enroll up to\n      2000 asymptomatic men and women 18 to 80 years of age (inclusive) at baseline who are close\n      contacts of persons with PCR-confirmed SARS-CoV-2 or clinically suspected COVID-19 and a\n      pending SARS-CoV-2 PCR test. Eligible participants will be enrolled and randomized 1:1 to HCQ\n      or ascorbic acid at the level of the household (all eligible participants in one household\n      will receive the same intervention). Participants will be counseled about the preliminary in\n      vitro data on HCQ activity against SARS CoV-2 and equipoise regarding efficacy in humans.The\n      duration of study participation will be approximately 28 days."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "phase": "Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection",
+                "time_frame": "Day 1 through Day 14 after enrolment",
+                "description": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection from self-collected samples collected daily for 14 days"
+            },
+            {
+                "measure": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection",
+                "time_frame": "Day 28 after enrolment",
+                "description": "Polymerase chain reaction (PCR) confirmed SARS-CoV-2 infection from self-collected samples collected at study exit"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Rate of participant-reported adverse events",
+                "time_frame": "28 days from start of Hydroxychloroquine therapy",
+                "description": "Safety and tolerability of Hydroxychloroquine as SARS-CoV-2 PEP in adults"
+            },
+            {
+                "measure": "Incidence rates of COVID-19 through study completion",
+                "time_frame": "28 days from enrolment",
+                "description": "PCR-confirmed COVID-19 diagnosis"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "2000"
+        },
+        "condition": [
+            "COVID-19",
+            "Corona Virus Infection",
+            "SARS (Severe Acute Respiratory Syndrome)"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Ascorbic Acid",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Ascorbic acid 500 mg orally daily for 3 days, then 250 mg orally daily for 11 days"
+            },
+            {
+                "arm_group_label": "Hydroxychloroquine",
+                "arm_group_type": "Experimental",
+                "description": "Hydrochloroquine 400 mg orally daily for 3 days, then 200 mg orally daily for an additional 11 days"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine Sulfate",
+                "description": "Eligible participants in a household randomized to this study arm will receive hydrochloroquine therapy",
+                "arm_group_label": "Hydroxychloroquine",
+                "other_name": "HCQ arm"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Ascorbic Acid",
+                "description": "Eligible participants in a household randomized to this study arm will receive ascorbic acid therapy.",
+                "arm_group_label": "Ascorbic Acid",
+                "other_name": "Placebo arm"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Men or women 18 to 80 years of age inclusive, at the time of signing the informed\n             consent\n\n          -  Willing and able to provide informed consent\n\n          -  Had a close contact of a person (index) with known PCR-confirmed SARS-CoV-2 infection\n             or who is currently being assessed for COVID-19. Close contact defined as:\n\n               1. Household contact (i.e., residing with the index case in the 14 days prior to\n                  index diagnosis)\n\n               2. Medical staff, first responders, or other care persons who cared for the index\n                  case without personal protection (mask and gloves)\n\n          -  Less than 4 days since last exposure (close contact with a person with SARS-CoV-2\n             infection) to the index case\n\n          -  Body weight < 100 kg (self-reported)\n\n          -  Access to device and internet for Telehealth visits\n\n        Exclusion Criteria:\n\n          -  Known hypersensitivity to HCQ or other 4-aminoquinoline compounds\n\n          -  Currently hospitalized\n\n          -  Symptomatic with subjective fever, cough, or sore throat\n\n          -  Current medications exclude concomitant use of HCQ\n\n          -  Concomitant use of other anti-malarial treatment or chemoprophylaxis\n\n          -  History of retinopathy of any etiology\n\n          -  Psoriasis\n\n          -  Porphyria\n\n          -  Known bone marrow disorders with significant neutropenia (polymorphonuclear leukocytes\n             < 1500) or thrombocytopenia (< 100 K)\n\n          -  Concomitant use of digoxin, cyclosporin, cimetidine, or tamoxifen\n\n          -  Known liver disease\n\n          -  Known long QT syndrome\n\n          -  Use of any investigational or non-registered drug or vaccine within 30 days preceding\n             the first dose of the study drugs, or planned use during the study period"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": [
+            {
+                "last_name": "Ruanne V. Barnabas, MBChB, DPhil",
+                "role": "Principal Investigator",
+                "affiliation": "University of Washington"
+            },
+            {
+                "last_name": "Anna Bershteyn, PhD",
+                "role": "Principal Investigator",
+                "affiliation": "NYU Langone Health"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Meighan Krows",
+            "phone": "206-520-3833",
+            "email": "meigs@uw.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Justice Quame-Amaglo",
+            "phone": "206-520-3866",
+            "email": "quamaglo@uw.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "NYU Langone Health",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10016",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Anna Bershteyn, PhD",
+                    "email": "anna.bershteyn@nyulangone.org"
+                },
+                "investigator": {
+                    "last_name": "Anna Bershteyn, PhD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "University of Washington, Coordinating Center",
+                    "address": {
+                        "city": "Seattle",
+                        "state": "Washington",
+                        "zip": "98104",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "UW Virology Research Clinic",
+                    "address": {
+                        "city": "Seattle",
+                        "state": "Washington",
+                        "zip": "98104",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Helen Stankiewicz Karita, MD",
+                    "phone": "206-520-4340",
+                    "email": "helensk@uw.edu"
+                },
+                "contact_backup": {
+                    "last_name": "Kirsten Hauge",
+                    "phone": "206-520-4341",
+                    "email": "kahauge@uw.edu"
+                },
+                "investigator": {
+                    "last_name": "Christine Johnston, MD",
+                    "role": "Principal Investigator"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 23, 2020",
+        "study_first_submitted_qc": "March 29, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "last_update_submitted": "March 29, 2020",
+        "last_update_submitted_qc": "March 29, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Washington",
+            "investigator_full_name": "Ruanne Barnabas",
+            "investigator_title": "Associate Professor, School of Medicine: Global Health"
+        },
+        "keyword": [
+            "novel coronavirus",
+            "post-exposure prophylaxis"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Severe Acute Respiratory Syndrome",
+                "Coronavirus Infections",
+                "Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Ascorbic Acid",
+                "Hydroxychloroquine"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "De-identified data from the study will be made available in accordance with the funder's open access policy.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Informed Consent Form (ICF)",
+                "Analytic Code"
+            ],
+            "ipd_time_frame": "Within 3 months of publication of primary results.",
+            "ipd_access_criteria": "De-identified data from the study will be made available in accordance with the funder's open access policy.",
+            "ipd_url": "https://www.gatesfoundation.org/how-we-work/general-information/open-access-policy"
+        }
+    }
+}

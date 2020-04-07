@@ -1,1 +1,145 @@
-{"clinical_study": {"@rank": "147", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04319731"}, "id_info": {"org_study_id": "131618", "nct_id": "NCT04319731"}, "brief_title": "A Pilot Study of Human Amniotic Fluid for COVID19 Associated Respiratory Failure", "official_title": "A Pilot Study of Human Amniotic Fluid for COVID19 Associated Respiratory Failure", "sponsors": {"lead_sponsor": {"agency": "University of Utah", "agency_class": "Other"}}, "source": "University of Utah", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No", "is_us_export": "Yes"}, "brief_summary": {"textblock": "The purpose of this study is to test the effect of purified (acellular) amniotic fluid as a\n      treatment for SARS CoV-2 (COVID19)-associated respiratory failure. Past use of human amniotic\n      products (i.e., membrane and fluid) is FDA-approved for tissue injury and has been used to\n      reduce inflammation and fibrosis in patients with a variety of medical conditions. We\n      hypothesize that using nebulized and/or intravenous purified (acellular) amniotic fluid will\n      reduce both inflammation in patients hospitalized for in SARS CoV-2 (COVID19)-associated\n      respiratory failure, potentially leading to a decrease in respiratory support."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 20, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 20, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 20, 2021"}, "phase": "Early Phase 1", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Ventilator Free Days", "time_frame": "Measured from hospital admission day 60 after admission.", "description": "Days alive and off mechanical ventilation at day 60. Measured only among patients who receive invasive mechanical ventilation."}, {"measure": "Duration of supplemental oxygen use", "time_frame": "Measured from hospital admission to day 60.", "description": "Duration from hospital admission until cessation of supplemental oxygen use. Measured only among patients who do not receive invasive mechanical ventilation."}], "secondary_outcome": [{"measure": "All cause mortality", "time_frame": "Measured at day 60 or at hospital discharge, whichever comes first.", "description": "Survival at day 60 or hospital discharge"}, {"measure": "Systemic inflammation", "time_frame": "Measured at day 5 post enrollment.", "description": "Systemic inflammation at 5 days measured by serum IL-6."}], "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "10"}, "condition": "SARS CoV-2 Infection", "arm_group": {"arm_group_label": "Treatment", "arm_group_type": "Experimental", "description": "Treatment groups:\nAcute care - Nebulized amniotic fluid every 24 hours for 5 days (3mL)\nICU - Nebulized amniotic fluid every 24 hours for 5 days (3mL) plus intravenous amniotic fluid every 24 hours for 5 days (6mL)"}, "intervention": {"intervention_type": "Biological", "intervention_name": "Human Amniotic Fluid", "description": "Administration of amniotic fluid in SARS-CoV-2 positive patients", "arm_group_label": "Treatment"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  1. Age \u226518\n\n          -  2. Hospitalized and symptomatic (cough, fevers, SOB, or sputum production)\n\n          -  3. SARS CoV-2 laboratory positive obtained within 14 days of enrollment\n\n        Exclusion Criteria:\n\n          -  1. Home oxygen use"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Craig Selzman, MD", "role": "Principal Investigator", "affiliation": "University of Utah"}, "overall_contact": {"last_name": "Craig Selzman, MD", "phone": "(801) 581-5311", "email": "craig.selzman@hsc.utah.edu"}, "overall_contact_backup": {"last_name": "Joseph Tonna, MD", "phone": "(801) 581-5311", "email": "joseph.tonna@hsc.utah.edu"}, "verification_date": "March 2020", "study_first_submitted": "March 22, 2020", "study_first_submitted_qc": "March 22, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 24, 2020"}, "last_update_submitted": "March 22, 2020", "last_update_submitted_qc": "March 22, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 24, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University of Utah", "investigator_full_name": "Craig Selzman", "investigator_title": "Principle Investigator"}, "keyword": ["Amniotic fluid", "Respiratory failure", "Critical illness"], "condition_browse": {"mesh_term": "Respiratory Insufficiency"}}}
+{
+    "clinical_study": {
+        "@rank": "147",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04319731"
+        },
+        "id_info": {
+            "org_study_id": "131618",
+            "nct_id": "NCT04319731"
+        },
+        "brief_title": "A Pilot Study of Human Amniotic Fluid for COVID19 Associated Respiratory Failure",
+        "official_title": "A Pilot Study of Human Amniotic Fluid for COVID19 Associated Respiratory Failure",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Utah",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Utah",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this study is to test the effect of purified (acellular) amniotic fluid as a\n      treatment for SARS CoV-2 (COVID19)-associated respiratory failure. Past use of human amniotic\n      products (i.e., membrane and fluid) is FDA-approved for tissue injury and has been used to\n      reduce inflammation and fibrosis in patients with a variety of medical conditions. We\n      hypothesize that using nebulized and/or intravenous purified (acellular) amniotic fluid will\n      reduce both inflammation in patients hospitalized for in SARS CoV-2 (COVID19)-associated\n      respiratory failure, potentially leading to a decrease in respiratory support."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 20, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 20, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 20, 2021"
+        },
+        "phase": "Early Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Ventilator Free Days",
+                "time_frame": "Measured from hospital admission day 60 after admission.",
+                "description": "Days alive and off mechanical ventilation at day 60. Measured only among patients who receive invasive mechanical ventilation."
+            },
+            {
+                "measure": "Duration of supplemental oxygen use",
+                "time_frame": "Measured from hospital admission to day 60.",
+                "description": "Duration from hospital admission until cessation of supplemental oxygen use. Measured only among patients who do not receive invasive mechanical ventilation."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "All cause mortality",
+                "time_frame": "Measured at day 60 or at hospital discharge, whichever comes first.",
+                "description": "Survival at day 60 or hospital discharge"
+            },
+            {
+                "measure": "Systemic inflammation",
+                "time_frame": "Measured at day 5 post enrollment.",
+                "description": "Systemic inflammation at 5 days measured by serum IL-6."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10"
+        },
+        "condition": "SARS CoV-2 Infection",
+        "arm_group": {
+            "arm_group_label": "Treatment",
+            "arm_group_type": "Experimental",
+            "description": "Treatment groups:\nAcute care - Nebulized amniotic fluid every 24 hours for 5 days (3mL)\nICU - Nebulized amniotic fluid every 24 hours for 5 days (3mL) plus intravenous amniotic fluid every 24 hours for 5 days (6mL)"
+        },
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "Human Amniotic Fluid",
+            "description": "Administration of amniotic fluid in SARS-CoV-2 positive patients",
+            "arm_group_label": "Treatment"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  1. Age \u226518\n\n          -  2. Hospitalized and symptomatic (cough, fevers, SOB, or sputum production)\n\n          -  3. SARS CoV-2 laboratory positive obtained within 14 days of enrollment\n\n        Exclusion Criteria:\n\n          -  1. Home oxygen use"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Craig Selzman, MD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Utah"
+        },
+        "overall_contact": {
+            "last_name": "Craig Selzman, MD",
+            "phone": "(801) 581-5311",
+            "email": "craig.selzman@hsc.utah.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Joseph Tonna, MD",
+            "phone": "(801) 581-5311",
+            "email": "joseph.tonna@hsc.utah.edu"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 22, 2020",
+        "study_first_submitted_qc": "March 22, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "last_update_submitted": "March 22, 2020",
+        "last_update_submitted_qc": "March 22, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Utah",
+            "investigator_full_name": "Craig Selzman",
+            "investigator_title": "Principle Investigator"
+        },
+        "keyword": [
+            "Amniotic fluid",
+            "Respiratory failure",
+            "Critical illness"
+        ],
+        "condition_browse": {
+            "mesh_term": "Respiratory Insufficiency"
+        }
+    }
+}

@@ -1,1 +1,418 @@
-{"clinical_study": {"@rank": "74", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04328493"}, "id_info": {"org_study_id": "COVID", "nct_id": "NCT04328493"}, "brief_title": "The Vietnam Chloroquine Treatment on COVID-19", "acronym": "VICO", "official_title": "A Multi Center Randomized Open Label Trial on the Safety and Efficacy of Chloroquine for the Treatment of Hospitalized Adults With Laboratory Confirmed SARS-CoV-2 Infection in Vietnam", "sponsors": {"lead_sponsor": {"agency": "Oxford University Clinical Research Unit, Vietnam", "agency_class": "Other"}, "collaborator": [{"agency": "Ministry of Health, Vietnam", "agency_class": "Other"}, {"agency": "Hospital for Tropical Diseases, Ho Chi Minh City, Vietnam", "agency_class": "Other"}, {"agency": "Cu Chi COVID Hospital, Vietnam", "agency_class": "Other"}, {"agency": "Can Gio COVID Hospital, Vietnam", "agency_class": "Other"}, {"agency": "Cho Ray Hospital, Vietnam", "agency_class": "Other"}, {"agency": "National Hospital for Tropical Diseases, Hanoi, Vietnam", "agency_class": "Other"}, {"agency": "Department of Health, Ho Chi Minh city", "agency_class": "Other"}]}, "source": "Oxford University Clinical Research Unit, Vietnam", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "COVID-19 is a respiratory disease caused by a novel coronavirus (SARS-CoV-2) and causes\n      substantial morbidity and mortality. There is currently no vaccine to prevent COVID-19 or\n      therapeutic agent to treat COVID-19. This clinical trial is designed to evaluate potential\n      therapeutics for the treatment of hospitalized COVID-19.\n\n      We hypothesis that chloroquine slows viral replication in patients with COVID-19, attenuating\n      the infection, and resulting in more rapid declines in viral load in throat swabs. This viral\n      attenuation should be associated with improved patient outcomes. Given the enormous\n      experience of its use in malaria chemoprophylaxis, excellent safety and tolerability profile,\n      and its very low cost, if proved effective then chloroquine would be a readily deployable and\n      affordable treatment for patients with COVID-19.\n\n      The study is funded and leaded by The Ministry of Health, Vietnam."}, "detailed_description": {"textblock": "The study will start with a 10-patient prospective observational pilot study. All these\n      patients will be subject to the same entry and exclusion criteria for the randomized trial,\n      and undergo the same procedures. They will all receive chloroquine at the doses used in the\n      trial (see sections below); they will not be randomized. The purpose of the pilot is to\n      develop the study procedures for the randomized controlled trial, including the safe\n      monitoring of patients, to refine the CRF, and to acquire some preliminary data on the safety\n      of chloroquine in those with COVID-19.\n\n      Once the pilot study has been completed, and the data reviewed by the TSC and DMC, and the\n      MOH ethics committee, we will then proceed to the trial. We will aim for minimum delay\n      between completing the pilot study and starting the randomized trial.\n\n      The main study is an open label, randomised, controlled trial that will be conducted in 240\n      in-patients in Ho Chi Minh City. Viet Nam.\n\n      Patients will have daily assessment as per standard of care while in-patients by the hospital\n      staff. While in-patients the study will collect the following data: peripheral oxygen\n      saturation (pulse oximeter), respiratory rate, and FiO2 6 hourly. The use of ventilator or\n      other assisted breathing device will be recorded each day.\n\n      Patients will have more detailed clinical assessment recorded once weekly (i.e. on study\n      days, 7, 14, 21 and 28 (\u00b12 days) and on the day of discharge. This will include symptoms,\n      respiratory, and cardiovascular examination, blood investigations and microbiological\n      investigations as per the study schedule, recording of all medication and review of any\n      adverse events.\n\n      The decision to discharge patients will be at the discretion of the attending physician and\n      depend upon the clinical status of the patient. According to current standard of care\n      recovery and hospital discharge is dependent upon the patient having had 2 daily consecutive\n      negative PCR throat swabs. Following discharge patients will be seen on days 14, 28, 42 and\n      56 post-randomization."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "April 1, 2022"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 1, 2021"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "The main trial is an open label, randomised, controlled trial that will be conducted in in-patients in Ho Chi Minh City. Viet Nam. Randomization will be 1:1, stratified by study site and severity of illness, to either with or without chloroquine for 10 days. All patients will also receive a supportive care/treatment according to VN MoH's guidline for COVID-19", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Viral clearance time", "time_frame": "Up to 56 days post randomization", "description": "Viral presence will be determined using RT-PCR to detect SARS-CoV-19 RNA. Throat swabs for viral RNA will be taken daily while in hospital until there have at least 2 consecutive negative results . Virus will be defined as cleared when the patient has had \u22652 consecutive negative PCR tests. The time to viral clearance will be defined as the time following randomization to the first of the negative throat swabs."}, "secondary_outcome": [{"measure": "Lengh of hospital stay", "time_frame": "Up to 56 days post randomization", "description": "The time since randomization to discharge between study groups"}, {"measure": "Ventilator free days", "time_frame": "first 28 days", "description": "The number of ventilator free days over the first 28 days of treatment"}, {"measure": "Oxygene free days", "time_frame": "first 28 days", "description": "The number of oxygene free days over the first 28 days of treatment"}, {"measure": "Time to death", "time_frame": "first 7, 10, 14, 28 and 56 days since randomization", "description": "The time to (all-cause) death following over the first 7, 10, 14, 28 and 56 days since randomization"}, {"measure": "Adverse events", "time_frame": "Over the first 28 days (due to the prolonged half-life of Chloroquine)", "description": "The rates of serious adverse events, rates of grade 3 or 4 adverse events"}, {"measure": "Time to viral PCR negative from rectal swab", "time_frame": "During the first 56 days post randomization", "description": "Time since randomization to the first viral PCR negative from rectal swab"}, {"measure": "fever clearance time", "time_frame": "Up to 56 days post randomization", "description": "Time since randomization to the first defervescence day"}, {"measure": "Ordinal outcome scale", "time_frame": "Up to 56 days post randomization", "description": "WHO Ordinal outcome scale for COVID-19"}, {"measure": "Development of ARDS", "time_frame": "Up to 56 days post randomization", "description": "Development of ARDS defined by the Kigali criteria"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "250"}, "condition": ["SARS-CoV-2 Infection", "COVID-19"], "arm_group": [{"arm_group_label": "Control arm", "arm_group_type": "No Intervention", "description": "Patients randomized to the control arm will receive a standard of care therapy (a supportive care/treatment according to VN MoH's guideline)."}, {"arm_group_label": "Intervention arm", "arm_group_type": "Experimental", "description": "Patients randomized to the intervention arm receive chloroquine with a loading dose of 1200mg CQ phosphate base over the first 24 hours after randomization, followed by 300mg CQ phosphate base orally once daily for 9 days, in addition to standard of care therapy."}], "intervention": {"intervention_type": "Drug", "intervention_name": "Chloroquine phosphate", "description": "Chloroquine will be administered orally, as tablets. For unconscious patients chloroquine can be crushed and administered as a suspension via a nasogastric tube.\nA loading dose of 1200mg chloroquine phosphate base, administered with food where possible, is given on the first 24 hours after randomization. Following, patients will receive a dose of chloroquine phosphate base of 300mg once daily for 9 days (unless they are <60Kg, when the dose will be reduced following its pharmacokinetic properties).\nThe total duration of treatment with Chloroquine will be 10 days", "arm_group_label": "Intervention arm", "other_name": "Chloroquine"}, "eligibility": {"criteria": {"textblock": "1. Laboratory-confirmed SARS-CoV-2 infection as determined by PCR, or other commercial or\n             public health assay in any specimen < 48 hours prior to randomization, and requiring\n             hospital admission in the opinion of the attending physician.\n\n          2. Provides written informed consent prior to initiation of any study procedures (or\n             legally authorized representative).\n\n          3. Understands and agrees to comply with planned study procedures.\n\n          4. Agrees to the collection of OP swabs and venous blood per protocol.\n\n          5. Male or female adult \u226518 years of age at time of enrollment."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Guy Thwaites, PhD. MD", "role": "Principal Investigator", "affiliation": "University of Oxford, UK"}, "overall_contact": {"last_name": "Jeremy Day, PhD. MD", "phone": "+84 8 39237954", "email": "jday@oucru.org"}, "overall_contact_backup": {"last_name": "Dung Nguyen, PhD. MD", "phone": "+84 28 3924 1983", "email": "CTU-Admin@oucru.org"}, "location": [{"facility": {"name": "National Hospital for Tropical Diseases", "address": {"city": "Hanoi", "country": "Vietnam"}}, "contact": {"last_name": "Thach N Pham, PhD. MD"}, "investigator": {"last_name": "Thach N Pham, PhD.MD", "role": "Principal Investigator"}}, {"facility": {"name": "Can Gio COVID Hospital", "address": {"city": "Ho Chi Minh City", "country": "Vietnam"}}, "contact": {"last_name": "Manh Hung Le"}, "investigator": {"last_name": "Manh Hung Le", "role": "Principal Investigator"}}, {"facility": {"name": "Cho Ray Hospital", "address": {"city": "Ho Chi Minh City", "country": "Vietnam"}}, "investigator": {"last_name": "Hung Le Quoc, MD", "role": "Principal Investigator"}}, {"facility": {"name": "Cu Chi COVID Hospital", "address": {"city": "Ho Chi Minh City", "country": "Vietnam"}}, "contact": {"last_name": "Thanh Dung Nguyen"}, "investigator": {"last_name": "Thanh Dung Nguyen", "role": "Principal Investigator"}}, {"facility": {"name": "Hospital for Tropical Diseases", "address": {"city": "Ho Chi Minh City", "country": "Vietnam"}}, "contact": {"last_name": "Van Vinh Chau Nguyen, PhD, MD", "email": "nguyenvanvinhchau@gmail.com"}, "investigator": [{"last_name": "Thanh Dung Nguyen, Dr", "role": "Sub-Investigator"}, {"last_name": "Thanh Phong Nguyen, Dr", "role": "Sub-Investigator"}, {"last_name": "Thanh Truong Nguyen, Dr", "role": "Sub-Investigator"}, {"last_name": "Nguyen Huy Man Dinh, Dr", "role": "Sub-Investigator"}, {"last_name": "Phuong Thao Huynh, Phar", "role": "Sub-Investigator"}, {"last_name": "Van Vinh Chau Nguyen, Dr", "role": "Principal Investigator"}]}], "location_countries": {"country": "Vietnam"}, "link": [{"url": "https://doi.org/10.1016/j.ijantimicag.2020.105949", "description": "in press"}, {"url": "https://apps.who.int/iris/bitstream/handle/10665/325771/WHO-MVP-EMP-IAU-2019.06-eng.pdf?ua=1", "description": "World Health Organization Model List of Essential Medicines"}, {"url": "https://www.worldometers.info/coronavirus/", "description": "COVID-19 Coronavirus Pandemic updates"}], "reference": [{"citation": "Biggerstaff M, Cauchemez S, Reed C, Gambhir M, Finelli L. Estimates of the reproduction number for seasonal, pandemic, and zoonotic influenza: a systematic review of the literature. BMC Infect Dis. 2014 Sep 4;14:480. doi: 10.1186/1471-2334-14-480. Review.", "PMID": "25186370"}, {"citation": "Chan JF, Kok KH, Zhu Z, Chu H, To KK, Yuan S, Yuen KY. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infect. 2020 Jan 28;9(1):221-236. doi: 10.1080/22221751.2020.1719902. eCollection 2020. Erratum in: Emerg Microbes Infect. 2020 Dec;9(1):540.", "PMID": "31987001"}, {"citation": "de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D, Cihlar T, Feldmann H. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci U S A. 2020 Feb 13. pii: 201922083. doi: 10.1073/pnas.1922083117. [Epub ahead of print]", "PMID": "32054787"}, {"citation": "Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies. Biosci Trends. 2020 Mar 16;14(1):72-73. doi: 10.5582/bst.2020.01047. Epub 2020 Feb 19.", "PMID": "32074550"}, {"citation": "Gordon CJ, Tchesnokov EP, Feng JY, Porter DP, Gotte M. The antiviral compound remdesivir potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus. J Biol Chem. 2020 Feb 24. pii: jbc.AC120.013056. doi: 10.1074/jbc.AC120.013056. [Epub ahead of print]", "PMID": "32094225"}, {"citation": "Jorge A, Ung C, Young LH, Melles RB, Choi HK. Hydroxychloroquine retinopathy - implications of research advances for rheumatology care. Nat Rev Rheumatol. 2018 Dec;14(12):693-703. doi: 10.1038/s41584-018-0111-8. Review.", "PMID": "30401979"}, {"citation": "Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KSM, Lau EHY, Wong JY, Xing X, Xiang N, Wu Y, Li C, Chen Q, Li D, Liu T, Zhao J, Li M, Tu W, Chen C, Jin L, Yang R, Wang Q, Zhou S, Wang R, Liu H, Luo Y, Liu Y, Shao G, Li H, Tao Z, Yang Y, Deng Z, Liu B, Ma Z, Zhang Y, Shi G, Lam TTY, Wu JTK, Gao GF, Cowling BJ, Yang B, Leung GM, Feng Z. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Jan 29. doi: 10.1056/NEJMoa2001316. [Epub ahead of print]", "PMID": "31995857"}, {"citation": "Liu M, He P, Liu HG, Wang XJ, Li FJ, Chen S, Lin J, Chen P, Liu JH, Li CH. [Clinical characteristics of 30 medical workers infected with new coronavirus pneumonia]. Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):209-214. doi: 10.3760/cma.j.issn.1001-0939.2020.03.014. Chinese.", "PMID": "32164090"}, {"citation": "McChesney EW, Banks WF Jr, Fabian RJ. Tissue distribution of chloroquine, hydroxychloroquine, and desethylchloroquine in the rat. Toxicol Appl Pharmacol. 1967 May;10(3):501-13.", "PMID": "6059665"}, {"citation": "multicenter collaboration group of Department of Science and Technology of Guangdong Province and Health Commission of Guangdong Province for chloroquine in the treatment of novel coronavirus pneumonia. [Expert consensus on chloroquine phosphate for the treatment of novel coronavirus pneumonia]. Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):185-188. doi: 10.3760/cma.j.issn.1001-0939.2020.03.009. Chinese.", "PMID": "32164085"}, {"citation": "Shaw K. The 2003 SARS outbreak and its impact on infection control practices. Public Health. 2006 Jan;120(1):8-14. Epub 2005 Nov 16.", "PMID": "16297415"}, {"citation": "Villegas L, McGready R, Htway M, Paw MK, Pimanpanarak M, Arunjerdja R, Viladpai-Nguen SJ, Greenwood B, White NJ, Nosten F. Chloroquine prophylaxis against vivax malaria in pregnancy: a randomized, double-blind, placebo-controlled trial. Trop Med Int Health. 2007 Feb;12(2):209-18.", "PMID": "17300627"}, {"citation": "Vincent MJ, Bergeron E, Benjannet S, Erickson BR, Rollin PE, Ksiazek TG, Seidah NG, Nichol ST. Chloroquine is a potent inhibitor of SARS coronavirus infection and spread. Virol J. 2005 Aug 22;2:69.", "PMID": "16115318"}, {"citation": "Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, Shi Z, Hu Z, Zhong W, Xiao G. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. 2020 Mar;30(3):269-271. doi: 10.1038/s41422-020-0282-0. Epub 2020 Feb 4.", "PMID": "32020029"}, {"citation": "White NJ, Miller KD, Churchill FC, Berry C, Brown J, Williams SB, Greenwood BM. Chloroquine treatment of severe malaria in children. Pharmacokinetics, toxicity, and new dosage recommendations. N Engl J Med. 1988 Dec 8;319(23):1493-500.", "PMID": "3054558"}, {"citation": "Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA. Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. N Engl J Med. 2012 Nov 8;367(19):1814-20. doi: 10.1056/NEJMoa1211721. Epub 2012 Oct 17. Erratum in: N Engl J Med. 2013 Jul 25;369(4):394.", "PMID": "23075143"}, {"citation": "Zhao S, Lin Q, Ran J, Musa SS, Yang G, Wang W, Lou Y, Gao D, Yang L, He D, Wang MH. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. Int J Infect Dis. 2020 Mar;92:214-217. doi: 10.1016/j.ijid.2020.01.050. Epub 2020 Jan 30.", "PMID": "32007643"}, {"citation": "Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.", "PMID": "31978945"}], "verification_date": "March 2020", "study_first_submitted": "March 27, 2020", "study_first_submitted_qc": "March 30, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "last_update_submitted": "March 30, 2020", "last_update_submitted_qc": "March 30, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["SARS-CoV-2", "COVID-19", "chloroquine"], "condition_browse": {"mesh_term": "Infection"}, "intervention_browse": {"mesh_term": ["Chloroquine", "Chloroquine diphosphate"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "74",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04328493"
+        },
+        "id_info": {
+            "org_study_id": "COVID",
+            "nct_id": "NCT04328493"
+        },
+        "brief_title": "The Vietnam Chloroquine Treatment on COVID-19",
+        "acronym": "VICO",
+        "official_title": "A Multi Center Randomized Open Label Trial on the Safety and Efficacy of Chloroquine for the Treatment of Hospitalized Adults With Laboratory Confirmed SARS-CoV-2 Infection in Vietnam",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Oxford University Clinical Research Unit, Vietnam",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Ministry of Health, Vietnam",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Hospital for Tropical Diseases, Ho Chi Minh City, Vietnam",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Cu Chi COVID Hospital, Vietnam",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Can Gio COVID Hospital, Vietnam",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Cho Ray Hospital, Vietnam",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "National Hospital for Tropical Diseases, Hanoi, Vietnam",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Department of Health, Ho Chi Minh city",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Oxford University Clinical Research Unit, Vietnam",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "COVID-19 is a respiratory disease caused by a novel coronavirus (SARS-CoV-2) and causes\n      substantial morbidity and mortality. There is currently no vaccine to prevent COVID-19 or\n      therapeutic agent to treat COVID-19. This clinical trial is designed to evaluate potential\n      therapeutics for the treatment of hospitalized COVID-19.\n\n      We hypothesis that chloroquine slows viral replication in patients with COVID-19, attenuating\n      the infection, and resulting in more rapid declines in viral load in throat swabs. This viral\n      attenuation should be associated with improved patient outcomes. Given the enormous\n      experience of its use in malaria chemoprophylaxis, excellent safety and tolerability profile,\n      and its very low cost, if proved effective then chloroquine would be a readily deployable and\n      affordable treatment for patients with COVID-19.\n\n      The study is funded and leaded by The Ministry of Health, Vietnam."
+        },
+        "detailed_description": {
+            "textblock": "The study will start with a 10-patient prospective observational pilot study. All these\n      patients will be subject to the same entry and exclusion criteria for the randomized trial,\n      and undergo the same procedures. They will all receive chloroquine at the doses used in the\n      trial (see sections below); they will not be randomized. The purpose of the pilot is to\n      develop the study procedures for the randomized controlled trial, including the safe\n      monitoring of patients, to refine the CRF, and to acquire some preliminary data on the safety\n      of chloroquine in those with COVID-19.\n\n      Once the pilot study has been completed, and the data reviewed by the TSC and DMC, and the\n      MOH ethics committee, we will then proceed to the trial. We will aim for minimum delay\n      between completing the pilot study and starting the randomized trial.\n\n      The main study is an open label, randomised, controlled trial that will be conducted in 240\n      in-patients in Ho Chi Minh City. Viet Nam.\n\n      Patients will have daily assessment as per standard of care while in-patients by the hospital\n      staff. While in-patients the study will collect the following data: peripheral oxygen\n      saturation (pulse oximeter), respiratory rate, and FiO2 6 hourly. The use of ventilator or\n      other assisted breathing device will be recorded each day.\n\n      Patients will have more detailed clinical assessment recorded once weekly (i.e. on study\n      days, 7, 14, 21 and 28 (\u00b12 days) and on the day of discharge. This will include symptoms,\n      respiratory, and cardiovascular examination, blood investigations and microbiological\n      investigations as per the study schedule, recording of all medication and review of any\n      adverse events.\n\n      The decision to discharge patients will be at the discretion of the attending physician and\n      depend upon the clinical status of the patient. According to current standard of care\n      recovery and hospital discharge is dependent upon the patient having had 2 daily consecutive\n      negative PCR throat swabs. Following discharge patients will be seen on days 14, 28, 42 and\n      56 post-randomization."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "The main trial is an open label, randomised, controlled trial that will be conducted in in-patients in Ho Chi Minh City. Viet Nam. Randomization will be 1:1, stratified by study site and severity of illness, to either with or without chloroquine for 10 days. All patients will also receive a supportive care/treatment according to VN MoH's guidline for COVID-19",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Viral clearance time",
+            "time_frame": "Up to 56 days post randomization",
+            "description": "Viral presence will be determined using RT-PCR to detect SARS-CoV-19 RNA. Throat swabs for viral RNA will be taken daily while in hospital until there have at least 2 consecutive negative results . Virus will be defined as cleared when the patient has had \u22652 consecutive negative PCR tests. The time to viral clearance will be defined as the time following randomization to the first of the negative throat swabs."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Lengh of hospital stay",
+                "time_frame": "Up to 56 days post randomization",
+                "description": "The time since randomization to discharge between study groups"
+            },
+            {
+                "measure": "Ventilator free days",
+                "time_frame": "first 28 days",
+                "description": "The number of ventilator free days over the first 28 days of treatment"
+            },
+            {
+                "measure": "Oxygene free days",
+                "time_frame": "first 28 days",
+                "description": "The number of oxygene free days over the first 28 days of treatment"
+            },
+            {
+                "measure": "Time to death",
+                "time_frame": "first 7, 10, 14, 28 and 56 days since randomization",
+                "description": "The time to (all-cause) death following over the first 7, 10, 14, 28 and 56 days since randomization"
+            },
+            {
+                "measure": "Adverse events",
+                "time_frame": "Over the first 28 days (due to the prolonged half-life of Chloroquine)",
+                "description": "The rates of serious adverse events, rates of grade 3 or 4 adverse events"
+            },
+            {
+                "measure": "Time to viral PCR negative from rectal swab",
+                "time_frame": "During the first 56 days post randomization",
+                "description": "Time since randomization to the first viral PCR negative from rectal swab"
+            },
+            {
+                "measure": "fever clearance time",
+                "time_frame": "Up to 56 days post randomization",
+                "description": "Time since randomization to the first defervescence day"
+            },
+            {
+                "measure": "Ordinal outcome scale",
+                "time_frame": "Up to 56 days post randomization",
+                "description": "WHO Ordinal outcome scale for COVID-19"
+            },
+            {
+                "measure": "Development of ARDS",
+                "time_frame": "Up to 56 days post randomization",
+                "description": "Development of ARDS defined by the Kigali criteria"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "250"
+        },
+        "condition": [
+            "SARS-CoV-2 Infection",
+            "COVID-19"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Control arm",
+                "arm_group_type": "No Intervention",
+                "description": "Patients randomized to the control arm will receive a standard of care therapy (a supportive care/treatment according to VN MoH's guideline)."
+            },
+            {
+                "arm_group_label": "Intervention arm",
+                "arm_group_type": "Experimental",
+                "description": "Patients randomized to the intervention arm receive chloroquine with a loading dose of 1200mg CQ phosphate base over the first 24 hours after randomization, followed by 300mg CQ phosphate base orally once daily for 9 days, in addition to standard of care therapy."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Chloroquine phosphate",
+            "description": "Chloroquine will be administered orally, as tablets. For unconscious patients chloroquine can be crushed and administered as a suspension via a nasogastric tube.\nA loading dose of 1200mg chloroquine phosphate base, administered with food where possible, is given on the first 24 hours after randomization. Following, patients will receive a dose of chloroquine phosphate base of 300mg once daily for 9 days (unless they are <60Kg, when the dose will be reduced following its pharmacokinetic properties).\nThe total duration of treatment with Chloroquine will be 10 days",
+            "arm_group_label": "Intervention arm",
+            "other_name": "Chloroquine"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "1. Laboratory-confirmed SARS-CoV-2 infection as determined by PCR, or other commercial or\n             public health assay in any specimen < 48 hours prior to randomization, and requiring\n             hospital admission in the opinion of the attending physician.\n\n          2. Provides written informed consent prior to initiation of any study procedures (or\n             legally authorized representative).\n\n          3. Understands and agrees to comply with planned study procedures.\n\n          4. Agrees to the collection of OP swabs and venous blood per protocol.\n\n          5. Male or female adult \u226518 years of age at time of enrollment."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Guy Thwaites, PhD. MD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Oxford, UK"
+        },
+        "overall_contact": {
+            "last_name": "Jeremy Day, PhD. MD",
+            "phone": "+84 8 39237954",
+            "email": "jday@oucru.org"
+        },
+        "overall_contact_backup": {
+            "last_name": "Dung Nguyen, PhD. MD",
+            "phone": "+84 28 3924 1983",
+            "email": "CTU-Admin@oucru.org"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "National Hospital for Tropical Diseases",
+                    "address": {
+                        "city": "Hanoi",
+                        "country": "Vietnam"
+                    }
+                },
+                "contact": {
+                    "last_name": "Thach N Pham, PhD. MD"
+                },
+                "investigator": {
+                    "last_name": "Thach N Pham, PhD.MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Can Gio COVID Hospital",
+                    "address": {
+                        "city": "Ho Chi Minh City",
+                        "country": "Vietnam"
+                    }
+                },
+                "contact": {
+                    "last_name": "Manh Hung Le"
+                },
+                "investigator": {
+                    "last_name": "Manh Hung Le",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Cho Ray Hospital",
+                    "address": {
+                        "city": "Ho Chi Minh City",
+                        "country": "Vietnam"
+                    }
+                },
+                "investigator": {
+                    "last_name": "Hung Le Quoc, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Cu Chi COVID Hospital",
+                    "address": {
+                        "city": "Ho Chi Minh City",
+                        "country": "Vietnam"
+                    }
+                },
+                "contact": {
+                    "last_name": "Thanh Dung Nguyen"
+                },
+                "investigator": {
+                    "last_name": "Thanh Dung Nguyen",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hospital for Tropical Diseases",
+                    "address": {
+                        "city": "Ho Chi Minh City",
+                        "country": "Vietnam"
+                    }
+                },
+                "contact": {
+                    "last_name": "Van Vinh Chau Nguyen, PhD, MD",
+                    "email": "nguyenvanvinhchau@gmail.com"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Thanh Dung Nguyen, Dr",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Thanh Phong Nguyen, Dr",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Thanh Truong Nguyen, Dr",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Nguyen Huy Man Dinh, Dr",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Phuong Thao Huynh, Phar",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Van Vinh Chau Nguyen, Dr",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            }
+        ],
+        "location_countries": {
+            "country": "Vietnam"
+        },
+        "link": [
+            {
+                "url": "https://doi.org/10.1016/j.ijantimicag.2020.105949",
+                "description": "in press"
+            },
+            {
+                "url": "https://apps.who.int/iris/bitstream/handle/10665/325771/WHO-MVP-EMP-IAU-2019.06-eng.pdf?ua=1",
+                "description": "World Health Organization Model List of Essential Medicines"
+            },
+            {
+                "url": "https://www.worldometers.info/coronavirus/",
+                "description": "COVID-19 Coronavirus Pandemic updates"
+            }
+        ],
+        "reference": [
+            {
+                "citation": "Biggerstaff M, Cauchemez S, Reed C, Gambhir M, Finelli L. Estimates of the reproduction number for seasonal, pandemic, and zoonotic influenza: a systematic review of the literature. BMC Infect Dis. 2014 Sep 4;14:480. doi: 10.1186/1471-2334-14-480. Review.",
+                "PMID": "25186370"
+            },
+            {
+                "citation": "Chan JF, Kok KH, Zhu Z, Chu H, To KK, Yuan S, Yuen KY. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infect. 2020 Jan 28;9(1):221-236. doi: 10.1080/22221751.2020.1719902. eCollection 2020. Erratum in: Emerg Microbes Infect. 2020 Dec;9(1):540.",
+                "PMID": "31987001"
+            },
+            {
+                "citation": "de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D, Cihlar T, Feldmann H. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci U S A. 2020 Feb 13. pii: 201922083. doi: 10.1073/pnas.1922083117. [Epub ahead of print]",
+                "PMID": "32054787"
+            },
+            {
+                "citation": "Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies. Biosci Trends. 2020 Mar 16;14(1):72-73. doi: 10.5582/bst.2020.01047. Epub 2020 Feb 19.",
+                "PMID": "32074550"
+            },
+            {
+                "citation": "Gordon CJ, Tchesnokov EP, Feng JY, Porter DP, Gotte M. The antiviral compound remdesivir potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus. J Biol Chem. 2020 Feb 24. pii: jbc.AC120.013056. doi: 10.1074/jbc.AC120.013056. [Epub ahead of print]",
+                "PMID": "32094225"
+            },
+            {
+                "citation": "Jorge A, Ung C, Young LH, Melles RB, Choi HK. Hydroxychloroquine retinopathy - implications of research advances for rheumatology care. Nat Rev Rheumatol. 2018 Dec;14(12):693-703. doi: 10.1038/s41584-018-0111-8. Review.",
+                "PMID": "30401979"
+            },
+            {
+                "citation": "Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KSM, Lau EHY, Wong JY, Xing X, Xiang N, Wu Y, Li C, Chen Q, Li D, Liu T, Zhao J, Li M, Tu W, Chen C, Jin L, Yang R, Wang Q, Zhou S, Wang R, Liu H, Luo Y, Liu Y, Shao G, Li H, Tao Z, Yang Y, Deng Z, Liu B, Ma Z, Zhang Y, Shi G, Lam TTY, Wu JTK, Gao GF, Cowling BJ, Yang B, Leung GM, Feng Z. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Jan 29. doi: 10.1056/NEJMoa2001316. [Epub ahead of print]",
+                "PMID": "31995857"
+            },
+            {
+                "citation": "Liu M, He P, Liu HG, Wang XJ, Li FJ, Chen S, Lin J, Chen P, Liu JH, Li CH. [Clinical characteristics of 30 medical workers infected with new coronavirus pneumonia]. Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):209-214. doi: 10.3760/cma.j.issn.1001-0939.2020.03.014. Chinese.",
+                "PMID": "32164090"
+            },
+            {
+                "citation": "McChesney EW, Banks WF Jr, Fabian RJ. Tissue distribution of chloroquine, hydroxychloroquine, and desethylchloroquine in the rat. Toxicol Appl Pharmacol. 1967 May;10(3):501-13.",
+                "PMID": "6059665"
+            },
+            {
+                "citation": "multicenter collaboration group of Department of Science and Technology of Guangdong Province and Health Commission of Guangdong Province for chloroquine in the treatment of novel coronavirus pneumonia. [Expert consensus on chloroquine phosphate for the treatment of novel coronavirus pneumonia]. Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):185-188. doi: 10.3760/cma.j.issn.1001-0939.2020.03.009. Chinese.",
+                "PMID": "32164085"
+            },
+            {
+                "citation": "Shaw K. The 2003 SARS outbreak and its impact on infection control practices. Public Health. 2006 Jan;120(1):8-14. Epub 2005 Nov 16.",
+                "PMID": "16297415"
+            },
+            {
+                "citation": "Villegas L, McGready R, Htway M, Paw MK, Pimanpanarak M, Arunjerdja R, Viladpai-Nguen SJ, Greenwood B, White NJ, Nosten F. Chloroquine prophylaxis against vivax malaria in pregnancy: a randomized, double-blind, placebo-controlled trial. Trop Med Int Health. 2007 Feb;12(2):209-18.",
+                "PMID": "17300627"
+            },
+            {
+                "citation": "Vincent MJ, Bergeron E, Benjannet S, Erickson BR, Rollin PE, Ksiazek TG, Seidah NG, Nichol ST. Chloroquine is a potent inhibitor of SARS coronavirus infection and spread. Virol J. 2005 Aug 22;2:69.",
+                "PMID": "16115318"
+            },
+            {
+                "citation": "Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, Shi Z, Hu Z, Zhong W, Xiao G. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. 2020 Mar;30(3):269-271. doi: 10.1038/s41422-020-0282-0. Epub 2020 Feb 4.",
+                "PMID": "32020029"
+            },
+            {
+                "citation": "White NJ, Miller KD, Churchill FC, Berry C, Brown J, Williams SB, Greenwood BM. Chloroquine treatment of severe malaria in children. Pharmacokinetics, toxicity, and new dosage recommendations. N Engl J Med. 1988 Dec 8;319(23):1493-500.",
+                "PMID": "3054558"
+            },
+            {
+                "citation": "Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA. Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. N Engl J Med. 2012 Nov 8;367(19):1814-20. doi: 10.1056/NEJMoa1211721. Epub 2012 Oct 17. Erratum in: N Engl J Med. 2013 Jul 25;369(4):394.",
+                "PMID": "23075143"
+            },
+            {
+                "citation": "Zhao S, Lin Q, Ran J, Musa SS, Yang G, Wang W, Lou Y, Gao D, Yang L, He D, Wang MH. Preliminary estimation of the basic reproduction number of novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in the early phase of the outbreak. Int J Infect Dis. 2020 Mar;92:214-217. doi: 10.1016/j.ijid.2020.01.050. Epub 2020 Jan 30.",
+                "PMID": "32007643"
+            },
+            {
+                "citation": "Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.",
+                "PMID": "31978945"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 27, 2020",
+        "study_first_submitted_qc": "March 30, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "last_update_submitted": "March 30, 2020",
+        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "SARS-CoV-2",
+            "COVID-19",
+            "chloroquine"
+        ],
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Chloroquine",
+                "Chloroquine diphosphate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

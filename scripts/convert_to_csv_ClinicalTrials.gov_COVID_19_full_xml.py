@@ -4,11 +4,11 @@ import xmltodict, json
 DOWNLOAD_DIR = 'download'
 PROCESSED_DIR = 'data'
 
-def xml_to_csv(xml_file_path, json_file_path):
+def xml_to_json(xml_file_path, json_file_path):
     with open(xml_file_path) as xml_file_handler:
         o = xmltodict.parse(xml_file_handler.read())
         with open(json_file_path, "w") as json_file:
-            json_file.write(json.dumps(o))
+            json_file.write(json.dumps(o, indent=4))
 
 if __name__ == "__main__":
     dir_name_xml = 'ClinicalTrials.gov_COVID_19_full_xml'
@@ -24,4 +24,4 @@ if __name__ == "__main__":
     for file_path in xml_dir_path.iterdir():
         if file_path.is_file() and file_path.suffix == '.xml':
             file_name_json = file_path.stem + '.json'
-            xml_to_csv(file_path, json_dir_path.joinpath(file_name_json))
+            xml_to_json(file_path, json_dir_path.joinpath(file_name_json))

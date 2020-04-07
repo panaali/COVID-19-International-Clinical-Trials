@@ -1,1 +1,178 @@
-{"clinical_study": {"@rank": "234", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04320732"}, "id_info": {"org_study_id": "REK-124170", "nct_id": "NCT04320732"}, "brief_title": "Risk Factors for Community- and Workplace Transmission of COVID-19", "official_title": "Risk Factors for Community- and Workplace Transmission of COVID-19", "sponsors": {"lead_sponsor": {"agency": "Oslo University Hospital", "agency_class": "Other"}, "collaborator": {"agency": "Age Labs AS", "agency_class": "Other"}}, "source": "Oslo University Hospital", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The project is an epidemiological observational study based on an electronic questionnaire on\n      risk factors for COVID-19 in the community and healthcare setting."}, "detailed_description": {"textblock": "Summary The data collected will identify real-life risk factors for getting the COVID-19\n      diagnosis.\n\n      The Oslo University Hospital/University of Oslo web-based solution \"nettskjema\" will be used\n      to collect data and consent forms.\n\n      The impact of knowing the risk factors for COVID-19 is tremendous because it can enable\n      governments to conduct more targeted public health measurements than today to reduce the\n      spread of the virus.\n\n      Detailed description Research into an ongoing COVID-19 outbreak is difficult because patients\n      are isolated, and supplies of personal protective equipment (PPE) supplies are limited. The\n      risk of transmission to study personal is non-negligible even when PPE is available.\n\n      A study design based on an electronic questionnaire and consent from delivered from the Oslo\n      University Hospital/University of Oslo, GDPR (General Data Protection Regulation) compliant\n      \"TSD\" service has therefore been chosen.\n\n      The study will be a case-control study based on a combined electronic consent form and\n      questionnaire that the participants will fill in using a smartphone and electronic\n      identification.\n\n      The groups that will be included are:\n\n        -  Hospitalized and non-hospitalized patients/persons with COVID-19 at all stages of the\n           disease and after the disease\n\n        -  Hospitalized patients without COVID-19\n\n        -  Healthcare personal or other groups with an increased risk of COVID-19\n\n        -  Healthy volunteers\n\n      Participants may be followed with repeated questionnaires prospectively.\n\n      Biological samples Biological samples may hold crucial information about the susceptibility\n      to COVID-19 and for susceptibility to the progression of the disease. It is within the scope\n      of the study to analyze such samples from a limited number of participants which will be\n      asked to provide such samples or hospitalized patients that have surplus material. The\n      material will be analyzed with non-genetic methods most suitable to provide such information."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 27, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 20, 2030"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 27, 2022"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Case-Control", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Rate of COVID-19 infection", "time_frame": "1 year", "description": "Diagnosed with serology or direct viral detection"}, "number_of_groups": "5", "enrollment": {"@type": "Anticipated", "#text": "50000"}, "condition": "Coronavirus", "arm_group": [{"arm_group_label": "Individuals with COVID-19 infection", "description": "Confirmed by routine laboratory diagnosis. All types of COVID-19 disease from asymptomatic carriers to hospitalized patients can be included.\nOnly subjects >18 years old will be included in the study."}, {"arm_group_label": "Individuals tested for COVID-19 infection with negative test", "description": "Confirmed by routine laboratory diagnosis"}, {"arm_group_label": "Healthy individuals", "description": "Recruitet from the general population"}, {"arm_group_label": "Risk groups for COVID-19 exposure", "description": "Including, but not limited to healthcare workers."}, {"arm_group_label": "Patients admitted to hospital", "description": "Without COVID-19 infection."}], "intervention": {"intervention_type": "Behavioral", "intervention_name": "Observation of behavior and COVID-19 infection will be conducted.", "description": "No intervention, only prospective observation of behavior will be conducted by a questionnaire.", "arm_group_label": ["Healthy individuals", "Individuals tested for COVID-19 infection with negative test", "Individuals with COVID-19 infection", "Patients admitted to hospital", "Risk groups for COVID-19 exposure"]}, "biospec_retention": "Samples With DNA", "biospec_descr": {"textblock": "Blood and upper repiratory samples will be collected from some participants."}, "eligibility": {"study_pop": {"textblock": "The study will be a combined retrospective and prospective case-control study based on a\n        combined electronic consent form and questionnaire that the study groups will fill in using\n        a smartphone and electronic identification.\n\n        The groups that will be included are:\n\n          -  Hospitalized and non-hospitalized patients/persons with COVID-19 at all stages of the\n             disease and after the disease\n\n          -  Hospitalized patients without COVID-19\n\n          -  Healthcare personal or other groups with an increased risk of COVID-19\n\n          -  Healthy volunteers\n\n        Probability sampling will be conducted, but not solely."}, "sampling_method": "Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  Norwegian adult\n\n        Exclusion Criteria:\n\n          -  Unable to consent"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_contact": {"last_name": "Arne S\u00f8raas, MD, PhD", "phone": "+4790652904", "email": "Arne.Vasli.Lund.Soraas@rr-research.no"}, "overall_contact_backup": {"last_name": "John Arne Dahl, PhD", "email": "j.a.dahl@medisin.uio.no"}, "location": {"facility": {"name": "Oslo University Hospital", "address": {"city": "Oslo", "zip": "0424", "country": "Norway"}}, "status": "Recruiting", "contact": {"last_name": "Arne S\u00f8raas, PhD", "phone": "+4790652904", "email": "Arne.Vasli.Lund.Soraas@rr-research.no"}, "contact_backup": {"last_name": "John A Dahl, PhD", "phone": "+4741456596", "email": "j.a.dahl@medisin.uio.no"}}, "location_countries": {"country": "Norway"}, "verification_date": "March 2020", "study_first_submitted": "March 23, 2020", "study_first_submitted_qc": "March 23, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 25, 2020"}, "last_update_submitted": "March 27, 2020", "last_update_submitted_qc": "March 27, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Oslo University Hospital", "investigator_full_name": "Arne Vasli Lund S\u00f8raas", "investigator_title": "Principal Investigator, MD, PhD"}, "condition_browse": {"mesh_term": "Coronavirus Infections"}, "patient_data": {"sharing_ipd": "No", "ipd_description": "European GDPR regulations severely limits IPD, but the study will share data to the largest extent possible within GDPR."}}}
+{
+    "clinical_study": {
+        "@rank": "234",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04320732"
+        },
+        "id_info": {
+            "org_study_id": "REK-124170",
+            "nct_id": "NCT04320732"
+        },
+        "brief_title": "Risk Factors for Community- and Workplace Transmission of COVID-19",
+        "official_title": "Risk Factors for Community- and Workplace Transmission of COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Oslo University Hospital",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Age Labs AS",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Oslo University Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The project is an epidemiological observational study based on an electronic questionnaire on\n      risk factors for COVID-19 in the community and healthcare setting."
+        },
+        "detailed_description": {
+            "textblock": "Summary The data collected will identify real-life risk factors for getting the COVID-19\n      diagnosis.\n\n      The Oslo University Hospital/University of Oslo web-based solution \"nettskjema\" will be used\n      to collect data and consent forms.\n\n      The impact of knowing the risk factors for COVID-19 is tremendous because it can enable\n      governments to conduct more targeted public health measurements than today to reduce the\n      spread of the virus.\n\n      Detailed description Research into an ongoing COVID-19 outbreak is difficult because patients\n      are isolated, and supplies of personal protective equipment (PPE) supplies are limited. The\n      risk of transmission to study personal is non-negligible even when PPE is available.\n\n      A study design based on an electronic questionnaire and consent from delivered from the Oslo\n      University Hospital/University of Oslo, GDPR (General Data Protection Regulation) compliant\n      \"TSD\" service has therefore been chosen.\n\n      The study will be a case-control study based on a combined electronic consent form and\n      questionnaire that the participants will fill in using a smartphone and electronic\n      identification.\n\n      The groups that will be included are:\n\n        -  Hospitalized and non-hospitalized patients/persons with COVID-19 at all stages of the\n           disease and after the disease\n\n        -  Hospitalized patients without COVID-19\n\n        -  Healthcare personal or other groups with an increased risk of COVID-19\n\n        -  Healthy volunteers\n\n      Participants may be followed with repeated questionnaires prospectively.\n\n      Biological samples Biological samples may hold crucial information about the susceptibility\n      to COVID-19 and for susceptibility to the progression of the disease. It is within the scope\n      of the study to analyze such samples from a limited number of participants which will be\n      asked to provide such samples or hospitalized patients that have surplus material. The\n      material will be analyzed with non-genetic methods most suitable to provide such information."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 20, 2030"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 27, 2022"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Rate of COVID-19 infection",
+            "time_frame": "1 year",
+            "description": "Diagnosed with serology or direct viral detection"
+        },
+        "number_of_groups": "5",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50000"
+        },
+        "condition": "Coronavirus",
+        "arm_group": [
+            {
+                "arm_group_label": "Individuals with COVID-19 infection",
+                "description": "Confirmed by routine laboratory diagnosis. All types of COVID-19 disease from asymptomatic carriers to hospitalized patients can be included.\nOnly subjects >18 years old will be included in the study."
+            },
+            {
+                "arm_group_label": "Individuals tested for COVID-19 infection with negative test",
+                "description": "Confirmed by routine laboratory diagnosis"
+            },
+            {
+                "arm_group_label": "Healthy individuals",
+                "description": "Recruitet from the general population"
+            },
+            {
+                "arm_group_label": "Risk groups for COVID-19 exposure",
+                "description": "Including, but not limited to healthcare workers."
+            },
+            {
+                "arm_group_label": "Patients admitted to hospital",
+                "description": "Without COVID-19 infection."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Behavioral",
+            "intervention_name": "Observation of behavior and COVID-19 infection will be conducted.",
+            "description": "No intervention, only prospective observation of behavior will be conducted by a questionnaire.",
+            "arm_group_label": [
+                "Healthy individuals",
+                "Individuals tested for COVID-19 infection with negative test",
+                "Individuals with COVID-19 infection",
+                "Patients admitted to hospital",
+                "Risk groups for COVID-19 exposure"
+            ]
+        },
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "Blood and upper repiratory samples will be collected from some participants."
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "The study will be a combined retrospective and prospective case-control study based on a\n        combined electronic consent form and questionnaire that the study groups will fill in using\n        a smartphone and electronic identification.\n\n        The groups that will be included are:\n\n          -  Hospitalized and non-hospitalized patients/persons with COVID-19 at all stages of the\n             disease and after the disease\n\n          -  Hospitalized patients without COVID-19\n\n          -  Healthcare personal or other groups with an increased risk of COVID-19\n\n          -  Healthy volunteers\n\n        Probability sampling will be conducted, but not solely."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Norwegian adult\n\n        Exclusion Criteria:\n\n          -  Unable to consent"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Arne S\u00f8raas, MD, PhD",
+            "phone": "+4790652904",
+            "email": "Arne.Vasli.Lund.Soraas@rr-research.no"
+        },
+        "overall_contact_backup": {
+            "last_name": "John Arne Dahl, PhD",
+            "email": "j.a.dahl@medisin.uio.no"
+        },
+        "location": {
+            "facility": {
+                "name": "Oslo University Hospital",
+                "address": {
+                    "city": "Oslo",
+                    "zip": "0424",
+                    "country": "Norway"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Arne S\u00f8raas, PhD",
+                "phone": "+4790652904",
+                "email": "Arne.Vasli.Lund.Soraas@rr-research.no"
+            },
+            "contact_backup": {
+                "last_name": "John A Dahl, PhD",
+                "phone": "+4741456596",
+                "email": "j.a.dahl@medisin.uio.no"
+            }
+        },
+        "location_countries": {
+            "country": "Norway"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 23, 2020",
+        "study_first_submitted_qc": "March 23, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "last_update_submitted": "March 27, 2020",
+        "last_update_submitted_qc": "March 27, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Oslo University Hospital",
+            "investigator_full_name": "Arne Vasli Lund S\u00f8raas",
+            "investigator_title": "Principal Investigator, MD, PhD"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "European GDPR regulations severely limits IPD, but the study will share data to the largest extent possible within GDPR."
+        }
+    }
+}

@@ -1,1 +1,204 @@
-{"clinical_study": {"@rank": "243", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04320238"}, "id_info": {"org_study_id": "Interferon_prophylaxis", "nct_id": "NCT04320238"}, "brief_title": "Experimental Trial of rhIFN\u03b1 Nasal Drops to Prevent 2019-nCOV in Medical Staff", "official_title": "An Clinic Trial of Recombinant Human Interferon Alpha Nasal Drops to Prevent Coronavirus Disease 2019 in Medical Staff in Epidemic Area", "sponsors": {"lead_sponsor": {"agency": "Shanghai Jiao Tong University School of Medicine", "agency_class": "Other"}}, "source": "Shanghai Jiao Tong University School of Medicine", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The investigators plan to carry out an experimental study on the preventive effect of\n      recombinant human interferon alpha nasal drops on the infection of 2019 new coronavirus in\n      medical staff."}, "detailed_description": {"textblock": "The investigators plan to carry out an experimental study enrolling more than 2000 medical\n      staff and divide participants into low-risk group and high-risk group according to whether\n      they can directly exposed to 2019-nCOV infected patients. In the low-risk group, participants\n      will be given recombinant human interferon alpha-1b nasal drops (2-3 drops/nostril/ time, 4\n      times/ day), and in the high-risk group will be given preventive intervention with interferon\n      nasal drops and thymosin-\u03b1 (thymosin was injected subcutaneously once / week), and the\n      intervention time is 28 days."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "January 21, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 2020"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Non-Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Prevention", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "new-onset COVID-19", "time_frame": "From date of randomization until the diagnosis of COVID-19, assessed up to 6 weeks.", "description": "new-onset coronavirus disease-2019"}, "secondary_outcome": [{"measure": "Number of Participants with coronavirus related symptoms", "time_frame": "during 28-day intervention.", "description": "new-onset fever or respiratory symptoms but with negative pulmonary images evidence."}, {"measure": "Number of Participants with adverse effect", "time_frame": "during 28-day intervention.", "description": "adverse effect of interferon \u03b1"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "2944"}, "condition": "2019 Novel Coronavirus Infection", "arm_group": [{"arm_group_label": "low-risk group", "arm_group_type": "Experimental", "description": "medical staff work in non-isolated general wards or laboratories, not directly contact with COVID-19 patients."}, {"arm_group_label": "high-risk group", "arm_group_type": "Experimental", "description": "doctors and nurses work in isolated ward, directly contact with COVID-19 patients."}], "intervention": [{"intervention_type": "Drug", "intervention_name": "recombinant human interferon Alpha-1b", "description": "recombinant human interferon Alpha-1b nasal drops, 2-3 drops for each nostril per time, 4 times per day.", "arm_group_label": ["high-risk group", "low-risk group"], "other_name": "interferon \u03b1"}, {"intervention_type": "Drug", "intervention_name": "thymosin alpha 1", "description": "thymosin alpha 1 subcutaneous injection 1 time per week.", "arm_group_label": "high-risk group", "other_name": "thymosin \u03b1"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Formally serving medical staff in Taihe Hospital;\n\n        Exclusion Criteria:\n\n          -  pregnant women;\n\n          -  severe chronic diseases who are unable to participate in daily routine work;\n\n          -  fever (temperature\u226537.3 \u00b0 ) and / or respiratory symptoms."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "65 Years", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_contact": {"last_name": "Zhongji Meng", "phone": "18971905757", "email": "zhongji.meng@163.com"}, "location": {"facility": {"name": "Taihe Hospital", "address": {"city": "Shiyan", "state": "Hubei", "country": "China"}}, "status": "Recruiting", "contact": {"last_name": "Zhongji Meng", "phone": "+86-18971905757", "email": "zhongji.meng@163.com"}}, "location_countries": {"country": "China"}, "reference": [{"citation": "Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KSM, Lau EHY, Wong JY, Xing X, Xiang N, Wu Y, Li C, Chen Q, Li D, Liu T, Zhao J, Li M, Tu W, Chen C, Jin L, Yang R, Wang Q, Zhou S, Wang R, Liu H, Luo Y, Liu Y, Shao G, Li H, Tao Z, Yang Y, Deng Z, Liu B, Ma Z, Zhang Y, Shi G, Lam TTY, Wu JTK, Gao GF, Cowling BJ, Yang B, Leung GM, Feng Z. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Jan 29. doi: 10.1056/NEJMoa2001316. [Epub ahead of print]", "PMID": "31995857"}, {"citation": "Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. [The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi. 2020 Feb 17;41(2):145-151. doi: 10.3760/cma.j.issn.0254-6450.2020.02.003. [Epub ahead of print] Chinese.", "PMID": "32064853"}, {"citation": "Xiaolu T, Changcheng W, Xiang L, et al. On the origin and continuing evolution of SARS-CoV-2. National Science Review. nwaa036."}, {"citation": "Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020 Feb 26:102433. doi: 10.1016/j.jaut.2020.102433. [Epub ahead of print] Review.", "PMID": "32113704"}, {"citation": "Thompson R. Pandemic potential of 2019-nCoV. Lancet Infect Dis. 2020 Mar;20(3):280. doi: 10.1016/S1473-3099(20)30068-2. Epub 2020 Feb 7.", "PMID": "32043978"}], "verification_date": "March 2020", "study_first_submitted": "March 21, 2020", "study_first_submitted_qc": "March 21, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 24, 2020"}, "last_update_submitted": "March 30, 2020", "last_update_submitted_qc": "March 30, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Shanghai Jiao Tong University School of Medicine", "investigator_full_name": "Zhongji Meng", "investigator_title": "Chief of Infectious disease department, Principal Investigator, Clinical Professor"}, "keyword": ["rhINF-\u03b1", "2019-nCOV", "prophylaxis"], "condition_browse": {"mesh_term": ["Coronavirus Infections", "Severe Acute Respiratory Syndrome"]}, "intervention_browse": {"mesh_term": ["Interferons", "Interferon-alpha", "Thymalfasin"]}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "243",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04320238"
+        },
+        "id_info": {
+            "org_study_id": "Interferon_prophylaxis",
+            "nct_id": "NCT04320238"
+        },
+        "brief_title": "Experimental Trial of rhIFN\u03b1 Nasal Drops to Prevent 2019-nCOV in Medical Staff",
+        "official_title": "An Clinic Trial of Recombinant Human Interferon Alpha Nasal Drops to Prevent Coronavirus Disease 2019 in Medical Staff in Epidemic Area",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Shanghai Jiao Tong University School of Medicine",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Shanghai Jiao Tong University School of Medicine",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The investigators plan to carry out an experimental study on the preventive effect of\n      recombinant human interferon alpha nasal drops on the infection of 2019 new coronavirus in\n      medical staff."
+        },
+        "detailed_description": {
+            "textblock": "The investigators plan to carry out an experimental study enrolling more than 2000 medical\n      staff and divide participants into low-risk group and high-risk group according to whether\n      they can directly exposed to 2019-nCOV infected patients. In the low-risk group, participants\n      will be given recombinant human interferon alpha-1b nasal drops (2-3 drops/nostril/ time, 4\n      times/ day), and in the high-risk group will be given preventive intervention with interferon\n      nasal drops and thymosin-\u03b1 (thymosin was injected subcutaneously once / week), and the\n      intervention time is 28 days."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "January 21, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "new-onset COVID-19",
+            "time_frame": "From date of randomization until the diagnosis of COVID-19, assessed up to 6 weeks.",
+            "description": "new-onset coronavirus disease-2019"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of Participants with coronavirus related symptoms",
+                "time_frame": "during 28-day intervention.",
+                "description": "new-onset fever or respiratory symptoms but with negative pulmonary images evidence."
+            },
+            {
+                "measure": "Number of Participants with adverse effect",
+                "time_frame": "during 28-day intervention.",
+                "description": "adverse effect of interferon \u03b1"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "2944"
+        },
+        "condition": "2019 Novel Coronavirus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "low-risk group",
+                "arm_group_type": "Experimental",
+                "description": "medical staff work in non-isolated general wards or laboratories, not directly contact with COVID-19 patients."
+            },
+            {
+                "arm_group_label": "high-risk group",
+                "arm_group_type": "Experimental",
+                "description": "doctors and nurses work in isolated ward, directly contact with COVID-19 patients."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "recombinant human interferon Alpha-1b",
+                "description": "recombinant human interferon Alpha-1b nasal drops, 2-3 drops for each nostril per time, 4 times per day.",
+                "arm_group_label": [
+                    "high-risk group",
+                    "low-risk group"
+                ],
+                "other_name": "interferon \u03b1"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "thymosin alpha 1",
+                "description": "thymosin alpha 1 subcutaneous injection 1 time per week.",
+                "arm_group_label": "high-risk group",
+                "other_name": "thymosin \u03b1"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Formally serving medical staff in Taihe Hospital;\n\n        Exclusion Criteria:\n\n          -  pregnant women;\n\n          -  severe chronic diseases who are unable to participate in daily routine work;\n\n          -  fever (temperature\u226537.3 \u00b0 ) and / or respiratory symptoms."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "65 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Zhongji Meng",
+            "phone": "18971905757",
+            "email": "zhongji.meng@163.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Taihe Hospital",
+                "address": {
+                    "city": "Shiyan",
+                    "state": "Hubei",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Zhongji Meng",
+                "phone": "+86-18971905757",
+                "email": "zhongji.meng@163.com"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "reference": [
+            {
+                "citation": "Li Q, Guan X, Wu P, Wang X, Zhou L, Tong Y, Ren R, Leung KSM, Lau EHY, Wong JY, Xing X, Xiang N, Wu Y, Li C, Chen Q, Li D, Liu T, Zhao J, Li M, Tu W, Chen C, Jin L, Yang R, Wang Q, Zhou S, Wang R, Liu H, Luo Y, Liu Y, Shao G, Li H, Tao Z, Yang Y, Deng Z, Liu B, Ma Z, Zhang Y, Shi G, Lam TTY, Wu JTK, Gao GF, Cowling BJ, Yang B, Leung GM, Feng Z. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus-Infected Pneumonia. N Engl J Med. 2020 Jan 29. doi: 10.1056/NEJMoa2001316. [Epub ahead of print]",
+                "PMID": "31995857"
+            },
+            {
+                "citation": "Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. [The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi. 2020 Feb 17;41(2):145-151. doi: 10.3760/cma.j.issn.0254-6450.2020.02.003. [Epub ahead of print] Chinese.",
+                "PMID": "32064853"
+            },
+            {
+                "citation": "Xiaolu T, Changcheng W, Xiang L, et al. On the origin and continuing evolution of SARS-CoV-2. National Science Review. nwaa036."
+            },
+            {
+                "citation": "Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020 Feb 26:102433. doi: 10.1016/j.jaut.2020.102433. [Epub ahead of print] Review.",
+                "PMID": "32113704"
+            },
+            {
+                "citation": "Thompson R. Pandemic potential of 2019-nCoV. Lancet Infect Dis. 2020 Mar;20(3):280. doi: 10.1016/S1473-3099(20)30068-2. Epub 2020 Feb 7.",
+                "PMID": "32043978"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 21, 2020",
+        "study_first_submitted_qc": "March 21, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "last_update_submitted": "March 30, 2020",
+        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Shanghai Jiao Tong University School of Medicine",
+            "investigator_full_name": "Zhongji Meng",
+            "investigator_title": "Chief of Infectious disease department, Principal Investigator, Clinical Professor"
+        },
+        "keyword": [
+            "rhINF-\u03b1",
+            "2019-nCOV",
+            "prophylaxis"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Interferons",
+                "Interferon-alpha",
+                "Thymalfasin"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

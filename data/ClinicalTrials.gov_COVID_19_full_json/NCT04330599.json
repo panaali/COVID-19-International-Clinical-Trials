@@ -1,1 +1,168 @@
-{"clinical_study": {"@rank": "128", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04330599"}, "id_info": {"org_study_id": "COVIDENCE", "nct_id": "NCT04330599"}, "brief_title": "Longitudinal Population-based Observational Study of Coronavirus Disease in the UK Population", "acronym": "COVIDENCE", "official_title": "Longitudinal Population-based Observational Study of Coronavirus Disease in the UK Population", "sponsors": {"lead_sponsor": {"agency": "Queen Mary University of London", "agency_class": "Other"}, "collaborator": [{"agency": "King's College London", "agency_class": "Other"}, {"agency": "London School of Hygiene and Tropical Medicine", "agency_class": "Other"}]}, "source": "Queen Mary University of London", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "COVIDENCE is a population-based observational longitudinal study that has the following\n      objectives:\n\n        1. To determine risk factors for incident COVID-19 and for adverse outcomes of COVID-19 in\n           the UK population;\n\n        2. To characterise the natural history of COVID-19 in the UK population;\n\n        3. To evaluate the impact of COVID-19 on the mental and economic well-being of the UK\n           population; and\n\n        4. To establish a platform for the future conduct of randomised controlled trials of\n           interventions to prevent COVID-19 in the UK population."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 2, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "April 1, 2025"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 1, 2025"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Incidence of suspected, probable or confirmed COVID-19", "time_frame": "5 years"}, "secondary_outcome": [{"measure": "Incidence of confirmed COVID-19", "time_frame": "5 years"}, {"measure": "Incidence of COVID-19 requiring hospitalisation", "time_frame": "5 years"}, {"measure": "Incidence of COVID-19 requiring ventilatory support", "time_frame": "5 years"}, {"measure": "Incidence of fatal COVID-19", "time_frame": "5 years"}, {"measure": "Symptom duration per COVID-19 episode", "time_frame": "5 years"}, {"measure": "Symptom severity per COVID-19 episode", "time_frame": "5 years"}, {"measure": "Incidence of seroconversion to SARS-CoV-2", "time_frame": "5 years"}, {"measure": "Incidence of recurrent COVID-19", "time_frame": "5 years"}, {"measure": "EQ-5D-3L health-related quality of life score", "time_frame": "5 years"}, {"measure": "Health care costs associated with incident COVID-19", "time_frame": "5 years"}, {"measure": "Impact of COVID-19 on participants' financial status", "time_frame": "5 years"}, {"measure": "Incidence of physical complications of COVID-19", "time_frame": "5 years"}, {"measure": "Impact of COVID-19 on participants' mental well-being", "time_frame": "5 years"}], "enrollment": {"@type": "Anticipated", "#text": "12000"}, "condition": "COVID-19", "eligibility": {"study_pop": {"textblock": "UK residents aged 16 years or more"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  UK resident\n\n          -  Age \u226516 years\n\n        Exclusion Criteria: none"}, "gender": "All", "minimum_age": "16 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_contact": {"last_name": "Adrian Martineau, PhD", "phone": "+442078822551", "email": "a.martineau@qmul.ac.uk"}, "overall_contact_backup": {"last_name": "Hayley Holt, MSc", "email": "h.holt@qmul.ac.uk"}, "verification_date": "March 2020", "study_first_submitted": "March 31, 2020", "study_first_submitted_qc": "March 31, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Coronavirus Infections"}, "patient_data": {"sharing_ipd": "Yes"}}}
+{
+    "clinical_study": {
+        "@rank": "128",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04330599"
+        },
+        "id_info": {
+            "org_study_id": "COVIDENCE",
+            "nct_id": "NCT04330599"
+        },
+        "brief_title": "Longitudinal Population-based Observational Study of Coronavirus Disease in the UK Population",
+        "acronym": "COVIDENCE",
+        "official_title": "Longitudinal Population-based Observational Study of Coronavirus Disease in the UK Population",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Queen Mary University of London",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "King's College London",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "London School of Hygiene and Tropical Medicine",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Queen Mary University of London",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "COVIDENCE is a population-based observational longitudinal study that has the following\n      objectives:\n\n        1. To determine risk factors for incident COVID-19 and for adverse outcomes of COVID-19 in\n           the UK population;\n\n        2. To characterise the natural history of COVID-19 in the UK population;\n\n        3. To evaluate the impact of COVID-19 on the mental and economic well-being of the UK\n           population; and\n\n        4. To establish a platform for the future conduct of randomised controlled trials of\n           interventions to prevent COVID-19 in the UK population."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2025"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2025"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Incidence of suspected, probable or confirmed COVID-19",
+            "time_frame": "5 years"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of confirmed COVID-19",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Incidence of COVID-19 requiring hospitalisation",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Incidence of COVID-19 requiring ventilatory support",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Incidence of fatal COVID-19",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Symptom duration per COVID-19 episode",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Symptom severity per COVID-19 episode",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Incidence of seroconversion to SARS-CoV-2",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Incidence of recurrent COVID-19",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "EQ-5D-3L health-related quality of life score",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Health care costs associated with incident COVID-19",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Impact of COVID-19 on participants' financial status",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Incidence of physical complications of COVID-19",
+                "time_frame": "5 years"
+            },
+            {
+                "measure": "Impact of COVID-19 on participants' mental well-being",
+                "time_frame": "5 years"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "12000"
+        },
+        "condition": "COVID-19",
+        "eligibility": {
+            "study_pop": {
+                "textblock": "UK residents aged 16 years or more"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  UK resident\n\n          -  Age \u226516 years\n\n        Exclusion Criteria: none"
+            },
+            "gender": "All",
+            "minimum_age": "16 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Adrian Martineau, PhD",
+            "phone": "+442078822551",
+            "email": "a.martineau@qmul.ac.uk"
+        },
+        "overall_contact_backup": {
+            "last_name": "Hayley Holt, MSc",
+            "email": "h.holt@qmul.ac.uk"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "March 31, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes"
+        }
+    }
+}

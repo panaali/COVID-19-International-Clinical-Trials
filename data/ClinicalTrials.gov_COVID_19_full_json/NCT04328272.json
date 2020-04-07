@@ -1,1 +1,208 @@
-{"clinical_study": {"@rank": "90", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04328272"}, "id_info": {"org_study_id": "Ath/ct101/22/3", "nct_id": "NCT04328272"}, "brief_title": "Effectiveness of Hydroxychloroquine in Covid-19 Patients", "acronym": "Covid", "official_title": "Effectiveness of Hydroxychloroquine in Covid-19 Patients: A Single Centred Single-blind RCT Study", "sponsors": {"lead_sponsor": {"agency": "Prof. Dr. Umar Farooq", "agency_class": "Other"}, "collaborator": {"agency": "Ayub Medical College, Abbottabad", "agency_class": "Other"}}, "source": "Ayub Medical College, Abbottabad", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "To find the effectiveness of hydroxychloroquine alone and adjuvant with azithromycin in mild\n      to severe Covide-19 pneumonia patients admitted to Coronavirus cell/ward of Ayub Teaching\n      hospital, Abbottabad Pakistan. A single centered, single-blind randomized control trial\n      study."}, "detailed_description": {"textblock": "Coronavirus (SARS-nCoV-2) is a member family coronaviridae, order Nidovirales. It is\n      single-stranded, positive sense enveloped RNA discovered in early 1960s. Coronavirus pandemic\n      put a lot of lives at stake. By 19 March 2020, a total of 219238 confirmed cases with 8967\n      being dead and 85742 recovered cases have been reported. Worldwide, in 9 days, the confirmed\n      death cases have been doubled. The average death rate of Covid-19 per day is approximately 88\n      patients as of the given date. Unlike, SARS-CoV and MERS-CoV, the disease progression and\n      mortality rate of Covid-19 is startling. The pre-pathogenic course of novel Covid-19 is yet\n      to be determined, so the risk factors, clinical picture and medical intervention too. Only\n      supportive therapy is being practised. Yet many trials of antimalarial drug, chloroquine and\n      quinolone is currently taking place worldwide. According to Cortegiani A, 23 ongoing trials\n      from China have been registered. Clinical experience from recent Wuhan epidemic came up with\n      promising results of chloroquine and hydroxychloroquine in Covid-19 positive patients. Some\n      in-vitro studies suggest that these immunomodulant drugs can interfere with SARS-nCov-2\n      replication. These are federal drug authority approved medicine for malaria. Yet their\n      effectiveness and safety in treating Covid-19 pneumonia is a question mark."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 28, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 28, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 28, 2020"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "three parallel groups randomly asserted for intervention", "primary_purpose": "Treatment", "masking": "Single (Participant)", "masking_description": "Single blinded:\nAs, the disease is novel and putting the lives at risk is unethical. therefore, It is important for investigator to know the group and carry close regular monitoring of participants so that proper further intervention can be made when required."}, "primary_outcome": {"measure": "National Early Warning Score equal to zero", "time_frame": "3-5 Days", "description": "National Early Warning Score equal to zero is when patients recovered clinically. Respiration 14-20breaths/minute, oxygen saturation percent greater than 96, (without breathing aid), systolic blood pressure 111-180 mmhg, pulse 60-90 beats.minute, alert consciousness and 35.1-38 degree Celsius body temperature."}, "secondary_outcome": [{"measure": "C-reactive proteins", "time_frame": "3-5 Days", "description": "below 3.0 miligram/Liter of blood sample"}, {"measure": "Lymphocyte Count", "time_frame": "3-5days", "description": "1000 -4800 lymphocytes in 1 microliter of blood"}, {"measure": "d-dimers", "time_frame": "3-5days", "description": "less than 250 ng/mL, or less than 0.4 mcg/mL of blood sample"}], "number_of_arms": "3", "enrollment": {"@type": "Anticipated", "#text": "75"}, "condition": "COVID19", "arm_group": [{"arm_group_label": "Hydroxychloroquine", "arm_group_type": "Experimental", "description": "tablet hydroxychloroquine (HCQ). Day-1 (initial) 1st dose, 3 tablets (200 mg per tablet), 2nd dose after 6 hours, 3 tablets (200 mg per tablet) per oral. From day 2 to 7 (maintenance dose), 2 tablets twice a day."}, {"arm_group_label": "Azithromycin", "arm_group_type": "Active Comparator", "description": "Tablet azithromycin (AZC) 500 mg orally as a single dose on day 1, followed by 250 mg orally once a day on days 2 to 7."}, {"arm_group_label": "Suger Tablets", "arm_group_type": "Placebo Comparator", "description": "Placebo (sugar tablet) twice daily for 7 days"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Hydroxychloroquine 200 Mg Oral Tablet", "description": "Hydroxychloroquine administered orally with water", "arm_group_label": ["Azithromycin", "Hydroxychloroquine"], "other_name": "Plaquenil"}, {"intervention_type": "Drug", "intervention_name": "Azithromycin 500Mg Oral Tablet", "description": "Azithromycin administered orally with water", "arm_group_label": "Azithromycin", "other_name": "Zetro"}, {"intervention_type": "Dietary Supplement", "intervention_name": "Glucose tablets", "description": "administered orally with water", "arm_group_label": "Suger Tablets", "other_name": "Canderel"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Confirmed cases of Covid-19 (all by RT-PCR from same laboratory)\n\n          -  Mild to severe clinical presentation (identified at the time of admission to ward by\n             National Early Warning Score NEWS-2; mild 0-4; severe 5-6)\n\n        Exclusion Criteria:\n\n          -  Covid-19 critically ill patients (NEWS-2 score <7),\n\n          -  Unable to take oral medication,\n\n          -  Immunocompromised,\n\n          -  Creatinine clearance (CCL) < 30 ml/min,\n\n          -  Aspartate transaminase (AST) or alanine transaminase (ALT) > 5 times Upper limit of\n             normal (ULN),\n\n          -  d-dimer > 2microgram per liter, or\n\n          -  Known comorbid condition like hypertension, cardiovascular disease, diabetes mellites,\n             asthma, COPD, cerebrovascular disorder, malignancy of any type, pregnancy,\n\n          -  BMI less than 18\n\n          -  Smoking history (one pack per day) for past six months"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "50 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Umar Farooq, PhD", "role": "Principal Investigator", "affiliation": "Khyber Medical University Peshawer"}, "overall_contact": {"last_name": "Umar Farooq, PhD", "phone": "00923219111681", "email": "dean@ayubmed.edu.pk"}, "overall_contact_backup": {"last_name": "Muhammad J Khan, MBBS", "phone": "00923444566444", "email": "junaidkhan@ayubmed.edu.pk"}, "location": {"facility": {"name": "Ayub Teaching Institution", "address": {"city": "Abbott\u0101b\u0101d", "state": "K.p.k", "zip": "00532", "country": "Pakistan"}}, "contact": {"last_name": "Umer Farooq, PhD", "phone": "00929929311100", "email": "dean@ayubmed.edu.pk"}}, "location_countries": {"country": "Pakistan"}, "verification_date": "March 2020", "study_first_submitted": "March 25, 2020", "study_first_submitted_qc": "March 27, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Ayub Medical College, Abbottabad", "investigator_full_name": "Prof. Dr. Umar Farooq", "investigator_title": "Dean & Chief Executive Officer"}, "keyword": ["covid 19", "treatment"], "intervention_browse": {"mesh_term": "Hydroxychloroquine"}, "patient_data": {"sharing_ipd": "Undecided", "ipd_description": "as each individual will have his/her own coded file. the required data from each will be extracted and will be made available in soft copies"}}}
+{
+    "clinical_study": {
+        "@rank": "90",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04328272"
+        },
+        "id_info": {
+            "org_study_id": "Ath/ct101/22/3",
+            "nct_id": "NCT04328272"
+        },
+        "brief_title": "Effectiveness of Hydroxychloroquine in Covid-19 Patients",
+        "acronym": "Covid",
+        "official_title": "Effectiveness of Hydroxychloroquine in Covid-19 Patients: A Single Centred Single-blind RCT Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Prof. Dr. Umar Farooq",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Ayub Medical College, Abbottabad",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Ayub Medical College, Abbottabad",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "To find the effectiveness of hydroxychloroquine alone and adjuvant with azithromycin in mild\n      to severe Covide-19 pneumonia patients admitted to Coronavirus cell/ward of Ayub Teaching\n      hospital, Abbottabad Pakistan. A single centered, single-blind randomized control trial\n      study."
+        },
+        "detailed_description": {
+            "textblock": "Coronavirus (SARS-nCoV-2) is a member family coronaviridae, order Nidovirales. It is\n      single-stranded, positive sense enveloped RNA discovered in early 1960s. Coronavirus pandemic\n      put a lot of lives at stake. By 19 March 2020, a total of 219238 confirmed cases with 8967\n      being dead and 85742 recovered cases have been reported. Worldwide, in 9 days, the confirmed\n      death cases have been doubled. The average death rate of Covid-19 per day is approximately 88\n      patients as of the given date. Unlike, SARS-CoV and MERS-CoV, the disease progression and\n      mortality rate of Covid-19 is startling. The pre-pathogenic course of novel Covid-19 is yet\n      to be determined, so the risk factors, clinical picture and medical intervention too. Only\n      supportive therapy is being practised. Yet many trials of antimalarial drug, chloroquine and\n      quinolone is currently taking place worldwide. According to Cortegiani A, 23 ongoing trials\n      from China have been registered. Clinical experience from recent Wuhan epidemic came up with\n      promising results of chloroquine and hydroxychloroquine in Covid-19 positive patients. Some\n      in-vitro studies suggest that these immunomodulant drugs can interfere with SARS-nCov-2\n      replication. These are federal drug authority approved medicine for malaria. Yet their\n      effectiveness and safety in treating Covid-19 pneumonia is a question mark."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 28, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 28, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 28, 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "three parallel groups randomly asserted for intervention",
+            "primary_purpose": "Treatment",
+            "masking": "Single (Participant)",
+            "masking_description": "Single blinded:\nAs, the disease is novel and putting the lives at risk is unethical. therefore, It is important for investigator to know the group and carry close regular monitoring of participants so that proper further intervention can be made when required."
+        },
+        "primary_outcome": {
+            "measure": "National Early Warning Score equal to zero",
+            "time_frame": "3-5 Days",
+            "description": "National Early Warning Score equal to zero is when patients recovered clinically. Respiration 14-20breaths/minute, oxygen saturation percent greater than 96, (without breathing aid), systolic blood pressure 111-180 mmhg, pulse 60-90 beats.minute, alert consciousness and 35.1-38 degree Celsius body temperature."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "C-reactive proteins",
+                "time_frame": "3-5 Days",
+                "description": "below 3.0 miligram/Liter of blood sample"
+            },
+            {
+                "measure": "Lymphocyte Count",
+                "time_frame": "3-5days",
+                "description": "1000 -4800 lymphocytes in 1 microliter of blood"
+            },
+            {
+                "measure": "d-dimers",
+                "time_frame": "3-5days",
+                "description": "less than 250 ng/mL, or less than 0.4 mcg/mL of blood sample"
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "75"
+        },
+        "condition": "COVID19",
+        "arm_group": [
+            {
+                "arm_group_label": "Hydroxychloroquine",
+                "arm_group_type": "Experimental",
+                "description": "tablet hydroxychloroquine (HCQ). Day-1 (initial) 1st dose, 3 tablets (200 mg per tablet), 2nd dose after 6 hours, 3 tablets (200 mg per tablet) per oral. From day 2 to 7 (maintenance dose), 2 tablets twice a day."
+            },
+            {
+                "arm_group_label": "Azithromycin",
+                "arm_group_type": "Active Comparator",
+                "description": "Tablet azithromycin (AZC) 500 mg orally as a single dose on day 1, followed by 250 mg orally once a day on days 2 to 7."
+            },
+            {
+                "arm_group_label": "Suger Tablets",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo (sugar tablet) twice daily for 7 days"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine 200 Mg Oral Tablet",
+                "description": "Hydroxychloroquine administered orally with water",
+                "arm_group_label": [
+                    "Azithromycin",
+                    "Hydroxychloroquine"
+                ],
+                "other_name": "Plaquenil"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Azithromycin 500Mg Oral Tablet",
+                "description": "Azithromycin administered orally with water",
+                "arm_group_label": "Azithromycin",
+                "other_name": "Zetro"
+            },
+            {
+                "intervention_type": "Dietary Supplement",
+                "intervention_name": "Glucose tablets",
+                "description": "administered orally with water",
+                "arm_group_label": "Suger Tablets",
+                "other_name": "Canderel"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Confirmed cases of Covid-19 (all by RT-PCR from same laboratory)\n\n          -  Mild to severe clinical presentation (identified at the time of admission to ward by\n             National Early Warning Score NEWS-2; mild 0-4; severe 5-6)\n\n        Exclusion Criteria:\n\n          -  Covid-19 critically ill patients (NEWS-2 score <7),\n\n          -  Unable to take oral medication,\n\n          -  Immunocompromised,\n\n          -  Creatinine clearance (CCL) < 30 ml/min,\n\n          -  Aspartate transaminase (AST) or alanine transaminase (ALT) > 5 times Upper limit of\n             normal (ULN),\n\n          -  d-dimer > 2microgram per liter, or\n\n          -  Known comorbid condition like hypertension, cardiovascular disease, diabetes mellites,\n             asthma, COPD, cerebrovascular disorder, malignancy of any type, pregnancy,\n\n          -  BMI less than 18\n\n          -  Smoking history (one pack per day) for past six months"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "50 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Umar Farooq, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Khyber Medical University Peshawer"
+        },
+        "overall_contact": {
+            "last_name": "Umar Farooq, PhD",
+            "phone": "00923219111681",
+            "email": "dean@ayubmed.edu.pk"
+        },
+        "overall_contact_backup": {
+            "last_name": "Muhammad J Khan, MBBS",
+            "phone": "00923444566444",
+            "email": "junaidkhan@ayubmed.edu.pk"
+        },
+        "location": {
+            "facility": {
+                "name": "Ayub Teaching Institution",
+                "address": {
+                    "city": "Abbott\u0101b\u0101d",
+                    "state": "K.p.k",
+                    "zip": "00532",
+                    "country": "Pakistan"
+                }
+            },
+            "contact": {
+                "last_name": "Umer Farooq, PhD",
+                "phone": "00929929311100",
+                "email": "dean@ayubmed.edu.pk"
+            }
+        },
+        "location_countries": {
+            "country": "Pakistan"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 25, 2020",
+        "study_first_submitted_qc": "March 27, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Ayub Medical College, Abbottabad",
+            "investigator_full_name": "Prof. Dr. Umar Farooq",
+            "investigator_title": "Dean & Chief Executive Officer"
+        },
+        "keyword": [
+            "covid 19",
+            "treatment"
+        ],
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "as each individual will have his/her own coded file. the required data from each will be extracted and will be made available in soft copies"
+        }
+    }
+}

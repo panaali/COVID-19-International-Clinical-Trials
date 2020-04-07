@@ -1,1 +1,236 @@
-{"clinical_study": {"@rank": "331", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04276688"}, "id_info": {"org_study_id": "UW-20-074", "nct_id": "NCT04276688"}, "brief_title": "Lopinavir/ Ritonavir, Ribavirin and IFN-beta Combination for nCoV Treatment", "official_title": "An Open-label Randomized Controlled Trial on Lopinavir/ Ritonavir, Ribavirin and Interferon Beta 1b Combination Versus Lopinavir/ Ritonavir Alone, as Treatment for 2019 Novel Coronavirus Infection", "sponsors": {"lead_sponsor": {"agency": "The University of Hong Kong", "agency_class": "Other"}, "collaborator": {"agency": "Hospital Authority, Hong Kong", "agency_class": "Other"}}, "source": "The University of Hong Kong", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "A combination of lopinavir/ ritonavir, ribavirin and interferon beta-1b will expedite the\n      recovery, suppress the viral load, shorten hospitalisation and reduce mortality in patients\n      with 2019-n-CoV infection compared with to lopinavir/ ritonavir"}, "detailed_description": {"textblock": "Hypothesis A combination of lopinavir/ ritonavir, ribavirin and interferon beta-1b will\n      expedite the recovery, suppress the viral load, shorten hospitalisation and reduce mortality\n      in patients with 2019-n-CoV infection compared with to lopinavir/ ritonavir alone\n\n      Primary objective: To evaluate the safety and efficacy in mortality reduction with a\n      combination of lopinavir/ ritonavir, ribavirin and interferon beta-1b in the treatment of\n      patient hospitalised for 2019-n-CoV infection and compare this to lopinavir/ ritonavir alone\n\n      Subject/patient definition: Recruited subjects include adult patients \u226518 years of age,\n      admitted to the HA Hospitals from February 2020 onwards, with laboratory confirmed 2019-n-CoV\n      infection. All subjects give written informed consent. Subjects must be available to complete\n      the study and comply with study procedures.\n\n      Study design: This is a prospective open-label randomised controlled trial among adult\n      patients hospitalised after February 2020 for virologically confirmed 2019-n-CoV infection.\n      Patients will be randomly assigned to either a 14-day course of lopinavir/ ritonavir\n      400mg/100mg twice daily, ribavirin 400mg bd and zero to three doses of subcutaneous injection\n      of interferon beta-1b 1mL (0.25mg; 8 million IU) on day 1, 3 and 5 (depending on day of\n      admission from symptoms onset) plus standard care, or a 14-day course of lopinavir/ ritonavir\n      400mg/100mg twice daily plus standard care alone (2:1).\n\n      Intervention/study article: lopinavir/ ritonavir, ribavirin and interferon beta-1b\n\n      Primary outcome: Time to negative nasopharyngeal swab (NPS) 2019-n-CoV coronavirus viral\n      RT-PCR\n\n      Secondary outcome:\n\n        1. Time to negative saliva 2019-n-CoV coronavirus viral RT-PCR\n\n        2. Time to clinical improvement of NEWS2 (National Early Warning Score 2) of 0 maintained\n           for 24 hours\n\n        3. Length of hospitalisation\n\n        4. Adverse events during treatment\n\n        5. 30-day mortality\n\n        6. Cytokine/ chemokine changes"}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "February 10, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "July 31, 2022"}, "primary_completion_date": {"@type": "Anticipated", "#text": "January 31, 2022"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "open-label randomised controlled trial", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Time to negative NPS", "time_frame": "Up to 1 month", "description": "Time to negative NPS 2019-n-CoV RT-PCR"}, "secondary_outcome": [{"measure": "Time to negative saliva", "time_frame": "Up to 1 month", "description": "Time to negative saliva 2019-n-CoV RT-PCR"}, {"measure": "Time to clinical improvement", "time_frame": "Up to 1 month", "description": "Time to NEWS of 0"}, {"measure": "Hospitalisation", "time_frame": "Up to 1 month", "description": "Length of hospitalisation"}, {"measure": "Mortality", "time_frame": "Up to 1 month", "description": "30-day mortality"}, {"measure": "Immune reaction", "time_frame": "up to 1 month", "description": "Cytokine/ chemokine changes"}, {"measure": "Adverse events", "time_frame": "up to 1 month", "description": "Adverse events during treatment"}, {"measure": "Time to negative all clinical specimens", "time_frame": "up to 1 month", "description": "Time to negative NPS, saliva, urine and stool 2019-n-CoV RT-PCR"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "70"}, "condition": "Novel Coronavirus Infection", "arm_group": [{"arm_group_label": "Study group", "arm_group_type": "Active Comparator", "description": "triple combination"}, {"arm_group_label": "Control group", "arm_group_type": "Active Comparator", "description": "single"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Lopinavir/ritonavir", "description": "400mg/100mg twice daily for 14 days", "arm_group_label": ["Control group", "Study group"]}, {"intervention_type": "Drug", "intervention_name": "Ribavirin", "description": "400mg twice daily for 14 days", "arm_group_label": "Study group"}, {"intervention_type": "Drug", "intervention_name": "Interferon Beta-1B", "description": "0.25mg subcutaneous injection alternate day for 3 days", "arm_group_label": "Study group"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Recruited subjects include all adult patients \u226518 years hospitalised for virologically\n             confirmed 2019-n-CoV infection.\n\n          2. NEWS of \u22651 upon recruitment\n\n          3. Auditory temperature \u226538\u00b0C with at least one of the following symptoms (cough, sputum\n             production, sore-throat, nasal discharge, myalgia, headache or fatigue) upon admission\n\n          4. Symptom duration \u226410 days\n\n          5. All subjects give written informed consent.\n\n          6. Subjects must be available to complete the study and comply with study procedures.\n             Willingness to allow for serum samples to be stored beyond the study period, for\n             potential additional future testing to better characterize immune response.\n\n        Exclusion Criteria:\n\n          1. Inability to comprehend and to follow all required study procedures.\n\n          2. Allergy or severe reactions to the study drugs\n\n          3. Patients with known prolonged QT or PR interval, second- or third-degree heart block,\n             or ventricular cardiac arrhythmias, including torsade de pointes\n\n          4. Patients taking medication that will potentially interact with lopinavir/ ritonavir,\n             ribavirin or interferon-beta1b\n\n          5. Patients with known history of severe depression\n\n          6. Pregnant or lactation women\n\n          7. Inability to comprehend and to follow all required study procedures\n\n          8. Received an experimental agent (vaccine, drug, biologic, device, blood product, or\n             medication) within 1 month prior to recruitment in this study or expect to receive an\n             experimental agent during this study. Unwilling to refuse participation in another\n             clinical study through the end of this study.\n\n          9. Have a history of alcohol or drug abuse in the last 5 years.\n\n         10. Have any condition that the investigator believes may interfere with successful\n             completion of the study."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Ivan FN Hung, MD FRCP", "role": "Principal Investigator", "affiliation": "The University of Hong Kong"}, "overall_contact": {"last_name": "Ivan FN Hung, MD FRCP", "phone": "+862 22554049", "email": "ivanfn@gmail.com"}, "overall_contact_backup": {"last_name": "Kelvin To, MD FRCPath", "email": "kelvinto@hku.hk"}, "location": {"facility": {"name": "University of Hong Kong, Queen Mary Hospital", "address": {"city": "Hong Kong", "country": "Hong Kong"}}, "status": "Recruiting", "contact": {"last_name": "Ivan FN Hung, MD FRCP", "phone": "852 22554049", "email": "ivanfn@gmail.com"}, "investigator": [{"last_name": "Kelvin To, MD FRCPath", "role": "Sub-Investigator"}, {"last_name": "KY Yuen, MD FRCPath", "role": "Sub-Investigator"}]}, "location_countries": {"country": "Hong Kong"}, "verification_date": "February 2020", "study_first_submitted": "February 11, 2020", "study_first_submitted_qc": "February 17, 2020", "study_first_posted": {"@type": "Actual", "#text": "February 19, 2020"}, "last_update_submitted": "February 26, 2020", "last_update_submitted_qc": "February 26, 2020", "last_update_posted": {"@type": "Actual", "#text": "February 28, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["nCoV", "lopinavir/ ritonavir", "IFN-beta"], "condition_browse": {"mesh_term": ["Infection", "Coronavirus Infections", "Severe Acute Respiratory Syndrome"]}, "intervention_browse": {"mesh_term": ["Interferons", "Ribavirin", "Ritonavir", "Lopinavir", "Interferon-beta", "Interferon beta-1b"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "331",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04276688"
+        },
+        "id_info": {
+            "org_study_id": "UW-20-074",
+            "nct_id": "NCT04276688"
+        },
+        "brief_title": "Lopinavir/ Ritonavir, Ribavirin and IFN-beta Combination for nCoV Treatment",
+        "official_title": "An Open-label Randomized Controlled Trial on Lopinavir/ Ritonavir, Ribavirin and Interferon Beta 1b Combination Versus Lopinavir/ Ritonavir Alone, as Treatment for 2019 Novel Coronavirus Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "The University of Hong Kong",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Hospital Authority, Hong Kong",
+                "agency_class": "Other"
+            }
+        },
+        "source": "The University of Hong Kong",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "A combination of lopinavir/ ritonavir, ribavirin and interferon beta-1b will expedite the\n      recovery, suppress the viral load, shorten hospitalisation and reduce mortality in patients\n      with 2019-n-CoV infection compared with to lopinavir/ ritonavir"
+        },
+        "detailed_description": {
+            "textblock": "Hypothesis A combination of lopinavir/ ritonavir, ribavirin and interferon beta-1b will\n      expedite the recovery, suppress the viral load, shorten hospitalisation and reduce mortality\n      in patients with 2019-n-CoV infection compared with to lopinavir/ ritonavir alone\n\n      Primary objective: To evaluate the safety and efficacy in mortality reduction with a\n      combination of lopinavir/ ritonavir, ribavirin and interferon beta-1b in the treatment of\n      patient hospitalised for 2019-n-CoV infection and compare this to lopinavir/ ritonavir alone\n\n      Subject/patient definition: Recruited subjects include adult patients \u226518 years of age,\n      admitted to the HA Hospitals from February 2020 onwards, with laboratory confirmed 2019-n-CoV\n      infection. All subjects give written informed consent. Subjects must be available to complete\n      the study and comply with study procedures.\n\n      Study design: This is a prospective open-label randomised controlled trial among adult\n      patients hospitalised after February 2020 for virologically confirmed 2019-n-CoV infection.\n      Patients will be randomly assigned to either a 14-day course of lopinavir/ ritonavir\n      400mg/100mg twice daily, ribavirin 400mg bd and zero to three doses of subcutaneous injection\n      of interferon beta-1b 1mL (0.25mg; 8 million IU) on day 1, 3 and 5 (depending on day of\n      admission from symptoms onset) plus standard care, or a 14-day course of lopinavir/ ritonavir\n      400mg/100mg twice daily plus standard care alone (2:1).\n\n      Intervention/study article: lopinavir/ ritonavir, ribavirin and interferon beta-1b\n\n      Primary outcome: Time to negative nasopharyngeal swab (NPS) 2019-n-CoV coronavirus viral\n      RT-PCR\n\n      Secondary outcome:\n\n        1. Time to negative saliva 2019-n-CoV coronavirus viral RT-PCR\n\n        2. Time to clinical improvement of NEWS2 (National Early Warning Score 2) of 0 maintained\n           for 24 hours\n\n        3. Length of hospitalisation\n\n        4. Adverse events during treatment\n\n        5. 30-day mortality\n\n        6. Cytokine/ chemokine changes"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "February 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 31, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "January 31, 2022"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "open-label randomised controlled trial",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Time to negative NPS",
+            "time_frame": "Up to 1 month",
+            "description": "Time to negative NPS 2019-n-CoV RT-PCR"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time to negative saliva",
+                "time_frame": "Up to 1 month",
+                "description": "Time to negative saliva 2019-n-CoV RT-PCR"
+            },
+            {
+                "measure": "Time to clinical improvement",
+                "time_frame": "Up to 1 month",
+                "description": "Time to NEWS of 0"
+            },
+            {
+                "measure": "Hospitalisation",
+                "time_frame": "Up to 1 month",
+                "description": "Length of hospitalisation"
+            },
+            {
+                "measure": "Mortality",
+                "time_frame": "Up to 1 month",
+                "description": "30-day mortality"
+            },
+            {
+                "measure": "Immune reaction",
+                "time_frame": "up to 1 month",
+                "description": "Cytokine/ chemokine changes"
+            },
+            {
+                "measure": "Adverse events",
+                "time_frame": "up to 1 month",
+                "description": "Adverse events during treatment"
+            },
+            {
+                "measure": "Time to negative all clinical specimens",
+                "time_frame": "up to 1 month",
+                "description": "Time to negative NPS, saliva, urine and stool 2019-n-CoV RT-PCR"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "70"
+        },
+        "condition": "Novel Coronavirus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Study group",
+                "arm_group_type": "Active Comparator",
+                "description": "triple combination"
+            },
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Active Comparator",
+                "description": "single"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Lopinavir/ritonavir",
+                "description": "400mg/100mg twice daily for 14 days",
+                "arm_group_label": [
+                    "Control group",
+                    "Study group"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Ribavirin",
+                "description": "400mg twice daily for 14 days",
+                "arm_group_label": "Study group"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Interferon Beta-1B",
+                "description": "0.25mg subcutaneous injection alternate day for 3 days",
+                "arm_group_label": "Study group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Recruited subjects include all adult patients \u226518 years hospitalised for virologically\n             confirmed 2019-n-CoV infection.\n\n          2. NEWS of \u22651 upon recruitment\n\n          3. Auditory temperature \u226538\u00b0C with at least one of the following symptoms (cough, sputum\n             production, sore-throat, nasal discharge, myalgia, headache or fatigue) upon admission\n\n          4. Symptom duration \u226410 days\n\n          5. All subjects give written informed consent.\n\n          6. Subjects must be available to complete the study and comply with study procedures.\n             Willingness to allow for serum samples to be stored beyond the study period, for\n             potential additional future testing to better characterize immune response.\n\n        Exclusion Criteria:\n\n          1. Inability to comprehend and to follow all required study procedures.\n\n          2. Allergy or severe reactions to the study drugs\n\n          3. Patients with known prolonged QT or PR interval, second- or third-degree heart block,\n             or ventricular cardiac arrhythmias, including torsade de pointes\n\n          4. Patients taking medication that will potentially interact with lopinavir/ ritonavir,\n             ribavirin or interferon-beta1b\n\n          5. Patients with known history of severe depression\n\n          6. Pregnant or lactation women\n\n          7. Inability to comprehend and to follow all required study procedures\n\n          8. Received an experimental agent (vaccine, drug, biologic, device, blood product, or\n             medication) within 1 month prior to recruitment in this study or expect to receive an\n             experimental agent during this study. Unwilling to refuse participation in another\n             clinical study through the end of this study.\n\n          9. Have a history of alcohol or drug abuse in the last 5 years.\n\n         10. Have any condition that the investigator believes may interfere with successful\n             completion of the study."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Ivan FN Hung, MD FRCP",
+            "role": "Principal Investigator",
+            "affiliation": "The University of Hong Kong"
+        },
+        "overall_contact": {
+            "last_name": "Ivan FN Hung, MD FRCP",
+            "phone": "+862 22554049",
+            "email": "ivanfn@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Kelvin To, MD FRCPath",
+            "email": "kelvinto@hku.hk"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Hong Kong, Queen Mary Hospital",
+                "address": {
+                    "city": "Hong Kong",
+                    "country": "Hong Kong"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Ivan FN Hung, MD FRCP",
+                "phone": "852 22554049",
+                "email": "ivanfn@gmail.com"
+            },
+            "investigator": [
+                {
+                    "last_name": "Kelvin To, MD FRCPath",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "KY Yuen, MD FRCPath",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Hong Kong"
+        },
+        "verification_date": "February 2020",
+        "study_first_submitted": "February 11, 2020",
+        "study_first_submitted_qc": "February 17, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "February 19, 2020"
+        },
+        "last_update_submitted": "February 26, 2020",
+        "last_update_submitted_qc": "February 26, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "February 28, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "nCoV",
+            "lopinavir/ ritonavir",
+            "IFN-beta"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Interferons",
+                "Ribavirin",
+                "Ritonavir",
+                "Lopinavir",
+                "Interferon-beta",
+                "Interferon beta-1b"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

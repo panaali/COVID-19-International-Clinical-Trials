@@ -1,1 +1,208 @@
-{"clinical_study": {"@rank": "336", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04262921"}, "id_info": {"org_study_id": "C20-05", "secondary_id": "2020-A00256-33", "nct_id": "NCT04262921"}, "brief_title": "Clinical Characterisation Protocol for Severe Emerging Infections", "acronym": "CCP-nCoV", "official_title": "Clinical Characterisation Protocol for Severe Emerging Infections", "sponsors": {"lead_sponsor": {"agency": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France", "agency_class": "Other"}}, "source": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Infectious disease is the single biggest cause of death worldwide. New infectious agents,\n      such as the SARS, MERS and other novel coronavirus, novel influenza viruses, viruses causing\n      viral haemorrhagic fever (e.g. Ebola), and viruses that affect the central nervous system\n      (CNS) such as TBEV & Nipah require investigation to understand pathogen biology and\n      pathogenesis in the host. Even for known infections, resistance to antimicrobial therapies is\n      widespread, and treatments to control potentially deleterious host responses are lacking.\n\n      In order to develop a mechanistic understanding of disease processes, such that risk factors\n      for severe illness can be identified and treatments can be developed, it is necessary to\n      understand pathogen characteristics associated with virulence, the replication dynamics and\n      in-host evolution of the pathogen, the dynamics of the host response, the pharmacology of\n      antimicrobial or host-directed therapies, the transmission dynamics, and factors underlying\n      individual susceptibility.\n\n      The work proposed here may require sampling that will not immediately benefit the\n      participants. It may also require analysis of the host genome, which may reveal other\n      information about disease susceptibility or other aspects of health status."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "February 7, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "August 7, 2023"}, "primary_completion_date": {"@type": "Anticipated", "#text": "August 7, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Other", "time_perspective": "Prospective"}, "primary_outcome": [{"measure": "Clinical features", "time_frame": "6 months", "description": "Describe the clinical features of the illness or syndrome (cardio-respiratory signs or symptoms, and laboratory results) and complications, and determinants of severity.\nAssessment daily for 15 days, then weekly until max 100 days, then 3 and 6 months."}, {"measure": "Response to treatment", "time_frame": "6 months", "description": "Describe the response to treatments (including supportive care and novel therapeutics) by clinical, biological, radiological and virological assessments.\nAssessment daily for 15 days, then weekly until max 100 days, then 3 and 6 months."}, {"measure": "Pathogen replication, excretion and evolution, within the host", "time_frame": "6 months", "description": "high-throughput sequencing of pathogen genomes obtained from respiratory tract, blood, urine, stool, CSF and other samples.\nAssessment on Day 1, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15 then weekly until max 100 days, then 3 and 6 months."}, {"measure": "Immune host responses to infection and therapy", "time_frame": "6 months", "description": "Characterise the innate and acquired immune responses, circulating levels of immune signalling molecules and gene expression profiling in peripheral blood.\nAssessment on Day 1, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15 then weekly until max 100 days, then 3 and 6 months."}, {"measure": "Host genetic variants", "time_frame": "Day 1", "description": "Identify host genetic variants associated with disease progression or severity"}], "enrollment": {"@type": "Anticipated", "#text": "500"}, "condition": "Coronavirus Infections", "biospec_retention": "Samples With DNA", "biospec_descr": {"textblock": "Blood, urine, stool /rectal swab, respiratory samples (nose and throat swab, endotracheal\n      aspirate, nasopharyngeal aspirate), samples from infected sites/sores, CSF"}, "eligibility": {"study_pop": {"textblock": "This study will enrol eligible patients (children and adults) with confirmed or suspected\n        infection with a pathogen relevant to the study objectives. Recruitment of patients with\n        Day 1 (enrolment) data is the priority. The local study team will dictate whether\n        laboratory confirmation of infection is required prior to enrolment."}, "sampling_method": "Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n        - Suspected or proven novel Coronavirus (nCoV) infection as main reason for admission to\n        hospital.\n\n        Non inclusion criteria:\n\n        - Subject deprived of freedom, subject under a legal protective measure\n\n        Exclusion Criteria:\n\n          -  Confirmed diagnosis of a pathogen unrelated to the objectives of this study and no\n             indication or likelihood of co-infection with a relevant pathogen.\n\n          -  Refusal by participant, parent or appropriate representative."}, "gender": "All", "minimum_age": "N/A", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Yazdan YAZDANPANAH", "role": "Study Chair", "affiliation": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France"}, "overall_contact": {"last_name": "Yazdan YAZDANPANAH", "phone": "+33 1 44 23 60 08", "email": "yazdan.yazdanpanah@inserm.fr"}, "overall_contact_backup": {"last_name": "H\u00e9l\u00e8ne ESPEROU", "phone": "+33 1 44 23 60 70", "email": "helene.esperou@inserm.fr"}, "location": [{"facility": {"name": "CHU Pellegrin, service des Maladies Infectieuses et Tropicales", "address": {"city": "Bordeaux", "zip": "33075", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Denis MALVY"}}, {"facility": {"name": "APHP La Piti\u00e9 Salp\u00eatri\u00e8re, service des Maladies Infectieuses et Tropicales", "address": {"city": "Paris", "zip": "75013", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Eric CAUMES"}}, {"facility": {"name": "APHP Bichat, Service de r\u00e9animation m\u00e9dicale et infectieuse", "address": {"city": "Paris", "zip": "75018", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Jean-Francois TIMSIT"}}, {"facility": {"name": "APHP Bichat, Service des Maladies Infectieuses et Tropicales", "address": {"city": "Paris", "zip": "75018", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Yazdan YAZDANPANAH"}}], "location_countries": {"country": "France"}, "verification_date": "February 2020", "study_first_submitted": "February 6, 2020", "study_first_submitted_qc": "February 7, 2020", "study_first_posted": {"@type": "Actual", "#text": "February 10, 2020"}, "last_update_submitted": "February 7, 2020", "last_update_submitted_qc": "February 7, 2020", "last_update_posted": {"@type": "Actual", "#text": "February 11, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["Coronavirus", "2019-nCoV"], "condition_browse": {"mesh_term": ["Infection", "Communicable Diseases", "Coronavirus Infections", "Severe Acute Respiratory Syndrome"]}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "336",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04262921"
+        },
+        "id_info": {
+            "org_study_id": "C20-05",
+            "secondary_id": "2020-A00256-33",
+            "nct_id": "NCT04262921"
+        },
+        "brief_title": "Clinical Characterisation Protocol for Severe Emerging Infections",
+        "acronym": "CCP-nCoV",
+        "official_title": "Clinical Characterisation Protocol for Severe Emerging Infections",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Infectious disease is the single biggest cause of death worldwide. New infectious agents,\n      such as the SARS, MERS and other novel coronavirus, novel influenza viruses, viruses causing\n      viral haemorrhagic fever (e.g. Ebola), and viruses that affect the central nervous system\n      (CNS) such as TBEV & Nipah require investigation to understand pathogen biology and\n      pathogenesis in the host. Even for known infections, resistance to antimicrobial therapies is\n      widespread, and treatments to control potentially deleterious host responses are lacking.\n\n      In order to develop a mechanistic understanding of disease processes, such that risk factors\n      for severe illness can be identified and treatments can be developed, it is necessary to\n      understand pathogen characteristics associated with virulence, the replication dynamics and\n      in-host evolution of the pathogen, the dynamics of the host response, the pharmacology of\n      antimicrobial or host-directed therapies, the transmission dynamics, and factors underlying\n      individual susceptibility.\n\n      The work proposed here may require sampling that will not immediately benefit the\n      participants. It may also require analysis of the host genome, which may reveal other\n      information about disease susceptibility or other aspects of health status."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "February 7, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 7, 2023"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 7, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Other",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Clinical features",
+                "time_frame": "6 months",
+                "description": "Describe the clinical features of the illness or syndrome (cardio-respiratory signs or symptoms, and laboratory results) and complications, and determinants of severity.\nAssessment daily for 15 days, then weekly until max 100 days, then 3 and 6 months."
+            },
+            {
+                "measure": "Response to treatment",
+                "time_frame": "6 months",
+                "description": "Describe the response to treatments (including supportive care and novel therapeutics) by clinical, biological, radiological and virological assessments.\nAssessment daily for 15 days, then weekly until max 100 days, then 3 and 6 months."
+            },
+            {
+                "measure": "Pathogen replication, excretion and evolution, within the host",
+                "time_frame": "6 months",
+                "description": "high-throughput sequencing of pathogen genomes obtained from respiratory tract, blood, urine, stool, CSF and other samples.\nAssessment on Day 1, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15 then weekly until max 100 days, then 3 and 6 months."
+            },
+            {
+                "measure": "Immune host responses to infection and therapy",
+                "time_frame": "6 months",
+                "description": "Characterise the innate and acquired immune responses, circulating levels of immune signalling molecules and gene expression profiling in peripheral blood.\nAssessment on Day 1, Day 2, Day 3, Day 5, Day 7, Day 9, Day 11, Day 13, Day 15 then weekly until max 100 days, then 3 and 6 months."
+            },
+            {
+                "measure": "Host genetic variants",
+                "time_frame": "Day 1",
+                "description": "Identify host genetic variants associated with disease progression or severity"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": "Coronavirus Infections",
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "Blood, urine, stool /rectal swab, respiratory samples (nose and throat swab, endotracheal\n      aspirate, nasopharyngeal aspirate), samples from infected sites/sores, CSF"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "This study will enrol eligible patients (children and adults) with confirmed or suspected\n        infection with a pathogen relevant to the study objectives. Recruitment of patients with\n        Day 1 (enrolment) data is the priority. The local study team will dictate whether\n        laboratory confirmation of infection is required prior to enrolment."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        - Suspected or proven novel Coronavirus (nCoV) infection as main reason for admission to\n        hospital.\n\n        Non inclusion criteria:\n\n        - Subject deprived of freedom, subject under a legal protective measure\n\n        Exclusion Criteria:\n\n          -  Confirmed diagnosis of a pathogen unrelated to the objectives of this study and no\n             indication or likelihood of co-infection with a relevant pathogen.\n\n          -  Refusal by participant, parent or appropriate representative."
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Yazdan YAZDANPANAH",
+            "role": "Study Chair",
+            "affiliation": "Institut National de la Sant\u00e9 Et de la Recherche M\u00e9dicale, France"
+        },
+        "overall_contact": {
+            "last_name": "Yazdan YAZDANPANAH",
+            "phone": "+33 1 44 23 60 08",
+            "email": "yazdan.yazdanpanah@inserm.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "H\u00e9l\u00e8ne ESPEROU",
+            "phone": "+33 1 44 23 60 70",
+            "email": "helene.esperou@inserm.fr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "CHU Pellegrin, service des Maladies Infectieuses et Tropicales",
+                    "address": {
+                        "city": "Bordeaux",
+                        "zip": "33075",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Denis MALVY"
+                }
+            },
+            {
+                "facility": {
+                    "name": "APHP La Piti\u00e9 Salp\u00eatri\u00e8re, service des Maladies Infectieuses et Tropicales",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75013",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Eric CAUMES"
+                }
+            },
+            {
+                "facility": {
+                    "name": "APHP Bichat, Service de r\u00e9animation m\u00e9dicale et infectieuse",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75018",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Francois TIMSIT"
+                }
+            },
+            {
+                "facility": {
+                    "name": "APHP Bichat, Service des Maladies Infectieuses et Tropicales",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75018",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Yazdan YAZDANPANAH"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "February 2020",
+        "study_first_submitted": "February 6, 2020",
+        "study_first_submitted_qc": "February 7, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "February 10, 2020"
+        },
+        "last_update_submitted": "February 7, 2020",
+        "last_update_submitted_qc": "February 7, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "February 11, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Coronavirus",
+            "2019-nCoV"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

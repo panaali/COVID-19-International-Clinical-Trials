@@ -1,1 +1,150 @@
-{"clinical_study": {"@rank": "140", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04272710"}, "id_info": {"org_study_id": "2020-02", "nct_id": "NCT04272710"}, "brief_title": "Prognositc Factors in COVID-19 Patients Complicated With Hypertension", "official_title": "Prognostic Characteristics Difference Between the Hypertension Patients With and Without ACEI Treatment When Suffered With 2019-nCoV Infection in China", "sponsors": {"lead_sponsor": {"agency": "Chongqing Medical University", "agency_class": "Other"}}, "source": "Chongqing Medical University", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "There are currently no clinical studies reporting clinical characteristics difference between\n      the hypertension patients with and without ACEI treatment when suffered with novel\n      coronavirus infection in China."}, "detailed_description": {"textblock": "At present, the outbreak of the new coronavirus (2019-nCoV) infection in Wuhan and Hubei\n      provinces has attracted great attention from the medical community across the country. Both\n      2019-nCoV and SARS viruses are coronaviruses, and they have a large homology.\n\n      Published laboratory studies have suggested that SARS virus infection and its lung injury are\n      related to angiotensin-converting enzyme 2 (ACE2) in lung tissue. And ACE and ACE2 in the\n      renin-angiotensin system (RAS) are vital central links to maintain hemodynamic stability and\n      normal heart and kidney function in vivo.\n\n      A large amount of evidence-based medical evidence shows that ACE inhibitors are the basic\n      therapeutic drugs for maintaining hypertension, reducing the risk of cardiovascular,\n      cerebrovascular, and renal adverse events, improving quality of life, and prolonging life in\n      patients with hypertension. Recent experimental studies suggest that treatment with ACE\n      inhibitors can significantly reduce pulmonary inflammation and cytokine release caused by\n      coronavirus infection."}, "overall_status": "Withdrawn", "why_stopped": "Similar projects have been registered, and it need to be withdrawn.", "start_date": {"@type": "Actual", "#text": "January 25, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "April 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 31, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Retrospective"}, "primary_outcome": [{"measure": "Occupancy rate in the intensive care unit (ICU)", "time_frame": "up to 28 days", "description": "The percentage of patients admitted to the ICU at any time during the 28 days of onset COVID-19."}, {"measure": "Mechanical Ventilation", "time_frame": "up to 28 days", "description": "The number of patients requiring mechanical ventilation."}, {"measure": "Death", "time_frame": "up to 28 days", "description": "The number of patients who died of 2019-nCoV infection."}], "secondary_outcome": [{"measure": "All cause mortality", "time_frame": "up to 28 days", "description": "The number of died 2019-nCoV infected patients from any cause."}, {"measure": "Time from onset of symptoms to main outcome and its components", "time_frame": "up to 28 days", "description": "Time from onset of symptoms to admitted to the ICU, requiring mechanical ventilation, and death."}, {"measure": "Time to Clinical Recovery", "time_frame": "up to 28 days", "description": "Time to Clinical Recovery"}], "number_of_groups": "2", "enrollment": {"@type": "Actual", "#text": "0"}, "condition": "2019-nCoV", "arm_group": [{"arm_group_label": "ACEI treatment", "description": "hypertension patients with ACEI treatment when suffered with novel coronavirus infection in China"}, {"arm_group_label": "Control", "description": "hypertension patients without ACEI treatment when suffered with novel coronavirus infection in China"}], "eligibility": {"study_pop": {"textblock": "the hypertension patients with and without ACEI treatment when suffered with novel\n        coronavirus infection in China"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  Adult aged >=18years old;\n\n          -  Diagnosed with 2019-nCoV. Diagnostic criteria including: Laboratory (RT-PCR) confirmed\n             2019-nCoV infection; CT of the lung conformed to the manifestation of viral pneumonia.\n\n          -  Diagnosed with primary hypertension.\n\n          -  Criteria for severe or critical ill conditions: Respiratory rate >=30/min; or Rest\n             SPO2<=93%; or PaO2/FiO2<=300mmHg.\n\n        Exclusion Criteria:\n\n          -  Near-death state (expected survival time less than 24 hours);\n\n          -  Malignant tumor;\n\n          -  Pregnancy or puerperium women;\n\n          -  ACEI contraindication\n\n          -  Patients who refused to participant."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "100 Years", "healthy_volunteers": "No"}, "location": {"facility": {"name": "The First Affiliated Hospital of Chongqing Medical University", "address": {"city": "Chongqing", "country": "China"}}}, "location_countries": {"country": "China"}, "verification_date": "March 2020", "study_first_submitted": "February 12, 2020", "study_first_submitted_qc": "February 14, 2020", "study_first_posted": {"@type": "Actual", "#text": "February 17, 2020"}, "last_update_submitted": "March 13, 2020", "last_update_submitted_qc": "March 13, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 17, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Chongqing Medical University", "investigator_full_name": "Dongying Zhang", "investigator_title": "Associate Professor"}, "condition_browse": {"mesh_term": "Hypertension"}}}
+{
+    "clinical_study": {
+        "@rank": "140",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04272710"
+        },
+        "id_info": {
+            "org_study_id": "2020-02",
+            "nct_id": "NCT04272710"
+        },
+        "brief_title": "Prognositc Factors in COVID-19 Patients Complicated With Hypertension",
+        "official_title": "Prognostic Characteristics Difference Between the Hypertension Patients With and Without ACEI Treatment When Suffered With 2019-nCoV Infection in China",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Chongqing Medical University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Chongqing Medical University",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "There are currently no clinical studies reporting clinical characteristics difference between\n      the hypertension patients with and without ACEI treatment when suffered with novel\n      coronavirus infection in China."
+        },
+        "detailed_description": {
+            "textblock": "At present, the outbreak of the new coronavirus (2019-nCoV) infection in Wuhan and Hubei\n      provinces has attracted great attention from the medical community across the country. Both\n      2019-nCoV and SARS viruses are coronaviruses, and they have a large homology.\n\n      Published laboratory studies have suggested that SARS virus infection and its lung injury are\n      related to angiotensin-converting enzyme 2 (ACE2) in lung tissue. And ACE and ACE2 in the\n      renin-angiotensin system (RAS) are vital central links to maintain hemodynamic stability and\n      normal heart and kidney function in vivo.\n\n      A large amount of evidence-based medical evidence shows that ACE inhibitors are the basic\n      therapeutic drugs for maintaining hypertension, reducing the risk of cardiovascular,\n      cerebrovascular, and renal adverse events, improving quality of life, and prolonging life in\n      patients with hypertension. Recent experimental studies suggest that treatment with ACE\n      inhibitors can significantly reduce pulmonary inflammation and cytokine release caused by\n      coronavirus infection."
+        },
+        "overall_status": "Withdrawn",
+        "why_stopped": "Similar projects have been registered, and it need to be withdrawn.",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "January 25, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Occupancy rate in the intensive care unit (ICU)",
+                "time_frame": "up to 28 days",
+                "description": "The percentage of patients admitted to the ICU at any time during the 28 days of onset COVID-19."
+            },
+            {
+                "measure": "Mechanical Ventilation",
+                "time_frame": "up to 28 days",
+                "description": "The number of patients requiring mechanical ventilation."
+            },
+            {
+                "measure": "Death",
+                "time_frame": "up to 28 days",
+                "description": "The number of patients who died of 2019-nCoV infection."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "All cause mortality",
+                "time_frame": "up to 28 days",
+                "description": "The number of died 2019-nCoV infected patients from any cause."
+            },
+            {
+                "measure": "Time from onset of symptoms to main outcome and its components",
+                "time_frame": "up to 28 days",
+                "description": "Time from onset of symptoms to admitted to the ICU, requiring mechanical ventilation, and death."
+            },
+            {
+                "measure": "Time to Clinical Recovery",
+                "time_frame": "up to 28 days",
+                "description": "Time to Clinical Recovery"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "0"
+        },
+        "condition": "2019-nCoV",
+        "arm_group": [
+            {
+                "arm_group_label": "ACEI treatment",
+                "description": "hypertension patients with ACEI treatment when suffered with novel coronavirus infection in China"
+            },
+            {
+                "arm_group_label": "Control",
+                "description": "hypertension patients without ACEI treatment when suffered with novel coronavirus infection in China"
+            }
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "the hypertension patients with and without ACEI treatment when suffered with novel\n        coronavirus infection in China"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adult aged >=18years old;\n\n          -  Diagnosed with 2019-nCoV. Diagnostic criteria including: Laboratory (RT-PCR) confirmed\n             2019-nCoV infection; CT of the lung conformed to the manifestation of viral pneumonia.\n\n          -  Diagnosed with primary hypertension.\n\n          -  Criteria for severe or critical ill conditions: Respiratory rate >=30/min; or Rest\n             SPO2<=93%; or PaO2/FiO2<=300mmHg.\n\n        Exclusion Criteria:\n\n          -  Near-death state (expected survival time less than 24 hours);\n\n          -  Malignant tumor;\n\n          -  Pregnancy or puerperium women;\n\n          -  ACEI contraindication\n\n          -  Patients who refused to participant."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "100 Years",
+            "healthy_volunteers": "No"
+        },
+        "location": {
+            "facility": {
+                "name": "The First Affiliated Hospital of Chongqing Medical University",
+                "address": {
+                    "city": "Chongqing",
+                    "country": "China"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "February 12, 2020",
+        "study_first_submitted_qc": "February 14, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "February 17, 2020"
+        },
+        "last_update_submitted": "March 13, 2020",
+        "last_update_submitted_qc": "March 13, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 17, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Chongqing Medical University",
+            "investigator_full_name": "Dongying Zhang",
+            "investigator_title": "Associate Professor"
+        },
+        "condition_browse": {
+            "mesh_term": "Hypertension"
+        }
+    }
+}

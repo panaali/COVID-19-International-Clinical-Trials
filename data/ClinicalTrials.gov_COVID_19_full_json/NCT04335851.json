@@ -1,1 +1,201 @@
-{"clinical_study": {"@rank": "320", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04335851"}, "id_info": {"org_study_id": "Physical Activity Project", "nct_id": "NCT04335851"}, "brief_title": "Video-Based Exercises and Well-Being During Social Isolation", "official_title": "Effectiveness of Video-Based Exercises on Physical and Emotional Well-Being During COVID-19 Induced Social Isolation", "sponsors": {"lead_sponsor": {"agency": "Biruni University", "agency_class": "Other"}, "collaborator": {"agency": "Istanbul University-Cerrahpasa", "agency_class": "Other"}}, "source": "Biruni University", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Both influenza and coronaviruses cause respiratory infections, which can lead to morbidity\n      and mortality, especially in those who are immunocompromised or not immune to viruses (Zhu).\n      Physical exercise has many effects on the human body, including the immune system. Moderate\n      exercise appears to have a beneficial effect on immune function, which can protect against\n      upper respiratory infections. Human being is a social entity by nature and social isolation\n      can negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. The World Health Organization (WHO) suggests\n      individual protection measures such as establishing necessary hygienic conditions, ensuring\n      social isolation and keeping immune system strong against the complications that may develop\n      due to Coronavirus.Human being is a social entity by nature and social isolation can\n      negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. Different theories which claims the\n      psychological improvements resulting from the increased levels of physical activity have also\n      been proposed in the literature.Regular aerobic exercise and walking can not only improve the\n      emotional state of the individuals, but may also affect the mental health by avoiding the\n      negative thoughts and adapting to stress. The aim of this study is to increase the physical\n      activity level, psychological condition and physical well-being with video-based exercises."}, "detailed_description": {"textblock": "Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) is a new form of coronaviruses\n      that emerged in 2019 and causes Coronavirus Disease 2019 (COVID-19). SARS-CoV-2 is highly\n      contagious. The World Health Organization (WHO) suggests individual protection measures such\n      as establishing necessary hygienic conditions, ensuring social isolation and keeping immune\n      system strong against the complications that may develop due to Coronavirus. Both influenza\n      and coronaviruses cause respiratory infections, which can lead to morbidity and mortality,\n      especially in those who are immunocompromised or not immune to viruses (Zhu). Physical\n      exercise has many effects on the human body, including the immune system. Moderate exercise\n      appears to have a beneficial effect on immune function, which can protect against upper\n      respiratory infections. Human being is a social entity by nature and social isolation can\n      negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. Different theories which claims the\n      psychological improvements resulting from the increased levels of physical activity have also\n      been proposed in the literature.Human being is a social entity by nature and social isolation\n      can negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. Different theories which claims the\n      psychological improvements resulting from the increased levels of physical activity have also\n      been proposed in the literature.Regular aerobic exercise and walking can not only improve the\n      emotional state of the individuals, but may also affect the mental health by avoiding the\n      negative thoughts and adapting to stress. The aim of this study is to increase the physical\n      activity level, psychological condition and physical well-being with video-based exercises."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 6, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 13, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Non-Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Prevention", "masking": "Single (Participant)"}, "primary_outcome": {"measure": "World Health Organization Quality of Life Questionnaire Bref", "time_frame": "2 months", "description": "The WHOQOL-BREF instrument comprises 26 items, which measure the following broad domains: physical health, psychological health, social relationships, and environment. Turkish version of WHOQoL- BREF will be used in the study.The WHOQOL-BREF produces a quality of life profile. It is possible to derive four domain scores. There are also two items that are examined separately: question 1 asks about an individual's overall perception of quality of life and question 2 asks about an individual's overall perception of their health. The four domain scores denote an individual's perception of quality of life in each particular domain. Domain scores are scaled in a positive direction (i.e. higher scores denote higher quality of life). The mean score of items within each domain is used to calculate the domain score."}, "secondary_outcome": [{"measure": "Rapid Assessment of Physical Activity", "time_frame": "2 months", "description": "Rapid Assessment of Physical Activity (RAPA) is an easy-to-use form which assesses both aerobic and strength & flexibility exercise levels. Turkish version of RAPA will be used in the study. The RAPA questionnaire is based on a scale of 1-7 measuring the amount and intensity and duration of physical activity that a person does. A score of 5 or below signifies sub-optimal physical activity and that of 6 or above signifies optimal physical activity. The activities are divided into light, moderate and vigorous activities."}, {"measure": "Global Rating of Change Scale", "time_frame": "2 months", "description": "The effectiveness of the exercise will also be evaluated with the Global Rating of Change scale (GRC). GRC scales have short administration time, applicability to nearly all patient and healthy group. In the study -point scale will be used. It is ranging from -2 (very much worse), through 0 (unchanged) to +2 (much better)."}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "30"}, "condition": ["Social Isolation", "Physical Inactivity", "Well-Being"], "arm_group": [{"arm_group_label": "Physical Activity Group", "arm_group_type": "Experimental", "description": "Individuals in this group will be given \"walk at home\" exercise video made by American Hearth Association. Videos for each week will be chosen by therapist. They will be asked to do exercise 3 days a week for 4 weeks by following the videos. The intensity and duration of the exercises will be gradually increased by therapists each week. Exercise follow-ups will be done over the phone and by asking individuals to keep an exercise diary."}, {"arm_group_label": "Control Group", "arm_group_type": "No Intervention", "description": "Physically inactive individuals will be included to study as control. Individuals will be asked to continue their daily routines."}], "intervention": {"intervention_type": "Other", "intervention_name": "Video based aerobic exercise", "description": "During social isolation induced by COVID-19, physically inactive people will do exercise in company with aerobic exercises named videos\"walk at home\" which made by American Heart Association. 3 days a week in total 4 weeks. Each sessions will last approximately 30-40 minutes.", "arm_group_label": "Physical Activity Group"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  who haven't been exercising before and also not thinking of exercising during the\n             isolation period\n\n          -  Who are willing to exercise during the isolation\n\n        Exclusion Criteria:\n\n          -  Having a disease that may interfere or aggravated with exercise such as orthopaedic\n             problems, chronic diseases, etc.\n\n          -  Having difficulty of understanding and following video-based exercises\n\n          -  Having diagnose of any kind of psychiatric condition such as major depression, panic\n             attack, etc."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "35 Years", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_official": [{"last_name": "Ay\u015fe Zengin Alp\u00f6zgen, Assistant Professor, PhD", "role": "Study Chair", "affiliation": "Istanbul University-Cerrahpasa"}, {"last_name": "Begum Kara Kaya, MSc", "role": "Principal Investigator", "affiliation": "Biruni University"}], "overall_contact": {"last_name": "Ay\u015fe Zengin Alp\u00f6zgen, Assistant Professor, PhD", "phone": "+90 (212) 866 37 00", "phone_ext": "43144", "email": "azengin@istanbul.edu.tr"}, "location": [{"facility": {"name": "Biruni University", "address": {"city": "Istanbul", "country": "Turkey"}}}, {"facility": {"name": "Istanbul University Cerrahpasa", "address": {"city": "Istanbul", "country": "Turkey"}}, "contact": {"last_name": "Ayse Zengin Alpozgen, Assistant Professor, PhD", "phone": "+90(212) 866 37 00", "phone_ext": "43144", "email": "azengin@istanbul.edu.tr"}, "investigator": [{"last_name": "Eyl\u00fcl P\u0131nar K\u0131sa, MSc", "role": "Sub-Investigator"}, {"last_name": "Pelin Tiryaki, MSc", "role": "Sub-Investigator"}, {"last_name": "Esma Nur Kolba\u015f\u0131, MSc", "role": "Sub-Investigator"}, {"last_name": "Gamze Polen \u015eim\u015fek, MSc", "role": "Sub-Investigator"}]}], "location_countries": {"country": "Turkey"}, "verification_date": "April 2020", "study_first_submitted": "April 2, 2020", "study_first_submitted_qc": "April 3, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 3, 2020", "last_update_submitted_qc": "April 3, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Biruni University", "investigator_full_name": "Begum Kara Kaya", "investigator_title": "Lecturer"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "320",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04335851"
+        },
+        "id_info": {
+            "org_study_id": "Physical Activity Project",
+            "nct_id": "NCT04335851"
+        },
+        "brief_title": "Video-Based Exercises and Well-Being During Social Isolation",
+        "official_title": "Effectiveness of Video-Based Exercises on Physical and Emotional Well-Being During COVID-19 Induced Social Isolation",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Biruni University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Istanbul University-Cerrahpasa",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Biruni University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Both influenza and coronaviruses cause respiratory infections, which can lead to morbidity\n      and mortality, especially in those who are immunocompromised or not immune to viruses (Zhu).\n      Physical exercise has many effects on the human body, including the immune system. Moderate\n      exercise appears to have a beneficial effect on immune function, which can protect against\n      upper respiratory infections. Human being is a social entity by nature and social isolation\n      can negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. The World Health Organization (WHO) suggests\n      individual protection measures such as establishing necessary hygienic conditions, ensuring\n      social isolation and keeping immune system strong against the complications that may develop\n      due to Coronavirus.Human being is a social entity by nature and social isolation can\n      negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. Different theories which claims the\n      psychological improvements resulting from the increased levels of physical activity have also\n      been proposed in the literature.Regular aerobic exercise and walking can not only improve the\n      emotional state of the individuals, but may also affect the mental health by avoiding the\n      negative thoughts and adapting to stress. The aim of this study is to increase the physical\n      activity level, psychological condition and physical well-being with video-based exercises."
+        },
+        "detailed_description": {
+            "textblock": "Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2) is a new form of coronaviruses\n      that emerged in 2019 and causes Coronavirus Disease 2019 (COVID-19). SARS-CoV-2 is highly\n      contagious. The World Health Organization (WHO) suggests individual protection measures such\n      as establishing necessary hygienic conditions, ensuring social isolation and keeping immune\n      system strong against the complications that may develop due to Coronavirus. Both influenza\n      and coronaviruses cause respiratory infections, which can lead to morbidity and mortality,\n      especially in those who are immunocompromised or not immune to viruses (Zhu). Physical\n      exercise has many effects on the human body, including the immune system. Moderate exercise\n      appears to have a beneficial effect on immune function, which can protect against upper\n      respiratory infections. Human being is a social entity by nature and social isolation can\n      negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. Different theories which claims the\n      psychological improvements resulting from the increased levels of physical activity have also\n      been proposed in the literature.Human being is a social entity by nature and social isolation\n      can negatively affect individuals' psychology. There are many studies examining the effect of\n      physical activity on the mental state of people. Different theories which claims the\n      psychological improvements resulting from the increased levels of physical activity have also\n      been proposed in the literature.Regular aerobic exercise and walking can not only improve the\n      emotional state of the individuals, but may also affect the mental health by avoiding the\n      negative thoughts and adapting to stress. The aim of this study is to increase the physical\n      activity level, psychological condition and physical well-being with video-based exercises."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 13, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": {
+            "measure": "World Health Organization Quality of Life Questionnaire Bref",
+            "time_frame": "2 months",
+            "description": "The WHOQOL-BREF instrument comprises 26 items, which measure the following broad domains: physical health, psychological health, social relationships, and environment. Turkish version of WHOQoL- BREF will be used in the study.The WHOQOL-BREF produces a quality of life profile. It is possible to derive four domain scores. There are also two items that are examined separately: question 1 asks about an individual's overall perception of quality of life and question 2 asks about an individual's overall perception of their health. The four domain scores denote an individual's perception of quality of life in each particular domain. Domain scores are scaled in a positive direction (i.e. higher scores denote higher quality of life). The mean score of items within each domain is used to calculate the domain score."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Rapid Assessment of Physical Activity",
+                "time_frame": "2 months",
+                "description": "Rapid Assessment of Physical Activity (RAPA) is an easy-to-use form which assesses both aerobic and strength & flexibility exercise levels. Turkish version of RAPA will be used in the study. The RAPA questionnaire is based on a scale of 1-7 measuring the amount and intensity and duration of physical activity that a person does. A score of 5 or below signifies sub-optimal physical activity and that of 6 or above signifies optimal physical activity. The activities are divided into light, moderate and vigorous activities."
+            },
+            {
+                "measure": "Global Rating of Change Scale",
+                "time_frame": "2 months",
+                "description": "The effectiveness of the exercise will also be evaluated with the Global Rating of Change scale (GRC). GRC scales have short administration time, applicability to nearly all patient and healthy group. In the study -point scale will be used. It is ranging from -2 (very much worse), through 0 (unchanged) to +2 (much better)."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": [
+            "Social Isolation",
+            "Physical Inactivity",
+            "Well-Being"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Physical Activity Group",
+                "arm_group_type": "Experimental",
+                "description": "Individuals in this group will be given \"walk at home\" exercise video made by American Hearth Association. Videos for each week will be chosen by therapist. They will be asked to do exercise 3 days a week for 4 weeks by following the videos. The intensity and duration of the exercises will be gradually increased by therapists each week. Exercise follow-ups will be done over the phone and by asking individuals to keep an exercise diary."
+            },
+            {
+                "arm_group_label": "Control Group",
+                "arm_group_type": "No Intervention",
+                "description": "Physically inactive individuals will be included to study as control. Individuals will be asked to continue their daily routines."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Video based aerobic exercise",
+            "description": "During social isolation induced by COVID-19, physically inactive people will do exercise in company with aerobic exercises named videos\"walk at home\" which made by American Heart Association. 3 days a week in total 4 weeks. Each sessions will last approximately 30-40 minutes.",
+            "arm_group_label": "Physical Activity Group"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  who haven't been exercising before and also not thinking of exercising during the\n             isolation period\n\n          -  Who are willing to exercise during the isolation\n\n        Exclusion Criteria:\n\n          -  Having a disease that may interfere or aggravated with exercise such as orthopaedic\n             problems, chronic diseases, etc.\n\n          -  Having difficulty of understanding and following video-based exercises\n\n          -  Having diagnose of any kind of psychiatric condition such as major depression, panic\n             attack, etc."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "35 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": [
+            {
+                "last_name": "Ay\u015fe Zengin Alp\u00f6zgen, Assistant Professor, PhD",
+                "role": "Study Chair",
+                "affiliation": "Istanbul University-Cerrahpasa"
+            },
+            {
+                "last_name": "Begum Kara Kaya, MSc",
+                "role": "Principal Investigator",
+                "affiliation": "Biruni University"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Ay\u015fe Zengin Alp\u00f6zgen, Assistant Professor, PhD",
+            "phone": "+90 (212) 866 37 00",
+            "phone_ext": "43144",
+            "email": "azengin@istanbul.edu.tr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Biruni University",
+                    "address": {
+                        "city": "Istanbul",
+                        "country": "Turkey"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Istanbul University Cerrahpasa",
+                    "address": {
+                        "city": "Istanbul",
+                        "country": "Turkey"
+                    }
+                },
+                "contact": {
+                    "last_name": "Ayse Zengin Alpozgen, Assistant Professor, PhD",
+                    "phone": "+90(212) 866 37 00",
+                    "phone_ext": "43144",
+                    "email": "azengin@istanbul.edu.tr"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Eyl\u00fcl P\u0131nar K\u0131sa, MSc",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Pelin Tiryaki, MSc",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Esma Nur Kolba\u015f\u0131, MSc",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Gamze Polen \u015eim\u015fek, MSc",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            }
+        ],
+        "location_countries": {
+            "country": "Turkey"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Biruni University",
+            "investigator_full_name": "Begum Kara Kaya",
+            "investigator_title": "Lecturer"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

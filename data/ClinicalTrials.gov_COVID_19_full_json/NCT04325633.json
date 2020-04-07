@@ -1,1 +1,169 @@
-{"clinical_study": {"@rank": "10", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04325633"}, "id_info": {"org_study_id": "APHP200387", "nct_id": "NCT04325633"}, "brief_title": "Efficacy of Addition of Naproxen in the Treatment of Critically Ill Patients Hospitalized for COVID-19 Infection", "acronym": "ENACOVID", "official_title": "Efficacy of Addition of Naproxen in the Treatment of Critically Ill Patients Hospitalized for COVID-19 Infection", "sponsors": {"lead_sponsor": {"agency": "Assistance Publique - H\u00f4pitaux de Paris", "agency_class": "Other"}}, "source": "Assistance Publique - H\u00f4pitaux de Paris", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The symptoms of respiratory distress caused by COVID-19 may be reduced by drugs combining\n      anti-inflammatory and antiviral effects. This dual effect may simultaneously protect\n      severely-ill patients and reduce the viral load, therefore limiting virus dissemination We\n      want to demonstrate the superiority of naproxen (anti-inflamatory drug) treatment addition to\n      standard of care compared to standard of care in term of 30-day mortality."}, "detailed_description": {"textblock": "Coronavirus Disease 2019 (COVID-19) is due to SARS-CoV-2 infection. (1,2) The exacerbated\n      inflammatory response in COVID-19 infected critically ill patients calls for appropriate anti\n      inflammatory therapeutics combined with antiviral effects. Thus, drugs combining\n      anti-inflammatory and antiviral effects may reduce the symptoms of respiratory distress\n      caused by COVID-19. This dual effect may simultaneously protect severely ill patients and\n      reduce the viral load, therefore limiting virus dissemination. Naproxen, an approved\n      anti-inflammatory drug, is an inhibitor of both cyclo oxygenase (COX-2) and of Influenza A\n      virus nucleoprotein (NP). The NP of Coronavirus (CoV), positive-sense single-stranded\n      viruses, share with negative-sense single-stranded viruses as Influenza the ability to bind\n      to- and protect genomic RNA by forming self-associated oligomers in a helical structure with\n      RNA. Naproxen was shown to bind the Influenza A virus NP making electrostatic and hydrophobic\n      interactions with conserved residues of the RNA binding groove and C terminal domain. (3)\n      Consequently, naproxen binding competed with NP association with viral RNA and impeded the NP\n      self-association process which strongly reduced viral transcription/replication. This drug\n      may have the potential to present antiviral properties against SARS-CoV-2 suggested by\n      modelling work based on the structures of CoV NP. The high sequence conservation within the\n      coronavirus family, including severe acute respiratory syndrome (SARS-CoV) and the present\n      SARSCoV-2 coronavirus allows to perform this comparison. (4) A recent clinical trial shown\n      that the combination of clarithromycin, naproxen and oseltamivir reduced mortality of\n      patients hospitalized for H3N2 Influenza infection. (5). Inappropriate inflammatory response\n      in CODIV-19 patients was demonstrated in a recent study where Intensive Care Unit (ICU)\n      patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNF?\n      compared with non-ICU patients.(2) We suggest that naproxen could combine a broad-spectrum\n      antiviral activity with its well-known anti inflammatory action that could help reducing\n      severe respiratory mortality associated with COVID-19."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 27, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 27, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 27, 2021"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Mortality all causes at day30", "time_frame": "at day30"}, "secondary_outcome": [{"measure": "Number of days alive free of mechanical ventilation", "time_frame": "during 30 days after randomization"}, {"measure": "Number of days alive outside", "time_frame": "during 30 days after randomization"}, {"measure": "Number of days alive outside hospital", "time_frame": "during 30 days after randomization"}, {"measure": "Maximal changes in Sofa score", "time_frame": "in the first 7 days after randomization"}, {"measure": "Time to negativation of virus titer in the nasopharyngeal aspirate (NPA)", "time_frame": "during 90 days after randomization"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "584"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "1: Naproxen", "arm_group_type": "Experimental", "description": "Administration of naproxen 250 mg twice and lansoprazole 30 mg daily for prevention of gastropathy induced by stress or a nonsteroidal anti-inflammatory drug (NSAID) in addition to standard of care (SOC)"}, {"arm_group_label": "2: Standard of care", "arm_group_type": "Placebo Comparator", "description": "Standard of care"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "1: Naproxen", "description": "Description : Administration of naproxen 250 mg twice and lansoprazole 30 mg daily for prevention of gastropathy induced by stress or a nonsteroidal anti-inflammatory drug (NSAID) in addition to standard of care (SOC)", "arm_group_label": "1: Naproxen"}, {"intervention_type": "Drug", "intervention_name": "2: Standard of care", "description": "Standard of care", "arm_group_label": ["1: Naproxen", "2: Standard of care"]}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  COVID-19 infected patient\n\n          -  Age 18 years or older\n\n          -  Presence of pneumonia\n\n          -  PaO2/FiO2 < 300 mm Hg or SpO2 < 93% in air ambient or need to supplementary oxygen\n             administration in order to maintain SpO2 range in [94-98%] or lung infiltrates > 50%\n\n          -  Medical insurance\n\n        Exclusion Criteria:\n\n          -  Presence of do-not-resuscitate order\n\n          -  Pregnancy\n\n          -  Prisoners\n\n          -  Known Naproxen allergy or intolerance\n\n          -  Severe renal failure"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Fr\u00e9d\u00e9ric ADNET, MD, PhD", "role": "Principal Investigator", "affiliation": "Assistance Publique - H\u00f4pitaux de Paris"}, "overall_contact": {"last_name": "Fr\u00e9d\u00e9ric ADNET, MD, PhD", "phone": "+33 1-48-96-44-08", "email": "frederic.adnet@aphp.fr"}, "overall_contact_backup": {"last_name": "Anny SLAMA SCHWOK, MD", "email": "anny.slama-schwok@inserm.fr"}, "verification_date": "March 2020", "study_first_submitted": "March 26, 2020", "study_first_submitted_qc": "March 26, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "last_update_submitted": "March 26, 2020", "last_update_submitted_qc": "March 26, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["COVID-19", "SARS-COV-2", "Naproxen", "Nonsteroidal anti-inflamatory drug"], "condition_browse": {"mesh_term": "Critical Illness"}, "intervention_browse": {"mesh_term": "Naproxen"}}}
+{
+    "clinical_study": {
+        "@rank": "10",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04325633"
+        },
+        "id_info": {
+            "org_study_id": "APHP200387",
+            "nct_id": "NCT04325633"
+        },
+        "brief_title": "Efficacy of Addition of Naproxen in the Treatment of Critically Ill Patients Hospitalized for COVID-19 Infection",
+        "acronym": "ENACOVID",
+        "official_title": "Efficacy of Addition of Naproxen in the Treatment of Critically Ill Patients Hospitalized for COVID-19 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique - H\u00f4pitaux de Paris",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Assistance Publique - H\u00f4pitaux de Paris",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The symptoms of respiratory distress caused by COVID-19 may be reduced by drugs combining\n      anti-inflammatory and antiviral effects. This dual effect may simultaneously protect\n      severely-ill patients and reduce the viral load, therefore limiting virus dissemination We\n      want to demonstrate the superiority of naproxen (anti-inflamatory drug) treatment addition to\n      standard of care compared to standard of care in term of 30-day mortality."
+        },
+        "detailed_description": {
+            "textblock": "Coronavirus Disease 2019 (COVID-19) is due to SARS-CoV-2 infection. (1,2) The exacerbated\n      inflammatory response in COVID-19 infected critically ill patients calls for appropriate anti\n      inflammatory therapeutics combined with antiviral effects. Thus, drugs combining\n      anti-inflammatory and antiviral effects may reduce the symptoms of respiratory distress\n      caused by COVID-19. This dual effect may simultaneously protect severely ill patients and\n      reduce the viral load, therefore limiting virus dissemination. Naproxen, an approved\n      anti-inflammatory drug, is an inhibitor of both cyclo oxygenase (COX-2) and of Influenza A\n      virus nucleoprotein (NP). The NP of Coronavirus (CoV), positive-sense single-stranded\n      viruses, share with negative-sense single-stranded viruses as Influenza the ability to bind\n      to- and protect genomic RNA by forming self-associated oligomers in a helical structure with\n      RNA. Naproxen was shown to bind the Influenza A virus NP making electrostatic and hydrophobic\n      interactions with conserved residues of the RNA binding groove and C terminal domain. (3)\n      Consequently, naproxen binding competed with NP association with viral RNA and impeded the NP\n      self-association process which strongly reduced viral transcription/replication. This drug\n      may have the potential to present antiviral properties against SARS-CoV-2 suggested by\n      modelling work based on the structures of CoV NP. The high sequence conservation within the\n      coronavirus family, including severe acute respiratory syndrome (SARS-CoV) and the present\n      SARSCoV-2 coronavirus allows to perform this comparison. (4) A recent clinical trial shown\n      that the combination of clarithromycin, naproxen and oseltamivir reduced mortality of\n      patients hospitalized for H3N2 Influenza infection. (5). Inappropriate inflammatory response\n      in CODIV-19 patients was demonstrated in a recent study where Intensive Care Unit (ICU)\n      patients had higher plasma levels of IL2, IL7, IL10, GSCF, IP10, MCP1, MIP1A, and TNF?\n      compared with non-ICU patients.(2) We suggest that naproxen could combine a broad-spectrum\n      antiviral activity with its well-known anti inflammatory action that could help reducing\n      severe respiratory mortality associated with COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 27, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 27, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 27, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Mortality all causes at day30",
+            "time_frame": "at day30"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of days alive free of mechanical ventilation",
+                "time_frame": "during 30 days after randomization"
+            },
+            {
+                "measure": "Number of days alive outside",
+                "time_frame": "during 30 days after randomization"
+            },
+            {
+                "measure": "Number of days alive outside hospital",
+                "time_frame": "during 30 days after randomization"
+            },
+            {
+                "measure": "Maximal changes in Sofa score",
+                "time_frame": "in the first 7 days after randomization"
+            },
+            {
+                "measure": "Time to negativation of virus titer in the nasopharyngeal aspirate (NPA)",
+                "time_frame": "during 90 days after randomization"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "584"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "1: Naproxen",
+                "arm_group_type": "Experimental",
+                "description": "Administration of naproxen 250 mg twice and lansoprazole 30 mg daily for prevention of gastropathy induced by stress or a nonsteroidal anti-inflammatory drug (NSAID) in addition to standard of care (SOC)"
+            },
+            {
+                "arm_group_label": "2: Standard of care",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Standard of care"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "1: Naproxen",
+                "description": "Description : Administration of naproxen 250 mg twice and lansoprazole 30 mg daily for prevention of gastropathy induced by stress or a nonsteroidal anti-inflammatory drug (NSAID) in addition to standard of care (SOC)",
+                "arm_group_label": "1: Naproxen"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "2: Standard of care",
+                "description": "Standard of care",
+                "arm_group_label": [
+                    "1: Naproxen",
+                    "2: Standard of care"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 infected patient\n\n          -  Age 18 years or older\n\n          -  Presence of pneumonia\n\n          -  PaO2/FiO2 < 300 mm Hg or SpO2 < 93% in air ambient or need to supplementary oxygen\n             administration in order to maintain SpO2 range in [94-98%] or lung infiltrates > 50%\n\n          -  Medical insurance\n\n        Exclusion Criteria:\n\n          -  Presence of do-not-resuscitate order\n\n          -  Pregnancy\n\n          -  Prisoners\n\n          -  Known Naproxen allergy or intolerance\n\n          -  Severe renal failure"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Fr\u00e9d\u00e9ric ADNET, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Assistance Publique - H\u00f4pitaux de Paris"
+        },
+        "overall_contact": {
+            "last_name": "Fr\u00e9d\u00e9ric ADNET, MD, PhD",
+            "phone": "+33 1-48-96-44-08",
+            "email": "frederic.adnet@aphp.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Anny SLAMA SCHWOK, MD",
+            "email": "anny.slama-schwok@inserm.fr"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 26, 2020",
+        "study_first_submitted_qc": "March 26, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "last_update_submitted": "March 26, 2020",
+        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-COV-2",
+            "Naproxen",
+            "Nonsteroidal anti-inflamatory drug"
+        ],
+        "condition_browse": {
+            "mesh_term": "Critical Illness"
+        },
+        "intervention_browse": {
+            "mesh_term": "Naproxen"
+        }
+    }
+}

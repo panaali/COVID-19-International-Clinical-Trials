@@ -1,1 +1,200 @@
-{"clinical_study": {"@rank": "310", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04327804"}, "id_info": {"org_study_id": "20-002", "nct_id": "NCT04327804"}, "brief_title": "A Longitudinal Study of SARS-CoV-2 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research", "official_title": "A Longitudinal Study of SARS-CoV-2 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research", "sponsors": {"lead_sponsor": {"agency": "Dr. Deneen Vojta", "agency_class": "Industry"}, "collaborator": [{"agency": "PATH", "agency_class": "Other"}, {"agency": "Mayo Clinic", "agency_class": "Other"}, {"agency": "Bill and Melinda Gates Foundation", "agency_class": "Other"}]}, "source": "UnitedHealth Group", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Minimal risk research study:\n\n        1. Comparing polyester nasal swabs and foam nasal swabs to detect SARS-CoV-2 virus;\n\n        2. Quantifying the development and trajectory of the disease through clinic visits and\n           blood values."}, "detailed_description": {"textblock": "This work will serve both the Everett Clinic and broader UnitedHealth Group patient\n      populations as well as advance the public health emergency response to the community spread\n      of SARS-CoV-2 virus, especially as the number of cases and deaths continues to rise in many\n      geographies. A recent study conducted at The Everett Clinic showed that foam nasal swabs were\n      able to detect SARS-CoV-2 virus at comparable levels to nasopharyngeal (NP) swabs. We now\n      look to build of this work by comparing polyester foam swabs, which are more readily\n      available and mass producible, to foam nasal swabs, in their sensitivity for detecting\n      SARS-CoV-2 virus. We also plan to assess the viability of dry swabbing, where the swab is\n      stored without saline or viral transport media (VTM) at room temperature for four days, to\n      calculate the degradation of the viral sample. Finally, we will collect up to 50 mL/visit of\n      blood longitudinally from patients who have previously tested positive for SARS-CoV-2 at\n      visit one, two, and four weeks following their initial COVID-10 diagnosis These longitudinal\n      blood samples will help us gain a better understanding of the trajectory of COVID-19 (in\n      terms of both clinical symptomology and viral load) and antibody development. At each visit,\n      nasal swabs and blood samples will be collected, and the blood samples will be stored in a\n      repository for future research."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 25, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "April 10, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 3, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Case-Only", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Detection of SARS-CoV-2 virus", "time_frame": "42 days", "description": "Measure the agreement between the detection of SARS-CoV-2 virus using a foam nasal swab tested directly after collection, a polyester nasal swab tested directly after testing, and a polyester nasal swab stored at room temperature for four days without saline or VTM before being tested."}, "secondary_outcome": {"measure": "Trajectory of COVID-19 and antibody development", "time_frame": "2 months", "description": "Longitudinal blood samples from SARS-CoV-2 patients to gain a better understanding of the trajectory of COVID-19 and antibody development"}, "number_of_groups": "2", "enrollment": {"@type": "Anticipated", "#text": "120"}, "condition": "SARS-CoV Infection", "arm_group": [{"arm_group_label": "Odd numbered birth year", "description": "The collection of patient samples will be different as defined by odd/even birth year. Patients born in an odd numbered year will first have their left nostril swabbed by the foam swab followed by their right nostril being swabbed by the two polyester swabs."}, {"arm_group_label": "Even numbered birth year", "description": "The collection of patient samples will be different as defined by odd/even birth year. Patients born in an even numbered year will first have their left nostril swabbed by the two polyester swabs followed by their right nostril being swabbed by a foam swab."}], "intervention": {"intervention_type": "Diagnostic Test", "intervention_name": "Odd/Even birth year intervention groups", "description": "The nostril used and order of testing will be different in each arm.", "arm_group_label": ["Even numbered birth year", "Odd numbered birth year"]}, "biospec_retention": "Samples Without DNA", "biospec_descr": {"textblock": "Patients will return at the following times to complete the same battery of sample\n      collection:\n\n        -  7-9 days after initially testing positive;\n\n        -  14-18 days after initially testing positive;\n\n        -  28-42 days after initially testing positive. Additional visits, during which additional\n           samples could be collected may occur after 42 days if agreeable to the participants and\n           desired by the study investigators."}, "eligibility": {"study_pop": {"textblock": "All patients who previously tested positive for SARS-CoV-2 virus at the Everett Clinic\n        within the last month will be contacted and evaluated based on the inclusion/exclusion\n        criteria."}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  Existing patient of the Everett Clinic (i.e., has previously sought care)\n\n          -  Tested positive for SARS-CoV-2 virus (confirmed by RT-PCR) prior to time of enrollment\n\n        Exclusion Criteria:\n\n          -  Not able to demonstrate understanding of the study\n\n          -  Not able to safely travel to the clinic without endangering themselves or risking\n             exposing others to SARS-CoV-2\n\n          -  Medical history evidencing any of the following\n\n               -  Active nosebleed in the past 24 hours\n\n               -  Nasal surgery in the past two weeks\n\n               -  Chemotherapy treatment with low platelet and low white blood cell counts\n\n               -  Acute facial trauma\n\n          -  Advanced COVID-19 state that would preclude safe and feasible sample collection"}, "gender": "All", "minimum_age": "N/A", "maximum_age": "N/A"}, "overall_official": [{"last_name": "Ethan Berke", "role": "Principal Investigator", "affiliation": "UnitedHealth Group Research & Development"}, {"last_name": "Yuan Tu", "role": "Principal Investigator", "affiliation": "OptumCare, Everett Clinic"}], "overall_contact": {"last_name": "Ethan Berke", "phone": "603/286-0376", "email": "ethan.berke@uhg.com"}, "location": {"facility": {"name": "Everett Clinic", "address": {"city": "Seattle", "state": "Washington", "zip": "98133", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "Yuan Po Tu, MD"}}, "location_countries": {"country": "United States"}, "reference": [{"citation": "Coronavirus Disease 2019 (COVID-19) in the US. Centers for Disease Control and Prevention, accessed March 24, 2020. https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html"}, {"citation": "Padilla, Mariel. \" 'It feels like a war zone': Doctors and Nurses Plead for Masks on Social Media\". New York Times, March 19, 2020"}, {"citation": "Frosch, Dan, et al. \"Coronavirus Testing Chaos Across America\". Wall Street Journal, March 19, 2020"}], "verification_date": "March 2020", "study_first_submitted": "March 26, 2020", "study_first_submitted_qc": "March 26, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "last_update_submitted": "March 26, 2020", "last_update_submitted_qc": "March 26, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "UnitedHealth Group", "investigator_full_name": "Dr. Deneen Vojta", "investigator_title": "Executive Vice President and Chief Medical Officer"}, "condition_browse": {"mesh_term": ["Coronavirus Infections", "Severe Acute Respiratory Syndrome"]}, "patient_data": {"sharing_ipd": "Yes", "ipd_description": "Four data sources will be recorded for each patient who consents to participate in the study:\nElectronic medical record (EMR);\nResults of testing from the foam and polyester nasal swab samples;\nResults of any blood testing performed on the blood samples;\nResponses to a set of standard questions posed to each participant.", "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)", "Informed Consent Form (ICF)"], "ipd_time_frame": "2 months", "ipd_access_criteria": "The data collected due to this study will be extracted from the medical record and stored for additional research analysis to demonstrate equivalence between location in the two nasal swabs. Blood samples will be delivered to PATH and the Mayo Clinic for storage and analysis. Patients may not have access to these samples or the blood features derived from them after sample collection. Data will be shared between the participating clinics, UHG and collaborating partners performing the analysis of the samples and returning results."}}}
+{
+    "clinical_study": {
+        "@rank": "310",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04327804"
+        },
+        "id_info": {
+            "org_study_id": "20-002",
+            "nct_id": "NCT04327804"
+        },
+        "brief_title": "A Longitudinal Study of SARS-CoV-2 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research",
+        "official_title": "A Longitudinal Study of SARS-CoV-2 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Dr. Deneen Vojta",
+                "agency_class": "Industry"
+            },
+            "collaborator": [
+                {
+                    "agency": "PATH",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Mayo Clinic",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Bill and Melinda Gates Foundation",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "UnitedHealth Group",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Minimal risk research study:\n\n        1. Comparing polyester nasal swabs and foam nasal swabs to detect SARS-CoV-2 virus;\n\n        2. Quantifying the development and trajectory of the disease through clinic visits and\n           blood values."
+        },
+        "detailed_description": {
+            "textblock": "This work will serve both the Everett Clinic and broader UnitedHealth Group patient\n      populations as well as advance the public health emergency response to the community spread\n      of SARS-CoV-2 virus, especially as the number of cases and deaths continues to rise in many\n      geographies. A recent study conducted at The Everett Clinic showed that foam nasal swabs were\n      able to detect SARS-CoV-2 virus at comparable levels to nasopharyngeal (NP) swabs. We now\n      look to build of this work by comparing polyester foam swabs, which are more readily\n      available and mass producible, to foam nasal swabs, in their sensitivity for detecting\n      SARS-CoV-2 virus. We also plan to assess the viability of dry swabbing, where the swab is\n      stored without saline or viral transport media (VTM) at room temperature for four days, to\n      calculate the degradation of the viral sample. Finally, we will collect up to 50 mL/visit of\n      blood longitudinally from patients who have previously tested positive for SARS-CoV-2 at\n      visit one, two, and four weeks following their initial COVID-10 diagnosis These longitudinal\n      blood samples will help us gain a better understanding of the trajectory of COVID-19 (in\n      terms of both clinical symptomology and viral load) and antibody development. At each visit,\n      nasal swabs and blood samples will be collected, and the blood samples will be stored in a\n      repository for future research."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 3, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Detection of SARS-CoV-2 virus",
+            "time_frame": "42 days",
+            "description": "Measure the agreement between the detection of SARS-CoV-2 virus using a foam nasal swab tested directly after collection, a polyester nasal swab tested directly after testing, and a polyester nasal swab stored at room temperature for four days without saline or VTM before being tested."
+        },
+        "secondary_outcome": {
+            "measure": "Trajectory of COVID-19 and antibody development",
+            "time_frame": "2 months",
+            "description": "Longitudinal blood samples from SARS-CoV-2 patients to gain a better understanding of the trajectory of COVID-19 and antibody development"
+        },
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "120"
+        },
+        "condition": "SARS-CoV Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Odd numbered birth year",
+                "description": "The collection of patient samples will be different as defined by odd/even birth year. Patients born in an odd numbered year will first have their left nostril swabbed by the foam swab followed by their right nostril being swabbed by the two polyester swabs."
+            },
+            {
+                "arm_group_label": "Even numbered birth year",
+                "description": "The collection of patient samples will be different as defined by odd/even birth year. Patients born in an even numbered year will first have their left nostril swabbed by the two polyester swabs followed by their right nostril being swabbed by a foam swab."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "Odd/Even birth year intervention groups",
+            "description": "The nostril used and order of testing will be different in each arm.",
+            "arm_group_label": [
+                "Even numbered birth year",
+                "Odd numbered birth year"
+            ]
+        },
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "Patients will return at the following times to complete the same battery of sample\n      collection:\n\n        -  7-9 days after initially testing positive;\n\n        -  14-18 days after initially testing positive;\n\n        -  28-42 days after initially testing positive. Additional visits, during which additional\n           samples could be collected may occur after 42 days if agreeable to the participants and\n           desired by the study investigators."
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All patients who previously tested positive for SARS-CoV-2 virus at the Everett Clinic\n        within the last month will be contacted and evaluated based on the inclusion/exclusion\n        criteria."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Existing patient of the Everett Clinic (i.e., has previously sought care)\n\n          -  Tested positive for SARS-CoV-2 virus (confirmed by RT-PCR) prior to time of enrollment\n\n        Exclusion Criteria:\n\n          -  Not able to demonstrate understanding of the study\n\n          -  Not able to safely travel to the clinic without endangering themselves or risking\n             exposing others to SARS-CoV-2\n\n          -  Medical history evidencing any of the following\n\n               -  Active nosebleed in the past 24 hours\n\n               -  Nasal surgery in the past two weeks\n\n               -  Chemotherapy treatment with low platelet and low white blood cell counts\n\n               -  Acute facial trauma\n\n          -  Advanced COVID-19 state that would preclude safe and feasible sample collection"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A"
+        },
+        "overall_official": [
+            {
+                "last_name": "Ethan Berke",
+                "role": "Principal Investigator",
+                "affiliation": "UnitedHealth Group Research & Development"
+            },
+            {
+                "last_name": "Yuan Tu",
+                "role": "Principal Investigator",
+                "affiliation": "OptumCare, Everett Clinic"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Ethan Berke",
+            "phone": "603/286-0376",
+            "email": "ethan.berke@uhg.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Everett Clinic",
+                "address": {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "zip": "98133",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Yuan Po Tu, MD"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "reference": [
+            {
+                "citation": "Coronavirus Disease 2019 (COVID-19) in the US. Centers for Disease Control and Prevention, accessed March 24, 2020. https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html"
+            },
+            {
+                "citation": "Padilla, Mariel. \" 'It feels like a war zone': Doctors and Nurses Plead for Masks on Social Media\". New York Times, March 19, 2020"
+            },
+            {
+                "citation": "Frosch, Dan, et al. \"Coronavirus Testing Chaos Across America\". Wall Street Journal, March 19, 2020"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 26, 2020",
+        "study_first_submitted_qc": "March 26, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "last_update_submitted": "March 26, 2020",
+        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "UnitedHealth Group",
+            "investigator_full_name": "Dr. Deneen Vojta",
+            "investigator_title": "Executive Vice President and Chief Medical Officer"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "Four data sources will be recorded for each patient who consents to participate in the study:\nElectronic medical record (EMR);\nResults of testing from the foam and polyester nasal swab samples;\nResults of any blood testing performed on the blood samples;\nResponses to a set of standard questions posed to each participant.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)"
+            ],
+            "ipd_time_frame": "2 months",
+            "ipd_access_criteria": "The data collected due to this study will be extracted from the medical record and stored for additional research analysis to demonstrate equivalence between location in the two nasal swabs. Blood samples will be delivered to PATH and the Mayo Clinic for storage and analysis. Patients may not have access to these samples or the blood features derived from them after sample collection. Data will be shared between the participating clinics, UHG and collaborating partners performing the analysis of the samples and returning results."
+        }
+    }
+}

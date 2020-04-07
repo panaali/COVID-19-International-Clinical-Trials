@@ -1,1 +1,196 @@
-{"clinical_study": {"@rank": "217", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04335747"}, "id_info": {"org_study_id": "20200401", "nct_id": "NCT04335747"}, "brief_title": "COVID-19 Infection in Vulnerable Patients With Inflammatory Rheumatic Diseases", "official_title": "COVID-19 Infection in Vulnerable Patients With Inflammatory Rheumatic Diseases", "sponsors": {"lead_sponsor": {"agency": "Salome Kristensen", "agency_class": "Other"}}, "source": "Aalborg University Hospital", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "In a prospective, observational study we will aim to identify risk factors for serious\n      COVID-19 infection by evaluating clinical measures and biomarkers of inflammation in patients\n      with inflammatory rheumatic disease hospitalized with COVID-19 compared with control groups."}, "detailed_description": {"textblock": "The pandemic caused by the coronavirus, SARS-CoV-19, has severely affected health care\n      systems around the world. In Denmark, more than 85,000 patients have a diagnosis of\n      rheumatoid arthritis (RA), psoriatic arthritis, ankylosing spondylitis, systemic lupus\n      erythematosus (SLE), or giant cell arthritis, and many are treated with immunosuppressive\n      therapy including biologics.\n\n      At present it is unclear whether the best course of action during a viral pandemic is to\n      pause treatment with biologics, change to drugs with a different mode of action or continue\n      treatment as usual.\n\n      Many patients with RA and SLE receive hydroxychloroquine (HCL) treatment for their rheumatic\n      disease, but HCL has also been suggested as a potential treatment for COVID-19 infection.\n\n      We aim to identify risk factors for serious COVID-19 infection by evaluating clinical\n      measures and biomarkers of inflammation, including IL6 and IL10 in patients with inflammatory\n      rheumatic disease hospitalized with COVID-19 compared with measures in control groups."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 8, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "September 1, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "August 1, 2021"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Disease activity", "time_frame": "Last registration of disease activity in the medical journal before admission/inclusion", "description": "The objective is to examine whether increased disease activity leads to increased risk of hospitalization due to COVID-19 in patients with inflammatory rheumatic disease"}, "secondary_outcome": [{"measure": "Immune modulating treatments", "time_frame": "Current immune modulating treatments at admission/inclusion", "description": "Examine whether immune modulating treatments protect or leads to increased risk of hospitalization due to COVID-19 in patients with inflammatory rheumatic disease."}, {"measure": "Biomarkers", "time_frame": "Blood sample 1 is taken 0-3 days after inclusion and blood sample 2 is taken 2-6 weeks after blood sample 1", "description": "Identify prognostic biomarkers by comparing serology of patients with inflammatory rheumatic disease hospitalized with COVID-19 and comparing them with the two control groups"}], "number_of_groups": "4", "enrollment": {"@type": "Anticipated", "#text": "333"}, "condition": ["Rheumatoid Arthritis", "Psoriatic Arthritis", "Axial Spondyloarthritis", "Systemic Lupus Erythematosus", "Giant Cell Arteritis"], "arm_group": [{"arm_group_label": "Group 1", "description": "Patients with inflammatory rheumatic diseases who are hospitalised due to a COVID-19 infection"}, {"arm_group_label": "Group 2", "description": "Patients without inflammatory diseases who are hospitalised due to a COVID-19 infection"}, {"arm_group_label": "Group 3", "description": "Patients with inflammatory rheumatic diseases who are having routine blood samples taken under the COVID-19 epidemic after inclusion and who have NOT been hospitalised due to a COVID-19 infection"}, {"arm_group_label": "Group 4", "description": "Healthy subjects from the Danish Blood Donors have NOT been hospitalised due to a COVID-19 infection"}], "intervention": {"intervention_type": "Other", "intervention_name": "COVID-19 infection", "description": "Hospitalisation due to a confirmed COVID-19 infection", "arm_group_label": ["Group 1", "Group 2"]}, "biospec_retention": "Samples With DNA", "biospec_descr": {"textblock": "Whole blood"}, "eligibility": {"study_pop": {"textblock": "Groups 1 and 2: admitted patients with a COVID-19 infection at Aalborg University Hospital\n        Group 3: the Rheumatology Outpatient Clinic at Aalborg University Hospital Group 4: the\n        Blood Bank for Danish Blood Donors at Aalborg University Hospital"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n        Group 1:\n\n          -  Diagnosed with RA, PsA, axSpA, SLE or AT and currently treated with either\n             conventional synthetic disease modifying antirheumatic drugs (csDMARDs), biologic\n             disease modifying antirheumatic drugs (bDMARDs), targeted synthetic disease modifying\n             antirheumatic drugs (tsDMARDs) or prednisolone.\n\n          -  Diagnosed with COVID-19 verified by Polymerase Chain Reaction (PCR) or other accepted\n             methods and hospitalized.\n\n          -  NOT diagnosed with disease known to cause either immunodeficiency or modification\n             (Human Immunodeficiency Virus [HIV], lymphoproliferative disease etc.).\n\n          -  Patients (\u226518 years).\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff.\n\n        Group 2:\n\n          -  NOT diagnosed with an inflammatory disease\n\n          -  NOT treated with either csDMARDs, bDMARDs, tsDMARDs during the past 6 months or\n             current oral prednisolone treatment.\n\n          -  Diagnosed with COVID-19 verified by PCR or other accepted methods and hospitalized.\n\n          -  NOT diagnosed with disease known to cause either immunodeficiency or modification\n             (HIV, lymphoproliferative disease etc.).\n\n          -  Patients (\u226518 years).\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff.\n\n        Group 3:\n\n          -  Diagnosed with RA, PsA, axSpA, SLE or AT and currently treated with either csDMARDs,\n             bDMARDs, tsDMARDs or prednisolone.\n\n          -  NOT hospitalised due to a COVID-19 infection.\n\n          -  NOT diagnosed with disease known to cause either immunodeficiency or modification\n             (HIV, lymphoproliferative disease etc.).\n\n          -  Patients (\u226518 years).\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff.\n\n        Group 4:\n\n          -  Healthy subjects from the Danish Blood Donors.\n\n          -  Patients (\u226518 years).\n\n          -  NOT diagnosed with an inflammatory disease.\n\n          -  NOT treated with either csDMARDs, bDMARDs, tsDMARDs during the past 6 months or\n             current oral prednisolone treatment.\n\n          -  NOT hospitalised due to a COVID-19 infection.\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_official": {"last_name": "Salome Kristensen, MD, PhD", "role": "Principal Investigator", "affiliation": "Department of Rheumatology, Aalborg University Hospital"}, "overall_contact": {"last_name": "Line Uhrenholt, MD", "phone": "+45 21707727", "email": "l.uhrenholt@rn.dk"}, "overall_contact_backup": {"last_name": "Salome Kristensen, MD, PhD"}, "location": {"facility": {"name": "Aalborg University Hospital", "address": {"city": "Aalborg", "zip": "9000", "country": "Denmark"}}, "contact": {"last_name": "Line Uhrenholt, MD", "phone": "+45 21707727", "email": "l.uhrenholt@rn.dk"}, "contact_backup": {"last_name": "Salome Kristensen, MD, PhD", "email": "sakr@rn.dk"}}, "location_countries": {"country": "Denmark"}, "verification_date": "April 2020", "study_first_submitted": "April 3, 2020", "study_first_submitted_qc": "April 3, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 3, 2020", "last_update_submitted_qc": "April 3, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Aalborg University Hospital", "investigator_full_name": "Salome Kristensen", "investigator_title": "MD, PhD"}, "condition_browse": {"mesh_term": ["Arthritis", "Arthritis, Psoriatic", "Rheumatic Diseases", "Spondylarthritis", "Polymyalgia Rheumatica", "Giant Cell Arteritis", "Arteritis", "Lupus Erythematosus, Systemic", "Collagen Diseases"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "217",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04335747"
+        },
+        "id_info": {
+            "org_study_id": "20200401",
+            "nct_id": "NCT04335747"
+        },
+        "brief_title": "COVID-19 Infection in Vulnerable Patients With Inflammatory Rheumatic Diseases",
+        "official_title": "COVID-19 Infection in Vulnerable Patients With Inflammatory Rheumatic Diseases",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Salome Kristensen",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Aalborg University Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "In a prospective, observational study we will aim to identify risk factors for serious\n      COVID-19 infection by evaluating clinical measures and biomarkers of inflammation in patients\n      with inflammatory rheumatic disease hospitalized with COVID-19 compared with control groups."
+        },
+        "detailed_description": {
+            "textblock": "The pandemic caused by the coronavirus, SARS-CoV-19, has severely affected health care\n      systems around the world. In Denmark, more than 85,000 patients have a diagnosis of\n      rheumatoid arthritis (RA), psoriatic arthritis, ankylosing spondylitis, systemic lupus\n      erythematosus (SLE), or giant cell arthritis, and many are treated with immunosuppressive\n      therapy including biologics.\n\n      At present it is unclear whether the best course of action during a viral pandemic is to\n      pause treatment with biologics, change to drugs with a different mode of action or continue\n      treatment as usual.\n\n      Many patients with RA and SLE receive hydroxychloroquine (HCL) treatment for their rheumatic\n      disease, but HCL has also been suggested as a potential treatment for COVID-19 infection.\n\n      We aim to identify risk factors for serious COVID-19 infection by evaluating clinical\n      measures and biomarkers of inflammation, including IL6 and IL10 in patients with inflammatory\n      rheumatic disease hospitalized with COVID-19 compared with measures in control groups."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 8, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 1, 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Disease activity",
+            "time_frame": "Last registration of disease activity in the medical journal before admission/inclusion",
+            "description": "The objective is to examine whether increased disease activity leads to increased risk of hospitalization due to COVID-19 in patients with inflammatory rheumatic disease"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Immune modulating treatments",
+                "time_frame": "Current immune modulating treatments at admission/inclusion",
+                "description": "Examine whether immune modulating treatments protect or leads to increased risk of hospitalization due to COVID-19 in patients with inflammatory rheumatic disease."
+            },
+            {
+                "measure": "Biomarkers",
+                "time_frame": "Blood sample 1 is taken 0-3 days after inclusion and blood sample 2 is taken 2-6 weeks after blood sample 1",
+                "description": "Identify prognostic biomarkers by comparing serology of patients with inflammatory rheumatic disease hospitalized with COVID-19 and comparing them with the two control groups"
+            }
+        ],
+        "number_of_groups": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "333"
+        },
+        "condition": [
+            "Rheumatoid Arthritis",
+            "Psoriatic Arthritis",
+            "Axial Spondyloarthritis",
+            "Systemic Lupus Erythematosus",
+            "Giant Cell Arteritis"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Group 1",
+                "description": "Patients with inflammatory rheumatic diseases who are hospitalised due to a COVID-19 infection"
+            },
+            {
+                "arm_group_label": "Group 2",
+                "description": "Patients without inflammatory diseases who are hospitalised due to a COVID-19 infection"
+            },
+            {
+                "arm_group_label": "Group 3",
+                "description": "Patients with inflammatory rheumatic diseases who are having routine blood samples taken under the COVID-19 epidemic after inclusion and who have NOT been hospitalised due to a COVID-19 infection"
+            },
+            {
+                "arm_group_label": "Group 4",
+                "description": "Healthy subjects from the Danish Blood Donors have NOT been hospitalised due to a COVID-19 infection"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "COVID-19 infection",
+            "description": "Hospitalisation due to a confirmed COVID-19 infection",
+            "arm_group_label": [
+                "Group 1",
+                "Group 2"
+            ]
+        },
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "Whole blood"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Groups 1 and 2: admitted patients with a COVID-19 infection at Aalborg University Hospital\n        Group 3: the Rheumatology Outpatient Clinic at Aalborg University Hospital Group 4: the\n        Blood Bank for Danish Blood Donors at Aalborg University Hospital"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Group 1:\n\n          -  Diagnosed with RA, PsA, axSpA, SLE or AT and currently treated with either\n             conventional synthetic disease modifying antirheumatic drugs (csDMARDs), biologic\n             disease modifying antirheumatic drugs (bDMARDs), targeted synthetic disease modifying\n             antirheumatic drugs (tsDMARDs) or prednisolone.\n\n          -  Diagnosed with COVID-19 verified by Polymerase Chain Reaction (PCR) or other accepted\n             methods and hospitalized.\n\n          -  NOT diagnosed with disease known to cause either immunodeficiency or modification\n             (Human Immunodeficiency Virus [HIV], lymphoproliferative disease etc.).\n\n          -  Patients (\u226518 years).\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff.\n\n        Group 2:\n\n          -  NOT diagnosed with an inflammatory disease\n\n          -  NOT treated with either csDMARDs, bDMARDs, tsDMARDs during the past 6 months or\n             current oral prednisolone treatment.\n\n          -  Diagnosed with COVID-19 verified by PCR or other accepted methods and hospitalized.\n\n          -  NOT diagnosed with disease known to cause either immunodeficiency or modification\n             (HIV, lymphoproliferative disease etc.).\n\n          -  Patients (\u226518 years).\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff.\n\n        Group 3:\n\n          -  Diagnosed with RA, PsA, axSpA, SLE or AT and currently treated with either csDMARDs,\n             bDMARDs, tsDMARDs or prednisolone.\n\n          -  NOT hospitalised due to a COVID-19 infection.\n\n          -  NOT diagnosed with disease known to cause either immunodeficiency or modification\n             (HIV, lymphoproliferative disease etc.).\n\n          -  Patients (\u226518 years).\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff.\n\n        Group 4:\n\n          -  Healthy subjects from the Danish Blood Donors.\n\n          -  Patients (\u226518 years).\n\n          -  NOT diagnosed with an inflammatory disease.\n\n          -  NOT treated with either csDMARDs, bDMARDs, tsDMARDs during the past 6 months or\n             current oral prednisolone treatment.\n\n          -  NOT hospitalised due to a COVID-19 infection.\n\n          -  Ability and willingness to give written informed consent.\n\n          -  Ability to cooperate with research staff."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Salome Kristensen, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Department of Rheumatology, Aalborg University Hospital"
+        },
+        "overall_contact": {
+            "last_name": "Line Uhrenholt, MD",
+            "phone": "+45 21707727",
+            "email": "l.uhrenholt@rn.dk"
+        },
+        "overall_contact_backup": {
+            "last_name": "Salome Kristensen, MD, PhD"
+        },
+        "location": {
+            "facility": {
+                "name": "Aalborg University Hospital",
+                "address": {
+                    "city": "Aalborg",
+                    "zip": "9000",
+                    "country": "Denmark"
+                }
+            },
+            "contact": {
+                "last_name": "Line Uhrenholt, MD",
+                "phone": "+45 21707727",
+                "email": "l.uhrenholt@rn.dk"
+            },
+            "contact_backup": {
+                "last_name": "Salome Kristensen, MD, PhD",
+                "email": "sakr@rn.dk"
+            }
+        },
+        "location_countries": {
+            "country": "Denmark"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Aalborg University Hospital",
+            "investigator_full_name": "Salome Kristensen",
+            "investigator_title": "MD, PhD"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Arthritis",
+                "Arthritis, Psoriatic",
+                "Rheumatic Diseases",
+                "Spondylarthritis",
+                "Polymyalgia Rheumatica",
+                "Giant Cell Arteritis",
+                "Arteritis",
+                "Lupus Erythematosus, Systemic",
+                "Collagen Diseases"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,1 +1,178 @@
-{"clinical_study": {"@rank": "69", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04318301"}, "id_info": {"org_study_id": "Zhenhuazen2018", "nct_id": "NCT04318301"}, "brief_title": "Hypertension in Patients Hospitalized With COVID-19", "acronym": "HT-COVID19", "official_title": "Hypertension in Patients Hospitalized With COVID-19 in Wuhan, China: A Single-center Retrospective Observational Study", "sponsors": {"lead_sponsor": {"agency": "Zhenhua Zen", "agency_class": "Other"}}, "source": "Nanfang Hospital of Southern Medical University", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Some studies have shown that the main pathogenesis of patients with covid19 is related to\n      ACE2 receptor. Lung is one of the main organs, and there are many ACE2 receptors in\n      cardiovascular system. ACEI / ARB is the main target of antihypertensive drugs. Previous\n      reports suggested that there were large number of patients with covid19 also suffered from\n      hypertension, suggesting that patients with hypertension may be the susceptible to covid19.\n      Therefore, we try to follow up the patients admitted to Hankou hospital to explore the impact\n      of hypertension and hypertension treatment on the severity and prognosis of patients with\n      covid19, so as to provide new methods for the treatment of patients with covid19 in the\n      future."}, "detailed_description": {"textblock": "In December, 2019, a cluster of severe pneumonia cases of unknown cause emerged in Wuhan,\n      China, with clinical presentations greatly resembling viral pneumonia1. Deep sequencing\n      analysis from lower respiratory tract samples indicated a novel coronavirus, which was named\n      2019 novel coronavirus (2019-nCoV, then named COVID-19). Up to Mar 16, 2020, the total number\n      of patients had risen sharply to 153,546 confirmed cases worldwide\n      (http://2019ncov.chinacdc.cn/2019-nCoV/global.html). The data extracted from 1099 patients\n      with laboratory-confirmed COVID-19 in China from January 29, 2020 showed that hypertension is\n      the most common coexisting illness of COVID-19 patients, ranging from 13.4% in nonsevere\n      patient vs. 23.4% in severe patients, and the total incidence is as high as 15%2.\n      Interestingly, ACE2 is involved in the pathogenesis of both hypertension and SARS-COV-2\n      pneumonia. The above reasons prompted us to speculate that the organs attacked by SARS-COV-2\n      might not only be lungs, but also include other ACE2 expression organs, especially\n      cardiovascular system. In addition, patients with comorbid hypertension, especially those\n      with long-term oral ACEI/ARB medication for hypertension, might have different susceptibility\n      and severity levels of pneumonia upon SARS-COV-2 attack. Therefore, we investigated and\n      compared the demographic characteristics, coexisting disease, severity of pneumonia, and the\n      effect of antihypertensive drugs (ACEI/ARB versus non-ACEI/ARB) in patients with COVID-19\n      coexisting hypertension, thereby, hopefully, to reduce the mortality and morbidity associated\n      with hypertension in patients with COVID-19."}, "overall_status": "Active, not recruiting", "start_date": {"@type": "Actual", "#text": "March 21, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 28, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Case-Control", "time_perspective": "Retrospective"}, "primary_outcome": {"measure": "Rate of Death", "time_frame": "From date of admission until the date of death from any cause, up to 60 days", "description": "mortality in 28-day"}, "secondary_outcome": {"measure": "the severity of pneumonia", "time_frame": "From date of admission until the date of discharge or death from any cause, up to 60 days", "description": "evaluate the severity of pneumonia according to CT scans and clinical manifestation"}, "other_outcome": {"measure": "the length of hospital stay", "time_frame": "From date of admission until the date of discharge or death from any cause, up to 60 days", "description": "days from admission to discharge or death"}, "number_of_groups": "2", "enrollment": {"@type": "Actual", "#text": "275"}, "condition": ["COVID-19", "Hypertension"], "arm_group": [{"arm_group_label": "ACEI/ARB", "description": "COVID-19 patients with hypertension who had previously taken ACEI/ARB for antihypertensive treatment"}, {"arm_group_label": "non ACEI/ARB", "description": "COVID-19 patients with hypertension who had not previously taken ACEI/ARB for antihypertensive treatment"}], "biospec_retention": "None Retained", "biospec_descr": {"textblock": "Blood"}, "eligibility": {"study_pop": {"textblock": "Patients with clinically confirmed COVID-19 admitted to Hankou Hospital, Wuhan, China from\n        January 5 to March 8, 2020."}, "sampling_method": "Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  COVID-19 pneumonia patients diagnosed by WHO criteria\n\n        Exclusion Criteria:\n\n          -  Patients who were younger than 18 years.\n\n          -  Patients whose entire stay lasted for less than 48 hours."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "100 Years", "healthy_volunteers": "No"}, "location": {"facility": {"name": "Hankou Hospital", "address": {"city": "Hankou", "state": "Hubei", "zip": "430000", "country": "China"}}}, "location_countries": {"country": "China"}, "link": {"url": "https://pubmed.ncbi.nlm.nih.gov/31978945/?from_single_result=31978945", "description": "A Novel Coronavirus From Patients With Pneumonia in China, 2019"}, "reference": [{"citation": "Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.", "PMID": "31978945"}, {"citation": "Li W, Moore MJ, Vasilieva N, Sui J, Wong SK, Berne MA, Somasundaran M, Sullivan JL, Luzuriaga K, Greenough TC, Choe H, Farzan M. Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature. 2003 Nov 27;426(6965):450-4.", "PMID": "14647384"}, {"citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.", "PMID": "31986264"}, {"citation": "Wang Z, Chen Z, Zhang L, Wang X, Hao G, Zhang Z, Shao L, Tian Y, Dong Y, Zheng C, Wang J, Zhu M, Weintraub WS, Gao R; China Hypertension Survey Investigators. Status of Hypertension in China: Results From the China Hypertension Survey, 2012-2015. Circulation. 2018 May 29;137(22):2344-2356. doi: 10.1161/CIRCULATIONAHA.117.032380. Epub 2018 Feb 15.", "PMID": "29449338"}, {"citation": "Ferrario CM, Jessup J, Chappell MC, Averill DB, Brosnihan KB, Tallant EA, Diz DI, Gallagher PE. Effect of angiotensin-converting enzyme inhibition and angiotensin II receptor blockers on cardiac angiotensin-converting enzyme 2. Circulation. 2005 May 24;111(20):2605-10. Epub 2005 May 16.", "PMID": "15897343"}, {"citation": "Turner AJ, Hiscox JA, Hooper NM. ACE2: from vasopeptidase to SARS virus receptor. Trends Pharmacol Sci. 2004 Jun;25(6):291-4. Review.", "PMID": "15165741"}], "verification_date": "March 2020", "study_first_submitted": "March 20, 2020", "study_first_submitted_qc": "March 20, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 23, 2020"}, "last_update_submitted": "March 21, 2020", "last_update_submitted_qc": "March 21, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 24, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Nanfang Hospital of Southern Medical University", "investigator_full_name": "Zhenhua Zen", "investigator_title": "Associate Professor"}, "keyword": ["COVID-19", "Hypertension", "ACE2"], "condition_browse": {"mesh_term": "Hypertension"}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "69",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04318301"
+        },
+        "id_info": {
+            "org_study_id": "Zhenhuazen2018",
+            "nct_id": "NCT04318301"
+        },
+        "brief_title": "Hypertension in Patients Hospitalized With COVID-19",
+        "acronym": "HT-COVID19",
+        "official_title": "Hypertension in Patients Hospitalized With COVID-19 in Wuhan, China: A Single-center Retrospective Observational Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Zhenhua Zen",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Nanfang Hospital of Southern Medical University",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Some studies have shown that the main pathogenesis of patients with covid19 is related to\n      ACE2 receptor. Lung is one of the main organs, and there are many ACE2 receptors in\n      cardiovascular system. ACEI / ARB is the main target of antihypertensive drugs. Previous\n      reports suggested that there were large number of patients with covid19 also suffered from\n      hypertension, suggesting that patients with hypertension may be the susceptible to covid19.\n      Therefore, we try to follow up the patients admitted to Hankou hospital to explore the impact\n      of hypertension and hypertension treatment on the severity and prognosis of patients with\n      covid19, so as to provide new methods for the treatment of patients with covid19 in the\n      future."
+        },
+        "detailed_description": {
+            "textblock": "In December, 2019, a cluster of severe pneumonia cases of unknown cause emerged in Wuhan,\n      China, with clinical presentations greatly resembling viral pneumonia1. Deep sequencing\n      analysis from lower respiratory tract samples indicated a novel coronavirus, which was named\n      2019 novel coronavirus (2019-nCoV, then named COVID-19). Up to Mar 16, 2020, the total number\n      of patients had risen sharply to 153,546 confirmed cases worldwide\n      (http://2019ncov.chinacdc.cn/2019-nCoV/global.html). The data extracted from 1099 patients\n      with laboratory-confirmed COVID-19 in China from January 29, 2020 showed that hypertension is\n      the most common coexisting illness of COVID-19 patients, ranging from 13.4% in nonsevere\n      patient vs. 23.4% in severe patients, and the total incidence is as high as 15%2.\n      Interestingly, ACE2 is involved in the pathogenesis of both hypertension and SARS-COV-2\n      pneumonia. The above reasons prompted us to speculate that the organs attacked by SARS-COV-2\n      might not only be lungs, but also include other ACE2 expression organs, especially\n      cardiovascular system. In addition, patients with comorbid hypertension, especially those\n      with long-term oral ACEI/ARB medication for hypertension, might have different susceptibility\n      and severity levels of pneumonia upon SARS-COV-2 attack. Therefore, we investigated and\n      compared the demographic characteristics, coexisting disease, severity of pneumonia, and the\n      effect of antihypertensive drugs (ACEI/ARB versus non-ACEI/ARB) in patients with COVID-19\n      coexisting hypertension, thereby, hopefully, to reduce the mortality and morbidity associated\n      with hypertension in patients with COVID-19."
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 21, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 28, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": {
+            "measure": "Rate of Death",
+            "time_frame": "From date of admission until the date of death from any cause, up to 60 days",
+            "description": "mortality in 28-day"
+        },
+        "secondary_outcome": {
+            "measure": "the severity of pneumonia",
+            "time_frame": "From date of admission until the date of discharge or death from any cause, up to 60 days",
+            "description": "evaluate the severity of pneumonia according to CT scans and clinical manifestation"
+        },
+        "other_outcome": {
+            "measure": "the length of hospital stay",
+            "time_frame": "From date of admission until the date of discharge or death from any cause, up to 60 days",
+            "description": "days from admission to discharge or death"
+        },
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "275"
+        },
+        "condition": [
+            "COVID-19",
+            "Hypertension"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "ACEI/ARB",
+                "description": "COVID-19 patients with hypertension who had previously taken ACEI/ARB for antihypertensive treatment"
+            },
+            {
+                "arm_group_label": "non ACEI/ARB",
+                "description": "COVID-19 patients with hypertension who had not previously taken ACEI/ARB for antihypertensive treatment"
+            }
+        ],
+        "biospec_retention": "None Retained",
+        "biospec_descr": {
+            "textblock": "Blood"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients with clinically confirmed COVID-19 admitted to Hankou Hospital, Wuhan, China from\n        January 5 to March 8, 2020."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 pneumonia patients diagnosed by WHO criteria\n\n        Exclusion Criteria:\n\n          -  Patients who were younger than 18 years.\n\n          -  Patients whose entire stay lasted for less than 48 hours."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "100 Years",
+            "healthy_volunteers": "No"
+        },
+        "location": {
+            "facility": {
+                "name": "Hankou Hospital",
+                "address": {
+                    "city": "Hankou",
+                    "state": "Hubei",
+                    "zip": "430000",
+                    "country": "China"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "link": {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31978945/?from_single_result=31978945",
+            "description": "A Novel Coronavirus From Patients With Pneumonia in China, 2019"
+        },
+        "reference": [
+            {
+                "citation": "Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.",
+                "PMID": "31978945"
+            },
+            {
+                "citation": "Li W, Moore MJ, Vasilieva N, Sui J, Wong SK, Berne MA, Somasundaran M, Sullivan JL, Luzuriaga K, Greenough TC, Choe H, Farzan M. Angiotensin-converting enzyme 2 is a functional receptor for the SARS coronavirus. Nature. 2003 Nov 27;426(6965):450-4.",
+                "PMID": "14647384"
+            },
+            {
+                "citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.",
+                "PMID": "31986264"
+            },
+            {
+                "citation": "Wang Z, Chen Z, Zhang L, Wang X, Hao G, Zhang Z, Shao L, Tian Y, Dong Y, Zheng C, Wang J, Zhu M, Weintraub WS, Gao R; China Hypertension Survey Investigators. Status of Hypertension in China: Results From the China Hypertension Survey, 2012-2015. Circulation. 2018 May 29;137(22):2344-2356. doi: 10.1161/CIRCULATIONAHA.117.032380. Epub 2018 Feb 15.",
+                "PMID": "29449338"
+            },
+            {
+                "citation": "Ferrario CM, Jessup J, Chappell MC, Averill DB, Brosnihan KB, Tallant EA, Diz DI, Gallagher PE. Effect of angiotensin-converting enzyme inhibition and angiotensin II receptor blockers on cardiac angiotensin-converting enzyme 2. Circulation. 2005 May 24;111(20):2605-10. Epub 2005 May 16.",
+                "PMID": "15897343"
+            },
+            {
+                "citation": "Turner AJ, Hiscox JA, Hooper NM. ACE2: from vasopeptidase to SARS virus receptor. Trends Pharmacol Sci. 2004 Jun;25(6):291-4. Review.",
+                "PMID": "15165741"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 20, 2020",
+        "study_first_submitted_qc": "March 20, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 23, 2020"
+        },
+        "last_update_submitted": "March 21, 2020",
+        "last_update_submitted_qc": "March 21, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Nanfang Hospital of Southern Medical University",
+            "investigator_full_name": "Zhenhua Zen",
+            "investigator_title": "Associate Professor"
+        },
+        "keyword": [
+            "COVID-19",
+            "Hypertension",
+            "ACE2"
+        ],
+        "condition_browse": {
+            "mesh_term": "Hypertension"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

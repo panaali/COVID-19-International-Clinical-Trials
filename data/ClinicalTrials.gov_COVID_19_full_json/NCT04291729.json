@@ -1,1 +1,186 @@
-{"clinical_study": {"@rank": "266", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04291729"}, "id_info": {"org_study_id": "ASC-CTP-NC-01", "nct_id": "NCT04291729"}, "brief_title": "Evaluation of Ganovo \uff08Danoprevir \uff09 Combined With Ritonavir in the Treatment of Novel Coronavirus Infection", "official_title": "An Open Clinical Trial to Evaluate Ganovo\uff08Danoprevir \uff09 Combined With Ritonavir in the Treatment of Novel Coronavirus\uff082019-nCoV\uff09 Infection", "sponsors": {"lead_sponsor": {"agency": "The Ninth Hospital of Nanchang", "agency_class": "Other"}, "collaborator": {"agency": "Ascletis Pharmaceuticals Co., Ltd.", "agency_class": "Industry"}}, "source": "The Ninth Hospital of Nanchang", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Evaluation of the efficacy and safety of Ganovo combined with ritonavir for 2019-nCoV\n      infected patients."}, "detailed_description": {"textblock": "Given no specific antiviral therapies for new coronavirus pneumonia approved yet and Ganovo,\n      an oral Hepatitis C virus protease inhibitor, approved in China in June 2018 , this open,\n      controlled trial will evaluate the efficacy and safety of Ganovo in hospitalized patients\n      infected with 2019-nCoV."}, "overall_status": "Completed", "start_date": {"@type": "Actual", "#text": "February 17, 2020"}, "completion_date": {"@type": "Actual", "#text": "March 19, 2020"}, "primary_completion_date": {"@type": "Actual", "#text": "March 19, 2020"}, "phase": "Phase 4", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Rate of composite adverse outcomes", "time_frame": "14 days", "description": "Defined as SPO2\u2264 93% without oxygen supplementation, PaO2/FiO2 \u2264300mmHg or a respiratory rate \u226530 breaths per min without supplemental oxygen"}, "secondary_outcome": [{"measure": "Time to recovery", "time_frame": "14 days", "description": "Clinical recovery was defined as sustained (48 hours) alleviation of illness based on symptom scores (fever, cough, diarrhea, myalgia, dyspnea) all being absent and no evidence for progression (newly-presented dyspnea, SpO2 decline \u22653%, respiratory rate \u2265 24 breaths per min without supplemental oxygen)."}, {"measure": "Rate of no fever", "time_frame": "14 days", "description": "Rate of no fever"}, {"measure": "Rate of no cough", "time_frame": "14 days", "description": "Rate of no cough"}, {"measure": "Rate of no dyspnea", "time_frame": "14 days", "description": "Rate of no dyspnea"}, {"measure": "Rate of no requiring supplemental oxygen", "time_frame": "14 days", "description": "Rate of no requiring supplemental oxygen"}, {"measure": "Rate of undetectable New coronavirus pathogen nucleic acid", "time_frame": "14 days", "description": "Rate of undetectable New coronavirus pathogen nucleic acid"}, {"measure": "Rate of mechanical ventilation", "time_frame": "14 days", "description": "Rate of mechanical ventilation"}, {"measure": "Rate of ICU admission", "time_frame": "14 days", "description": "Rate of ICU admission"}, {"measure": "Rate of serious adverse event", "time_frame": "14 days", "description": "Rate of serious adverse event"}], "number_of_arms": "1", "enrollment": {"@type": "Actual", "#text": "11"}, "condition": "2019-nCoV Pneumonia", "arm_group": {"arm_group_label": "Ganovo+ritonavir with or without interferon nebulization", "arm_group_type": "Experimental"}, "intervention": {"intervention_type": "Drug", "intervention_name": "Ganovo+ritonavir+/-Interferon nebulization", "description": "Ganovo one tablet (100mg / tablet) at a time, twice a day, up to 14 days. Ritonavir one tablet(100mg / tablet) at a time, twice a day, up to 14 days.With or without spray inhalation of interferon, 50\u03bcg / time for adults, twice a day up to 14 days.", "arm_group_label": "Ganovo+ritonavir with or without interferon nebulization"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Aged 18-75 years old;\n\n          -  Pneumonia patients with new coronavirus infection were confirmed to be positive by\n             RT-PCR and clinical manifestations. The diagnosis standard refers to the diagnosis and\n             treatment plan for pneumonia with new coronavirus infection (Current Trial Version);\n\n          -  Patients with newly diagnosed respiratory system discomfort who have been hospitalized\n             (the diagnosis time of respiratory system discomfort shall not exceed 7 days);\n\n          -  Women and their partners who have no planned pregnancy for nearly half a year and are\n             willing to take effective contraceptive measures within 30 days from the first\n             administration of the study drug to the last administration;\n\n          -  Agree not to participate in other clinical research within 30 days from the first\n             administration of the study drug to the last administration;\n\n          -  Patients who voluntarily sign informed consent.\n\n        Exclusion Criteria:\n\n          -  The pneumonia patients with severe new coronavirus infection met one of the following\n             conditions: respiratory distress, RR >= 30 times / min; or SaO2 / SpO2 <93% in resting\n             state; or arterial partial pressure of oxygen (PaO2) / concentration of oxygen (FiO2)\n             <300MMHG (1mmhg = 0.133kpa);\n\n          -  Pneumonia patients with severe new coronavirus infection meet one of the following\n             conditions: respiratory failure and need mechanical ventilation; or shock; or other\n             organ failure combined with ICU monitoring treatment;\n\n          -  Severe liver disease (such as child Pugh score >=C, AST > 5 times upper limit);\n\n          -  Patients with contraindications specified in the instructions of ritonavir tablets;\n\n          -  The pregnancy test of female subjects in the screening period was positive;\n\n          -  The researchers judged that it was not suitable to participate in this clinical trial\n             (for example, patients who may be transferred to another hospital during the study\n             period; patients with multiple basic diseases, etc.)."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "75 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Yahong Chen, MD", "role": "Study Director", "affiliation": "Ascletis Pharmaceuticals Co., Ltd."}, "location": {"facility": {"name": "The Ninth Hospital of Nanchang", "address": {"city": "Nanchang", "state": "Jiangxi", "zip": "330000", "country": "China"}}}, "location_countries": {"country": "China"}, "verification_date": "March 2020", "study_first_submitted": "February 27, 2020", "study_first_submitted_qc": "February 28, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 2, 2020"}, "last_update_submitted": "March 20, 2020", "last_update_submitted_qc": "March 20, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 24, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": ["Coronavirus Infections", "Pneumonia"]}, "intervention_browse": {"mesh_term": ["Interferons", "Ritonavir"]}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "266",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04291729"
+        },
+        "id_info": {
+            "org_study_id": "ASC-CTP-NC-01",
+            "nct_id": "NCT04291729"
+        },
+        "brief_title": "Evaluation of Ganovo \uff08Danoprevir \uff09 Combined With Ritonavir in the Treatment of Novel Coronavirus Infection",
+        "official_title": "An Open Clinical Trial to Evaluate Ganovo\uff08Danoprevir \uff09 Combined With Ritonavir in the Treatment of Novel Coronavirus\uff082019-nCoV\uff09 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "The Ninth Hospital of Nanchang",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Ascletis Pharmaceuticals Co., Ltd.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "The Ninth Hospital of Nanchang",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Evaluation of the efficacy and safety of Ganovo combined with ritonavir for 2019-nCoV\n      infected patients."
+        },
+        "detailed_description": {
+            "textblock": "Given no specific antiviral therapies for new coronavirus pneumonia approved yet and Ganovo,\n      an oral Hepatitis C virus protease inhibitor, approved in China in June 2018 , this open,\n      controlled trial will evaluate the efficacy and safety of Ganovo in hospitalized patients\n      infected with 2019-nCoV."
+        },
+        "overall_status": "Completed",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "February 17, 2020"
+        },
+        "completion_date": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "phase": "Phase 4",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Rate of composite adverse outcomes",
+            "time_frame": "14 days",
+            "description": "Defined as SPO2\u2264 93% without oxygen supplementation, PaO2/FiO2 \u2264300mmHg or a respiratory rate \u226530 breaths per min without supplemental oxygen"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time to recovery",
+                "time_frame": "14 days",
+                "description": "Clinical recovery was defined as sustained (48 hours) alleviation of illness based on symptom scores (fever, cough, diarrhea, myalgia, dyspnea) all being absent and no evidence for progression (newly-presented dyspnea, SpO2 decline \u22653%, respiratory rate \u2265 24 breaths per min without supplemental oxygen)."
+            },
+            {
+                "measure": "Rate of no fever",
+                "time_frame": "14 days",
+                "description": "Rate of no fever"
+            },
+            {
+                "measure": "Rate of no cough",
+                "time_frame": "14 days",
+                "description": "Rate of no cough"
+            },
+            {
+                "measure": "Rate of no dyspnea",
+                "time_frame": "14 days",
+                "description": "Rate of no dyspnea"
+            },
+            {
+                "measure": "Rate of no requiring supplemental oxygen",
+                "time_frame": "14 days",
+                "description": "Rate of no requiring supplemental oxygen"
+            },
+            {
+                "measure": "Rate of undetectable New coronavirus pathogen nucleic acid",
+                "time_frame": "14 days",
+                "description": "Rate of undetectable New coronavirus pathogen nucleic acid"
+            },
+            {
+                "measure": "Rate of mechanical ventilation",
+                "time_frame": "14 days",
+                "description": "Rate of mechanical ventilation"
+            },
+            {
+                "measure": "Rate of ICU admission",
+                "time_frame": "14 days",
+                "description": "Rate of ICU admission"
+            },
+            {
+                "measure": "Rate of serious adverse event",
+                "time_frame": "14 days",
+                "description": "Rate of serious adverse event"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "11"
+        },
+        "condition": "2019-nCoV Pneumonia",
+        "arm_group": {
+            "arm_group_label": "Ganovo+ritonavir with or without interferon nebulization",
+            "arm_group_type": "Experimental"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Ganovo+ritonavir+/-Interferon nebulization",
+            "description": "Ganovo one tablet (100mg / tablet) at a time, twice a day, up to 14 days. Ritonavir one tablet(100mg / tablet) at a time, twice a day, up to 14 days.With or without spray inhalation of interferon, 50\u03bcg / time for adults, twice a day up to 14 days.",
+            "arm_group_label": "Ganovo+ritonavir with or without interferon nebulization"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Aged 18-75 years old;\n\n          -  Pneumonia patients with new coronavirus infection were confirmed to be positive by\n             RT-PCR and clinical manifestations. The diagnosis standard refers to the diagnosis and\n             treatment plan for pneumonia with new coronavirus infection (Current Trial Version);\n\n          -  Patients with newly diagnosed respiratory system discomfort who have been hospitalized\n             (the diagnosis time of respiratory system discomfort shall not exceed 7 days);\n\n          -  Women and their partners who have no planned pregnancy for nearly half a year and are\n             willing to take effective contraceptive measures within 30 days from the first\n             administration of the study drug to the last administration;\n\n          -  Agree not to participate in other clinical research within 30 days from the first\n             administration of the study drug to the last administration;\n\n          -  Patients who voluntarily sign informed consent.\n\n        Exclusion Criteria:\n\n          -  The pneumonia patients with severe new coronavirus infection met one of the following\n             conditions: respiratory distress, RR >= 30 times / min; or SaO2 / SpO2 <93% in resting\n             state; or arterial partial pressure of oxygen (PaO2) / concentration of oxygen (FiO2)\n             <300MMHG (1mmhg = 0.133kpa);\n\n          -  Pneumonia patients with severe new coronavirus infection meet one of the following\n             conditions: respiratory failure and need mechanical ventilation; or shock; or other\n             organ failure combined with ICU monitoring treatment;\n\n          -  Severe liver disease (such as child Pugh score >=C, AST > 5 times upper limit);\n\n          -  Patients with contraindications specified in the instructions of ritonavir tablets;\n\n          -  The pregnancy test of female subjects in the screening period was positive;\n\n          -  The researchers judged that it was not suitable to participate in this clinical trial\n             (for example, patients who may be transferred to another hospital during the study\n             period; patients with multiple basic diseases, etc.)."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Yahong Chen, MD",
+            "role": "Study Director",
+            "affiliation": "Ascletis Pharmaceuticals Co., Ltd."
+        },
+        "location": {
+            "facility": {
+                "name": "The Ninth Hospital of Nanchang",
+                "address": {
+                    "city": "Nanchang",
+                    "state": "Jiangxi",
+                    "zip": "330000",
+                    "country": "China"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "February 27, 2020",
+        "study_first_submitted_qc": "February 28, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 2, 2020"
+        },
+        "last_update_submitted": "March 20, 2020",
+        "last_update_submitted_qc": "March 20, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Pneumonia"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Interferons",
+                "Ritonavir"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

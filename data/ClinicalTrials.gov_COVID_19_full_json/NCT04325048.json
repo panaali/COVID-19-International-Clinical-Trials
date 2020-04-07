@@ -1,1 +1,115 @@
-{"clinical_study": {"@rank": "251", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04325048"}, "id_info": {"org_study_id": "COV001", "nct_id": "NCT04325048"}, "brief_title": "Clinical Evaluation of Cordio Application in Adult COVID19 Virus Positive Patients", "official_title": "Single-Arm Observational Study Designed to Clinically Evaluate Cordio Application in Adult Patients Positive to COVID19", "sponsors": {"lead_sponsor": {"agency": "Cordio Medical", "agency_class": "Industry"}}, "source": "Cordio Medical", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Study on adult patients positive to COVID19 virus. After signing informed consent and\n      undergoing screening assessments, eligible patients will record few times a day several\n      pre-defined sentences to the Cordio App installed in a smartphone/tablet.\n\n      The app will upload the vocal data to the sponsor's servers for analysis. The patient will\n      record at hospital admittance (COVID19 positive) until patient defined as COVID19 negative\n      and free of relevant clinical symptoms."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 2020"}, "completion_date": {"@type": "Anticipated", "#text": "September 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "June 2021"}, "study_type": "Observational [Patient Registry]", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "target_duration": "2 Months", "primary_outcome": {"measure": "Voice anaysis", "time_frame": "1-2 years", "description": "patient voice that is recorded during the study will be anylaysis with specific algorithms"}, "enrollment": {"@type": "Anticipated", "#text": "5000"}, "condition": "Coronavirus Infection", "intervention": {"intervention_type": "Device", "intervention_name": "Cordio App", "description": "Adult patients positive to COVID19 virus will record several predefined sentences via a smartphone / tablet and will answer questions via the app"}, "eligibility": {"study_pop": {"textblock": "COVID19 positive patients, from medical center departments, ER, home/hotels hospitalization"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          1. 18+ years old\n\n          2. Diagnosed with COVID19 positive patients according to medical center guidelines, with\n             symptoms of cough and or dyspnea. Patients that diagnosed with pneumonia, should be\n             confirmed by X-ray and/or CT.\n\n          3. Able to understand and provide written informed consent (manually or electronically or\n             giving their consent via the telephone to the study investigator in case of isolated\n             patients).\n\n        Exclusion Criteria:\n\n          1. Subjects, in the Investigator's opinion, unable to comply with the daily use of the\n             application including mental disorders (e.g., depression, dementia).\n\n          2. Patients with severe alcohol or drug use.\n\n          3. Women who are pregnant or lactating.\n\n          4. Participating in another investigation therapy that may interfere with study results\n             (according to investigator discretion)"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Zaher Azzam, Prof", "role": "Principal Investigator", "affiliation": "Rambam Health Care Campus"}, "overall_contact": {"last_name": "Miri Yafee, MSc", "phone": "97235467159", "email": "miri@cordio-med.com"}, "verification_date": "March 2020", "study_first_submitted": "March 25, 2020", "study_first_submitted_qc": "March 25, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "last_update_submitted": "March 25, 2020", "last_update_submitted_qc": "March 25, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": "COVID19 positive", "condition_browse": {"mesh_term": ["Coronavirus Infections", "Severe Acute Respiratory Syndrome"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "251",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04325048"
+        },
+        "id_info": {
+            "org_study_id": "COV001",
+            "nct_id": "NCT04325048"
+        },
+        "brief_title": "Clinical Evaluation of Cordio Application in Adult COVID19 Virus Positive Patients",
+        "official_title": "Single-Arm Observational Study Designed to Clinically Evaluate Cordio Application in Adult Patients Positive to COVID19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Cordio Medical",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Cordio Medical",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Study on adult patients positive to COVID19 virus. After signing informed consent and\n      undergoing screening assessments, eligible patients will record few times a day several\n      pre-defined sentences to the Cordio App installed in a smartphone/tablet.\n\n      The app will upload the vocal data to the sponsor's servers for analysis. The patient will\n      record at hospital admittance (COVID19 positive) until patient defined as COVID19 negative\n      and free of relevant clinical symptoms."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 2021"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "2 Months",
+        "primary_outcome": {
+            "measure": "Voice anaysis",
+            "time_frame": "1-2 years",
+            "description": "patient voice that is recorded during the study will be anylaysis with specific algorithms"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "5000"
+        },
+        "condition": "Coronavirus Infection",
+        "intervention": {
+            "intervention_type": "Device",
+            "intervention_name": "Cordio App",
+            "description": "Adult patients positive to COVID19 virus will record several predefined sentences via a smartphone / tablet and will answer questions via the app"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "COVID19 positive patients, from medical center departments, ER, home/hotels hospitalization"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. 18+ years old\n\n          2. Diagnosed with COVID19 positive patients according to medical center guidelines, with\n             symptoms of cough and or dyspnea. Patients that diagnosed with pneumonia, should be\n             confirmed by X-ray and/or CT.\n\n          3. Able to understand and provide written informed consent (manually or electronically or\n             giving their consent via the telephone to the study investigator in case of isolated\n             patients).\n\n        Exclusion Criteria:\n\n          1. Subjects, in the Investigator's opinion, unable to comply with the daily use of the\n             application including mental disorders (e.g., depression, dementia).\n\n          2. Patients with severe alcohol or drug use.\n\n          3. Women who are pregnant or lactating.\n\n          4. Participating in another investigation therapy that may interfere with study results\n             (according to investigator discretion)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Zaher Azzam, Prof",
+            "role": "Principal Investigator",
+            "affiliation": "Rambam Health Care Campus"
+        },
+        "overall_contact": {
+            "last_name": "Miri Yafee, MSc",
+            "phone": "97235467159",
+            "email": "miri@cordio-med.com"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 25, 2020",
+        "study_first_submitted_qc": "March 25, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "last_update_submitted": "March 25, 2020",
+        "last_update_submitted_qc": "March 25, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "COVID19 positive",
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

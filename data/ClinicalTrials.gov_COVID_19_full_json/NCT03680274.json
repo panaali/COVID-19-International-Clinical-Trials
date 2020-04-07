@@ -1,1 +1,269 @@
-{"clinical_study": {"@rank": "333", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT03680274"}, "id_info": {"org_study_id": "MP-31-2019-2945", "nct_id": "NCT03680274"}, "brief_title": "Lessening Organ Dysfunction With VITamin C", "acronym": "LOVIT", "official_title": "Lessening Organ Dysfunction With VITamin C (LOVIT)", "sponsors": {"lead_sponsor": {"agency": "Universit\u00e9 de Sherbrooke", "agency_class": "Other"}, "collaborator": {"agency": "Lotte & John Hecht Memorial Foundation", "agency_class": "Other"}}, "source": "Universit\u00e9 de Sherbrooke", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "LOVIT is a multicentre concealed-allocation parallel-group blinded randomized controlled\n      trial to ascertain the effect of high-dose intravenous vitamin C compared to placebo on\n      mortality or persistent organ dysfunction at 28 days in septic intensive care unit patients.\n      Patients with COVID-19 are considered eligible to this study."}, "detailed_description": {"textblock": "Background. The burden of sepsis is increasing worldwide. It is the cause of 8 million global\n      deaths each year. Currently, treatment options are limited to antimicrobials and supportive\n      care such as intravenous fluids, vasopressors, mechanical ventilation, and renal replacement\n      therapy. In the absence of effective therapies specifically targeting the dysregulated immune\n      response, prolonged use of these life-sustaining therapies can be debilitating. A growing\n      body of evidence suggesting that vitamin C, an inexpensive and readily available\n      intervention, is potentially lifesaving in sepsis. Intravenous vitamin C may be the first\n      therapy to mitigate the dysregulated cascade of events that leads to sepsis. If proven\n      effective, vitamin C could be used worldwide and drastically change outcomes in high- and\n      low-income settings alike.\n\n      Objectives. To determine whether intravenous vitamin C, compared to placebo, reduces\n      mortality and morbidity in sepsis (induced by bacterial and viral pathogens (as COVID-19)),\n      and compare clinical and biochemical measures of organ dysfunction, and health-related\n      quality of life (HRQoL) at 6 months. To ascertain the volume of distribution, clearance, and\n      plasma concentration over a course of 96 hours of intravenous vitamin C 50 mg/kg of weight\n      every 6 hours or matching placebo (pharmacokinetic (PK) substudy).\n\n      Methods. Patients will be randomly assigned to vitamin C (intravenous, 50 mg/kg every 6h) or\n      placebo (0.9% NaCl or dextrose 5% in water) for 96 hours. Study personnel at the clinical\n      sites will document the composite of death or persistent organ dysfunction at day 28. Daily\n      assessments will occur for organ function, on days 1, 3, 7 for inflammation, infection, and\n      endothelial injury biomarkers, at baseline for vitamin C level, and at 6 months for mortality\n      and HRQoL. The LOVIT Trial will be conducted in adult general Canadian and international\n      intensive care units. For the PK substudy: Blood samples will be drawn around the 6th dose\n      (second dose on day 2) at time 0 and then after administration at times 1h, 2h, 4h and 6h\n      (the 6h level will be immediately prior to the next dose). The PK substudy will be conducted\n      with 100 participants in 3 of the 25 participating centers.\n\n      Relevance. In the context of increasing off-label use of vitamin C for sepsis and ongoing\n      trials of vitamin C bundled with other pharmacological interventions, the LOVIT Trial will\n      constitute a rigorous assessment of the effect of vitamin C monotherapy on patient-important\n      outcomes."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "November 8, 2018"}, "completion_date": {"@type": "Anticipated", "#text": "December 31, 2022"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 31, 2021"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"}, "primary_outcome": {"measure": "Number of deceased participants or with persistent organ dysfunction", "time_frame": "Both assessed at 28 days", "description": "Defined as death or dependency on mechanical ventilation, renal replacement, or vasopressors"}, "secondary_outcome": [{"measure": "Number of participants with persistent organ dysfunction-free days in intensive care unit", "time_frame": "Up to day 28", "description": "Persistent organ dysfunction-free days in intensive care unit"}, {"measure": "Number of participants deceased at 6 months", "time_frame": "6 months", "description": "Mortality at 6 months"}, {"measure": "Score of health related quality of life in 6-month survivors", "time_frame": "6 months", "description": "Assessed by the questionnaire EuroQol-5D (EQ-5D-5L). The EQ-5D-5L essentially consists of 2 pages: the EQ-5D descriptive system and the EQ visual analogue scale (EQ VAS).\nThe descriptive system comprises five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems, slight problems, moderate problems, severe problems and extreme problems. The patient is asked to indicate his/her health state by ticking the box next to the most appropriate statement in each of the five dimensions. This decision results in a 1-digit number that expresses the level selected for that dimension. The digits for the five dimensions can be combined into a 5-digit number that describes the patient's health state.\nThe EQ VAS records the patient's self-rated health on a vertical visual analogue scale, where the endpoints are labelled 'The best health you can imagine' and 'The worst health you can imagine'."}, {"measure": "Global tissue dysoxia", "time_frame": "Days 1, 3, 7", "description": "Assessed by serum lactate concentration"}, {"measure": "Organ function (including renal function)", "time_frame": "Days 1, 2, 3, 4, 7, 10, 14, 28", "description": "Assessed by the Sequential Organ Failure Assessment (SOFA) score. Used to track a person's status during the stay in an intensive care unit to determine the extent of a person's organ function or rate of failure. The score is based on 6 different sub-scores, one each for the respiratory (PaO2/FiO2 mmHg), cardiovascular (mean arterial pressure OR administration of vasopressors required), hepatic (liver bilirubin (mg/dl) [\u03bcmol/L]), coagulation (platelets\u00d7103/\u00b5l), renal (kidneys creatinine (mg/dl) [\u03bcmol/L] (or urine output)) and neurological (Glasgow coma scale). The sub-score of eah system ranges from 0 (best) to +4 (worst)."}, {"measure": "Rate of inflammation", "time_frame": "Days 1, 3, 7", "description": "Assessed by interleukin-1 beta (IL-1\u00df), tumor necrosis factor-alpha (TNF-\u03b1), C-reactive protein (CRP)"}, {"measure": "Rate of infection", "time_frame": "Days 1, 3, 7", "description": "Assessed by procalcitonin (PCT)"}, {"measure": "Rate of endothelial injury", "time_frame": "Days 1, 3, 7", "description": "Assessed by thrombomodulin (TM) and angiopoietin-2 (ANG-2)"}, {"measure": "Occurrence of stage 3 acute kidney injury", "time_frame": "Up to day 28", "description": "Assessed by KDIGO (Kidney Disease: Improving Global Outcomes) criteria"}, {"measure": "Acute hemolysis", "time_frame": "Up to day 28", "description": "clinician judgment of hemolysis, as recorded in the chart, OR\nhemoglobin drop of at least 25 g/L within 24 hours of a dose of investigational product PLUS 2 of the following:\nreticulocyte count >2 times upper limit of normal at clinical site lab;\nhaptoglobin < lower limit of normal at clinical site lab;\nindirect (unconjugated) bilirubin >2 times upper limit of normal at clinical site lab;\nLactate dehydrogenase (LDH) >2 times upper limit of normal at clinical site lab.\nSevere hemolysis:\n- hemoglobin < 75 g/L AND at least 2 of the above criteria AND requires 2 units of packed red blood cells"}, {"measure": "Hypoglycemia", "time_frame": "During the time participants receive the 16 doses of the investigational product and the 7 days following the last dose", "description": "Core lab-validated glucose level of less than 3.8 mmol/L"}, {"measure": "Vitamin C volume of distribution", "time_frame": "6th dose of vitamin C (second dose on day 2) at time 0 (immediately prior to the dose) and then after administration at times 1 hour, 2 hours, 4 hours and 6 hours (Pharmacokynetic substudy)", "description": "Assessed by chromatography-tandem mass spectrometry"}, {"measure": "Vitamin C clearance", "time_frame": "6th dose of vitamin C (second dose on day 2) at time 0 (immediately prior to the dose) and then after administration at times 1 hour, 2 hours, 4 hours and 6 hours (Pharmacokynetic substudy)", "description": "Assessed by chromatography-tandem mass spectrometry"}, {"measure": "Vitamin C plasma concentration", "time_frame": "6th dose of vitamin C (second dose on day 2) at time 0 (immediately prior to the dose) and then after administration at times 1 hour, 2 hours, 4 hours and 6 hours (Pharmacokynetic substudy)", "description": "Assessed by chromatography-tandem mass spectrometry"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "800"}, "condition": ["Sepsis", "Vitamin C", "Intensive Care Unit", "COVID-19", "Pandemic", "Coronavirus"], "arm_group": [{"arm_group_label": "Vitamin C", "arm_group_type": "Experimental", "description": "Vitamin C: 50 mg/kg every 6 hours for 96 hours."}, {"arm_group_label": "Control", "arm_group_type": "Placebo Comparator", "description": "Dextrose 5% in water (D5W) or normal saline (0.9% NaCl) in a volume to match the vitamin C."}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Vitamin C", "description": "Intravenous vitamin C administered in bolus doses of 50 mg/kg mixed in a 50-mL solution of either dextrose 5% in water (D5W) or normal saline (0.9% NaCl), during 30 to 60 minutes, every 6 hours for 96 hours (i.e. 200 mg/kg/day and 16 doses in total).", "arm_group_label": "Vitamin C", "other_name": "Ascorbic acid"}, {"intervention_type": "Other", "intervention_name": "Control", "description": "Dextrose 5% in water (D5W) or normal saline (0.9% NaCl) in a volume to match the vitamin C.", "arm_group_label": "Control"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Admitted to the intensive care unit with proven or suspected infection as the main\n             diagnosis;\n\n          2. Currently treated with a continuous IV infusion of vasopressors (norepinephrine,\n             epinephrine, vasopressin, dopamine, phenylephrine).\n\n        Exclusion Criteria:\n\n          1. > 24 hours of intensive care unit admission;\n\n          2. Known Glucose-6-phosphate dehydrogenase (G6PD) deficiency;\n\n          3. Pregnancy;\n\n          4. Known allergy to vitamin C;\n\n          5. Known kidney stones within the past 1 year;\n\n          6. Received any intravenous vitamin C during this hospitalization unless incorporated in\n             parenteral nutrition;\n\n          7. Expected death or withdrawal of life-sustaining treatments within 48 hours;\n\n          8. Previously enrolled in this study;\n\n          9. Previously enrolled in a trial with which co-enrolment is not allowed.\n\n        The LOVIT trial has broad eligibility criteria and includes patients with a primary\n        diagnosis of sepsis (including sepsis caused by viral pathogens as COVID-19)."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": [{"last_name": "Fran\u00e7ois Lamontagne, MD FRCPC MSc", "role": "Principal Investigator", "affiliation": "Universit\u00e9 de Sherbrooke and CIUSSS de l'Estrie - CHUS"}, {"last_name": "Neill Adhikari, MDCM FRCPC MSc", "role": "Principal Investigator", "affiliation": "Sunnybrook Health Sciences Centre, University of Toronto"}], "overall_contact": {"last_name": "Marie-Helene Masse", "phone": "819-346-1110", "phone_ext": "14173", "email": "marie-helene.masse3@usherbrooke.ca"}, "overall_contact_backup": {"last_name": "Marie-Claude Battista, PhD", "phone": "819-346-1110", "phone_ext": "12480", "email": "marie-claude.battista@usherbrooke.ca"}, "location": {"facility": {"name": "Research Center of the CHUS", "address": {"city": "Sherbrooke", "state": "Quebec", "zip": "J1H 5N4", "country": "Canada"}}, "status": "Recruiting", "contact": {"last_name": "Marie-Helene Masse", "phone": "819-346-1110", "phone_ext": "14173", "email": "marie-helene.masse3@usherbrooke.ca"}, "contact_backup": {"last_name": "Marie-Claude Battista, PhD", "phone": "819-346-1110", "phone_ext": "12480", "email": "marie-claude.battista@usherbrooke.ca"}}, "location_countries": {"country": "Canada"}, "verification_date": "March 2020", "study_first_submitted": "September 19, 2018", "study_first_submitted_qc": "September 20, 2018", "study_first_posted": {"@type": "Actual", "#text": "September 21, 2018"}, "last_update_submitted": "March 20, 2020", "last_update_submitted_qc": "March 20, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 24, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Universit\u00e9 de Sherbrooke", "investigator_full_name": "Fran\u00e7ois Lamontagne", "investigator_title": "Doctor, professor and researcher"}, "condition_browse": {"mesh_term": "Coronavirus Infections"}, "intervention_browse": {"mesh_term": ["Vitamins", "Ascorbic Acid"]}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "333",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT03680274"
+        },
+        "id_info": {
+            "org_study_id": "MP-31-2019-2945",
+            "nct_id": "NCT03680274"
+        },
+        "brief_title": "Lessening Organ Dysfunction With VITamin C",
+        "acronym": "LOVIT",
+        "official_title": "Lessening Organ Dysfunction With VITamin C (LOVIT)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universit\u00e9 de Sherbrooke",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Lotte & John Hecht Memorial Foundation",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Universit\u00e9 de Sherbrooke",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "LOVIT is a multicentre concealed-allocation parallel-group blinded randomized controlled\n      trial to ascertain the effect of high-dose intravenous vitamin C compared to placebo on\n      mortality or persistent organ dysfunction at 28 days in septic intensive care unit patients.\n      Patients with COVID-19 are considered eligible to this study."
+        },
+        "detailed_description": {
+            "textblock": "Background. The burden of sepsis is increasing worldwide. It is the cause of 8 million global\n      deaths each year. Currently, treatment options are limited to antimicrobials and supportive\n      care such as intravenous fluids, vasopressors, mechanical ventilation, and renal replacement\n      therapy. In the absence of effective therapies specifically targeting the dysregulated immune\n      response, prolonged use of these life-sustaining therapies can be debilitating. A growing\n      body of evidence suggesting that vitamin C, an inexpensive and readily available\n      intervention, is potentially lifesaving in sepsis. Intravenous vitamin C may be the first\n      therapy to mitigate the dysregulated cascade of events that leads to sepsis. If proven\n      effective, vitamin C could be used worldwide and drastically change outcomes in high- and\n      low-income settings alike.\n\n      Objectives. To determine whether intravenous vitamin C, compared to placebo, reduces\n      mortality and morbidity in sepsis (induced by bacterial and viral pathogens (as COVID-19)),\n      and compare clinical and biochemical measures of organ dysfunction, and health-related\n      quality of life (HRQoL) at 6 months. To ascertain the volume of distribution, clearance, and\n      plasma concentration over a course of 96 hours of intravenous vitamin C 50 mg/kg of weight\n      every 6 hours or matching placebo (pharmacokinetic (PK) substudy).\n\n      Methods. Patients will be randomly assigned to vitamin C (intravenous, 50 mg/kg every 6h) or\n      placebo (0.9% NaCl or dextrose 5% in water) for 96 hours. Study personnel at the clinical\n      sites will document the composite of death or persistent organ dysfunction at day 28. Daily\n      assessments will occur for organ function, on days 1, 3, 7 for inflammation, infection, and\n      endothelial injury biomarkers, at baseline for vitamin C level, and at 6 months for mortality\n      and HRQoL. The LOVIT Trial will be conducted in adult general Canadian and international\n      intensive care units. For the PK substudy: Blood samples will be drawn around the 6th dose\n      (second dose on day 2) at time 0 and then after administration at times 1h, 2h, 4h and 6h\n      (the 6h level will be immediately prior to the next dose). The PK substudy will be conducted\n      with 100 participants in 3 of the 25 participating centers.\n\n      Relevance. In the context of increasing off-label use of vitamin C for sepsis and ongoing\n      trials of vitamin C bundled with other pharmacological interventions, the LOVIT Trial will\n      constitute a rigorous assessment of the effect of vitamin C monotherapy on patient-important\n      outcomes."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "November 8, 2018"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Number of deceased participants or with persistent organ dysfunction",
+            "time_frame": "Both assessed at 28 days",
+            "description": "Defined as death or dependency on mechanical ventilation, renal replacement, or vasopressors"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of participants with persistent organ dysfunction-free days in intensive care unit",
+                "time_frame": "Up to day 28",
+                "description": "Persistent organ dysfunction-free days in intensive care unit"
+            },
+            {
+                "measure": "Number of participants deceased at 6 months",
+                "time_frame": "6 months",
+                "description": "Mortality at 6 months"
+            },
+            {
+                "measure": "Score of health related quality of life in 6-month survivors",
+                "time_frame": "6 months",
+                "description": "Assessed by the questionnaire EuroQol-5D (EQ-5D-5L). The EQ-5D-5L essentially consists of 2 pages: the EQ-5D descriptive system and the EQ visual analogue scale (EQ VAS).\nThe descriptive system comprises five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems, slight problems, moderate problems, severe problems and extreme problems. The patient is asked to indicate his/her health state by ticking the box next to the most appropriate statement in each of the five dimensions. This decision results in a 1-digit number that expresses the level selected for that dimension. The digits for the five dimensions can be combined into a 5-digit number that describes the patient's health state.\nThe EQ VAS records the patient's self-rated health on a vertical visual analogue scale, where the endpoints are labelled 'The best health you can imagine' and 'The worst health you can imagine'."
+            },
+            {
+                "measure": "Global tissue dysoxia",
+                "time_frame": "Days 1, 3, 7",
+                "description": "Assessed by serum lactate concentration"
+            },
+            {
+                "measure": "Organ function (including renal function)",
+                "time_frame": "Days 1, 2, 3, 4, 7, 10, 14, 28",
+                "description": "Assessed by the Sequential Organ Failure Assessment (SOFA) score. Used to track a person's status during the stay in an intensive care unit to determine the extent of a person's organ function or rate of failure. The score is based on 6 different sub-scores, one each for the respiratory (PaO2/FiO2 mmHg), cardiovascular (mean arterial pressure OR administration of vasopressors required), hepatic (liver bilirubin (mg/dl) [\u03bcmol/L]), coagulation (platelets\u00d7103/\u00b5l), renal (kidneys creatinine (mg/dl) [\u03bcmol/L] (or urine output)) and neurological (Glasgow coma scale). The sub-score of eah system ranges from 0 (best) to +4 (worst)."
+            },
+            {
+                "measure": "Rate of inflammation",
+                "time_frame": "Days 1, 3, 7",
+                "description": "Assessed by interleukin-1 beta (IL-1\u00df), tumor necrosis factor-alpha (TNF-\u03b1), C-reactive protein (CRP)"
+            },
+            {
+                "measure": "Rate of infection",
+                "time_frame": "Days 1, 3, 7",
+                "description": "Assessed by procalcitonin (PCT)"
+            },
+            {
+                "measure": "Rate of endothelial injury",
+                "time_frame": "Days 1, 3, 7",
+                "description": "Assessed by thrombomodulin (TM) and angiopoietin-2 (ANG-2)"
+            },
+            {
+                "measure": "Occurrence of stage 3 acute kidney injury",
+                "time_frame": "Up to day 28",
+                "description": "Assessed by KDIGO (Kidney Disease: Improving Global Outcomes) criteria"
+            },
+            {
+                "measure": "Acute hemolysis",
+                "time_frame": "Up to day 28",
+                "description": "clinician judgment of hemolysis, as recorded in the chart, OR\nhemoglobin drop of at least 25 g/L within 24 hours of a dose of investigational product PLUS 2 of the following:\nreticulocyte count >2 times upper limit of normal at clinical site lab;\nhaptoglobin < lower limit of normal at clinical site lab;\nindirect (unconjugated) bilirubin >2 times upper limit of normal at clinical site lab;\nLactate dehydrogenase (LDH) >2 times upper limit of normal at clinical site lab.\nSevere hemolysis:\n- hemoglobin < 75 g/L AND at least 2 of the above criteria AND requires 2 units of packed red blood cells"
+            },
+            {
+                "measure": "Hypoglycemia",
+                "time_frame": "During the time participants receive the 16 doses of the investigational product and the 7 days following the last dose",
+                "description": "Core lab-validated glucose level of less than 3.8 mmol/L"
+            },
+            {
+                "measure": "Vitamin C volume of distribution",
+                "time_frame": "6th dose of vitamin C (second dose on day 2) at time 0 (immediately prior to the dose) and then after administration at times 1 hour, 2 hours, 4 hours and 6 hours (Pharmacokynetic substudy)",
+                "description": "Assessed by chromatography-tandem mass spectrometry"
+            },
+            {
+                "measure": "Vitamin C clearance",
+                "time_frame": "6th dose of vitamin C (second dose on day 2) at time 0 (immediately prior to the dose) and then after administration at times 1 hour, 2 hours, 4 hours and 6 hours (Pharmacokynetic substudy)",
+                "description": "Assessed by chromatography-tandem mass spectrometry"
+            },
+            {
+                "measure": "Vitamin C plasma concentration",
+                "time_frame": "6th dose of vitamin C (second dose on day 2) at time 0 (immediately prior to the dose) and then after administration at times 1 hour, 2 hours, 4 hours and 6 hours (Pharmacokynetic substudy)",
+                "description": "Assessed by chromatography-tandem mass spectrometry"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "800"
+        },
+        "condition": [
+            "Sepsis",
+            "Vitamin C",
+            "Intensive Care Unit",
+            "COVID-19",
+            "Pandemic",
+            "Coronavirus"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Vitamin C",
+                "arm_group_type": "Experimental",
+                "description": "Vitamin C: 50 mg/kg every 6 hours for 96 hours."
+            },
+            {
+                "arm_group_label": "Control",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Dextrose 5% in water (D5W) or normal saline (0.9% NaCl) in a volume to match the vitamin C."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Vitamin C",
+                "description": "Intravenous vitamin C administered in bolus doses of 50 mg/kg mixed in a 50-mL solution of either dextrose 5% in water (D5W) or normal saline (0.9% NaCl), during 30 to 60 minutes, every 6 hours for 96 hours (i.e. 200 mg/kg/day and 16 doses in total).",
+                "arm_group_label": "Vitamin C",
+                "other_name": "Ascorbic acid"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Control",
+                "description": "Dextrose 5% in water (D5W) or normal saline (0.9% NaCl) in a volume to match the vitamin C.",
+                "arm_group_label": "Control"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Admitted to the intensive care unit with proven or suspected infection as the main\n             diagnosis;\n\n          2. Currently treated with a continuous IV infusion of vasopressors (norepinephrine,\n             epinephrine, vasopressin, dopamine, phenylephrine).\n\n        Exclusion Criteria:\n\n          1. > 24 hours of intensive care unit admission;\n\n          2. Known Glucose-6-phosphate dehydrogenase (G6PD) deficiency;\n\n          3. Pregnancy;\n\n          4. Known allergy to vitamin C;\n\n          5. Known kidney stones within the past 1 year;\n\n          6. Received any intravenous vitamin C during this hospitalization unless incorporated in\n             parenteral nutrition;\n\n          7. Expected death or withdrawal of life-sustaining treatments within 48 hours;\n\n          8. Previously enrolled in this study;\n\n          9. Previously enrolled in a trial with which co-enrolment is not allowed.\n\n        The LOVIT trial has broad eligibility criteria and includes patients with a primary\n        diagnosis of sepsis (including sepsis caused by viral pathogens as COVID-19)."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Fran\u00e7ois Lamontagne, MD FRCPC MSc",
+                "role": "Principal Investigator",
+                "affiliation": "Universit\u00e9 de Sherbrooke and CIUSSS de l'Estrie - CHUS"
+            },
+            {
+                "last_name": "Neill Adhikari, MDCM FRCPC MSc",
+                "role": "Principal Investigator",
+                "affiliation": "Sunnybrook Health Sciences Centre, University of Toronto"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Marie-Helene Masse",
+            "phone": "819-346-1110",
+            "phone_ext": "14173",
+            "email": "marie-helene.masse3@usherbrooke.ca"
+        },
+        "overall_contact_backup": {
+            "last_name": "Marie-Claude Battista, PhD",
+            "phone": "819-346-1110",
+            "phone_ext": "12480",
+            "email": "marie-claude.battista@usherbrooke.ca"
+        },
+        "location": {
+            "facility": {
+                "name": "Research Center of the CHUS",
+                "address": {
+                    "city": "Sherbrooke",
+                    "state": "Quebec",
+                    "zip": "J1H 5N4",
+                    "country": "Canada"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Marie-Helene Masse",
+                "phone": "819-346-1110",
+                "phone_ext": "14173",
+                "email": "marie-helene.masse3@usherbrooke.ca"
+            },
+            "contact_backup": {
+                "last_name": "Marie-Claude Battista, PhD",
+                "phone": "819-346-1110",
+                "phone_ext": "12480",
+                "email": "marie-claude.battista@usherbrooke.ca"
+            }
+        },
+        "location_countries": {
+            "country": "Canada"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "September 19, 2018",
+        "study_first_submitted_qc": "September 20, 2018",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "September 21, 2018"
+        },
+        "last_update_submitted": "March 20, 2020",
+        "last_update_submitted_qc": "March 20, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Universit\u00e9 de Sherbrooke",
+            "investigator_full_name": "Fran\u00e7ois Lamontagne",
+            "investigator_title": "Doctor, professor and researcher"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Vitamins",
+                "Ascorbic Acid"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

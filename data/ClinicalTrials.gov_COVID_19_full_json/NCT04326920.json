@@ -1,1 +1,271 @@
-{"clinical_study": {"@rank": "26", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04326920"}, "id_info": {"org_study_id": "SARPAC", "nct_id": "NCT04326920"}, "brief_title": "Sargramostim in Patients With Acute Hypoxic Respiratory Failure Due to COVID-19 (SARPAC)", "acronym": "SARPAC", "official_title": "A Prospective, Randomized, Open-label, Interventional Study to Investigate the Efficacy of Sargramostim (Leukine\u00ae) in Improving Oxygenation and Short- and Long-term Outcome of COVID-19 (Corona Virus Disease) Patients With Acute Hypoxic Respiratory Failure.", "sponsors": {"lead_sponsor": {"agency": "University Hospital, Ghent", "agency_class": "Other"}, "collaborator": {"agency": "Flanders Institute of Biotechnology", "agency_class": "Other"}}, "source": "University Hospital, Ghent", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No", "is_us_export": "Yes"}, "brief_summary": {"textblock": "Phase IV study to evaluate the effectiveness of additional inhaled sargramostim (GM-CSF)\n      versus standard of care on blood oxygenation in patients with COVID-19 coronavirus infection\n      and acute hypoxic respiratory failure."}, "detailed_description": {"textblock": "Leukine\u00ae is a yeast-derived recombinant humanized granulocyte-macrophage colony stimulating\n      factor (rhuGM-CSF, sargramostim) and the only FDA approved GM-CSF. GMCSF, a pleiotropic\n      cytokine, is an important leukocyte growth factor known to play a key role in hematopoiesis,\n      effecting the growth and maturation of multiple cell lineages as well as the functional\n      activities of these cells in antigen presentation and cell mediated immunity.\n\n      Leukine inhalation or intravenous administration, as an adjuvant therapy, may confer benefit\n      to patients with ARDS (Acute Respiratory Distress Syndrome) due to COVID-19 exposure, who are\n      at significant risk of mortality. While there is no active IND (Investigational New Drug) for\n      Leukine in the proposed patient population, Leukine is being studied in Fase II as an\n      adjuvant therapy in the management of life-threatening infections to boost the hosts innate\n      immune response to fight infection, reduce the risk of secondary infection, and in varied\n      conditions as prevention of infection during critical illness. Inhaled Leukine has also been\n      successfully used as primary therapy to improve oxygenation in patients with disordered gas\n      exchange in the lungs. We propose that based on preclinical and clinical data, Leukine\n      inhalation, as an adjuvant therapy, has an acceptable benefit-risk for use in patients with\n      hypoxic respiratory failure and ARDS due to COVID-19 exposure, who are at significant risk of\n      mortality.\n\n      Confirmed COVID19 patients with hypoxic respiratory failure (saturation below 93% on minimal\n      2 l/min O2) will be randomized to receive sargramostim 125mcg twice daily for 5 days as a\n      nebulized inhalation on top of standard of care, or to receive standard of care treatment.\n      Upon progression to ARDS and initiation of invasive mechanical ventilator support within the\n      5 day period, in patients in the active group, inhaled sargramostim will be replaced by\n      intravenous sargramostim 125mcg/m2 body surface area until the 5 day period is reached. From\n      day 6 onwards, progressive patients in the active group will have the option to receive an\n      additional 5 days of IV sargramostim, based on the treating physician's assessment. In the\n      control group progressing to ARDS and requiring invasive mechanical ventilatory support, from\n      day 6 onwards, the treating physician will have the option to initiate IV sargramostim\n      125mcg/m2 body surface area for 5 days. Safety data, including blood leukocyte counts, will\n      be collected in all patients. Efficacy data will also be collected and will include arterial\n      blood gases, oxygenation parameters, need for ventilation, lung compliance, organ function,\n      radiographic changes, ferritin levels, etc. as well as occurrence of secondary bacterial\n      infections."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 24, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 31, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "October 31, 2020"}, "phase": "Phase 4", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Improvement in oxygenation at a dose of 250 mcg daily during 5 days improves oxygenation in COVID-19 patients with acute hypoxic respiratory failure", "time_frame": "at end of 5 day treatment period", "description": "by mean change in PaO2/FiO2 (PaO2=Partial pressure of oxygen; FiO2= Fraction of inspired oxygen)"}, "secondary_outcome": [{"measure": "Incidence of AE (Adverse Event)", "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"}, {"measure": "Incidence of SAEs (Serious Adverse Event)", "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"}, {"measure": "Clinical Status using 6-point ordinal scale", "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"}, {"measure": "Clinical Status using Clincal sign score", "time_frame": "at end of 5 day treatment period, 10 day period,10-20 weeks"}, {"measure": "Clinical Status using SOFA score (Sequential Organ Failure Assessment score),", "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"}, {"measure": "Clinical Status using NEWS2 score (National Early Warning Score)", "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"}, {"measure": "incidence of severe or life-threatening bacterial, invasive fungal or opportunistic infection", "time_frame": "during hospital admission (up to 28 days)", "description": "demonstrated by bacterial or fungal culture"}, {"measure": "number of patients requiring initiation of mechanical ventilation", "time_frame": "during hospital admission (up to 28 days)"}, {"measure": "Number of deaths due to any cause at 4 weeks", "time_frame": "4 weeks post inclusion"}, {"measure": "Number of deaths due to any cause at 20 weeks", "time_frame": "20 weeks post inclusion"}, {"measure": "number of patients developing features of secondary haemophagocytic lymphohistiocytosis", "time_frame": "at enrolment, end of 5 day treatment period, 10 day period, 10-20 weeks", "description": "defined by HS (Hemophagocytic Syndrome) score"}, {"measure": "long term Clinical status defined by 6-point ordinal scale", "time_frame": "10-20 week"}, {"measure": "long term Clinical status defined by chest X-ray", "time_frame": "10-20 weeks"}, {"measure": "long term Clinical status defined lung function", "time_frame": "10-12 weeks"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "80"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "Active sargramostim treatment group", "arm_group_type": "Active Comparator", "description": "Inhaled sargramostim 125mcg twice daily for 5 days on top of standard of care. Upon progression to ARDS and initiation of mechanical ventilator support within the 5 day period, inhaled sargramostim will be replaced by intravenous sargramostim 125mcg/m2 body surface area once daily until the 5 day period is reached. From day 6 onwards, progressive patients in the active group will have the option to receive an additional 5 days of IV sargramostim, based on the treating physician's assessment"}, {"arm_group_label": "Control group", "arm_group_type": "Placebo Comparator", "description": "standard of care. Subjects progressing to ARDS and requiring invasive mechanical ventilatory support, from day 6 onwards, will have the option (clinician's decision) to initiate IV sargramostim 125mcg/m2 body surface area once daily for 5 days"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Sargramostim", "description": "Inhalation via mesh nebulizer and/or IV administration upon Clinical deterioration", "arm_group_label": ["Active sargramostim treatment group", "Control group"], "other_name": "LEUKINE"}, {"intervention_type": "Other", "intervention_name": "Control", "description": "Standard of care", "arm_group_label": "Control group"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Recent (\u22642weeks prior to randomization) PCR(Polymerase Chain Reaction) -Confirmed\n             COVID-19 infection\n\n          -  Presence of acute hypoxic respiratory failure defined as (either or both)\n\n               -  saturation below 93% on minimal 2 l/min O2\n\n               -  PaO2/FiO2 below 300\n\n          -  Admitted to specialized COVID-19 ward\n\n          -  Age 18-80\n\n          -  Male or Female\n\n          -  Willing to provide informed consent\n\n        Exclusion Criteria:\n\n          -  Patients with known history of serious allergic reactions, including anaphylaxis, to\n             human granulocyte-macrophage colony stimulating factor such as sargramostim,\n             yeast-derived products, or any component of the product.\n\n          -  mechanical ventilation before start of study\n\n          -  patients with peripheral white blood cell count above 25.000 per microliter and/or\n             active myeloid malignancy\n\n          -  patients on high dose systemic steroids (> 20 mg methylprednisolone or equivalent)\n\n          -  patients on lithium carbonate therapy\n\n          -  Patients enrolled in another investigational drug study\n\n          -  Pregnant or breastfeeding females (all female subjects regardless of childbearing\n             potential status must have negative pregnancy test at screening)\n\n          -  Patients with serum ferritin >2000 mcg/ml (which will exclude ongoing HLH)"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "80 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Bart Lambrecht", "role": "Principal Investigator", "affiliation": "University Hospital, Ghent"}, "overall_contact": {"last_name": "Anja Delporte", "phone": "+32-9-3320228", "email": "anja.delporte@uzgent.be"}, "overall_contact_backup": {"last_name": "Bart Lambrecht, MD PhD", "phone": "+32-9-3329110", "email": "bart.lambrecht@ugent.be"}, "location": [{"facility": {"name": "AZ Sint Jan Brugge", "address": {"city": "Brugge", "zip": "8000", "country": "Belgium"}}, "status": "Recruiting", "contact": {"last_name": "Stefaan Vandecasteele, MD Phd", "phone": "+32-50 45 23 10", "email": "stefaan.vandecasteele@azsintjan.be"}}, {"facility": {"name": "University Hospital Ghent", "address": {"city": "Gent", "zip": "9000", "country": "Belgium"}}, "status": "Recruiting", "contact": {"last_name": "Anja Delporte", "phone": "+32-9-3320228", "email": "anja.delporte@uzgent.be"}, "contact_backup": {"last_name": "Bart Lambrecht, MD PhD", "phone": "+32-9-3329110", "email": "bart.lambrecht@ugent.be"}}], "location_countries": {"country": "Belgium"}, "removed_countries": {"country": "Italy"}, "verification_date": "March 2020", "study_first_submitted": "March 24, 2020", "study_first_submitted_qc": "March 27, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 30, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University Hospital, Ghent", "investigator_full_name": "Bart N. Lambrecht", "investigator_title": "Director, VIB-UGent Center for Inflammation Research"}, "keyword": ["GM-CSF", "Acute Lung Injury", "Hypoxia", "Acute Respiratory Distress Syndrome", "Corona virus", "COVID-19", "SARS (Severe Acute Respiratory Syndrome)", "Alveolar Macrophage", "Acute Hypoxic respiratory failure"], "condition_browse": {"mesh_term": "Respiratory Insufficiency"}, "intervention_browse": {"mesh_term": "Sargramostim"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "26",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04326920"
+        },
+        "id_info": {
+            "org_study_id": "SARPAC",
+            "nct_id": "NCT04326920"
+        },
+        "brief_title": "Sargramostim in Patients With Acute Hypoxic Respiratory Failure Due to COVID-19 (SARPAC)",
+        "acronym": "SARPAC",
+        "official_title": "A Prospective, Randomized, Open-label, Interventional Study to Investigate the Efficacy of Sargramostim (Leukine\u00ae) in Improving Oxygenation and Short- and Long-term Outcome of COVID-19 (Corona Virus Disease) Patients With Acute Hypoxic Respiratory Failure.",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Ghent",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Flanders Institute of Biotechnology",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Ghent",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "Phase IV study to evaluate the effectiveness of additional inhaled sargramostim (GM-CSF)\n      versus standard of care on blood oxygenation in patients with COVID-19 coronavirus infection\n      and acute hypoxic respiratory failure."
+        },
+        "detailed_description": {
+            "textblock": "Leukine\u00ae is a yeast-derived recombinant humanized granulocyte-macrophage colony stimulating\n      factor (rhuGM-CSF, sargramostim) and the only FDA approved GM-CSF. GMCSF, a pleiotropic\n      cytokine, is an important leukocyte growth factor known to play a key role in hematopoiesis,\n      effecting the growth and maturation of multiple cell lineages as well as the functional\n      activities of these cells in antigen presentation and cell mediated immunity.\n\n      Leukine inhalation or intravenous administration, as an adjuvant therapy, may confer benefit\n      to patients with ARDS (Acute Respiratory Distress Syndrome) due to COVID-19 exposure, who are\n      at significant risk of mortality. While there is no active IND (Investigational New Drug) for\n      Leukine in the proposed patient population, Leukine is being studied in Fase II as an\n      adjuvant therapy in the management of life-threatening infections to boost the hosts innate\n      immune response to fight infection, reduce the risk of secondary infection, and in varied\n      conditions as prevention of infection during critical illness. Inhaled Leukine has also been\n      successfully used as primary therapy to improve oxygenation in patients with disordered gas\n      exchange in the lungs. We propose that based on preclinical and clinical data, Leukine\n      inhalation, as an adjuvant therapy, has an acceptable benefit-risk for use in patients with\n      hypoxic respiratory failure and ARDS due to COVID-19 exposure, who are at significant risk of\n      mortality.\n\n      Confirmed COVID19 patients with hypoxic respiratory failure (saturation below 93% on minimal\n      2 l/min O2) will be randomized to receive sargramostim 125mcg twice daily for 5 days as a\n      nebulized inhalation on top of standard of care, or to receive standard of care treatment.\n      Upon progression to ARDS and initiation of invasive mechanical ventilator support within the\n      5 day period, in patients in the active group, inhaled sargramostim will be replaced by\n      intravenous sargramostim 125mcg/m2 body surface area until the 5 day period is reached. From\n      day 6 onwards, progressive patients in the active group will have the option to receive an\n      additional 5 days of IV sargramostim, based on the treating physician's assessment. In the\n      control group progressing to ARDS and requiring invasive mechanical ventilatory support, from\n      day 6 onwards, the treating physician will have the option to initiate IV sargramostim\n      125mcg/m2 body surface area for 5 days. Safety data, including blood leukocyte counts, will\n      be collected in all patients. Efficacy data will also be collected and will include arterial\n      blood gases, oxygenation parameters, need for ventilation, lung compliance, organ function,\n      radiographic changes, ferritin levels, etc. as well as occurrence of secondary bacterial\n      infections."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 31, 2020"
+        },
+        "phase": "Phase 4",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Improvement in oxygenation at a dose of 250 mcg daily during 5 days improves oxygenation in COVID-19 patients with acute hypoxic respiratory failure",
+            "time_frame": "at end of 5 day treatment period",
+            "description": "by mean change in PaO2/FiO2 (PaO2=Partial pressure of oxygen; FiO2= Fraction of inspired oxygen)"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of AE (Adverse Event)",
+                "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"
+            },
+            {
+                "measure": "Incidence of SAEs (Serious Adverse Event)",
+                "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"
+            },
+            {
+                "measure": "Clinical Status using 6-point ordinal scale",
+                "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"
+            },
+            {
+                "measure": "Clinical Status using Clincal sign score",
+                "time_frame": "at end of 5 day treatment period, 10 day period,10-20 weeks"
+            },
+            {
+                "measure": "Clinical Status using SOFA score (Sequential Organ Failure Assessment score),",
+                "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"
+            },
+            {
+                "measure": "Clinical Status using NEWS2 score (National Early Warning Score)",
+                "time_frame": "at end of 5 day treatment period, 10 day period, 10-20 weeks"
+            },
+            {
+                "measure": "incidence of severe or life-threatening bacterial, invasive fungal or opportunistic infection",
+                "time_frame": "during hospital admission (up to 28 days)",
+                "description": "demonstrated by bacterial or fungal culture"
+            },
+            {
+                "measure": "number of patients requiring initiation of mechanical ventilation",
+                "time_frame": "during hospital admission (up to 28 days)"
+            },
+            {
+                "measure": "Number of deaths due to any cause at 4 weeks",
+                "time_frame": "4 weeks post inclusion"
+            },
+            {
+                "measure": "Number of deaths due to any cause at 20 weeks",
+                "time_frame": "20 weeks post inclusion"
+            },
+            {
+                "measure": "number of patients developing features of secondary haemophagocytic lymphohistiocytosis",
+                "time_frame": "at enrolment, end of 5 day treatment period, 10 day period, 10-20 weeks",
+                "description": "defined by HS (Hemophagocytic Syndrome) score"
+            },
+            {
+                "measure": "long term Clinical status defined by 6-point ordinal scale",
+                "time_frame": "10-20 week"
+            },
+            {
+                "measure": "long term Clinical status defined by chest X-ray",
+                "time_frame": "10-20 weeks"
+            },
+            {
+                "measure": "long term Clinical status defined lung function",
+                "time_frame": "10-12 weeks"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "80"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Active sargramostim treatment group",
+                "arm_group_type": "Active Comparator",
+                "description": "Inhaled sargramostim 125mcg twice daily for 5 days on top of standard of care. Upon progression to ARDS and initiation of mechanical ventilator support within the 5 day period, inhaled sargramostim will be replaced by intravenous sargramostim 125mcg/m2 body surface area once daily until the 5 day period is reached. From day 6 onwards, progressive patients in the active group will have the option to receive an additional 5 days of IV sargramostim, based on the treating physician's assessment"
+            },
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Placebo Comparator",
+                "description": "standard of care. Subjects progressing to ARDS and requiring invasive mechanical ventilatory support, from day 6 onwards, will have the option (clinician's decision) to initiate IV sargramostim 125mcg/m2 body surface area once daily for 5 days"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Sargramostim",
+                "description": "Inhalation via mesh nebulizer and/or IV administration upon Clinical deterioration",
+                "arm_group_label": [
+                    "Active sargramostim treatment group",
+                    "Control group"
+                ],
+                "other_name": "LEUKINE"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Control",
+                "description": "Standard of care",
+                "arm_group_label": "Control group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Recent (\u22642weeks prior to randomization) PCR(Polymerase Chain Reaction) -Confirmed\n             COVID-19 infection\n\n          -  Presence of acute hypoxic respiratory failure defined as (either or both)\n\n               -  saturation below 93% on minimal 2 l/min O2\n\n               -  PaO2/FiO2 below 300\n\n          -  Admitted to specialized COVID-19 ward\n\n          -  Age 18-80\n\n          -  Male or Female\n\n          -  Willing to provide informed consent\n\n        Exclusion Criteria:\n\n          -  Patients with known history of serious allergic reactions, including anaphylaxis, to\n             human granulocyte-macrophage colony stimulating factor such as sargramostim,\n             yeast-derived products, or any component of the product.\n\n          -  mechanical ventilation before start of study\n\n          -  patients with peripheral white blood cell count above 25.000 per microliter and/or\n             active myeloid malignancy\n\n          -  patients on high dose systemic steroids (> 20 mg methylprednisolone or equivalent)\n\n          -  patients on lithium carbonate therapy\n\n          -  Patients enrolled in another investigational drug study\n\n          -  Pregnant or breastfeeding females (all female subjects regardless of childbearing\n             potential status must have negative pregnancy test at screening)\n\n          -  Patients with serum ferritin >2000 mcg/ml (which will exclude ongoing HLH)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Bart Lambrecht",
+            "role": "Principal Investigator",
+            "affiliation": "University Hospital, Ghent"
+        },
+        "overall_contact": {
+            "last_name": "Anja Delporte",
+            "phone": "+32-9-3320228",
+            "email": "anja.delporte@uzgent.be"
+        },
+        "overall_contact_backup": {
+            "last_name": "Bart Lambrecht, MD PhD",
+            "phone": "+32-9-3329110",
+            "email": "bart.lambrecht@ugent.be"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "AZ Sint Jan Brugge",
+                    "address": {
+                        "city": "Brugge",
+                        "zip": "8000",
+                        "country": "Belgium"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Stefaan Vandecasteele, MD Phd",
+                    "phone": "+32-50 45 23 10",
+                    "email": "stefaan.vandecasteele@azsintjan.be"
+                }
+            },
+            {
+                "facility": {
+                    "name": "University Hospital Ghent",
+                    "address": {
+                        "city": "Gent",
+                        "zip": "9000",
+                        "country": "Belgium"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Anja Delporte",
+                    "phone": "+32-9-3320228",
+                    "email": "anja.delporte@uzgent.be"
+                },
+                "contact_backup": {
+                    "last_name": "Bart Lambrecht, MD PhD",
+                    "phone": "+32-9-3329110",
+                    "email": "bart.lambrecht@ugent.be"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Belgium"
+        },
+        "removed_countries": {
+            "country": "Italy"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 24, 2020",
+        "study_first_submitted_qc": "March 27, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University Hospital, Ghent",
+            "investigator_full_name": "Bart N. Lambrecht",
+            "investigator_title": "Director, VIB-UGent Center for Inflammation Research"
+        },
+        "keyword": [
+            "GM-CSF",
+            "Acute Lung Injury",
+            "Hypoxia",
+            "Acute Respiratory Distress Syndrome",
+            "Corona virus",
+            "COVID-19",
+            "SARS (Severe Acute Respiratory Syndrome)",
+            "Alveolar Macrophage",
+            "Acute Hypoxic respiratory failure"
+        ],
+        "condition_browse": {
+            "mesh_term": "Respiratory Insufficiency"
+        },
+        "intervention_browse": {
+            "mesh_term": "Sargramostim"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

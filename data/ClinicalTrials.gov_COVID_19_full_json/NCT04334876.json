@@ -1,1 +1,143 @@
-{"clinical_study": {"@rank": "168", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04334876"}, "id_info": {"org_study_id": "2003973826", "nct_id": "NCT04334876"}, "brief_title": "Rapid SARS-CoV-2 IgG Antibody Testing in High Risk Healthcare Workers", "acronym": "COVID-Antibody", "official_title": "Rapid SARS-CoV-2 IgG Antibody Testing in High Risk Healthcare Workers and Candidacy for Convalescent Plasma Therapy/Prophylaxis", "sponsors": {"lead_sponsor": {"agency": "Indiana University", "agency_class": "Other"}}, "source": "Indiana University", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The purpose of this study is to validate the use of a rapid, at home, point-of-care (POC)\n      SARS-CoV-2 IgG antibody test in high risk healthcare workers. Additionally, we would like to\n      evaluate the incidence of seroconversion in this high-risk population and to identify\n      possible candidates for convalescent plasma donation for therapy/prophylaxis."}, "detailed_description": {"textblock": "The success of Singapore, Taiwan and Hong Kong in limiting the impact of the sudden acute\n      respiratory syndrome coronavirus-2 (SARS-CoV-2), also know as COVID-19, has been attributed\n      to their preparedness but mostly to the implementation and distribution of SARS-CoV-2 fast\n      diagnostic tests and establishment of decentralized point-of-care (POC) testing\n      (https://www.nature.com/articles/d41587-020-00010-2). So far, the frontline response to the\n      SARS-CoV-2 outbreak has been polymerase chain reaction (PCR) testing. PCR is the gold\n      standard for diagnosing an infectious agent, and it has the advantage that the primers needed\n      for such tests can be produced with relative speed as soon as the viral sequence is known.\n\n      The first quantitative reverse-transcriptase-based PCR (RT-PCR) tests for detecting SARS-CoV2\n      were designed and distributed in January by the World Health Organization (WHO), soon after\n      the virus was identified. The test protocol is complex and expensive, however, and is mainly\n      suited to large, centralized diagnostic laboratories. Tests typically take 4-6 hours to\n      complete, but the logistical requirement to ship clinical samples means the turnaround time\n      is 24 hours at best. A new fast PCR test (45 min) from Cepheid has been approved by the U.S.\n      Food and Drug Administration on March 21st with availability at the end of the month. Rapid\n      POC tests are also needed to accelerate clinical decision-making and to take some of the\n      workload off centralized test laboratories. Most importantly, the current state of the matter\n      in Indiana University Health system, as well as many around the country is that healthcare\n      workers including from the ER and ICU are currently unable to receive adequate testing\n      through existing facilities. Worst, their access to appropriate personal protective equipment\n      (PPE) has been limited, increasing their exposure risk and causing a significant amount of\n      stress and anxiety for front-line healthcare providers across the country.\n\n      Back to the Singapore experience, they have used immunoassays that can provide historic\n      information about viral exposure, as well as diagnostic evidence. They exploited\n      antibody-antigen recognition, either by using monoclonal antibodies (mAbs) to detect viral\n      antigens in clinical samples or by using cloned viral antigens to detect patient antibodies\n      directed against the virus. The lateral flow assay format \u2014 essentially a dipstick encased in\n      a cassette \u2014 contains the capture reagents (either an mAb directed at a viral antigen or a\n      viral antigen that is recognized by patients' antibodies) immobilized at defined locations on\n      a nitrocellulose membrane, as well as labelled detector mAbs that recognize the same target.\n      A positive result, which is triggered by binding between the analyte and capture mAb and\n      binding by the detector mAb, is visible as a colored line. Two drops of blood from a pinprick\n      is enough to detect a virus. They're essentially the same as home pregnancy kits. Several of\n      these assays are available in Asia, and most European Countries have been using them too. In\n      US, RayBiotech has developed such a similar test using knowledge from the Asian tests\n      (https://www.raybiotech.com/covid-19-igm-igg-rapid-test-kit/). This product is CE marked and\n      certified for diagnostic use in the EU. The application for FDA Emergency Use Authorizations\n      of tests was submitted on March 16th, 2020. At the moment, the FDA has only approved PCR\n      testing. No lateral flow tests have been approved as of March 23rd, 2020. However, this\n      lateral flow test can be used legally in the US, for in vitro diagnostic use, as a POC test\n      when administered by a licensed medical practitioner. These kits were developed in-house by\n      Ray Biotech and validated using samples taken in hospital from patients showing clinical\n      symptoms in Guangzhou China (all confirmed via PCR). Current stocks of 10,000 kits are being\n      replenished daily at RayBiotech, with efforts to increase production ten-fold within the next\n      week. The CE certificate can be found here:\n      https://www.raybiotech.com/files/images/CG-COV_CE-Certificates.jpg.\n\n      Based on the Singapore, Taiwan, Hong Kong positive experience, and to curb the fast spread of\n      the virus in the US, we propose to use the POC SARS-CoV-2 IgG Antibody in high risk\n      healthcare workers with or without symptoms, previously quarantine or not. Indeed, we\n      hypothesize that the incidence of seroconversion among ER and ICU healthcare workers is high\n      and higher than current models predict and that several cases are asymptomatic or with mild\n      symptoms.\n\n      There are two additional benefits of testing seroconversion.\n\n        1. Although there are no official reports, we clearly hear and see selfies of anxiety,\n           stress and exhaustion from our colleagues at the front line. Thus for the healthcare\n           workers knowing that they have seroconverted, will help them be more confident that they\n           are now protected and can work in safer conditions as it has recently been shown that\n           reinfection could not occur in SARS-CoV-2 infected rhesus macaques\n           https://www.biorxiv.org/content/10.1101/2020.03.13.990226v1.\n\n        2. The healthcare workers represent an ideal pool of donors for convalescent plasma due to\n           their commitment and the fact that they have usually been tested to give blood or are\n           currently blood donors. The FDA just approved a master protocol for collection and\n           administration of convalescent plasma:\n           https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exem\n           ption-ide-process-cber/investigational-covid-19-convalescent-plasma-emergency-inds\n\n      In sum, \"you cannot fight a fire blindfolded, and we cannot stop this pandemic if we don't\n      know who is infected.\" (World Health Organization Director-General, 16 March 2020).\n\n      If successful and validated, we will hope to rapidly scale it up to propose the rapid\n      SARS-CoV-2 IgG Antibody testing to the general population as has been done in countries that\n      have had almost no death due to COVID-19."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "January 1, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "November 1, 2020"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Ecologic or Community", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Validation of SARS-CoV-2 IgG Antibody Test", "time_frame": "April 2020-January 2021", "description": "To validate the use of a rapid, at home, point-of-care (POC) SARS-CoV-2 IgG antibody test in high risk healthcare workers"}, "secondary_outcome": [{"measure": "Incidence of Seroconversion", "time_frame": "April 2020-January 2021", "description": "To evaluate the incidence of seroconversion in this high-risk population"}, {"measure": "Identify Candidacy", "time_frame": "April 2020-January 2021", "description": "To identify possible candidates for convalescent plasma donation for therapy/prophylaxis (https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/investigational-covid-19-convalescent-plasma-emergency-inds)"}], "number_of_groups": "1", "enrollment": {"@type": "Anticipated", "#text": "340"}, "condition": "SARS-CoV-2", "arm_group": {"arm_group_label": "High Risk Healthcare Workers", "description": "At home, finger prick, antibody test."}, "intervention": {"intervention_type": "Diagnostic Test", "intervention_name": "SARS-CoV-2 IgG Antibody Testing Kit", "description": "A, finger prick, at home test for SARS-CoV-2 IgG Antibodies.", "arm_group_label": "High Risk Healthcare Workers", "other_name": "Ray Biotech"}, "eligibility": {"study_pop": {"textblock": "High risk healthcare workers"}, "sampling_method": "Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          1. High risk healthcare workers, prioritizing those who are exposed to aerosol generating\n             procedures (physicians and respiratory therapist) working in the emergency room or\n             intensive care units at Indiana University Health or IU school of Medicine affiliated\n             facilities. A second tier of prioritization, to be approached if testing capacity\n             remains after the initial testing phase, will be nurses working these same areas\n\n          2. Health care workers who are currently out sick or quarantined due to possible/known\n             exposure to COVID-19 and whose physician confirms that a negative test would allow\n             their return to work are also eligible for testing (Subjects in this group may begin\n             study procedures and be registered once they reach the end of their quarantine period)\n\n        Exclusion Criteria:\n\n        1. Previously tested for COVID-19"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A"}, "overall_official": {"last_name": "Courtney Rowan, MD", "role": "Principal Investigator", "affiliation": "Indiana University"}, "overall_contact": {"last_name": "Courtney Rowan, MD", "phone": "3179441363", "email": "coujohns@iu.edu"}, "overall_contact_backup": {"last_name": "Kirsten Ramberg", "phone": "3179482816", "email": "kramberg@iu.edu"}, "verification_date": "April 2020", "study_first_submitted": "April 2, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Indiana University", "investigator_full_name": "Courtney Rowan", "investigator_title": "MD"}, "intervention_browse": {"mesh_term": ["Antibodies", "Immunoglobulins"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "168",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04334876"
+        },
+        "id_info": {
+            "org_study_id": "2003973826",
+            "nct_id": "NCT04334876"
+        },
+        "brief_title": "Rapid SARS-CoV-2 IgG Antibody Testing in High Risk Healthcare Workers",
+        "acronym": "COVID-Antibody",
+        "official_title": "Rapid SARS-CoV-2 IgG Antibody Testing in High Risk Healthcare Workers and Candidacy for Convalescent Plasma Therapy/Prophylaxis",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Indiana University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Indiana University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this study is to validate the use of a rapid, at home, point-of-care (POC)\n      SARS-CoV-2 IgG antibody test in high risk healthcare workers. Additionally, we would like to\n      evaluate the incidence of seroconversion in this high-risk population and to identify\n      possible candidates for convalescent plasma donation for therapy/prophylaxis."
+        },
+        "detailed_description": {
+            "textblock": "The success of Singapore, Taiwan and Hong Kong in limiting the impact of the sudden acute\n      respiratory syndrome coronavirus-2 (SARS-CoV-2), also know as COVID-19, has been attributed\n      to their preparedness but mostly to the implementation and distribution of SARS-CoV-2 fast\n      diagnostic tests and establishment of decentralized point-of-care (POC) testing\n      (https://www.nature.com/articles/d41587-020-00010-2). So far, the frontline response to the\n      SARS-CoV-2 outbreak has been polymerase chain reaction (PCR) testing. PCR is the gold\n      standard for diagnosing an infectious agent, and it has the advantage that the primers needed\n      for such tests can be produced with relative speed as soon as the viral sequence is known.\n\n      The first quantitative reverse-transcriptase-based PCR (RT-PCR) tests for detecting SARS-CoV2\n      were designed and distributed in January by the World Health Organization (WHO), soon after\n      the virus was identified. The test protocol is complex and expensive, however, and is mainly\n      suited to large, centralized diagnostic laboratories. Tests typically take 4-6 hours to\n      complete, but the logistical requirement to ship clinical samples means the turnaround time\n      is 24 hours at best. A new fast PCR test (45 min) from Cepheid has been approved by the U.S.\n      Food and Drug Administration on March 21st with availability at the end of the month. Rapid\n      POC tests are also needed to accelerate clinical decision-making and to take some of the\n      workload off centralized test laboratories. Most importantly, the current state of the matter\n      in Indiana University Health system, as well as many around the country is that healthcare\n      workers including from the ER and ICU are currently unable to receive adequate testing\n      through existing facilities. Worst, their access to appropriate personal protective equipment\n      (PPE) has been limited, increasing their exposure risk and causing a significant amount of\n      stress and anxiety for front-line healthcare providers across the country.\n\n      Back to the Singapore experience, they have used immunoassays that can provide historic\n      information about viral exposure, as well as diagnostic evidence. They exploited\n      antibody-antigen recognition, either by using monoclonal antibodies (mAbs) to detect viral\n      antigens in clinical samples or by using cloned viral antigens to detect patient antibodies\n      directed against the virus. The lateral flow assay format \u2014 essentially a dipstick encased in\n      a cassette \u2014 contains the capture reagents (either an mAb directed at a viral antigen or a\n      viral antigen that is recognized by patients' antibodies) immobilized at defined locations on\n      a nitrocellulose membrane, as well as labelled detector mAbs that recognize the same target.\n      A positive result, which is triggered by binding between the analyte and capture mAb and\n      binding by the detector mAb, is visible as a colored line. Two drops of blood from a pinprick\n      is enough to detect a virus. They're essentially the same as home pregnancy kits. Several of\n      these assays are available in Asia, and most European Countries have been using them too. In\n      US, RayBiotech has developed such a similar test using knowledge from the Asian tests\n      (https://www.raybiotech.com/covid-19-igm-igg-rapid-test-kit/). This product is CE marked and\n      certified for diagnostic use in the EU. The application for FDA Emergency Use Authorizations\n      of tests was submitted on March 16th, 2020. At the moment, the FDA has only approved PCR\n      testing. No lateral flow tests have been approved as of March 23rd, 2020. However, this\n      lateral flow test can be used legally in the US, for in vitro diagnostic use, as a POC test\n      when administered by a licensed medical practitioner. These kits were developed in-house by\n      Ray Biotech and validated using samples taken in hospital from patients showing clinical\n      symptoms in Guangzhou China (all confirmed via PCR). Current stocks of 10,000 kits are being\n      replenished daily at RayBiotech, with efforts to increase production ten-fold within the next\n      week. The CE certificate can be found here:\n      https://www.raybiotech.com/files/images/CG-COV_CE-Certificates.jpg.\n\n      Based on the Singapore, Taiwan, Hong Kong positive experience, and to curb the fast spread of\n      the virus in the US, we propose to use the POC SARS-CoV-2 IgG Antibody in high risk\n      healthcare workers with or without symptoms, previously quarantine or not. Indeed, we\n      hypothesize that the incidence of seroconversion among ER and ICU healthcare workers is high\n      and higher than current models predict and that several cases are asymptomatic or with mild\n      symptoms.\n\n      There are two additional benefits of testing seroconversion.\n\n        1. Although there are no official reports, we clearly hear and see selfies of anxiety,\n           stress and exhaustion from our colleagues at the front line. Thus for the healthcare\n           workers knowing that they have seroconverted, will help them be more confident that they\n           are now protected and can work in safer conditions as it has recently been shown that\n           reinfection could not occur in SARS-CoV-2 infected rhesus macaques\n           https://www.biorxiv.org/content/10.1101/2020.03.13.990226v1.\n\n        2. The healthcare workers represent an ideal pool of donors for convalescent plasma due to\n           their commitment and the fact that they have usually been tested to give blood or are\n           currently blood donors. The FDA just approved a master protocol for collection and\n           administration of convalescent plasma:\n           https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exem\n           ption-ide-process-cber/investigational-covid-19-convalescent-plasma-emergency-inds\n\n      In sum, \"you cannot fight a fire blindfolded, and we cannot stop this pandemic if we don't\n      know who is infected.\" (World Health Organization Director-General, 16 March 2020).\n\n      If successful and validated, we will hope to rapidly scale it up to propose the rapid\n      SARS-CoV-2 IgG Antibody testing to the general population as has been done in countries that\n      have had almost no death due to COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "January 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 1, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Ecologic or Community",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Validation of SARS-CoV-2 IgG Antibody Test",
+            "time_frame": "April 2020-January 2021",
+            "description": "To validate the use of a rapid, at home, point-of-care (POC) SARS-CoV-2 IgG antibody test in high risk healthcare workers"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of Seroconversion",
+                "time_frame": "April 2020-January 2021",
+                "description": "To evaluate the incidence of seroconversion in this high-risk population"
+            },
+            {
+                "measure": "Identify Candidacy",
+                "time_frame": "April 2020-January 2021",
+                "description": "To identify possible candidates for convalescent plasma donation for therapy/prophylaxis (https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/investigational-covid-19-convalescent-plasma-emergency-inds)"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "340"
+        },
+        "condition": "SARS-CoV-2",
+        "arm_group": {
+            "arm_group_label": "High Risk Healthcare Workers",
+            "description": "At home, finger prick, antibody test."
+        },
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "SARS-CoV-2 IgG Antibody Testing Kit",
+            "description": "A, finger prick, at home test for SARS-CoV-2 IgG Antibodies.",
+            "arm_group_label": "High Risk Healthcare Workers",
+            "other_name": "Ray Biotech"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "High risk healthcare workers"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. High risk healthcare workers, prioritizing those who are exposed to aerosol generating\n             procedures (physicians and respiratory therapist) working in the emergency room or\n             intensive care units at Indiana University Health or IU school of Medicine affiliated\n             facilities. A second tier of prioritization, to be approached if testing capacity\n             remains after the initial testing phase, will be nurses working these same areas\n\n          2. Health care workers who are currently out sick or quarantined due to possible/known\n             exposure to COVID-19 and whose physician confirms that a negative test would allow\n             their return to work are also eligible for testing (Subjects in this group may begin\n             study procedures and be registered once they reach the end of their quarantine period)\n\n        Exclusion Criteria:\n\n        1. Previously tested for COVID-19"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A"
+        },
+        "overall_official": {
+            "last_name": "Courtney Rowan, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Indiana University"
+        },
+        "overall_contact": {
+            "last_name": "Courtney Rowan, MD",
+            "phone": "3179441363",
+            "email": "coujohns@iu.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Kirsten Ramberg",
+            "phone": "3179482816",
+            "email": "kramberg@iu.edu"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Indiana University",
+            "investigator_full_name": "Courtney Rowan",
+            "investigator_title": "MD"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Antibodies",
+                "Immunoglobulins"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

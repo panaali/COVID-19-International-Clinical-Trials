@@ -1,1 +1,175 @@
-{"clinical_study": {"@rank": "5", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04324489"}, "id_info": {"org_study_id": "DAS181-SARS-CoV-2", "nct_id": "NCT04324489"}, "brief_title": "DAS181 for Severe COVID-19: Compassionate Use", "official_title": "DAS181 for Severe COVID-19: Compassionate Use", "sponsors": {"lead_sponsor": {"agency": "Renmin Hospital of Wuhan University", "agency_class": "Other"}, "collaborator": {"agency": "Ansun Biopharma, Inc.", "agency_class": "Industry"}}, "source": "Renmin Hospital of Wuhan University", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "Yes"}, "brief_summary": {"textblock": "The objective of the study is to investigate the safety and potential efficacy of DAS181 for\n      the treatment of severe COVID-19."}, "detailed_description": {"textblock": "Each eligible subject is treated with DAS181 for 10 days and observed for 28 days from the\n      first day of administration.\n\n      From day 1 to 10, once or twice a day, for 10 consecutive days, a total of 9 mg (7 ml)\n      nebulized DAS181 is given. If DAS181 is given by twice a day, one vial containing 4.5 mg\n      (3.5m1) DAS181 should be delivered with about 12-hour interval."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 6, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "April 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 25, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Improved clinical status", "time_frame": "Day 14", "description": "Percent of subjects with improved clinical status"}, {"measure": "Return to room air", "time_frame": "Day 14", "description": "Percent of subjects return to room air"}], "secondary_outcome": [{"measure": "SARS-CoV-2 RNA", "time_frame": "28 days", "description": "time to SARS-CoV-2 RNA in the respiratory specimens being undetectable"}, {"measure": "Discharge", "time_frame": "Days 14, 21, 28", "description": "Percent of patients discharge from hospital"}, {"measure": "Death", "time_frame": "Day 14, 21, 28", "description": "All-cause mortality rate"}], "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "4"}, "condition": "COVID-19", "arm_group": {"arm_group_label": "DAS181 Treatment", "arm_group_type": "Experimental", "description": "Nebulized DAS181 9mg/day (4.5 mg bid/day) for 10 days"}, "intervention": {"intervention_type": "Drug", "intervention_name": "DAS181", "description": "Patient receives nebulized DAS181 (4.5 mg BID/day, a total 9 mg/day) for 10 days.", "arm_group_label": "DAS181 Treatment"}, "eligibility": {"criteria": {"textblock": "Key Inclusion Criteria:\n\n          1. Positive for RNA of SARS-CoV-2 from respiratory specimens or blood specimens\n\n          2. Hypoxemic\n\n          3. Severe COVID-19\n\n          4. If female, subject must not be pregnant or nursing.\n\n          5. Non-vasectomized males are required to practice effective birth control methods\n\n          6. Capable of understanding and complying with procedures as outlined in the protocol as\n             judged by the Investigator and able to sign informed consent form prior to the\n             initiation of any screening or study-specific procedures.\n\n        Exclusion Criteria:\n\n          1. ALT or AST> 8 x ULN\n\n          2. (ALT or AST> 3 x ULN) and (Total bilirubin> 2.5 x ULN or INR> 2.0 x ULN)\n\n          3. Female subjects who have a positive pregnancy test and are breastfeeding\n\n          4. Subjects using any other investigational antiviral drugs during the hospitalization\n             before enrollment.\n\n          5. Subjects participating in other clinical trials\n\n          6. Subjects may be transferred to a non-participating hospital within 72 hours\n\n          7. People who cannot cooperate well due to mental illness, have no self-control, and\n             cannot express clearly\n\n          8. Severe underlying diseases affecting survival\n\n          9. Critical COVID-19 requiring mechanical ventilator at the time enrolled"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "70 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Zuojiong Gong, MD", "role": "Principal Investigator", "affiliation": "Renmin Hospital of Wuhan University"}, "overall_contact": {"last_name": "Zuojiong Gong, MD", "phone": "027-88999120", "email": "zjgong@163.com"}, "overall_contact_backup": {"last_name": "Ke Hu, MD", "phone": "027-88999120", "email": "hukejx@163.com"}, "location": {"facility": {"name": "Renmin Hospital of Wuhan University", "address": {"city": "Wuhan", "state": "Hubei", "country": "China"}}, "status": "Recruiting", "contact": {"last_name": "Zuojiong Guong, MD"}}, "location_countries": {"country": "China"}, "verification_date": "March 2020", "study_first_submitted": "March 25, 2020", "study_first_submitted_qc": "March 25, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Renmin Hospital of Wuhan University", "investigator_full_name": "Gong Zuojiong", "investigator_title": "Director, Department of Infectious Disease"}, "keyword": ["COVID-19", "SARS-CoV-2", "DAS181", "Hypoxemia"], "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "5",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04324489"
+        },
+        "id_info": {
+            "org_study_id": "DAS181-SARS-CoV-2",
+            "nct_id": "NCT04324489"
+        },
+        "brief_title": "DAS181 for Severe COVID-19: Compassionate Use",
+        "official_title": "DAS181 for Severe COVID-19: Compassionate Use",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Renmin Hospital of Wuhan University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Ansun Biopharma, Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Renmin Hospital of Wuhan University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The objective of the study is to investigate the safety and potential efficacy of DAS181 for\n      the treatment of severe COVID-19."
+        },
+        "detailed_description": {
+            "textblock": "Each eligible subject is treated with DAS181 for 10 days and observed for 28 days from the\n      first day of administration.\n\n      From day 1 to 10, once or twice a day, for 10 consecutive days, a total of 9 mg (7 ml)\n      nebulized DAS181 is given. If DAS181 is given by twice a day, one vial containing 4.5 mg\n      (3.5m1) DAS181 should be delivered with about 12-hour interval."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 25, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Improved clinical status",
+                "time_frame": "Day 14",
+                "description": "Percent of subjects with improved clinical status"
+            },
+            {
+                "measure": "Return to room air",
+                "time_frame": "Day 14",
+                "description": "Percent of subjects return to room air"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "SARS-CoV-2 RNA",
+                "time_frame": "28 days",
+                "description": "time to SARS-CoV-2 RNA in the respiratory specimens being undetectable"
+            },
+            {
+                "measure": "Discharge",
+                "time_frame": "Days 14, 21, 28",
+                "description": "Percent of patients discharge from hospital"
+            },
+            {
+                "measure": "Death",
+                "time_frame": "Day 14, 21, 28",
+                "description": "All-cause mortality rate"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "4"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "DAS181 Treatment",
+            "arm_group_type": "Experimental",
+            "description": "Nebulized DAS181 9mg/day (4.5 mg bid/day) for 10 days"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "DAS181",
+            "description": "Patient receives nebulized DAS181 (4.5 mg BID/day, a total 9 mg/day) for 10 days.",
+            "arm_group_label": "DAS181 Treatment"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Key Inclusion Criteria:\n\n          1. Positive for RNA of SARS-CoV-2 from respiratory specimens or blood specimens\n\n          2. Hypoxemic\n\n          3. Severe COVID-19\n\n          4. If female, subject must not be pregnant or nursing.\n\n          5. Non-vasectomized males are required to practice effective birth control methods\n\n          6. Capable of understanding and complying with procedures as outlined in the protocol as\n             judged by the Investigator and able to sign informed consent form prior to the\n             initiation of any screening or study-specific procedures.\n\n        Exclusion Criteria:\n\n          1. ALT or AST> 8 x ULN\n\n          2. (ALT or AST> 3 x ULN) and (Total bilirubin> 2.5 x ULN or INR> 2.0 x ULN)\n\n          3. Female subjects who have a positive pregnancy test and are breastfeeding\n\n          4. Subjects using any other investigational antiviral drugs during the hospitalization\n             before enrollment.\n\n          5. Subjects participating in other clinical trials\n\n          6. Subjects may be transferred to a non-participating hospital within 72 hours\n\n          7. People who cannot cooperate well due to mental illness, have no self-control, and\n             cannot express clearly\n\n          8. Severe underlying diseases affecting survival\n\n          9. Critical COVID-19 requiring mechanical ventilator at the time enrolled"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "70 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Zuojiong Gong, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Renmin Hospital of Wuhan University"
+        },
+        "overall_contact": {
+            "last_name": "Zuojiong Gong, MD",
+            "phone": "027-88999120",
+            "email": "zjgong@163.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Ke Hu, MD",
+            "phone": "027-88999120",
+            "email": "hukejx@163.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Renmin Hospital of Wuhan University",
+                "address": {
+                    "city": "Wuhan",
+                    "state": "Hubei",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Zuojiong Guong, MD"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 25, 2020",
+        "study_first_submitted_qc": "March 25, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Renmin Hospital of Wuhan University",
+            "investigator_full_name": "Gong Zuojiong",
+            "investigator_title": "Director, Department of Infectious Disease"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-CoV-2",
+            "DAS181",
+            "Hypoxemia"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

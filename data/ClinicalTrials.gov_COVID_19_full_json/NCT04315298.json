@@ -1,1 +1,1108 @@
-{"clinical_study": {"@rank": "22", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04315298"}, "id_info": {"org_study_id": "6R88-COV-2040", "nct_id": "NCT04315298"}, "brief_title": "Evaluation of the Efficacy and Safety of Sarilumab in Hospitalized Patients With COVID-19", "official_title": "An Adaptive Phase 2/3, Randomized, Double-Blind, Placebo-Controlled Study Assessing Efficacy and Safety of Sarilumab for Hospitalized Patients With COVID-19", "sponsors": {"lead_sponsor": {"agency": "Regeneron Pharmaceuticals", "agency_class": "Industry"}, "collaborator": {"agency": "Sanofi", "agency_class": "Industry"}}, "source": "Regeneron Pharmaceuticals", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Phase 2:\n\n      The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative\n      to the control arm in adult patients hospitalized with COVID-19 regardless of severity\n      strata.\n\n      Phase 3:\n\n      The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative\n      to the control arm in adult patients hospitalized with COVID-19 (severe and critical)."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 18, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "April 1, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 9, 2021"}, "phase": "Phase 2/Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"}, "primary_outcome": [{"measure": "Percent change in C-reactive protein (CRP) levels", "time_frame": "Day 4", "description": "Phase 2 Only"}, {"measure": "Time to improvement (2 points) in clinical status assessment using the 7-point ordinal scale in patients with serum IL-6 levels greater than the upper limit of normal", "time_frame": "Up to day 29", "description": "Phase 3 Only\n7-point Ordinal Scale:\nDeath;\nHospitalized, requiring invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO);\nHospitalized, requiring non-invasive ventilation or high flow oxygen devices;\nHospitalized, requiring supplemental oxygen;\nHospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise)\nHospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care\nNot hospitalized"}], "secondary_outcome": [{"measure": "Time to improvement (2 points) in clinical status assessment on the 7-point ordinal scale in severe or critical patients with serum IL-6 levels greater than the upper limit of normal", "time_frame": "Up to day 29", "description": "Phase 2 Only"}, {"measure": "Time to improvement (2 points) in clinical status assessment on the 7-point ordinal scale reporting in severe or critical patients with all IL-6 levels", "time_frame": "Up to day 29", "description": "Phase 2 Only"}, {"measure": "Time to resolution of fever for at least 48 hours without antipyretics in patients with documented fever", "time_frame": "Up to day 29", "description": "Resolution of fever defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)\nDocumented fever defined as \u226538\u00b0C (oral), \u226538.4\u00b0C (rectal or tympanic), or \u226537.6\u00b0C (temporal or axillary)"}, {"measure": "Time to resolution of fever for at least 48 hours without antipyretics by clinical severity", "time_frame": "Up to day 29", "description": "Defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)"}, {"measure": "Time to resolution of fever for at least 48 hours without antipyretics by baseline IL-6 levels", "time_frame": "Up to day 29", "description": "Defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)"}, {"measure": "Time to improvement in oxygenation for at least 48 hours", "time_frame": "Up to day 29", "description": "Improvement in oxygenation defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"}, {"measure": "Time to improvement in oxygenation for at least 48 hours by clinical severity", "time_frame": "Up to day 29", "description": "Defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"}, {"measure": "Time to improvement in oxygenation for at least 48 hours by baseline IL-6 levels", "time_frame": "Up to day 29", "description": "Defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"}, {"measure": "Time to resolution of fever and improvement in oxygenation for at least 48 hours", "time_frame": "Up to day 29", "description": "Resolution of fever defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)\nImprovement in oxygenation defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"}, {"measure": "Mean change in the 7-point ordinal scale", "time_frame": "Up to day 29"}, {"measure": "Percentage of patients in each clinical status category using the 7-point ordinal scale", "time_frame": "Up to day 29"}, {"measure": "Time to discharge or to a National Early Warning Score 2 (NEWS2) of \u22642 and maintained for 24 hours", "time_frame": "Up to day 29", "description": "NEWS2 consists of: Physiological Parameters: Respiration rate (per minute), SpO2 Scale 1 (%), SpO2 Scale 2 (%), Use of Air or oxygen, Systolic blood pressure (mmHg), Pulse (per minute), Consciousness, Temperature (\u00b0C)"}, {"measure": "Change from baseline in NEWS2 scoring system", "time_frame": "Up to day 29"}, {"measure": "Number of days with fever", "time_frame": "Up to day 29", "description": "Defined as \u226538\u00b0C (oral), \u226538.4\u00b0C (rectal or tympanic) or \u226537.6\u00b0C (temporal or axillary)"}, {"measure": "Proportion of patients alive, off oxygen", "time_frame": "Day 29"}, {"measure": "Number of days of resting respiratory rate >24 breaths/min", "time_frame": "Up to day 29"}, {"measure": "Number of days with hypoxemia", "time_frame": "Up to day 29"}, {"measure": "Number of days of supplemental oxygen use", "time_frame": "Up to day 29"}, {"measure": "Time to saturation \u226594% on room air", "time_frame": "Up to day 29"}, {"measure": "Number of ventilator free days in the first 28 days", "time_frame": "Baseline to day 29"}, {"measure": "Number of patients requiring initiation of mechanical ventilation", "time_frame": "Up to day 29"}, {"measure": "Number of patients requiring non-invasive ventilation", "time_frame": "Up to day 29"}, {"measure": "Number of patients requiring the use of high flow nasal cannula", "time_frame": "Up to day 29"}, {"measure": "Number of patients admitted into an intensive care unit (ICU)", "time_frame": "Up to day 29"}, {"measure": "Number of days of hospitalization among survivors", "time_frame": "Up to day 29"}, {"measure": "Number of deaths due to any cause", "time_frame": "Up to day 60"}, {"measure": "Change in serum CRP levels", "time_frame": "Up to day 29", "description": "Phase 3 Only"}, {"measure": "Incidence of serious adverse events", "time_frame": "Up to Day 29"}, {"measure": "Incidence of Grade 4 neutropenia (ANC <500/mm3)", "time_frame": "Up to day 29"}, {"measure": "Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection", "time_frame": "Up to day 29"}, {"measure": "Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection in patients with Grade 4 neutropenia", "time_frame": "Up to day 29"}, {"measure": "Incidence of hypersensitivity reactions", "time_frame": "Up to day 29"}, {"measure": "Incidence of infusion reactions", "time_frame": "Up to day 29"}, {"measure": "Incidence of gastrointestinal perforation", "time_frame": "Up to day 29"}, {"measure": "White blood cell count", "time_frame": "Up to day 29 if still hospitalized"}, {"measure": "Hemoglobin levels", "time_frame": "Up to day 29 if still hospitalized"}, {"measure": "Platelet count", "time_frame": "Up to day 29 if still hospitalized"}, {"measure": "Creatinine levels", "time_frame": "Up to day 29 if still hospitalized"}, {"measure": "Total bilirubin level", "time_frame": "Up to day 29 if still hospitalized"}, {"measure": "Alanine aminotransferase (ALT) level", "time_frame": "Up to day 29 if still hospitalized"}, {"measure": "Aspartate aminotransferase (AST) level", "time_frame": "Up to day 29 if still hospitalized"}], "number_of_arms": "3", "enrollment": {"@type": "Anticipated", "#text": "400"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "Sarilumab high dose", "arm_group_type": "Experimental"}, {"arm_group_label": "Sarilumab low dose", "arm_group_type": "Experimental"}, {"arm_group_label": "Placebo", "arm_group_type": "Placebo Comparator"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Sarilumab", "description": "Single intravenous (IV) dose of sarilumab", "arm_group_label": ["Sarilumab high dose", "Sarilumab low dose"], "other_name": ["Kevzara\u00ae", "REGN88", "SAR153191"]}, {"intervention_type": "Drug", "intervention_name": "Placebo", "description": "Single intravenous (IV) dose of placebo to match sarilumab administration", "arm_group_label": "Placebo"}], "eligibility": {"criteria": {"textblock": "Key Inclusion Criteria:\n\n          -  Laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain reaction\n             (PCR), result from any specimen (or other commercial or public health assay) within 2\n             weeks prior to randomization and no alternative explanation for current clinical\n             condition\n\n          -  Hospitalized with illness of any duration with evidence of pneumonia and severe\n             disease, critical disease, multi-system organ dysfunction or immunocompromised at\n             baseline\n\n          -  Ability to provide informed consent signed by study patient or legally acceptable\n             representative\n\n          -  Willingness and ability to comply with study-related procedures/assessments\n\n        Key Exclusion Criteria:\n\n          -  In the opinion of the investigator, not expected to survive for more than 48 hours\n             from screening\n\n          -  Presence of any of the following abnormal laboratory values at screening: absolute\n             neutrophil count (ANC) less than 2000 mm3, aspartate aminotransferase (AST) or alanine\n             aminotransferase (ALT) greater than 5 x upper limit of normal (ULN), platelets <50,000\n             per mm3\n\n          -  Treatment with anti-IL 6, anti-IL-6R antagonists, or with Janus kinase inhibitors\n             (JAKi) in the past 30 days or plans to receive during the study period\n\n          -  Current treatment with the simultaneous combination of leflunomide and methotrexate\n\n          -  Known active tuberculosis (TB), history of incompletely treated TB, suspected or known\n             extrapulmonary TB, suspected or known systemic bacterial or fungal infections\n\n          -  Patients who have received immunosuppressive antibody therapy within the past 5\n             months, including intravenous immunoglobulin or plans to receive during the study\n             period\n\n          -  Participation in a double-blind clinical research study evaluating an investigational\n             product (IP) or therapy within 3 months and less than 5 half-lives of IP prior to the\n             screening visit (The use of remdesivir, hydroxychloroquine, or other treatments being\n             used for COVID-19 treatments in the context of an open-label study or compassionate\n             use protocol is permitted)\n\n          -  Any physical examination findings, and/or history of any illness, concomitant\n             medications or recent live vaccines that, in the opinion of the study investigator,\n             might confound the results of the study or pose an additional risk to the patient by\n             their participation in the study\n\n          -  Known systemic hypersensitivity to sarilumab or the excipients of the drug product\n\n        NOTE: Other protocol defined inclusion / exclusion criteria may apply"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Clinical Trial Management", "role": "Study Director", "affiliation": "Regeneron Pharmaceuticals"}, "overall_contact": {"last_name": "Clinical Trials Administrator", "phone": "844-734-6643", "email": "clinicaltrials@regeneron.com"}, "location": [{"facility": {"name": "Regeneron Study Site", "address": {"city": "Los Angeles", "state": "California", "zip": "90095", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Sacramento", "state": "California", "zip": "95817", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Santa Monica", "state": "California", "zip": "90404", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Aurora", "state": "Colorado", "zip": "80045", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Denver", "state": "Colorado", "zip": "80206", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New Haven", "state": "Connecticut", "zip": "06520", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Washington", "state": "District of Columbia", "zip": "20010", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Coral Gables", "state": "Florida", "zip": "33146", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Gainesville", "state": "Florida", "zip": "32610", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Orlando", "state": "Florida", "zip": "32803", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Atlanta", "state": "Georgia", "zip": "30322", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Decatur", "state": "Georgia", "zip": "30033", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Marietta", "state": "Georgia", "zip": "30060", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Chicago", "state": "Illinois", "zip": "60611", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Chicago", "state": "Illinois", "zip": "60612", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New Orleans", "state": "Louisiana", "zip": "70112", "country": "United States"}}, "status": "Not yet recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Baltimore", "state": "Maryland", "zip": "21205", "country": "United States"}}, "status": "Not yet recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Boston", "state": "Massachusetts", "zip": "02111", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Boston", "state": "Massachusetts", "zip": "02114", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Boston", "state": "Massachusetts", "zip": "02115", "country": "United States"}}, "status": "Not yet recruiting"}, {"facility": {"name": "Regneron Study Site", "address": {"city": "Boston", "state": "Massachusetts", "zip": "02215", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Ann Arbor", "state": "Michigan", "zip": "48109", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Detroit", "state": "Michigan", "zip": "48236", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Rochester", "state": "Minnesota", "zip": "55905", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Edison", "state": "New Jersey", "zip": "08820", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Hackensack", "state": "New Jersey", "zip": "07601", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Livingston", "state": "New Jersey", "zip": "07039", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Morristown", "state": "New Jersey", "zip": "07960", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Neptune", "state": "New Jersey", "zip": "07753", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Newark", "state": "New Jersey", "zip": "07112", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Teaneck", "state": "New Jersey", "zip": "07666", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Bronx", "state": "New York", "zip": "10451", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site 1", "address": {"city": "Bronx", "state": "New York", "zip": "10461", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site 2", "address": {"city": "Bronx", "state": "New York", "zip": "10461", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Bronx", "state": "New York", "zip": "10467", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Brooklyn", "state": "New York", "zip": "11219", "country": "United States"}}, "status": "Not yet recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Elmhurst", "state": "New York", "zip": "11373", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Facility 2", "address": {"city": "Manhasset", "state": "New York", "zip": "11030", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site 1", "address": {"city": "Manhasset", "state": "New York", "zip": "11030", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New York", "state": "New York", "zip": "10003", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New York", "state": "New York", "zip": "10016", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site 1", "address": {"city": "New York", "state": "New York", "zip": "10025", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site 2", "address": {"city": "New York", "state": "New York", "zip": "10025", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New York", "state": "New York", "zip": "10029", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New York", "state": "New York", "zip": "10032", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New York", "state": "New York", "zip": "10037", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New York", "state": "New York", "zip": "10065", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "New York", "state": "New York", "zip": "10075", "country": "United States"}}, "status": "Not yet recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Stony Brook", "state": "New York", "zip": "11794", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Valhalla", "state": "New York", "zip": "10595", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Tulsa", "state": "Oklahoma", "zip": "74104", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Portland", "state": "Oregon", "zip": "97213", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Portland", "state": "Oregon", "zip": "97239", "country": "United States"}}, "status": "Not yet recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Danville", "state": "Pennsylvania", "zip": "17822", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Philadelphia", "state": "Pennsylvania", "zip": "19140", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Scranton", "state": "Pennsylvania", "zip": "18510", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Wilkes-Barre", "state": "Pennsylvania", "zip": "18711", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Dallas", "state": "Texas", "zip": "75246", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Dallas", "state": "Texas", "zip": "75390", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Murray", "state": "Utah", "zip": "84107", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Falls Church", "state": "Virginia", "zip": "22042", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Everett", "state": "Washington", "zip": "98201", "country": "United States"}}, "status": "Recruiting"}, {"facility": {"name": "Regeneron Study Site", "address": {"city": "Renton", "state": "Washington", "zip": "98055", "country": "United States"}}, "status": "Recruiting"}], "location_countries": {"country": "United States"}, "verification_date": "April 2020", "study_first_submitted": "March 15, 2020", "study_first_submitted_qc": "March 17, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 19, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["COVID-19", "SARS-COV-2", "coronavirus", "IL-6", "sarilumab", "acute respiratory distress syndrome", "treatment"], "patient_data": {"sharing_ipd": "Yes", "ipd_description": "All IPD that underlie publicly available results will be considered for sharing", "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)", "Informed Consent Form (ICF)", "Clinical Study Report (CSR)", "Analytic Code"], "ipd_time_frame": "Individual anonymized participant data will be considered for sharing once the indication has been approved by a regulatory body, if there is legal authority to share the data and there is not a reasonable likelihood of participant re-identification", "ipd_access_criteria": "Qualified researchers may request access to anonymized patient level data or aggregate study data when Regeneron has received marketing authorization from major health authorities (e.g., FDA, EMA, PMDA, etc) for the product and indication, has the legal authority to share the data, and has made the study results publicly available (eg, scientific publication, scientific conference, clinical trial registry).", "ipd_url": "https://errs.regeneron.com/external"}}}
+{
+    "clinical_study": {
+        "@rank": "22",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04315298"
+        },
+        "id_info": {
+            "org_study_id": "6R88-COV-2040",
+            "nct_id": "NCT04315298"
+        },
+        "brief_title": "Evaluation of the Efficacy and Safety of Sarilumab in Hospitalized Patients With COVID-19",
+        "official_title": "An Adaptive Phase 2/3, Randomized, Double-Blind, Placebo-Controlled Study Assessing Efficacy and Safety of Sarilumab for Hospitalized Patients With COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Regeneron Pharmaceuticals",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "Sanofi",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Regeneron Pharmaceuticals",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Phase 2:\n\n      The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative\n      to the control arm in adult patients hospitalized with COVID-19 regardless of severity\n      strata.\n\n      Phase 3:\n\n      The primary objective of the study is to evaluate the clinical efficacy of sarilumab relative\n      to the control arm in adult patients hospitalized with COVID-19 (severe and critical)."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 18, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 9, 2021"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Percent change in C-reactive protein (CRP) levels",
+                "time_frame": "Day 4",
+                "description": "Phase 2 Only"
+            },
+            {
+                "measure": "Time to improvement (2 points) in clinical status assessment using the 7-point ordinal scale in patients with serum IL-6 levels greater than the upper limit of normal",
+                "time_frame": "Up to day 29",
+                "description": "Phase 3 Only\n7-point Ordinal Scale:\nDeath;\nHospitalized, requiring invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO);\nHospitalized, requiring non-invasive ventilation or high flow oxygen devices;\nHospitalized, requiring supplemental oxygen;\nHospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise)\nHospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care\nNot hospitalized"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Time to improvement (2 points) in clinical status assessment on the 7-point ordinal scale in severe or critical patients with serum IL-6 levels greater than the upper limit of normal",
+                "time_frame": "Up to day 29",
+                "description": "Phase 2 Only"
+            },
+            {
+                "measure": "Time to improvement (2 points) in clinical status assessment on the 7-point ordinal scale reporting in severe or critical patients with all IL-6 levels",
+                "time_frame": "Up to day 29",
+                "description": "Phase 2 Only"
+            },
+            {
+                "measure": "Time to resolution of fever for at least 48 hours without antipyretics in patients with documented fever",
+                "time_frame": "Up to day 29",
+                "description": "Resolution of fever defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)\nDocumented fever defined as \u226538\u00b0C (oral), \u226538.4\u00b0C (rectal or tympanic), or \u226537.6\u00b0C (temporal or axillary)"
+            },
+            {
+                "measure": "Time to resolution of fever for at least 48 hours without antipyretics by clinical severity",
+                "time_frame": "Up to day 29",
+                "description": "Defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)"
+            },
+            {
+                "measure": "Time to resolution of fever for at least 48 hours without antipyretics by baseline IL-6 levels",
+                "time_frame": "Up to day 29",
+                "description": "Defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)"
+            },
+            {
+                "measure": "Time to improvement in oxygenation for at least 48 hours",
+                "time_frame": "Up to day 29",
+                "description": "Improvement in oxygenation defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"
+            },
+            {
+                "measure": "Time to improvement in oxygenation for at least 48 hours by clinical severity",
+                "time_frame": "Up to day 29",
+                "description": "Defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"
+            },
+            {
+                "measure": "Time to improvement in oxygenation for at least 48 hours by baseline IL-6 levels",
+                "time_frame": "Up to day 29",
+                "description": "Defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"
+            },
+            {
+                "measure": "Time to resolution of fever and improvement in oxygenation for at least 48 hours",
+                "time_frame": "Up to day 29",
+                "description": "Resolution of fever defined as postbaseline body temperature <37.2\u00b0C (oral), or <37.6\u00b0C (rectal or tympanic) or <36.8\u00b0C (temporal or axillary)\nImprovement in oxygenation defined as increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2"
+            },
+            {
+                "measure": "Mean change in the 7-point ordinal scale",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Percentage of patients in each clinical status category using the 7-point ordinal scale",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Time to discharge or to a National Early Warning Score 2 (NEWS2) of \u22642 and maintained for 24 hours",
+                "time_frame": "Up to day 29",
+                "description": "NEWS2 consists of: Physiological Parameters: Respiration rate (per minute), SpO2 Scale 1 (%), SpO2 Scale 2 (%), Use of Air or oxygen, Systolic blood pressure (mmHg), Pulse (per minute), Consciousness, Temperature (\u00b0C)"
+            },
+            {
+                "measure": "Change from baseline in NEWS2 scoring system",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of days with fever",
+                "time_frame": "Up to day 29",
+                "description": "Defined as \u226538\u00b0C (oral), \u226538.4\u00b0C (rectal or tympanic) or \u226537.6\u00b0C (temporal or axillary)"
+            },
+            {
+                "measure": "Proportion of patients alive, off oxygen",
+                "time_frame": "Day 29"
+            },
+            {
+                "measure": "Number of days of resting respiratory rate >24 breaths/min",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of days with hypoxemia",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of days of supplemental oxygen use",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Time to saturation \u226594% on room air",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of ventilator free days in the first 28 days",
+                "time_frame": "Baseline to day 29"
+            },
+            {
+                "measure": "Number of patients requiring initiation of mechanical ventilation",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of patients requiring non-invasive ventilation",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of patients requiring the use of high flow nasal cannula",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of patients admitted into an intensive care unit (ICU)",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of days of hospitalization among survivors",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Number of deaths due to any cause",
+                "time_frame": "Up to day 60"
+            },
+            {
+                "measure": "Change in serum CRP levels",
+                "time_frame": "Up to day 29",
+                "description": "Phase 3 Only"
+            },
+            {
+                "measure": "Incidence of serious adverse events",
+                "time_frame": "Up to Day 29"
+            },
+            {
+                "measure": "Incidence of Grade 4 neutropenia (ANC <500/mm3)",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection in patients with Grade 4 neutropenia",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Incidence of hypersensitivity reactions",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Incidence of infusion reactions",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "Incidence of gastrointestinal perforation",
+                "time_frame": "Up to day 29"
+            },
+            {
+                "measure": "White blood cell count",
+                "time_frame": "Up to day 29 if still hospitalized"
+            },
+            {
+                "measure": "Hemoglobin levels",
+                "time_frame": "Up to day 29 if still hospitalized"
+            },
+            {
+                "measure": "Platelet count",
+                "time_frame": "Up to day 29 if still hospitalized"
+            },
+            {
+                "measure": "Creatinine levels",
+                "time_frame": "Up to day 29 if still hospitalized"
+            },
+            {
+                "measure": "Total bilirubin level",
+                "time_frame": "Up to day 29 if still hospitalized"
+            },
+            {
+                "measure": "Alanine aminotransferase (ALT) level",
+                "time_frame": "Up to day 29 if still hospitalized"
+            },
+            {
+                "measure": "Aspartate aminotransferase (AST) level",
+                "time_frame": "Up to day 29 if still hospitalized"
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "400"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Sarilumab high dose",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Sarilumab low dose",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Sarilumab",
+                "description": "Single intravenous (IV) dose of sarilumab",
+                "arm_group_label": [
+                    "Sarilumab high dose",
+                    "Sarilumab low dose"
+                ],
+                "other_name": [
+                    "Kevzara\u00ae",
+                    "REGN88",
+                    "SAR153191"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Single intravenous (IV) dose of placebo to match sarilumab administration",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Key Inclusion Criteria:\n\n          -  Laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain reaction\n             (PCR), result from any specimen (or other commercial or public health assay) within 2\n             weeks prior to randomization and no alternative explanation for current clinical\n             condition\n\n          -  Hospitalized with illness of any duration with evidence of pneumonia and severe\n             disease, critical disease, multi-system organ dysfunction or immunocompromised at\n             baseline\n\n          -  Ability to provide informed consent signed by study patient or legally acceptable\n             representative\n\n          -  Willingness and ability to comply with study-related procedures/assessments\n\n        Key Exclusion Criteria:\n\n          -  In the opinion of the investigator, not expected to survive for more than 48 hours\n             from screening\n\n          -  Presence of any of the following abnormal laboratory values at screening: absolute\n             neutrophil count (ANC) less than 2000 mm3, aspartate aminotransferase (AST) or alanine\n             aminotransferase (ALT) greater than 5 x upper limit of normal (ULN), platelets <50,000\n             per mm3\n\n          -  Treatment with anti-IL 6, anti-IL-6R antagonists, or with Janus kinase inhibitors\n             (JAKi) in the past 30 days or plans to receive during the study period\n\n          -  Current treatment with the simultaneous combination of leflunomide and methotrexate\n\n          -  Known active tuberculosis (TB), history of incompletely treated TB, suspected or known\n             extrapulmonary TB, suspected or known systemic bacterial or fungal infections\n\n          -  Patients who have received immunosuppressive antibody therapy within the past 5\n             months, including intravenous immunoglobulin or plans to receive during the study\n             period\n\n          -  Participation in a double-blind clinical research study evaluating an investigational\n             product (IP) or therapy within 3 months and less than 5 half-lives of IP prior to the\n             screening visit (The use of remdesivir, hydroxychloroquine, or other treatments being\n             used for COVID-19 treatments in the context of an open-label study or compassionate\n             use protocol is permitted)\n\n          -  Any physical examination findings, and/or history of any illness, concomitant\n             medications or recent live vaccines that, in the opinion of the study investigator,\n             might confound the results of the study or pose an additional risk to the patient by\n             their participation in the study\n\n          -  Known systemic hypersensitivity to sarilumab or the excipients of the drug product\n\n        NOTE: Other protocol defined inclusion / exclusion criteria may apply"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Clinical Trial Management",
+            "role": "Study Director",
+            "affiliation": "Regeneron Pharmaceuticals"
+        },
+        "overall_contact": {
+            "last_name": "Clinical Trials Administrator",
+            "phone": "844-734-6643",
+            "email": "clinicaltrials@regeneron.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Los Angeles",
+                        "state": "California",
+                        "zip": "90095",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Sacramento",
+                        "state": "California",
+                        "zip": "95817",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Santa Monica",
+                        "state": "California",
+                        "zip": "90404",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Aurora",
+                        "state": "Colorado",
+                        "zip": "80045",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Denver",
+                        "state": "Colorado",
+                        "zip": "80206",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New Haven",
+                        "state": "Connecticut",
+                        "zip": "06520",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Washington",
+                        "state": "District of Columbia",
+                        "zip": "20010",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Coral Gables",
+                        "state": "Florida",
+                        "zip": "33146",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Gainesville",
+                        "state": "Florida",
+                        "zip": "32610",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Orlando",
+                        "state": "Florida",
+                        "zip": "32803",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Atlanta",
+                        "state": "Georgia",
+                        "zip": "30322",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Decatur",
+                        "state": "Georgia",
+                        "zip": "30033",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Marietta",
+                        "state": "Georgia",
+                        "zip": "30060",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Chicago",
+                        "state": "Illinois",
+                        "zip": "60611",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Chicago",
+                        "state": "Illinois",
+                        "zip": "60612",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New Orleans",
+                        "state": "Louisiana",
+                        "zip": "70112",
+                        "country": "United States"
+                    }
+                },
+                "status": "Not yet recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Baltimore",
+                        "state": "Maryland",
+                        "zip": "21205",
+                        "country": "United States"
+                    }
+                },
+                "status": "Not yet recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02111",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02114",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02115",
+                        "country": "United States"
+                    }
+                },
+                "status": "Not yet recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regneron Study Site",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02215",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Ann Arbor",
+                        "state": "Michigan",
+                        "zip": "48109",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Detroit",
+                        "state": "Michigan",
+                        "zip": "48236",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Rochester",
+                        "state": "Minnesota",
+                        "zip": "55905",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Edison",
+                        "state": "New Jersey",
+                        "zip": "08820",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Hackensack",
+                        "state": "New Jersey",
+                        "zip": "07601",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Livingston",
+                        "state": "New Jersey",
+                        "zip": "07039",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Morristown",
+                        "state": "New Jersey",
+                        "zip": "07960",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Neptune",
+                        "state": "New Jersey",
+                        "zip": "07753",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Newark",
+                        "state": "New Jersey",
+                        "zip": "07112",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Teaneck",
+                        "state": "New Jersey",
+                        "zip": "07666",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Bronx",
+                        "state": "New York",
+                        "zip": "10451",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site 1",
+                    "address": {
+                        "city": "Bronx",
+                        "state": "New York",
+                        "zip": "10461",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site 2",
+                    "address": {
+                        "city": "Bronx",
+                        "state": "New York",
+                        "zip": "10461",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Bronx",
+                        "state": "New York",
+                        "zip": "10467",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Brooklyn",
+                        "state": "New York",
+                        "zip": "11219",
+                        "country": "United States"
+                    }
+                },
+                "status": "Not yet recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Elmhurst",
+                        "state": "New York",
+                        "zip": "11373",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Facility 2",
+                    "address": {
+                        "city": "Manhasset",
+                        "state": "New York",
+                        "zip": "11030",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site 1",
+                    "address": {
+                        "city": "Manhasset",
+                        "state": "New York",
+                        "zip": "11030",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10003",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10016",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site 1",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10025",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site 2",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10025",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10029",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10032",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10037",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10065",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10075",
+                        "country": "United States"
+                    }
+                },
+                "status": "Not yet recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Stony Brook",
+                        "state": "New York",
+                        "zip": "11794",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Valhalla",
+                        "state": "New York",
+                        "zip": "10595",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Tulsa",
+                        "state": "Oklahoma",
+                        "zip": "74104",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Portland",
+                        "state": "Oregon",
+                        "zip": "97213",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Portland",
+                        "state": "Oregon",
+                        "zip": "97239",
+                        "country": "United States"
+                    }
+                },
+                "status": "Not yet recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Danville",
+                        "state": "Pennsylvania",
+                        "zip": "17822",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Philadelphia",
+                        "state": "Pennsylvania",
+                        "zip": "19140",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Scranton",
+                        "state": "Pennsylvania",
+                        "zip": "18510",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Wilkes-Barre",
+                        "state": "Pennsylvania",
+                        "zip": "18711",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Dallas",
+                        "state": "Texas",
+                        "zip": "75246",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Dallas",
+                        "state": "Texas",
+                        "zip": "75390",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Murray",
+                        "state": "Utah",
+                        "zip": "84107",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Falls Church",
+                        "state": "Virginia",
+                        "zip": "22042",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Everett",
+                        "state": "Washington",
+                        "zip": "98201",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Regeneron Study Site",
+                    "address": {
+                        "city": "Renton",
+                        "state": "Washington",
+                        "zip": "98055",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 15, 2020",
+        "study_first_submitted_qc": "March 17, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-COV-2",
+            "coronavirus",
+            "IL-6",
+            "sarilumab",
+            "acute respiratory distress syndrome",
+            "treatment"
+        ],
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "All IPD that underlie publicly available results will be considered for sharing",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)",
+                "Clinical Study Report (CSR)",
+                "Analytic Code"
+            ],
+            "ipd_time_frame": "Individual anonymized participant data will be considered for sharing once the indication has been approved by a regulatory body, if there is legal authority to share the data and there is not a reasonable likelihood of participant re-identification",
+            "ipd_access_criteria": "Qualified researchers may request access to anonymized patient level data or aggregate study data when Regeneron has received marketing authorization from major health authorities (e.g., FDA, EMA, PMDA, etc) for the product and indication, has the legal authority to share the data, and has made the study results publicly available (eg, scientific publication, scientific conference, clinical trial registry).",
+            "ipd_url": "https://errs.regeneron.com/external"
+        }
+    }
+}

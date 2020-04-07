@@ -1,1 +1,438 @@
-{"clinical_study": {"@rank": "325", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04320056"}, "id_info": {"org_study_id": "21909", "nct_id": "NCT04320056"}, "brief_title": "Closed-Loop Oxygen to Verify That Healthcare Workers Interventions Decrease During Pneumonia", "official_title": "Automated Oxygen Titration - Monitoring and Weaning in Patients With Infectious Pneumonia Requiring Oxygen - Impact on the Number of Interventions for Healthcare Workers. An Innovative Device to Manage Patients With COVID-19 Pneumonia COVID Study (Closed-Loop Oxygen to Verify That Healthcare Workers Interventions Decreaseduring Pneumonia)", "sponsors": {"lead_sponsor": {"agency": "Laval University", "agency_class": "Other"}}, "source": "Laval University", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "There is a high risk of transmission of COVID-19 to healthcare workers. In a recent cohort,\n      29% of the patients hospitalized were healthcare workers. Among the WHO's primary strategic\n      objectives for the response to COVID-19, the first was to limit human-to-human transmission,\n      including reducing secondary infections among close contacts and health care workers.\n\n      Automated oxygen titration, weaning and monitoring (FreeO2 device) may be a solution to\n      reduce the number of interventions of healthcare workers related to oxygen therapy, to reduce\n      complications related to oxygen and to improve monitoring."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 6, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "October 31, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 30, 2021"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Other", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "The number of interventions", "time_frame": "Hour0 to Hour4", "description": "The number of interventions required by healthcare workers to manage oxygen therapy (titration, weaning and monitoring) during 4 hours"}, {"measure": "Duration of interventions", "time_frame": "Hour0 to Hour24", "description": "The number of interventions required by healthcare workers to manage oxygen therapy (titration, weaning and monitoring) during 4 hours"}], "secondary_outcome": [{"measure": "Mean oxygen flow", "time_frame": "Hour0 to Hour24 (1 day)", "description": "The Mean oxygen flow during study duration to evaluate oxygen consumption"}, {"measure": "Time within theSpO2 target", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Time within SpO2 between 90 and 94%"}, {"measure": "Time with hypoxemia", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Time within SpO2 < 88%"}, {"measure": "Time with hyperoxemia", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Time within SpO2 > 96%"}, {"measure": "Rate of ICU admission", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Rate of ICU admission"}, {"measure": "Rate of needed non invasive respiratory support", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Rate of needed non invasive respiratory support Non invasive ventilation or High Flow Nasal Therapy"}, {"measure": "Rate of intubation", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Rate of intubation"}, {"measure": "NEWS 2 score evolution", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Evaluation of NEWS 2 score evolution (National Early Warning score) correlate to patient evolution.\nThe NEWS2 score will be calculate but no intervention will be made based on this score.\nPatient evolution will be compare at NEWS 2 interpretation.\nInterpretation A low score (NEWS 1-4) should prompt assessment by a competent registered nurse who should decide if a change to frequency of clinical monitoring or an escalation of clinical care is required.\nA medium score (ie NEWS of 5-6 or a RED score) should consider whether escalation of care to a team with critical-care skills is required (ie critical care outreach team).\nA high score (NEWS \u22657) should prompt emergency assessment by a clinical team/critical care outreach team with critical-care competencies and usually transfer of the patient to a higher dependency care area."}, {"measure": "EWSO2 score evolution", "time_frame": "Hour0 to Hour24 (1 day)", "description": "Evaluation of EWSO2 score(Early Warning ScoreO2) evolution correlate to patient evolution\nThe EWSO2 score will be calculate but no intervention will be made based on this score.\nPatient evolution will be compare at EWSO2 interpretation.\nInterpretation Favorable clinical outcome in patients with a score <5.3 A patient with a score >18.6 will experience a poor outcome."}, {"measure": "Cost-effectiveness", "time_frame": "From date of randomization until the date of hospital discharge", "description": "Cost effectiveness ratio (cost per SpO2 unit)"}, {"measure": "length of stay", "time_frame": "up to 90 days. Hospital stay - hospital admission through hospital discharge or until death if occured", "description": "Duration of the hospital length of stay"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "216"}, "condition": ["Coronavirus", "Pneumonia", "Oxygen Toxicity"], "arm_group": [{"arm_group_label": "Control group", "arm_group_type": "Active Comparator", "description": "Usual care will be provide to patients concerning their medical management.\nIn the Control Group usual, oxygen will be delivered as per usual local practices"}, {"arm_group_label": "Intervention group", "arm_group_type": "Experimental", "description": "Usual care will be provide to patients concerning their medical management.\nIn the Intervention group, automated oxygen administration will be delivered with FreeO2"}], "intervention": [{"intervention_type": "Other", "intervention_name": "Standard administration of oxygen flow", "description": "The investigator recommended SpO2 target of 90-94%. The investigator will recommend that low/high SpO2 alarms be set at 88% and 96% if continuous oximetry is used.\nIn this group the SpO2 was recorded any time with FreeO2 device - recording mode", "arm_group_label": "Control group"}, {"intervention_type": "Device", "intervention_name": "Automated oxygen administration - FreeO2", "description": "In this group, oxygen administration will be delivered with FreeO2 (automated oxygen titration) with SpO2 target set at 92% (to maintain oxygenation in the recommended SpO2 target: 90-94%)", "arm_group_label": "Intervention group"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Age> 18 years old\n\n          -  patients with acute respiratory failure related to suspected community acquired\n             pneumonia (viral and non viral) requiring oxygen therapy < 6 L/min (or FiO2< 0.50) (to\n             maintain SpO2 between 90 and 94% SpO2) without criteria for immediate intubation or\n             ICU transfer.\n\n          -  Patients hospital admission < 72 hours\n\n        Exclusion Criteria:\n\n          -  shock state,\n\n          -  no SpO2 signal available,\n\n          -  patient agitation,\n\n          -  pH < 7.30 (if blood gas available)\n\n          -  PaCO2 > 50 mmHg, (if blood gas available) or chronic hypercapnia history\n\n          -  Non invasive respiratory support (NIV, High flow Nasal Therapy (HFNT)) at study\n             inclusion\n\n          -  Withdrawal of life support or palliation as the goal of care\n\n          -  patients' or next of kin refusal to participate to the study"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Fran\u00e7ois Lellouche", "phone": "418-656-8711", "phone_ext": "3572", "email": "francois.lellouche@criucpq.ulaval.ca"}, "overall_contact_backup": {"last_name": "Pierre-Alexandre Bouchard", "phone": "418-656-8711", "phone_ext": "2712", "email": "pierre-alexandre.bouchard@criucpq.ulaval.ca"}, "link": [{"url": "https://www.nytimes.com/2020/02/06/world/asia/chinese-doctor-Li-Wenliang-coronavirus.html", "description": "Related Info"}, {"url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200205-sitrep-16-ncov.pdf?sfvrsn=23af287f_4", "description": "Related Info"}, {"url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019", "description": "Related Info"}, {"url": "https://www.who.int/docs/default-source/coronaviruse/20200205-hcw-protocol-2019-ncov-v1-2.pdf?sfvrsn=c8513be3_1&download=true", "description": "Related Info"}], "reference": [{"citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]", "PMID": "32031570"}, {"citation": "Arabi YM, Balkhy HH, Hayden FG, Bouchama A, Luke T, Baillie JK, Al-Omari A, Hajeer AH, Senga M, Denison MR, Nguyen-Van-Tam JS, Shindo N, Bermingham A, Chappell JD, Van Kerkhove MD, Fowler RA. Middle East Respiratory Syndrome. N Engl J Med. 2017 Feb 9;376(6):584-594. doi: 10.1056/NEJMsr1408795.", "PMID": "28177862"}, {"citation": "Yu IT, Li Y, Wong TW, Tam W, Chan AT, Lee JH, Leung DY, Ho T. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N Engl J Med. 2004 Apr 22;350(17):1731-9.", "PMID": "15102999"}, {"citation": "Kutter JS, Spronken MI, Fraaij PL, Fouchier RA, Herfst S. Transmission routes of respiratory viruses among humans. Curr Opin Virol. 2018 Feb;28:142-151. doi: 10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17. Review.", "PMID": "29452994"}, {"citation": "Levy MM, Baylor MS, Bernard GR, Fowler R, Franks TJ, Hayden FG, Helfand R, Lapinsky SE, Martin TR, Niederman MS, Rubenfeld GD, Slutsky AS, Stewart TE, Styrt BA, Thompson BT, Harabin AL; National Heart, Lung, and Blood Institute; Centers for Disease Control and Prevention; Institute of Allergy and Infectious Diseases. Clinical issues and research in respiratory failure from severe acute respiratory syndrome. Am J Respir Crit Care Med. 2005 Mar 1;171(5):518-26. Epub 2004 Dec 10.", "PMID": "15591472"}, {"citation": "Booth CM, Matukas LM, Tomlinson GA, Rachlis AR, Rose DB, Dwosh HA, Walmsley SL, Mazzulli T, Avendano M, Derkach P, Ephtimios IE, Kitai I, Mederski BD, Shadowitz SB, Gold WL, Hawryluck LA, Rea E, Chenkin JS, Cescon DW, Poutanen SM, Detsky AS. Clinical features and short-term outcomes of 144 patients with SARS in the greater Toronto area. JAMA. 2003 Jun 4;289(21):2801-9. Epub 2003 May 6. Erratum in: JAMA. 2003 Jul 16;290(3):334.", "PMID": "12734147"}, {"citation": "Fowler RA, Lapinsky SE, Hallett D, Detsky AS, Sibbald WJ, Slutsky AS, Stewart TE; Toronto SARS Critical Care Group. Critically ill patients with severe acute respiratory syndrome. JAMA. 2003 Jul 16;290(3):367-73.", "PMID": "12865378"}, {"citation": "Lew TW, Kwek TK, Tai D, Earnest A, Loo S, Singh K, Kwan KM, Chan Y, Yim CF, Bek SL, Kor AC, Yap WS, Chelliah YR, Lai YC, Goh SK. Acute respiratory distress syndrome in critically ill patients with severe acute respiratory syndrome. JAMA. 2003 Jul 16;290(3):374-80.", "PMID": "12865379"}, {"citation": "Khalid I, Khalid TJ, Qabajah MR, Barnard AG, Qushmaq IA. Healthcare Workers Emotions, Perceived Stressors and Coping Strategies During a MERS-CoV Outbreak. Clin Med Res. 2016 Mar;14(1):7-14. doi: 10.3121/cmr.2016.1303. Epub 2016 Feb 4.", "PMID": "26847480"}, {"citation": "Sandoval C, Barrera A, Ferr\u00e9s M, Cerda J, Retamal J, Garc\u00eda-Sastre A, Medina RA, Hirsch T. Infection in Health Personnel with High and Low Levels of Exposure in a Hospital Setting during the H1N1 2009 Influenza A Pandemic. PLoS One. 2016 Jan 22;11(1):e0147271. doi: 10.1371/journal.pone.0147271. eCollection 2016.", "PMID": "26799564"}, {"citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.", "PMID": "32007143"}, {"citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.", "PMID": "31986264"}, {"citation": "Lellouche F, L'Her E. Hyperoxemia: The Poison Is in the Dose. Am J Respir Crit Care Med. 2020 Feb 15;201(4):498. doi: 10.1164/rccm.201910-1898LE.", "PMID": "31671280"}, {"citation": "Chu DK, Kim LH, Young PJ, Zamiri N, Almenawer SA, Jaeschke R, Szczeklik W, Sch\u00fcnemann HJ, Neary JD, Alhazzani W. Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA): a systematic review and meta-analysis. Lancet. 2018 Apr 28;391(10131):1693-1705. doi: 10.1016/S0140-6736(18)30479-3. Epub 2018 Apr 26. Review.", "PMID": "29726345"}, {"citation": "O'Driscoll BR, Howard LS, Earis J, Mak V; British Thoracic Society Emergency Oxygen Guideline Group; BTS Emergency Oxygen Guideline Development Group. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax. 2017 Jun;72(Suppl 1):ii1-ii90. doi: 10.1136/thoraxjnl-2016-209729. Review.", "PMID": "28507176"}, {"citation": "Siemieniuk RAC, Chu DK, Kim LH, G\u00fcell-Rous MR, Alhazzani W, Soccal PM, Karanicolas PJ, Farhoumand PD, Siemieniuk JLK, Satia I, Irusen EM, Refaat MM, Mikita JS, Smith M, Cohen DN, Vandvik PO, Agoritsas T, Lytvyn L, Guyatt GH. Oxygen therapy for acutely ill medical patients: a clinical practice guideline. BMJ. 2018 Oct 24;363:k4169. doi: 10.1136/bmj.k4169.", "PMID": "30355567"}, {"citation": "Beasley R, Chien J, Douglas J, Eastlake L, Farah C, King G, Moore R, Pilcher J, Richards M, Smith S, Walters H. Thoracic Society of Australia and New Zealand oxygen guidelines for acute oxygen use in adults: 'Swimming between the flags'. Respirology. 2015 Nov;20(8):1182-91. doi: 10.1111/resp.12620.", "PMID": "26486092"}, {"citation": "Burki TK. Coronavirus in China. Lancet Respir Med. 2020 Mar;8(3):238. doi: 10.1016/S2213-2600(20)30056-4. Epub 2020 Feb 3.", "PMID": "32027848"}, {"citation": "McEvoy JW. Excess oxygen in acute illness: adding fuel to the fire. Lancet. 2018 Apr 28;391(10131):1640-1642. doi: 10.1016/S0140-6736(18)30546-4. Epub 2018 Apr 26.", "PMID": "29726326"}, {"citation": "Rodr\u00edguez-Gonz\u00e1lez R, Mart\u00edn-Barrasa JL, Ramos-Nuez \u00c1, Ca\u00f1as-Pedrosa AM, Mart\u00ednez-Saavedra MT, Garc\u00eda-Bello M\u00c1, L\u00f3pez-Aguilar J, Baluja A, \u00c1lvarez J, Slutsky AS, Villar J. Multiple system organ response induced by hyperoxia in a clinically relevant animal model of sepsis. Shock. 2014 Aug;42(2):148-53. doi: 10.1097/SHK.0000000000000189.", "PMID": "24978892"}, {"citation": "Farquhar H, Weatherall M, Wijesinghe M, Perrin K, Ranchord A, Simmonds M, Beasley R. Systematic review of studies of the effect of hyperoxia on coronary blood flow. Am Heart J. 2009 Sep;158(3):371-7. doi: 10.1016/j.ahj.2009.05.037. Epub 2009 Jul 15. Review.", "PMID": "19699859"}, {"citation": "McNulty PH, King N, Scott S, Hartman G, McCann J, Kozak M, Chambers CE, Demers LM, Sinoway LI. Effects of supplemental oxygen administration on coronary blood flow in patients undergoing cardiac catheterization. Am J Physiol Heart Circ Physiol. 2005 Mar;288(3):H1057-62.", "PMID": "15706043"}, {"citation": "Musher DM, Rueda AM, Kaka AS, Mapara SM. The association between pneumococcal pneumonia and acute cardiac events. Clin Infect Dis. 2007 Jul 15;45(2):158-65. Epub 2007 Jun 6.", "PMID": "17578773"}, {"citation": "Santos-Gallego CG, Badimon JJ. Cardiac Complications After Community-Acquired Pneumonia. Am J Cardiol. 2016 Jan 15;117(2):310. doi: 10.1016/j.amjcard.2015.10.003. Epub 2015 Oct 23.", "PMID": "26552508"}, {"citation": "Brown AO, Millett ER, Quint JK, Orihuela CJ. Cardiotoxicity during invasive pneumococcal disease. Am J Respir Crit Care Med. 2015 Apr 1;191(7):739-45. doi: 10.1164/rccm.201411-1951PP. Review.", "PMID": "25629643"}, {"citation": "Sj\u00f6berg F, Singer M. The medical use of oxygen: a time for critical reappraisal. J Intern Med. 2013 Dec;274(6):505-28. doi: 10.1111/joim.12139. Review.", "PMID": "24206183"}, {"citation": "Hraiech S, Alingrin J, Dizier S, Brunet J, Forel JM, La Scola B, Roch A, Papazian L, Pauly V. Time to intubation is associated with outcome in patients with community-acquired pneumonia. PLoS One. 2013 Sep 19;8(9):e74937. doi: 10.1371/journal.pone.0074937. eCollection 2013.", "PMID": "24069367"}, {"citation": "Andersen LW, Holmberg MJ, Berg KM, Donnino MW, Granfeldt A. In-Hospital Cardiac Arrest: A Review. JAMA. 2019 Mar 26;321(12):1200-1210. doi: 10.1001/jama.2019.1696. Review.", "PMID": "30912843"}, {"citation": "Carr GE, Yuen TC, McConville JF, Kress JP, VandenHoek TL, Hall JB, Edelson DP; American Heart Association's Get With the Guidelines-Resuscitation (National Registry of CPR) Investigators. Early cardiac arrest in patients hospitalized with pneumonia: a report from the American Heart Association's Get With The Guidelines-Resuscitation Program. Chest. 2012 Jun;141(6):1528-1536. doi: 10.1378/chest.11-1547. Epub 2011 Dec 22.", "PMID": "22194592"}, {"citation": "Smith ME, Chiovaro JC, O'Neil M, Kansagara D, Qui\u00f1ones AR, Freeman M, Motu'apuaka ML, Slatore CG. Early warning system scores for clinical deterioration in hospitalized patients: a systematic review. Ann Am Thorac Soc. 2014 Nov;11(9):1454-65. doi: 10.1513/AnnalsATS.201403-102OC. Review.", "PMID": "25296111"}, {"citation": "Maharaj R, Raffaele I, Wendon J. Rapid response systems: a systematic review and meta-analysis. Crit Care. 2015 Jun 12;19:254. doi: 10.1186/s13054-015-0973-y. Review.", "PMID": "26070457"}, {"citation": "Liao X, Wang B, Kang Y. Novel coronavirus infection during the 2019-2020 epidemic: preparing intensive care units-the experience in Sichuan Province, China. Intensive Care Med. 2020 Feb;46(2):357-360. doi: 10.1007/s00134-020-05954-2. Epub 2020 Feb 5.", "PMID": "32025779"}, {"citation": "Viglino D, L'her E, Maltais F, Maignan M, Lellouche F. Evaluation of a new respiratory monitoring tool \"Early Warning ScoreO(2)\" for patients admitted at the emergency department with dyspnea. Resuscitation. 2020 Mar 1;148:59-65. doi: 10.1016/j.resuscitation.2020.01.004. Epub 2020 Jan 13.", "PMID": "31945431"}, {"citation": "Mahase E. Coronavirus: global stocks of protective gear are depleted, with demand at \"100 times\" normal level, WHO warns. BMJ. 2020 Feb 10;368:m543. doi: 10.1136/bmj.m543.", "PMID": "32041691"}, {"citation": "Kang L, Li Y, Hu S, Chen M, Yang C, Yang BX, Wang Y, Hu J, Lai J, Ma X, Chen J, Guan L, Wang G, Ma H, Liu Z. The mental health of medical workers in Wuhan, China dealing with the 2019 novel coronavirus. Lancet Psychiatry. 2020 Mar;7(3):e14. doi: 10.1016/S2215-0366(20)30047-X. Epub 2020 Feb 5.", "PMID": "32035030"}, {"citation": "Lellouche F, L'her E. Automated oxygen flow titration to maintain constant oxygenation. Respir Care. 2012 Aug;57(8):1254-62. doi: 10.4187/respcare.01343. Epub 2012 Feb 17.", "PMID": "22348812"}, {"citation": "Lellouche F, Bouchard PA, Roberge M, Simard S, L'Her E, Maltais F, Lacasse Y. Automated oxygen titration and weaning with FreeO2 in patients with acute exacerbation of COPD: a pilot randomized trial. Int J Chron Obstruct Pulmon Dis. 2016 Aug 24;11:1983-90. doi: 10.2147/COPD.S112820. eCollection 2016.", "PMID": "27601891"}, {"citation": "L'Her E, Dias P, Gouillou M, Riou A, Souquiere L, Paleiron N, Archambault P, Bouchard PA, Lellouche F. Automatic versus manual oxygen administration in the emergency department. Eur Respir J. 2017 Jul 20;50(1). pii: 1602552. doi: 10.1183/13993003.02552-2016. Print 2017 Jul.", "PMID": "28729473"}, {"citation": "L'her E, Jaber S, Verzilli D, Jacob C, Huiban B, Futier E, Kerforne T, Pateau V, Bouchard PA, Gouillou M, Nowak E, Lellouche F. Automated oxygen administration versus conventional oxygen therapy after major abdominal or thoracic surgery: study protocol for an international multicentre randomised controlled study. BMJ Open. 2019 Jan 17;9(1):e023833. doi: 10.1136/bmjopen-2018-023833.", "PMID": "30782716"}, {"citation": "L'Her E, N'Guyen QT, Pateau V, Bodenes L, Lellouche F. Photoplethysmographic determination of the respiratory rate in acutely ill patients: validation of a new algorithm and implementation into a biomedical device. Ann Intensive Care. 2019 Jan 21;9(1):11. doi: 10.1186/s13613-019-0485-z.", "PMID": "30666472"}, {"citation": "Bourassa S, Bouchard PA, Dauphin M, Lellouche F. Oxygen Conservation Methods With Automated Titration. Respir Care. 2020 Feb 18. pii: respcare.07240. doi: 10.4187/respcare.07240. [Epub ahead of print]", "PMID": "32071135"}, {"citation": "Wang L, Fan C. Sample size calculations for comparing two groups of count data. J Biopharm Stat. 2019;29(1):115-127. doi: 10.1080/10543406.2018.1489409. Epub 2018 Jul 19.", "PMID": "30024833"}, {"citation": "Vierron E, Giraudeau B. Design effect in multicenter studies: gain or loss of power? BMC Med Res Methodol. 2009 Jun 18;9:39. doi: 10.1186/1471-2288-9-39.", "PMID": "19538744"}, {"citation": "Ramsey S, Willke R, Briggs A, Brown R, Buxton M, Chawla A, Cook J, Glick H, Liljas B, Petitti D, Reed S. Good research practices for cost-effectiveness analysis alongside clinical trials: the ISPOR RCT-CEA Task Force report. Value Health. 2005 Sep-Oct;8(5):521-33. Review.", "PMID": "16176491"}, {"citation": "Claxton K. The irrelevance of inference: a decision-making approach to the stochastic evaluation of health care technologies. J Health Econ. 1999 Jun;18(3):341-64.", "PMID": "10537899"}, {"citation": "Denault MH, P\u00e9loquin F, Lajoie AC, Lacasse Y. Automatic versus Manual Oxygen Titration in Patients Requiring Supplemental Oxygen in the Hospital: A Systematic Review and Meta-Analysis. Respiration. 2019;98(2):178-188. doi: 10.1159/000499119. Epub 2019 May 24.", "PMID": "31129662"}, {"citation": "Poder TG, Kouakou CRC, Bouchard PA, Tremblay V, Blais S, Maltais F, Lellouche F. Cost-effectiveness of FreeO(2) in patients with chronic obstructive pulmonary disease hospitalised for acute exacerbations: analysis of a pilot study in Quebec. BMJ Open. 2018 Jan 23;8(1):e018835. doi: 10.1136/bmjopen-2017-018835.", "PMID": "29362258"}, {"citation": "Lellouche F, L'Her E, Bouchard PA, Brouillard C, Maltais F. Automatic Oxygen Titration During Walking in Subjects With COPD: A Randomized Crossover Controlled Study. Respir Care. 2016 Nov;61(11):1456-1464. Epub 2016 Oct 18.", "PMID": "27794080"}, {"citation": "Vivodtzev I, L'Her E, Vottero G, Yankoff C, Tamisier R, Maltais F, Lellouche F, P\u00e9pin JL. Automated O(2) titration improves exercise capacity in patients with hypercapnic chronic obstructive pulmonary disease: a randomised controlled cross-over trial. Thorax. 2019 Mar;74(3):298-301. doi: 10.1136/thoraxjnl-2018-211967. Epub 2018 Aug 30.", "PMID": "30166425"}, {"citation": "Mahase E. China coronavirus: what do we know so far? BMJ. 2020 Jan 24;368:m308. doi: 10.1136/bmj.m308.", "PMID": "31980434"}, {"citation": "Lewis D. Coronavirus outbreak: what's next? Nature. 2020 Feb;578(7793):15-16. doi: 10.1038/d41586-020-00236-9.", "PMID": "32020111"}, {"citation": "Arabi YM, Fowler R, Hayden FG. Critical care management of adults with community-acquired severe respiratory viral infection. Intensive Care Med. 2020 Feb;46(2):315-328. doi: 10.1007/s00134-020-05943-5. Epub 2020 Feb 10. Review.", "PMID": "32040667"}, {"citation": "Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Potential for global spread of a novel coronavirus from China. J Travel Med. 2020 Mar 13;27(2). pii: taaa011. doi: 10.1093/jtm/taaa011.", "PMID": "31985790"}, {"citation": "As coronavirus spreads, the time to think about the next epidemic is now. Nature. 2020 Feb;578(7794):191. doi: 10.1038/d41586-020-00379-9.", "PMID": "32047314"}], "verification_date": "March 2020", "study_first_submitted": "March 19, 2020", "study_first_submitted_qc": "March 23, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 24, 2020"}, "last_update_submitted": "March 26, 2020", "last_update_submitted_qc": "March 26, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Pneumonia"}, "patient_data": {"sharing_ipd": "No", "ipd_description": "No There is not plan to share individual participant data. All data if shared with be de-identified. Data will be stored on a secure server with access only by study personal."}}}
+{
+    "clinical_study": {
+        "@rank": "325",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04320056"
+        },
+        "id_info": {
+            "org_study_id": "21909",
+            "nct_id": "NCT04320056"
+        },
+        "brief_title": "Closed-Loop Oxygen to Verify That Healthcare Workers Interventions Decrease During Pneumonia",
+        "official_title": "Automated Oxygen Titration - Monitoring and Weaning in Patients With Infectious Pneumonia Requiring Oxygen - Impact on the Number of Interventions for Healthcare Workers. An Innovative Device to Manage Patients With COVID-19 Pneumonia COVID Study (Closed-Loop Oxygen to Verify That Healthcare Workers Interventions Decreaseduring Pneumonia)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Laval University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Laval University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "There is a high risk of transmission of COVID-19 to healthcare workers. In a recent cohort,\n      29% of the patients hospitalized were healthcare workers. Among the WHO's primary strategic\n      objectives for the response to COVID-19, the first was to limit human-to-human transmission,\n      including reducing secondary infections among close contacts and health care workers.\n\n      Automated oxygen titration, weaning and monitoring (FreeO2 device) may be a solution to\n      reduce the number of interventions of healthcare workers related to oxygen therapy, to reduce\n      complications related to oxygen and to improve monitoring."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Other",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "The number of interventions",
+                "time_frame": "Hour0 to Hour4",
+                "description": "The number of interventions required by healthcare workers to manage oxygen therapy (titration, weaning and monitoring) during 4 hours"
+            },
+            {
+                "measure": "Duration of interventions",
+                "time_frame": "Hour0 to Hour24",
+                "description": "The number of interventions required by healthcare workers to manage oxygen therapy (titration, weaning and monitoring) during 4 hours"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Mean oxygen flow",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "The Mean oxygen flow during study duration to evaluate oxygen consumption"
+            },
+            {
+                "measure": "Time within theSpO2 target",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Time within SpO2 between 90 and 94%"
+            },
+            {
+                "measure": "Time with hypoxemia",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Time within SpO2 < 88%"
+            },
+            {
+                "measure": "Time with hyperoxemia",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Time within SpO2 > 96%"
+            },
+            {
+                "measure": "Rate of ICU admission",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Rate of ICU admission"
+            },
+            {
+                "measure": "Rate of needed non invasive respiratory support",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Rate of needed non invasive respiratory support Non invasive ventilation or High Flow Nasal Therapy"
+            },
+            {
+                "measure": "Rate of intubation",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Rate of intubation"
+            },
+            {
+                "measure": "NEWS 2 score evolution",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Evaluation of NEWS 2 score evolution (National Early Warning score) correlate to patient evolution.\nThe NEWS2 score will be calculate but no intervention will be made based on this score.\nPatient evolution will be compare at NEWS 2 interpretation.\nInterpretation A low score (NEWS 1-4) should prompt assessment by a competent registered nurse who should decide if a change to frequency of clinical monitoring or an escalation of clinical care is required.\nA medium score (ie NEWS of 5-6 or a RED score) should consider whether escalation of care to a team with critical-care skills is required (ie critical care outreach team).\nA high score (NEWS \u22657) should prompt emergency assessment by a clinical team/critical care outreach team with critical-care competencies and usually transfer of the patient to a higher dependency care area."
+            },
+            {
+                "measure": "EWSO2 score evolution",
+                "time_frame": "Hour0 to Hour24 (1 day)",
+                "description": "Evaluation of EWSO2 score(Early Warning ScoreO2) evolution correlate to patient evolution\nThe EWSO2 score will be calculate but no intervention will be made based on this score.\nPatient evolution will be compare at EWSO2 interpretation.\nInterpretation Favorable clinical outcome in patients with a score <5.3 A patient with a score >18.6 will experience a poor outcome."
+            },
+            {
+                "measure": "Cost-effectiveness",
+                "time_frame": "From date of randomization until the date of hospital discharge",
+                "description": "Cost effectiveness ratio (cost per SpO2 unit)"
+            },
+            {
+                "measure": "length of stay",
+                "time_frame": "up to 90 days. Hospital stay - hospital admission through hospital discharge or until death if occured",
+                "description": "Duration of the hospital length of stay"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "216"
+        },
+        "condition": [
+            "Coronavirus",
+            "Pneumonia",
+            "Oxygen Toxicity"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Active Comparator",
+                "description": "Usual care will be provide to patients concerning their medical management.\nIn the Control Group usual, oxygen will be delivered as per usual local practices"
+            },
+            {
+                "arm_group_label": "Intervention group",
+                "arm_group_type": "Experimental",
+                "description": "Usual care will be provide to patients concerning their medical management.\nIn the Intervention group, automated oxygen administration will be delivered with FreeO2"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Standard administration of oxygen flow",
+                "description": "The investigator recommended SpO2 target of 90-94%. The investigator will recommend that low/high SpO2 alarms be set at 88% and 96% if continuous oximetry is used.\nIn this group the SpO2 was recorded any time with FreeO2 device - recording mode",
+                "arm_group_label": "Control group"
+            },
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Automated oxygen administration - FreeO2",
+                "description": "In this group, oxygen administration will be delivered with FreeO2 (automated oxygen titration) with SpO2 target set at 92% (to maintain oxygenation in the recommended SpO2 target: 90-94%)",
+                "arm_group_label": "Intervention group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age> 18 years old\n\n          -  patients with acute respiratory failure related to suspected community acquired\n             pneumonia (viral and non viral) requiring oxygen therapy < 6 L/min (or FiO2< 0.50) (to\n             maintain SpO2 between 90 and 94% SpO2) without criteria for immediate intubation or\n             ICU transfer.\n\n          -  Patients hospital admission < 72 hours\n\n        Exclusion Criteria:\n\n          -  shock state,\n\n          -  no SpO2 signal available,\n\n          -  patient agitation,\n\n          -  pH < 7.30 (if blood gas available)\n\n          -  PaCO2 > 50 mmHg, (if blood gas available) or chronic hypercapnia history\n\n          -  Non invasive respiratory support (NIV, High flow Nasal Therapy (HFNT)) at study\n             inclusion\n\n          -  Withdrawal of life support or palliation as the goal of care\n\n          -  patients' or next of kin refusal to participate to the study"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Fran\u00e7ois Lellouche",
+            "phone": "418-656-8711",
+            "phone_ext": "3572",
+            "email": "francois.lellouche@criucpq.ulaval.ca"
+        },
+        "overall_contact_backup": {
+            "last_name": "Pierre-Alexandre Bouchard",
+            "phone": "418-656-8711",
+            "phone_ext": "2712",
+            "email": "pierre-alexandre.bouchard@criucpq.ulaval.ca"
+        },
+        "link": [
+            {
+                "url": "https://www.nytimes.com/2020/02/06/world/asia/chinese-doctor-Li-Wenliang-coronavirus.html",
+                "description": "Related Info"
+            },
+            {
+                "url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200205-sitrep-16-ncov.pdf?sfvrsn=23af287f_4",
+                "description": "Related Info"
+            },
+            {
+                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                "description": "Related Info"
+            },
+            {
+                "url": "https://www.who.int/docs/default-source/coronaviruse/20200205-hcw-protocol-2019-ncov-v1-2.pdf?sfvrsn=c8513be3_1&download=true",
+                "description": "Related Info"
+            }
+        ],
+        "reference": [
+            {
+                "citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]",
+                "PMID": "32031570"
+            },
+            {
+                "citation": "Arabi YM, Balkhy HH, Hayden FG, Bouchama A, Luke T, Baillie JK, Al-Omari A, Hajeer AH, Senga M, Denison MR, Nguyen-Van-Tam JS, Shindo N, Bermingham A, Chappell JD, Van Kerkhove MD, Fowler RA. Middle East Respiratory Syndrome. N Engl J Med. 2017 Feb 9;376(6):584-594. doi: 10.1056/NEJMsr1408795.",
+                "PMID": "28177862"
+            },
+            {
+                "citation": "Yu IT, Li Y, Wong TW, Tam W, Chan AT, Lee JH, Leung DY, Ho T. Evidence of airborne transmission of the severe acute respiratory syndrome virus. N Engl J Med. 2004 Apr 22;350(17):1731-9.",
+                "PMID": "15102999"
+            },
+            {
+                "citation": "Kutter JS, Spronken MI, Fraaij PL, Fouchier RA, Herfst S. Transmission routes of respiratory viruses among humans. Curr Opin Virol. 2018 Feb;28:142-151. doi: 10.1016/j.coviro.2018.01.001. Epub 2018 Jan 17. Review.",
+                "PMID": "29452994"
+            },
+            {
+                "citation": "Levy MM, Baylor MS, Bernard GR, Fowler R, Franks TJ, Hayden FG, Helfand R, Lapinsky SE, Martin TR, Niederman MS, Rubenfeld GD, Slutsky AS, Stewart TE, Styrt BA, Thompson BT, Harabin AL; National Heart, Lung, and Blood Institute; Centers for Disease Control and Prevention; Institute of Allergy and Infectious Diseases. Clinical issues and research in respiratory failure from severe acute respiratory syndrome. Am J Respir Crit Care Med. 2005 Mar 1;171(5):518-26. Epub 2004 Dec 10.",
+                "PMID": "15591472"
+            },
+            {
+                "citation": "Booth CM, Matukas LM, Tomlinson GA, Rachlis AR, Rose DB, Dwosh HA, Walmsley SL, Mazzulli T, Avendano M, Derkach P, Ephtimios IE, Kitai I, Mederski BD, Shadowitz SB, Gold WL, Hawryluck LA, Rea E, Chenkin JS, Cescon DW, Poutanen SM, Detsky AS. Clinical features and short-term outcomes of 144 patients with SARS in the greater Toronto area. JAMA. 2003 Jun 4;289(21):2801-9. Epub 2003 May 6. Erratum in: JAMA. 2003 Jul 16;290(3):334.",
+                "PMID": "12734147"
+            },
+            {
+                "citation": "Fowler RA, Lapinsky SE, Hallett D, Detsky AS, Sibbald WJ, Slutsky AS, Stewart TE; Toronto SARS Critical Care Group. Critically ill patients with severe acute respiratory syndrome. JAMA. 2003 Jul 16;290(3):367-73.",
+                "PMID": "12865378"
+            },
+            {
+                "citation": "Lew TW, Kwek TK, Tai D, Earnest A, Loo S, Singh K, Kwan KM, Chan Y, Yim CF, Bek SL, Kor AC, Yap WS, Chelliah YR, Lai YC, Goh SK. Acute respiratory distress syndrome in critically ill patients with severe acute respiratory syndrome. JAMA. 2003 Jul 16;290(3):374-80.",
+                "PMID": "12865379"
+            },
+            {
+                "citation": "Khalid I, Khalid TJ, Qabajah MR, Barnard AG, Qushmaq IA. Healthcare Workers Emotions, Perceived Stressors and Coping Strategies During a MERS-CoV Outbreak. Clin Med Res. 2016 Mar;14(1):7-14. doi: 10.3121/cmr.2016.1303. Epub 2016 Feb 4.",
+                "PMID": "26847480"
+            },
+            {
+                "citation": "Sandoval C, Barrera A, Ferr\u00e9s M, Cerda J, Retamal J, Garc\u00eda-Sastre A, Medina RA, Hirsch T. Infection in Health Personnel with High and Low Levels of Exposure in a Hospital Setting during the H1N1 2009 Influenza A Pandemic. PLoS One. 2016 Jan 22;11(1):e0147271. doi: 10.1371/journal.pone.0147271. eCollection 2016.",
+                "PMID": "26799564"
+            },
+            {
+                "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
+                "PMID": "32007143"
+            },
+            {
+                "citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.",
+                "PMID": "31986264"
+            },
+            {
+                "citation": "Lellouche F, L'Her E. Hyperoxemia: The Poison Is in the Dose. Am J Respir Crit Care Med. 2020 Feb 15;201(4):498. doi: 10.1164/rccm.201910-1898LE.",
+                "PMID": "31671280"
+            },
+            {
+                "citation": "Chu DK, Kim LH, Young PJ, Zamiri N, Almenawer SA, Jaeschke R, Szczeklik W, Sch\u00fcnemann HJ, Neary JD, Alhazzani W. Mortality and morbidity in acutely ill adults treated with liberal versus conservative oxygen therapy (IOTA): a systematic review and meta-analysis. Lancet. 2018 Apr 28;391(10131):1693-1705. doi: 10.1016/S0140-6736(18)30479-3. Epub 2018 Apr 26. Review.",
+                "PMID": "29726345"
+            },
+            {
+                "citation": "O'Driscoll BR, Howard LS, Earis J, Mak V; British Thoracic Society Emergency Oxygen Guideline Group; BTS Emergency Oxygen Guideline Development Group. BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax. 2017 Jun;72(Suppl 1):ii1-ii90. doi: 10.1136/thoraxjnl-2016-209729. Review.",
+                "PMID": "28507176"
+            },
+            {
+                "citation": "Siemieniuk RAC, Chu DK, Kim LH, G\u00fcell-Rous MR, Alhazzani W, Soccal PM, Karanicolas PJ, Farhoumand PD, Siemieniuk JLK, Satia I, Irusen EM, Refaat MM, Mikita JS, Smith M, Cohen DN, Vandvik PO, Agoritsas T, Lytvyn L, Guyatt GH. Oxygen therapy for acutely ill medical patients: a clinical practice guideline. BMJ. 2018 Oct 24;363:k4169. doi: 10.1136/bmj.k4169.",
+                "PMID": "30355567"
+            },
+            {
+                "citation": "Beasley R, Chien J, Douglas J, Eastlake L, Farah C, King G, Moore R, Pilcher J, Richards M, Smith S, Walters H. Thoracic Society of Australia and New Zealand oxygen guidelines for acute oxygen use in adults: 'Swimming between the flags'. Respirology. 2015 Nov;20(8):1182-91. doi: 10.1111/resp.12620.",
+                "PMID": "26486092"
+            },
+            {
+                "citation": "Burki TK. Coronavirus in China. Lancet Respir Med. 2020 Mar;8(3):238. doi: 10.1016/S2213-2600(20)30056-4. Epub 2020 Feb 3.",
+                "PMID": "32027848"
+            },
+            {
+                "citation": "McEvoy JW. Excess oxygen in acute illness: adding fuel to the fire. Lancet. 2018 Apr 28;391(10131):1640-1642. doi: 10.1016/S0140-6736(18)30546-4. Epub 2018 Apr 26.",
+                "PMID": "29726326"
+            },
+            {
+                "citation": "Rodr\u00edguez-Gonz\u00e1lez R, Mart\u00edn-Barrasa JL, Ramos-Nuez \u00c1, Ca\u00f1as-Pedrosa AM, Mart\u00ednez-Saavedra MT, Garc\u00eda-Bello M\u00c1, L\u00f3pez-Aguilar J, Baluja A, \u00c1lvarez J, Slutsky AS, Villar J. Multiple system organ response induced by hyperoxia in a clinically relevant animal model of sepsis. Shock. 2014 Aug;42(2):148-53. doi: 10.1097/SHK.0000000000000189.",
+                "PMID": "24978892"
+            },
+            {
+                "citation": "Farquhar H, Weatherall M, Wijesinghe M, Perrin K, Ranchord A, Simmonds M, Beasley R. Systematic review of studies of the effect of hyperoxia on coronary blood flow. Am Heart J. 2009 Sep;158(3):371-7. doi: 10.1016/j.ahj.2009.05.037. Epub 2009 Jul 15. Review.",
+                "PMID": "19699859"
+            },
+            {
+                "citation": "McNulty PH, King N, Scott S, Hartman G, McCann J, Kozak M, Chambers CE, Demers LM, Sinoway LI. Effects of supplemental oxygen administration on coronary blood flow in patients undergoing cardiac catheterization. Am J Physiol Heart Circ Physiol. 2005 Mar;288(3):H1057-62.",
+                "PMID": "15706043"
+            },
+            {
+                "citation": "Musher DM, Rueda AM, Kaka AS, Mapara SM. The association between pneumococcal pneumonia and acute cardiac events. Clin Infect Dis. 2007 Jul 15;45(2):158-65. Epub 2007 Jun 6.",
+                "PMID": "17578773"
+            },
+            {
+                "citation": "Santos-Gallego CG, Badimon JJ. Cardiac Complications After Community-Acquired Pneumonia. Am J Cardiol. 2016 Jan 15;117(2):310. doi: 10.1016/j.amjcard.2015.10.003. Epub 2015 Oct 23.",
+                "PMID": "26552508"
+            },
+            {
+                "citation": "Brown AO, Millett ER, Quint JK, Orihuela CJ. Cardiotoxicity during invasive pneumococcal disease. Am J Respir Crit Care Med. 2015 Apr 1;191(7):739-45. doi: 10.1164/rccm.201411-1951PP. Review.",
+                "PMID": "25629643"
+            },
+            {
+                "citation": "Sj\u00f6berg F, Singer M. The medical use of oxygen: a time for critical reappraisal. J Intern Med. 2013 Dec;274(6):505-28. doi: 10.1111/joim.12139. Review.",
+                "PMID": "24206183"
+            },
+            {
+                "citation": "Hraiech S, Alingrin J, Dizier S, Brunet J, Forel JM, La Scola B, Roch A, Papazian L, Pauly V. Time to intubation is associated with outcome in patients with community-acquired pneumonia. PLoS One. 2013 Sep 19;8(9):e74937. doi: 10.1371/journal.pone.0074937. eCollection 2013.",
+                "PMID": "24069367"
+            },
+            {
+                "citation": "Andersen LW, Holmberg MJ, Berg KM, Donnino MW, Granfeldt A. In-Hospital Cardiac Arrest: A Review. JAMA. 2019 Mar 26;321(12):1200-1210. doi: 10.1001/jama.2019.1696. Review.",
+                "PMID": "30912843"
+            },
+            {
+                "citation": "Carr GE, Yuen TC, McConville JF, Kress JP, VandenHoek TL, Hall JB, Edelson DP; American Heart Association's Get With the Guidelines-Resuscitation (National Registry of CPR) Investigators. Early cardiac arrest in patients hospitalized with pneumonia: a report from the American Heart Association's Get With The Guidelines-Resuscitation Program. Chest. 2012 Jun;141(6):1528-1536. doi: 10.1378/chest.11-1547. Epub 2011 Dec 22.",
+                "PMID": "22194592"
+            },
+            {
+                "citation": "Smith ME, Chiovaro JC, O'Neil M, Kansagara D, Qui\u00f1ones AR, Freeman M, Motu'apuaka ML, Slatore CG. Early warning system scores for clinical deterioration in hospitalized patients: a systematic review. Ann Am Thorac Soc. 2014 Nov;11(9):1454-65. doi: 10.1513/AnnalsATS.201403-102OC. Review.",
+                "PMID": "25296111"
+            },
+            {
+                "citation": "Maharaj R, Raffaele I, Wendon J. Rapid response systems: a systematic review and meta-analysis. Crit Care. 2015 Jun 12;19:254. doi: 10.1186/s13054-015-0973-y. Review.",
+                "PMID": "26070457"
+            },
+            {
+                "citation": "Liao X, Wang B, Kang Y. Novel coronavirus infection during the 2019-2020 epidemic: preparing intensive care units-the experience in Sichuan Province, China. Intensive Care Med. 2020 Feb;46(2):357-360. doi: 10.1007/s00134-020-05954-2. Epub 2020 Feb 5.",
+                "PMID": "32025779"
+            },
+            {
+                "citation": "Viglino D, L'her E, Maltais F, Maignan M, Lellouche F. Evaluation of a new respiratory monitoring tool \"Early Warning ScoreO(2)\" for patients admitted at the emergency department with dyspnea. Resuscitation. 2020 Mar 1;148:59-65. doi: 10.1016/j.resuscitation.2020.01.004. Epub 2020 Jan 13.",
+                "PMID": "31945431"
+            },
+            {
+                "citation": "Mahase E. Coronavirus: global stocks of protective gear are depleted, with demand at \"100 times\" normal level, WHO warns. BMJ. 2020 Feb 10;368:m543. doi: 10.1136/bmj.m543.",
+                "PMID": "32041691"
+            },
+            {
+                "citation": "Kang L, Li Y, Hu S, Chen M, Yang C, Yang BX, Wang Y, Hu J, Lai J, Ma X, Chen J, Guan L, Wang G, Ma H, Liu Z. The mental health of medical workers in Wuhan, China dealing with the 2019 novel coronavirus. Lancet Psychiatry. 2020 Mar;7(3):e14. doi: 10.1016/S2215-0366(20)30047-X. Epub 2020 Feb 5.",
+                "PMID": "32035030"
+            },
+            {
+                "citation": "Lellouche F, L'her E. Automated oxygen flow titration to maintain constant oxygenation. Respir Care. 2012 Aug;57(8):1254-62. doi: 10.4187/respcare.01343. Epub 2012 Feb 17.",
+                "PMID": "22348812"
+            },
+            {
+                "citation": "Lellouche F, Bouchard PA, Roberge M, Simard S, L'Her E, Maltais F, Lacasse Y. Automated oxygen titration and weaning with FreeO2 in patients with acute exacerbation of COPD: a pilot randomized trial. Int J Chron Obstruct Pulmon Dis. 2016 Aug 24;11:1983-90. doi: 10.2147/COPD.S112820. eCollection 2016.",
+                "PMID": "27601891"
+            },
+            {
+                "citation": "L'Her E, Dias P, Gouillou M, Riou A, Souquiere L, Paleiron N, Archambault P, Bouchard PA, Lellouche F. Automatic versus manual oxygen administration in the emergency department. Eur Respir J. 2017 Jul 20;50(1). pii: 1602552. doi: 10.1183/13993003.02552-2016. Print 2017 Jul.",
+                "PMID": "28729473"
+            },
+            {
+                "citation": "L'her E, Jaber S, Verzilli D, Jacob C, Huiban B, Futier E, Kerforne T, Pateau V, Bouchard PA, Gouillou M, Nowak E, Lellouche F. Automated oxygen administration versus conventional oxygen therapy after major abdominal or thoracic surgery: study protocol for an international multicentre randomised controlled study. BMJ Open. 2019 Jan 17;9(1):e023833. doi: 10.1136/bmjopen-2018-023833.",
+                "PMID": "30782716"
+            },
+            {
+                "citation": "L'Her E, N'Guyen QT, Pateau V, Bodenes L, Lellouche F. Photoplethysmographic determination of the respiratory rate in acutely ill patients: validation of a new algorithm and implementation into a biomedical device. Ann Intensive Care. 2019 Jan 21;9(1):11. doi: 10.1186/s13613-019-0485-z.",
+                "PMID": "30666472"
+            },
+            {
+                "citation": "Bourassa S, Bouchard PA, Dauphin M, Lellouche F. Oxygen Conservation Methods With Automated Titration. Respir Care. 2020 Feb 18. pii: respcare.07240. doi: 10.4187/respcare.07240. [Epub ahead of print]",
+                "PMID": "32071135"
+            },
+            {
+                "citation": "Wang L, Fan C. Sample size calculations for comparing two groups of count data. J Biopharm Stat. 2019;29(1):115-127. doi: 10.1080/10543406.2018.1489409. Epub 2018 Jul 19.",
+                "PMID": "30024833"
+            },
+            {
+                "citation": "Vierron E, Giraudeau B. Design effect in multicenter studies: gain or loss of power? BMC Med Res Methodol. 2009 Jun 18;9:39. doi: 10.1186/1471-2288-9-39.",
+                "PMID": "19538744"
+            },
+            {
+                "citation": "Ramsey S, Willke R, Briggs A, Brown R, Buxton M, Chawla A, Cook J, Glick H, Liljas B, Petitti D, Reed S. Good research practices for cost-effectiveness analysis alongside clinical trials: the ISPOR RCT-CEA Task Force report. Value Health. 2005 Sep-Oct;8(5):521-33. Review.",
+                "PMID": "16176491"
+            },
+            {
+                "citation": "Claxton K. The irrelevance of inference: a decision-making approach to the stochastic evaluation of health care technologies. J Health Econ. 1999 Jun;18(3):341-64.",
+                "PMID": "10537899"
+            },
+            {
+                "citation": "Denault MH, P\u00e9loquin F, Lajoie AC, Lacasse Y. Automatic versus Manual Oxygen Titration in Patients Requiring Supplemental Oxygen in the Hospital: A Systematic Review and Meta-Analysis. Respiration. 2019;98(2):178-188. doi: 10.1159/000499119. Epub 2019 May 24.",
+                "PMID": "31129662"
+            },
+            {
+                "citation": "Poder TG, Kouakou CRC, Bouchard PA, Tremblay V, Blais S, Maltais F, Lellouche F. Cost-effectiveness of FreeO(2) in patients with chronic obstructive pulmonary disease hospitalised for acute exacerbations: analysis of a pilot study in Quebec. BMJ Open. 2018 Jan 23;8(1):e018835. doi: 10.1136/bmjopen-2017-018835.",
+                "PMID": "29362258"
+            },
+            {
+                "citation": "Lellouche F, L'Her E, Bouchard PA, Brouillard C, Maltais F. Automatic Oxygen Titration During Walking in Subjects With COPD: A Randomized Crossover Controlled Study. Respir Care. 2016 Nov;61(11):1456-1464. Epub 2016 Oct 18.",
+                "PMID": "27794080"
+            },
+            {
+                "citation": "Vivodtzev I, L'Her E, Vottero G, Yankoff C, Tamisier R, Maltais F, Lellouche F, P\u00e9pin JL. Automated O(2) titration improves exercise capacity in patients with hypercapnic chronic obstructive pulmonary disease: a randomised controlled cross-over trial. Thorax. 2019 Mar;74(3):298-301. doi: 10.1136/thoraxjnl-2018-211967. Epub 2018 Aug 30.",
+                "PMID": "30166425"
+            },
+            {
+                "citation": "Mahase E. China coronavirus: what do we know so far? BMJ. 2020 Jan 24;368:m308. doi: 10.1136/bmj.m308.",
+                "PMID": "31980434"
+            },
+            {
+                "citation": "Lewis D. Coronavirus outbreak: what's next? Nature. 2020 Feb;578(7793):15-16. doi: 10.1038/d41586-020-00236-9.",
+                "PMID": "32020111"
+            },
+            {
+                "citation": "Arabi YM, Fowler R, Hayden FG. Critical care management of adults with community-acquired severe respiratory viral infection. Intensive Care Med. 2020 Feb;46(2):315-328. doi: 10.1007/s00134-020-05943-5. Epub 2020 Feb 10. Review.",
+                "PMID": "32040667"
+            },
+            {
+                "citation": "Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Potential for global spread of a novel coronavirus from China. J Travel Med. 2020 Mar 13;27(2). pii: taaa011. doi: 10.1093/jtm/taaa011.",
+                "PMID": "31985790"
+            },
+            {
+                "citation": "As coronavirus spreads, the time to think about the next epidemic is now. Nature. 2020 Feb;578(7794):191. doi: 10.1038/d41586-020-00379-9.",
+                "PMID": "32047314"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 19, 2020",
+        "study_first_submitted_qc": "March 23, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 24, 2020"
+        },
+        "last_update_submitted": "March 26, 2020",
+        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "No There is not plan to share individual participant data. All data if shared with be de-identified. Data will be stored on a secure server with access only by study personal."
+        }
+    }
+}

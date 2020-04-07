@@ -1,1 +1,227 @@
-{"clinical_study": {"@rank": "178", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04252118"}, "id_info": {"org_study_id": "2020003D", "nct_id": "NCT04252118"}, "brief_title": "Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected With 2019 Novel Coronavirus", "official_title": "Safety and Efficiency of Mesenchymal Stem Cell in Treating Pneumonia Patients Infected With 2019 Novel Coronavirus", "sponsors": {"lead_sponsor": {"agency": "Beijing 302 Hospital", "agency_class": "Other"}, "collaborator": [{"agency": "Innovative Precision Medicine Group (IPM), Hangzhou, China.", "agency_class": "Other"}, {"agency": "Wuhan Huoshenshan Hospital, Wuhan, China", "agency_class": "Other"}, {"agency": "Tianjin Haihe Hospital", "agency_class": "Other"}, {"agency": "VCANBIO CELL & GENE ENGINEERING CORP.,LTD, China", "agency_class": "Other"}, {"agency": "Shenzhen Third People's Hospital", "agency_class": "Other"}, {"agency": "Fifth Affiliated Hospital, Sun Yat-Sen University", "agency_class": "Other"}]}, "source": "Beijing 302 Hospital", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The 2019 novel coronavirus (2019-nCoV) infection caused clusters of severe respiratory\n      illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU\n      admission and high mortality. There is no confirmed antivirus therapy for people infected\n      2019-nCoV, most of them should receive supportive care to help relieve symptoms. For severe\n      cases, treatment should include care to support vital organ functions. This clinical trial is\n      to inspect the safety and efficiency of Mesenchymal Stem Cells (MSCs) therapy for pneumonia\n      patients infected with 2019-nCoV."}, "detailed_description": {"textblock": "2019-nCoV infection has become an urgent public health event in China. As of 24:00 on January\n      26, 2020, there are 2744 confirmed cases and 461 severe cases in China, the number is still\n      increasing. There is currently no vaccine and no specific antiviral treatment recommended for\n      2019-nCoV infection. About 20% of the patients were severe and some died of respiratory\n      failure or multiple organ failure. Therefore, it is urgent to find a safe and effective\n      therapeutic approach to pneumonia patients infected with 2019-nCoV.\n\n      In the last year, the promising features of mesenchymal stem cells (MSCs), including their\n      regenerative properties and ability to differentiate into diverse cell lineages, have\n      generated great interest among researchers whose work has offered intriguing perspectives on\n      cell-based therapies for various diseases. These findings seem to highlight that the\n      beneficial effect of MSC-based treatment could be principally due by the immunomodulation and\n      regenerative potential of these cells. The investigators found that infusions of UC-MSC\n      significantly improved liver function in decompensated liver cirrhosis and primary biliary\n      cirrhosis (PBC) patients, increased the survival rate in acute-on-chronic liver failure\n      (ACLF) patients . MSCs could significantly reduce the pathological changes of lung and\n      inhibit the cell-mediated immune inflammatory response induced by influenza virus in animal\n      model .\n\n      The purpose of this study is to investigate safety and efficiency of MSCs in treating\n      pneumonia patients infected with 2019-nCoV. This multi-center trial will recruit 20 patients.\n      10 patients received i.v. transfusion one round (3 times) of 3.0*10E7 cells of MSCs as the\n      treated group, all of them received the conventional treatment. In addition, the equal 10\n      patients received conventional treatment were used as control. The clinical symptoms,\n      pulmonary imaging, side effects, 28-days mortality, immunological characteristics (immune\n      cells, inflammatory factors, etc.) will be evaluated during the 180 days follow up."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "January 27, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 2020"}, "phase": "Phase 1", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Non-Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Size of lesion area by chest radiograph or CT", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21\uff0cDay 28", "description": "Evaluation of Pneumonia Improvement"}, {"measure": "Side effects in the MSCs treatment group", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180", "description": "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0"}], "secondary_outcome": [{"measure": "Improvement of Clinical symptoms including duration of fever and respiratory", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28", "description": "Evaluation of Pneumonia Improvement"}, {"measure": "Time of nucleic acid turning negative", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180", "description": "Marker for 2019-nCoV"}, {"measure": "Rate of mortality within 28-days", "time_frame": "Day 28", "description": "Marker for efficacy of treatment"}, {"measure": "CD4+ and CD8+ T celll count", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180", "description": "Marker of Immunological function"}, {"measure": "Alanine aminotransferase", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180", "description": "Markers of organ function"}, {"measure": "C-reactive protein", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180", "description": "Markers of Infection"}, {"measure": "Creatine kinase", "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180", "description": "Markers of organ function"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "20"}, "condition": "2019 Novel Coronavirus Pneumonia", "arm_group": [{"arm_group_label": "MSCs Treatment Group", "arm_group_type": "Experimental", "description": "Conventional treatment plus MSCs Participants will receive conventional treatment plus 3 times of MSCs(3.0*10E7 MSCs intravenously at Day 0, Day 3, Day 6)."}, {"arm_group_label": "Conventional Control Group", "arm_group_type": "No Intervention", "description": "Without MSCs Therapy but conventional treatment should be received."}], "intervention": {"intervention_type": "Biological", "intervention_name": "MSCs", "description": "3 times of MSCs(3.0*10E7 MSCs intravenously at Day 0, Day 3, Day 6).", "arm_group_label": "MSCs Treatment Group"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Male or female, aged at 18 years (including) -70 years old\n\n          2. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase\n             chain reaction (RT-PCR) from any diagnostic sampling source; and\n\n          3. Pneumonia that is judged by chest radiograph or computed tomography.\n\n        Exclusion Criteria:\n\n          1. Pregnancy, lactation and those who are not pregnant but do not take effective\n             contraceptives measures;\n\n          2. Patients with malignant tumor, other serious systemic diseases and psychosis;\n\n          3. Patients who are participating in other clinical trials;\n\n          4. Inability to provide informed consent or to comply with test requirements.\n\n          5. Co-Infection of HIV, tuberculosis, influenza virus, adenovirus and other respiratory\n             infection virus."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "70 Years", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Lei Shi, MD,PhD", "phone": "86-10-66933333", "email": "shilei302@126.com"}, "overall_contact_backup": {"last_name": "Fusheng Wang, MD,PhD", "phone": "86-10-66933328", "email": "fswang302@163.com"}, "location": {"facility": {"name": "Beijing 302 Military Hospital of China", "address": {"city": "Beijing", "zip": "100039", "country": "China"}}, "status": "Recruiting", "contact": {"last_name": "Lei Shi, MD, PhD", "phone": "86-10-66933333", "email": "shilei302@126.com"}}, "location_countries": {"country": "China"}, "verification_date": "February 2020", "study_first_submitted": "January 27, 2020", "study_first_submitted_qc": "January 30, 2020", "study_first_posted": {"@type": "Actual", "#text": "February 5, 2020"}, "last_update_submitted": "February 25, 2020", "last_update_submitted_qc": "February 25, 2020", "last_update_posted": {"@type": "Actual", "#text": "February 26, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Beijing 302 Hospital", "investigator_full_name": "Fu-Sheng Wang", "investigator_title": "Head of Treatment and Research Center for Infectious Diseases, Principle Investigator, Clinical Professor"}, "keyword": ["2019 Novel Coronavirus Pneumonia", "Safety", "Efficiency", "Cell Therapy", "Mesenchymal stem cell"], "condition_browse": {"mesh_term": ["Coronavirus Infections", "Pneumonia"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "178",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04252118"
+        },
+        "id_info": {
+            "org_study_id": "2020003D",
+            "nct_id": "NCT04252118"
+        },
+        "brief_title": "Mesenchymal Stem Cell Treatment for Pneumonia Patients Infected With 2019 Novel Coronavirus",
+        "official_title": "Safety and Efficiency of Mesenchymal Stem Cell in Treating Pneumonia Patients Infected With 2019 Novel Coronavirus",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Beijing 302 Hospital",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Innovative Precision Medicine Group (IPM), Hangzhou, China.",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Wuhan Huoshenshan Hospital, Wuhan, China",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Tianjin Haihe Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "VCANBIO CELL & GENE ENGINEERING CORP.,LTD, China",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Shenzhen Third People's Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Fifth Affiliated Hospital, Sun Yat-Sen University",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Beijing 302 Hospital",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The 2019 novel coronavirus (2019-nCoV) infection caused clusters of severe respiratory\n      illness similar to severe acute respiratory syndrome coronavirus and was associated with ICU\n      admission and high mortality. There is no confirmed antivirus therapy for people infected\n      2019-nCoV, most of them should receive supportive care to help relieve symptoms. For severe\n      cases, treatment should include care to support vital organ functions. This clinical trial is\n      to inspect the safety and efficiency of Mesenchymal Stem Cells (MSCs) therapy for pneumonia\n      patients infected with 2019-nCoV."
+        },
+        "detailed_description": {
+            "textblock": "2019-nCoV infection has become an urgent public health event in China. As of 24:00 on January\n      26, 2020, there are 2744 confirmed cases and 461 severe cases in China, the number is still\n      increasing. There is currently no vaccine and no specific antiviral treatment recommended for\n      2019-nCoV infection. About 20% of the patients were severe and some died of respiratory\n      failure or multiple organ failure. Therefore, it is urgent to find a safe and effective\n      therapeutic approach to pneumonia patients infected with 2019-nCoV.\n\n      In the last year, the promising features of mesenchymal stem cells (MSCs), including their\n      regenerative properties and ability to differentiate into diverse cell lineages, have\n      generated great interest among researchers whose work has offered intriguing perspectives on\n      cell-based therapies for various diseases. These findings seem to highlight that the\n      beneficial effect of MSC-based treatment could be principally due by the immunomodulation and\n      regenerative potential of these cells. The investigators found that infusions of UC-MSC\n      significantly improved liver function in decompensated liver cirrhosis and primary biliary\n      cirrhosis (PBC) patients, increased the survival rate in acute-on-chronic liver failure\n      (ACLF) patients . MSCs could significantly reduce the pathological changes of lung and\n      inhibit the cell-mediated immune inflammatory response induced by influenza virus in animal\n      model .\n\n      The purpose of this study is to investigate safety and efficiency of MSCs in treating\n      pneumonia patients infected with 2019-nCoV. This multi-center trial will recruit 20 patients.\n      10 patients received i.v. transfusion one round (3 times) of 3.0*10E7 cells of MSCs as the\n      treated group, all of them received the conventional treatment. In addition, the equal 10\n      patients received conventional treatment were used as control. The clinical symptoms,\n      pulmonary imaging, side effects, 28-days mortality, immunological characteristics (immune\n      cells, inflammatory factors, etc.) will be evaluated during the 180 days follow up."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "January 27, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2020"
+        },
+        "phase": "Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Size of lesion area by chest radiograph or CT",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21\uff0cDay 28",
+                "description": "Evaluation of Pneumonia Improvement"
+            },
+            {
+                "measure": "Side effects in the MSCs treatment group",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180",
+                "description": "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Improvement of Clinical symptoms including duration of fever and respiratory",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28",
+                "description": "Evaluation of Pneumonia Improvement"
+            },
+            {
+                "measure": "Time of nucleic acid turning negative",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180",
+                "description": "Marker for 2019-nCoV"
+            },
+            {
+                "measure": "Rate of mortality within 28-days",
+                "time_frame": "Day 28",
+                "description": "Marker for efficacy of treatment"
+            },
+            {
+                "measure": "CD4+ and CD8+ T celll count",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180",
+                "description": "Marker of Immunological function"
+            },
+            {
+                "measure": "Alanine aminotransferase",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180",
+                "description": "Markers of organ function"
+            },
+            {
+                "measure": "C-reactive protein",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180",
+                "description": "Markers of Infection"
+            },
+            {
+                "measure": "Creatine kinase",
+                "time_frame": "At Baseline , Day 3, Day 6, Day 10, Day 14, Day 21, Day 28, Day 90 and Day 180",
+                "description": "Markers of organ function"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "20"
+        },
+        "condition": "2019 Novel Coronavirus Pneumonia",
+        "arm_group": [
+            {
+                "arm_group_label": "MSCs Treatment Group",
+                "arm_group_type": "Experimental",
+                "description": "Conventional treatment plus MSCs Participants will receive conventional treatment plus 3 times of MSCs(3.0*10E7 MSCs intravenously at Day 0, Day 3, Day 6)."
+            },
+            {
+                "arm_group_label": "Conventional Control Group",
+                "arm_group_type": "No Intervention",
+                "description": "Without MSCs Therapy but conventional treatment should be received."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "MSCs",
+            "description": "3 times of MSCs(3.0*10E7 MSCs intravenously at Day 0, Day 3, Day 6).",
+            "arm_group_label": "MSCs Treatment Group"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male or female, aged at 18 years (including) -70 years old\n\n          2. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase\n             chain reaction (RT-PCR) from any diagnostic sampling source; and\n\n          3. Pneumonia that is judged by chest radiograph or computed tomography.\n\n        Exclusion Criteria:\n\n          1. Pregnancy, lactation and those who are not pregnant but do not take effective\n             contraceptives measures;\n\n          2. Patients with malignant tumor, other serious systemic diseases and psychosis;\n\n          3. Patients who are participating in other clinical trials;\n\n          4. Inability to provide informed consent or to comply with test requirements.\n\n          5. Co-Infection of HIV, tuberculosis, influenza virus, adenovirus and other respiratory\n             infection virus."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "70 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Lei Shi, MD,PhD",
+            "phone": "86-10-66933333",
+            "email": "shilei302@126.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Fusheng Wang, MD,PhD",
+            "phone": "86-10-66933328",
+            "email": "fswang302@163.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Beijing 302 Military Hospital of China",
+                "address": {
+                    "city": "Beijing",
+                    "zip": "100039",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Lei Shi, MD, PhD",
+                "phone": "86-10-66933333",
+                "email": "shilei302@126.com"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "February 2020",
+        "study_first_submitted": "January 27, 2020",
+        "study_first_submitted_qc": "January 30, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "February 5, 2020"
+        },
+        "last_update_submitted": "February 25, 2020",
+        "last_update_submitted_qc": "February 25, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "February 26, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Beijing 302 Hospital",
+            "investigator_full_name": "Fu-Sheng Wang",
+            "investigator_title": "Head of Treatment and Research Center for Infectious Diseases, Principle Investigator, Clinical Professor"
+        },
+        "keyword": [
+            "2019 Novel Coronavirus Pneumonia",
+            "Safety",
+            "Efficiency",
+            "Cell Therapy",
+            "Mesenchymal stem cell"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Pneumonia"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

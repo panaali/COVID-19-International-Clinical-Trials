@@ -1,1 +1,133 @@
-{"clinical_study": {"@rank": "267", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04334434"}, "id_info": {"org_study_id": "002", "nct_id": "NCT04334434"}, "brief_title": "Telerehabilitation in Individuals Over 65 Years of Age Having Social Isolation Due to Coronavirus (Covid-19)", "official_title": "Investigation Of The Effectiveness Of The Telerehabilitation Applied To Individuals Over The Age Of 65 Who Experience Social Isolation At Houses Due To The Coronavirus (Covid-19) Pandemic", "sponsors": {"lead_sponsor": {"agency": "Kubra Koce, MSc PT", "agency_class": "Other"}}, "source": "Istanbul University-Cerrahpasa", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "In December 2019, new coronavirus pneumonia (COVID-19) erupted in Wuhan (Hubei, China) and\n      quickly spread from a single city to the entire country in just 30 days and then attracted\n      worldwide attention. COVID-19 causes a large number of deaths due to its occurrence in many\n      cases. This virus caused a total of 549,461 approved cases and 24,887 deaths worldwide. All\n      the countries of the world take some precautions to prevent the spread of this epidemic\n      disease, which WHO declared it as \"pandemic\". Staying home and social isolation are at the\n      top of these precautions. For this purpose, in Turkey on March 21, 2020, '65 and older\n      individuals began to apply the curfew to individuals with chronic illnesses. However, not\n      leaving the house and social isolation brings with it the limitation of physical activity.\n      Physical activity (PA) is defined by WHO as any bodily movement produced by the contraction\n      of skeletal muscles that increases energy consumption. Recommended PA levels for the elderly\n      (\u226565 years) are similar to adults (18 to 64 years old). At the global level, approximately\n      45% of people over the age of 60 do not meet the recommended level of PA. Studies\n      investigating the relationship between social isolation and health behavior report consistent\n      findings. Individuals with smaller social networks report less healthy diets, excessive\n      alcohol consumption, and less physical activity. The effects of social isolation are related\n      to physical inactivity, smoking and the possibility of having both health risk behaviors\n      together. The decrease in physical performance is associated with the risk of falling,\n      sarcopenia, fragility, decreased quality of life, emotionalization, comorbidity, early death,\n      and increased health care costs. Practical and innovative interventions are needed to reduce\n      the decline in muscle mass, strength and physical performance in the aging population. When\n      today's conditions are evaluated, technology-supported education programs are effective in\n      increasing the motivation for physical activity. The purpose of this study; to evaluate the\n      physical activity level of individuals over the age of 65 who experience social isolation due\n      to the precautions taken in our country to prevent the spread of the COVID-19 pandemic, and\n      to investigate the effectiveness of home-based telerehabilitation exercises. It is aimed to\n      use an innovative model based on the digitally supported, home-based exercise program."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "July 31, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "June 1, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Prevention", "masking": "Single (Participant)"}, "primary_outcome": [{"measure": "Physical Activity Scale for the Elderly", "time_frame": "2 weeks", "description": "One of the evaluation parameters created to evaluate the physical activity level of elderly individuals, the factors affecting the activity level, the relationship between physical activity and health profile is the Physical Activity Scale for the Elderly."}, {"measure": "Nottingham Health Profile", "time_frame": "2 weeks", "description": "Nottingham Health Profile was created in England in 1985 to evaluate the quality of life-related to health. The Nottingham Health Profile is a general quality of life questionnaire that assesses the level of individuals health problems and how they affect their daily life activities."}, {"measure": "Loneliness Scale for the Elderly", "time_frame": "2 weeks.", "description": "It was created by Gierveld and Kamphuis in 1985 to evaluate the sense of loneliness in older individuals and was revised in 1999 by Tilburg and Gierveld. It consists of 11 items in total and two subtitles."}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "30"}, "condition": "Telerehabilitation", "arm_group": [{"arm_group_label": "Study Group", "arm_group_type": "Experimental", "description": "The group to which the exercise protocol consisting of aerobic and strengthening exercises will be applied."}, {"arm_group_label": "Control Group", "arm_group_type": "No Intervention", "description": "Control group where evaluations will be made."}], "intervention": {"intervention_type": "Other", "intervention_name": "Telerehabilitation", "description": "15 volunteers over 65 years old who are at home during the social isolation process due to the coronavirus outbreak will be included in this group. An online exercise protocol was created for individuals who will participate in the study. Each exercise session was planned as 30 minutes for 3 days a week for 4 weeks. It was planned to start the protocol with warm-up exercises and finish with cooling exercises. The exercise protocol was additionally determined as a combination of aerobic and strengthening exercises. Individuals were asked to participate in the study via Skype and aimed to do their exercises with a physiotherapist", "arm_group_label": "Study Group"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Being 65 years old and over\n\n          -  Being in social isolation due to the coronavirus epidemic.\n\n          -  Spending at least 1 week at home different from routine life.\n\n          -  Not to be obstructed from doing physical activities.\n\n          -  To have access to online exercise training.\n\n        Exclusion Criteria:\n\n          -  Having a serious cognitive impairment\n\n          -  Having serious hearing and vision problems\n\n          -  Having vestibular disorders that can cause loss of balance\n\n          -  Having diabetes, hypertension or a neurological disease"}, "gender": "All", "minimum_age": "65 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "verification_date": "April 2020", "study_first_submitted": "April 2, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor-Investigator", "investigator_affiliation": "Istanbul University-Cerrahpasa", "investigator_full_name": "Kubra Koce, MSc PT", "investigator_title": "Physiotherapist, MSc"}, "keyword": ["Covid-19", "Exercises", "Social Isolation"], "condition_browse": {"mesh_term": "Coronavirus Infections"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "267",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04334434"
+        },
+        "id_info": {
+            "org_study_id": "002",
+            "nct_id": "NCT04334434"
+        },
+        "brief_title": "Telerehabilitation in Individuals Over 65 Years of Age Having Social Isolation Due to Coronavirus (Covid-19)",
+        "official_title": "Investigation Of The Effectiveness Of The Telerehabilitation Applied To Individuals Over The Age Of 65 Who Experience Social Isolation At Houses Due To The Coronavirus (Covid-19) Pandemic",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Kubra Koce, MSc PT",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Istanbul University-Cerrahpasa",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "In December 2019, new coronavirus pneumonia (COVID-19) erupted in Wuhan (Hubei, China) and\n      quickly spread from a single city to the entire country in just 30 days and then attracted\n      worldwide attention. COVID-19 causes a large number of deaths due to its occurrence in many\n      cases. This virus caused a total of 549,461 approved cases and 24,887 deaths worldwide. All\n      the countries of the world take some precautions to prevent the spread of this epidemic\n      disease, which WHO declared it as \"pandemic\". Staying home and social isolation are at the\n      top of these precautions. For this purpose, in Turkey on March 21, 2020, '65 and older\n      individuals began to apply the curfew to individuals with chronic illnesses. However, not\n      leaving the house and social isolation brings with it the limitation of physical activity.\n      Physical activity (PA) is defined by WHO as any bodily movement produced by the contraction\n      of skeletal muscles that increases energy consumption. Recommended PA levels for the elderly\n      (\u226565 years) are similar to adults (18 to 64 years old). At the global level, approximately\n      45% of people over the age of 60 do not meet the recommended level of PA. Studies\n      investigating the relationship between social isolation and health behavior report consistent\n      findings. Individuals with smaller social networks report less healthy diets, excessive\n      alcohol consumption, and less physical activity. The effects of social isolation are related\n      to physical inactivity, smoking and the possibility of having both health risk behaviors\n      together. The decrease in physical performance is associated with the risk of falling,\n      sarcopenia, fragility, decreased quality of life, emotionalization, comorbidity, early death,\n      and increased health care costs. Practical and innovative interventions are needed to reduce\n      the decline in muscle mass, strength and physical performance in the aging population. When\n      today's conditions are evaluated, technology-supported education programs are effective in\n      increasing the motivation for physical activity. The purpose of this study; to evaluate the\n      physical activity level of individuals over the age of 65 who experience social isolation due\n      to the precautions taken in our country to prevent the spread of the COVID-19 pandemic, and\n      to investigate the effectiveness of home-based telerehabilitation exercises. It is aimed to\n      use an innovative model based on the digitally supported, home-based exercise program."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Physical Activity Scale for the Elderly",
+                "time_frame": "2 weeks",
+                "description": "One of the evaluation parameters created to evaluate the physical activity level of elderly individuals, the factors affecting the activity level, the relationship between physical activity and health profile is the Physical Activity Scale for the Elderly."
+            },
+            {
+                "measure": "Nottingham Health Profile",
+                "time_frame": "2 weeks",
+                "description": "Nottingham Health Profile was created in England in 1985 to evaluate the quality of life-related to health. The Nottingham Health Profile is a general quality of life questionnaire that assesses the level of individuals health problems and how they affect their daily life activities."
+            },
+            {
+                "measure": "Loneliness Scale for the Elderly",
+                "time_frame": "2 weeks.",
+                "description": "It was created by Gierveld and Kamphuis in 1985 to evaluate the sense of loneliness in older individuals and was revised in 1999 by Tilburg and Gierveld. It consists of 11 items in total and two subtitles."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": "Telerehabilitation",
+        "arm_group": [
+            {
+                "arm_group_label": "Study Group",
+                "arm_group_type": "Experimental",
+                "description": "The group to which the exercise protocol consisting of aerobic and strengthening exercises will be applied."
+            },
+            {
+                "arm_group_label": "Control Group",
+                "arm_group_type": "No Intervention",
+                "description": "Control group where evaluations will be made."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Telerehabilitation",
+            "description": "15 volunteers over 65 years old who are at home during the social isolation process due to the coronavirus outbreak will be included in this group. An online exercise protocol was created for individuals who will participate in the study. Each exercise session was planned as 30 minutes for 3 days a week for 4 weeks. It was planned to start the protocol with warm-up exercises and finish with cooling exercises. The exercise protocol was additionally determined as a combination of aerobic and strengthening exercises. Individuals were asked to participate in the study via Skype and aimed to do their exercises with a physiotherapist",
+            "arm_group_label": "Study Group"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Being 65 years old and over\n\n          -  Being in social isolation due to the coronavirus epidemic.\n\n          -  Spending at least 1 week at home different from routine life.\n\n          -  Not to be obstructed from doing physical activities.\n\n          -  To have access to online exercise training.\n\n        Exclusion Criteria:\n\n          -  Having a serious cognitive impairment\n\n          -  Having serious hearing and vision problems\n\n          -  Having vestibular disorders that can cause loss of balance\n\n          -  Having diabetes, hypertension or a neurological disease"
+            },
+            "gender": "All",
+            "minimum_age": "65 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Istanbul University-Cerrahpasa",
+            "investigator_full_name": "Kubra Koce, MSc PT",
+            "investigator_title": "Physiotherapist, MSc"
+        },
+        "keyword": [
+            "Covid-19",
+            "Exercises",
+            "Social Isolation"
+        ],
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

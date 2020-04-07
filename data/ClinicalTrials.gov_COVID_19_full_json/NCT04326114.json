@@ -1,1 +1,153 @@
-{"clinical_study": {"@rank": "250", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04326114"}, "id_info": {"org_study_id": "Covid_ISCIII 20/265-E_BS", "nct_id": "NCT04326114"}, "brief_title": "Effectiveness and Safety of Respiratory Training in the Prevention and Severity of COVID-19", "official_title": "Effectiveness and Safety of Respiratory Training Devices in the Prevention and Severity of COVID-19: A Randomized Controlled Clinical Trial", "sponsors": {"lead_sponsor": {"agency": "Universidad Complutense de Madrid", "agency_class": "Other"}}, "source": "Universidad Complutense de Madrid", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "A randomized controlled clinical trial will be carried out using inspiratory and expiratory\n      training devices on healthy subjects recruited in social networks and university\n      environments. The aim will be to determine the effectiveness and safety in the prevention and\n      severity of COVID-19 disease by a respiratory training with inspiratory and expiratory\n      devices."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 26, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "October 12, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "September 26, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Prevention", "masking": "Single (Outcomes Assessor)"}, "primary_outcome": {"measure": "COVID-19 disease diagnosis", "time_frame": "Change from Baseline COVID-19 disease diagnosis at 8 weeks", "description": "Dichotomous categorical variable measured by \"yes\" or \"no\" responses"}, "secondary_outcome": [{"measure": "COVID-19 disease symptoms severity", "time_frame": "Change from Baseline COVID-19 disease symptoms severity at 8 weeks", "description": "Dichotomous categorical variable measured by \"slight\" or \"severe\" responses"}, {"measure": "Adverse effects", "time_frame": "Change from Baseline adverse effects at 8 weeks", "description": "Polytomous categorical variable measured by adverse effects responses"}], "number_of_arms": "3", "enrollment": {"@type": "Anticipated", "#text": "240"}, "condition": ["Disease, Infectious", "Respiratory Disease", "Safety Issues", "Effectiveness"], "arm_group": [{"arm_group_label": "Inspiratory training", "arm_group_type": "Experimental"}, {"arm_group_label": "Expiratory training", "arm_group_type": "Experimental"}, {"arm_group_label": "Control", "arm_group_type": "No Intervention"}], "intervention": [{"intervention_type": "Device", "intervention_name": "Inspiratory training device", "description": "Inspiratory training by a Power-breath device", "arm_group_label": "Inspiratory training"}, {"intervention_type": "Device", "intervention_name": "Expiratory training device", "description": "Expiratory training a Winner-flow device", "arm_group_label": "Expiratory training"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Healthy subjects\n\n        Exclusion Criteria:\n\n          -  Drugs\n\n          -  Surgery\n\n          -  Neurology diseases\n\n          -  Rheumatic diseases\n\n          -  Systemic diseases\n\n          -  Smokers"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_contact": {"last_name": "C\u00e9sar Calvo Lobo, PhD", "phone": "91 394 1544", "email": "cescalvo@ucm.es"}, "verification_date": "March 2020", "study_first_submitted": "March 26, 2020", "study_first_submitted_qc": "March 27, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 30, 2020"}, "last_update_submitted": "March 27, 2020", "last_update_submitted_qc": "March 27, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 30, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Universidad Complutense de Madrid", "investigator_full_name": "C\u00e9sar Calvo Lobo", "investigator_title": "Principal Investigator"}, "condition_browse": {"mesh_term": ["Communicable Diseases", "Infection", "Respiration Disorders", "Respiratory Tract Diseases"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "250",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04326114"
+        },
+        "id_info": {
+            "org_study_id": "Covid_ISCIII 20/265-E_BS",
+            "nct_id": "NCT04326114"
+        },
+        "brief_title": "Effectiveness and Safety of Respiratory Training in the Prevention and Severity of COVID-19",
+        "official_title": "Effectiveness and Safety of Respiratory Training Devices in the Prevention and Severity of COVID-19: A Randomized Controlled Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universidad Complutense de Madrid",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Universidad Complutense de Madrid",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "A randomized controlled clinical trial will be carried out using inspiratory and expiratory\n      training devices on healthy subjects recruited in social networks and university\n      environments. The aim will be to determine the effectiveness and safety in the prevention and\n      severity of COVID-19 disease by a respiratory training with inspiratory and expiratory\n      devices."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 26, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 12, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 26, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "COVID-19 disease diagnosis",
+            "time_frame": "Change from Baseline COVID-19 disease diagnosis at 8 weeks",
+            "description": "Dichotomous categorical variable measured by \"yes\" or \"no\" responses"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "COVID-19 disease symptoms severity",
+                "time_frame": "Change from Baseline COVID-19 disease symptoms severity at 8 weeks",
+                "description": "Dichotomous categorical variable measured by \"slight\" or \"severe\" responses"
+            },
+            {
+                "measure": "Adverse effects",
+                "time_frame": "Change from Baseline adverse effects at 8 weeks",
+                "description": "Polytomous categorical variable measured by adverse effects responses"
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "240"
+        },
+        "condition": [
+            "Disease, Infectious",
+            "Respiratory Disease",
+            "Safety Issues",
+            "Effectiveness"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Inspiratory training",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Expiratory training",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Control",
+                "arm_group_type": "No Intervention"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Inspiratory training device",
+                "description": "Inspiratory training by a Power-breath device",
+                "arm_group_label": "Inspiratory training"
+            },
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Expiratory training device",
+                "description": "Expiratory training a Winner-flow device",
+                "arm_group_label": "Expiratory training"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Healthy subjects\n\n        Exclusion Criteria:\n\n          -  Drugs\n\n          -  Surgery\n\n          -  Neurology diseases\n\n          -  Rheumatic diseases\n\n          -  Systemic diseases\n\n          -  Smokers"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "C\u00e9sar Calvo Lobo, PhD",
+            "phone": "91 394 1544",
+            "email": "cescalvo@ucm.es"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 26, 2020",
+        "study_first_submitted_qc": "March 27, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "last_update_submitted": "March 27, 2020",
+        "last_update_submitted_qc": "March 27, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Universidad Complutense de Madrid",
+            "investigator_full_name": "C\u00e9sar Calvo Lobo",
+            "investigator_title": "Principal Investigator"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Communicable Diseases",
+                "Infection",
+                "Respiration Disorders",
+                "Respiratory Tract Diseases"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,1 +1,237 @@
-{"clinical_study": {"@rank": "231", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04293887"}, "id_info": {"org_study_id": "Zhaojp", "nct_id": "NCT04293887"}, "brief_title": "Efficacy and Safety of IFN-\u03b12\u03b2 in the Treatment of Novel Coronavirus Patients", "official_title": "Randomized, Open, Blank Control Study on the Efficacy and Safety of Recombinant Human Interferon \u03b11\u03b2 in the Treatment of Patients With New Type of Coronavirus Infection in Wuhan", "sponsors": {"lead_sponsor": {"agency": "Tongji Hospital", "agency_class": "Other"}}, "source": "Tongji Hospital", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "New coronavirus infection is an important cause of public health emergencies at home and\n      abroad, which seriously affects people's health and social stability. The outbreak of\n      SRAR-COV in China in 2003 caused serious social impact. From January 2002 to August 7, 2003,\n      there were a total of 8,422 cases worldwide, involving 32 countries and regions, of which 919\n      cases were fatal, with a fatality rate of nearly 11%. The fatality rate of elderly patients\n      and patients with underlying diseases was even more high.There is no precise and effective\n      treatment for coronavirus infection. In vitro, IFN-\u03b12\u03b2 has inhibitory effects on MERS-CoV and\n      closely related coronavirus severe acute respiratory syndrome (SARS) -CoV. A study showed the\n      effects of interferon-\u03b12\u03b2 and ribavirin on the replication of nCoV isolates hCoV-EMC / 2012\n      in Vero and LLC-MK2 cells. The combined application may be useful for the management of\n      patients with nCoV infection in the future. At present, the combination therapy of interferon\n      \u03b12\u03b2 and ribavirin has been successfully applied in the initial treatment and prevention of\n      SARS and MERS.The purpose of this study was to evaluate the efficacy and safety of\n      recombinant human interferon \u03b11\u03b2 in treating patients with new coronavirus infection in\n      Wuhan."}, "detailed_description": {"textblock": "This study is a multi-center, randomized, open, blank-controlled, multi-stage clinical study.\n      As there are no effective treatments, the project team will evaluate possible treatments\n      (including but not limited to interferon \u03b1) based on actual conditions. , Lopinavir /\n      ritonavir, remdesivir, single / polyclonal antibodies against coronavirus), explore the most\n      effective antiviral treatment options.\n\n      The first phase will assess the efficacy and safety of interferon alpha compared to standard\n      treatment for approximately 328 hospitalized adult patients diagnosed with a new coronavirus\n      infection in Wuhan.\n\n      Patients with COVID-19 within 7 days of onset of symptoms were screened and randomly assigned\n      as soon as possible after screening (within 24 hours). Patients will be allocated in a 1: 1\n      ratio, receiving the interferon alpha treatment group or only the standard treatment group.\n      Patients who do not meet the inclusion and exclusion criteria are only allowed to be\n      re-screened once, provided that the time from symptom onset to randomization remains within 7\n      days.\n\n      This study planned to randomize approximately 328 adult subjects. It will be stratified\n      according to whether the onset time is \u2264 3 days, and randomly divided into groups of 1: 1,\n      receiving standard treatment or interferon alpha atomization twice a day, 1 stick (10ug) each\n      time, treatment course For 10 days. Subjects and all research center staff were not blinded.\n\n      The primary endpoint of this study was the incidence of side effects within 14 days of\n      enrollment. Therefore, a 14-day visit is essential for the data needed for this endpoint.\n      Every effort should be made to ensure that this study visit is completed in a timely manner.\n\n      Out-of-hospital treatment or discharge will reach the discharge standard on the day of\n      implementation and will be implemented in accordance with the Health and Medical Commission's\n      \"Unknown Viral Pneumonia Diagnosis and Treatment Plan (Trial)\". For patients treated outside\n      the hospital or who have been discharged, final assessments are performed by phone and using\n      a questionnaire (if applicable)."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 30, 2020"}, "phase": "Early Phase 1", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "The incidence of side effects", "time_frame": "Within 14 days after enrollment", "description": "dyspnea"}, {"measure": "The incidence of side effects", "time_frame": "Within 14 days after enrollment", "description": "SPO2\u226494%"}, {"measure": "The incidence of side effects", "time_frame": "Within 14 days after enrollment", "description": "respiratory rate \u226524 breaths/min in oxygen state)"}], "secondary_outcome": [{"measure": "Time from patient enrollment to clinical remission", "time_frame": "Within 14 days after enrollment", "description": "the patient had a normal body temperature of > for 24 hours (without taking antipyretic drugs or hormones) without self-consciousness Dyspnea or reduced dyspnea;"}, {"measure": "Proportion of patients with normal body", "time_frame": "Within 14 days after enrollment", "description": "Proportion of patients with normal body"}, {"measure": "Proportion of patients without dyspnea", "time_frame": "Within 14 days after enrollment", "description": "Proportion of patients without dyspnea"}, {"measure": "Proportion of patients without cough", "time_frame": "Within 14 days after enrollment", "description": "Proportion of patients without cough"}, {"measure": "Proportion", "time_frame": "Within 14 days after enrollment", "description": "Proportion of patients without oxygen treatment"}, {"measure": "The negative conversion rate of new coronavirus nucleic acid", "time_frame": "Within 14 days after enrollment", "description": "The negative conversion rate of new coronavirus nucleic acid"}, {"measure": "Proportion", "time_frame": "within 28 days after enrollment", "description": "Proportion of patients hospitalized/hospitalized in ICU"}, {"measure": "Frequency of serious adverse drug events.", "time_frame": "within 28 days after enrollment", "description": "Frequency of serious adverse drug events."}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "328"}, "condition": ["COVID-19", "Recombinant Human Interferon \u03b11\u03b2"], "arm_group": [{"arm_group_label": "Standard therapy + interferon therapy", "arm_group_type": "Experimental", "description": "Standard treatment + recombinant human interferon \u03b11\u03b2 10ug Bid was administered by nebulization for 10 days."}, {"arm_group_label": "Standard therapy + blank therapy", "arm_group_type": "No Intervention", "description": "Standard therapy"}], "intervention": {"intervention_type": "Drug", "intervention_name": "Recombinant human interferon \u03b11\u03b2", "description": "Saline needle 2ml + recombinant human interferon \u03b11\u03b210ug bid nebulization inhalation", "arm_group_label": "Standard therapy + interferon therapy"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Age \u2265 18 years;\n\n          2. Clinically diagnosed patients with new type of coronavirus pneumonia, including: in\n             accordance with the criteria for suspected cases, have one of the following etiology\n             evidence:\n\n             \u2460 Real-time fluorescence RT-PCR of respiratory specimens or blood specimens for\n             detection of new coronavirus nucleic acid;\n\n             \u2461 Sequencing of viral genes in respiratory specimens or blood specimens, highly\n             homologous to known new coronavirus\n\n          3. The time interval between the onset of symptoms and random enrollment is within 7\n             days. The onset of symptoms is mainly based on fever. If there is no fever, cough,\n             diarrhea or other related symptoms can be used.\n\n        Exclusion Criteria:\n\n          1. Any situation where the programme cannot be carried out safely;\n\n          2. Patients who have used interferon or remedesivir;\n\n          3. No clinical manifestations and chest imaging findings\n\n          4. Known allergy or hypersensitivity to interferon (including asthma);\n\n          5. Disabled in patients with uncontrolled autoimmune diseases;\n\n          6. Patients with severe heart disease, decompensated liver disease, renal insufficiency\n             (CrCL <50ml / min), and those with abnormal bone marrow function are prohibited;\n\n          7. Epilepsy and impaired central nervous system function;\n\n          8. Pregnancy: Positive pregnancy test for women of childbearing age;\n\n          9. Breastfeeding women have not stopped breastfeeding;\n\n         10. The patient may be transferred to a non-participating hospital within 72 hours."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Jianping Zhao, Ph.D.", "phone": "13507138234", "email": "Zhaojp88@126.com"}, "overall_contact_backup": {"last_name": "Huilan Zhang, Ph.D.", "phone": "15391532171", "email": "huilanz_76@163.com"}, "link": {"url": "http://www.who.int/csr/disease/coronavirus_infections/case-management-ipc/en/", "description": "Related Info"}, "reference": [{"citation": "Ksiazek TG, Erdman D, Goldsmith CS, Zaki SR, Peret T, Emery S, Tong S, Urbani C, Comer JA, Lim W, Rollin PE, Dowell SF, Ling AE, Humphrey CD, Shieh WJ, Guarner J, Paddock CD, Rota P, Fields B, DeRisi J, Yang JY, Cox N, Hughes JM, LeDuc JW, Bellini WJ, Anderson LJ; SARS Working Group. A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1953-66. Epub 2003 Apr 10.", "PMID": "12690092"}, {"citation": "Drosten C, G\u00fcnther S, Preiser W, van der Werf S, Brodt HR, Becker S, Rabenau H, Panning M, Kolesnikova L, Fouchier RA, Berger A, Burgui\u00e8re AM, Cinatl J, Eickmann M, Escriou N, Grywna K, Kramme S, Manuguerra JC, M\u00fcller S, Rickerts V, St\u00fcrmer M, Vieth S, Klenk HD, Osterhaus AD, Schmitz H, Doerr HW. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1967-76. Epub 2003 Apr 10.", "PMID": "12690091"}, {"citation": "Fehr AR, Channappanavar R, Perlman S. Middle East Respiratory Syndrome: Emergence of a Pathogenic Human Coronavirus. Annu Rev Med. 2017 Jan 14;68:387-399. doi: 10.1146/annurev-med-051215-031152. Epub 2016 Aug 26. Review.", "PMID": "27576010"}, {"citation": "Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.", "PMID": "31978945"}, {"citation": "Al-Tawfiq JA, Momattin H, Dib J, Memish ZA. Ribavirin and interferon therapy in patients infected with the Middle East respiratory syndrome coronavirus: an observational study. Int J Infect Dis. 2014 Mar;20:42-6. doi: 10.1016/j.ijid.2013.12.003. Epub 2014 Jan 6.", "PMID": "24406736"}, {"citation": "Falzarano D, de Wit E, Martellaro C, Callison J, Munster VJ, Feldmann H. Inhibition of novel \u03b2 coronavirus replication by a combination of interferon-\u03b12b and ribavirin. Sci Rep. 2013;3:1686. doi: 10.1038/srep01686.", "PMID": "23594967"}], "results_reference": [{"citation": "Falzarano D, de Wit E, Rasmussen AL, Feldmann F, Okumura A, Scott DP, Brining D, Bushmaker T, Martellaro C, Baseler L, Benecke AG, Katze MG, Munster VJ, Feldmann H. Treatment with interferon-\u03b12b and ribavirin improves outcome in MERS-CoV-infected rhesus macaques. Nat Med. 2013 Oct;19(10):1313-7. doi: 10.1038/nm.3362. Epub 2013 Sep 8.", "PMID": "24013700"}, {"citation": "Kim UJ, Won EJ, Kee SJ, Jung SI, Jang HC. Combination therapy with lopinavir/ritonavir, ribavirin and interferon-\u03b1 for Middle East respiratory syndrome. Antivir Ther. 2016;21(5):455-9. doi: 10.3851/IMP3002. Epub 2015 Oct 22.", "PMID": "26492219"}, {"citation": "Shalhoub S, Farahat F, Al-Jiffri A, Simhairi R, Shamma O, Siddiqi N, Mushtaq A. IFN-\u03b12a or IFN-\u03b21a in combination with ribavirin to treat Middle East respiratory syndrome coronavirus pneumonia: a retrospective study. J Antimicrob Chemother. 2015 Jul;70(7):2129-32. doi: 10.1093/jac/dkv085. Epub 2015 Apr 21.", "PMID": "25900158"}, {"citation": "Min CK, Cheon S, Ha NY, Sohn KM, Kim Y, Aigerim A, Shin HM, Choi JY, Inn KS, Kim JH, Moon JY, Choi MS, Cho NH, Kim YS. Comparative and kinetic analysis of viral shedding and immunological responses in MERS patients representing a broad spectrum of disease severity. Sci Rep. 2016 May 5;6:25359. doi: 10.1038/srep25359.", "PMID": "27146253"}], "verification_date": "March 2020", "study_first_submitted": "February 15, 2020", "study_first_submitted_qc": "March 2, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 3, 2020"}, "last_update_submitted": "March 2, 2020", "last_update_submitted_qc": "March 2, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 3, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Tongji Hospital", "investigator_full_name": "Zhao Jianping", "investigator_title": "Director of Respiratory and Critical Care Medicine , Tongji Hospital of Tongji Medical College, Huazhong University of Science and Technology"}, "condition_browse": {"mesh_term": "Coronavirus Infections"}, "intervention_browse": {"mesh_term": "Interferons"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "231",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04293887"
+        },
+        "id_info": {
+            "org_study_id": "Zhaojp",
+            "nct_id": "NCT04293887"
+        },
+        "brief_title": "Efficacy and Safety of IFN-\u03b12\u03b2 in the Treatment of Novel Coronavirus Patients",
+        "official_title": "Randomized, Open, Blank Control Study on the Efficacy and Safety of Recombinant Human Interferon \u03b11\u03b2 in the Treatment of Patients With New Type of Coronavirus Infection in Wuhan",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Tongji Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Tongji Hospital",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "New coronavirus infection is an important cause of public health emergencies at home and\n      abroad, which seriously affects people's health and social stability. The outbreak of\n      SRAR-COV in China in 2003 caused serious social impact. From January 2002 to August 7, 2003,\n      there were a total of 8,422 cases worldwide, involving 32 countries and regions, of which 919\n      cases were fatal, with a fatality rate of nearly 11%. The fatality rate of elderly patients\n      and patients with underlying diseases was even more high.There is no precise and effective\n      treatment for coronavirus infection. In vitro, IFN-\u03b12\u03b2 has inhibitory effects on MERS-CoV and\n      closely related coronavirus severe acute respiratory syndrome (SARS) -CoV. A study showed the\n      effects of interferon-\u03b12\u03b2 and ribavirin on the replication of nCoV isolates hCoV-EMC / 2012\n      in Vero and LLC-MK2 cells. The combined application may be useful for the management of\n      patients with nCoV infection in the future. At present, the combination therapy of interferon\n      \u03b12\u03b2 and ribavirin has been successfully applied in the initial treatment and prevention of\n      SARS and MERS.The purpose of this study was to evaluate the efficacy and safety of\n      recombinant human interferon \u03b11\u03b2 in treating patients with new coronavirus infection in\n      Wuhan."
+        },
+        "detailed_description": {
+            "textblock": "This study is a multi-center, randomized, open, blank-controlled, multi-stage clinical study.\n      As there are no effective treatments, the project team will evaluate possible treatments\n      (including but not limited to interferon \u03b1) based on actual conditions. , Lopinavir /\n      ritonavir, remdesivir, single / polyclonal antibodies against coronavirus), explore the most\n      effective antiviral treatment options.\n\n      The first phase will assess the efficacy and safety of interferon alpha compared to standard\n      treatment for approximately 328 hospitalized adult patients diagnosed with a new coronavirus\n      infection in Wuhan.\n\n      Patients with COVID-19 within 7 days of onset of symptoms were screened and randomly assigned\n      as soon as possible after screening (within 24 hours). Patients will be allocated in a 1: 1\n      ratio, receiving the interferon alpha treatment group or only the standard treatment group.\n      Patients who do not meet the inclusion and exclusion criteria are only allowed to be\n      re-screened once, provided that the time from symptom onset to randomization remains within 7\n      days.\n\n      This study planned to randomize approximately 328 adult subjects. It will be stratified\n      according to whether the onset time is \u2264 3 days, and randomly divided into groups of 1: 1,\n      receiving standard treatment or interferon alpha atomization twice a day, 1 stick (10ug) each\n      time, treatment course For 10 days. Subjects and all research center staff were not blinded.\n\n      The primary endpoint of this study was the incidence of side effects within 14 days of\n      enrollment. Therefore, a 14-day visit is essential for the data needed for this endpoint.\n      Every effort should be made to ensure that this study visit is completed in a timely manner.\n\n      Out-of-hospital treatment or discharge will reach the discharge standard on the day of\n      implementation and will be implemented in accordance with the Health and Medical Commission's\n      \"Unknown Viral Pneumonia Diagnosis and Treatment Plan (Trial)\". For patients treated outside\n      the hospital or who have been discharged, final assessments are performed by phone and using\n      a questionnaire (if applicable)."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 30, 2020"
+        },
+        "phase": "Early Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "The incidence of side effects",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "dyspnea"
+            },
+            {
+                "measure": "The incidence of side effects",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "SPO2\u226494%"
+            },
+            {
+                "measure": "The incidence of side effects",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "respiratory rate \u226524 breaths/min in oxygen state)"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Time from patient enrollment to clinical remission",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "the patient had a normal body temperature of > for 24 hours (without taking antipyretic drugs or hormones) without self-consciousness Dyspnea or reduced dyspnea;"
+            },
+            {
+                "measure": "Proportion of patients with normal body",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "Proportion of patients with normal body"
+            },
+            {
+                "measure": "Proportion of patients without dyspnea",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "Proportion of patients without dyspnea"
+            },
+            {
+                "measure": "Proportion of patients without cough",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "Proportion of patients without cough"
+            },
+            {
+                "measure": "Proportion",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "Proportion of patients without oxygen treatment"
+            },
+            {
+                "measure": "The negative conversion rate of new coronavirus nucleic acid",
+                "time_frame": "Within 14 days after enrollment",
+                "description": "The negative conversion rate of new coronavirus nucleic acid"
+            },
+            {
+                "measure": "Proportion",
+                "time_frame": "within 28 days after enrollment",
+                "description": "Proportion of patients hospitalized/hospitalized in ICU"
+            },
+            {
+                "measure": "Frequency of serious adverse drug events.",
+                "time_frame": "within 28 days after enrollment",
+                "description": "Frequency of serious adverse drug events."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "328"
+        },
+        "condition": [
+            "COVID-19",
+            "Recombinant Human Interferon \u03b11\u03b2"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Standard therapy + interferon therapy",
+                "arm_group_type": "Experimental",
+                "description": "Standard treatment + recombinant human interferon \u03b11\u03b2 10ug Bid was administered by nebulization for 10 days."
+            },
+            {
+                "arm_group_label": "Standard therapy + blank therapy",
+                "arm_group_type": "No Intervention",
+                "description": "Standard therapy"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Recombinant human interferon \u03b11\u03b2",
+            "description": "Saline needle 2ml + recombinant human interferon \u03b11\u03b210ug bid nebulization inhalation",
+            "arm_group_label": "Standard therapy + interferon therapy"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Age \u2265 18 years;\n\n          2. Clinically diagnosed patients with new type of coronavirus pneumonia, including: in\n             accordance with the criteria for suspected cases, have one of the following etiology\n             evidence:\n\n             \u2460 Real-time fluorescence RT-PCR of respiratory specimens or blood specimens for\n             detection of new coronavirus nucleic acid;\n\n             \u2461 Sequencing of viral genes in respiratory specimens or blood specimens, highly\n             homologous to known new coronavirus\n\n          3. The time interval between the onset of symptoms and random enrollment is within 7\n             days. The onset of symptoms is mainly based on fever. If there is no fever, cough,\n             diarrhea or other related symptoms can be used.\n\n        Exclusion Criteria:\n\n          1. Any situation where the programme cannot be carried out safely;\n\n          2. Patients who have used interferon or remedesivir;\n\n          3. No clinical manifestations and chest imaging findings\n\n          4. Known allergy or hypersensitivity to interferon (including asthma);\n\n          5. Disabled in patients with uncontrolled autoimmune diseases;\n\n          6. Patients with severe heart disease, decompensated liver disease, renal insufficiency\n             (CrCL <50ml / min), and those with abnormal bone marrow function are prohibited;\n\n          7. Epilepsy and impaired central nervous system function;\n\n          8. Pregnancy: Positive pregnancy test for women of childbearing age;\n\n          9. Breastfeeding women have not stopped breastfeeding;\n\n         10. The patient may be transferred to a non-participating hospital within 72 hours."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Jianping Zhao, Ph.D.",
+            "phone": "13507138234",
+            "email": "Zhaojp88@126.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Huilan Zhang, Ph.D.",
+            "phone": "15391532171",
+            "email": "huilanz_76@163.com"
+        },
+        "link": {
+            "url": "http://www.who.int/csr/disease/coronavirus_infections/case-management-ipc/en/",
+            "description": "Related Info"
+        },
+        "reference": [
+            {
+                "citation": "Ksiazek TG, Erdman D, Goldsmith CS, Zaki SR, Peret T, Emery S, Tong S, Urbani C, Comer JA, Lim W, Rollin PE, Dowell SF, Ling AE, Humphrey CD, Shieh WJ, Guarner J, Paddock CD, Rota P, Fields B, DeRisi J, Yang JY, Cox N, Hughes JM, LeDuc JW, Bellini WJ, Anderson LJ; SARS Working Group. A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1953-66. Epub 2003 Apr 10.",
+                "PMID": "12690092"
+            },
+            {
+                "citation": "Drosten C, G\u00fcnther S, Preiser W, van der Werf S, Brodt HR, Becker S, Rabenau H, Panning M, Kolesnikova L, Fouchier RA, Berger A, Burgui\u00e8re AM, Cinatl J, Eickmann M, Escriou N, Grywna K, Kramme S, Manuguerra JC, M\u00fcller S, Rickerts V, St\u00fcrmer M, Vieth S, Klenk HD, Osterhaus AD, Schmitz H, Doerr HW. Identification of a novel coronavirus in patients with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1967-76. Epub 2003 Apr 10.",
+                "PMID": "12690091"
+            },
+            {
+                "citation": "Fehr AR, Channappanavar R, Perlman S. Middle East Respiratory Syndrome: Emergence of a Pathogenic Human Coronavirus. Annu Rev Med. 2017 Jan 14;68:387-399. doi: 10.1146/annurev-med-051215-031152. Epub 2016 Aug 26. Review.",
+                "PMID": "27576010"
+            },
+            {
+                "citation": "Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.",
+                "PMID": "31978945"
+            },
+            {
+                "citation": "Al-Tawfiq JA, Momattin H, Dib J, Memish ZA. Ribavirin and interferon therapy in patients infected with the Middle East respiratory syndrome coronavirus: an observational study. Int J Infect Dis. 2014 Mar;20:42-6. doi: 10.1016/j.ijid.2013.12.003. Epub 2014 Jan 6.",
+                "PMID": "24406736"
+            },
+            {
+                "citation": "Falzarano D, de Wit E, Martellaro C, Callison J, Munster VJ, Feldmann H. Inhibition of novel \u03b2 coronavirus replication by a combination of interferon-\u03b12b and ribavirin. Sci Rep. 2013;3:1686. doi: 10.1038/srep01686.",
+                "PMID": "23594967"
+            }
+        ],
+        "results_reference": [
+            {
+                "citation": "Falzarano D, de Wit E, Rasmussen AL, Feldmann F, Okumura A, Scott DP, Brining D, Bushmaker T, Martellaro C, Baseler L, Benecke AG, Katze MG, Munster VJ, Feldmann H. Treatment with interferon-\u03b12b and ribavirin improves outcome in MERS-CoV-infected rhesus macaques. Nat Med. 2013 Oct;19(10):1313-7. doi: 10.1038/nm.3362. Epub 2013 Sep 8.",
+                "PMID": "24013700"
+            },
+            {
+                "citation": "Kim UJ, Won EJ, Kee SJ, Jung SI, Jang HC. Combination therapy with lopinavir/ritonavir, ribavirin and interferon-\u03b1 for Middle East respiratory syndrome. Antivir Ther. 2016;21(5):455-9. doi: 10.3851/IMP3002. Epub 2015 Oct 22.",
+                "PMID": "26492219"
+            },
+            {
+                "citation": "Shalhoub S, Farahat F, Al-Jiffri A, Simhairi R, Shamma O, Siddiqi N, Mushtaq A. IFN-\u03b12a or IFN-\u03b21a in combination with ribavirin to treat Middle East respiratory syndrome coronavirus pneumonia: a retrospective study. J Antimicrob Chemother. 2015 Jul;70(7):2129-32. doi: 10.1093/jac/dkv085. Epub 2015 Apr 21.",
+                "PMID": "25900158"
+            },
+            {
+                "citation": "Min CK, Cheon S, Ha NY, Sohn KM, Kim Y, Aigerim A, Shin HM, Choi JY, Inn KS, Kim JH, Moon JY, Choi MS, Cho NH, Kim YS. Comparative and kinetic analysis of viral shedding and immunological responses in MERS patients representing a broad spectrum of disease severity. Sci Rep. 2016 May 5;6:25359. doi: 10.1038/srep25359.",
+                "PMID": "27146253"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "February 15, 2020",
+        "study_first_submitted_qc": "March 2, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 3, 2020"
+        },
+        "last_update_submitted": "March 2, 2020",
+        "last_update_submitted_qc": "March 2, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Tongji Hospital",
+            "investigator_full_name": "Zhao Jianping",
+            "investigator_title": "Director of Respiratory and Critical Care Medicine , Tongji Hospital of Tongji Medical College, Huazhong University of Science and Technology"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "intervention_browse": {
+            "mesh_term": "Interferons"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,1 +1,231 @@
-{"clinical_study": {"@rank": "104", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04276896"}, "id_info": {"org_study_id": "GIMI-IRB-20001", "nct_id": "NCT04276896"}, "brief_title": "Immunity and Safety of Covid-19 Synthetic Minigene Vaccine", "official_title": "Phase I/II Multicenter Trial of Lentiviral Minigene Vaccine (LV-SMENP) of Covid-19 Coronavirus", "sponsors": {"lead_sponsor": {"agency": "Shenzhen Geno-Immune Medical Institute", "agency_class": "Other"}, "collaborator": [{"agency": "Shenzhen Third People's Hospital", "agency_class": "Other"}, {"agency": "Shenzhen Second People's Hospital", "agency_class": "Other"}]}, "source": "Shenzhen Geno-Immune Medical Institute", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "In December 2019, viral pneumonia caused by a novel beta-coronavirus (Covid-19) broke out in\n      Wuhan, China. Some patients rapidly progressed and suffered severe acute respiratory failure\n      and died, making it imperative to develop a safe and effective vaccine to treat and prevent\n      severe Covid-19 pneumonia. Based on detailed analysis of the viral genome and search for\n      potential immunogenic targets, a synthetic minigene has been engineered based on conserved\n      domains of the viral structural proteins and a polyprotein protease. The infection of\n      Covid-19 is mediated through binding of the Spike protein to the ACEII receptor, and the\n      viral replication depends on molecular mechanisms of all of these viral proteins. This trial\n      proposes to develop and test innovative Covid-19 minigenes engineered based on multiple viral\n      genes, using an efficient lentiviral vector system (NHP/TYF) to express viral proteins and\n      immune modulatory genes to modify dendritic cells (DCs) and to activate T cells. In this\n      study, the safety and efficacy of this LV vaccine (LV-SMENP) will be investigated."}, "detailed_description": {"textblock": "Background: The 2019 discovered new coronavirus, Covid-19, is an enveloped positive strand\n      single strand RNA virus. The number of Covid-19 infected people has increased rapidly and WHO\n      has warned that the spread of Covid-19 may soon become pandemic and have disastrous outcomes.\n      Covid-19 could pose a serious threat to human health and global economy. There is no vaccine\n      available or clinically approved antiviral therapy as yet. This study aims to evaluate the\n      safety and efficacy of treating Covid-19 infections with a novel lentiviral based DC and T\n      cell vaccines.\n\n      Objective: Primary study objectives: Injection and infusion of LV-SMENP DC and\n      antigen-specific cytotoxic T cell vaccines to healthy volunteers and Covid-19 infected\n      patients to evaluate the safety.\n\n      Secondary study objectives: To evaluate the anti- Covid-19 efficacy of the LV-SMENP DC and\n      antigen-specific cytotoxic T cell vaccines.\n\n      Design:\n\n        1. Based on the genomic sequence of the new coronavirus Covid-19, select conserved and\n           critical structural and protease protein domains to engineer lentiviral SMENP minigenes\n           to express Covid-19 antigens.\n\n        2. LV-SMENP-DC vaccine is made by modifying DC with lentivirus vectors expressing Covid-19\n           minigene SMENP and immune modulatory genes. CTLs will be activated by LV-DC presenting\n           Covid-19 specific antigens.\n\n        3. LV-DC vaccine and antigen-specific CTLs are prepared in 7~21 days. Subject will receive\n           total 5x10^6 cells of LV-DC vaccine and 1x10^8 antigen-specific CTLs via sub-cutaneous\n           injection and IV infusion, respectively. Patients are followed weekly for one month\n           after the infusion, monthly for 3 months, and then every 3 months until the trial ends."}, "overall_status": "Recruiting", "start_date": {"@type": "Anticipated", "#text": "March 24, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 31, 2024"}, "primary_completion_date": {"@type": "Anticipated", "#text": "July 31, 2023"}, "phase": "Phase 1/Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Clinical improvement based on the 7-point scale", "time_frame": "28 days after randomization", "description": "A decline of 2 points on the 7-point scale from admission means better outcome. The 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."}, {"measure": "Lower Murray lung injury score", "time_frame": "7 days after randomization", "description": "Murray lung injury score decrease more than one point means better outcome. The Murray scoring system range from 0 to 4 according to the severity of the condition."}], "secondary_outcome": [{"measure": "28-day mortality", "time_frame": "Measured from Day 0 through Day 28", "description": "Number of deaths during study follow-up"}, {"measure": "Duration of mechanical ventilation", "time_frame": "Measured from Day 0 through Day 28", "description": "Duration of mechanical ventilation use in days. Multiple mechanical ventilation durations are summed up."}, {"measure": "Duration of hospitalization", "time_frame": "Measured from Day 0 through Day 28", "description": "Days that a participant spent at the hospital. Multiple hospitalizations are summed up."}, {"measure": "Proportion of patients with negative RT-PCR results", "time_frame": "7 and 14 days after randomization", "description": "Proportion of patients with negative RT-PCR results of virus in upper and/or lower respiratory tract samples."}, {"measure": "Proportion of patients in each category of the 7-point scale", "time_frame": "7,14 and 28 days after randomization", "description": "Proportion of patients in each category of the 7-point scale, the 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."}, {"measure": "Proportion of patients with normalized inflammation factors", "time_frame": "7 and 14 days after randomization", "description": "Proportion of patients with different inflammation factors in normalization range."}, {"measure": "Frequency of vaccine/CTL Events", "time_frame": "Measured from Day 0 through Day 28", "description": "Frequency of vaccine/CTL Events"}, {"measure": "Frequency of Serious vaccine/CTL Events", "time_frame": "Measured from Day 0 through Day 28", "description": "Frequency of Serious vaccine/CTL Events"}], "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "100"}, "condition": "Pathogen Infection Covid-19 Infection", "arm_group": {"arm_group_label": "pathogen-specific DC and CTLs", "arm_group_type": "Experimental", "description": "Patients will receive approximately 5x10^6 LV-DC vaccine and 1x10^8 CTLs via sub-cutaneous injections and iv infusions, respectively."}, "intervention": {"intervention_type": "Biological", "intervention_name": "Injection and infusion of LV-SMENP-DC vaccine and antigen-specific CTLs", "description": "Patients will receive approximately 5x10^6 LV-DC vaccine and 1x10^8 CTLs via sub-cutaneous injections and iv infusions, respectively.", "arm_group_label": "pathogen-specific DC and CTLs"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Laboratory (RT-PCR) confirmed Covid-19 infection in throat swab and/or sputum and/or\n             lower respiratory tract samples;\n\n          -  The interval between the onset of symptoms and randomized is within 7 days. The onset\n             of symptoms is mainly based on fever. If there is no fever, cough or other related\n             symptoms can be used;\n\n          -  White blood cells \u2265 3,500 / \u03bcl, lymphocytes \u2265 750 / \u03bcl;\n\n          -  Human immunodeficiency virus (HIV), hepatitis B virus (HBV), hepatitis C virus (HCV)\n             or tuberculosis (TB) test is negative;\n\n          -  Sign the Informed Consent Form on a voluntary basis;\n\n        Exclusion Criteria:\n\n          -  Subject infected with HCV (HCV antibody positive), HBV (HBsAg positive), HIV (HIV\n             antibody positive), or HTLV (HTLV antibody positive).\n\n          -  Subject is albumin-intolerant.\n\n          -  Subject with life expectancy less than 4 weeks.\n\n          -  Subject participated in other investigational somatic cell therapies within past 30\n             days.\n\n          -  Subject with positive pregnancy test result.\n\n          -  Researchers consider unsuitable."}, "gender": "All", "minimum_age": "6 Months", "maximum_age": "80 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Lung-Ji Chang, PhD", "role": "Principal Investigator", "affiliation": "Shenzhen Geno-Immune Medical Institute"}, "overall_contact": {"last_name": "Lung-Ji Chang, PhD", "phone": "+86(755)8672 5195", "email": "c@szgimi.org"}, "location": [{"facility": {"name": "Shenzhen Geno-immune Medical Institute", "address": {"city": "Shenzhen", "state": "Guangdong", "zip": "518000", "country": "China"}}, "status": "Recruiting", "contact": {"last_name": "Lung-Ji Chang, PhD", "phone": "86-755-86725195", "email": "c@szgimi.org"}}, {"facility": {"name": "Shenzhen Second People's Hospital", "address": {"city": "Shenzhen", "state": "Guangdong", "zip": "518000", "country": "China"}}, "status": "Recruiting"}, {"facility": {"name": "Shenzhen Third People's Hospital", "address": {"city": "Shenzhen", "state": "Guangdong", "zip": "518000", "country": "China"}}, "status": "Recruiting"}], "location_countries": {"country": "China"}, "verification_date": "March 2020", "study_first_submitted": "February 17, 2020", "study_first_submitted_qc": "February 17, 2020", "study_first_posted": {"@type": "Actual", "#text": "February 19, 2020"}, "last_update_submitted": "March 17, 2020", "last_update_submitted_qc": "March 17, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 19, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["Lentiviral vector", "LV-DC vaccine", "Covid-19 CTL"], "condition_browse": {"mesh_term": "Infection"}, "intervention_browse": {"mesh_term": "Vaccines"}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "104",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04276896"
+        },
+        "id_info": {
+            "org_study_id": "GIMI-IRB-20001",
+            "nct_id": "NCT04276896"
+        },
+        "brief_title": "Immunity and Safety of Covid-19 Synthetic Minigene Vaccine",
+        "official_title": "Phase I/II Multicenter Trial of Lentiviral Minigene Vaccine (LV-SMENP) of Covid-19 Coronavirus",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Shenzhen Geno-Immune Medical Institute",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Shenzhen Third People's Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Shenzhen Second People's Hospital",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Shenzhen Geno-Immune Medical Institute",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "In December 2019, viral pneumonia caused by a novel beta-coronavirus (Covid-19) broke out in\n      Wuhan, China. Some patients rapidly progressed and suffered severe acute respiratory failure\n      and died, making it imperative to develop a safe and effective vaccine to treat and prevent\n      severe Covid-19 pneumonia. Based on detailed analysis of the viral genome and search for\n      potential immunogenic targets, a synthetic minigene has been engineered based on conserved\n      domains of the viral structural proteins and a polyprotein protease. The infection of\n      Covid-19 is mediated through binding of the Spike protein to the ACEII receptor, and the\n      viral replication depends on molecular mechanisms of all of these viral proteins. This trial\n      proposes to develop and test innovative Covid-19 minigenes engineered based on multiple viral\n      genes, using an efficient lentiviral vector system (NHP/TYF) to express viral proteins and\n      immune modulatory genes to modify dendritic cells (DCs) and to activate T cells. In this\n      study, the safety and efficacy of this LV vaccine (LV-SMENP) will be investigated."
+        },
+        "detailed_description": {
+            "textblock": "Background: The 2019 discovered new coronavirus, Covid-19, is an enveloped positive strand\n      single strand RNA virus. The number of Covid-19 infected people has increased rapidly and WHO\n      has warned that the spread of Covid-19 may soon become pandemic and have disastrous outcomes.\n      Covid-19 could pose a serious threat to human health and global economy. There is no vaccine\n      available or clinically approved antiviral therapy as yet. This study aims to evaluate the\n      safety and efficacy of treating Covid-19 infections with a novel lentiviral based DC and T\n      cell vaccines.\n\n      Objective: Primary study objectives: Injection and infusion of LV-SMENP DC and\n      antigen-specific cytotoxic T cell vaccines to healthy volunteers and Covid-19 infected\n      patients to evaluate the safety.\n\n      Secondary study objectives: To evaluate the anti- Covid-19 efficacy of the LV-SMENP DC and\n      antigen-specific cytotoxic T cell vaccines.\n\n      Design:\n\n        1. Based on the genomic sequence of the new coronavirus Covid-19, select conserved and\n           critical structural and protease protein domains to engineer lentiviral SMENP minigenes\n           to express Covid-19 antigens.\n\n        2. LV-SMENP-DC vaccine is made by modifying DC with lentivirus vectors expressing Covid-19\n           minigene SMENP and immune modulatory genes. CTLs will be activated by LV-DC presenting\n           Covid-19 specific antigens.\n\n        3. LV-DC vaccine and antigen-specific CTLs are prepared in 7~21 days. Subject will receive\n           total 5x10^6 cells of LV-DC vaccine and 1x10^8 antigen-specific CTLs via sub-cutaneous\n           injection and IV infusion, respectively. Patients are followed weekly for one month\n           after the infusion, monthly for 3 months, and then every 3 months until the trial ends."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 24, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2024"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 31, 2023"
+        },
+        "phase": "Phase 1/Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Clinical improvement based on the 7-point scale",
+                "time_frame": "28 days after randomization",
+                "description": "A decline of 2 points on the 7-point scale from admission means better outcome. The 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."
+            },
+            {
+                "measure": "Lower Murray lung injury score",
+                "time_frame": "7 days after randomization",
+                "description": "Murray lung injury score decrease more than one point means better outcome. The Murray scoring system range from 0 to 4 according to the severity of the condition."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "28-day mortality",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Number of deaths during study follow-up"
+            },
+            {
+                "measure": "Duration of mechanical ventilation",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Duration of mechanical ventilation use in days. Multiple mechanical ventilation durations are summed up."
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Days that a participant spent at the hospital. Multiple hospitalizations are summed up."
+            },
+            {
+                "measure": "Proportion of patients with negative RT-PCR results",
+                "time_frame": "7 and 14 days after randomization",
+                "description": "Proportion of patients with negative RT-PCR results of virus in upper and/or lower respiratory tract samples."
+            },
+            {
+                "measure": "Proportion of patients in each category of the 7-point scale",
+                "time_frame": "7,14 and 28 days after randomization",
+                "description": "Proportion of patients in each category of the 7-point scale, the 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."
+            },
+            {
+                "measure": "Proportion of patients with normalized inflammation factors",
+                "time_frame": "7 and 14 days after randomization",
+                "description": "Proportion of patients with different inflammation factors in normalization range."
+            },
+            {
+                "measure": "Frequency of vaccine/CTL Events",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Frequency of vaccine/CTL Events"
+            },
+            {
+                "measure": "Frequency of Serious vaccine/CTL Events",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Frequency of Serious vaccine/CTL Events"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "Pathogen Infection Covid-19 Infection",
+        "arm_group": {
+            "arm_group_label": "pathogen-specific DC and CTLs",
+            "arm_group_type": "Experimental",
+            "description": "Patients will receive approximately 5x10^6 LV-DC vaccine and 1x10^8 CTLs via sub-cutaneous injections and iv infusions, respectively."
+        },
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "Injection and infusion of LV-SMENP-DC vaccine and antigen-specific CTLs",
+            "description": "Patients will receive approximately 5x10^6 LV-DC vaccine and 1x10^8 CTLs via sub-cutaneous injections and iv infusions, respectively.",
+            "arm_group_label": "pathogen-specific DC and CTLs"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Laboratory (RT-PCR) confirmed Covid-19 infection in throat swab and/or sputum and/or\n             lower respiratory tract samples;\n\n          -  The interval between the onset of symptoms and randomized is within 7 days. The onset\n             of symptoms is mainly based on fever. If there is no fever, cough or other related\n             symptoms can be used;\n\n          -  White blood cells \u2265 3,500 / \u03bcl, lymphocytes \u2265 750 / \u03bcl;\n\n          -  Human immunodeficiency virus (HIV), hepatitis B virus (HBV), hepatitis C virus (HCV)\n             or tuberculosis (TB) test is negative;\n\n          -  Sign the Informed Consent Form on a voluntary basis;\n\n        Exclusion Criteria:\n\n          -  Subject infected with HCV (HCV antibody positive), HBV (HBsAg positive), HIV (HIV\n             antibody positive), or HTLV (HTLV antibody positive).\n\n          -  Subject is albumin-intolerant.\n\n          -  Subject with life expectancy less than 4 weeks.\n\n          -  Subject participated in other investigational somatic cell therapies within past 30\n             days.\n\n          -  Subject with positive pregnancy test result.\n\n          -  Researchers consider unsuitable."
+            },
+            "gender": "All",
+            "minimum_age": "6 Months",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Lung-Ji Chang, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Shenzhen Geno-Immune Medical Institute"
+        },
+        "overall_contact": {
+            "last_name": "Lung-Ji Chang, PhD",
+            "phone": "+86(755)8672 5195",
+            "email": "c@szgimi.org"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Shenzhen Geno-immune Medical Institute",
+                    "address": {
+                        "city": "Shenzhen",
+                        "state": "Guangdong",
+                        "zip": "518000",
+                        "country": "China"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Lung-Ji Chang, PhD",
+                    "phone": "86-755-86725195",
+                    "email": "c@szgimi.org"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Shenzhen Second People's Hospital",
+                    "address": {
+                        "city": "Shenzhen",
+                        "state": "Guangdong",
+                        "zip": "518000",
+                        "country": "China"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Shenzhen Third People's Hospital",
+                    "address": {
+                        "city": "Shenzhen",
+                        "state": "Guangdong",
+                        "zip": "518000",
+                        "country": "China"
+                    }
+                },
+                "status": "Recruiting"
+            }
+        ],
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "February 17, 2020",
+        "study_first_submitted_qc": "February 17, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "February 19, 2020"
+        },
+        "last_update_submitted": "March 17, 2020",
+        "last_update_submitted_qc": "March 17, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Lentiviral vector",
+            "LV-DC vaccine",
+            "Covid-19 CTL"
+        ],
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "intervention_browse": {
+            "mesh_term": "Vaccines"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

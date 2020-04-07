@@ -1,1 +1,335 @@
-{"clinical_study": {"@rank": "161", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04321096"}, "id_info": {"org_study_id": "2020-001200-42", "nct_id": "NCT04321096"}, "brief_title": "The Impact of Camostat Mesilate on COVID-19 Infection", "acronym": "CamoCO-19", "official_title": "The Impact of Camostat Mesilate on COVID-19 Infection: An Investigator-initiated Randomized, Placebo-controlled, Phase IIa Trial", "sponsors": {"lead_sponsor": {"agency": "University of Aarhus", "agency_class": "Other"}}, "source": "University of Aarhus", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "SARS-CoV-2, one of a family of human coronaviruses, was initially identified in December 2019\n      in Wuhan city. This new coronavirus causes a disease presentation which has now been named\n      COVID-19. The virus has subsequently spread throughout the world and was declared a pandemic\n      by the World Health Organisation on 11th March 2020. As of 18 March 2020, there are 198,193\n      number of confirmed cases with an estimated case-fatality of 3%. There is no approved therapy\n      for COVID-19 and the current standard of care is supportive treatment.\n\n      SARS-CoV-2 exploits the cell entry receptor protein angiotensin converting enzyme II (ACE-2)\n      to access and infect human cells. The interaction between ACE2 and the spike protein is not\n      in the active site. This process requires the serine protease TMPRSS2. Camostat Mesilate is a\n      potent serine protease inhibitor. Utilizing research on severe acute respiratory syndrome\n      coronavirus (SARS-CoV) and the closely related SARS-CoV-2 cell entry mechanism, it has been\n      demonstrated that SARS-CoV-2 cellular entry can be blocked by camostat mesilate. In mice,\n      camostat mesilate dosed at concentrations similar to the clinically achievable concentration\n      in humans reduced mortality following SARS-CoV infection from 100% to 30-35%."}, "overall_status": "Recruiting", "start_date": {"@type": "Anticipated", "#text": "March 31, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "May 1, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 31, 2020"}, "phase": "Phase 1/Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)", "masking_description": "Placebo-controlled"}, "primary_outcome": {"measure": "Days to clinical improvement from study enrolment", "time_frame": "30 days", "description": "Clinical improvement defined as live hospital discharge OR a 2 point improvement (from time of enrolment) in disease severity rating on the 7-point ordinal scale"}, "secondary_outcome": [{"measure": "Safety evaluation, as measured by AEs, Adverse Reactions (ARs), SAEs, Serious ARs (SARs)", "time_frame": "30 days"}, {"measure": "Clinical status as assessed by the 7-point ordinal scale at day 7, 14 and 30", "time_frame": "30 days", "description": "The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities."}, {"measure": "Day 30 mortality", "time_frame": "30 days", "description": "Mortality"}, {"measure": "Change in NEW(2) score from baseline to day 30", "time_frame": "30 days", "description": "NEWS2"}, {"measure": "Admission to ICU", "time_frame": "30 days", "description": "ICU"}, {"measure": "Use of invasive mechanical ventilation or ECMO", "time_frame": "30 days", "description": "invasive mechanical ventilation or ECMO"}, {"measure": "Duration of supplemental oxygen (days)", "time_frame": "30 days", "description": "Nasal or high-flow oxygen"}, {"measure": "Days to self-reported recovery (e.g. limitations in daily life activities) during telephone interviews conducted at day 30", "time_frame": "30 days", "description": "Subjective clinical improvement"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "180"}, "condition": "Corona Virus Infection", "arm_group": [{"arm_group_label": "Placebo", "arm_group_type": "Placebo Comparator", "description": "2 pills 3 times daily for 5 days"}, {"arm_group_label": "Camostat Mesilate", "arm_group_type": "Experimental", "description": "2x100 mg pills 3 times daily for 5 days"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Camostat Mesilate", "description": "Serine protease inhibitor that blocks TMPRSS-2 mediated cell entry of SARS-CoV-2", "arm_group_label": "Camostat Mesilate", "other_name": "Foipan"}, {"intervention_type": "Drug", "intervention_name": "Placebo oral tablet", "description": "Placebo", "arm_group_label": "Placebo", "other_name": "Placebo"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Documented COVID-19 infection as evidenced by positive PCR (or comparable clinical\n             assay) for SARS-CoV-2\n\n          -  Less than 48 hours since time of hospital admission OR if hospital-acquired COVID-19\n             is suspected, less than 48 hrs since onset of symptoms\n\n          -  Adolescents and adults age >=16 years\n\n          -  Subject or legally authorized representative able to give informed consent\n\n          -  Admitted to hospital\n\n        Exclusion Criteria:\n\n          -  Any condition that, in the Investigator's opinion, will prevent adequate compliance\n             with study therapy\n\n          -  The following laboratory values at baseline (Day 0):\n\n          -  Serum total bilirubin \u22653 ULN\n\n          -  Estimated glomerular filtration rate (eGFR) \u226430 mL/min (based on serum creatinine)\n\n          -  Known hypersensitivity to Camostat Mesilate\n\n          -  Women who are pregnant or breastfeeding"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "110 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Lars \u00d8stergaard, Professor", "role": "Study Chair", "affiliation": "Head of Department"}, "overall_contact": {"last_name": "Ole S S\u00f8gaard, MD PhD", "phone": "+45 2499 4962", "email": "olesoega@rm.dk"}, "location": [{"facility": {"name": "Department of Infectious Diseases", "address": {"city": "Aalborg", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Jacob Bodilsen"}}, {"facility": {"name": "Department for Infectious Diseases, Aarhus University Hospital", "address": {"city": "Aarhus N", "zip": "8200", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Ole S S\u00f8gaard, MD, PhD", "phone": "+45 2499 4962", "email": "olesoega@rm.dk"}, "investigator": {"last_name": "Ole S Soegaard, MD, PhD", "role": "Principal Investigator"}}, {"facility": {"name": "Herning Regional Hospital", "address": {"city": "Herning", "zip": "7400", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Lars S Dalgaard, MD"}}, {"facility": {"name": "Northzealands hospital - Hiller\u00f8d", "address": {"city": "Hiller\u00f8d", "zip": "3400", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Nicolai L Lohse, MD"}}, {"facility": {"name": "Horsens Regional Hospital", "address": {"city": "Horsens", "zip": "8700", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Ulf G H\u00f8rlyk, MD"}}, {"facility": {"name": "Bispebjerg hospital", "address": {"city": "K\u00f8benhavn", "zip": "2400", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Stine Johnsen, MD"}}, {"facility": {"name": "Dept. of Infectious Diseases, Odense University Hospital", "address": {"city": "Odense", "zip": "5000", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Isik S. Johansen, MD"}}, {"facility": {"name": "Randers Regional Hospital", "address": {"city": "Randers", "zip": "8900", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Bo H\u00f8nge, MD"}}, {"facility": {"name": "Silkeborg Hospital", "address": {"city": "Silkeborg", "zip": "8600", "country": "Denmark"}}, "status": "Recruiting", "contact": {"last_name": "Britta Tarp, MD"}}], "location_countries": {"country": "Denmark"}, "verification_date": "March 2020", "study_first_submitted": "March 23, 2020", "study_first_submitted_qc": "March 24, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 25, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["COVID-19", "SARS-CoV-2"], "condition_browse": {"mesh_term": ["Infection", "Communicable Diseases", "Coronavirus Infections", "Severe Acute Respiratory Syndrome", "Virus Diseases"]}, "intervention_browse": {"mesh_term": ["Gabexate", "Camostat"]}, "patient_data": {"sharing_ipd": "Yes", "ipd_description": "Data sharing plan: Individual deidentified participant data (including data dictionaries) will be shared following the publication of the primary and secondary endpoints as outlined in this protocol. Data to be shared includes deidentified data points in published, peer-reviewed articles. Additional, related documents will also be available (study protocol, informed consent form, statistical analysis plan). Data will become available following publication with no planned end date.", "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)", "Informed Consent Form (ICF)"], "ipd_access_criteria": "Access to the data sharing will be given to researchers who provide a methodologically sound proposal for any type of analysis and requires IRB/Ethics committee approval (if applicable). Proposals should be addressed to olesoega@rm.dk."}}}
+{
+    "clinical_study": {
+        "@rank": "161",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04321096"
+        },
+        "id_info": {
+            "org_study_id": "2020-001200-42",
+            "nct_id": "NCT04321096"
+        },
+        "brief_title": "The Impact of Camostat Mesilate on COVID-19 Infection",
+        "acronym": "CamoCO-19",
+        "official_title": "The Impact of Camostat Mesilate on COVID-19 Infection: An Investigator-initiated Randomized, Placebo-controlled, Phase IIa Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Aarhus",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Aarhus",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "SARS-CoV-2, one of a family of human coronaviruses, was initially identified in December 2019\n      in Wuhan city. This new coronavirus causes a disease presentation which has now been named\n      COVID-19. The virus has subsequently spread throughout the world and was declared a pandemic\n      by the World Health Organisation on 11th March 2020. As of 18 March 2020, there are 198,193\n      number of confirmed cases with an estimated case-fatality of 3%. There is no approved therapy\n      for COVID-19 and the current standard of care is supportive treatment.\n\n      SARS-CoV-2 exploits the cell entry receptor protein angiotensin converting enzyme II (ACE-2)\n      to access and infect human cells. The interaction between ACE2 and the spike protein is not\n      in the active site. This process requires the serine protease TMPRSS2. Camostat Mesilate is a\n      potent serine protease inhibitor. Utilizing research on severe acute respiratory syndrome\n      coronavirus (SARS-CoV) and the closely related SARS-CoV-2 cell entry mechanism, it has been\n      demonstrated that SARS-CoV-2 cellular entry can be blocked by camostat mesilate. In mice,\n      camostat mesilate dosed at concentrations similar to the clinically achievable concentration\n      in humans reduced mortality following SARS-CoV infection from 100% to 30-35%."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "phase": "Phase 1/Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",
+            "masking_description": "Placebo-controlled"
+        },
+        "primary_outcome": {
+            "measure": "Days to clinical improvement from study enrolment",
+            "time_frame": "30 days",
+            "description": "Clinical improvement defined as live hospital discharge OR a 2 point improvement (from time of enrolment) in disease severity rating on the 7-point ordinal scale"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Safety evaluation, as measured by AEs, Adverse Reactions (ARs), SAEs, Serious ARs (SARs)",
+                "time_frame": "30 days"
+            },
+            {
+                "measure": "Clinical status as assessed by the 7-point ordinal scale at day 7, 14 and 30",
+                "time_frame": "30 days",
+                "description": "The ordinal scale is an assessment of the clinical status at the first assessment of a given study day. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities."
+            },
+            {
+                "measure": "Day 30 mortality",
+                "time_frame": "30 days",
+                "description": "Mortality"
+            },
+            {
+                "measure": "Change in NEW(2) score from baseline to day 30",
+                "time_frame": "30 days",
+                "description": "NEWS2"
+            },
+            {
+                "measure": "Admission to ICU",
+                "time_frame": "30 days",
+                "description": "ICU"
+            },
+            {
+                "measure": "Use of invasive mechanical ventilation or ECMO",
+                "time_frame": "30 days",
+                "description": "invasive mechanical ventilation or ECMO"
+            },
+            {
+                "measure": "Duration of supplemental oxygen (days)",
+                "time_frame": "30 days",
+                "description": "Nasal or high-flow oxygen"
+            },
+            {
+                "measure": "Days to self-reported recovery (e.g. limitations in daily life activities) during telephone interviews conducted at day 30",
+                "time_frame": "30 days",
+                "description": "Subjective clinical improvement"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "180"
+        },
+        "condition": "Corona Virus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "2 pills 3 times daily for 5 days"
+            },
+            {
+                "arm_group_label": "Camostat Mesilate",
+                "arm_group_type": "Experimental",
+                "description": "2x100 mg pills 3 times daily for 5 days"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Camostat Mesilate",
+                "description": "Serine protease inhibitor that blocks TMPRSS-2 mediated cell entry of SARS-CoV-2",
+                "arm_group_label": "Camostat Mesilate",
+                "other_name": "Foipan"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo oral tablet",
+                "description": "Placebo",
+                "arm_group_label": "Placebo",
+                "other_name": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Documented COVID-19 infection as evidenced by positive PCR (or comparable clinical\n             assay) for SARS-CoV-2\n\n          -  Less than 48 hours since time of hospital admission OR if hospital-acquired COVID-19\n             is suspected, less than 48 hrs since onset of symptoms\n\n          -  Adolescents and adults age >=16 years\n\n          -  Subject or legally authorized representative able to give informed consent\n\n          -  Admitted to hospital\n\n        Exclusion Criteria:\n\n          -  Any condition that, in the Investigator's opinion, will prevent adequate compliance\n             with study therapy\n\n          -  The following laboratory values at baseline (Day 0):\n\n          -  Serum total bilirubin \u22653 ULN\n\n          -  Estimated glomerular filtration rate (eGFR) \u226430 mL/min (based on serum creatinine)\n\n          -  Known hypersensitivity to Camostat Mesilate\n\n          -  Women who are pregnant or breastfeeding"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "110 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Lars \u00d8stergaard, Professor",
+            "role": "Study Chair",
+            "affiliation": "Head of Department"
+        },
+        "overall_contact": {
+            "last_name": "Ole S S\u00f8gaard, MD PhD",
+            "phone": "+45 2499 4962",
+            "email": "olesoega@rm.dk"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Department of Infectious Diseases",
+                    "address": {
+                        "city": "Aalborg",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jacob Bodilsen"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Department for Infectious Diseases, Aarhus University Hospital",
+                    "address": {
+                        "city": "Aarhus N",
+                        "zip": "8200",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ole S S\u00f8gaard, MD, PhD",
+                    "phone": "+45 2499 4962",
+                    "email": "olesoega@rm.dk"
+                },
+                "investigator": {
+                    "last_name": "Ole S Soegaard, MD, PhD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Herning Regional Hospital",
+                    "address": {
+                        "city": "Herning",
+                        "zip": "7400",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Lars S Dalgaard, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Northzealands hospital - Hiller\u00f8d",
+                    "address": {
+                        "city": "Hiller\u00f8d",
+                        "zip": "3400",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Nicolai L Lohse, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Horsens Regional Hospital",
+                    "address": {
+                        "city": "Horsens",
+                        "zip": "8700",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ulf G H\u00f8rlyk, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Bispebjerg hospital",
+                    "address": {
+                        "city": "K\u00f8benhavn",
+                        "zip": "2400",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Stine Johnsen, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Dept. of Infectious Diseases, Odense University Hospital",
+                    "address": {
+                        "city": "Odense",
+                        "zip": "5000",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Isik S. Johansen, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Randers Regional Hospital",
+                    "address": {
+                        "city": "Randers",
+                        "zip": "8900",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Bo H\u00f8nge, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Silkeborg Hospital",
+                    "address": {
+                        "city": "Silkeborg",
+                        "zip": "8600",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Britta Tarp, MD"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Denmark"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 23, 2020",
+        "study_first_submitted_qc": "March 24, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-CoV-2"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Gabexate",
+                "Camostat"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "Data sharing plan: Individual deidentified participant data (including data dictionaries) will be shared following the publication of the primary and secondary endpoints as outlined in this protocol. Data to be shared includes deidentified data points in published, peer-reviewed articles. Additional, related documents will also be available (study protocol, informed consent form, statistical analysis plan). Data will become available following publication with no planned end date.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)"
+            ],
+            "ipd_access_criteria": "Access to the data sharing will be given to researchers who provide a methodologically sound proposal for any type of analysis and requires IRB/Ethics committee approval (if applicable). Proposals should be addressed to olesoega@rm.dk."
+        }
+    }
+}

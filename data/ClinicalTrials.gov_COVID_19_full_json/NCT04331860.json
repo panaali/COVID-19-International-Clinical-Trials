@@ -1,1 +1,149 @@
-{"clinical_study": {"@rank": "3", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 03, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04331860"}, "id_info": {"org_study_id": "C19REG", "nct_id": "NCT04331860"}, "brief_title": "COVID-19 Public Image Registry", "acronym": "C19REG", "official_title": "COVID-19 Public Image Registry", "sponsors": {"lead_sponsor": {"agency": "RAD-AID International", "agency_class": "Other"}, "collaborator": [{"agency": "BioClinica, Inc.", "agency_class": "Industry"}, {"agency": "Google Inc.", "agency_class": "Industry"}]}, "source": "RAD-AID International", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The COVID-19 Public Image Registry is a global de-identified medical image registry for\n      patients suspected/confirmed to have Covid-19 infection."}, "detailed_description": {"textblock": "This project is an observational registry where the patient's images are already acquired as\n      part of standard clinical care. The data undergoes 100% de-identification with multiple\n      confirmation steps. Therefore ,no patient identifiers will be collected and the images cannot\n      be linked back to the patient.\n\n      The image repository will be made an open public health resource for researchers under a\n      Creative Commons license similar to the ACR's various National Radiology Data Registries.\n      There are no commercial aspects to this project. All sponsors are donating their services as\n      a humanitarian effort."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 30, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 30, 2025"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 30, 2025"}, "study_type": "Observational [Patient Registry]", "has_expanded_access": "No", "study_design_info": {"observational_model": "Other", "time_perspective": "Prospective"}, "target_duration": "5 Years", "primary_outcome": {"measure": "CT or Xray images from COVID-19 patients", "time_frame": "through study completion, an average of 2 years", "description": "DICOM format, de-identified images"}, "enrollment": {"@type": "Anticipated", "#text": "500000"}, "condition": "COVID-19", "intervention": {"intervention_type": "Other", "intervention_name": "No intervention", "description": "There is no intervention, this is an observational registry"}, "eligibility": {"study_pop": {"textblock": "Suspected or known Covid-19 infection (currently or previously), 18 or over, undergoing a\n        medical imaging exam"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  18 years or older\n\n          -  Suspected or known Covid-19 infection (currently or previously)\n\n          -  Image procedure performed as part of a Covid-19 exam with the images available in\n             DICOM format\n\n        Exclusion Criteria:\n\n        \u2022 Under age 18"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "100 Years", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_official": {"last_name": "Daniel Mollura, MD", "role": "Principal Investigator", "affiliation": "Rad-AID"}, "overall_contact": {"last_name": "Dan Gebow, PhD", "phone": "415-244-1481", "email": "dgebow@gmail.com"}, "location": {"facility": {"name": "To be determined", "address": {"city": "San Francisco", "state": "California", "zip": "94960", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "TBD TBD", "phone": "415-244-1481", "email": "TBD@TBD.com"}}, "location_countries": {"country": "United States"}, "verification_date": "March 2020", "study_first_submitted": "March 30, 2020", "study_first_submitted_qc": "March 31, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 2, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["covid-19", "coronavirus", "registry", "imaging"], "patient_data": {"sharing_ipd": "No", "ipd_description": "All data will be shared, but in a de-identified state."}}}
+{
+    "clinical_study": {
+        "@rank": "3",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 03, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04331860"
+        },
+        "id_info": {
+            "org_study_id": "C19REG",
+            "nct_id": "NCT04331860"
+        },
+        "brief_title": "COVID-19 Public Image Registry",
+        "acronym": "C19REG",
+        "official_title": "COVID-19 Public Image Registry",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "RAD-AID International",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "BioClinica, Inc.",
+                    "agency_class": "Industry"
+                },
+                {
+                    "agency": "Google Inc.",
+                    "agency_class": "Industry"
+                }
+            ]
+        },
+        "source": "RAD-AID International",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The COVID-19 Public Image Registry is a global de-identified medical image registry for\n      patients suspected/confirmed to have Covid-19 infection."
+        },
+        "detailed_description": {
+            "textblock": "This project is an observational registry where the patient's images are already acquired as\n      part of standard clinical care. The data undergoes 100% de-identification with multiple\n      confirmation steps. Therefore ,no patient identifiers will be collected and the images cannot\n      be linked back to the patient.\n\n      The image repository will be made an open public health resource for researchers under a\n      Creative Commons license similar to the ACR's various National Radiology Data Registries.\n      There are no commercial aspects to this project. All sponsors are donating their services as\n      a humanitarian effort."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 30, 2025"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 30, 2025"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Other",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "5 Years",
+        "primary_outcome": {
+            "measure": "CT or Xray images from COVID-19 patients",
+            "time_frame": "through study completion, an average of 2 years",
+            "description": "DICOM format, de-identified images"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500000"
+        },
+        "condition": "COVID-19",
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "No intervention",
+            "description": "There is no intervention, this is an observational registry"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Suspected or known Covid-19 infection (currently or previously), 18 or over, undergoing a\n        medical imaging exam"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  18 years or older\n\n          -  Suspected or known Covid-19 infection (currently or previously)\n\n          -  Image procedure performed as part of a Covid-19 exam with the images available in\n             DICOM format\n\n        Exclusion Criteria:\n\n        \u2022 Under age 18"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "100 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Daniel Mollura, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Rad-AID"
+        },
+        "overall_contact": {
+            "last_name": "Dan Gebow, PhD",
+            "phone": "415-244-1481",
+            "email": "dgebow@gmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "To be determined",
+                "address": {
+                    "city": "San Francisco",
+                    "state": "California",
+                    "zip": "94960",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "TBD TBD",
+                "phone": "415-244-1481",
+                "email": "TBD@TBD.com"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 30, 2020",
+        "study_first_submitted_qc": "March 31, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "covid-19",
+            "coronavirus",
+            "registry",
+            "imaging"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "All data will be shared, but in a de-identified state."
+        }
+    }
+}

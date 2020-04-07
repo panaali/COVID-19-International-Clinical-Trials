@@ -1,1 +1,182 @@
-{"clinical_study": {"@rank": "118", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04335630"}, "id_info": {"org_study_id": "HSC-MS-20-0286", "nct_id": "NCT04335630"}, "brief_title": "Cardiovascular Manifestations of COVID-19", "official_title": "Cardiovascular Manifestations of Hospitalized Patients With Coronavirus Disease 2019", "sponsors": {"lead_sponsor": {"agency": "Memorial Hermann Health System", "agency_class": "Other"}}, "source": "Memorial Hermann Health System", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the pathogen responsible for\n      the novel coronavirus disease 2019 (COVID-19). The first reports of COVID-19 came from Wuhan,\n      China in December of 2019. Since then, the disease has spread rapidly around the globe,\n      accounting for thousands of deaths in multiple countries. On March 11th, 2020, the World\n      Health Organization declared COVID-19 as a pandemic. Although COVID-19 manifests primarily as\n      a respiratory illness, several cardiovascular implications have been reported related to its\n      natural course and treatment. Its exact effect on the cardiovascular system though is\n      currently unknown. Therefore, we propose a retrospective, observational, case-control study\n      looking for cardiovascular manifestations of COVID-19, including laboratory evidence of\n      myocardial injury, electrocardiographic changes, arrhythmias and echocardiographic\n      abnormalities. Hospitalized patients admitted with fever, cough, sore throat, and/or dyspnea\n      who were tested positive for SARS-CoV-2 will be included in our study and will be matched\n      based on their age and gender with patients admitted with similar symptoms who tested\n      negative for SARS-CoV-2. The electronic medical charts of the study subjects will be reviewed\n      and relevant demographic, clinical, laboratory and imaging findings will be deidentified and\n      recorded. Since our study will be a retrospective chart review study it carries minimal risk\n      for the patients and the investigators. Cardiovascular disease associated with COVID-19 might\n      be contributing to the high mortality rates and its recognition will allow for prevention,\n      early diagnosis and appropriate treatment. This will be the first, large, case-control study\n      assessing cardiovascular involvement of COVID-19 in a well-defined cohort of patients."}, "detailed_description": {"textblock": "Significance Coronavirus disease 2019 (COVID-19) is a rapidly spreading infection that has\n      already affected close to a million patients around the world. It is estimated that COVID-19\n      will be lethal for up to 200,000 Americans. Several cardiovascular manifestations have been\n      reported to be associated with the disease or its treatment and might be contributing to its\n      high mortality rates.1,2 The National Health Commission of China (NHC) documented that\n      approximately 12% of patients without prior cardiovascular disease (CVD) who expired in the\n      setting of COVID-19 had either elevated cardiac troponin I levels or a cardiac arrest during\n      hospitalization.3 Furthermore, patients with underlying cardiovascular comorbidities\n      experience worse outcomes when infected with SARS-CoV-2.1 Acute myocarditis, acute myocardial\n      injury, and heart failure have been associated with COVID-19.3 However, most of these\n      associations come from small observational studies or from comparisons with other\n      coronaviruses.3 The hypothesized pathogenetic mechanism of CVD in COVID-19 includes either\n      direct effects of the virus to the cardiac cells expressing the angiotensin- converting\n      enzyme 2 (ACE2) receptor, or indirect effects from the severe systemic inflammatory response,\n      cytokine surge and immune system activation. The exact effect of COVID-19 on the\n      cardiovascular system though is still not well known. This study seeks to identify the\n      prevalence of CVD and its role in clinical outcomes of hospitalized patients diagnosed with\n      COVID-19 in a large tertiary center of Houston, TX. CVD associated with COVID-19 might be\n      contributing to the high mortality rates and its recognition will allow for prevention, early\n      diagnosis and appropriate treatment. This will be the first, large, case-control study\n      assessing cardiovascular involvement of COVID-19 in a well-defined cohort of patients.\n\n      Methods Study population and data handling A retrospective observational study will be\n      performed. Subjects admitted to the COVID unit and medical intensive care unit of Memorial\n      Hermann Hospital/Texas Medical Center from March 30th, 2020 to March 30th, 2021 will be\n      identified by location search of the electronic medical records. Subjects who were tested\n      positive for SARS-CoV-2 by PCR will be age- and gender-matched with subjects admitted to the\n      COVID unit or medical intensive care unit with similar symptoms but negative PCR tests for\n      SARS-CoV-2 (one negative PCR test for patients of low clinical suspicion and two negative\n      tests, 24 hours apart from each other, for patients of high clinical suspicion). Demographic,\n      clinical, laboratory and imaging findings will be collected by retrospective electronic chart\n      review. The current study will not involve face-to-face patient contact and does not intent\n      to alter the usual care of the patients involved. The collected data will be deidentified and\n      stored in a HIPAA approved, password-secured designated folder of the UTH-share drive of the\n      University of Texas Health Science Center at Houston. No patient information will be stored\n      or processed in any personal electronic devices. A total of 500 study subjects are estimated\n      to be included in the study. Upon completion of the study, the data will be stored for an\n      additional 5 years; following that all research-related files will be permanently deleted.\n\n      Data collection Demographic characteristics including age at the time of diagnosis, gender,\n      race and body mass index will be collected. Past medical history including coronary artery\n      disease, heart failure with reduced or preserved ejection fraction, atrial fibrillation,\n      hypertension, dyslipidemia, diabetes mellitus, smoking status as well as home medications\n      will be abstracted. The name and daily dose of ACE inhibitors or angiotensin receptor\n      blockers will be recorded. Laboratory values including cardiac enzymes, electrolytes,\n      hemoglobin and creatinine will be collected. Available electrocardiograms (EKGs) and\n      transthoracic echocardiograms (TTEs) will be individually reviewed by an independent\n      cardiovascular disease fellow or a cardiovascular disease faculty member who will be blinded\n      to the SARS-CoV-2 PCR results. Finally, clinical outcomes including need for mechanical\n      ventilation, length of intensive care unit stay, length of hospitalization, arrhythmias,\n      cardiac arrest and in-hospital mortality will be abstracted from the electronic charts.\n\n      Statistical analysis Continuous variables will be tested for distribution. Normally\n      distributed variables will be presented as mean values +/- standard deviation (SD) and\n      compared using the student's t test. Non-normally distributed variables will be presented as\n      median values with interquartile ranges and compared using the Mann-Whitney test. Categorical\n      variables will be presented as percentages and compared using chi-square test. Multivariable\n      regression analysis will be performed to control for possible cofounder. A two-sided p-value\n      of less than 0.05 will be considered statistically significant. All statistical analyses will\n      be performed using STATA 15 (StataCorp, College Station, TX).\n\n      References:\n\n        1. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel\n           coronavirus in Wuhan, China. Lancet (London, England) 2020;395:497-506.\n\n        2. Xiong TY, Redwood S, Prendergast B, Chen M. Coronaviruses and the cardiovascular system:\n           acute and long-term implications. European heart journal 2020.\n\n        3. Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular system. Nature reviews\n           Cardiology 2020."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 30, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 2022"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 2021"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Case-Control", "time_perspective": "Retrospective"}, "primary_outcome": {"measure": "Prevalence of cardiomyopathy, myocardial infarction, heart failure, clinically significant arrhythmias, cardiogenic shock or cardiac arrest.", "time_frame": "One year"}, "secondary_outcome": [{"measure": "Prevalence of pericarditis, pericardial effusion, valvular disease.", "time_frame": "One year"}, {"measure": "Identification of characteristic electrocardiographic patterns related to COVID-19", "time_frame": "One year"}, {"measure": "Role of active cardiovascular disease in clinical outcomes of patients with COVID-19 including length of ICU stay, length of hospitalization and mortality.", "time_frame": "One year"}, {"measure": "Role of pre-existing cardiovascular comorbidities in clinical course of COVID-19", "time_frame": "One year"}, {"measure": "Role of treatment with ACE inhibitors or ARBs in the clinical course of COVID-19", "time_frame": "One year"}, {"measure": "Role of insurance type on clinical outcomes of patients with COVID-19", "time_frame": "One year"}, {"measure": "Effect of age, gender and race on clinical course of COVID-19 and prevalence of cardiovascular complications", "time_frame": "One year"}, {"measure": "Role of active smoking on clinical course of COVID-19 and prevalence of cardiovascular complications", "time_frame": "One year"}], "number_of_groups": "2", "enrollment": {"@type": "Anticipated", "#text": "1000"}, "condition": "Study Focus: Identify the Prevalence of Cardiovascular Disease and Its Role in Clinical Outcomes of Hospitalized Patients Diagnosed With COVID-19", "arm_group": [{"arm_group_label": "Cases", "description": "Patients admitted to the hospital with symptoms of fever, sore throat, cough, nasal congestion and/or dyspnea who were tested positive for SARS-CoV-2 by PCR."}, {"arm_group_label": "Controls", "description": "Age- and gender-matched subjects admitted to the hospital with similar symptoms but negative PCR testing for SARS-CoV-2 (one negative PCR test for patients of low clinical suspicion and two negative tests, 24 hours apart from each other, for patients of high clinical suspicion)."}], "intervention": {"intervention_type": "Diagnostic Test", "intervention_name": "Electrocardiogram, telemetry, echocardiogram, laboratory values", "description": "Serial electrocardiograms, telemetry monitoring, echocardiographic assessment and serial laboratory testing will be used to identify differences among the two study groups.", "arm_group_label": ["Cases", "Controls"]}, "eligibility": {"study_pop": {"textblock": "Subjects admitted to the COVID unit and medical intensive care unit of Memorial Hermann\n        Hospital/Texas Medical Center from March 30th, 2020 to March 30th, 2021 will be identified\n        by location search of the electronic medical records. Subjects who were tested positive for\n        SARS-CoV-2 by PCR will be age- and gender-matched with subjects admitted to the COVID unit\n        or medical intensive care unit with similar symptoms but negative PCR tests for SARS-CoV-2\n        (one negative PCR test for patients of low clinical suspicion and two negative tests, 24\n        hours apart from each other, for patients of high clinical suspicion). Demographic,\n        clinical, laboratory and imaging findings will be collected by retrospective electronic\n        chart review."}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  Patients admitted to the hospital with symptoms of fever, sore throat, cough, nasal\n             congestion and/or dyspnea who were tested positive for SARS-CoV-2 by PCR\n\n        Exclusion Criteria:\n\n          -  Patients of high clinical suspicion for COVID-19 with only one negative PRC test for\n             SARS-CoV-2\n\n          -  Patients with COVID-19 who do not require hospitalization"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Efstratios Koutroumpakis, MD", "phone": "4123203161", "email": "Efstratios.Koutroumpakis@uth.tmc.edu"}, "overall_contact_backup": {"last_name": "Heinrich Taegtmeyer, MD, DPhil", "email": "Heinrich.Taegtmeyer@uth.tmc.edu"}, "location": {"facility": {"name": "Memorial Hermann Hospital-Texas Medical Center", "address": {"city": "Houston", "state": "Texas", "zip": "77030", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "Efstratios Koutroumpakis, MD", "phone": "412-320-3161", "email": "Efstratios.Koutroumpakis@uth.tmc.edu"}}, "location_countries": {"country": "United States"}, "verification_date": "April 2020", "study_first_submitted": "April 2, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Memorial Hermann Health System", "investigator_full_name": "Efstratios Koutroumpakis", "investigator_title": "MD"}, "condition_browse": {"mesh_term": "Cardiovascular Diseases"}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "118",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04335630"
+        },
+        "id_info": {
+            "org_study_id": "HSC-MS-20-0286",
+            "nct_id": "NCT04335630"
+        },
+        "brief_title": "Cardiovascular Manifestations of COVID-19",
+        "official_title": "Cardiovascular Manifestations of Hospitalized Patients With Coronavirus Disease 2019",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Memorial Hermann Health System",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Memorial Hermann Health System",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the pathogen responsible for\n      the novel coronavirus disease 2019 (COVID-19). The first reports of COVID-19 came from Wuhan,\n      China in December of 2019. Since then, the disease has spread rapidly around the globe,\n      accounting for thousands of deaths in multiple countries. On March 11th, 2020, the World\n      Health Organization declared COVID-19 as a pandemic. Although COVID-19 manifests primarily as\n      a respiratory illness, several cardiovascular implications have been reported related to its\n      natural course and treatment. Its exact effect on the cardiovascular system though is\n      currently unknown. Therefore, we propose a retrospective, observational, case-control study\n      looking for cardiovascular manifestations of COVID-19, including laboratory evidence of\n      myocardial injury, electrocardiographic changes, arrhythmias and echocardiographic\n      abnormalities. Hospitalized patients admitted with fever, cough, sore throat, and/or dyspnea\n      who were tested positive for SARS-CoV-2 will be included in our study and will be matched\n      based on their age and gender with patients admitted with similar symptoms who tested\n      negative for SARS-CoV-2. The electronic medical charts of the study subjects will be reviewed\n      and relevant demographic, clinical, laboratory and imaging findings will be deidentified and\n      recorded. Since our study will be a retrospective chart review study it carries minimal risk\n      for the patients and the investigators. Cardiovascular disease associated with COVID-19 might\n      be contributing to the high mortality rates and its recognition will allow for prevention,\n      early diagnosis and appropriate treatment. This will be the first, large, case-control study\n      assessing cardiovascular involvement of COVID-19 in a well-defined cohort of patients."
+        },
+        "detailed_description": {
+            "textblock": "Significance Coronavirus disease 2019 (COVID-19) is a rapidly spreading infection that has\n      already affected close to a million patients around the world. It is estimated that COVID-19\n      will be lethal for up to 200,000 Americans. Several cardiovascular manifestations have been\n      reported to be associated with the disease or its treatment and might be contributing to its\n      high mortality rates.1,2 The National Health Commission of China (NHC) documented that\n      approximately 12% of patients without prior cardiovascular disease (CVD) who expired in the\n      setting of COVID-19 had either elevated cardiac troponin I levels or a cardiac arrest during\n      hospitalization.3 Furthermore, patients with underlying cardiovascular comorbidities\n      experience worse outcomes when infected with SARS-CoV-2.1 Acute myocarditis, acute myocardial\n      injury, and heart failure have been associated with COVID-19.3 However, most of these\n      associations come from small observational studies or from comparisons with other\n      coronaviruses.3 The hypothesized pathogenetic mechanism of CVD in COVID-19 includes either\n      direct effects of the virus to the cardiac cells expressing the angiotensin- converting\n      enzyme 2 (ACE2) receptor, or indirect effects from the severe systemic inflammatory response,\n      cytokine surge and immune system activation. The exact effect of COVID-19 on the\n      cardiovascular system though is still not well known. This study seeks to identify the\n      prevalence of CVD and its role in clinical outcomes of hospitalized patients diagnosed with\n      COVID-19 in a large tertiary center of Houston, TX. CVD associated with COVID-19 might be\n      contributing to the high mortality rates and its recognition will allow for prevention, early\n      diagnosis and appropriate treatment. This will be the first, large, case-control study\n      assessing cardiovascular involvement of COVID-19 in a well-defined cohort of patients.\n\n      Methods Study population and data handling A retrospective observational study will be\n      performed. Subjects admitted to the COVID unit and medical intensive care unit of Memorial\n      Hermann Hospital/Texas Medical Center from March 30th, 2020 to March 30th, 2021 will be\n      identified by location search of the electronic medical records. Subjects who were tested\n      positive for SARS-CoV-2 by PCR will be age- and gender-matched with subjects admitted to the\n      COVID unit or medical intensive care unit with similar symptoms but negative PCR tests for\n      SARS-CoV-2 (one negative PCR test for patients of low clinical suspicion and two negative\n      tests, 24 hours apart from each other, for patients of high clinical suspicion). Demographic,\n      clinical, laboratory and imaging findings will be collected by retrospective electronic chart\n      review. The current study will not involve face-to-face patient contact and does not intent\n      to alter the usual care of the patients involved. The collected data will be deidentified and\n      stored in a HIPAA approved, password-secured designated folder of the UTH-share drive of the\n      University of Texas Health Science Center at Houston. No patient information will be stored\n      or processed in any personal electronic devices. A total of 500 study subjects are estimated\n      to be included in the study. Upon completion of the study, the data will be stored for an\n      additional 5 years; following that all research-related files will be permanently deleted.\n\n      Data collection Demographic characteristics including age at the time of diagnosis, gender,\n      race and body mass index will be collected. Past medical history including coronary artery\n      disease, heart failure with reduced or preserved ejection fraction, atrial fibrillation,\n      hypertension, dyslipidemia, diabetes mellitus, smoking status as well as home medications\n      will be abstracted. The name and daily dose of ACE inhibitors or angiotensin receptor\n      blockers will be recorded. Laboratory values including cardiac enzymes, electrolytes,\n      hemoglobin and creatinine will be collected. Available electrocardiograms (EKGs) and\n      transthoracic echocardiograms (TTEs) will be individually reviewed by an independent\n      cardiovascular disease fellow or a cardiovascular disease faculty member who will be blinded\n      to the SARS-CoV-2 PCR results. Finally, clinical outcomes including need for mechanical\n      ventilation, length of intensive care unit stay, length of hospitalization, arrhythmias,\n      cardiac arrest and in-hospital mortality will be abstracted from the electronic charts.\n\n      Statistical analysis Continuous variables will be tested for distribution. Normally\n      distributed variables will be presented as mean values +/- standard deviation (SD) and\n      compared using the student's t test. Non-normally distributed variables will be presented as\n      median values with interquartile ranges and compared using the Mann-Whitney test. Categorical\n      variables will be presented as percentages and compared using chi-square test. Multivariable\n      regression analysis will be performed to control for possible cofounder. A two-sided p-value\n      of less than 0.05 will be considered statistically significant. All statistical analyses will\n      be performed using STATA 15 (StataCorp, College Station, TX).\n\n      References:\n\n        1. Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel\n           coronavirus in Wuhan, China. Lancet (London, England) 2020;395:497-506.\n\n        2. Xiong TY, Redwood S, Prendergast B, Chen M. Coronaviruses and the cardiovascular system:\n           acute and long-term implications. European heart journal 2020.\n\n        3. Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular system. Nature reviews\n           Cardiology 2020."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": {
+            "measure": "Prevalence of cardiomyopathy, myocardial infarction, heart failure, clinically significant arrhythmias, cardiogenic shock or cardiac arrest.",
+            "time_frame": "One year"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Prevalence of pericarditis, pericardial effusion, valvular disease.",
+                "time_frame": "One year"
+            },
+            {
+                "measure": "Identification of characteristic electrocardiographic patterns related to COVID-19",
+                "time_frame": "One year"
+            },
+            {
+                "measure": "Role of active cardiovascular disease in clinical outcomes of patients with COVID-19 including length of ICU stay, length of hospitalization and mortality.",
+                "time_frame": "One year"
+            },
+            {
+                "measure": "Role of pre-existing cardiovascular comorbidities in clinical course of COVID-19",
+                "time_frame": "One year"
+            },
+            {
+                "measure": "Role of treatment with ACE inhibitors or ARBs in the clinical course of COVID-19",
+                "time_frame": "One year"
+            },
+            {
+                "measure": "Role of insurance type on clinical outcomes of patients with COVID-19",
+                "time_frame": "One year"
+            },
+            {
+                "measure": "Effect of age, gender and race on clinical course of COVID-19 and prevalence of cardiovascular complications",
+                "time_frame": "One year"
+            },
+            {
+                "measure": "Role of active smoking on clinical course of COVID-19 and prevalence of cardiovascular complications",
+                "time_frame": "One year"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1000"
+        },
+        "condition": "Study Focus: Identify the Prevalence of Cardiovascular Disease and Its Role in Clinical Outcomes of Hospitalized Patients Diagnosed With COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Cases",
+                "description": "Patients admitted to the hospital with symptoms of fever, sore throat, cough, nasal congestion and/or dyspnea who were tested positive for SARS-CoV-2 by PCR."
+            },
+            {
+                "arm_group_label": "Controls",
+                "description": "Age- and gender-matched subjects admitted to the hospital with similar symptoms but negative PCR testing for SARS-CoV-2 (one negative PCR test for patients of low clinical suspicion and two negative tests, 24 hours apart from each other, for patients of high clinical suspicion)."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "Electrocardiogram, telemetry, echocardiogram, laboratory values",
+            "description": "Serial electrocardiograms, telemetry monitoring, echocardiographic assessment and serial laboratory testing will be used to identify differences among the two study groups.",
+            "arm_group_label": [
+                "Cases",
+                "Controls"
+            ]
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Subjects admitted to the COVID unit and medical intensive care unit of Memorial Hermann\n        Hospital/Texas Medical Center from March 30th, 2020 to March 30th, 2021 will be identified\n        by location search of the electronic medical records. Subjects who were tested positive for\n        SARS-CoV-2 by PCR will be age- and gender-matched with subjects admitted to the COVID unit\n        or medical intensive care unit with similar symptoms but negative PCR tests for SARS-CoV-2\n        (one negative PCR test for patients of low clinical suspicion and two negative tests, 24\n        hours apart from each other, for patients of high clinical suspicion). Demographic,\n        clinical, laboratory and imaging findings will be collected by retrospective electronic\n        chart review."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients admitted to the hospital with symptoms of fever, sore throat, cough, nasal\n             congestion and/or dyspnea who were tested positive for SARS-CoV-2 by PCR\n\n        Exclusion Criteria:\n\n          -  Patients of high clinical suspicion for COVID-19 with only one negative PRC test for\n             SARS-CoV-2\n\n          -  Patients with COVID-19 who do not require hospitalization"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Efstratios Koutroumpakis, MD",
+            "phone": "4123203161",
+            "email": "Efstratios.Koutroumpakis@uth.tmc.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Heinrich Taegtmeyer, MD, DPhil",
+            "email": "Heinrich.Taegtmeyer@uth.tmc.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Memorial Hermann Hospital-Texas Medical Center",
+                "address": {
+                    "city": "Houston",
+                    "state": "Texas",
+                    "zip": "77030",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Efstratios Koutroumpakis, MD",
+                "phone": "412-320-3161",
+                "email": "Efstratios.Koutroumpakis@uth.tmc.edu"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Memorial Hermann Health System",
+            "investigator_full_name": "Efstratios Koutroumpakis",
+            "investigator_title": "MD"
+        },
+        "condition_browse": {
+            "mesh_term": "Cardiovascular Diseases"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

@@ -1,1 +1,190 @@
-{"clinical_study": {"@rank": "193", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04329195"}, "id_info": {"org_study_id": "APHP200409", "nct_id": "NCT04329195"}, "brief_title": "ACE Inhibitors or ARBs Discontinuation in Context of SARS-CoV-2 Pandemic", "acronym": "ACORES-2", "official_title": "ACE Inhibitors or ARBs Discontinuation for Clinical Outcome Risk Reduction in Patients Hospitalized for the Endemic Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) Infection: the Randomized ACORES-2 Study", "sponsors": {"lead_sponsor": {"agency": "Assistance Publique - H\u00f4pitaux de Paris", "agency_class": "Other"}, "collaborator": {"agency": "Groupe Hospitalier Piti\u00e9-Salp\u00eatri\u00e8re", "agency_class": "Other"}}, "source": "Assistance Publique - H\u00f4pitaux de Paris", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Since December 2019, a novel coronavirus called SARS-CoV-2 (severe acute respiratory syndrome\n      coronavirus 2) has caused an international outbreak of respiratory illness described as\n      COVID-19.\n\n      Individuals with a history of cardiovascular disease develop a more severe illness and have\n      higher rates of death.\n\n      Because of the potential interaction between RAS blockers and SARS-CoV-2 mechanism of\n      infection, there are ongoing scientific discussions on whether they should be stopped or\n      continued in patients with COVID-19.\n\n      It is crucial to determine whether RAS blockers should be discontinued or not in patients\n      with COVID-19."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 2020"}, "completion_date": {"@type": "Anticipated", "#text": "May 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "May 2020"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Time to clinical improvement from day 0 to day 28 (improvement of two points on a seven-category ordinal scale, or live discharge from the hospital, whichever comes first)", "time_frame": "from day 0 to day 28 or hospital discharge"}, "secondary_outcome": [{"measure": "Primary safety endpoint: major adverse cardiac events defined as the composite of cardiovascular death, myocardial infarction, stroke or acute heart failure at day 28", "time_frame": "at day 28"}, {"measure": "Clinical status as assessed with the seven-category ordinal scale on days 7, 14 and 28.", "time_frame": "at days 7, 14 and 28"}, {"measure": "Number of days alive free of oxygen.", "time_frame": "from day 0 to day 28 or hospital discharge"}, {"measure": "Number of days alive outside hospital until day28", "time_frame": "at day28"}, {"measure": "Number of days alive free of intensive-care unit (ICU) admission or mechanical ventilation (invasive or non-invasive) until day28", "time_frame": "at day28"}, {"measure": "Number of days alive free of mechanical ventilation (invasive or non-invasive) until day28", "time_frame": "at day28"}, {"measure": "Number of days alive free of ICU admission until day28", "time_frame": "at day28"}, {"measure": "Rate of all-cause mortality at day 28", "time_frame": "at day 28"}, {"measure": "Rate of cardiovascular death at day 28", "time_frame": "at day 28"}, {"measure": "Number of days alive free of acute kidney injury until hospital discharge", "time_frame": "at day 28 to hospital discharge"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "554"}, "condition": "History of Cardiovascular Disease Treated With RAS Blockers and With SARS-CoV-2 Infection", "arm_group": [{"arm_group_label": "1: discontinuation of RAS blocker therapy", "arm_group_type": "Experimental", "description": "discontinuation of RAS blocker therapy"}, {"arm_group_label": "2: continuation of RAS blocker therapy", "arm_group_type": "Active Comparator", "description": "continuation of RAS blocker therapy"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "1: discontinuation of RAS blocker therapy", "description": "discontinuation of RAS blocker therapy", "arm_group_label": "1: discontinuation of RAS blocker therapy"}, {"intervention_type": "Drug", "intervention_name": "2: continuation of RAS blocker therapy", "description": "continuation of RAS blocker therapy", "arm_group_label": "2: continuation of RAS blocker therapy"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18 years old.\n\n          -  Chronically treated with RAS blockers (ACE inhibitors or ARBs on the last prescription\n             prior to admission with a treatment duration \u2265 1 month).\n\n          -  Diagnosis of COVID-19 confirmed by the presence of SARS-CoV-2 on any biological sample\n             with any detection method.\n\n          -  Patients hospitalized in a non-intensive care unit.\n\n          -  Pregnancy test at inclusion visit for women of childbearing potential.\n\n          -  Women of childbearing potential must agree to use adequate contraception according to\n             recommendations related to contraception and pregnancy testing in clinical trials, by\n             Clinical Trial Facilitation Group (CTFG).\n\n        Exclusion Criteria:\n\n          -  Shock requiring vasoactive agents.\n\n          -  Acute respiratory distress syndrome requiring invasive mechanical ventilation.\n\n          -  Circulatory assistance.\n\n          -  History of malignant hypertension according to the definition of the 2018 ESC/ESH\n             guidelines on hypertension.\n\n          -  Uncontrolled blood pressure despite the use of five antihypertensive drugs.\n\n          -  History of nephrotic syndrome.\n\n          -  History of hospitalization for hemorrhagic stroke in the past 3 months.\n\n          -  RAS blockers therapy previously stopped > 48h.\n\n          -  No affiliation to the French Health Care System \"S\u00e9curit\u00e9 Sociale\".\n\n          -  Inability to obtain informed consent."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Gilles MONTALESCOT, MD, PhD", "role": "Principal Investigator", "affiliation": "Institut Cardiologie - Piti\u00e9 Salp\u00eatri\u00e8re(APHP) / ACTION Study Group / Univ. Paris 6 (UPMC) - INSERM UMRS 1166"}, "overall_contact": {"last_name": "Gilles MONTALESCOT, MD, PhD", "phone": "+33 1 42 16 30 07", "email": "gilles.montalescot@aphp.fr"}, "overall_contact_backup": {"last_name": "Mathieu KERNEIS, MD", "phone": "+33 1 42 16 30 74", "email": "mathieu.kerneis@aphp.fr"}, "verification_date": "April 2020", "study_first_submitted": "March 28, 2020", "study_first_submitted_qc": "March 28, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["SARS-CoV-2", "Cardiovascular disease", "RAS blockers"], "condition_browse": {"mesh_term": ["Infection", "Cardiovascular Diseases"]}, "intervention_browse": {"mesh_term": "Angiotensin-Converting Enzyme Inhibitors"}}}
+{
+    "clinical_study": {
+        "@rank": "193",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04329195"
+        },
+        "id_info": {
+            "org_study_id": "APHP200409",
+            "nct_id": "NCT04329195"
+        },
+        "brief_title": "ACE Inhibitors or ARBs Discontinuation in Context of SARS-CoV-2 Pandemic",
+        "acronym": "ACORES-2",
+        "official_title": "ACE Inhibitors or ARBs Discontinuation for Clinical Outcome Risk Reduction in Patients Hospitalized for the Endemic Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2) Infection: the Randomized ACORES-2 Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique - H\u00f4pitaux de Paris",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Groupe Hospitalier Piti\u00e9-Salp\u00eatri\u00e8re",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Assistance Publique - H\u00f4pitaux de Paris",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Since December 2019, a novel coronavirus called SARS-CoV-2 (severe acute respiratory syndrome\n      coronavirus 2) has caused an international outbreak of respiratory illness described as\n      COVID-19.\n\n      Individuals with a history of cardiovascular disease develop a more severe illness and have\n      higher rates of death.\n\n      Because of the potential interaction between RAS blockers and SARS-CoV-2 mechanism of\n      infection, there are ongoing scientific discussions on whether they should be stopped or\n      continued in patients with COVID-19.\n\n      It is crucial to determine whether RAS blockers should be discontinued or not in patients\n      with COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Time to clinical improvement from day 0 to day 28 (improvement of two points on a seven-category ordinal scale, or live discharge from the hospital, whichever comes first)",
+            "time_frame": "from day 0 to day 28 or hospital discharge"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Primary safety endpoint: major adverse cardiac events defined as the composite of cardiovascular death, myocardial infarction, stroke or acute heart failure at day 28",
+                "time_frame": "at day 28"
+            },
+            {
+                "measure": "Clinical status as assessed with the seven-category ordinal scale on days 7, 14 and 28.",
+                "time_frame": "at days 7, 14 and 28"
+            },
+            {
+                "measure": "Number of days alive free of oxygen.",
+                "time_frame": "from day 0 to day 28 or hospital discharge"
+            },
+            {
+                "measure": "Number of days alive outside hospital until day28",
+                "time_frame": "at day28"
+            },
+            {
+                "measure": "Number of days alive free of intensive-care unit (ICU) admission or mechanical ventilation (invasive or non-invasive) until day28",
+                "time_frame": "at day28"
+            },
+            {
+                "measure": "Number of days alive free of mechanical ventilation (invasive or non-invasive) until day28",
+                "time_frame": "at day28"
+            },
+            {
+                "measure": "Number of days alive free of ICU admission until day28",
+                "time_frame": "at day28"
+            },
+            {
+                "measure": "Rate of all-cause mortality at day 28",
+                "time_frame": "at day 28"
+            },
+            {
+                "measure": "Rate of cardiovascular death at day 28",
+                "time_frame": "at day 28"
+            },
+            {
+                "measure": "Number of days alive free of acute kidney injury until hospital discharge",
+                "time_frame": "at day 28 to hospital discharge"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "554"
+        },
+        "condition": "History of Cardiovascular Disease Treated With RAS Blockers and With SARS-CoV-2 Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "1: discontinuation of RAS blocker therapy",
+                "arm_group_type": "Experimental",
+                "description": "discontinuation of RAS blocker therapy"
+            },
+            {
+                "arm_group_label": "2: continuation of RAS blocker therapy",
+                "arm_group_type": "Active Comparator",
+                "description": "continuation of RAS blocker therapy"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "1: discontinuation of RAS blocker therapy",
+                "description": "discontinuation of RAS blocker therapy",
+                "arm_group_label": "1: discontinuation of RAS blocker therapy"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "2: continuation of RAS blocker therapy",
+                "description": "continuation of RAS blocker therapy",
+                "arm_group_label": "2: continuation of RAS blocker therapy"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18 years old.\n\n          -  Chronically treated with RAS blockers (ACE inhibitors or ARBs on the last prescription\n             prior to admission with a treatment duration \u2265 1 month).\n\n          -  Diagnosis of COVID-19 confirmed by the presence of SARS-CoV-2 on any biological sample\n             with any detection method.\n\n          -  Patients hospitalized in a non-intensive care unit.\n\n          -  Pregnancy test at inclusion visit for women of childbearing potential.\n\n          -  Women of childbearing potential must agree to use adequate contraception according to\n             recommendations related to contraception and pregnancy testing in clinical trials, by\n             Clinical Trial Facilitation Group (CTFG).\n\n        Exclusion Criteria:\n\n          -  Shock requiring vasoactive agents.\n\n          -  Acute respiratory distress syndrome requiring invasive mechanical ventilation.\n\n          -  Circulatory assistance.\n\n          -  History of malignant hypertension according to the definition of the 2018 ESC/ESH\n             guidelines on hypertension.\n\n          -  Uncontrolled blood pressure despite the use of five antihypertensive drugs.\n\n          -  History of nephrotic syndrome.\n\n          -  History of hospitalization for hemorrhagic stroke in the past 3 months.\n\n          -  RAS blockers therapy previously stopped > 48h.\n\n          -  No affiliation to the French Health Care System \"S\u00e9curit\u00e9 Sociale\".\n\n          -  Inability to obtain informed consent."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Gilles MONTALESCOT, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Institut Cardiologie - Piti\u00e9 Salp\u00eatri\u00e8re(APHP) / ACTION Study Group / Univ. Paris 6 (UPMC) - INSERM UMRS 1166"
+        },
+        "overall_contact": {
+            "last_name": "Gilles MONTALESCOT, MD, PhD",
+            "phone": "+33 1 42 16 30 07",
+            "email": "gilles.montalescot@aphp.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Mathieu KERNEIS, MD",
+            "phone": "+33 1 42 16 30 74",
+            "email": "mathieu.kerneis@aphp.fr"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 28, 2020",
+        "study_first_submitted_qc": "March 28, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "SARS-CoV-2",
+            "Cardiovascular disease",
+            "RAS blockers"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Cardiovascular Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Angiotensin-Converting Enzyme Inhibitors"
+        }
+    }
+}

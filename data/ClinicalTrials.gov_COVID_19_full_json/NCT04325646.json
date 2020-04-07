@@ -1,1 +1,324 @@
-{"clinical_study": {"@rank": "134", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04325646"}, "id_info": {"org_study_id": "2020-007", "nct_id": "NCT04325646"}, "brief_title": "Sero-epidemiological Study of the SARS-CoV-2 Virus in France: Constitution of a Collection of Human Biological Samples", "acronym": "CORSER", "official_title": "Sero-epidemiological Study of the SARS-CoV-2 Virus in France: Constitution of a Collection of Human Biological Samples", "sponsors": {"lead_sponsor": {"agency": "Institut Pasteur", "agency_class": "Industry"}}, "source": "Institut Pasteur", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "On January 2020, the discovery of a new coronavirus (SARS-CoV-2) was officially announced by\n      the Chinese health authorities and the World Health Organization (WHO). Its complete genome\n      was sequenced by the laboratory of respiratory infection viruses at the Institut Pasteur on\n      29 January 2020 in France. This will allow the identification of antigenic structures\n      involved in the immune response and the development of serological diagnostic tests.\n\n      Many questions are being asked about this new virus and the infection it causes, including\n      questions about the percentage of asymptomatic and pauci-symptomatic forms. Serological\n      studies can provide answers to these questions. There is no serological test for SARS-COV-2\n      yet, but the laboratory of respiratory infection viruses at the Institut Pasteur is working\n      on its development.\n\n      This study proposes to carry out a collection of samples taken from subjects who travelled to\n      China before the epidemic outbreak or suspected of being infected with SARS-CoV-2.\n\n      As soon as it is available, serology will be performed on the collected samples."}, "detailed_description": {"textblock": "On January 2020, the discovery of a new coronavirus (SARS-CoV-2) was officially announced by\n      the Chinese health authorities and the World Health Organization (WHO). This new virus is\n      presented as the causative agent of pneumonias. Its complete genome was sequenced by the\n      laboratory of respiratory infection viruses at the Institut Pasteur on 29 January 2020 in\n      France. This will allow the identification of antigenic structures involved in the immune\n      response and the development of serological diagnostic tests.\n\n      Many questions are being asked about this new virus and the infection it causes, including\n      questions about the transition from animal to human occur, the beginning of viral circulation\n      in humans, the period of contagiousness, the percentage of asymptomatic and pauci-symptomatic\n      forms. Serological studies can provide answers to these questions. There is no serological\n      test for SARS-COV-2 yet, but the laboratory of respiratory infection viruses at the Institut\n      Pasteur is working on its development.\n\n      This study proposes to carry out a collection of samples taken from subjects who travelled to\n      China before the epidemic outbreak or suspected of being infected with SARS-CoV-2.\n\n      As soon as it is available, serology will be performed on the collected samples."}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "March 13, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "February 28, 2023"}, "primary_completion_date": {"@type": "Anticipated", "#text": "February 28, 2021"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Presence of specific anti-SARS-CoV-2 antibodies in the different study groups.", "time_frame": "One year", "description": "Description of the serological status of individuals by different detection tests"}, "secondary_outcome": {"measure": "Percentage of asymptomatic forms in individuals with anti-SARS-CoV-2 antibodies", "time_frame": "One year", "description": "Proportion of asymptomatic subjects into seropositive population"}, "number_of_groups": "4", "enrollment": {"@type": "Anticipated", "#text": "1000"}, "condition": ["SARS (Severe Acute Respiratory Syndrome)", "COVID-19"], "arm_group": [{"arm_group_label": "CORSER-1", "description": "Subjects who had been to China in the weeks before the outbreak began"}, {"arm_group_label": "CORSER-2a", "description": "Subjects with suspected CoV-2-SARS infection with negative results from RT-PCR testing of respiratory specimens"}, {"arm_group_label": "CORSER-2b", "description": "Contacts or co-exposures of confirmed CoV-2-SARS infection cases, or who have worked or stayed in a hospital where confirmed CoV-2-SARS infection has been managed"}, {"arm_group_label": "CORSER-2c", "description": "Subjects who have been exposed to a risk of infection with CoV-2-CoV-RASS in a geographical area of CoV-2 circulation"}], "intervention": {"intervention_type": "Other", "intervention_name": "Human Biological samples", "description": "Blood samples for serological tests", "arm_group_label": ["CORSER-1", "CORSER-2a", "CORSER-2b", "CORSER-2c"]}, "biospec_retention": "Samples With DNA", "biospec_descr": {"textblock": "serum, plasma"}, "eligibility": {"study_pop": {"textblock": "For CORSER-1 subjects:\n\n          -  Adults (\u2265 18 years old) at the time of collection;\n\n          -  Subjects who were in China between 01/08/2019 and 31/01/2020 and who have not been\n             diagnosed with an SARS-CoV-2 infection;\n\n        For CORSER-2 subjects:\n\n        - Adults or minors (group 2c) at the time of sampling;\n\n        Sub-group 2a: subject with suspected SARS-CoV-2 infection with a negative result of RT-PCR\n        virus test on respiratory sample.\n\n        Sub-group 2b: subject who has had contact or co-exposure with confirmed cases of\n        SARS-CoV-2-infection.\n\n        Subgroup 2c: a person who has been exposed to a risk of infection with SARS-CoV-2 in a\n        geographic area of SARS-CoV-2 circulation."}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  Affiliated with or benefiting from a Social Security system\n\n          -  State of health compatible with a blood sample as defined in the protocol\n\n        Exclusion Criteria:\n\n          -  Person benefiting from a legal protection measure or unable to express informed\n             consent to participation\n\n          -  For women: pregnancy or breastfeeding in progress\n\n          -  Have had an infectious episode and/or respiratory signs in the 14 days prior to the\n             scheduled visit (CORSER 1 and 2a, 2b)\n\n          -  Have been in contact with a confirmed case of SARS-CoV-2 infection within 14 days\n             prior to the date of the visit.(CORSER 1 and 2a, 2b)"}, "gender": "All", "minimum_age": "5 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_contact": {"last_name": "Bruno HOEN, Pr", "phone": "+33 1 40 61 37 60", "email": "bruno.hoen@pasteur.fr"}, "location": [{"facility": {"name": "CHU Amiens-Picardie", "address": {"city": "Amiens", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Jean-Philippe LANOIX, Dr", "email": "Lanoix.Jean-Philippe@chu-amiens.fr"}}, {"facility": {"name": "CHU Fran\u00e7ois Mitterand", "address": {"city": "Dijon", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Pascal CHAVANET, Pr", "email": "pascal.chavanet@chu-dijon.fr"}}, {"facility": {"name": "CHU Limoges", "address": {"city": "Limoges", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Jean-Fran\u00e7ois FAUCHER, Pr", "email": "jean-francois.faucher@unilim.fr"}}, {"facility": {"name": "H\u00f4pital de la Croix Rousse", "address": {"city": "Lyon", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Christian CHIDIAC, Pr", "email": "christian.chidiac@chu-lyon.fr"}}, {"facility": {"name": "H\u00f4pitaux de Brabois", "address": {"city": "Nancy", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Fran\u00e7ois GOEHRINGER", "email": "f.goehringer@chru-nancy.fr"}}, {"facility": {"name": "CHR Orl\u00e9ans", "address": {"city": "Orl\u00e9ans", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Thierry PRAZUCK, Pr", "email": "thierry.prazuck@chr-orleans.fr"}}, {"facility": {"name": "Institut Pasteur", "address": {"city": "Paris", "zip": "75015", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Marie-No\u00eblle UNGEHEUER, Dr", "phone": "+33 1 40 61 35 81", "email": "marie-noelle.ungeheuer@pasteur.fr"}}, {"facility": {"name": "CHU Poitiers", "address": {"city": "Poitiers", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "France CAZENAVE-ROBLOT, Pr", "email": "France.CAZENAVE-ROBLOT@chu-poitiers.fr"}}, {"facility": {"name": "H\u00f4pital Pontchaillou", "address": {"city": "Rennes", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Jean-Marc Chapplain, Dr", "email": "jean-marc.chapplain@chu-rennes.fr"}}, {"facility": {"name": "CHU Saint-Etienne", "address": {"city": "Saint-\u00c9tienne", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Elisabeth BOTELHO-NEVERS, Pr", "email": "elisabeth.botelho-nevers@chu-st-etienne.fr"}}, {"facility": {"name": "CH de Tourcoing", "address": {"city": "Tourcoing", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Eric SENNEVILLE, Pr", "email": "senneric670@gmail.com"}}, {"facility": {"name": "H\u00f4pital Bretonneau", "address": {"city": "Tours", "country": "France"}}, "status": "Recruiting", "contact": {"last_name": "Louis BERNARD, Pr", "email": "louis.bernard@univ-tours.fr"}}], "location_countries": {"country": "France"}, "verification_date": "March 2020", "study_first_submitted": "March 26, 2020", "study_first_submitted_qc": "March 26, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 27, 2020"}, "last_update_submitted": "March 27, 2020", "last_update_submitted_qc": "March 27, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 31, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": ["Severe Acute Respiratory Syndrome", "Coronavirus Infections"]}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "134",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04325646"
+        },
+        "id_info": {
+            "org_study_id": "2020-007",
+            "nct_id": "NCT04325646"
+        },
+        "brief_title": "Sero-epidemiological Study of the SARS-CoV-2 Virus in France: Constitution of a Collection of Human Biological Samples",
+        "acronym": "CORSER",
+        "official_title": "Sero-epidemiological Study of the SARS-CoV-2 Virus in France: Constitution of a Collection of Human Biological Samples",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Institut Pasteur",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Institut Pasteur",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "On January 2020, the discovery of a new coronavirus (SARS-CoV-2) was officially announced by\n      the Chinese health authorities and the World Health Organization (WHO). Its complete genome\n      was sequenced by the laboratory of respiratory infection viruses at the Institut Pasteur on\n      29 January 2020 in France. This will allow the identification of antigenic structures\n      involved in the immune response and the development of serological diagnostic tests.\n\n      Many questions are being asked about this new virus and the infection it causes, including\n      questions about the percentage of asymptomatic and pauci-symptomatic forms. Serological\n      studies can provide answers to these questions. There is no serological test for SARS-COV-2\n      yet, but the laboratory of respiratory infection viruses at the Institut Pasteur is working\n      on its development.\n\n      This study proposes to carry out a collection of samples taken from subjects who travelled to\n      China before the epidemic outbreak or suspected of being infected with SARS-CoV-2.\n\n      As soon as it is available, serology will be performed on the collected samples."
+        },
+        "detailed_description": {
+            "textblock": "On January 2020, the discovery of a new coronavirus (SARS-CoV-2) was officially announced by\n      the Chinese health authorities and the World Health Organization (WHO). This new virus is\n      presented as the causative agent of pneumonias. Its complete genome was sequenced by the\n      laboratory of respiratory infection viruses at the Institut Pasteur on 29 January 2020 in\n      France. This will allow the identification of antigenic structures involved in the immune\n      response and the development of serological diagnostic tests.\n\n      Many questions are being asked about this new virus and the infection it causes, including\n      questions about the transition from animal to human occur, the beginning of viral circulation\n      in humans, the period of contagiousness, the percentage of asymptomatic and pauci-symptomatic\n      forms. Serological studies can provide answers to these questions. There is no serological\n      test for SARS-COV-2 yet, but the laboratory of respiratory infection viruses at the Institut\n      Pasteur is working on its development.\n\n      This study proposes to carry out a collection of samples taken from subjects who travelled to\n      China before the epidemic outbreak or suspected of being infected with SARS-CoV-2.\n\n      As soon as it is available, serology will be performed on the collected samples."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 13, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 28, 2023"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 28, 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Presence of specific anti-SARS-CoV-2 antibodies in the different study groups.",
+            "time_frame": "One year",
+            "description": "Description of the serological status of individuals by different detection tests"
+        },
+        "secondary_outcome": {
+            "measure": "Percentage of asymptomatic forms in individuals with anti-SARS-CoV-2 antibodies",
+            "time_frame": "One year",
+            "description": "Proportion of asymptomatic subjects into seropositive population"
+        },
+        "number_of_groups": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1000"
+        },
+        "condition": [
+            "SARS (Severe Acute Respiratory Syndrome)",
+            "COVID-19"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "CORSER-1",
+                "description": "Subjects who had been to China in the weeks before the outbreak began"
+            },
+            {
+                "arm_group_label": "CORSER-2a",
+                "description": "Subjects with suspected CoV-2-SARS infection with negative results from RT-PCR testing of respiratory specimens"
+            },
+            {
+                "arm_group_label": "CORSER-2b",
+                "description": "Contacts or co-exposures of confirmed CoV-2-SARS infection cases, or who have worked or stayed in a hospital where confirmed CoV-2-SARS infection has been managed"
+            },
+            {
+                "arm_group_label": "CORSER-2c",
+                "description": "Subjects who have been exposed to a risk of infection with CoV-2-CoV-RASS in a geographical area of CoV-2 circulation"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Human Biological samples",
+            "description": "Blood samples for serological tests",
+            "arm_group_label": [
+                "CORSER-1",
+                "CORSER-2a",
+                "CORSER-2b",
+                "CORSER-2c"
+            ]
+        },
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "serum, plasma"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "For CORSER-1 subjects:\n\n          -  Adults (\u2265 18 years old) at the time of collection;\n\n          -  Subjects who were in China between 01/08/2019 and 31/01/2020 and who have not been\n             diagnosed with an SARS-CoV-2 infection;\n\n        For CORSER-2 subjects:\n\n        - Adults or minors (group 2c) at the time of sampling;\n\n        Sub-group 2a: subject with suspected SARS-CoV-2 infection with a negative result of RT-PCR\n        virus test on respiratory sample.\n\n        Sub-group 2b: subject who has had contact or co-exposure with confirmed cases of\n        SARS-CoV-2-infection.\n\n        Subgroup 2c: a person who has been exposed to a risk of infection with SARS-CoV-2 in a\n        geographic area of SARS-CoV-2 circulation."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Affiliated with or benefiting from a Social Security system\n\n          -  State of health compatible with a blood sample as defined in the protocol\n\n        Exclusion Criteria:\n\n          -  Person benefiting from a legal protection measure or unable to express informed\n             consent to participation\n\n          -  For women: pregnancy or breastfeeding in progress\n\n          -  Have had an infectious episode and/or respiratory signs in the 14 days prior to the\n             scheduled visit (CORSER 1 and 2a, 2b)\n\n          -  Have been in contact with a confirmed case of SARS-CoV-2 infection within 14 days\n             prior to the date of the visit.(CORSER 1 and 2a, 2b)"
+            },
+            "gender": "All",
+            "minimum_age": "5 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Bruno HOEN, Pr",
+            "phone": "+33 1 40 61 37 60",
+            "email": "bruno.hoen@pasteur.fr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "CHU Amiens-Picardie",
+                    "address": {
+                        "city": "Amiens",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Philippe LANOIX, Dr",
+                    "email": "Lanoix.Jean-Philippe@chu-amiens.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Fran\u00e7ois Mitterand",
+                    "address": {
+                        "city": "Dijon",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Pascal CHAVANET, Pr",
+                    "email": "pascal.chavanet@chu-dijon.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Limoges",
+                    "address": {
+                        "city": "Limoges",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Fran\u00e7ois FAUCHER, Pr",
+                    "email": "jean-francois.faucher@unilim.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital de la Croix Rousse",
+                    "address": {
+                        "city": "Lyon",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Christian CHIDIAC, Pr",
+                    "email": "christian.chidiac@chu-lyon.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pitaux de Brabois",
+                    "address": {
+                        "city": "Nancy",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Fran\u00e7ois GOEHRINGER",
+                    "email": "f.goehringer@chru-nancy.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHR Orl\u00e9ans",
+                    "address": {
+                        "city": "Orl\u00e9ans",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Thierry PRAZUCK, Pr",
+                    "email": "thierry.prazuck@chr-orleans.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Institut Pasteur",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75015",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Marie-No\u00eblle UNGEHEUER, Dr",
+                    "phone": "+33 1 40 61 35 81",
+                    "email": "marie-noelle.ungeheuer@pasteur.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Poitiers",
+                    "address": {
+                        "city": "Poitiers",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "France CAZENAVE-ROBLOT, Pr",
+                    "email": "France.CAZENAVE-ROBLOT@chu-poitiers.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital Pontchaillou",
+                    "address": {
+                        "city": "Rennes",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Marc Chapplain, Dr",
+                    "email": "jean-marc.chapplain@chu-rennes.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Saint-Etienne",
+                    "address": {
+                        "city": "Saint-\u00c9tienne",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Elisabeth BOTELHO-NEVERS, Pr",
+                    "email": "elisabeth.botelho-nevers@chu-st-etienne.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CH de Tourcoing",
+                    "address": {
+                        "city": "Tourcoing",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Eric SENNEVILLE, Pr",
+                    "email": "senneric670@gmail.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital Bretonneau",
+                    "address": {
+                        "city": "Tours",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Louis BERNARD, Pr",
+                    "email": "louis.bernard@univ-tours.fr"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 26, 2020",
+        "study_first_submitted_qc": "March 26, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "last_update_submitted": "March 27, 2020",
+        "last_update_submitted_qc": "March 27, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Severe Acute Respiratory Syndrome",
+                "Coronavirus Infections"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

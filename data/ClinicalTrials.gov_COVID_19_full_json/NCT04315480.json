@@ -1,1 +1,176 @@
-{"clinical_study": {"@rank": "304", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04315480"}, "id_info": {"org_study_id": "TOCICOV-1", "nct_id": "NCT04315480"}, "brief_title": "Tocilizumab for SARS-CoV2 Severe Pneumonitis", "official_title": "Tocilizumab (RoActemra) as Early Treatment of Patients Affected by SARS-CoV2 Infection With Severe Multifocal Interstitial Pneumonia", "sponsors": {"lead_sponsor": {"agency": "Universit\u00e0 Politecnica delle Marche", "agency_class": "Other"}, "collaborator": {"agency": "Azienda Ospedaliera Ospedali Riuniti Marche Nord", "agency_class": "Other"}}, "source": "Universit\u00e0 Politecnica delle Marche", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "In a Phase 2 Simon's Optimal Two-Stages Design intravenous tocilizumab will be administered\n      as single 8mg/Kg dose in patients affected by severe multifocal interstitial pneumonia\n      correlated to SARS-CoV2 infection. Aim of the study is to test the hypothesis that an\n      anti-IL6 treatment can be effective in calming the virus-induced cytokine storm, blocking\n      deterioration of lung function or even promoting a rapid improvement of clinical conditions,\n      preventing naso-tracheal intubation and/or death."}, "overall_status": "Active, not recruiting", "start_date": {"@type": "Actual", "#text": "March 12, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "May 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 9, 2020"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "intervention_model_description": "Simon's Two-stages Optimal Design", "primary_purpose": "Treatment", "masking": "None (Open Label)", "masking_description": "Radiologist will be blinded for sequence"}, "primary_outcome": [{"measure": "arrest in deterioration of pulmonary function", "time_frame": "7days", "description": "rate of patients with no need in increase of FiO2 to maintain stable SO2 and no need of intubation"}, {"measure": "improving in pulmonary function", "time_frame": "7 days", "description": "rate of patients with change of oxygen saturation >3 percentage points or >10% or decrease in FiO2 need or reduction in pulmonary consolidations >30% at HR CT-scan"}], "secondary_outcome": [{"measure": "need of oro-tracheal intubation", "time_frame": "+7 days", "description": "rate of patients needed of intubation"}, {"measure": "death", "time_frame": "14days", "description": "rate of patients dead"}], "number_of_arms": "1", "enrollment": {"@type": "Actual", "#text": "38"}, "condition": "SARS Pneumonia", "arm_group": {"arm_group_label": "tocilizumab", "arm_group_type": "Experimental"}, "intervention": {"intervention_type": "Drug", "intervention_name": "Tocilizumab", "description": "single intravenous administration 8mg/Kg", "arm_group_label": "tocilizumab"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  SARS-CoV2 Infection diagnosed by rt-PCR\n\n          -  CT-scan confirmed multifocal interstitial pneumonia\n\n          -  Need of oxygen therapy to maintain SO2>93%\n\n          -  Worsening of lung involvement, defined as (one of the following criteria):\n\n               -  Worsening of oxygen saturation >3 percentage points or decrease in PaO2 >10%,\n                  with stable FiO2 in the last 24h\n\n               -  Need of increase FiO2 in order to maintain a stable SO2 or new onset need of\n                  mechanical ventilation in the last 24h\n\n               -  Increase in number and/or extension of pulmonary areas of consolidation\n\n        Exclusion Criteria:\n\n          -  Age <18 ys and >90 ys\n\n          -  Severe heart failure\n\n          -  Bacterial Infection\n\n          -  Haematological neoplasm\n\n          -  Neutrophil count below 1000/mcl\n\n          -  Platelet count below 50000/mcl\n\n          -  ALT> x5UNL\n\n          -  Inability to give informed consent"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "90 Years", "healthy_volunteers": "No"}, "location": {"facility": {"name": "Universit\u00e0 Politecnica delle Marche", "address": {"city": "Ancona", "state": "AN", "zip": "60020", "country": "Italy"}}}, "location_countries": {"country": "Italy"}, "reference": [{"citation": "Tian S, Hu W, Niu L, Liu H, Xu H, Xiao SY. Pulmonary pathology of early phase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer. J Thorac Oncol. 2020 Feb 27. pii: S1556-0864(20)30132-5. doi: 10.1016/j.jtho.2020.02.010. [Epub ahead of print]", "PMID": "32114094"}, {"citation": "Ashour HM, Elkhatib WF, Rahman MM, Elshabrawy HA. Insights into the Recent 2019 Novel Coronavirus (SARS-CoV-2) in Light of Past Human Coronavirus Outbreaks. Pathogens. 2020 Mar 4;9(3). pii: E186. doi: 10.3390/pathogens9030186. Review.", "PMID": "32143502"}, {"citation": "Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol. 2017 Jul;39(5):529-539. doi: 10.1007/s00281-017-0629-x. Epub 2017 May 2. Review.", "PMID": "28466096"}, {"citation": "Zumla A, Ippolito G, Ntoumi F, Seyfert-Margolies V, Nagu TJ, Cirillo D, Chakaya JM, Marais B, Maeurer M. Host-directed therapies and holistic care for tuberculosis. Lancet Respir Med. 2020 Feb 27. pii: S2213-2600(20)30078-3. doi: 10.1016/S2213-2600(20)30078-3. [Epub ahead of print]", "PMID": "32113574"}], "verification_date": "April 2020", "study_first_submitted": "March 14, 2020", "study_first_submitted_qc": "March 18, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 19, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Universit\u00e0 Politecnica delle Marche", "investigator_full_name": "Armando Gabrielli", "investigator_title": "Full Professor Internal Medicine"}, "keyword": "Tocilizumab", "condition_browse": {"mesh_term": "Pneumonia"}, "patient_data": {"sharing_ipd": "No"}, "provided_document_section": {"provided_document": {"document_type": "Study Protocol", "document_has_protocol": "Yes", "document_has_icf": "No", "document_has_sap": "No", "document_date": "March 15, 2020", "document_url": "https://ClinicalTrials.gov/ProvidedDocs/80/NCT04315480/Prot_000.pdf"}}}}
+{
+    "clinical_study": {
+        "@rank": "304",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04315480"
+        },
+        "id_info": {
+            "org_study_id": "TOCICOV-1",
+            "nct_id": "NCT04315480"
+        },
+        "brief_title": "Tocilizumab for SARS-CoV2 Severe Pneumonitis",
+        "official_title": "Tocilizumab (RoActemra) as Early Treatment of Patients Affected by SARS-CoV2 Infection With Severe Multifocal Interstitial Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universit\u00e0 Politecnica delle Marche",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Azienda Ospedaliera Ospedali Riuniti Marche Nord",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Universit\u00e0 Politecnica delle Marche",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "In a Phase 2 Simon's Optimal Two-Stages Design intravenous tocilizumab will be administered\n      as single 8mg/Kg dose in patients affected by severe multifocal interstitial pneumonia\n      correlated to SARS-CoV2 infection. Aim of the study is to test the hypothesis that an\n      anti-IL6 treatment can be effective in calming the virus-induced cytokine storm, blocking\n      deterioration of lung function or even promoting a rapid improvement of clinical conditions,\n      preventing naso-tracheal intubation and/or death."
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 12, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 9, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "Simon's Two-stages Optimal Design",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)",
+            "masking_description": "Radiologist will be blinded for sequence"
+        },
+        "primary_outcome": [
+            {
+                "measure": "arrest in deterioration of pulmonary function",
+                "time_frame": "7days",
+                "description": "rate of patients with no need in increase of FiO2 to maintain stable SO2 and no need of intubation"
+            },
+            {
+                "measure": "improving in pulmonary function",
+                "time_frame": "7 days",
+                "description": "rate of patients with change of oxygen saturation >3 percentage points or >10% or decrease in FiO2 need or reduction in pulmonary consolidations >30% at HR CT-scan"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "need of oro-tracheal intubation",
+                "time_frame": "+7 days",
+                "description": "rate of patients needed of intubation"
+            },
+            {
+                "measure": "death",
+                "time_frame": "14days",
+                "description": "rate of patients dead"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "38"
+        },
+        "condition": "SARS Pneumonia",
+        "arm_group": {
+            "arm_group_label": "tocilizumab",
+            "arm_group_type": "Experimental"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Tocilizumab",
+            "description": "single intravenous administration 8mg/Kg",
+            "arm_group_label": "tocilizumab"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  SARS-CoV2 Infection diagnosed by rt-PCR\n\n          -  CT-scan confirmed multifocal interstitial pneumonia\n\n          -  Need of oxygen therapy to maintain SO2>93%\n\n          -  Worsening of lung involvement, defined as (one of the following criteria):\n\n               -  Worsening of oxygen saturation >3 percentage points or decrease in PaO2 >10%,\n                  with stable FiO2 in the last 24h\n\n               -  Need of increase FiO2 in order to maintain a stable SO2 or new onset need of\n                  mechanical ventilation in the last 24h\n\n               -  Increase in number and/or extension of pulmonary areas of consolidation\n\n        Exclusion Criteria:\n\n          -  Age <18 ys and >90 ys\n\n          -  Severe heart failure\n\n          -  Bacterial Infection\n\n          -  Haematological neoplasm\n\n          -  Neutrophil count below 1000/mcl\n\n          -  Platelet count below 50000/mcl\n\n          -  ALT> x5UNL\n\n          -  Inability to give informed consent"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "90 Years",
+            "healthy_volunteers": "No"
+        },
+        "location": {
+            "facility": {
+                "name": "Universit\u00e0 Politecnica delle Marche",
+                "address": {
+                    "city": "Ancona",
+                    "state": "AN",
+                    "zip": "60020",
+                    "country": "Italy"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
+        "reference": [
+            {
+                "citation": "Tian S, Hu W, Niu L, Liu H, Xu H, Xiao SY. Pulmonary pathology of early phase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer. J Thorac Oncol. 2020 Feb 27. pii: S1556-0864(20)30132-5. doi: 10.1016/j.jtho.2020.02.010. [Epub ahead of print]",
+                "PMID": "32114094"
+            },
+            {
+                "citation": "Ashour HM, Elkhatib WF, Rahman MM, Elshabrawy HA. Insights into the Recent 2019 Novel Coronavirus (SARS-CoV-2) in Light of Past Human Coronavirus Outbreaks. Pathogens. 2020 Mar 4;9(3). pii: E186. doi: 10.3390/pathogens9030186. Review.",
+                "PMID": "32143502"
+            },
+            {
+                "citation": "Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol. 2017 Jul;39(5):529-539. doi: 10.1007/s00281-017-0629-x. Epub 2017 May 2. Review.",
+                "PMID": "28466096"
+            },
+            {
+                "citation": "Zumla A, Ippolito G, Ntoumi F, Seyfert-Margolies V, Nagu TJ, Cirillo D, Chakaya JM, Marais B, Maeurer M. Host-directed therapies and holistic care for tuberculosis. Lancet Respir Med. 2020 Feb 27. pii: S2213-2600(20)30078-3. doi: 10.1016/S2213-2600(20)30078-3. [Epub ahead of print]",
+                "PMID": "32113574"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 14, 2020",
+        "study_first_submitted_qc": "March 18, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Universit\u00e0 Politecnica delle Marche",
+            "investigator_full_name": "Armando Gabrielli",
+            "investigator_title": "Full Professor Internal Medicine"
+        },
+        "keyword": "Tocilizumab",
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        },
+        "provided_document_section": {
+            "provided_document": {
+                "document_type": "Study Protocol",
+                "document_has_protocol": "Yes",
+                "document_has_icf": "No",
+                "document_has_sap": "No",
+                "document_date": "March 15, 2020",
+                "document_url": "https://ClinicalTrials.gov/ProvidedDocs/80/NCT04315480/Prot_000.pdf"
+            }
+        }
+    }
+}

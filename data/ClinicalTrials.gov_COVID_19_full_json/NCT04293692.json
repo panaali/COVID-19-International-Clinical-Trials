@@ -1,1 +1,189 @@
-{"clinical_study": {"@rank": "80", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04293692"}, "id_info": {"org_study_id": "Pr20200225", "nct_id": "NCT04293692"}, "brief_title": "Therapy for Pneumonia Patients iInfected by 2019 Novel Coronavirus", "official_title": "Human Umbilical Cord Mesenchymal Stem Cells Treatment for Pneumonia Patients Infected by 2019 Novel Coronavirus", "sponsors": {"lead_sponsor": {"agency": "Puren Hospital Affiliated to Wuhan University of Science and Technology", "agency_class": "Other"}, "collaborator": {"agency": "Wuhan Hamilton Bio-technology Co., Ltd", "agency_class": "Other"}}, "source": "Puren Hospital Affiliated to Wuhan University of Science and Technology", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The 2019 novel coronavirus pneumonia outbroken in Wuhan, China, which spread quickly to 26\n      countries worldwide and presented a serious threat to public health. It is mainly\n      characterized by fever, dry cough, shortness of breath and breathing difficulties. Some\n      patients may develop into rapid and deadly respiratory system injury with overwhelming\n      inflammation in the lung. Currently, there is no effective treatment in clinical practice.\n      The present clinical trial is to explore the safety and efficacy of Human Umbilical Cord\n      Mesenchymal Stem Cells (UC-MSCs) therapy for novel coronavirus pneumonia patients."}, "detailed_description": {"textblock": "Since late December 2019, human pneumonia cases infected by a novel coronavirus (2019-nCoV)\n      were firstly identified in Wuhan, China. As the virus is contagious and of great epidemic,\n      more and more cases have found in other areas of China and abroad. Up to February 24, a total\n      of 77, 779 confirmed cases were reported in China. At present, there is no effective\n      treatment for patients identified with novel coronavirus pneumonia. Therefore, it's urgent to\n      explore more active therapeutic methods to cure the patients.\n\n      Recently, some clinical researches about the 2019 novel coronavirus pneumonia published in\n      The Lancet and The New England Journal of Medicine suggested that massive inflammatory cell\n      infiltration and inflammatory cytokines secretion were found in patients' lungs, alveolar\n      epithelial cells and capillary endothelial cells were damaged, causing acute lung injury. It\n      seems that the key to cure the pneumonia is to inhibit the inflammatory response, resulting\n      to reduce the damage of alveolar epithelial cells and endothelial cells and repair the\n      function of the lung.\n\n      Mesenchymal stem cells (MSCs) are widely used in basic research and clinical application.\n      They are proved to migrate to damaged tissues, exert anti-inflammatory and immunoregulatory\n      functions, promote the regeneration of damaged tissues and inhibit tissue fibrosis. Studies\n      have shown that MSCs can significantly reduce acute lung injury in mice caused by H9N2 and\n      H5N1 viruses by reducing the levels of proinflammatory cytokines and the recruitment of\n      inflammatory cells into the lungs. Compared with MSCs from other sources, human umbilical\n      cord-derived MSCs (UC-MSCs) have been widely applied to various diseases due to their\n      convenient collection, no ethical controversy, low immunogenicity, and rapid proliferation\n      rate. In our recent research, we confirmed that UC-MSCs can significantly reduce inflammatory\n      cell infiltration and inflammatory factors expression in lung tissue, and significantly\n      protect lung tissue from endotoxin (LPS) -induced acute lung injury in mice.\n\n      The purpose of this clinical study is to investigate safety and efficiency of UC-MSCs in\n      treating pneumonia patients infected by 2019-nCoV. The investigators planned to recruit 48\n      patients aged from 18 to 75 years old and had no severe underlying diseases. In the cell\n      treatment group, 24 patients received 0.5*10E6 UC-MSCs /kg body weight intravenously\n      treatment 4 times every other day besides conventional treatment. In the control group, other\n      24 patients received conventional treatment plus 4 times of placebo intravenously. The lung\n      CT, blood biochemical examination, lymphocyte subsets, inflammatory factors, 28-days\n      mortality, etc will be evaluated within 24h and 1, 2, 4, 8 weeks after UC-MSCs treatment."}, "overall_status": "Withdrawn", "why_stopped": "Patients were transferred to designated hospitals for treatment as needed, the clinical trials\n    cannot be conducted.", "start_date": {"@type": "Actual", "#text": "February 24, 2020"}, "completion_date": {"@type": "Actual", "#text": "February 25, 2020"}, "primary_completion_date": {"@type": "Actual", "#text": "February 25, 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "Triple (Participant, Care Provider, Outcomes Assessor)"}, "primary_outcome": [{"measure": "Size of lesion area by chest imaging", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Evaluation of Pneumonia change"}, {"measure": "Blood oxygen saturation", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Evaluation of Pneumonia change"}], "secondary_outcome": [{"measure": "Rate of mortality within 28-days", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Marker for efficacy of treatment"}, {"measure": "Sequential organ failure assessment", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "0-4 score, the higher the score is, the poor of the prognosis will be."}, {"measure": "Side effects in the UC-MSCs treatment group", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Number of participants with treatment-related adverse events"}, {"measure": "Electrocardiogram, the changes of ST-T interval mostly", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Markers of the heart function"}, {"measure": "Concentration of C-reactive protein C-reactive protein, immunoglobulin", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Markers of infection"}, {"measure": "CD4+ and CD8+ T cells count", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Marker of Immunology and inflammation"}, {"measure": "Concentration of the blood cytokine (IL-1\u03b2, IL-6, IL-8,IL-10,TNF-\u03b1)", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Marker of Immunology and inflammation"}, {"measure": "Concentration of the myocardial enzymes", "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8", "description": "Markers of the heart function"}], "number_of_arms": "2", "enrollment": {"@type": "Actual", "#text": "0"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "UC-MSCs treatment group", "arm_group_type": "Experimental", "description": "Participants will receive conventional treatment plus 4 times of 0.5*10E6 UC-MSCs /kg body weight intravenously at Day1, Day3, Day5, Day7)."}, {"arm_group_label": "Control group", "arm_group_type": "Placebo Comparator", "description": "Participants will receive conventional treatment plus 4 times of Placebo intravenously at Day1, Day3, Day5, Day7."}], "intervention": [{"intervention_type": "Biological", "intervention_name": "UC-MSCs", "description": "0.5*10E6 UC-MSCs /kg body weight suspended in 100mL saline containing 1% human albumin intravenously at Day1, Day3, Day5, Day7", "arm_group_label": "UC-MSCs treatment group"}, {"intervention_type": "Other", "intervention_name": "Placebo", "description": "100mL saline containing 1% human albumin intravenously at Day 1, Day 3, Day 5, Day 7", "arm_group_label": "Control group"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Male or female, 18 years old \u2264 age \u2264 75years old;\n\n          2. CT image is characteristic of 2019 novel coronavirus pneumonia;\n\n          3. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase\n             chain reaction (RT-PCR);\n\n          4. In compliance with the 2019-nCoV pneumonia diagnosis standard (according to the novel\n             coronavirus infection pneumonia diagnosis and treatment program (Trial Implementation\n             Version 6) issued by the National Health and Medical Commission, and WHO 2019 new\n             coronavirus guidelines standards): (A) increased breathing rate (\u226530 beats / min),\n             difficulty breathing, cyanosis of the lips; (B) in resting state, means oxygen\n             saturation \u226493%; (C) partial pressure of arterial oxygen (PaO2) / Fraction of inspired\n             oxygen (FiO2) \u2264300 mmHg (1mmHg = 0.133kPa);\n\n        Exclusion Criteria:\n\n          1. Patients with severe allergies or allergies to stem cells;\n\n          2. Patients with serious basic diseases that affect survival, including: blood diseases,\n             cachexia, active bleeding, severe malnutrition, etc.;\n\n          3. Patients with pulmonary obstructive pneumonia, severe pulmonary interstitial fibrosis,\n             alveolar proteinosis, allergic alveolitis, and other known viral pneumonia or\n             bacterial pneumonia;\n\n          4. Continuous use of immunosuppressive agents or organ transplants in the past 6 months;\n\n          5. In vitro life support (ECMO, ECCO2R, RRT);\n\n          6. Expected deaths within 48 hours, uncontrolled infections;\n\n          7. Patients with malignant blood-borne diseases such as HIV or syphilis;\n\n          8. Patient with pregnancy, are planning to become pregnant or breastfeeding;\n\n          9. Patients with poor compliance and unable to complete the full study;\n\n         10. The investigator determines that there may be increased risk of the subject or other\n             conditions that interfere with the clinical trial and the judgment of the results\n             (such as excessive stress, sensitivity or cognitive impairment, etc.);\n\n         11. There are other situations that the researchers think are not suitable to participate\n             in this clinical study"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "75 Years", "healthy_volunteers": "No"}, "location": {"facility": {"name": "Puren Hospital Affiliated to Wuhan University of Science and Technology", "address": {"city": "Wuhan", "state": "Hubei", "zip": "430081", "country": "China"}}}, "location_countries": {"country": "China"}, "verification_date": "March 2020", "study_first_submitted": "February 24, 2020", "study_first_submitted_qc": "February 29, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 3, 2020"}, "last_update_submitted": "March 15, 2020", "last_update_submitted_qc": "March 15, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 18, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "condition_browse": {"mesh_term": "Pneumonia"}}}
+{
+    "clinical_study": {
+        "@rank": "80",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04293692"
+        },
+        "id_info": {
+            "org_study_id": "Pr20200225",
+            "nct_id": "NCT04293692"
+        },
+        "brief_title": "Therapy for Pneumonia Patients iInfected by 2019 Novel Coronavirus",
+        "official_title": "Human Umbilical Cord Mesenchymal Stem Cells Treatment for Pneumonia Patients Infected by 2019 Novel Coronavirus",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Puren Hospital Affiliated to Wuhan University of Science and Technology",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Wuhan Hamilton Bio-technology Co., Ltd",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Puren Hospital Affiliated to Wuhan University of Science and Technology",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The 2019 novel coronavirus pneumonia outbroken in Wuhan, China, which spread quickly to 26\n      countries worldwide and presented a serious threat to public health. It is mainly\n      characterized by fever, dry cough, shortness of breath and breathing difficulties. Some\n      patients may develop into rapid and deadly respiratory system injury with overwhelming\n      inflammation in the lung. Currently, there is no effective treatment in clinical practice.\n      The present clinical trial is to explore the safety and efficacy of Human Umbilical Cord\n      Mesenchymal Stem Cells (UC-MSCs) therapy for novel coronavirus pneumonia patients."
+        },
+        "detailed_description": {
+            "textblock": "Since late December 2019, human pneumonia cases infected by a novel coronavirus (2019-nCoV)\n      were firstly identified in Wuhan, China. As the virus is contagious and of great epidemic,\n      more and more cases have found in other areas of China and abroad. Up to February 24, a total\n      of 77, 779 confirmed cases were reported in China. At present, there is no effective\n      treatment for patients identified with novel coronavirus pneumonia. Therefore, it's urgent to\n      explore more active therapeutic methods to cure the patients.\n\n      Recently, some clinical researches about the 2019 novel coronavirus pneumonia published in\n      The Lancet and The New England Journal of Medicine suggested that massive inflammatory cell\n      infiltration and inflammatory cytokines secretion were found in patients' lungs, alveolar\n      epithelial cells and capillary endothelial cells were damaged, causing acute lung injury. It\n      seems that the key to cure the pneumonia is to inhibit the inflammatory response, resulting\n      to reduce the damage of alveolar epithelial cells and endothelial cells and repair the\n      function of the lung.\n\n      Mesenchymal stem cells (MSCs) are widely used in basic research and clinical application.\n      They are proved to migrate to damaged tissues, exert anti-inflammatory and immunoregulatory\n      functions, promote the regeneration of damaged tissues and inhibit tissue fibrosis. Studies\n      have shown that MSCs can significantly reduce acute lung injury in mice caused by H9N2 and\n      H5N1 viruses by reducing the levels of proinflammatory cytokines and the recruitment of\n      inflammatory cells into the lungs. Compared with MSCs from other sources, human umbilical\n      cord-derived MSCs (UC-MSCs) have been widely applied to various diseases due to their\n      convenient collection, no ethical controversy, low immunogenicity, and rapid proliferation\n      rate. In our recent research, we confirmed that UC-MSCs can significantly reduce inflammatory\n      cell infiltration and inflammatory factors expression in lung tissue, and significantly\n      protect lung tissue from endotoxin (LPS) -induced acute lung injury in mice.\n\n      The purpose of this clinical study is to investigate safety and efficiency of UC-MSCs in\n      treating pneumonia patients infected by 2019-nCoV. The investigators planned to recruit 48\n      patients aged from 18 to 75 years old and had no severe underlying diseases. In the cell\n      treatment group, 24 patients received 0.5*10E6 UC-MSCs /kg body weight intravenously\n      treatment 4 times every other day besides conventional treatment. In the control group, other\n      24 patients received conventional treatment plus 4 times of placebo intravenously. The lung\n      CT, blood biochemical examination, lymphocyte subsets, inflammatory factors, 28-days\n      mortality, etc will be evaluated within 24h and 1, 2, 4, 8 weeks after UC-MSCs treatment."
+        },
+        "overall_status": "Withdrawn",
+        "why_stopped": "Patients were transferred to designated hospitals for treatment as needed, the clinical trials\n    cannot be conducted.",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "February 24, 2020"
+        },
+        "completion_date": {
+            "@type": "Actual",
+            "#text": "February 25, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Actual",
+            "#text": "February 25, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Triple (Participant, Care Provider, Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Size of lesion area by chest imaging",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Evaluation of Pneumonia change"
+            },
+            {
+                "measure": "Blood oxygen saturation",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Evaluation of Pneumonia change"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Rate of mortality within 28-days",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Marker for efficacy of treatment"
+            },
+            {
+                "measure": "Sequential organ failure assessment",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "0-4 score, the higher the score is, the poor of the prognosis will be."
+            },
+            {
+                "measure": "Side effects in the UC-MSCs treatment group",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Number of participants with treatment-related adverse events"
+            },
+            {
+                "measure": "Electrocardiogram, the changes of ST-T interval mostly",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Markers of the heart function"
+            },
+            {
+                "measure": "Concentration of C-reactive protein C-reactive protein, immunoglobulin",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Markers of infection"
+            },
+            {
+                "measure": "CD4+ and CD8+ T cells count",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Marker of Immunology and inflammation"
+            },
+            {
+                "measure": "Concentration of the blood cytokine (IL-1\u03b2, IL-6, IL-8,IL-10,TNF-\u03b1)",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Marker of Immunology and inflammation"
+            },
+            {
+                "measure": "Concentration of the myocardial enzymes",
+                "time_frame": "At baseline, Day 1, Week 1, Week 2, Week 4, Week 8",
+                "description": "Markers of the heart function"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "0"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "UC-MSCs treatment group",
+                "arm_group_type": "Experimental",
+                "description": "Participants will receive conventional treatment plus 4 times of 0.5*10E6 UC-MSCs /kg body weight intravenously at Day1, Day3, Day5, Day7)."
+            },
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Participants will receive conventional treatment plus 4 times of Placebo intravenously at Day1, Day3, Day5, Day7."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "UC-MSCs",
+                "description": "0.5*10E6 UC-MSCs /kg body weight suspended in 100mL saline containing 1% human albumin intravenously at Day1, Day3, Day5, Day7",
+                "arm_group_label": "UC-MSCs treatment group"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "100mL saline containing 1% human albumin intravenously at Day 1, Day 3, Day 5, Day 7",
+                "arm_group_label": "Control group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male or female, 18 years old \u2264 age \u2264 75years old;\n\n          2. CT image is characteristic of 2019 novel coronavirus pneumonia;\n\n          3. Laboratory confirmation of 2019-nCoV infection by reverse-transcription polymerase\n             chain reaction (RT-PCR);\n\n          4. In compliance with the 2019-nCoV pneumonia diagnosis standard (according to the novel\n             coronavirus infection pneumonia diagnosis and treatment program (Trial Implementation\n             Version 6) issued by the National Health and Medical Commission, and WHO 2019 new\n             coronavirus guidelines standards): (A) increased breathing rate (\u226530 beats / min),\n             difficulty breathing, cyanosis of the lips; (B) in resting state, means oxygen\n             saturation \u226493%; (C) partial pressure of arterial oxygen (PaO2) / Fraction of inspired\n             oxygen (FiO2) \u2264300 mmHg (1mmHg = 0.133kPa);\n\n        Exclusion Criteria:\n\n          1. Patients with severe allergies or allergies to stem cells;\n\n          2. Patients with serious basic diseases that affect survival, including: blood diseases,\n             cachexia, active bleeding, severe malnutrition, etc.;\n\n          3. Patients with pulmonary obstructive pneumonia, severe pulmonary interstitial fibrosis,\n             alveolar proteinosis, allergic alveolitis, and other known viral pneumonia or\n             bacterial pneumonia;\n\n          4. Continuous use of immunosuppressive agents or organ transplants in the past 6 months;\n\n          5. In vitro life support (ECMO, ECCO2R, RRT);\n\n          6. Expected deaths within 48 hours, uncontrolled infections;\n\n          7. Patients with malignant blood-borne diseases such as HIV or syphilis;\n\n          8. Patient with pregnancy, are planning to become pregnant or breastfeeding;\n\n          9. Patients with poor compliance and unable to complete the full study;\n\n         10. The investigator determines that there may be increased risk of the subject or other\n             conditions that interfere with the clinical trial and the judgment of the results\n             (such as excessive stress, sensitivity or cognitive impairment, etc.);\n\n         11. There are other situations that the researchers think are not suitable to participate\n             in this clinical study"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "location": {
+            "facility": {
+                "name": "Puren Hospital Affiliated to Wuhan University of Science and Technology",
+                "address": {
+                    "city": "Wuhan",
+                    "state": "Hubei",
+                    "zip": "430081",
+                    "country": "China"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "February 24, 2020",
+        "study_first_submitted_qc": "February 29, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 3, 2020"
+        },
+        "last_update_submitted": "March 15, 2020",
+        "last_update_submitted_qc": "March 15, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 18, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        }
+    }
+}

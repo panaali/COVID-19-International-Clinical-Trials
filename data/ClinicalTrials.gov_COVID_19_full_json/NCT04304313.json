@@ -1,1 +1,192 @@
-{"clinical_study": {"@rank": "25", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04304313"}, "id_info": {"org_study_id": "GST-G1", "nct_id": "NCT04304313"}, "brief_title": "A Pilot Study of Sildenafil in COVID-19", "official_title": "A Pilot Study of Sildenafi in the Treatment of COVID-19", "sponsors": {"lead_sponsor": {"agency": "Tongji Hospital", "agency_class": "Other"}}, "source": "Tongji Hospital", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Observe the efficacy and safety of G1(Sildenafil citrate tablets) in patients with COVID-19\n      under clinical actual diagnosis and treatment conditions"}, "overall_status": "Recruiting", "start_date": {"@type": "Actual", "#text": "February 9, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "November 9, 2020"}, "primary_completion_date": {"@type": "Actual", "#text": "March 1, 2020"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"intervention_model": "Single Group Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Rate of disease remission", "time_frame": "14 days", "description": "fever,cough and other symptoms relieved with improved lung CT;\nSPO2>93% or PaO2/FiO2 >300mmHg without oxygen inhalation."}, {"measure": "Rate of entering the critical stage", "time_frame": "14 days", "description": "Comply with any of the followings:\nRespiratory failure occurs and requires mechanical ventilation;\nShock;\nPatients combined with other organ failure need ICU monitoring and treatment."}, {"measure": "Time of entering the critical stage", "time_frame": "14 days", "description": "Comply with any of the followings:\nRespiratory failure occurs and requires mechanical ventilation;\nShock;\nPatients combined with other organ failure need ICU monitoring and treatment."}], "secondary_outcome": [{"measure": "Rate of no fever", "time_frame": "14 days"}, {"measure": "Rate of respiratory symptom remission", "time_frame": "14 days"}, {"measure": "Rate of lung imaging recovery", "time_frame": "14 days"}, {"measure": "Rate of C-reactive protein (CRP) recovery", "time_frame": "14 days"}, {"measure": "Rate of Biochemical criterion (CK, ALT, Mb) recovery", "time_frame": "14 days"}, {"measure": "Rate of undetectable viral RNA (continuous twice)", "time_frame": "14 days"}, {"measure": "Time for hospitalization", "time_frame": "14 days", "description": "From the date of enrollment to the time when the subject is released from the hospital or transferred to the corresponding department for treatment of other diseases according to the condition."}, {"measure": "Rate of adverse event", "time_frame": "14 days", "description": "All adverse events will be coded and described using the International Medical Terms Dictionary (MedDRA)."}], "number_of_arms": "1", "enrollment": {"@type": "Anticipated", "#text": "10"}, "condition": "COVID-19", "arm_group": {"arm_group_label": "Sildenafil citrate tablets", "arm_group_type": "Experimental"}, "intervention": {"intervention_type": "Drug", "intervention_name": "Sildenafil citrate tablets", "description": "0.1g/day for 14 days", "arm_group_label": "Sildenafil citrate tablets"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Patients diagnosed as COVID-19:\n\n               1. mild patient: fever,respiratory and other symptoms, the manifestation of\n                  pneumonia can be seen on imaging.\n\n               2. severe patients: meet the definition of severe pneumonia(comply with any of the\n                  followings): Shortness of breath,RR\u226530 bpm;In a resting\n                  state:SPO2\u226493%;PaO2/FiO2\u2264300mmHg.\n\n          2. Age\u226518 years old,unlimited gender.\n\n          3. Patients who cannot stop the following drugs during the trial:erythromycin or strong\n             inhibitors of CYP3A4 (such as saquinavir,ketoconazole,itraconazole),nonspecific\n             inhibitors of CYP (such as cimetidine),HIV protease inhibitors (such as ritonavir).\n\n          4. Willing to participate in this study,signed Informed Consent and willing to\n             participate in regular follow-up during the study.\n\n        Exclusion Criteria:\n\n          1. Suffer from severe cognitive impairment or mental illness.\n\n          2. Pregnant and lactating women.\n\n          3. Patients taking nitric oxide drugs and nitrates in any dosage form.\n\n          4. Patients with malignant tumors;AMI, stroke or life-threatening arrhythmias within 6\n             months;hereditary pigmented retinitis;heart failure or unstable angina pectoris of\n             coronary heart disease;patients with severe hypotension and hypertension.\n\n          5. Patients who are allergic to the study drug or the researcher believes it is not\n             appropriate.\n\n          6. Participate in other clinical studies at the same time."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Qing Ning, Professor", "phone": "+8613971521450", "email": "qning@vip.sina.com"}, "overall_contact_backup": {"last_name": "Meifang Han, Professor", "phone": "+8613986093605", "email": "mfhan@foxmail.com"}, "location": {"facility": {"name": "Department and Institute of Infectious Disease", "address": {"city": "Wuhan", "state": "Hubei", "zip": "430030", "country": "China"}}, "status": "Recruiting", "contact": {"last_name": "Qin Ning, professor", "email": "qning@vip.sina.com"}, "contact_backup": {"last_name": "Meifang Han, professor", "email": "mfhan@foxmail.com"}}, "location_countries": {"country": "China"}, "verification_date": "March 2020", "study_first_submitted": "February 14, 2020", "study_first_submitted_qc": "March 10, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 11, 2020"}, "last_update_submitted": "March 14, 2020", "last_update_submitted_qc": "March 14, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 17, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Tongji Hospital", "investigator_full_name": "Qin Ning", "investigator_title": "Professor"}, "intervention_browse": {"mesh_term": ["Sildenafil Citrate", "Citric Acid", "Sodium Citrate"]}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "25",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04304313"
+        },
+        "id_info": {
+            "org_study_id": "GST-G1",
+            "nct_id": "NCT04304313"
+        },
+        "brief_title": "A Pilot Study of Sildenafil in COVID-19",
+        "official_title": "A Pilot Study of Sildenafi in the Treatment of COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Tongji Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Tongji Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Observe the efficacy and safety of G1(Sildenafil citrate tablets) in patients with COVID-19\n      under clinical actual diagnosis and treatment conditions"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "February 9, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 9, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Actual",
+            "#text": "March 1, 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Rate of disease remission",
+                "time_frame": "14 days",
+                "description": "fever,cough and other symptoms relieved with improved lung CT;\nSPO2>93% or PaO2/FiO2 >300mmHg without oxygen inhalation."
+            },
+            {
+                "measure": "Rate of entering the critical stage",
+                "time_frame": "14 days",
+                "description": "Comply with any of the followings:\nRespiratory failure occurs and requires mechanical ventilation;\nShock;\nPatients combined with other organ failure need ICU monitoring and treatment."
+            },
+            {
+                "measure": "Time of entering the critical stage",
+                "time_frame": "14 days",
+                "description": "Comply with any of the followings:\nRespiratory failure occurs and requires mechanical ventilation;\nShock;\nPatients combined with other organ failure need ICU monitoring and treatment."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Rate of no fever",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Rate of respiratory symptom remission",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Rate of lung imaging recovery",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Rate of C-reactive protein (CRP) recovery",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Rate of Biochemical criterion (CK, ALT, Mb) recovery",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Rate of undetectable viral RNA (continuous twice)",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Time for hospitalization",
+                "time_frame": "14 days",
+                "description": "From the date of enrollment to the time when the subject is released from the hospital or transferred to the corresponding department for treatment of other diseases according to the condition."
+            },
+            {
+                "measure": "Rate of adverse event",
+                "time_frame": "14 days",
+                "description": "All adverse events will be coded and described using the International Medical Terms Dictionary (MedDRA)."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "Sildenafil citrate tablets",
+            "arm_group_type": "Experimental"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Sildenafil citrate tablets",
+            "description": "0.1g/day for 14 days",
+            "arm_group_label": "Sildenafil citrate tablets"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Patients diagnosed as COVID-19:\n\n               1. mild patient: fever,respiratory and other symptoms, the manifestation of\n                  pneumonia can be seen on imaging.\n\n               2. severe patients: meet the definition of severe pneumonia(comply with any of the\n                  followings): Shortness of breath,RR\u226530 bpm;In a resting\n                  state:SPO2\u226493%;PaO2/FiO2\u2264300mmHg.\n\n          2. Age\u226518 years old,unlimited gender.\n\n          3. Patients who cannot stop the following drugs during the trial:erythromycin or strong\n             inhibitors of CYP3A4 (such as saquinavir,ketoconazole,itraconazole),nonspecific\n             inhibitors of CYP (such as cimetidine),HIV protease inhibitors (such as ritonavir).\n\n          4. Willing to participate in this study,signed Informed Consent and willing to\n             participate in regular follow-up during the study.\n\n        Exclusion Criteria:\n\n          1. Suffer from severe cognitive impairment or mental illness.\n\n          2. Pregnant and lactating women.\n\n          3. Patients taking nitric oxide drugs and nitrates in any dosage form.\n\n          4. Patients with malignant tumors;AMI, stroke or life-threatening arrhythmias within 6\n             months;hereditary pigmented retinitis;heart failure or unstable angina pectoris of\n             coronary heart disease;patients with severe hypotension and hypertension.\n\n          5. Patients who are allergic to the study drug or the researcher believes it is not\n             appropriate.\n\n          6. Participate in other clinical studies at the same time."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Qing Ning, Professor",
+            "phone": "+8613971521450",
+            "email": "qning@vip.sina.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Meifang Han, Professor",
+            "phone": "+8613986093605",
+            "email": "mfhan@foxmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Department and Institute of Infectious Disease",
+                "address": {
+                    "city": "Wuhan",
+                    "state": "Hubei",
+                    "zip": "430030",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Qin Ning, professor",
+                "email": "qning@vip.sina.com"
+            },
+            "contact_backup": {
+                "last_name": "Meifang Han, professor",
+                "email": "mfhan@foxmail.com"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "February 14, 2020",
+        "study_first_submitted_qc": "March 10, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 11, 2020"
+        },
+        "last_update_submitted": "March 14, 2020",
+        "last_update_submitted_qc": "March 14, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 17, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Tongji Hospital",
+            "investigator_full_name": "Qin Ning",
+            "investigator_title": "Professor"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Sildenafil Citrate",
+                "Citric Acid",
+                "Sodium Citrate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

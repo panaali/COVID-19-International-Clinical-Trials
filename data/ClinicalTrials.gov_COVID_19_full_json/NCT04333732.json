@@ -1,1 +1,388 @@
-{"clinical_study": {"@rank": "121", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04333732"}, "id_info": {"org_study_id": "202004xxx", "nct_id": "NCT04333732"}, "brief_title": "CROWN CORONATION: Chloroquine RepurpOsing to healthWorkers for Novel CORONAvirus mitigaTION", "acronym": "CROWN CORONA", "official_title": "A Phase 2, International Multi-site, Bayesian Adaptive, Randomised, Double-blinded, Placebo-controlled Trial Assessing the Effectiveness of Varied Doses of Oral Chloroquine in Preventing or Reducing the Severity of COVID-19 Disease in Healthcare Workers", "sponsors": {"lead_sponsor": {"agency": "Washington University School of Medicine", "agency_class": "Other"}}, "source": "Washington University School of Medicine", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "Yes", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Healthcare workers are at the frontline of the fight against COVID-19, and as such they are\n      at high risk for infection and possibly for serious infection, linked to the extent of their\n      exposure. The CROWN CORONATION trial prioritizes the protection of healthcare workers as a\n      strategy to prevent collapse of healthcare services."}, "detailed_description": {"textblock": "CROWN CORONATION is a large, Bayesian adaptive, pragmatic, participant-level randomized,\n      multi-center, transdisciplinary, international placebo-controlled trial. It has been designed\n      in accordance with CONSORT guidelines. Randomization will be stratified by age (<50 and \u226550)\n      and study site. Participants will be healthcare workers at risk for contracting SARS-CoV-2.\n      Participants will be randomized into one of four arms:\n\n        -  Low-dose (300mg chloroquine base weekly);\n\n        -  Medium-dose (300mg chloroquine base twice weekly);\n\n        -  High-dose (150 mg chloroquine base daily);\n\n        -  Placebo.\n\n      In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or\n      equivalent number of placebo tablets in the placebo arm) will be taken in 4 divided daily\n      doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before\n      starting the low, medium, or high dose regimen .\n\n      In certain countries (especially where malaria is not endemic), hydroxychloroquine is more\n      readily available and will be used instead of chloroquine. Based on in vitro studies and\n      reviews of drug toxicity , we consider 150mg of hydroxychloroquine base to be equivalent to\n      150mg of chloroquine base in terms of efficacy. New dosage-based arm(s) might be added or\n      removed. The trial will evaluate which of the intervention arms is most effective at\n      decreasing the incidence of severe COVID-19 disease, without unacceptable side effects or\n      safety events.\n\n      Participants will complete weekly (smart phone- based) data logs, and follow- up information\n      will be collected until 2 months after enrolment or death. In addition, where possible, we\n      will use telemedicine approaches to collection information on participants. The study flow\n      overview is outlined in Figure 4. We will provide adherence support interventions that have\n      worked and been tested for Human Immunodeficiency Virus Pre-Exposure Prophylaxis (HIV PrEP)\n      (e.g. two-way SMS with check in for those that report symptoms or adverse events). On\n      enrollment, the local trial team will create a new electronic case record from (CRF) on the\n      web-based study database and record basic demographic information. The database will be\n      hosted on UK based servers managed by Net Solving Ltd. Local investigators will have access\n      to the part of the CRF to enable recording of outcome data and/or severity of COVID-19\n      symptoms. Participants will be given a secure login to enable them to complete an initial\n      participant health questionnaire and the daily data logs."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 2020"}, "completion_date": {"@type": "Anticipated", "#text": "February 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "February 2021"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "intervention_model_description": "A international, multi-site, randomized, double-blinded, placebo-controlled clinical effectiveness", "primary_purpose": "Prevention", "masking": "Single (Participant)"}, "primary_outcome": [{"measure": "Symptomatic COVID-19", "time_frame": "3 months", "description": "Clinical diagnosis of COVID-19 with limitation of activities (WHO Severity Scale 2-8)"}, {"measure": "Peak severity of COVID-19 over the study period", "time_frame": "3 months", "description": "i) Uninfected - no clinical or virological evidence of infection (Score = 0) ii) Ambulatory - no limitation of activities (score=1) or with limitation (Score=2) iii) Hospitalized - mild no oxygen (Score=3) or with oxygen (Score=4) iv) Hospitalized severe - Scores 5-7* v) Dead\n* Score 5 is non-invasive ventilation or high flow oxygen; Score 6 is intubation with mechanical ventilation; Score 7 is intubation with additional organ support (e.g. pressors, renal replacement therapy, extra corporeal membrane oxygenation [ECMO]) These outcome definitions are based on WHO R&D Blueprint consensus definitions for COVID-19."}], "number_of_arms": "4", "enrollment": {"@type": "Anticipated", "#text": "55000"}, "condition": "COVID 19", "arm_group": [{"arm_group_label": "\u25cf Low-dose (300mg chloroquine base weekly)", "arm_group_type": "Experimental", "description": "Placebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine once weekly. The decision of whether to offer chloroquine or hydroxychloroquine will be based on local availability."}, {"arm_group_label": "\u25cf Medium-dose (300mg chloroquine base twice weekly)", "arm_group_type": "Experimental", "description": "Placebo 1 administered orally once daily, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine twice weekly"}, {"arm_group_label": "\u25cf High-dose (150 mg chloroquine base daily)", "arm_group_type": "Experimental", "description": "Chloroquine base 150 mg administered orally once daily either a chloroquine or hydroxychloroquine, Placebo 2 administered orally once weekly, Placebo 3 administered orally once weekly"}, {"arm_group_label": "Placebo", "arm_group_type": "Placebo Comparator", "description": "Placebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Placebo 3 administered orally once weekly"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Low-dose chloroquine/hydroxychloroquine", "description": "In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.\nPlacebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine once weekly. The decision of whether to offer chloroquine or hydroxychloroquine will be based on local availability.", "arm_group_label": "\u25cf Low-dose (300mg chloroquine base weekly)", "other_name": "Aralen or Plaquenil"}, {"intervention_type": "Drug", "intervention_name": "Mid dose chloroquine or hydroxychloroquine", "description": "In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.\nPlacebo 1 administered orally once daily, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine twice weekly", "arm_group_label": "\u25cf Medium-dose (300mg chloroquine base twice weekly)", "other_name": "Aralen or Plaquenil"}, {"intervention_type": "Drug", "intervention_name": "High does chloroquine or hydroxychloroquine", "description": "In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.\nIn all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.", "arm_group_label": "\u25cf High-dose (150 mg chloroquine base daily)", "other_name": "Aralen or Plaquenil"}, {"intervention_type": "Drug", "intervention_name": "Placebo", "description": "Placebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Placebo 3 administered orally once weekly.", "arm_group_label": "Placebo"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Age \u226518 years.\n\n          2. Healthcare worker based in a primary, secondary or tertiary healthcare setting with a\n             high risk of developing COVID-19 due to their potential exposure to patients with\n             SARS-CoV-2 infection.\n\n        Exclusion Criteria:\n\n        -"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": [{"last_name": "Michael S. Avidan, MBBCh", "role": "Principal Investigator", "affiliation": "Washington Univeristy School of Medicine"}, {"last_name": "Ramani Moonesinghe, MD", "role": "Principal Investigator", "affiliation": "University College, London"}, {"last_name": "Helen Rees, MD", "role": "Principal Investigator", "affiliation": "Wits University"}], "overall_contact": {"last_name": "Linda Yun, BS", "phone": "314-273-2240", "email": "lindayun@wustl.edu"}, "overall_contact_backup": {"last_name": "Sherry McKinnon, BS", "phone": "314-286-1768", "email": "smckinnon@wustl.edu"}, "location": [{"facility": {"name": "Washington University School of Medicine", "address": {"city": "Saint Louis", "state": "Missouri", "zip": "63110", "country": "United States"}}, "contact": {"last_name": "Linda Yun, BS", "phone": "314-273-2240", "email": "lindayun@wustl.edu"}, "contact_backup": {"last_name": "Sherry McKinnon", "phone": "314-286-1768", "email": "mckinnos@anest.wustl.edu"}, "investigator": [{"last_name": "Michael S. Avidan, MBBCh, FCASA", "role": "Principal Investigator"}, {"last_name": "Mary Politi, MD", "role": "Sub-Investigator"}, {"last_name": "Eric Dubberke, MD", "role": "Principal Investigator"}]}, {"facility": {"name": "Melbourne Medical School", "address": {"city": "Melbourne", "state": "Victoria", "zip": "VIC 3010", "country": "Australia"}}, "contact": {"last_name": "David Story, MD", "email": "dastory@unimelb.edu.au"}}, {"facility": {"name": "Population Health Resarch Institute", "address": {"city": "Hamilton", "state": "Ontario", "zip": "L8L 2X2", "country": "Canada"}}, "contact": {"last_name": "Jessica Spence, MD, FRCPC", "email": "spencej@phri.ca"}, "investigator": {"last_name": "Jessica Spence, MD, FRCPC", "role": "Principal Investigator"}}, {"facility": {"name": "University of Toronto", "address": {"city": "Toronto", "state": "Ontario", "zip": "M5G 1E2", "country": "Canada"}}, "contact": {"last_name": "David Mazer, MD", "phone": "(416) 864-5825", "email": "David.Mazer@unityhealth.to"}, "investigator": {"last_name": "David Mazer, MD", "role": "Principal Investigator"}}, {"facility": {"name": "St James's Hospital", "address": {"city": "Dublin", "state": "Leinster", "zip": "Dublin 8", "country": "Ireland"}}, "contact": {"last_name": "Ellen O'Sullivan, MD, FRCA,FCAI", "phone": "353876993178", "email": "ellenosullivan2000@gmail.com"}}, {"facility": {"name": "Wits RHI, University of the Witwatersrand", "address": {"city": "Johannesburg", "state": "Gauteng", "zip": "2001", "country": "South Africa"}}, "contact": {"last_name": "Sinead Delany-Moretlwe, MBChB, PhD, DTM&H", "phone": "+27 82 377 6275", "email": "sdelany@wrhi.ac.za"}, "contact_backup": {"last_name": "Michelle Moorhouse, MBChB"}, "investigator": [{"last_name": "Gloria Maimela, MBBCh MBA", "role": "Sub-Investigator"}, {"last_name": "Saiqa Mullick, MBBCh PhD", "role": "Sub-Investigator"}, {"last_name": "Catherine Martin, MBBCh MSc", "role": "Sub-Investigator"}]}, {"facility": {"name": "University College London", "address": {"city": "London", "country": "United Kingdom"}}, "contact": {"last_name": "Laurence Lovat, MD, PhD", "phone": "020 3447 7488", "email": "laurence.lovat@nhs.net"}, "investigator": [{"last_name": "Laurence Lovat, MD, PhD", "role": "Principal Investigator"}, {"last_name": "Hakim-Moulay Dehbi, PhD", "role": "Sub-Investigator"}, {"last_name": "Nick Freemantle, PhD", "role": "Sub-Investigator"}, {"last_name": "Dermot McGuckin, MD", "role": "Sub-Investigator"}, {"last_name": "Gemma Jones, MsC", "role": "Sub-Investigator"}, {"last_name": "Ramani Moonesinghe, MD", "role": "Sub-Investigator"}]}], "location_countries": {"country": ["Australia", "Canada", "Ireland", "South Africa", "United Kingdom", "United States"]}, "verification_date": "March 2020", "study_first_submitted": "March 31, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 3, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Washington University School of Medicine", "investigator_full_name": "Michael Avidan", "investigator_title": "Professor of Anesthesiology and Surgery"}, "keyword": ["COVID 19", "Health care workers", "hydroxychloroquine", "chloroquine"], "intervention_browse": {"mesh_term": ["Hydroxychloroquine", "Chloroquine", "Chloroquine diphosphate"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "121",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04333732"
+        },
+        "id_info": {
+            "org_study_id": "202004xxx",
+            "nct_id": "NCT04333732"
+        },
+        "brief_title": "CROWN CORONATION: Chloroquine RepurpOsing to healthWorkers for Novel CORONAvirus mitigaTION",
+        "acronym": "CROWN CORONA",
+        "official_title": "A Phase 2, International Multi-site, Bayesian Adaptive, Randomised, Double-blinded, Placebo-controlled Trial Assessing the Effectiveness of Varied Doses of Oral Chloroquine in Preventing or Reducing the Severity of COVID-19 Disease in Healthcare Workers",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Washington University School of Medicine",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Healthcare workers are at the frontline of the fight against COVID-19, and as such they are\n      at high risk for infection and possibly for serious infection, linked to the extent of their\n      exposure. The CROWN CORONATION trial prioritizes the protection of healthcare workers as a\n      strategy to prevent collapse of healthcare services."
+        },
+        "detailed_description": {
+            "textblock": "CROWN CORONATION is a large, Bayesian adaptive, pragmatic, participant-level randomized,\n      multi-center, transdisciplinary, international placebo-controlled trial. It has been designed\n      in accordance with CONSORT guidelines. Randomization will be stratified by age (<50 and \u226550)\n      and study site. Participants will be healthcare workers at risk for contracting SARS-CoV-2.\n      Participants will be randomized into one of four arms:\n\n        -  Low-dose (300mg chloroquine base weekly);\n\n        -  Medium-dose (300mg chloroquine base twice weekly);\n\n        -  High-dose (150 mg chloroquine base daily);\n\n        -  Placebo.\n\n      In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or\n      equivalent number of placebo tablets in the placebo arm) will be taken in 4 divided daily\n      doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before\n      starting the low, medium, or high dose regimen .\n\n      In certain countries (especially where malaria is not endemic), hydroxychloroquine is more\n      readily available and will be used instead of chloroquine. Based on in vitro studies and\n      reviews of drug toxicity , we consider 150mg of hydroxychloroquine base to be equivalent to\n      150mg of chloroquine base in terms of efficacy. New dosage-based arm(s) might be added or\n      removed. The trial will evaluate which of the intervention arms is most effective at\n      decreasing the incidence of severe COVID-19 disease, without unacceptable side effects or\n      safety events.\n\n      Participants will complete weekly (smart phone- based) data logs, and follow- up information\n      will be collected until 2 months after enrolment or death. In addition, where possible, we\n      will use telemedicine approaches to collection information on participants. The study flow\n      overview is outlined in Figure 4. We will provide adherence support interventions that have\n      worked and been tested for Human Immunodeficiency Virus Pre-Exposure Prophylaxis (HIV PrEP)\n      (e.g. two-way SMS with check in for those that report symptoms or adverse events). On\n      enrollment, the local trial team will create a new electronic case record from (CRF) on the\n      web-based study database and record basic demographic information. The database will be\n      hosted on UK based servers managed by Net Solving Ltd. Local investigators will have access\n      to the part of the CRF to enable recording of outcome data and/or severity of COVID-19\n      symptoms. Participants will be given a secure login to enable them to complete an initial\n      participant health questionnaire and the daily data logs."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "A international, multi-site, randomized, double-blinded, placebo-controlled clinical effectiveness",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Symptomatic COVID-19",
+                "time_frame": "3 months",
+                "description": "Clinical diagnosis of COVID-19 with limitation of activities (WHO Severity Scale 2-8)"
+            },
+            {
+                "measure": "Peak severity of COVID-19 over the study period",
+                "time_frame": "3 months",
+                "description": "i) Uninfected - no clinical or virological evidence of infection (Score = 0) ii) Ambulatory - no limitation of activities (score=1) or with limitation (Score=2) iii) Hospitalized - mild no oxygen (Score=3) or with oxygen (Score=4) iv) Hospitalized severe - Scores 5-7* v) Dead\n* Score 5 is non-invasive ventilation or high flow oxygen; Score 6 is intubation with mechanical ventilation; Score 7 is intubation with additional organ support (e.g. pressors, renal replacement therapy, extra corporeal membrane oxygenation [ECMO]) These outcome definitions are based on WHO R&D Blueprint consensus definitions for COVID-19."
+            }
+        ],
+        "number_of_arms": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "55000"
+        },
+        "condition": "COVID 19",
+        "arm_group": [
+            {
+                "arm_group_label": "\u25cf Low-dose (300mg chloroquine base weekly)",
+                "arm_group_type": "Experimental",
+                "description": "Placebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine once weekly. The decision of whether to offer chloroquine or hydroxychloroquine will be based on local availability."
+            },
+            {
+                "arm_group_label": "\u25cf Medium-dose (300mg chloroquine base twice weekly)",
+                "arm_group_type": "Experimental",
+                "description": "Placebo 1 administered orally once daily, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine twice weekly"
+            },
+            {
+                "arm_group_label": "\u25cf High-dose (150 mg chloroquine base daily)",
+                "arm_group_type": "Experimental",
+                "description": "Chloroquine base 150 mg administered orally once daily either a chloroquine or hydroxychloroquine, Placebo 2 administered orally once weekly, Placebo 3 administered orally once weekly"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Placebo 3 administered orally once weekly"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Low-dose chloroquine/hydroxychloroquine",
+                "description": "In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.\nPlacebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine once weekly. The decision of whether to offer chloroquine or hydroxychloroquine will be based on local availability.",
+                "arm_group_label": "\u25cf Low-dose (300mg chloroquine base weekly)",
+                "other_name": "Aralen or Plaquenil"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Mid dose chloroquine or hydroxychloroquine",
+                "description": "In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.\nPlacebo 1 administered orally once daily, Chloroquine base 300 mg administered orally as chloroquine or hydroxychloroquine twice weekly",
+                "arm_group_label": "\u25cf Medium-dose (300mg chloroquine base twice weekly)",
+                "other_name": "Aralen or Plaquenil"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "High does chloroquine or hydroxychloroquine",
+                "description": "In all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.\nIn all treatment arms, an induction dose of 1200mg chloroquine or hydroxychloroquine base (or equivalent number of placebo tablets) will be taken in 4 divided daily doses (that is 300mg chloroquine or hydroxychloroquine base per day for four days) before starting the low, medium, or high dose regimen.",
+                "arm_group_label": "\u25cf High-dose (150 mg chloroquine base daily)",
+                "other_name": "Aralen or Plaquenil"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Placebo 1 administered orally once daily, Placebo 2 administered orally once weekly, Placebo 3 administered orally once weekly.",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Age \u226518 years.\n\n          2. Healthcare worker based in a primary, secondary or tertiary healthcare setting with a\n             high risk of developing COVID-19 due to their potential exposure to patients with\n             SARS-CoV-2 infection.\n\n        Exclusion Criteria:\n\n        -"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Michael S. Avidan, MBBCh",
+                "role": "Principal Investigator",
+                "affiliation": "Washington Univeristy School of Medicine"
+            },
+            {
+                "last_name": "Ramani Moonesinghe, MD",
+                "role": "Principal Investigator",
+                "affiliation": "University College, London"
+            },
+            {
+                "last_name": "Helen Rees, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Wits University"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Linda Yun, BS",
+            "phone": "314-273-2240",
+            "email": "lindayun@wustl.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Sherry McKinnon, BS",
+            "phone": "314-286-1768",
+            "email": "smckinnon@wustl.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Washington University School of Medicine",
+                    "address": {
+                        "city": "Saint Louis",
+                        "state": "Missouri",
+                        "zip": "63110",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Linda Yun, BS",
+                    "phone": "314-273-2240",
+                    "email": "lindayun@wustl.edu"
+                },
+                "contact_backup": {
+                    "last_name": "Sherry McKinnon",
+                    "phone": "314-286-1768",
+                    "email": "mckinnos@anest.wustl.edu"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Michael S. Avidan, MBBCh, FCASA",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Mary Politi, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Eric Dubberke, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Melbourne Medical School",
+                    "address": {
+                        "city": "Melbourne",
+                        "state": "Victoria",
+                        "zip": "VIC 3010",
+                        "country": "Australia"
+                    }
+                },
+                "contact": {
+                    "last_name": "David Story, MD",
+                    "email": "dastory@unimelb.edu.au"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Population Health Resarch Institute",
+                    "address": {
+                        "city": "Hamilton",
+                        "state": "Ontario",
+                        "zip": "L8L 2X2",
+                        "country": "Canada"
+                    }
+                },
+                "contact": {
+                    "last_name": "Jessica Spence, MD, FRCPC",
+                    "email": "spencej@phri.ca"
+                },
+                "investigator": {
+                    "last_name": "Jessica Spence, MD, FRCPC",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "University of Toronto",
+                    "address": {
+                        "city": "Toronto",
+                        "state": "Ontario",
+                        "zip": "M5G 1E2",
+                        "country": "Canada"
+                    }
+                },
+                "contact": {
+                    "last_name": "David Mazer, MD",
+                    "phone": "(416) 864-5825",
+                    "email": "David.Mazer@unityhealth.to"
+                },
+                "investigator": {
+                    "last_name": "David Mazer, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "St James's Hospital",
+                    "address": {
+                        "city": "Dublin",
+                        "state": "Leinster",
+                        "zip": "Dublin 8",
+                        "country": "Ireland"
+                    }
+                },
+                "contact": {
+                    "last_name": "Ellen O'Sullivan, MD, FRCA,FCAI",
+                    "phone": "353876993178",
+                    "email": "ellenosullivan2000@gmail.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Wits RHI, University of the Witwatersrand",
+                    "address": {
+                        "city": "Johannesburg",
+                        "state": "Gauteng",
+                        "zip": "2001",
+                        "country": "South Africa"
+                    }
+                },
+                "contact": {
+                    "last_name": "Sinead Delany-Moretlwe, MBChB, PhD, DTM&H",
+                    "phone": "+27 82 377 6275",
+                    "email": "sdelany@wrhi.ac.za"
+                },
+                "contact_backup": {
+                    "last_name": "Michelle Moorhouse, MBChB"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Gloria Maimela, MBBCh MBA",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Saiqa Mullick, MBBCh PhD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Catherine Martin, MBBCh MSc",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "University College London",
+                    "address": {
+                        "city": "London",
+                        "country": "United Kingdom"
+                    }
+                },
+                "contact": {
+                    "last_name": "Laurence Lovat, MD, PhD",
+                    "phone": "020 3447 7488",
+                    "email": "laurence.lovat@nhs.net"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Laurence Lovat, MD, PhD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Hakim-Moulay Dehbi, PhD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Nick Freemantle, PhD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Dermot McGuckin, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Gemma Jones, MsC",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Ramani Moonesinghe, MD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            }
+        ],
+        "location_countries": {
+            "country": [
+                "Australia",
+                "Canada",
+                "Ireland",
+                "South Africa",
+                "United Kingdom",
+                "United States"
+            ]
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Washington University School of Medicine",
+            "investigator_full_name": "Michael Avidan",
+            "investigator_title": "Professor of Anesthesiology and Surgery"
+        },
+        "keyword": [
+            "COVID 19",
+            "Health care workers",
+            "hydroxychloroquine",
+            "chloroquine"
+        ],
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydroxychloroquine",
+                "Chloroquine",
+                "Chloroquine diphosphate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

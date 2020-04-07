@@ -1,1 +1,204 @@
-{"clinical_study": {"@rank": "179", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04261426"}, "id_info": {"org_study_id": "IVIG-001", "nct_id": "NCT04261426"}, "brief_title": "The Efficacy of Intravenous Immunoglobulin Therapy for Severe 2019-nCoV Infected Pneumonia", "official_title": "A Randomized, Open-label, Controlled, Single-center Study to Evaluate the Efficacy of Intravenous Immunoglobulin Therapy in Patients With Severe 2019- nCoV Pneumonia", "sponsors": {"lead_sponsor": {"agency": "Peking Union Medical College Hospital", "agency_class": "Other"}, "collaborator": {"agency": "Tongji Hospital of Tongji Medical College, Huazhong University of Science and Technology", "agency_class": "Other"}}, "source": "Peking Union Medical College Hospital", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "In this single-center, randomized, open-label, controlled study, the investigators will\n      evaluate the efficacy and safety of Intravenous Immunoglobulin (IVIG) in combination with\n      standard care for severe 2019 novel coronavirus (2019-nCoV) pneumonia."}, "detailed_description": {"textblock": "In December 2019, viral pneumonia caused by a novel beta-coronavirus (2019-nCoV) outbroke in\n      Wuhan, China. Part of patients rapidly progress severe acute respiratory failure with\n      substantial mortality, making it imperative to develop an efficient treatment for severe\n      2019-nCoV pneumonia besides the supportive care.\n\n      Intravenous immunoglobulin (IVIG) has been shown to improve the treatment effect and\n      prognosis of severe infection over the past decades with its capacity of proving passive\n      immunity and anti-inflammatory, immunomodulatory effect. We hypothesized that IVIG therapy\n      would improve the prognosis of severe and critically ill patients with 2019-nCoV.\n\n      This single-center, randomized, open-label, controlled trial will evaluate the efficacy and\n      safety of IVIG therapy in patients with severe or critically ill 2019-nCoV respiratory\n      disease."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "February 10, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "June 30, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "April 30, 2020"}, "phase": "Phase 2/Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": [{"measure": "Clinical improvement based on the 7-point scale", "time_frame": "28 days after randomization", "description": "A decline of 2 points on the 7-point scale from admission means better outcome. The 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."}, {"measure": "Lower Murray lung injury score", "time_frame": "7 days after randomization", "description": "Murray lung injury score decrease more than one point means better outcome. The Murray scoring system range from 0 to 4 according to the severity of the condition."}, {"measure": "Lower Murray lung injury score", "time_frame": "14 days after randomization", "description": "Murray lung injury score decrease more than one point means better outcome. The Murray scoring system range from 0 to 4 according to the severity of the condition."}], "secondary_outcome": [{"measure": "28-day mortality", "time_frame": "Measured from Day 0 through Day 28", "description": "Number of deaths during study follow-up"}, {"measure": "Duration of mechanical ventilation", "time_frame": "Measured from Day 0 through Day 28", "description": "Duration of mechanical ventilation use in days. Multiple mechanical ventilation durations are summed up."}, {"measure": "Duration of hospitalization", "time_frame": "Measured from Day 0 through Day 28", "description": "Days that a participant spent at the hospital. Multiple hospitalizations are summed up."}, {"measure": "Proportion of patients with negative RT-PCR results", "time_frame": "7 and 14 days after randomization", "description": "Proportion of patients with negative RT-PCR results of virus in upper and/or lower respiratory tract samples."}, {"measure": "Proportion of patients in each category of the 7-point scale", "time_frame": "7,14 and 28 days after randomization", "description": "Proportion of patients in each category of the 7-point scale, the 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."}, {"measure": "Proportion of patients with normalized inflammation factors", "time_frame": "7 and 14 days after randomization", "description": "Proportion of patients with different inflammation factors in normalization range."}, {"measure": "Frequency of Adverse Drug Events", "time_frame": "Measured from Day 0 through Day 28", "description": "Frequency of Adverse Drug Events"}, {"measure": "Frequency of Serious Adverse Drug Events", "time_frame": "Measured from Day 0 through Day 28", "description": "Frequency of Serious Adverse Drug Events"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "80"}, "condition": "2019-nCoV", "arm_group": [{"arm_group_label": "IVIG therapy+ standard care", "arm_group_type": "Experimental"}, {"arm_group_label": "Standard care", "arm_group_type": "Placebo Comparator"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Intravenous Immunoglobulin", "description": "IVIG 0.5g/kg/d for 5 days", "arm_group_label": "IVIG therapy+ standard care", "other_name": "Human Immunoglobulin (pH4) for Intravenous Injection"}, {"intervention_type": "Other", "intervention_name": "Standard care", "description": "Standard care", "arm_group_label": ["IVIG therapy+ standard care", "Standard care"]}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Adult aged >=18years old;\n\n          -  Laboratory (RT-PCR) confirmed 2019-nCoV infection in throat swab and/or sputum and/or\n             lower respiratory tract samples;\n\n          -  The interval between the onset of symptoms and randomized is within 7 days. The onset\n             of symptoms is mainly based on fever. If there is no fever, cough or other related\n             symptoms can be used;\n\n          -  Meet any of the following criteria for severe or critical ill conditions:\n\n               1. Respiratory rate >=30/min; or\n\n               2. Rest SPO2<=90%; or\n\n               3. PaO2/FiO2<=300mmHg; or\n\n               4. Respiratory failure and needs mechanical ventilation; or\n\n               5. Shock occurs; or\n\n               6. Multiple organ failure and needs ICU monitoring;\n\n          -  Sign the Informed Consent Form on a voluntary basis.\n\n        Exclusion Criteria:\n\n          -  Exist of other evidences that can explain pneumonia including but not limited to:\n\n        influenza A virus, influenza B virus, bacterial pneumonia, fungal pneumonia, noninfectious\n        causes, etc.;\n\n          -  Allergy to Intravenous Immunoglobulin or its preparation components;\n\n          -  Patients with selective IgA deficiency\n\n          -  Women who are pregnant or breast-feeding;\n\n          -  Researchers consider unsuitable."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Taisheng Li", "phone": "010-69155086", "email": "litsh@263.net"}, "overall_contact_backup": {"last_name": "Wei Cao", "email": "wcao_pumch@163.com"}, "verification_date": "February 2020", "study_first_submitted": "February 6, 2020", "study_first_submitted_qc": "February 6, 2020", "study_first_posted": {"@type": "Actual", "#text": "February 7, 2020"}, "last_update_submitted": "February 6, 2020", "last_update_submitted_qc": "February 6, 2020", "last_update_posted": {"@type": "Actual", "#text": "February 7, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Peking Union Medical College Hospital", "investigator_full_name": "LI Taisheng", "investigator_title": "Director of Infectious Disease, Principal Investigator"}, "condition_browse": {"mesh_term": "Pneumonia"}, "intervention_browse": {"mesh_term": ["Immunoglobulins", "Antibodies", "Immunoglobulins, Intravenous", "gamma-Globulins", "Rho(D) Immune Globulin"]}, "patient_data": {"sharing_ipd": "Undecided"}}}
+{
+    "clinical_study": {
+        "@rank": "179",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04261426"
+        },
+        "id_info": {
+            "org_study_id": "IVIG-001",
+            "nct_id": "NCT04261426"
+        },
+        "brief_title": "The Efficacy of Intravenous Immunoglobulin Therapy for Severe 2019-nCoV Infected Pneumonia",
+        "official_title": "A Randomized, Open-label, Controlled, Single-center Study to Evaluate the Efficacy of Intravenous Immunoglobulin Therapy in Patients With Severe 2019- nCoV Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Peking Union Medical College Hospital",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Tongji Hospital of Tongji Medical College, Huazhong University of Science and Technology",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Peking Union Medical College Hospital",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "In this single-center, randomized, open-label, controlled study, the investigators will\n      evaluate the efficacy and safety of Intravenous Immunoglobulin (IVIG) in combination with\n      standard care for severe 2019 novel coronavirus (2019-nCoV) pneumonia."
+        },
+        "detailed_description": {
+            "textblock": "In December 2019, viral pneumonia caused by a novel beta-coronavirus (2019-nCoV) outbroke in\n      Wuhan, China. Part of patients rapidly progress severe acute respiratory failure with\n      substantial mortality, making it imperative to develop an efficient treatment for severe\n      2019-nCoV pneumonia besides the supportive care.\n\n      Intravenous immunoglobulin (IVIG) has been shown to improve the treatment effect and\n      prognosis of severe infection over the past decades with its capacity of proving passive\n      immunity and anti-inflammatory, immunomodulatory effect. We hypothesized that IVIG therapy\n      would improve the prognosis of severe and critically ill patients with 2019-nCoV.\n\n      This single-center, randomized, open-label, controlled trial will evaluate the efficacy and\n      safety of IVIG therapy in patients with severe or critically ill 2019-nCoV respiratory\n      disease."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "February 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Clinical improvement based on the 7-point scale",
+                "time_frame": "28 days after randomization",
+                "description": "A decline of 2 points on the 7-point scale from admission means better outcome. The 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."
+            },
+            {
+                "measure": "Lower Murray lung injury score",
+                "time_frame": "7 days after randomization",
+                "description": "Murray lung injury score decrease more than one point means better outcome. The Murray scoring system range from 0 to 4 according to the severity of the condition."
+            },
+            {
+                "measure": "Lower Murray lung injury score",
+                "time_frame": "14 days after randomization",
+                "description": "Murray lung injury score decrease more than one point means better outcome. The Murray scoring system range from 0 to 4 according to the severity of the condition."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "28-day mortality",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Number of deaths during study follow-up"
+            },
+            {
+                "measure": "Duration of mechanical ventilation",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Duration of mechanical ventilation use in days. Multiple mechanical ventilation durations are summed up."
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Days that a participant spent at the hospital. Multiple hospitalizations are summed up."
+            },
+            {
+                "measure": "Proportion of patients with negative RT-PCR results",
+                "time_frame": "7 and 14 days after randomization",
+                "description": "Proportion of patients with negative RT-PCR results of virus in upper and/or lower respiratory tract samples."
+            },
+            {
+                "measure": "Proportion of patients in each category of the 7-point scale",
+                "time_frame": "7,14 and 28 days after randomization",
+                "description": "Proportion of patients in each category of the 7-point scale, the 7-category ordinal scale that ranges from 1 (discharged with normal activity) to 7 (death)."
+            },
+            {
+                "measure": "Proportion of patients with normalized inflammation factors",
+                "time_frame": "7 and 14 days after randomization",
+                "description": "Proportion of patients with different inflammation factors in normalization range."
+            },
+            {
+                "measure": "Frequency of Adverse Drug Events",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Frequency of Adverse Drug Events"
+            },
+            {
+                "measure": "Frequency of Serious Adverse Drug Events",
+                "time_frame": "Measured from Day 0 through Day 28",
+                "description": "Frequency of Serious Adverse Drug Events"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "80"
+        },
+        "condition": "2019-nCoV",
+        "arm_group": [
+            {
+                "arm_group_label": "IVIG therapy+ standard care",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Standard care",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Intravenous Immunoglobulin",
+                "description": "IVIG 0.5g/kg/d for 5 days",
+                "arm_group_label": "IVIG therapy+ standard care",
+                "other_name": "Human Immunoglobulin (pH4) for Intravenous Injection"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Standard care",
+                "description": "Standard care",
+                "arm_group_label": [
+                    "IVIG therapy+ standard care",
+                    "Standard care"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adult aged >=18years old;\n\n          -  Laboratory (RT-PCR) confirmed 2019-nCoV infection in throat swab and/or sputum and/or\n             lower respiratory tract samples;\n\n          -  The interval between the onset of symptoms and randomized is within 7 days. The onset\n             of symptoms is mainly based on fever. If there is no fever, cough or other related\n             symptoms can be used;\n\n          -  Meet any of the following criteria for severe or critical ill conditions:\n\n               1. Respiratory rate >=30/min; or\n\n               2. Rest SPO2<=90%; or\n\n               3. PaO2/FiO2<=300mmHg; or\n\n               4. Respiratory failure and needs mechanical ventilation; or\n\n               5. Shock occurs; or\n\n               6. Multiple organ failure and needs ICU monitoring;\n\n          -  Sign the Informed Consent Form on a voluntary basis.\n\n        Exclusion Criteria:\n\n          -  Exist of other evidences that can explain pneumonia including but not limited to:\n\n        influenza A virus, influenza B virus, bacterial pneumonia, fungal pneumonia, noninfectious\n        causes, etc.;\n\n          -  Allergy to Intravenous Immunoglobulin or its preparation components;\n\n          -  Patients with selective IgA deficiency\n\n          -  Women who are pregnant or breast-feeding;\n\n          -  Researchers consider unsuitable."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Taisheng Li",
+            "phone": "010-69155086",
+            "email": "litsh@263.net"
+        },
+        "overall_contact_backup": {
+            "last_name": "Wei Cao",
+            "email": "wcao_pumch@163.com"
+        },
+        "verification_date": "February 2020",
+        "study_first_submitted": "February 6, 2020",
+        "study_first_submitted_qc": "February 6, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "February 7, 2020"
+        },
+        "last_update_submitted": "February 6, 2020",
+        "last_update_submitted_qc": "February 6, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "February 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Peking Union Medical College Hospital",
+            "investigator_full_name": "LI Taisheng",
+            "investigator_title": "Director of Infectious Disease, Principal Investigator"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Immunoglobulins",
+                "Antibodies",
+                "Immunoglobulins, Intravenous",
+                "gamma-Globulins",
+                "Rho(D) Immune Globulin"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

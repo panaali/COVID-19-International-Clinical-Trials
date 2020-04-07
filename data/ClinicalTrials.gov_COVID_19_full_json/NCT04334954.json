@@ -1,1 +1,135 @@
-{"clinical_study": {"@rank": "153", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04334954"}, "id_info": {"org_study_id": "200083", "secondary_id": "20-I-0083", "nct_id": "NCT04334954"}, "brief_title": "SARS-COV2 Pandemic Serosurvey and Blood Sampling", "official_title": "SARS-COV2 Pandemic Serosurvey and Blood Sampling", "sponsors": {"lead_sponsor": {"agency": "National Institute of Allergy and Infectious Diseases (NIAID)", "agency_class": "NIH"}}, "source": "National Institutes of Health Clinical Center (CC)", "brief_summary": {"textblock": "It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,\n      SARS, MERS, and now the newly emerged SARS-COV2 virus, have a major impact on morbidity and\n      mortality worldwide, as well as having devastating global economic and societal impact.\n      During these outbreaks it is critical to gain a rapid understanding of the exposures and\n      immunity in the general population. Identifying exposures can be accomplished through\n      analysis of serum during an outbreak to identify those with specific antibodies to the\n      pathogen. The knowledge of the level of exposures could greatly impact the response to\n      current and future pandemics. In this natural history study, we will collect a single blood\n      draw from individuals to identify individuals who have anti-SARS-COV2 antibodies present\n      despite no confirmed disease or known exposures."}, "detailed_description": {"textblock": "It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,\n      SARS, MERS, and now the newly emerged SARS-COV2 virus, have a major impact on morbidity and\n      mortality worldwide, as well as having devastating global economic and societal impact.\n      During these outbreaks it is critical to gain a rapid understanding of the exposures and\n      immunity in the general population. Identifying exposures can be accomplished through\n      analysis of serum during an outbreak to identify those with specific antibodies to the\n      pathogen. The knowledge of the level of exposures could greatly impact the response to\n      current and future pandemics. In this natural history study, we will collect a single blood\n      draw from individuals to identify individuals who have anti-SARS-COV2 antibodies present\n      despite no confirmed disease or known exposures."}, "overall_status": "Recruiting", "start_date": {"@type": "Anticipated", "#text": "April 9, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 31, 2022"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 31, 2022"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Case-Only", "time_perspective": "Cross-Sectional"}, "primary_outcome": {"measure": "Number of people with detectable antibodies to SARS-COV2", "time_frame": "2 years", "description": "Anti-SARS-COV2 S protein IgG and IgM ELISA"}, "number_of_groups": "1", "enrollment": {"@type": "Anticipated", "#text": "1000"}, "condition": "SARS-COV2 Virus", "arm_group": {"arm_group_label": "1", "description": "Healthy Volunteers"}, "eligibility": {"study_pop": {"textblock": "Community sample"}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "-  INCLUSION CRITERIA:\n\n               1. >= 18 years of age.\n\n               2. Willing and able to complete a verbal telephone consent.\n\n               3. Willing to undergo one blood draw or home blood sampling.\n\n               4. Willing to have blood samples stored for future research.\n\n        EXCLUSION CRITERIA:\n\n          1. Confirmed history of COVID19 infection or exposure\n\n          2. Current symptoms consistent with COVID19 infection\n\n          3. Any condition or event that, in the PI s opinion, may substantially increase the risk\n             associated with study participation or compromise the study s scientific objectives.\n             Conditions that exclude a subject are considered to be unlikely, but an example would\n             include having an acute respiratory infection or recent exposure that would prevent\n             participants that would make it unsafe to obtain blood samples.\n\n          4. Not willing to have blood samples stored for future research."}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_official": {"last_name": "Matthew J Memoli, M.D.", "role": "Principal Investigator", "affiliation": "National Institute of Allergy and Infectious Diseases (NIAID)"}, "overall_contact": {"last_name": "Matthew J Memoli, M.D.", "phone": "(301) 443-5971", "email": "mm982v@nih.gov"}, "location": {"facility": {"name": "National Institutes of Health Clinical Center", "address": {"city": "Bethesda", "state": "Maryland", "zip": "20892", "country": "United States"}}, "status": "Recruiting", "contact": {"last_name": "For more information at the NIH Clinical Center contact Office of Patient Recruitment (OPR)", "phone": "800-411-1222", "phone_ext": "TTY8664111010", "email": "prpl@cc.nih.gov"}}, "location_countries": {"country": "United States"}, "link": {"url": "https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2020-I-0083.html", "description": "NIH Clinical Center Detailed Web Page"}, "verification_date": "April 2, 2020", "study_first_submitted": "April 3, 2020", "study_first_submitted_qc": "April 3, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 3, 2020", "last_update_submitted_qc": "April 3, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["COVID-19", "Immunity", "Antibodies", "Respiratory Virus", "Virus"]}}
+{
+    "clinical_study": {
+        "@rank": "153",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04334954"
+        },
+        "id_info": {
+            "org_study_id": "200083",
+            "secondary_id": "20-I-0083",
+            "nct_id": "NCT04334954"
+        },
+        "brief_title": "SARS-COV2 Pandemic Serosurvey and Blood Sampling",
+        "official_title": "SARS-COV2 Pandemic Serosurvey and Blood Sampling",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Allergy and Infectious Diseases (NIAID)",
+                "agency_class": "NIH"
+            }
+        },
+        "source": "National Institutes of Health Clinical Center (CC)",
+        "brief_summary": {
+            "textblock": "It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,\n      SARS, MERS, and now the newly emerged SARS-COV2 virus, have a major impact on morbidity and\n      mortality worldwide, as well as having devastating global economic and societal impact.\n      During these outbreaks it is critical to gain a rapid understanding of the exposures and\n      immunity in the general population. Identifying exposures can be accomplished through\n      analysis of serum during an outbreak to identify those with specific antibodies to the\n      pathogen. The knowledge of the level of exposures could greatly impact the response to\n      current and future pandemics. In this natural history study, we will collect a single blood\n      draw from individuals to identify individuals who have anti-SARS-COV2 antibodies present\n      despite no confirmed disease or known exposures."
+        },
+        "detailed_description": {
+            "textblock": "It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,\n      SARS, MERS, and now the newly emerged SARS-COV2 virus, have a major impact on morbidity and\n      mortality worldwide, as well as having devastating global economic and societal impact.\n      During these outbreaks it is critical to gain a rapid understanding of the exposures and\n      immunity in the general population. Identifying exposures can be accomplished through\n      analysis of serum during an outbreak to identify those with specific antibodies to the\n      pathogen. The knowledge of the level of exposures could greatly impact the response to\n      current and future pandemics. In this natural history study, we will collect a single blood\n      draw from individuals to identify individuals who have anti-SARS-COV2 antibodies present\n      despite no confirmed disease or known exposures."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 9, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2022"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Cross-Sectional"
+        },
+        "primary_outcome": {
+            "measure": "Number of people with detectable antibodies to SARS-COV2",
+            "time_frame": "2 years",
+            "description": "Anti-SARS-COV2 S protein IgG and IgM ELISA"
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1000"
+        },
+        "condition": "SARS-COV2 Virus",
+        "arm_group": {
+            "arm_group_label": "1",
+            "description": "Healthy Volunteers"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Community sample"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n               1. >= 18 years of age.\n\n               2. Willing and able to complete a verbal telephone consent.\n\n               3. Willing to undergo one blood draw or home blood sampling.\n\n               4. Willing to have blood samples stored for future research.\n\n        EXCLUSION CRITERIA:\n\n          1. Confirmed history of COVID19 infection or exposure\n\n          2. Current symptoms consistent with COVID19 infection\n\n          3. Any condition or event that, in the PI s opinion, may substantially increase the risk\n             associated with study participation or compromise the study s scientific objectives.\n             Conditions that exclude a subject are considered to be unlikely, but an example would\n             include having an acute respiratory infection or recent exposure that would prevent\n             participants that would make it unsafe to obtain blood samples.\n\n          4. Not willing to have blood samples stored for future research."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Matthew J Memoli, M.D.",
+            "role": "Principal Investigator",
+            "affiliation": "National Institute of Allergy and Infectious Diseases (NIAID)"
+        },
+        "overall_contact": {
+            "last_name": "Matthew J Memoli, M.D.",
+            "phone": "(301) 443-5971",
+            "email": "mm982v@nih.gov"
+        },
+        "location": {
+            "facility": {
+                "name": "National Institutes of Health Clinical Center",
+                "address": {
+                    "city": "Bethesda",
+                    "state": "Maryland",
+                    "zip": "20892",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "For more information at the NIH Clinical Center contact Office of Patient Recruitment (OPR)",
+                "phone": "800-411-1222",
+                "phone_ext": "TTY8664111010",
+                "email": "prpl@cc.nih.gov"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "link": {
+            "url": "https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2020-I-0083.html",
+            "description": "NIH Clinical Center Detailed Web Page"
+        },
+        "verification_date": "April 2, 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "Immunity",
+            "Antibodies",
+            "Respiratory Virus",
+            "Virus"
+        ]
+    }
+}

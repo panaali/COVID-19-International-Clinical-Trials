@@ -1,1 +1,221 @@
-{"clinical_study": {"@rank": "102", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04334850"}, "id_info": {"org_study_id": "APHP200392", "secondary_id": "2020-001324-33", "nct_id": "NCT04334850"}, "brief_title": "Use of a Respiratory Multiplex PCR and Procalcitonin to Reduce Antibiotics Exposure in Patients With Severe Confirmed COVID-19 Pneumonia", "acronym": "MultiCov", "official_title": "Use of a Respiratory Multiplex PCR and Procalcitonin to Reduce Antibiotics Exposure in Patients With Severe Confirmed COVID-19 Pneumonia : a Multicenter, Parallel-group, Open-label, Randomized Controlled Trial", "sponsors": {"lead_sponsor": {"agency": "Assistance Publique - H\u00f4pitaux de Paris", "agency_class": "Other"}, "collaborator": {"agency": "BioM\u00e9rieux", "agency_class": "Industry"}}, "source": "Assistance Publique - H\u00f4pitaux de Paris", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "The novel coronavirus SARS-CoV-2 (COVID-19) is an emerging respiratory virus that causes\n      pneumonia. WHO data reported admission to the intensive care unit (ICU) for 6% of patients,\n      with a mortality rate reaching 45%. To date, apart from therapeutic trials, ICU management is\n      symptomatic, based on organ failure support therapies. In the initial phase, the therapeutic\n      management also includes empiric antimicrobial therapy (90% of patients, in accordance with\n      LRTI guidelines (ATS 2019) and SRLF Guidelines (2020). One challenge for the ICU physicians\n      is the timing for discontinuation of antimicrobial treatment, especially in case of shock or\n      ARDS, considering that a substantial proportion of COVID-19 pneumonia patients may have\n      pulmonary bacterial coinfection/superinfection. In order to avoid unnecessary prolonged\n      antimicrobial therapy, and subsequent selective pressure, two tests could be combined in a\n      personalized antibiotic strategy:\n\n        -  Procalcitonin (PCT): PCT is a useful tool to guide antibiotics discontinuation in\n           community-acquired pneumonia) and viral pneumonia (PMID24612487).\n\n        -  Respiratory multiplex PCR FA-PPP (Biom\u00e9rieux\u00ae): panel has been enlarged, including 8\n           viruses and 18 bacteria (quantitative analysis). The turnaround time is short.\n           Sensitivity is high (99%, PMID32179139). It may contribute, in combination with\n           conventional tests, to accelerate and improve the microbiological diagnosis during\n           severe COVID-19 pneumonia.\n\n      The hypothesize of the study is that the combination of the mPCR FA-PPP and PCT could be used\n      to reduce antibiotics exposure in patients with severe confirmed COVID-19 pneumonia, with a\n      higher clinical efficacy and safety as compared with a conventional strategy."}, "detailed_description": {"textblock": "Inclusion (D0_H0) is performed in ICU as soon as possible, once the diagnosis of COVID-19\n      pneumonia is confirmed. Therefore, inclusion might be performed either on ICU admission (if\n      the COVID-19 pneumonia has been confirmed in the pre-ICU wards) or during the ICU stay (if\n      the COVID-19 pneumonia was confirmed after ICU admission). Conventional microbiological\n      investigations are left at the discretion of the physicians, and may include blood cultures,\n      Streptococcus pneumoniae and Legionella pneumophila urinary antigen assays, and a respiratory\n      tract sample for Gram stain examination and 2 days-long culture (if not already done in the\n      past 24 hours). Usual biology includes procalcitonin measurement. Empirical antimicrobial\n      therapy combines a third-generation cephalosporin and a macrolide, or broader-spectrum\n      antibiotics if risk factors for resistant bacteria are identified.\n\n      Randomization is performed immediately after the inclusion.\n\n        -  In the intervention arm, a broad panel respiratory Mpcr FA-PPP is performed on\n           respiratory tract sample (tracheal aspirate, BAL or sputum), collected 12 hours after\n           inclusion. An algorithm of early antibiotic adaptation and discontinuation, based on the\n           microbiological results, including the mPCR FA-PPP results, and the procalcitonin values\n           and kinetics will be used. This algorithm will be applied as soon as possible after\n           inclusion, and repeated day after day until D7.\n\n        -  In the control arm, the antimicrobial therapy is left at the discretion of the\n           physicians, as in usual practice.\n\n      Evaluation criteria are collected at hospital discharge or at D28, and D90. The vital status\n      may be obtained by phone call at D28 (if the patient has been discharged before D28) and at\n      D90."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 2020"}, "completion_date": {"@type": "Anticipated", "#text": "August 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "July 2020"}, "phase": "N/A", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Number of antibiotic free days", "time_frame": "Day 28", "description": "the number of days alive without any antibiotics at Day 28. The D28 time point is usual in studies assessing antibiotics saving in ICU patients."}, "secondary_outcome": [{"measure": "Mortality rates", "time_frame": "Day 28 and Day 90"}, {"measure": "Number of defined daily dose (DDD) per 100 patient-days of broad- and narrow-spectrum antibiotics.", "time_frame": "day 28"}, {"measure": "Antibiotics duration at D28", "time_frame": "Day 28", "description": "Total exposure to antibiotics"}, {"measure": "Number of organ-failure free days (based on SOFA)", "time_frame": "Day 28"}, {"measure": "Incidence rates of bacterial super-infections", "time_frame": "day 28"}, {"measure": "Incidence rates of colonization/infection with multidrug resistant bacteria and Clostridium difficile infections", "time_frame": "Day 28"}, {"measure": "ICU and hospital lengths of stay", "time_frame": "Day 28"}, {"measure": "Quality of life Quality of life", "time_frame": "Day 90", "description": "using a quality of life questionnaire (EQ5D5L)"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "194"}, "condition": ["Covid19", "Pneumonia"], "arm_group": [{"arm_group_label": "Targeted antibiotic treatment according to the results of mPCR", "arm_group_type": "Experimental", "description": "a broad panel respiratory Mpcr FA-PPP is performed on respiratory tract sample (tracheal aspirate, BAL or sputum), collected 12 hours after inclusion. An algorithm of early antibiotic adaptation and discontinuation, based on the microbiological results, including the mPCR FA-PPP results, and the procalcitonin values and kinetics will be used. This algorithm will be applied as soon as possible after inclusion, and repeated day after day until D7."}, {"arm_group_label": "Control arm", "arm_group_type": "Other", "description": "The antimicrobial therapy is left at the discretion of the physicians, as in usual practice."}], "intervention": [{"intervention_type": "Procedure", "intervention_name": "Combined use of a respiratory broad panel multiplex PCR and procalcitonin", "description": "The actions or procedures added by the research are the application of the algorithm of early antibiotics de-escalation and discontinuation.", "arm_group_label": "Targeted antibiotic treatment according to the results of mPCR"}, {"intervention_type": "Other", "intervention_name": "Usual antibiotic treatment", "description": "The antimicrobial therapy is left at the discretion of the physicians, as in usual practice.", "arm_group_label": "Control arm"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  Adults (>= 18 years) admitted to the ICU;\n\n          -  Severe confirmed COVID-19 pneumonia, defined by i) a newly-appeared pulmonary\n             parenchymal infiltrate; and ii) a positive RT-PCR (either upper or lower respiratory\n             tract) for COVID-19 (SARS-CoV-2); iii) and admission to the ICU or intermediate care\n             unit;\n\n          -  Informed consent or emergency procedure.\n\n        Exclusion Criteria:\n\n          -  Pregnancy ;\n\n          -  Congenital immunodeficiency;\n\n          -  HIV infection with CD4 count below 200/mm3 or unknown in the last year;\n\n          -  High-grade hematological malignancy;\n\n          -  Neutropenia (<1 leucocyte/mL or < 0.5 neutrophil/mL);\n\n          -  Immunosuppressive drugs within the previous 30 days, including anti-cancer cytotoxic\n             chemotherapy and anti-rejection drugs for organ/bone marrow transplant;\n\n          -  Moribund patient or death expected from underlying disease during the current\n             admission;\n\n          -  Patient deprived of liberty or under legal protection measure"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Muriel FARTOUKH, PU-PH MD PHD", "role": "Principal Investigator", "affiliation": "Assistance Publique - H\u00f4pitaux de Paris"}, "overall_contact": {"last_name": "Muriel FARTOUKH, PU-PH MD PHD", "phone": "01 56 01 65 74", "email": "muriel.fartoukh@aphp.fr"}, "overall_contact_backup": {"last_name": "Guillaume VOIRIOT, MD", "phone": "01 56 01 65 74", "email": "guillaume.voiriot@aphp.fr"}, "location": {"facility": {"name": "Intensive care department-Hospital Tenon", "address": {"city": "Paris", "zip": "75020", "country": "France"}}, "contact": {"last_name": "Muriel FARTOUKH, PU-PH MD PHD", "phone": "01 56 01 65 74", "email": "muriel.fartoukh@aphp.fr"}, "contact_backup": {"last_name": "Guillaume VOIRIOT, MD", "phone": "01 56 01 65 74", "email": "guillaume.voiriot@aphp.fr"}}, "location_countries": {"country": "France"}, "verification_date": "April 2020", "study_first_submitted": "April 2, 2020", "study_first_submitted_qc": "April 2, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 2, 2020", "last_update_submitted_qc": "April 2, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}, "keyword": ["COVID-19 pneumonia", "respiratory multiplex PCR", "Procalcitonin", "Antibiotics saving", "Diagnosis", "Treatment"], "condition_browse": {"mesh_term": "Pneumonia"}, "intervention_browse": {"mesh_term": ["Anti-Bacterial Agents", "Antibiotics, Antitubercular"]}, "patient_data": {"sharing_ipd": "No"}}}
+{
+    "clinical_study": {
+        "@rank": "102",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04334850"
+        },
+        "id_info": {
+            "org_study_id": "APHP200392",
+            "secondary_id": "2020-001324-33",
+            "nct_id": "NCT04334850"
+        },
+        "brief_title": "Use of a Respiratory Multiplex PCR and Procalcitonin to Reduce Antibiotics Exposure in Patients With Severe Confirmed COVID-19 Pneumonia",
+        "acronym": "MultiCov",
+        "official_title": "Use of a Respiratory Multiplex PCR and Procalcitonin to Reduce Antibiotics Exposure in Patients With Severe Confirmed COVID-19 Pneumonia : a Multicenter, Parallel-group, Open-label, Randomized Controlled Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique - H\u00f4pitaux de Paris",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "BioM\u00e9rieux",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Assistance Publique - H\u00f4pitaux de Paris",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The novel coronavirus SARS-CoV-2 (COVID-19) is an emerging respiratory virus that causes\n      pneumonia. WHO data reported admission to the intensive care unit (ICU) for 6% of patients,\n      with a mortality rate reaching 45%. To date, apart from therapeutic trials, ICU management is\n      symptomatic, based on organ failure support therapies. In the initial phase, the therapeutic\n      management also includes empiric antimicrobial therapy (90% of patients, in accordance with\n      LRTI guidelines (ATS 2019) and SRLF Guidelines (2020). One challenge for the ICU physicians\n      is the timing for discontinuation of antimicrobial treatment, especially in case of shock or\n      ARDS, considering that a substantial proportion of COVID-19 pneumonia patients may have\n      pulmonary bacterial coinfection/superinfection. In order to avoid unnecessary prolonged\n      antimicrobial therapy, and subsequent selective pressure, two tests could be combined in a\n      personalized antibiotic strategy:\n\n        -  Procalcitonin (PCT): PCT is a useful tool to guide antibiotics discontinuation in\n           community-acquired pneumonia) and viral pneumonia (PMID24612487).\n\n        -  Respiratory multiplex PCR FA-PPP (Biom\u00e9rieux\u00ae): panel has been enlarged, including 8\n           viruses and 18 bacteria (quantitative analysis). The turnaround time is short.\n           Sensitivity is high (99%, PMID32179139). It may contribute, in combination with\n           conventional tests, to accelerate and improve the microbiological diagnosis during\n           severe COVID-19 pneumonia.\n\n      The hypothesize of the study is that the combination of the mPCR FA-PPP and PCT could be used\n      to reduce antibiotics exposure in patients with severe confirmed COVID-19 pneumonia, with a\n      higher clinical efficacy and safety as compared with a conventional strategy."
+        },
+        "detailed_description": {
+            "textblock": "Inclusion (D0_H0) is performed in ICU as soon as possible, once the diagnosis of COVID-19\n      pneumonia is confirmed. Therefore, inclusion might be performed either on ICU admission (if\n      the COVID-19 pneumonia has been confirmed in the pre-ICU wards) or during the ICU stay (if\n      the COVID-19 pneumonia was confirmed after ICU admission). Conventional microbiological\n      investigations are left at the discretion of the physicians, and may include blood cultures,\n      Streptococcus pneumoniae and Legionella pneumophila urinary antigen assays, and a respiratory\n      tract sample for Gram stain examination and 2 days-long culture (if not already done in the\n      past 24 hours). Usual biology includes procalcitonin measurement. Empirical antimicrobial\n      therapy combines a third-generation cephalosporin and a macrolide, or broader-spectrum\n      antibiotics if risk factors for resistant bacteria are identified.\n\n      Randomization is performed immediately after the inclusion.\n\n        -  In the intervention arm, a broad panel respiratory Mpcr FA-PPP is performed on\n           respiratory tract sample (tracheal aspirate, BAL or sputum), collected 12 hours after\n           inclusion. An algorithm of early antibiotic adaptation and discontinuation, based on the\n           microbiological results, including the mPCR FA-PPP results, and the procalcitonin values\n           and kinetics will be used. This algorithm will be applied as soon as possible after\n           inclusion, and repeated day after day until D7.\n\n        -  In the control arm, the antimicrobial therapy is left at the discretion of the\n           physicians, as in usual practice.\n\n      Evaluation criteria are collected at hospital discharge or at D28, and D90. The vital status\n      may be obtained by phone call at D28 (if the patient has been discharged before D28) and at\n      D90."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Number of antibiotic free days",
+            "time_frame": "Day 28",
+            "description": "the number of days alive without any antibiotics at Day 28. The D28 time point is usual in studies assessing antibiotics saving in ICU patients."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Mortality rates",
+                "time_frame": "Day 28 and Day 90"
+            },
+            {
+                "measure": "Number of defined daily dose (DDD) per 100 patient-days of broad- and narrow-spectrum antibiotics.",
+                "time_frame": "day 28"
+            },
+            {
+                "measure": "Antibiotics duration at D28",
+                "time_frame": "Day 28",
+                "description": "Total exposure to antibiotics"
+            },
+            {
+                "measure": "Number of organ-failure free days (based on SOFA)",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "Incidence rates of bacterial super-infections",
+                "time_frame": "day 28"
+            },
+            {
+                "measure": "Incidence rates of colonization/infection with multidrug resistant bacteria and Clostridium difficile infections",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "ICU and hospital lengths of stay",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "Quality of life Quality of life",
+                "time_frame": "Day 90",
+                "description": "using a quality of life questionnaire (EQ5D5L)"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "194"
+        },
+        "condition": [
+            "Covid19",
+            "Pneumonia"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Targeted antibiotic treatment according to the results of mPCR",
+                "arm_group_type": "Experimental",
+                "description": "a broad panel respiratory Mpcr FA-PPP is performed on respiratory tract sample (tracheal aspirate, BAL or sputum), collected 12 hours after inclusion. An algorithm of early antibiotic adaptation and discontinuation, based on the microbiological results, including the mPCR FA-PPP results, and the procalcitonin values and kinetics will be used. This algorithm will be applied as soon as possible after inclusion, and repeated day after day until D7."
+            },
+            {
+                "arm_group_label": "Control arm",
+                "arm_group_type": "Other",
+                "description": "The antimicrobial therapy is left at the discretion of the physicians, as in usual practice."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Procedure",
+                "intervention_name": "Combined use of a respiratory broad panel multiplex PCR and procalcitonin",
+                "description": "The actions or procedures added by the research are the application of the algorithm of early antibiotics de-escalation and discontinuation.",
+                "arm_group_label": "Targeted antibiotic treatment according to the results of mPCR"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Usual antibiotic treatment",
+                "description": "The antimicrobial therapy is left at the discretion of the physicians, as in usual practice.",
+                "arm_group_label": "Control arm"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults (>= 18 years) admitted to the ICU;\n\n          -  Severe confirmed COVID-19 pneumonia, defined by i) a newly-appeared pulmonary\n             parenchymal infiltrate; and ii) a positive RT-PCR (either upper or lower respiratory\n             tract) for COVID-19 (SARS-CoV-2); iii) and admission to the ICU or intermediate care\n             unit;\n\n          -  Informed consent or emergency procedure.\n\n        Exclusion Criteria:\n\n          -  Pregnancy ;\n\n          -  Congenital immunodeficiency;\n\n          -  HIV infection with CD4 count below 200/mm3 or unknown in the last year;\n\n          -  High-grade hematological malignancy;\n\n          -  Neutropenia (<1 leucocyte/mL or < 0.5 neutrophil/mL);\n\n          -  Immunosuppressive drugs within the previous 30 days, including anti-cancer cytotoxic\n             chemotherapy and anti-rejection drugs for organ/bone marrow transplant;\n\n          -  Moribund patient or death expected from underlying disease during the current\n             admission;\n\n          -  Patient deprived of liberty or under legal protection measure"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Muriel FARTOUKH, PU-PH MD PHD",
+            "role": "Principal Investigator",
+            "affiliation": "Assistance Publique - H\u00f4pitaux de Paris"
+        },
+        "overall_contact": {
+            "last_name": "Muriel FARTOUKH, PU-PH MD PHD",
+            "phone": "01 56 01 65 74",
+            "email": "muriel.fartoukh@aphp.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Guillaume VOIRIOT, MD",
+            "phone": "01 56 01 65 74",
+            "email": "guillaume.voiriot@aphp.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "Intensive care department-Hospital Tenon",
+                "address": {
+                    "city": "Paris",
+                    "zip": "75020",
+                    "country": "France"
+                }
+            },
+            "contact": {
+                "last_name": "Muriel FARTOUKH, PU-PH MD PHD",
+                "phone": "01 56 01 65 74",
+                "email": "muriel.fartoukh@aphp.fr"
+            },
+            "contact_backup": {
+                "last_name": "Guillaume VOIRIOT, MD",
+                "phone": "01 56 01 65 74",
+                "email": "guillaume.voiriot@aphp.fr"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19 pneumonia",
+            "respiratory multiplex PCR",
+            "Procalcitonin",
+            "Antibiotics saving",
+            "Diagnosis",
+            "Treatment"
+        ],
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Anti-Bacterial Agents",
+                "Antibiotics, Antitubercular"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

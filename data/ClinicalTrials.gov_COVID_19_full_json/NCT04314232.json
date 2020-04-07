@@ -1,1 +1,103 @@
-{"clinical_study": {"@rank": "262", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04314232"}, "id_info": {"org_study_id": "117589", "nct_id": "NCT04314232"}, "brief_title": "Mechanisms to Morbidity and Mortality for Covid-19", "acronym": "COVID MECH", "official_title": "Changes in Organ Specific Biomarkers, Virus Expression and Prognosis for Covid-19", "sponsors": {"lead_sponsor": {"agency": "University Hospital, Akershus", "agency_class": "Other"}}, "source": "University Hospital, Akershus", "oversight_info": {"has_dmc": "No", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Covid-19 causes a range of symptoms and clinical trajectories. There are uncertainties\n      related to what risk factors and comorbity profiles that associate with development of\n      adverse outcomes,i.e. a acute respiratory disetress syndrome (ARDS) and diffuse alveolar\n      damage, and mortality. This study aims to identify organ specific biomarkers, viral dynamics\n      and immuneresponse in patients in patients infected with SARS-CoV2."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "March 23, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "December 31, 2021"}, "primary_completion_date": {"@type": "Anticipated", "#text": "December 31, 2021"}, "study_type": "Observational", "has_expanded_access": "No", "study_design_info": {"observational_model": "Cohort", "time_perspective": "Prospective"}, "primary_outcome": {"measure": "Change in viral expression in association to organspecific biomarkers", "time_frame": "Day 1 and Day 3"}, "enrollment": {"@type": "Anticipated", "#text": "200"}, "condition": ["Coronavirus", "SARS"], "eligibility": {"study_pop": {"textblock": "All patients with a positive test for SARS-CoV2 admitted to Akershus University Hospital."}, "sampling_method": "Non-Probability Sample", "criteria": {"textblock": "Inclusion Criteria:\n\n          -  All patients >18 years of age with a positive test for SARS-CoV2 are eligble for\n             inclusion.\n\n          -  Healty age-matched volunteers will be included as a control group\n\n        Exclusion Criteria:\n\n          -  None"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "N/A", "healthy_volunteers": "Accepts Healthy Volunteers"}, "verification_date": "March 2020", "study_first_submitted": "March 17, 2020", "study_first_submitted_qc": "March 17, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 19, 2020"}, "last_update_submitted": "March 17, 2020", "last_update_submitted_qc": "March 17, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 19, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "University Hospital, Akershus", "investigator_full_name": "Torbjorn Omland", "investigator_title": "Professor"}, "keyword": ["Covid-19", "Biomarkers", "Cardiovascular disease"], "condition_browse": {"mesh_term": "Coronavirus Infections"}}}
+{
+    "clinical_study": {
+        "@rank": "262",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04314232"
+        },
+        "id_info": {
+            "org_study_id": "117589",
+            "nct_id": "NCT04314232"
+        },
+        "brief_title": "Mechanisms to Morbidity and Mortality for Covid-19",
+        "acronym": "COVID MECH",
+        "official_title": "Changes in Organ Specific Biomarkers, Virus Expression and Prognosis for Covid-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Akershus",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Akershus",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Covid-19 causes a range of symptoms and clinical trajectories. There are uncertainties\n      related to what risk factors and comorbity profiles that associate with development of\n      adverse outcomes,i.e. a acute respiratory disetress syndrome (ARDS) and diffuse alveolar\n      damage, and mortality. This study aims to identify organ specific biomarkers, viral dynamics\n      and immuneresponse in patients in patients infected with SARS-CoV2."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 23, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Change in viral expression in association to organspecific biomarkers",
+            "time_frame": "Day 1 and Day 3"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": [
+            "Coronavirus",
+            "SARS"
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All patients with a positive test for SARS-CoV2 admitted to Akershus University Hospital."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All patients >18 years of age with a positive test for SARS-CoV2 are eligble for\n             inclusion.\n\n          -  Healty age-matched volunteers will be included as a control group\n\n        Exclusion Criteria:\n\n          -  None"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 17, 2020",
+        "study_first_submitted_qc": "March 17, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "last_update_submitted": "March 17, 2020",
+        "last_update_submitted_qc": "March 17, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 19, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University Hospital, Akershus",
+            "investigator_full_name": "Torbjorn Omland",
+            "investigator_title": "Professor"
+        },
+        "keyword": [
+            "Covid-19",
+            "Biomarkers",
+            "Cardiovascular disease"
+        ],
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        }
+    }
+}

@@ -1,1 +1,275 @@
-{"clinical_study": {"@rank": "38", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04335136"}, "id_info": {"org_study_id": "APN01-01-COVID19", "nct_id": "NCT04335136"}, "brief_title": "Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) as a Treatment for Patients With COVID-19", "acronym": "APN01-COVID-19", "official_title": "Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) as a Treatment for Patients With COVID-19", "sponsors": {"lead_sponsor": {"agency": "Apeiron Biologics", "agency_class": "Industry"}}, "source": "Apeiron Biologics", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "Recombinant human angotensin-converting enzyme 2 (rhACE2) as a treatment for patients with\n      COVID-19 to block viral entry and decrease viral replication."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 2020"}, "completion_date": {"@type": "Anticipated", "#text": "November 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "September 2020"}, "phase": "Phase 2", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "Double (Participant, Investigator)"}, "primary_outcome": {"measure": "Cause of death or invasive mechanical ventilation", "time_frame": "28 days", "description": "The primary endpoint is a composite endpoint of all cause-death or invasive mechanical ventilation up to 28 days or hospital discharge"}, "secondary_outcome": [{"measure": "LDH level", "time_frame": "Day 5", "description": "Log transformed levels of Lactate dehydrogenase (LDH) at day 5 as a surrogate marker for organ damage (powered secondary endpoint"}, {"measure": "Mortality", "time_frame": "28 days", "description": "28-day mortality (all cause-death)"}, {"measure": "VFD", "time_frame": "28 days", "description": "Ventilator-free days (VFD) up to 28 days or hospital discharge"}, {"measure": "Time to death", "time_frame": "28 days", "description": "Time to death (all causes)"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "200"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "Group A (active) APN01", "arm_group_type": "Active Comparator", "description": "Recombinant human angiotensin-converting enzyme 2 (rhACE2) - APN01"}, {"arm_group_label": "Group B (placebo control)", "arm_group_type": "Placebo Comparator"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "RhACE2 APN01", "description": "Patients will be treated with APN01 intravenously twice daily (BID).", "arm_group_label": "Group A (active) APN01", "other_name": ["APN01", "Recombinant human angiotensin-converting enzyme 2"]}, {"intervention_type": "Drug", "intervention_name": "Physiological saline solution", "description": "Patients will be treated with placebo intravenously twice daily (BID).", "arm_group_label": "Group B (placebo control)"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Hospitalized male or female\n\n          2. Diagnosed to be COVID-19 POSITIV\n\n          3. Signed Inform Consent Form\n\n        Exclusion Criteria:\n\n          1. Any patient whose clinical condition is deteriorating rapidly\n\n          2. Known positive Hepatitis B surface antigen, Hepatitis C antibody or HIV antibody\n\n          3. History of sensitivity to any of the study medications, or components thereof or a\n             history of drug or other allergy that, in the opinion of the investigator or Medical\n             Monitor, contraindicates their participation\n\n          4. Pregnant females as determined by positive serum or urine hCG test prior to dosing\n\n          5. Lung transplantation\n\n          6. Pre-existing renal failure, i.e. requiring renal replacement therapy with hemodialysis\n             or peritoneal dialysis\n\n          7. There are other uncontrolled co-morbidities that increase the risks associated with\n             the study drug administration, that are assessed by the medical expert team as\n             unsuitable\n\n          8. Patient in trials for COVID-19 within 30 days before ICF\n\n          9. Immunocompromised patients (chemotherapy, HIV, organ transplants, stem cell\n             transplants)"}, "gender": "All", "minimum_age": "35 Years", "maximum_age": "80 Years", "healthy_volunteers": "No"}, "overall_official": {"last_name": "Henning Bundgaard, Prof. Dr. med.", "role": "Principal Investigator", "affiliation": "The Capital Region's Unit of Inherited Cardiac Diseases Faculty of Health and Medical Sciences University of Copenhagen Rigshospitalet, University of Copenhagen"}, "overall_contact": {"last_name": "Sonja H\u00f6ller, Dr.", "phone": "43 1 865 65 77 128", "email": "sonja.hoeller@apeiron-biologics.com"}, "overall_contact_backup": {"last_name": "Claudia Haider, Mag.", "phone": "43 1 8656577 110", "email": "claudia.haider@apeiron-biologics.com"}, "location": [{"facility": {"name": "Medizinische Universit\u00e4t Innsbruck", "address": {"city": "Innsbruck", "country": "Austria"}}, "contact": {"last_name": "G\u00fcnter Weiss, Univ.-Prof. Dr."}}, {"facility": {"name": "Kaiser Franz Josef Spital, 4. Medizinische Abteilung mit Infektions- und Tropenmedizin", "address": {"city": "Wien", "country": "Austria"}}, "contact": {"last_name": "Alexander Zoufaly, Priv.-Doz. Dr."}}, {"facility": {"name": "Medizinische Universit\u00e4t Wien", "address": {"city": "Wien", "country": "Austria"}}, "contact": {"last_name": "Roman Ullrich, Prof. Dr."}}, {"facility": {"name": "The National University Hospital, Rigshospitalet", "address": {"city": "Copenhagen", "country": "Denmark"}}, "contact": {"last_name": "Jan Gerstoft, Prof. Dr. med."}}, {"facility": {"name": "Herlev Gentofte Hospital", "address": {"city": "Herlev", "zip": "2730", "country": "Denmark"}}, "contact": {"last_name": "Christian S\u00f8borg"}}, {"facility": {"name": "Nordsj\u00e6llands Hospital", "address": {"city": "Hiller\u00f8d", "zip": "3400", "country": "Denmark"}}, "contact": {"last_name": "Troels B. Knudsen"}}, {"facility": {"name": "Hvidovre Hospital", "address": {"city": "Hvidovre", "zip": "2650", "country": "Denmark"}}, "contact": {"last_name": "Thomas L. Benfield, Prof."}}, {"facility": {"name": "Universit\u00e4tsklinikum Hamburg-Eppendorf", "address": {"city": "Hamburg", "country": "Germany"}}, "contact": {"last_name": "Stefan Schmiedel, Dr. med."}}, {"facility": {"name": "Klinikum rechts der Isar, Technische Universit\u00e4t M\u00fcnchen", "address": {"city": "M\u00fcnchen", "country": "Germany"}}, "contact": {"last_name": "Christoph D. Spinner, PD DR. med."}}], "location_countries": {"country": ["Austria", "Denmark", "Germany"]}, "verification_date": "April 2020", "study_first_submitted": "April 1, 2020", "study_first_submitted_qc": "April 3, 2020", "study_first_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "last_update_submitted": "April 3, 2020", "last_update_submitted_qc": "April 3, 2020", "last_update_posted": {"@type": "Estimate", "#text": "April 6, 2020"}, "responsible_party": {"responsible_party_type": "Sponsor"}}}
+{
+    "clinical_study": {
+        "@rank": "38",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04335136"
+        },
+        "id_info": {
+            "org_study_id": "APN01-01-COVID19",
+            "nct_id": "NCT04335136"
+        },
+        "brief_title": "Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) as a Treatment for Patients With COVID-19",
+        "acronym": "APN01-COVID-19",
+        "official_title": "Recombinant Human Angiotensin-converting Enzyme 2 (rhACE2) as a Treatment for Patients With COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Apeiron Biologics",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Apeiron Biologics",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Recombinant human angotensin-converting enzyme 2 (rhACE2) as a treatment for patients with\n      COVID-19 to block viral entry and decrease viral replication."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Cause of death or invasive mechanical ventilation",
+            "time_frame": "28 days",
+            "description": "The primary endpoint is a composite endpoint of all cause-death or invasive mechanical ventilation up to 28 days or hospital discharge"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "LDH level",
+                "time_frame": "Day 5",
+                "description": "Log transformed levels of Lactate dehydrogenase (LDH) at day 5 as a surrogate marker for organ damage (powered secondary endpoint"
+            },
+            {
+                "measure": "Mortality",
+                "time_frame": "28 days",
+                "description": "28-day mortality (all cause-death)"
+            },
+            {
+                "measure": "VFD",
+                "time_frame": "28 days",
+                "description": "Ventilator-free days (VFD) up to 28 days or hospital discharge"
+            },
+            {
+                "measure": "Time to death",
+                "time_frame": "28 days",
+                "description": "Time to death (all causes)"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Group A (active) APN01",
+                "arm_group_type": "Active Comparator",
+                "description": "Recombinant human angiotensin-converting enzyme 2 (rhACE2) - APN01"
+            },
+            {
+                "arm_group_label": "Group B (placebo control)",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "RhACE2 APN01",
+                "description": "Patients will be treated with APN01 intravenously twice daily (BID).",
+                "arm_group_label": "Group A (active) APN01",
+                "other_name": [
+                    "APN01",
+                    "Recombinant human angiotensin-converting enzyme 2"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Physiological saline solution",
+                "description": "Patients will be treated with placebo intravenously twice daily (BID).",
+                "arm_group_label": "Group B (placebo control)"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Hospitalized male or female\n\n          2. Diagnosed to be COVID-19 POSITIV\n\n          3. Signed Inform Consent Form\n\n        Exclusion Criteria:\n\n          1. Any patient whose clinical condition is deteriorating rapidly\n\n          2. Known positive Hepatitis B surface antigen, Hepatitis C antibody or HIV antibody\n\n          3. History of sensitivity to any of the study medications, or components thereof or a\n             history of drug or other allergy that, in the opinion of the investigator or Medical\n             Monitor, contraindicates their participation\n\n          4. Pregnant females as determined by positive serum or urine hCG test prior to dosing\n\n          5. Lung transplantation\n\n          6. Pre-existing renal failure, i.e. requiring renal replacement therapy with hemodialysis\n             or peritoneal dialysis\n\n          7. There are other uncontrolled co-morbidities that increase the risks associated with\n             the study drug administration, that are assessed by the medical expert team as\n             unsuitable\n\n          8. Patient in trials for COVID-19 within 30 days before ICF\n\n          9. Immunocompromised patients (chemotherapy, HIV, organ transplants, stem cell\n             transplants)"
+            },
+            "gender": "All",
+            "minimum_age": "35 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Henning Bundgaard, Prof. Dr. med.",
+            "role": "Principal Investigator",
+            "affiliation": "The Capital Region's Unit of Inherited Cardiac Diseases Faculty of Health and Medical Sciences University of Copenhagen Rigshospitalet, University of Copenhagen"
+        },
+        "overall_contact": {
+            "last_name": "Sonja H\u00f6ller, Dr.",
+            "phone": "43 1 865 65 77 128",
+            "email": "sonja.hoeller@apeiron-biologics.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Claudia Haider, Mag.",
+            "phone": "43 1 8656577 110",
+            "email": "claudia.haider@apeiron-biologics.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Medizinische Universit\u00e4t Innsbruck",
+                    "address": {
+                        "city": "Innsbruck",
+                        "country": "Austria"
+                    }
+                },
+                "contact": {
+                    "last_name": "G\u00fcnter Weiss, Univ.-Prof. Dr."
+                }
+            },
+            {
+                "facility": {
+                    "name": "Kaiser Franz Josef Spital, 4. Medizinische Abteilung mit Infektions- und Tropenmedizin",
+                    "address": {
+                        "city": "Wien",
+                        "country": "Austria"
+                    }
+                },
+                "contact": {
+                    "last_name": "Alexander Zoufaly, Priv.-Doz. Dr."
+                }
+            },
+            {
+                "facility": {
+                    "name": "Medizinische Universit\u00e4t Wien",
+                    "address": {
+                        "city": "Wien",
+                        "country": "Austria"
+                    }
+                },
+                "contact": {
+                    "last_name": "Roman Ullrich, Prof. Dr."
+                }
+            },
+            {
+                "facility": {
+                    "name": "The National University Hospital, Rigshospitalet",
+                    "address": {
+                        "city": "Copenhagen",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Jan Gerstoft, Prof. Dr. med."
+                }
+            },
+            {
+                "facility": {
+                    "name": "Herlev Gentofte Hospital",
+                    "address": {
+                        "city": "Herlev",
+                        "zip": "2730",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Christian S\u00f8borg"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Nordsj\u00e6llands Hospital",
+                    "address": {
+                        "city": "Hiller\u00f8d",
+                        "zip": "3400",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Troels B. Knudsen"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hvidovre Hospital",
+                    "address": {
+                        "city": "Hvidovre",
+                        "zip": "2650",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Thomas L. Benfield, Prof."
+                }
+            },
+            {
+                "facility": {
+                    "name": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+                    "address": {
+                        "city": "Hamburg",
+                        "country": "Germany"
+                    }
+                },
+                "contact": {
+                    "last_name": "Stefan Schmiedel, Dr. med."
+                }
+            },
+            {
+                "facility": {
+                    "name": "Klinikum rechts der Isar, Technische Universit\u00e4t M\u00fcnchen",
+                    "address": {
+                        "city": "M\u00fcnchen",
+                        "country": "Germany"
+                    }
+                },
+                "contact": {
+                    "last_name": "Christoph D. Spinner, PD DR. med."
+                }
+            }
+        ],
+        "location_countries": {
+            "country": [
+                "Austria",
+                "Denmark",
+                "Germany"
+            ]
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 6, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }
+    }
+}

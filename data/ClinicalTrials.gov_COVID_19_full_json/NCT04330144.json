@@ -1,1 +1,137 @@
-{"clinical_study": {"@rank": "97", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04330144"}, "id_info": {"org_study_id": "3-2020-0036", "nct_id": "NCT04330144"}, "brief_title": "Hydroxychloroquine as Post Exposure Prophylaxis for SARS-CoV-2(HOPE Trial)", "official_title": "A Study of Hydroxychloroquine as Post Exposure Prophylaxis for SARS-CoV-2(HOPE Trial)", "sponsors": {"lead_sponsor": {"agency": "Gangnam Severance Hospital", "agency_class": "Other"}}, "source": "Gangnam Severance Hospital", "oversight_info": {"has_dmc": "Yes", "is_fda_regulated_drug": "No", "is_fda_regulated_device": "No", "is_us_export": "No"}, "brief_summary": {"textblock": "There is no known definite treatment after exposure to SARS-CoV-2, but the some animal and\n      clinical trials confirmed the efficacy of hydroxychloroquine (HCQ) or chloroquine against\n      SARS-CoV-2. Thus, in this study, we aim to evaluate the efficacy and safety of\n      hydroxychloroquine as post exposure prophylaxis for SARS-CoV-2.\n\n        -  Primary end point: comparison the rate of COVID-19 between PEP with HCQ and control\n           group.\n\n        -  Secondary end point: Comparison of the rate of COVID-19 according to the contact level\n           (time, place, degree of wearing personal protective equipment).\n\n        -  Safety comparison: Safety verification by identifying major side effects in the HCQ\n           group.\""}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "March 30, 2022"}, "primary_completion_date": {"@type": "Anticipated", "#text": "March 30, 2021"}, "phase": "Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Prevention", "masking": "Single (Outcomes Assessor)"}, "primary_outcome": {"measure": "The rate of COVID-19", "time_frame": "PCR test of COVID-19 at 14 days after the contact from confirmed case", "description": "After postexposure prophylaxis, the rate of COVID-19 conversion between two groups"}, "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "2486"}, "condition": "Contact Person From COVID-19 Confirmed Patient", "arm_group": [{"arm_group_label": "administration of hydroxychloroquine as PEP", "arm_group_type": "Experimental"}, {"arm_group_label": "control with no PEP", "arm_group_type": "Active Comparator"}], "intervention": [{"intervention_type": "Drug", "intervention_name": "Hydroxychloroquine as post exposure prophylaxis", "description": "1day: Hydroxychloroquine 800mg Qd po 2-5dy: Hydroxychloroquine 400mg Qd po", "arm_group_label": "administration of hydroxychloroquine as PEP"}, {"intervention_type": "Other", "intervention_name": "Others(No intervention)", "description": "No treatment. Close monitoring and quarantine.", "arm_group_label": "control with no PEP"}], "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          -  A contact person from confirmed case of SARS-CoV-2 infection\n\n          -  Medical staff exposed from confirmed case of SARS-CoV-2 infection in hospitals\n\n          -  Persons exposed to SARS-CoV-2 in COVID-19 outbreak situation with certain workplaces,\n             religious groups, and military, etc.\n\n               -  Subjects of study include both symptomatic and asymptomatic contacts.\n\n        Exclusion Criteria:\n\n          -  Hypersensitivity to Chloroquine or Hydroxychloroquine\n\n          -  Those who are contraindicated in Hydroxychloroquine administration according to the\n             permission requirements such as pregnant women, nursing mothers, visual disorders,\n             macular disease, and porphyria, etc.\n\n          -  Human immunodeficiency virus (HIV) infected person\n\n          -  Patients with autoimmune disease (Systemic lupus erythematosus, Mixed connective\n             tissue disease)\n\n          -  Patients with autoimmune rheumatoid inflammatory disease (AIIRD; Autoimmune\n             inflammatory rheumatic diseases - Ankylosing spondylitis, Rheumatic arthritis,\n             Psoriatic arthritis)\n\n          -  Arrhythmia, liver cirrhosis of Child Pugh C, chronic renal failure with eGFR\u226430mL /\n             min / 1.73m2\n\n          -  A person who is positive in the COVID-19 screening PCR test before starting PEP"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "99 Years", "healthy_volunteers": "Accepts Healthy Volunteers"}, "overall_official": {"last_name": "Yong Goo Song, Professor", "role": "Principal Investigator", "affiliation": "Gangnam Severance Hospital"}, "overall_contact": {"last_name": "Yong Goo Song, Professor", "phone": "82-2-2019-3310", "phone_ext": "3310", "email": "imfell@yuhs.ac"}, "verification_date": "March 2020", "study_first_submitted": "March 30, 2020", "study_first_submitted_qc": "March 31, 2020", "study_first_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "last_update_submitted": "March 31, 2020", "last_update_submitted_qc": "March 31, 2020", "last_update_posted": {"@type": "Actual", "#text": "April 1, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Gangnam Severance Hospital", "investigator_full_name": "Young Goo Song", "investigator_title": "Professor, Department of Internal Medicine,"}, "keyword": ["Postexposure prophylaxis", "hydroxychloroquine", "SARS-CoV-2", "COVID-19"], "intervention_browse": {"mesh_term": "Hydroxychloroquine"}}}
+{
+    "clinical_study": {
+        "@rank": "97",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04330144"
+        },
+        "id_info": {
+            "org_study_id": "3-2020-0036",
+            "nct_id": "NCT04330144"
+        },
+        "brief_title": "Hydroxychloroquine as Post Exposure Prophylaxis for SARS-CoV-2(HOPE Trial)",
+        "official_title": "A Study of Hydroxychloroquine as Post Exposure Prophylaxis for SARS-CoV-2(HOPE Trial)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gangnam Severance Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Gangnam Severance Hospital",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "There is no known definite treatment after exposure to SARS-CoV-2, but the some animal and\n      clinical trials confirmed the efficacy of hydroxychloroquine (HCQ) or chloroquine against\n      SARS-CoV-2. Thus, in this study, we aim to evaluate the efficacy and safety of\n      hydroxychloroquine as post exposure prophylaxis for SARS-CoV-2.\n\n        -  Primary end point: comparison the rate of COVID-19 between PEP with HCQ and control\n           group.\n\n        -  Secondary end point: Comparison of the rate of COVID-19 according to the contact level\n           (time, place, degree of wearing personal protective equipment).\n\n        -  Safety comparison: Safety verification by identifying major side effects in the HCQ\n           group.\""
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 30, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 30, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "The rate of COVID-19",
+            "time_frame": "PCR test of COVID-19 at 14 days after the contact from confirmed case",
+            "description": "After postexposure prophylaxis, the rate of COVID-19 conversion between two groups"
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "2486"
+        },
+        "condition": "Contact Person From COVID-19 Confirmed Patient",
+        "arm_group": [
+            {
+                "arm_group_label": "administration of hydroxychloroquine as PEP",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "control with no PEP",
+                "arm_group_type": "Active Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine as post exposure prophylaxis",
+                "description": "1day: Hydroxychloroquine 800mg Qd po 2-5dy: Hydroxychloroquine 400mg Qd po",
+                "arm_group_label": "administration of hydroxychloroquine as PEP"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Others(No intervention)",
+                "description": "No treatment. Close monitoring and quarantine.",
+                "arm_group_label": "control with no PEP"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  A contact person from confirmed case of SARS-CoV-2 infection\n\n          -  Medical staff exposed from confirmed case of SARS-CoV-2 infection in hospitals\n\n          -  Persons exposed to SARS-CoV-2 in COVID-19 outbreak situation with certain workplaces,\n             religious groups, and military, etc.\n\n               -  Subjects of study include both symptomatic and asymptomatic contacts.\n\n        Exclusion Criteria:\n\n          -  Hypersensitivity to Chloroquine or Hydroxychloroquine\n\n          -  Those who are contraindicated in Hydroxychloroquine administration according to the\n             permission requirements such as pregnant women, nursing mothers, visual disorders,\n             macular disease, and porphyria, etc.\n\n          -  Human immunodeficiency virus (HIV) infected person\n\n          -  Patients with autoimmune disease (Systemic lupus erythematosus, Mixed connective\n             tissue disease)\n\n          -  Patients with autoimmune rheumatoid inflammatory disease (AIIRD; Autoimmune\n             inflammatory rheumatic diseases - Ankylosing spondylitis, Rheumatic arthritis,\n             Psoriatic arthritis)\n\n          -  Arrhythmia, liver cirrhosis of Child Pugh C, chronic renal failure with eGFR\u226430mL /\n             min / 1.73m2\n\n          -  A person who is positive in the COVID-19 screening PCR test before starting PEP"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "99 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Yong Goo Song, Professor",
+            "role": "Principal Investigator",
+            "affiliation": "Gangnam Severance Hospital"
+        },
+        "overall_contact": {
+            "last_name": "Yong Goo Song, Professor",
+            "phone": "82-2-2019-3310",
+            "phone_ext": "3310",
+            "email": "imfell@yuhs.ac"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 30, 2020",
+        "study_first_submitted_qc": "March 31, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "last_update_submitted": "March 31, 2020",
+        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Gangnam Severance Hospital",
+            "investigator_full_name": "Young Goo Song",
+            "investigator_title": "Professor, Department of Internal Medicine,"
+        },
+        "keyword": [
+            "Postexposure prophylaxis",
+            "hydroxychloroquine",
+            "SARS-CoV-2",
+            "COVID-19"
+        ],
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        }
+    }
+}

@@ -1,1 +1,159 @@
-{"clinical_study": {"@rank": "4", "required_header": {"download_date": "ClinicalTrials.gov processed this data on April 06, 2020", "link_text": "Link to the current ClinicalTrials.gov record.", "url": "https://clinicaltrials.gov/show/NCT04291053"}, "id_info": {"org_study_id": "TJ-IRB20200205", "nct_id": "NCT04291053"}, "brief_title": "The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19", "official_title": "The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19: a Prospective, Multicenter, Randomized, Parallel Controlled Clinical Study", "sponsors": {"lead_sponsor": {"agency": "Tongji Hospital", "agency_class": "Other"}}, "source": "Tongji Hospital", "oversight_info": {"is_fda_regulated_drug": "No", "is_fda_regulated_device": "No"}, "brief_summary": {"textblock": "In December 2019,a new type of pneumonia caused by the coronavirus (COVID-2019) broke out in\n      Wuhan ,China, and spreads quickly to other Chinese cities and 28 countries. More than 70000\n      people were infected and over 2000 people died all over the world.There is no specific drug\n      treatment for this disease. This study is planned to observe the efficacy and safety of\n      Huaier granule in the adjuvant treatment COVID-19."}, "overall_status": "Not yet recruiting", "start_date": {"@type": "Anticipated", "#text": "April 1, 2020"}, "completion_date": {"@type": "Anticipated", "#text": "September 1, 2020"}, "primary_completion_date": {"@type": "Anticipated", "#text": "August 1, 2020"}, "phase": "Phase 2/Phase 3", "study_type": "Interventional", "has_expanded_access": "No", "study_design_info": {"allocation": "Randomized", "intervention_model": "Parallel Assignment", "primary_purpose": "Treatment", "masking": "None (Open Label)"}, "primary_outcome": {"measure": "Mortality rate", "time_frame": "up to 28 days", "description": "All cause mortality"}, "secondary_outcome": [{"measure": "Clinical status assessed according to the official guideline", "time_frame": "up to 28 days", "description": "1.mild type\uff1ano No symptoms, Imaging examination showed no signs of pneumonia; 2,moderate type: with fever or respiratory symptoms,Imaging examination showed signs of pneumonia, SpO2\uff1e93% without oxygen inhalation ; severe type:Match any of the following\uff1aa. R\u226530bpm\uff1bb.Pulse Oxygen Saturation(SpO2)\u226493% without oxygen inhalation\uff0cc. PaO2/FiO2(fraction of inspired oxygen )\u2264300mmHg \uff1b4. Critically type\uff1amatch any of the follow: a. need mechanical ventilation; b. shock; c. (multiple organ dysfunction syndrome) MODS"}, {"measure": "The differences in oxygen intake methods", "time_frame": "up to 28 days", "description": "Pulse Oxygen Saturation(SpO2)\uff1e93%\uff0c1. No need for supplemental oxygenation; 2. nasal catheter oxygen inhalation\uff08oxygen concentration%,The oxygen flow rate\uff1aL/min\uff09\uff1b3. Mask oxygen inhalation\uff08oxygen concentration%,The oxygen flow rate\uff1aL/min\uff09\uff1b4. Noninvasive ventilator oxygen supply\uff08Ventilation mode,oxygen concentration%,The oxygen flow rate\uff1aL/min,\uff09\uff1b5. Invasive ventilator oxygen supply\uff08Ventilation mode,oxygen concentration%,The oxygen flow rate\uff1aL/min,\uff09."}, {"measure": "Duration (days) of supplemental oxygenation", "time_frame": "up to 28 days", "description": "days"}, {"measure": "Duration (days) of mechanical ventilation", "time_frame": "up to 28 days", "description": "days"}, {"measure": "The mean PaO2/FiO2", "time_frame": "up to 28 days"}, {"measure": "Length of hospital stay (days)", "time_frame": "up to 28 days", "description": "days"}, {"measure": "Length of ICU stay (days)", "time_frame": "up to 28 days", "description": "days"}, {"measure": "Pulmonary function", "time_frame": "up to 3 months after discharge", "description": "forced expiratory volume at one second ,maximum voluntary ventilation at 1month\uff0c2month\uff0c3month after discharge"}], "number_of_arms": "2", "enrollment": {"@type": "Anticipated", "#text": "550"}, "condition": "COVID-19", "arm_group": [{"arm_group_label": "experimental group", "arm_group_type": "Experimental", "description": "Standard therapy+Huaier granule Huaier granule 20g, po, tid for 2 weeks( or until discharge)"}, {"arm_group_label": "control group", "arm_group_type": "No Intervention", "description": "standard therapy"}], "intervention": {"intervention_type": "Drug", "intervention_name": "Huaier Granule", "description": "standard treatment + Huaier Granule 20g po tid for 2weeks", "arm_group_label": "experimental group"}, "eligibility": {"criteria": {"textblock": "Inclusion Criteria:\n\n          1. Aged between 18 and 75 years, extremes included, male or female\n\n          2. Patients diagnosed with mild or common type COVID-19, according to the official\n             guideline \"Pneumonia Diagnosis and Treatment Scheme for Novel Coronavirus Infection\n             (Trial Version 6)\"\n\n          3. patients can generally tolerable for treatment recommended by the official guideline\n             \"Pneumonia Diagnosis and Treatment Scheme for Novel Coronavirus Infection (Trial\n             Version 6)\"\n\n          4. Patients have not been accompanied by serious physical diseases of heart, lung, brain,\n             etc.,Eastern Cooperative Oncology Group score standard:0-1\n\n          5. Ability to understand and the willingness to sign a written informed consent document.\n\n        Exclusion Criteria:\n\n          1. Female subjects who are pregnant or breastfeeding.\n\n          2. patients who are allergic to this medicine\n\n          3. patients meet the contraindications of Huaier granule\n\n          4. Patients with diabetes\n\n          5. Patients have any condition that in the judgement of the Investigators would make the\n             subject inappropriate for entry into this study.\n\n          6. patients can't take drugs orally"}, "gender": "All", "minimum_age": "18 Years", "maximum_age": "75 Years", "healthy_volunteers": "No"}, "overall_contact": {"last_name": "Lin Chen", "phone": "+8613517260864", "email": "chenlin_tj@126.com"}, "verification_date": "March 2020", "study_first_submitted": "February 27, 2020", "study_first_submitted_qc": "February 27, 2020", "study_first_posted": {"@type": "Actual", "#text": "March 2, 2020"}, "last_update_submitted": "March 14, 2020", "last_update_submitted_qc": "March 14, 2020", "last_update_posted": {"@type": "Actual", "#text": "March 17, 2020"}, "responsible_party": {"responsible_party_type": "Principal Investigator", "investigator_affiliation": "Tongji Hospital", "investigator_full_name": "Chen Xiaoping", "investigator_title": "Principal Investigator"}, "keyword": ["COVID-19", "Huaier granule"]}}
+{
+    "clinical_study": {
+        "@rank": "4",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04291053"
+        },
+        "id_info": {
+            "org_study_id": "TJ-IRB20200205",
+            "nct_id": "NCT04291053"
+        },
+        "brief_title": "The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19",
+        "official_title": "The Efficacy and Safety of Huai er in the Adjuvant Treatment of COVID-19: a Prospective, Multicenter, Randomized, Parallel Controlled Clinical Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Tongji Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Tongji Hospital",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "In December 2019,a new type of pneumonia caused by the coronavirus (COVID-2019) broke out in\n      Wuhan ,China, and spreads quickly to other Chinese cities and 28 countries. More than 70000\n      people were infected and over 2000 people died all over the world.There is no specific drug\n      treatment for this disease. This study is planned to observe the efficacy and safety of\n      Huaier granule in the adjuvant treatment COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 1, 2020"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Mortality rate",
+            "time_frame": "up to 28 days",
+            "description": "All cause mortality"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Clinical status assessed according to the official guideline",
+                "time_frame": "up to 28 days",
+                "description": "1.mild type\uff1ano No symptoms, Imaging examination showed no signs of pneumonia; 2,moderate type: with fever or respiratory symptoms,Imaging examination showed signs of pneumonia, SpO2\uff1e93% without oxygen inhalation ; severe type:Match any of the following\uff1aa. R\u226530bpm\uff1bb.Pulse Oxygen Saturation(SpO2)\u226493% without oxygen inhalation\uff0cc. PaO2/FiO2(fraction of inspired oxygen )\u2264300mmHg \uff1b4. Critically type\uff1amatch any of the follow: a. need mechanical ventilation; b. shock; c. (multiple organ dysfunction syndrome) MODS"
+            },
+            {
+                "measure": "The differences in oxygen intake methods",
+                "time_frame": "up to 28 days",
+                "description": "Pulse Oxygen Saturation(SpO2)\uff1e93%\uff0c1. No need for supplemental oxygenation; 2. nasal catheter oxygen inhalation\uff08oxygen concentration%,The oxygen flow rate\uff1aL/min\uff09\uff1b3. Mask oxygen inhalation\uff08oxygen concentration%,The oxygen flow rate\uff1aL/min\uff09\uff1b4. Noninvasive ventilator oxygen supply\uff08Ventilation mode,oxygen concentration%,The oxygen flow rate\uff1aL/min,\uff09\uff1b5. Invasive ventilator oxygen supply\uff08Ventilation mode,oxygen concentration%,The oxygen flow rate\uff1aL/min,\uff09."
+            },
+            {
+                "measure": "Duration (days) of supplemental oxygenation",
+                "time_frame": "up to 28 days",
+                "description": "days"
+            },
+            {
+                "measure": "Duration (days) of mechanical ventilation",
+                "time_frame": "up to 28 days",
+                "description": "days"
+            },
+            {
+                "measure": "The mean PaO2/FiO2",
+                "time_frame": "up to 28 days"
+            },
+            {
+                "measure": "Length of hospital stay (days)",
+                "time_frame": "up to 28 days",
+                "description": "days"
+            },
+            {
+                "measure": "Length of ICU stay (days)",
+                "time_frame": "up to 28 days",
+                "description": "days"
+            },
+            {
+                "measure": "Pulmonary function",
+                "time_frame": "up to 3 months after discharge",
+                "description": "forced expiratory volume at one second ,maximum voluntary ventilation at 1month\uff0c2month\uff0c3month after discharge"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "550"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "experimental group",
+                "arm_group_type": "Experimental",
+                "description": "Standard therapy+Huaier granule Huaier granule 20g, po, tid for 2 weeks( or until discharge)"
+            },
+            {
+                "arm_group_label": "control group",
+                "arm_group_type": "No Intervention",
+                "description": "standard therapy"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Huaier Granule",
+            "description": "standard treatment + Huaier Granule 20g po tid for 2weeks",
+            "arm_group_label": "experimental group"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Aged between 18 and 75 years, extremes included, male or female\n\n          2. Patients diagnosed with mild or common type COVID-19, according to the official\n             guideline \"Pneumonia Diagnosis and Treatment Scheme for Novel Coronavirus Infection\n             (Trial Version 6)\"\n\n          3. patients can generally tolerable for treatment recommended by the official guideline\n             \"Pneumonia Diagnosis and Treatment Scheme for Novel Coronavirus Infection (Trial\n             Version 6)\"\n\n          4. Patients have not been accompanied by serious physical diseases of heart, lung, brain,\n             etc.,Eastern Cooperative Oncology Group score standard:0-1\n\n          5. Ability to understand and the willingness to sign a written informed consent document.\n\n        Exclusion Criteria:\n\n          1. Female subjects who are pregnant or breastfeeding.\n\n          2. patients who are allergic to this medicine\n\n          3. patients meet the contraindications of Huaier granule\n\n          4. Patients with diabetes\n\n          5. Patients have any condition that in the judgement of the Investigators would make the\n             subject inappropriate for entry into this study.\n\n          6. patients can't take drugs orally"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Lin Chen",
+            "phone": "+8613517260864",
+            "email": "chenlin_tj@126.com"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "February 27, 2020",
+        "study_first_submitted_qc": "February 27, 2020",
+        "study_first_posted": {
+            "@type": "Actual",
+            "#text": "March 2, 2020"
+        },
+        "last_update_submitted": "March 14, 2020",
+        "last_update_submitted_qc": "March 14, 2020",
+        "last_update_posted": {
+            "@type": "Actual",
+            "#text": "March 17, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Tongji Hospital",
+            "investigator_full_name": "Chen Xiaoping",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": [
+            "COVID-19",
+            "Huaier granule"
+        ]
+    }
+}
