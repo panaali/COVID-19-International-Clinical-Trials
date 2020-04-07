@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "267",
+        "@rank": "293",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334434"
         },
@@ -53,7 +53,7 @@
             {
                 "measure": "Physical Activity Scale for the Elderly",
                 "time_frame": "2 weeks",
-                "description": "One of the evaluation parameters created to evaluate the physical activity level of elderly individuals, the factors affecting the activity level, the relationship between physical activity and health profile is the Physical Activity Scale for the Elderly."
+                "description": "One of the evaluation parameters created to evaluate the physical activity level of elderly individuals, the factors affecting the activity level, the relationship between physical activity and health profile is the Physical Activity Scale for the Elderly. The minimum score that can be obtained from the scale is 0 and the maximum score is 400. The higher score on the scale indicates a better level of physical activity."
             },
             {
                 "measure": "Nottingham Health Profile",
@@ -103,14 +103,14 @@
         "study_first_submitted": "April 2, 2020",
         "study_first_submitted_qc": "April 2, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 6, 2020"
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "78",
+        "@rank": "89",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04288102"
         },
@@ -11,17 +11,13 @@
             "nct_id": "NCT04288102"
         },
         "brief_title": "Treatment With Mesenchymal Stem Cells for Severe Corona Virus Disease 2019(COVID-19)",
-        "official_title": "Prospective, Randomized, Multi-center Phase 2 Clinical Trial of Mesenchymal Stem Cell(MSC) for the Treatment of Severe Corona Virus Disease 2019(COVID-19)",
+        "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Efficacy and Safety of Human Mesenchymal Stem Cells in Combination With Standard Therapy in the Treatment of COVID-19 Patients With Severe Convalescence",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Beijing 302 Hospital",
                 "agency_class": "Other"
             },
             "collaborator": [
-                {
-                    "agency": "VCANBIO CELL & GENE ENGINEERING CORP.,LTD, China",
-                    "agency_class": "Other"
-                },
                 {
                     "agency": "Wuhan Huoshenshan Hospital, Wuhan, China",
                     "agency_class": "Other"
@@ -31,29 +27,18 @@
                     "agency_class": "Other"
                 },
                 {
-                    "agency": "Shenzhen Third People's Hospital",
+                    "agency": "General Hospital of Central Theater Command, Wuhan, China",
                     "agency_class": "Other"
                 },
                 {
-                    "agency": "Fifth Affiliated Hospital, Sun Yat-Sen University",
-                    "agency_class": "Other"
-                },
-                {
-                    "agency": "Wuhan Union Hospital, China",
-                    "agency_class": "Other"
-                },
-                {
-                    "agency": "West China Hospital",
-                    "agency_class": "Other"
-                },
-                {
-                    "agency": "Tianjin Haihe Hospital",
+                    "agency": "VCANBIO CELL & GENE ENGINEERING CORP.,LTD, China",
                     "agency_class": "Other"
                 }
             ]
         },
         "source": "Beijing 302 Hospital",
         "oversight_info": {
+            "has_dmc": "Yes",
             "is_fda_regulated_drug": "No",
             "is_fda_regulated_device": "No"
         },
@@ -61,7 +46,7 @@
             "textblock": "COVID-19 caused clusters of severe respiratory illness and was associated with 2% mortality.\n      No specific anti-viral treatment exists. The mainstay of clinical management is largely\n      symptomatic treatment, with organ support in intensive care for seriously ill patients.\n      Cellular therapy, using mesenchymal stem cells has been shown to reduce nonproductive\n      inflammation and affect tissue regeneration and is being evaluated in patients with ARDS.\n      This clinical trial is to inspect the safety and efficiency of mesenchymal stem cells (MSCs)\n      therapy for severe COVID-19."
         },
         "detailed_description": {
-            "textblock": "The epidemic of 2019 novel coronavirus (causing the disease Covid-19) has expanded from Wuhan\n      throughout China and is being exported to a growing number of countries, some of which have\n      seen onward transmission. COVID-19 caused clusters of severe respiratory illness and was\n      associated with 2% mortality. There is currently no vaccine and no specific antiviral\n      treatment recommended for COVID-19. About 20% of the patients were severe and the mainstay of\n      clinical management is largely symptomatic treatment, with organ support in intensive care\n      for seriously ill patients. Therefore, it is urgent to find a safe and effective therapeutic\n      approach to COVID-19.\n\n      In the last years, the promising features of mesenchymal stem cells (MSCs), including their\n      regenerative properties and ability to differentiate into diverse cell lineages, have\n      generated great interest among researchers whose work has offered intriguing perspectives on\n      cell-based therapies for various diseases. These findings seem to highlight that the\n      beneficial effect of MSC-based treatment could be principally due by the immunomodulation and\n      regenerative potential of these cells. MSCs could significantly reduce the pathological\n      changes of lung and inhibit the cell-mediated immune inflammatory response induced by\n      influenza virus in animal model . MSCs has been shown to reduce nonproductive inflammation\n      and affect tissue regeneration and is being evaluated in patients with ARDS. Our phase I\n      preliminary data of parallel assignment study(NCT04252118) showed that three doses of MSCs\n      was safe in patients with COVID-19. Randomized control trial are needed to assess efficacy\n      and safety.\n\n      The investigators will do a prospective, double-blind, multicentre, randomised trial to\n      assess treatment with three intravenous doses of MSCs compared with placebo. 90 severe\n      COVID-19 patients will be recruited in China. 60 patients receive i.v. transfusion 3 times of\n      MSCs\uff08 4.0*10E7 cells per time), as the treated group, all of them receive the conventional\n      treatment. In addition, the 30 patients receive placebo and conventional treatment were used\n      as control.\n\n      Size of lesion area and severity of pulmonary fibrosis by chest CT, proportion of patients in\n      each classification of clinical critical treatment index, oxygen saturation, oxygenation\n      index, duration of oxygen therapy, side effects, immunological characteristics (immune cells,\n      inflammatory factors, etc.) will be evaluated during the 90 days follow up."
+            "textblock": "The epidemic of 2019 novel coronavirus (causing the disease Covid-19) has expanded from Wuhan\n      throughout China and is being exported to a growing number of countries, some of which have\n      seen onward transmission. COVID-19 caused clusters of severe respiratory illness and was\n      associated with 2% mortality. There is currently no vaccine and no specific antiviral\n      treatment recommended for COVID-19. About 20% of the patients were severe and the mainstay of\n      clinical management is largely symptomatic treatment, with organ support in intensive care\n      for seriously ill patients. Therefore, it is urgent to find a safe and effective therapeutic\n      approach to COVID-19.\n\n      In the last years, the promising features of mesenchymal stem cells (MSCs), including their\n      regenerative properties and ability to differentiate into diverse cell lineages, have\n      generated great interest among researchers whose work has offered intriguing perspectives on\n      cell-based therapies for various diseases. These findings seem to highlight that the\n      beneficial effect of MSC-based treatment could be principally due by the immunomodulation and\n      regenerative potential of these cells. MSCs could significantly reduce the pathological\n      changes of lung and inhibit the cell-mediated immune inflammatory response induced by\n      influenza virus in animal model . MSCs has been shown to reduce nonproductive inflammation\n      and affect tissue regeneration and is being evaluated in patients with ARDS. Our phase I\n      preliminary data of parallel assignment study(NCT04252118) showed that three doses of MSCs\n      was safe in patients with COVID-19. Randomized control trial is needed to assess efficacy and\n      safety.\n\n      The investigators will do a prospective, double-blind, multicentre, randomised trial to\n      assess treatment with three intravenous doses of MSCs compared with placebo. 90 severe\n      COVID-19 patients will be recruited in China. 60 patients will receive i.v. transfusion 3\n      times of MSCs\uff08 4.0*10E7 cells per time) and the conventional treatment as the treated group.\n      In addition, the 30 patients will receive placebo and conventional treatment as control\n      group.\n\n      Size of lesion area and severity of pulmonary fibrosis by chest CT,mMRC (Modified Medical\n      Research Council) dyspnea scale, 6-minute walk test, maximum vital capacity (VCmax),\n      Diffusing Capacity (DLCO), oxygen saturation, oxygenation index, duration of oxygen therapy,\n      side effects, immunological characteristics (immune cells, inflammatory factors, etc.) will\n      be evaluated during the 90 days follow up."
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -70,18 +55,19 @@
         },
         "completion_date": {
             "@type": "Anticipated",
-            "#text": "December 31, 2021"
+            "#text": "July 31, 2020"
         },
         "primary_completion_date": {
             "@type": "Anticipated",
-            "#text": "December 31, 2020"
+            "#text": "July 15, 2020"
         },
-        "phase": "Phase 1/Phase 2",
+        "phase": "Phase 2",
         "study_type": "Interventional",
         "has_expanded_access": "No",
         "study_design_info": {
             "allocation": "Randomized",
             "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Randomized, double-blind, placebo-controlled study",
             "primary_purpose": "Treatment",
             "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
         },
@@ -92,7 +78,7 @@
         },
         "secondary_outcome": [
             {
-                "measure": "Proportion of patients in each classification of clinical critical treatment index",
+                "measure": "mMRC (Modified Medical Research Council) dyspnea scale",
                 "time_frame": "Baseline , Day 7, Day 14, Day 28, Day 90",
                 "description": "Evaluation of Pneumonia Improvement\nNo limitation of activities, discharged from hospital =Score 1; Hospitalized, no oxygen therapy=Score 2; Oxygen by mask or nasal prongs-Score 3; Non-invasive ventilation or high-flow oxygen=Score 4; Mechanical ventilation or ECMO=Score 5; Death=Score 6."
             },
@@ -125,6 +111,21 @@
                 "measure": "Side effects in the MSCs treatment group",
                 "time_frame": "Baseline , Day 3, Day 6\uff0cDay 10, Day 14, Day 21, Day 28, Day 90",
                 "description": "Proportion of participants with treatment-related adverse events as assessed by CTCAE v4.0"
+            },
+            {
+                "measure": "6-minute walk test",
+                "time_frame": "Baseline, Day 10, Day 14, Day 21, Day 28, Day 90",
+                "description": "Evaluation of Pneumonia Improvement"
+            },
+            {
+                "measure": "Maximum vital capacity (VCmax)",
+                "time_frame": "Baseline, Day 10, Day 14, Day 21, Day 28, Day 90",
+                "description": "Evaluation of Pneumonia Improvement"
+            },
+            {
+                "measure": "Diffusing Capacity (DLCO)",
+                "time_frame": "Baseline, Day 10, Day 14, Day 21, Day 28, Day 90",
+                "description": "Evaluation of Pneumonia Improvement"
             }
         ],
         "number_of_arms": "2",
@@ -219,18 +220,18 @@
         "location_countries": {
             "country": "China"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "February 24, 2020",
         "study_first_submitted_qc": "February 25, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "February 28, 2020"
         },
-        "last_update_submitted": "March 19, 2020",
-        "last_update_submitted_qc": "March 19, 2020",
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 23, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

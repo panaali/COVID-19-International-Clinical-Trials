@@ -1,0 +1,292 @@
+{
+    "clinical_study": {
+        "@rank": "86",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336332"
+        },
+        "id_info": {
+            "org_study_id": "002011",
+            "secondary_id": "Pro2020000712",
+            "nct_id": "NCT04336332"
+        },
+        "brief_title": "Randomized Comparison of Combination Azithromycin and Hydroxychloroquine vs. Hydroxychloroquine Alone for the Treatment of Confirmed COVID-19",
+        "official_title": "Randomized Comparison of Combination Azithromycin and Hydroxychloroquine vs. Hydroxychloroquine Alone for the Treatment of Confirmed COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Rutgers, The State University of New Jersey",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Rutgers, The State University of New Jersey",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a three-arm randomized trial comparing the efficacy of single agent\n      hydroxychloroquine to the combination of hydroxychloroquine and azithromycin, and to a\n      delayed hydroxychloroquine regimen, which will serve as a contemporaneous Day 1-6 supportive\n      care control, in eliminating detectable SARS-CoV-2 on day 6 following the initiation of\n      treatment in order to determine which regimen is more effective."
+        },
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVE:\n\n      I. Determine change in viral load at day 6 compared to baseline between two regimens to treat\n      COVID-19 and a contemporaneous control group.\n\n      SECONDARY OBJECTIVES:\n\n      I. Time to resolution of symptoms (symptom questionnaire)\n\n      II. Change in the fever curve resulting in shorter time to afebrile for 48 hours\n\n      III. Normalization of vital signs\n\n      IV. Time to discharge (if hospitalized)\n\n      V. Assessment of agent toxicity as measured by standard metrics\n\n      VI. Collection of nasal swab and blood for viral load, presence of IgM or IgG antibodies\n\n      VII. If feasible on samples collected for quantitative PCR decrease in virus shedding (in\n      nasopharyngeal secretions)\n\n      VIII. Measures of cytokines in blood including IL6, IL-8, TNF, INF\n\n      IX. Routine standard of care labs obtained as part of the care of these patients such as\n      differential white count, CRP, troponin and LFTs will be analyzed for correlative trends"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Changes in patients viral load",
+                "time_frame": "Baseline, day 3 and day 6",
+                "description": "Will be assessed at day six compared to baseline between hydroxychloroquine sulfate alone and hydroxychloroquine sulfate plus azithromycin to treat COVID-19."
+            },
+            {
+                "measure": "Second evaluation of changes in patients viral load",
+                "time_frame": "Day 6",
+                "description": "A second concurrent comparison will evaluate change in viral load at day 6 between hydroxychloroquine sulfate alone and supportive care."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Symptom questionnaire",
+                "time_frame": "up to 6 months",
+                "description": "Time to resolution of symptoms"
+            },
+            {
+                "measure": "Fever assessment",
+                "time_frame": "up to 10 days",
+                "description": "Change in the fever curve resulting in shorter time to afebrile for 48 hours"
+            },
+            {
+                "measure": "Vital Signs - Body Temperature",
+                "time_frame": "up to 10 days",
+                "description": "Body temperature will be measured in degrees Fahrenheit using an automated thermometer which will be provided to the patient 4 times per day."
+            },
+            {
+                "measure": "Discharge",
+                "time_frame": "up to 6 months",
+                "description": "Time to discharge (If hospitalized)"
+            },
+            {
+                "measure": "Recovery",
+                "time_frame": "up to 6 months",
+                "description": "Time to recovery (back to school, work, etc)"
+            },
+            {
+                "measure": "Assessment of agent toxicity",
+                "time_frame": "up to 10 days",
+                "description": "As measured by standard metrics"
+            },
+            {
+                "measure": "Nasal swab sample collections",
+                "time_frame": "up to 10 days",
+                "description": "Collection of nasal swabs for viral load and microbiome analysis"
+            },
+            {
+                "measure": "Blood Sample collections",
+                "time_frame": "up to 10 days",
+                "description": "Collection of blood for viral load and microbiome analysis"
+            },
+            {
+                "measure": "Viral shedding assessment - nasopharyngeal secretions",
+                "time_frame": "up to 10 days",
+                "description": "Decrease in virus shedding in nasopharyngeal secretions such as Ferritin, D-dimer, CRP, Troponin and LDH"
+            },
+            {
+                "measure": "Viral shedding assessment - serology",
+                "time_frame": "up to 10 days",
+                "description": "Decrease in virus shedding in serology such as Ferritin, D-dimer, CRP, Troponin and LDH"
+            },
+            {
+                "measure": "Cytokines in blood",
+                "time_frame": "up to 10 days",
+                "description": "Measurement of cytokines in blood"
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "160"
+        },
+        "condition": [
+            "SARS-CoV-2",
+            "COVID-19"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Arm A: Hydroxychloroquine Sulfate + Azithromycin",
+                "arm_group_type": "Experimental",
+                "description": "Hydroxychloroquine sulfate 200 mg taken by mouth three (3) times a day for 10 days\nAzithromycin 500 mg taken by mouth on Day 1, followed by\nAzithromycin 250 mg taken by mouth once (1) time a day for four (4) days."
+            },
+            {
+                "arm_group_label": "Arm B: Hydroxychloroquine Sulfate alone",
+                "arm_group_type": "Experimental",
+                "description": "\u2022 Hydroxychloroquine sulfate 200 mg taken by mouth three (3) times a day for 10 days"
+            },
+            {
+                "arm_group_label": "Arm C: Supportive Care",
+                "arm_group_type": "No Intervention",
+                "description": "Supportive care Days 1-6.\nIf you still have COVID-19 symptoms you will receive Hydroxychloroquine sulfate 200 mg by mouth three (3) times a day for 10 days"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Combination Product",
+                "intervention_name": "Hydroxychloroquine Sulfate + Azithromycin",
+                "description": "Given PO",
+                "arm_group_label": "Arm A: Hydroxychloroquine Sulfate + Azithromycin",
+                "other_name": [
+                    "Hydroxychloroquine",
+                    "Plaquenil",
+                    "Z-Pak",
+                    "Zithromax",
+                    "Zmax"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine Sulfate",
+                "description": "Given PO",
+                "arm_group_label": [
+                    "Arm A: Hydroxychloroquine Sulfate + Azithromycin",
+                    "Arm B: Hydroxychloroquine Sulfate alone"
+                ],
+                "other_name": [
+                    "Hydroxychloroquine",
+                    "Plaquenil"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with proven SARS-CoV-2 infection by an accepted assay with symptoms\n             consistent with COVID-19\n\n          -  Ability to measure and quantify viral load by quantitative PCR\n\n          -  Temperature >100.6\u00b0F\n\n          -  Age 18 to 89\n\n          -  Ability to swallow oral medications\n\n          -  Patients must read, understand and sign IRB approved informed consent\n\n        Exclusion Criteria:\n\n          -  Pregnancy or women who are breast feeding\n\n          -  Two consecutive negative assays for SARS-CoV-2 infection\n\n          -  Patients that lack decision-making capacity will not be approached to participate in\n             this study\n\n          -  Inability to tolerate oral medications\n\n          -  Allergy or prior adverse reaction to either azithromycin or hydroxychloroquine sulfate\n\n          -  QTc interval > 450 mSEC\n\n          -  History of ongoing ventricular cardiac dysrhythmias of grade 2 as described by NCI\n             CTCAE 5.0 criteria\n\n          -  History of serious ventricular arrhythmia (VT or VF > 3 beats in a row)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Sabiha Hussain, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Rutgers, The State University of New Jersey"
+            },
+            {
+                "last_name": "Steven K. Libutti, MD, FACS",
+                "role": "Study Chair",
+                "affiliation": "Rutgers Cancer Institute of New Jersey"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Sabiha Hussain, MD",
+            "phone": "732-235-7840",
+            "email": "hussaisa@rwjms.rutgers.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Robert Wood Johnson University Hopsital",
+                    "address": {
+                        "city": "New Brunswick",
+                        "state": "New Jersey",
+                        "zip": "08901",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Sabiha Hussain, MD",
+                    "phone": "732-235-7840",
+                    "email": "hussaisa@rwjms.rutgers.edu"
+                },
+                "investigator": {
+                    "last_name": "Sabiha Hussain, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Rutgers Cancer Institute of New Jersey",
+                    "address": {
+                        "city": "New Brunswick",
+                        "state": "New Jersey",
+                        "zip": "08903",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Sabiha Hussain, MD",
+                    "phone": "732-235-7840",
+                    "email": "hussaisa@rwjms.rutgers.edu"
+                },
+                "investigator": {
+                    "last_name": "Sabiha Hussain, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "The University Hospital",
+                    "address": {
+                        "city": "Newark",
+                        "state": "New Jersey",
+                        "zip": "07103",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Shobha Swaminathan, MD",
+                    "phone": "973-972-1057",
+                    "email": "shobha.swaminathan@rutgers.edu"
+                },
+                "investigator": {
+                    "last_name": "Shobha Swaminathan, MD",
+                    "role": "Principal Investigator"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Rutgers, The State University of New Jersey",
+            "investigator_full_name": "Sabiha Hussain, MD,MPH",
+            "investigator_title": "Associate Professor of Medicine"
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        }
+    }
+}

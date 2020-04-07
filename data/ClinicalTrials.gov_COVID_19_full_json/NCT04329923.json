@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "29",
+        "@rank": "34",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04329923"
         },
@@ -32,7 +32,7 @@
         "overall_status": "Not yet recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "April 6, 2020"
+            "#text": "April 8, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -132,7 +132,7 @@
             {
                 "arm_group_label": "Cohort 1 Placebo",
                 "arm_group_type": "Placebo Comparator",
-                "description": "COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days"
+                "description": "COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment."
             },
             {
                 "arm_group_label": "Cohort 2 HCQ high dose",
@@ -152,7 +152,7 @@
             {
                 "arm_group_label": "Cohort 3 Placebo",
                 "arm_group_type": "Placebo Comparator",
-                "description": "Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 months"
+                "description": "Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 month. Crossover is allowed if subject becomes SARS-CoV2 positive."
             }
         ],
         "intervention": [
@@ -193,7 +193,7 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18 years old (Sub-studies 2 and 3)\n\n          -  Competent and capable to provide informed consent\n\n          -  Have access to a smart device such as a cell phone, tablet, laptop computer with\n             necessary data/internet accessibility\n\n          -  Subjects meeting the following criteria by Sub-Study\n\n        Cohort 1:\n\n          -  Age \u226540 years since the risk of prolonged disease that progresses to severe COVID-19\n             disease increases with age.\n\n          -  PCR-positive for the SARS-CoV2 virus\n\n          -  At least one symptom of COVID-19 (T> 100.5\u00ba F, cough, headache, fatigue, shortness of\n             breath, diarrhea, smell disturbance)\n\n          -  \u22644 days since the first symptoms of COVID-19 and date of testing\n\n          -  Not requiring hospitalization and is sent home for quarantine.\n\n          -  Must live within 30 miles of HUP or Penn Presbytarian Medical Center to facilitate\n             drop-off of medication\n\n          -  Must own a working computer, or smartphone and have internet access\n\n          -  Must be willing to fill out a daily symptom diary\n\n          -  Must be available for a daily phone call,\n\n          -  Must take their own temperature twice a day\n\n          -  Must be willing to report the observed symptoms and development of COVID-19 in the\n             co-inhabitants of the residence at which the quarantine will be served.\n\n        Cohort 2 Hospitalized non-ICU patients.\n\n          -  PCR-positive for SARS-CoV-2\n\n          -  Patients admitted to a floorbed at Hospital of the University of Pennsylvania or Penn\n             Presbytarian.\n\n          -  One or more of the following risk factors for progression to severe disease including:\n             immunocompromising conditions, structural lung disease, hypertension, coronary artery\n             disease, diabetes, age > 60, ferritin > 850, CRP > 6, D-dimer > 1000\n\n        Cohort 3 Health Care Worker Prevention\n\n          -  Emergency Medicine or Infectious Disease Team physician or nurse at HUP or PPMC\n\n          -  \u226520 hours per week of clinical work scheduled in the coming 2 months during the\n             COVID-19 pandemic\n\n          -  Willing to report compliance with HCQ in the form of a diary\n\n          -  Patients must be able to swallow and retain oral medication and must not have any\n             clinically significant gastrointestinal abnormalities that may alter absorption such\n             as malabsorption syndrome or major resection of the stomach or bowels.\n\n        Exclusion Criteria:\n\n          -  <18 years of age\n\n          -  Prisoners or other detained persons\n\n          -  Allergy to hydroxychloroquine\n\n          -  Pregnant or lactating or positive pregnancy test during pre-medication examination\n\n          -  Receiving any treatment drug for 2019-ncov within 14 days prior to screening\n             evaluation (off label, compassionate use or trial related).\n\n          -  Known history of retinal disease including but not limited to age related macular\n             degeneration.\n\n          -  History of interstitial lung disease or chronic pneumonitis unrelated COVID-19.\n\n          -  Due to risk of disease exacerbation patients with porphyria or psoriasis are\n             ineligible unless the disease is well controlled and they are under the care of a\n             specialist for the disorder who agrees to monitor the patient for exacerbations.\n\n          -  Patients with serious intercurrent illness that requires active infusional therapy,\n             intense monitoring, or frequent dose adjustments for medication including but not\n             limited to infectious disease, cancer, autoimmune disease, cardiovascular disease.\n\n          -  Patients who have undergone major abdominal, thoracic, spine or CNS surgery in the\n             last 2 months, or plan to undergo surgery during study participation.\n\n          -  Patients receiving cytochrome P450 enzyme-inducing anticonvulsant drugs (i.e.\n             phenytoin, carbamazepine, Phenobarbital, primidone or oxcarbazepine) within 4 weeks of\n             the start of the study treatment\n\n          -  History or evidence of increased cardiovascular risk including any of the following:\n\n          -  Left ventricular ejection fraction (LVEF) < institutional lower limit of normal.\n             Baseline echocardiogram is not required.\n\n          -  A QT interval corrected for heart rate using the Frederica formula > 500 msec\n             (Sub-study 2)\n\n          -  Current clinically significant uncontrolled arrhythmias. Exception: Subjects with\n             controlled atrial fibrillation\n\n          -  History of acute coronary syndromes (including myocardial infarction and unstable\n             angina), coronary angioplasty, or stenting within 6 months prior to enrollment\n\n          -  Current \u2265 Class II congestive heart failure as defined by New York Heart Association"
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18 years old (Sub-studies 2 and 3)\n\n          -  Competent and capable to provide informed consent\n\n          -  Have access to a smart device such as a cell phone, tablet, laptop computer with\n             necessary data/internet accessibility\n\n          -  Subjects meeting the following criteria by Sub-Study\n\n        Sub-Study 1:\n\n          -  Age \u226540 years since the risk of prolonged disease that progresses to severe COVID-19\n             disease increases with age.\n\n          -  PCR-positive for the SARS-CoV2 virus\n\n          -  (Fever, and cough, or Fever and shortness of breath,\n\n          -  \u22644 days since the first symptoms of COVID-19 and date of testing\n\n          -  Not taking azithromycin\n\n          -  Not requiring hospitalization and is sent home for quarantine.\n\n          -  Must live within 30 miles of HUP or Penn Presbytarian Medical Center to facilitate\n             drop-off of medication\n\n          -  Must own a working computer, or smartphone and have internet access\n\n          -  Must be willing to fill out a daily symptom diary\n\n          -  Must be available for a daily phone call,\n\n          -  Must take their own temperature twice a day\n\n          -  Must be willing to report the observed symptoms and development of COVID-19 in the\n             co-inhabitants of the residence at which the quarantine will be served.\n\n        Sub-Study 2 Hospitalized non-ICU service patients.\n\n          -  PCR-positive for SARS-CoV-2\n\n          -  Patients admitted to a floor bed at Hospital of the University of Pennsylvania or Penn\n             Presbyterian.\n\n          -  One or more of the following risk factors for progression to severe disease including:\n             immunocompromising conditions, structural lung disease, hypertension, coronary artery\n             disease, diabetes, age > 60, ferritin > 850, CRP > 6, D-dimer > 1000 Sub-Study 3\n             Health Care Worker Prevention\n\n          -  Emergency Medicine or Infectious Disease Team physician or nurse at HUP or PPMC\n\n          -  \u226520 hours per week of clinical work scheduled in the coming 2 months during the\n             COVID-19 pandemic\n\n          -  No fever, cough, or shortness of breath in the past 2 weeks\n\n          -  Willing to report compliance with HCQ in the form of a diary\n\n          -  Patients must be able to swallow and retain oral medication and must not have any\n             clinically significant gastrointestinal abnormalities that may alter absorption such\n             as malabsorption syndrome or major resection of the stomach or bowels.\n\n        Exclusion Criteria <18 years of age\n\n          -  Prisoners or other detained persons\n\n          -  Allergy to hydroxychloroquine Pregnant or lactating or positive pregnancy test\n\n          -  Receiving any treatment drug for 2019-ncov within 14 days prior to screening\n             evaluation (off label, compassionate use or trial related).\n\n          -  Co-enrollment onto another COVID-19 study is not allowed unless there is approval by\n             the Medical Monitor in consultation with the PI and EM and ID sub-I leaders.\n\n          -  Known history of retinal disease including but not limited to age related macular\n             degeneration.\n\n          -  Taking any of the following medications that prolong Qtc:\n\n        Chlorpromazine.Haloperidol, Droperidol, Quetiapine, Olanzapine. Amisulpride. Thioridazine\n\n          -  History of interstitial lung disease or chronic pneumonitis unrelated COVID-19.\n\n          -  Due to risk of disease exacerbation patients with porphyria or psoriasis are\n             ineligible unless the disease is well controlled and they are under the care of a\n             specialist for the disorder who agrees to monitor the patient for exacerbations.\n\n          -  Patients with serious intercurrent illness that requires active infusional therapy,\n             intense monitoring, or frequent dose adjustments for medication including but not\n             limited to infectious disease, cancer, autoimmune disease, cardiovascular disease.\n\n          -  Patients who have undergone major abdominal, thoracic, spine or CNS surgery in the\n             last 2 months, or plan to undergo surgery during study participation.\n\n          -  Patients receiving cytochrome P450 enzyme-inducing anticonvulsant drugs (i.e.\n             phenytoin, carbamazepine, Phenobarbital, primidone or oxcarbazepine) within 4 weeks of\n             the start of the study treatment\n\n          -  History or evidence of increased cardiovascular risk including any of the following:\n\n          -  Left ventricular ejection fraction (LVEF) < institutional lower limit of normal.\n             Baseline echocardiogram is not required.\n\n          -  A QT interval corrected for heart rate using the Frederica formula > 500 msec\n             (Sub-study 2)\n\n          -  Current clinically significant uncontrolled arrhythmias. Exception: Subjects with\n             controlled atrial fibrillation\n\n          -  History of acute coronary syndromes (including myocardial infarction and unstable\n             angina), coronary angioplasty, or stenting within 6 months prior to enrollment\n\n          -  Current \u2265 Class II congestive heart failure as defined by New York Heart Association"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -201,14 +201,14 @@
             "healthy_volunteers": "Accepts Healthy Volunteers"
         },
         "overall_official": {
-            "last_name": "Ravi Amaravadi",
+            "last_name": "Ravi Amaravadi, MD",
             "role": "Principal Investigator",
             "affiliation": "University of Pennsylvania"
         },
         "overall_contact": {
-            "last_name": "Ravi Amaravadi, MD",
-            "phone": "2157965159",
-            "email": "ravi.amaravadi@pennmedicine.upenn.edu"
+            "last_name": "Amelia Anderson",
+            "phone": "215-509-5690",
+            "email": "amelia.anderson@pennmedicine.upenn.edu"
         },
         "location": {
             "facility": {
@@ -221,9 +221,9 @@
                 }
             },
             "contact": {
-                "last_name": "Ravi Amaravadi, MD",
-                "phone": "215-796-5159",
-                "email": "ravi.amaravadi@pennmedicine.upenn.edu"
+                "last_name": "Amelia Anderson",
+                "phone": "215-509-5690",
+                "email": "amelia.anderson@pennmedicine.upenn.edu"
             },
             "investigator": {
                 "last_name": "Ravi Amaravadi, MD",
@@ -233,18 +233,18 @@
         "location_countries": {
             "country": "United States"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 30, 2020",
         "study_first_submitted_qc": "March 30, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "March 30, 2020",
-        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 1, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

@@ -1,0 +1,283 @@
+{
+    "clinical_study": {
+        "@rank": "130",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336384"
+        },
+        "id_info": {
+            "org_study_id": "RECHMPL20_0155",
+            "nct_id": "NCT04336384"
+        },
+        "brief_title": "Impact of Covid-19 in Congenital Heart Disease",
+        "acronym": "COVID-CHD",
+        "official_title": "Impact of Covid-19 in Congenital Heart Disease - COVID-CHD",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Montpellier",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Pr. Jean-Beno\u00eet THAMBO, Bordeaux (pr\u00e9sident)",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. C\u00e9line GRUNENWALD GRONIER, Strasbourg",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. S\u00e9bastien HASCOET, Le Plessis-Robinson",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. Adeline BASQUIN, Rennes",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. Nicolas COMBES, Toulouse",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. Xavier IRIART, Bordeaux",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. Daniela LAUX, Paris",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. Magalie LADOUCEUR, Paris",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Pr. BERTRAND LEOBON, Toulouse",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Pr. Caroline OVAERT, Marseille",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Dr. Karine WARIN-FRESSE, Nantes",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Alexis BLANC, Montpellier",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University Hospital, Montpellier",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The ongoing Coronavirus (Covid-19) pandemic has recently generated the first epidemiological\n      data on populations at risk. Currently, the risk factors, recognized for severe forms of\n      Covid-19 infection, are elderly patients (> 70 years), obese patients, patients with chronic\n      renal or respiratory diseases, cardiovascular history (stroke or coronary artery disease),\n      high blood pressure, diabetes, and cancer.\n\n      The population of congenital heart disease (CHD) might also be at risk, however, no data is\n      available in this group of patients.\n\n      CHD is the leading cause of birth defects, and as a result of recent medical advances,\n      currently the number of adults with CHD exceeds the number of children, with an increasing\n      prevalence of complex CHD. Approximately 200,000 children and 250,000 adults are living with\n      a CHD in France today.\n\n      The French Society of Cardiology, coordinator of this study, issued recommendations on March\n      14, 2020 for the French CHD population on the basis of expert opinions based essentially on\n      the data published in the general population. Nevertheless, there is a need to provide\n      scientific data on the impact of Covid-19 in the pediatric and adult CHD population.\n\n      This study aims to assess the morbidity, the mortality and the risk factors associated with\n      Covid-19 in patients with CHD in France"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 1, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Population characteristics",
+            "time_frame": "through study completion, an average of 2 weeks",
+            "description": "Population characteristics"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Clinical course",
+                "time_frame": "through study completion, an average of 2 weeks",
+                "description": "Clinical course"
+            },
+            {
+                "measure": "Cardiovascular complications",
+                "time_frame": "through study completion, an average of 2 weeks",
+                "description": "Cardiovascular complications"
+            },
+            {
+                "measure": "Other complications",
+                "time_frame": "through study completion, an average of 2 weeks",
+                "description": "Other complications"
+            },
+            {
+                "measure": "Number of deaths",
+                "time_frame": "through study completion, an average of 2 weeks",
+                "description": "Number of deaths"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "5000"
+        },
+        "condition": [
+            "Congenital Heart Disease",
+            "Covid-19"
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Peadiatric and adult patient with congenital heart disease and COVID-19"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion criteria:\n\n          -  Patient with CHD as defined in the international classification ACC-CHD\n\n          -  Covid-19 infection over the study period\n\n        Exclusion criteria:\n\n        - Patient with genetic heart disease (cardiomyopathy, hereditary rhythmic disease)."
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Pascal AMEDRO, MD-PhD",
+            "role": "Study Director",
+            "affiliation": "UH MONTPELLIER"
+        },
+        "overall_contact": {
+            "last_name": "Pascal AMEDRO, MD-PhD",
+            "phone": "04 67 33 66 43",
+            "email": "p-amedro@chu-montpellier.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "Uh Montpellier",
+                "address": {
+                    "city": "Montpellier",
+                    "zip": "34295",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Pascal AMEDRO, MD-PHD",
+                "phone": "467336643",
+                "phone_ext": "33",
+                "email": "p-amedro@chu-montpellier.fr"
+            },
+            "investigator": [
+                {
+                    "last_name": "Jean-Beno\u00eet THAMBO, MD, PhD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Pascal AMEDRO, MD-PHD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "C\u00e9line GRUNENWALD GRONIER, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "S\u00e9bastien HASCOET, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Adeline BASQUIN, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Nicolas COMBES, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Xavier IRIART, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Alexis BLANC, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Karine WARIN-FRESSE, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Caroline OVAERT, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "BERTRAND LEOBON, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Magalie LADOUCEUR, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Daniela LAUX, MD",
+                    "role": "Principal Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "reference": [
+            {
+                "citation": "Marelli AJ, Mackie AS, Ionescu-Ittu R, Rahme E, Pilote L. Congenital heart disease in the general population: changing prevalence and age distribution. Circulation. 2007 Jan 16;115(2):163-72. Epub 2007 Jan 8.",
+                "PMID": "17210844"
+            },
+            {
+                "citation": "Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648. [Epub ahead of print]",
+                "PMID": "32091533"
+            },
+            {
+                "citation": "Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 11. pii: S0140-6736(20)30566-3. doi: 10.1016/S0140-6736(20)30566-3. [Epub ahead of print] Erratum in: Lancet. 2020 Mar 12;:.",
+                "PMID": "32171076"
+            },
+            {
+                "citation": "Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Mar 13. doi: 10.1001/jamainternmed.2020.0994. [Epub ahead of print]",
+                "PMID": "32167524"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 30, 2020",
+        "study_first_submitted_qc": "April 2, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 2, 2020",
+        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Congenital heart disease",
+            "Covid-19",
+            "Adults",
+            "Peadiarics"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Heart Diseases",
+                "Heart Defects, Congenital"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "NC"
+        }
+    }
+}

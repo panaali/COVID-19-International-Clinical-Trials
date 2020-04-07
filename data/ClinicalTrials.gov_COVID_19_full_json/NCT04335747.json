@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "217",
+        "@rank": "239",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04335747"
         },
@@ -25,10 +25,10 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "In a prospective, observational study we will aim to identify risk factors for serious\n      COVID-19 infection by evaluating clinical measures and biomarkers of inflammation in patients\n      with inflammatory rheumatic disease hospitalized with COVID-19 compared with control groups."
+            "textblock": "The trial is a prospective, observational study aiming to identify risk factors for serious\n      COVID-19 infection by evaluating clinical measures and biomarkers of inflammation in patients\n      with inflammatory rheumatic disease hospitalized with COVID-19 compared with control groups."
         },
         "detailed_description": {
-            "textblock": "The pandemic caused by the coronavirus, SARS-CoV-19, has severely affected health care\n      systems around the world. In Denmark, more than 85,000 patients have a diagnosis of\n      rheumatoid arthritis (RA), psoriatic arthritis, ankylosing spondylitis, systemic lupus\n      erythematosus (SLE), or giant cell arthritis, and many are treated with immunosuppressive\n      therapy including biologics.\n\n      At present it is unclear whether the best course of action during a viral pandemic is to\n      pause treatment with biologics, change to drugs with a different mode of action or continue\n      treatment as usual.\n\n      Many patients with RA and SLE receive hydroxychloroquine (HCL) treatment for their rheumatic\n      disease, but HCL has also been suggested as a potential treatment for COVID-19 infection.\n\n      We aim to identify risk factors for serious COVID-19 infection by evaluating clinical\n      measures and biomarkers of inflammation, including IL6 and IL10 in patients with inflammatory\n      rheumatic disease hospitalized with COVID-19 compared with measures in control groups."
+            "textblock": "The pandemic caused by the coronavirus, SARS-CoV-19, has severely affected health care\n      systems around the world. In Denmark, more than 85,000 patients have a diagnosis of\n      rheumatoid arthritis (RA), psoriatic arthritis, ankylosing spondylitis, systemic lupus\n      erythematosus (SLE), or giant cell arthritis, and many are treated with immunosuppressive\n      therapy including biologics.\n\n      At present it is unclear whether the best course of action during a viral pandemic is to\n      pause treatment with biologics, change to drugs with a different mode of action or continue\n      treatment as usual.\n\n      Many patients with RA and SLE receive hydroxychloroquine (HCL) treatment for their rheumatic\n      disease, but HCL has also been suggested as a potential treatment for COVID-19 infection.\n\n      This trial aim to identify risk factors for serious COVID-19 infection by evaluating clinical\n      measures and biomarkers of inflammation, including IL6 and IL10 in patients with inflammatory\n      rheumatic disease hospitalized with COVID-19 compared with measures in control groups."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
@@ -161,14 +161,14 @@
         "study_first_submitted": "April 3, 2020",
         "study_first_submitted_qc": "April 3, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 3, 2020",
-        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 6, 2020"
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

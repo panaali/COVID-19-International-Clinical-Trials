@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "24",
+        "@rank": "28",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04332081"
         },
@@ -29,7 +29,7 @@
             "textblock": "Hyperbaric oxygen therapy (HBOT) treatment will be provided to patients as an adjunct to\n      standard therapy for a cohort of 40 COVID19-positive patients with respiratory distress at\n      NYU Winthrop Hospital. All patients prior to the clinical application of HBOT will be\n      evaluated by the primary care team and hyperbaric physician. After the intervention portion\n      of this study, a chart review will be performed to compare the outcomes of intervention\n      patients versus patients who received standard of care."
         },
         "detailed_description": {
-            "textblock": "This is a single center prospective pilot cohort study to evaluate the safety and efficacy of\n      hyperbaric oxygen therapy (HBOT) as an emergency investigational device for treating patients\n      with a novel coronavirus, disease, COVID-19. Patients that meet inclusion criteria will be\n      consented by the hyperbaric physician. They will then be transported from the ED or other\n      unit to the hyperbaric unit maintaining airborne precautions based on the most current\n      hospital protocol. All study personnel will have proper PPE at all times. The patient will\n      then be placed into the monoplace chamber and when the chamber door is closed the patient\n      will remove any respiratory filter/mask that was placed. The patient will receive 90 minutes\n      of hyperbaric oxygen at 2.0 ATA with or without airbreaks per the hyperbaric physician. Upon\n      completion of the treatment the patient will then return to the medial unit and continue all\n      standard of care. Additional treatments (up to 5) can be given if warranted and agreed upon\n      by the patient and all members of the team caring for the patient. After the intervention\n      portion of this study, a chart review will be performed to compare the outcomes of\n      intervention patients versus patients who received standard of care."
+            "textblock": "This is a single center prospective pilot cohort study to evaluate the safety and efficacy of\n      hyperbaric oxygen therapy (HBOT) as an emergency investigational device for treating patients\n      with a novel coronavirus, disease, COVID-19. Patients that meet inclusion criteria will be\n      consented by the hyperbaric physician. They will then be transported from the ED or other\n      unit to the hyperbaric unit maintaining airborne precautions based on the most current\n      hospital protocol. All study personnel will have proper PPE at all times. The patient will\n      then be placed into the monoplace chamber and when the chamber door is closed the patient\n      will remove any respiratory filter/mask that was placed. The patient will receive 90 minutes\n      of hyperbaric oxygen at 2.0 ATA with or without airbreaks per the hyperbaric physician. Upon\n      completion of the treatment the patient will then return to the medical unit and continue all\n      standard of care. Additional treatments (up to 5) can be given if warranted and agreed upon\n      by the patient and all members of the team caring for the patient. After the intervention\n      portion of this study, a chart review will be performed to compare the outcomes of\n      intervention patients versus patients who received standard of care."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
@@ -129,11 +129,11 @@
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

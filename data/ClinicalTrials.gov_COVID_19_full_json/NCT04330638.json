@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "23",
+        "@rank": "27",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04330638"
         },
@@ -49,7 +49,7 @@
             "@type": "Anticipated",
             "#text": "September 2020"
         },
-        "phase": "Phase 4",
+        "phase": "Phase 3",
         "study_type": "Interventional",
         "has_expanded_access": "No",
         "study_design_info": {
@@ -61,7 +61,7 @@
         "primary_outcome": {
             "measure": "Time to Clinical Improvement",
             "time_frame": "at day 15",
-            "description": "defined as the time from randomization to either an improvement of two points on a six-category ordinal scale or discharge from the hospital"
+            "description": "defined as the time from randomization to either an improvement of two points on a six-category ordinal scale or discharge from the hospital:\nDeath\nHospitalized, on invasive mechanical ventilation or ECMO;\nHospitalized, on non-invasive ventilation or high flow oxygen devices;\nHospitalized, requiring supplemental oxygen\nHospitalized, not requiring supplemental oxygen\nNot hospitalized"
         },
         "secondary_outcome": [
             {
@@ -116,39 +116,48 @@
             },
             {
                 "measure": "Mean change in clinical sign score between day 1 and day 7",
-                "time_frame": "day 1, day 7 or hospital discharge, whichever is first"
+                "time_frame": "day 1, day 7 or hospital discharge, whichever is first",
+                "description": "Clinical sign score: 0( best) - 18 (worse)"
             },
             {
                 "measure": "Mean change in clinical sign score between day 1 and day 15",
-                "time_frame": "day 1, day 15 or hospital discharge, whichever is first"
+                "time_frame": "day 1, day 15 or hospital discharge, whichever is first",
+                "description": "Clinical sign score: 0( best) - 18 (worse)"
             },
             {
                 "measure": "Time to clinical sign score <6 maintained for 24h",
-                "time_frame": "during hospital admission (up to 28 days)"
+                "time_frame": "during hospital admission (up to 28 days)",
+                "description": "Clinical sign score: 0( best) - 18 (worse)"
             },
             {
                 "measure": "Mean change of SOFA score (Sequential Organ Failure Assessment) between day 1 and day 7",
-                "time_frame": "Day 1, day 7or hospital discharge, whichever is first"
+                "time_frame": "Day 1, day 7or hospital discharge, whichever is first",
+                "description": "SOFA score: 0 (best) - 24 (worse)"
             },
             {
                 "measure": "Mean change of SOFA score between day 1 and day 15",
-                "time_frame": "day 1, day 15 or hospital discharge, whichever is first"
+                "time_frame": "day 1, day 15 or hospital discharge, whichever is first",
+                "description": "SOFA score: 0 (best) - 24 (worse)"
             },
             {
                 "measure": "Mean change NEWS2 (National Early Warning) score between day 1 and day 7",
-                "time_frame": "day 1, day 7 or hospital discharge, whichever is first"
+                "time_frame": "day 1, day 7 or hospital discharge, whichever is first",
+                "description": "NEWS2 score: 0 (best) - 24 (worse)"
             },
             {
                 "measure": "Mean change NEWS2 score between day 1 and day 15",
-                "time_frame": "day 1, day 15 or hospital discharge, whichever is first"
+                "time_frame": "day 1, day 15 or hospital discharge, whichever is first",
+                "description": "NEWS2 score: 0 (best) - 24 (worse)"
             },
             {
                 "measure": "Percentage of patients reporting each severity rating on a 6-point ordinal scale in relation to serum IL-1",
-                "time_frame": "at day 15 or hospital discharge, whichever is first"
+                "time_frame": "at day 15 or hospital discharge, whichever is first",
+                "description": "6-point ordinal scale:\nDeath\nHospitalized, on invasive mechanical ventilation or ECMO;\nHospitalized, on non-invasive ventilation or high flow oxygen devices;\nHospitalized, requiring supplemental oxygen\nHospitalized, not requiring supplemental oxygen\nNot hospitalized"
             },
             {
                 "measure": "Percentage of patients reporting each severity rating on a 6-point ordinal scale in relation to serum IL-6",
-                "time_frame": "at day 15 or hospital discharge, whichever is first"
+                "time_frame": "at day 15 or hospital discharge, whichever is first",
+                "description": "6-point ordinal scale:\nDeath\nHospitalized, on invasive mechanical ventilation or ECMO;\nHospitalized, on non-invasive ventilation or high flow oxygen devices;\nHospitalized, requiring supplemental oxygen\nHospitalized, not requiring supplemental oxygen\nNot hospitalized"
             },
             {
                 "measure": "Incidence of nosocomial bacterial or invasive fungal infection",
@@ -295,11 +304,11 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n        Recent ( \u2265 6 days of flu-like symptoms or malaise yet \u226414 days of flu-like symptoms or\n        malaise prior to randomization) infection with COVID-19, confirmed by PCR within this\n        period\n\n          -  Presence of hypoxia defined as PaO2/FiO2 below 350 while breathing room air in upright\n             position or PaO2/FiO2 below 280 on supplemental oxygen and immediately requiring high\n             flow oxygen device or mechanical ventilation\n\n          -  signs of cytokine release syndrome defined as ANY of the following:\n\n               1. serum ferritin concentration >1000 mcg/ml and rising since last 24h\n\n               2. single ferritin above 2000 mcg/ml in patients requiring immediate high flow\n                  oxygen device or mechanical ventilation\n\n               3. lymphopenia defined as <800 lymphocytes/microliter) and two of the following\n                  extra criteria\n\n                    -  Ferritin > 700 ng/ml and rising since last 24h\n\n                    -  increased LDH (above 300 IU/L) and rising last 24h\n\n                    -  D-Dimers > 1000 ng/mL and rising since last 24h\n\n                    -  CRP above 70mg/dl and rising since last 24h and absence of bacterial\n                       infection\n\n                    -  if three of the above are present at admission, no need to document 24h rise\n\n          -  Chest X-ray or CT scan showing bilateral infiltrates within last 2 days\n\n          -  Admitted to specialized COVID-19 ward or an ICU ward taking care of COVID-19 patients\n\n          -  Age 18-80\n\n          -  Male or Female\n\n          -  Willing and able to provide informed consent or legal representative willing to\n             provide informed consent\n\n        Exclusion Criteria:\n\n          -  Patients with known history of serious allergic reactions, including anaphylaxis, to\n             any of the study medications, or any component of the product.\n\n          -  mechanical ventilation > 24 h at randomization\n\n          -  clinical frailty scale above 2\n\n          -  active bacterial or fungal infection\n\n          -  unlikely to survive beyond 48h\n\n          -  neutrophil count below 1500 cells/microliter\n\n          -  platelets below 50.000/microliter\n\n          -  Patients enrolled in another investigational drug study\n\n          -  patients on high dose systemic steroids (> 20 mg methylprednisolone or equivalent) for\n             COVID-19 unrelated disorder\n\n          -  patients on immunosuppressant or immunomodulatory drugs\n\n          -  patients on current anti-IL1 or anti-IL6 treatment\n\n          -  signs of active tuberculosis\n\n          -  serum transaminase levels >5 times upper limit of normal\n\n          -  bowel perforation or diverticulitis\n\n          -  pregnant or breastfeeding females (all female subjects deemed of childbearing\n             potential by the investigator must have negative pregnancy test at screening)"
+                "textblock": "Inclusion Criteria:\n\n        Recent ( \u2265 6 days of flu-like symptoms or malaise yet \u226414 days of flu-like symptoms or\n        malaise prior to randomization) infection with COVID-19, confirmed by PCR within this\n        period\n\n          -  Presence of hypoxia defined as PaO2/FiO2 below 350 while breathing room air in upright\n             position or PaO2/FiO2 below 280 on supplemental oxygen and immediately requiring high\n             flow oxygen device or mechanical ventilation\n\n          -  signs of cytokine release syndrome defined as ANY of the following:\n\n               1. serum ferritin concentration >1000 mcg/L and rising since last 24h\n\n               2. single ferritin above 2000 mcg/L in patients requiring immediate high flow oxygen\n                  device or mechanical ventilation\n\n               3. lymphopenia defined as <800 lymphocytes/microliter) and two of the following\n                  extra criteria\n\n                    -  Ferritin > 700 mcg/L and rising since last 24h\n\n                    -  increased LDH (above 300 IU/L) and rising last 24h\n\n                    -  D-Dimers > 1000 ng/mL and rising since last 24h\n\n                    -  CRP above 70mg/L and rising since last 24h and absence of bacterial\n                       infection\n\n                    -  if three of the above are present at admission, no need to document 24h rise\n\n          -  Chest X-ray or CT scan showing bilateral infiltrates within last 2 days\n\n          -  Admitted to specialized COVID-19 ward or an ICU ward taking care of COVID-19 patients\n\n          -  Age \u2265 18yrs, for patients above 70 years old, a frailty scale \u2264 2 is required\n\n          -  Male or Female\n\n          -  Willing and able to provide informed consent or legal representative willing to\n             provide informed consent\n\n        Exclusion Criteria:\n\n          -  Patients with known history of serious allergic reactions, including anaphylaxis, to\n             any of the study medications, or any component of the product.\n\n          -  mechanical ventilation > 24 h at randomization\n\n          -  clinical frailty scale above 2\n\n          -  active bacterial or fungal infection\n\n          -  unlikely to survive beyond 48h\n\n          -  neutrophil count below 1500 cells/microliter\n\n          -  platelets below 50.000/microliter\n\n          -  Patients enrolled in another investigational drug study\n\n          -  patients on high dose systemic steroids (> 20 mg methylprednisolone or equivalent) for\n             COVID-19 unrelated disorder\n\n          -  patients on immunosuppressant or immunomodulatory drugs\n\n          -  patients on current anti-IL1 or anti-IL6 treatment\n\n          -  signs of active tuberculosis\n\n          -  serum transaminase levels >5 times upper limit of normal\n\n          -  bowel perforation or diverticulitis\n\n          -  pregnant or breastfeeding females (all female subjects deemed of childbearing\n             potential by the investigator must have negative pregnancy test at screening)"
             },
             "gender": "All",
-            "minimum_age": "8 Years",
-            "maximum_age": "80 Years",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
         "overall_official": {
@@ -444,18 +453,18 @@
         "location_countries": {
             "country": "Belgium"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 31, 2020",
         "study_first_submitted_qc": "March 31, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "March 31, 2020",
-        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 1, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

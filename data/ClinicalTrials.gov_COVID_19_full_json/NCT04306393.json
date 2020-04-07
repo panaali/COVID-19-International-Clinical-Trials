@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "274",
+        "@rank": "300",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04306393"
         },
@@ -166,7 +166,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  >/= 18 years old\n\n          -  ICU admission\n\n          -  Intubation and mechanical ventilation\n\n          -  Positivity of 2019-nCoV rt-PCR\n\n          -  PaO2/FiO2 ratio < 300 mmHg\n\n        Exclusion Criteria:\n\n          -  patients intubated for 72 hours or more from initiation of the treatment gas\n\n          -  physician being contrary to the involvement as participating in the trial is not in\n             the patient's best interest, or any condition that does not allow the protocol to be\n             followed safely\n\n          -  pregnancy"
+                "textblock": "Inclusion criteria: (1) Adult patients, >/= 18 year-old; (2) Patients admitted to the ICU;\n        (3) Patients who are intubated and mechanically ventilated; (4) Confirmed diagnosis of\n        SARS-CoV2 by positive rt-PCR.\n\n        Exclusion criteria: (1) Patients intubated for more than 72 hours from initiation of the\n        treatment gas; (2) Subjects enrolled in another interventional research study; (3)\n        Physician of record opposed to enrolling the patient due to perceived safety concerns; or\n        any condition that does not allow the protocol to be followed safely."
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -188,36 +188,62 @@
             "phone": "+8618629011362",
             "email": "crystalleichong@126.com"
         },
-        "location": {
-            "facility": {
-                "name": "Massachusetts General Hospital",
-                "address": {
-                    "city": "Boston",
-                    "state": "Massachusetts",
-                    "zip": "02114",
-                    "country": "United States"
-                }
+        "location": [
+            {
+                "facility": {
+                    "name": "University of Alabama",
+                    "address": {
+                        "city": "Birmingham",
+                        "state": "Alabama",
+                        "zip": "35294",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
             },
-            "status": "Recruiting",
-            "contact": {
-                "last_name": "Lorenzo Berra, MD"
+            {
+                "facility": {
+                    "name": "Louisiana State University Health Shreveport",
+                    "address": {
+                        "city": "Shreveport",
+                        "state": "Louisiana",
+                        "zip": "71103",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Massachusetts General Hospital",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02114",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Lorenzo Berra, MD"
+                }
             }
-        },
+        ],
         "location_countries": {
             "country": "United States"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 10, 2020",
         "study_first_submitted_qc": "March 10, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 12, 2020"
         },
-        "last_update_submitted": "March 21, 2020",
-        "last_update_submitted_qc": "March 21, 2020",
+        "last_update_submitted": "April 4, 2020",
+        "last_update_submitted_qc": "April 4, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 24, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

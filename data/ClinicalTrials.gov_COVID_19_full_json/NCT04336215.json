@@ -1,0 +1,309 @@
+{
+    "clinical_study": {
+        "@rank": "166",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336215"
+        },
+        "id_info": {
+            "org_study_id": "2020000679",
+            "nct_id": "NCT04336215"
+        },
+        "brief_title": "Rutgers COVID-19 Cohort Study",
+        "official_title": "Cohort Study of SARS-CoV-2 Incidence, Transmission, and Disease Severity in Healthcare Workers",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Rutgers, The State University of New Jersey",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Rutgers, The State University of New Jersey",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The specific objective is to rapidly establish a prospective cohort to characterize the\n      factors related to viral transmission and disease severity in a large healthcare system in\n      healthcare settings and HCW (healthcare worker) households. Investigators propose to address\n      this hypothesis by recruiting and longitudinally following 500 HCW and 250 age- and\n      sex-matched NHCW (Non-healthcare workers) within a large academic health system, Rutgers\n      Biomedical and Health Sciences (RBHS). By intensively following participants over a six-month\n      period and collecting serial biospecimens (nasopharyngeal/throat swabs, blood, and saliva)\n      and questionnaire data at nine time points, investigators can uniquely characterize Severe\n      Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) transmission and risk factors for\n      Coronavirus Disease 19 (COVID-19) among health care workers and their families"
+        },
+        "detailed_description": {
+            "textblock": "This prospective longitudinal cohort study is comprised of: (1) 500 HCW from two RBHS\n      hospitals: Robert Wood Johnson University Hospital (RWJUH) in New Brunswick and University\n      Hospital (UH) in Newark ; (both hospital presidents have approved the study) (2) 250 NHCW\n      from Rutgers faculty, staff, and hospital employees without patient contact; and (3)\n      household members of participants who contract SARS-CoV-2 during the study period. At\n      baseline, investigators will obtain nasopharyngeal or throat swabs, saliva, and blood (for\n      detecting SARS-CoV-2 positivity and immunity, respectively) and collect questionnaire data on\n      sociodemographic factors, lifestyle, and medical history. In participants who test negative\n      for SARS-CoV-2 at baseline, nasopharyngeal/throat swabs, saliva, and blood collection will be\n      collected every two weeks for two months, after which monthly samples will be collected for\n      four additional months (9 visits total, including baseline). Weekly questionnaire data and\n      daily temperature data will be collected from each participant for the first two months of\n      the study. Participants with positive nasopharyngeal/throat swabs or saliva will be\n      immediately referred for medical care or home isolation as medically appropriate.\n      Investigators will calculate and compare incidence rates and risk factors of SARS-CoV-2\n      positivity and COVID-19 in healthcare workers and non-healthcare workers and assess symptoms,\n      severity of disease, and rates and direction of household transmission."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 28, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 21, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 1, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Prevalence",
+                "time_frame": "up to 24 weeks",
+                "description": "Prevalence and 95% confidence intervals, using standard epidemiological methods (Aims 1, 2, and 3)."
+            },
+            {
+                "measure": "Incidence",
+                "time_frame": "up to 24 weeks",
+                "description": "Incidence and 95% confidence intervals, using standard epidemiological methods (Aims 1, 2, and 3)."
+            }
+        ],
+        "number_of_groups": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "750"
+        },
+        "condition": [
+            "Coronavirus",
+            "SARS-CoV-2"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Healthcare Workers",
+                "description": "500 HCW with high intensity direct patient care from two RBHS-affiliated academic hospitals: Robert Wood Johnson University Hospital (New Brunswick, NJ) and University Hospital (Newark, NJ) and Rutgers School of Dental Medicine (Newark, NJ) . Since rates of asymptomatic carriage, clinical infection, and morbidity likely vary by age and sex, the aim is to recruit 125 HCW in each of the following 4 groups: males ages 20-59; males ages \u226560; females ages 20-59; and females ages \u226560."
+            },
+            {
+                "arm_group_label": "Non-Healthcare Workers",
+                "description": "250 non-healthcare workers (NHCW) from Rutgers faculty, postdoctoral students, students, other trainees, administrators, and staff who do not have patient contact. The aim is to recruit even numbers of NHCW from each of these 4 groups: males ages 20-59; males ages \u226560; females ages 20-59; females ages \u226560."
+            },
+            {
+                "arm_group_label": "Household Members",
+                "description": "Complementing the HCW cohort study, approximately 540 household members in a subset of the participants who test positive and negative for SARS-CoV-2 will be invited to be followed prospectively to assess patterns of viral transmission. The target population will be multigenerational households (e.g., with children and/or parents) from up to 6 infected HCW, 6 infected NHCW, 4 uninfected HCW, and 4 uninfected NHCW at each timepoint. The participant will ask household members to contact research staff if they wish to volunteer for the study. Research coordinators will individually consent adult members of the household for questionnaire and serial samples collection. When children are in the home, parental permission as well as assent for children ages 7 and older (written at ages 12 and older) will be the course of action. The estimated 540 participants assumes 20 houses per timepoint, 9 timepoints, and an average of 3 participants per house."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Non-Interventional",
+            "description": "This non-interventional study poses no additional risks to people with pre-existing conditions.",
+            "arm_group_label": [
+                "Healthcare Workers",
+                "Household Members",
+                "Non-Healthcare Workers"
+            ]
+        },
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "nasopharyngeal or throat swabs, saliva, and blood (for detecting SARS-CoV-2 positivity and\n      immunity)"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "-  HCW from two RBHS hospitals: Robert Wood Johnson University Hospital (RWJUH) in New\n             Brunswick and University Hospital (UH) in Newark ; (both hospital presidents have\n             approved the study)\n\n          -  NHCW from Rutgers faculty, staff, and hospital employees without patient contact;\n\n          -  Household members of participants who contract SARS-CoV-2 during the study period."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  20 years and older\n\n          -  Hospital and RBHS healthcare workers who have regular direct patient contact (\u22653\n             patients/shift) in emergency rooms or inpatient settings that is expected to continue\n             regularly over the next \u22653 months and who work \u226520 hours in the hospital weekly\n             (residents, clinical fellows, attending physicians, nurse practitioners, physician\n             assistants, registered nurses, license practice nurses, medical technicians,\n             respiratory therapists, physical therapists, clinical pharmacists, dentists, dental\n             hygienists, or dental assistants)\n\n          -  Hospital workers who do not have patient contact and non-healthcare from the Rutgers\n             faculty, postdoctoral students, administrators, and staff.\n\n          -  Household members in a subset of the participants who test positive and negative for\n             SARS-CoV-2\n\n        Exclusion Criteria:\n\n          -  Previous diagnosis with COVID-19\n\n          -  Pregnant or have been diagnosed with a new medical condition in the past 30 days or\n             have had a change in medications in the past 30 days\n\n          -  Participants who have been hospitalized in the past 30 days, had and had an emergency\n             room, urgent care visit, or have had surgery.\n\n          -  Participants who have a fever on the day of their first visit to the study site (for\n             consent, biospecimen collection, etc.)."
+            },
+            "gender": "All",
+            "minimum_age": "20 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": [
+            {
+                "last_name": "Jeffrey L Carson, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Rutgers Biomedical Health Sciences"
+            },
+            {
+                "last_name": "Reynold A Panettieri, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Rutgers Institute for Translational Medicine and Science"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Jeffrey L Carson, MD",
+            "phone": "732-235-7122",
+            "email": "jeffrey.carson@rutgers.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Reynold A Panettieri, MD",
+            "phone": "732-235-6404",
+            "email": "rp856@rbhs.rutgers.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Clinical Research Center Rutgers-Robert Wood Johnson Medical School RWJUH East Tower -",
+                    "address": {
+                        "city": "New Brunswick",
+                        "state": "New Jersey",
+                        "zip": "08901",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Robert Wood Johnson University Hospital",
+                    "address": {
+                        "city": "New Brunswick",
+                        "state": "New Jersey",
+                        "zip": "08901",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Clinical Research Unit Rutgers New Jersey Medical School",
+                    "address": {
+                        "city": "Newark",
+                        "state": "New Jersey",
+                        "zip": "07103",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Rutgers School of Dental Medicine",
+                    "address": {
+                        "city": "Newark",
+                        "state": "New Jersey",
+                        "zip": "07103",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "University Hospital",
+                    "address": {
+                        "city": "Newark",
+                        "state": "New Jersey",
+                        "zip": "07103",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Environmental and Occupational Health Sciences Institute",
+                    "address": {
+                        "city": "Piscataway",
+                        "state": "New Jersey",
+                        "zip": "08854",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "RUCDR Infinite Biologics",
+                    "address": {
+                        "city": "Piscataway",
+                        "state": "New Jersey",
+                        "zip": "08854",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "reference": [
+            {
+                "citation": "Colizza V, Barrat A, Barthelemy M, Valleron AJ, Vespignani A. Modeling the worldwide spread of pandemic influenza: baseline case and containment interventions. PLoS Med. 2007 Jan;4(1):e13.",
+                "PMID": "17253899"
+            },
+            {
+                "citation": "Bai Y, Yao L, Wei T, Tian F, Jin DY, Chen L, Wang M. Presumed Asymptomatic Carrier Transmission of COVID-19. JAMA. 2020 Feb 21. doi: 10.1001/jama.2020.2565. [Epub ahead of print]",
+                "PMID": "32083643"
+            },
+            {
+                "citation": "Schulert GS, Zhang M, Fall N, Husami A, Kissell D, Hanosh A, Zhang K, Davis K, Jentzen JM, Napolitano L, Siddiqui J, Smith LB, Harms PW, Grom AA, Cron RQ. Whole-Exome Sequencing Reveals Mutations in Genes Linked to Hemophagocytic Lymphohistiocytosis and Macrophage Activation Syndrome in Fatal Cases of H1N1 Influenza. J Infect Dis. 2016 Apr 1;213(7):1180-8. doi: 10.1093/infdis/jiv550. Epub 2015 Nov 23.",
+                "PMID": "26597256"
+            },
+            {
+                "citation": "Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research electronic data capture (REDCap)--a metadata-driven methodology and workflow process for providing translational research informatics support. J Biomed Inform. 2009 Apr;42(2):377-81. doi: 10.1016/j.jbi.2008.08.010. Epub 2008 Sep 30.",
+                "PMID": "18929686"
+            },
+            {
+                "citation": "Mahase E. Covid-19: WHO declares pandemic because of \"alarming levels\" of spread, severity, and inaction. BMJ. 2020 Mar 12;368:m1036. doi: 10.1136/bmj.m1036.",
+                "PMID": "32165426"
+            },
+            {
+                "citation": "Rothan HA, Byrareddy SN. The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. J Autoimmun. 2020 Feb 26:102433. doi: 10.1016/j.jaut.2020.102433. [Epub ahead of print] Review.",
+                "PMID": "32113704"
+            },
+            {
+                "citation": "Han Y, Yang H. The transmission and diagnosis of 2019 novel coronavirus infection disease (COVID-19): A Chinese perspective. J Med Virol. 2020 Mar 6. doi: 10.1002/jmv.25749. [Epub ahead of print]",
+                "PMID": "32141619"
+            },
+            {
+                "citation": "Anderson RM, Heesterbeek H, Klinkenberg D, Hollingsworth TD. How will country-based mitigation measures influence the course of the COVID-19 epidemic? Lancet. 2020 Mar 21;395(10228):931-934. doi: 10.1016/S0140-6736(20)30567-5. Epub 2020 Mar 9.",
+                "PMID": "32164834"
+            },
+            {
+                "citation": "Lai CC, Shih TP, Ko WC, Tang HJ, Hsueh PR. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 (COVID-19): The epidemic and the challenges. Int J Antimicrob Agents. 2020 Mar;55(3):105924. doi: 10.1016/j.ijantimicag.2020.105924. Epub 2020 Feb 17.",
+                "PMID": "32081636"
+            },
+            {
+                "citation": "Fauci AS, Lane HC, Redfield RR. Covid-19 - Navigating the Uncharted. N Engl J Med. 2020 Mar 26;382(13):1268-1269. doi: 10.1056/NEJMe2002387. Epub 2020 Feb 28.",
+                "PMID": "32109011"
+            },
+            {
+                "citation": "Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648. [Epub ahead of print]",
+                "PMID": "32091533"
+            },
+            {
+                "citation": "Pan X, Chen D, Xia Y, Wu X, Li T, Ou X, Zhou L, Liu J. Asymptomatic cases in a family cluster with SARS-CoV-2 infection. Lancet Infect Dis. 2020 Apr;20(4):410-411. doi: 10.1016/S1473-3099(20)30114-6. Epub 2020 Feb 19.",
+                "PMID": "32087116"
+            },
+            {
+                "citation": "Del Rio C, Malani PN. COVID-19-New Insights on a Rapidly Changing Epidemic. JAMA. 2020 Feb 28. doi: 10.1001/jama.2020.3072. [Epub ahead of print]",
+                "PMID": "32108857"
+            },
+            {
+                "citation": "Zhang H, Penninger JM, Li Y, Zhong N, Slutsky AS. Angiotensin-converting enzyme 2 (ACE2) as a SARS-CoV-2 receptor: molecular mechanisms and potential therapeutic target. Intensive Care Med. 2020 Apr;46(4):586-590. doi: 10.1007/s00134-020-05985-9. Epub 2020 Mar 3.",
+                "PMID": "32125455"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Rutgers, The State University of New Jersey",
+            "investigator_full_name": "Reynold Panettieri, MD",
+            "investigator_title": "Director, Rutgers Institute for Translational Medicine & Science"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "clinical_study": {
+        "@rank": "53",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336254"
+        },
+        "id_info": {
+            "org_study_id": "2020K-G005",
+            "secondary_id": "hDPSC-CoVID-2019-02-2020",
+            "nct_id": "NCT04336254"
+        },
+        "brief_title": "Safety and Efficacy Study of Allogeneic Human Dental Pulp Mesenchymal Stem Cells to Treat Severe COVID-19 Patients",
+        "official_title": "Safety and Efficacy Study of Allogeneic Human Dental Pulp Mesenchymal Stem Cells to Treat Severe Pneumonia of COVID-19\uff1aa Single-center, Prospective, Randomised Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Renmin Hospital of Wuhan University",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Beijing SH Bio-Tech Corporation, Beijing (CN)",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Utooth Biological Technology Co., Ltd. Hubei (CN)",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Renmin Hospital of Wuhan University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This clinical trial is set out to evaluate the safety and efficacy of allogeneic human dental\n      pulp mesenchymal stem cells in the treatment of severe pneumonia caused by COVID-19; to\n      explore the effects of human dental pulp mesenchymal stem cells in the treatment of severe\n      pneumonia of COVID-19 in terms of reducing mortality and improving clinical prognosis; and to\n      discover a new therapeutic strategy for COVID-19 using allogeneic human dental pulp\n      mesenchymal stem cells."
+        },
+        "detailed_description": {
+            "textblock": "This clinical trial is set out to evaluate the followings:\n\n        1. the safety and efficacy of allogeneic human dental pulp mesenchymal stem cells in the\n           treatment of severe pneumonia caused by COVID-19;\n\n        2. to explore the effects of human dental pulp mesenchymal stem cells in the treatment of\n           severe pneumonia of COVID-19 in terms of reducing mortality and improving clinical\n           prognosis; and\n\n        3. to discover a new therapeutic strategy for COVID-19 using allogeneic human dental pulp\n           mesenchymal stem cells."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "phase": "Phase 1/Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Triple (Participant, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "TTCI",
+            "time_frame": "1-28 days",
+            "description": "Time to Clinical Improvement"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Lung lesion",
+                "time_frame": "1-28 days",
+                "description": "Lung Lesion by CT"
+            },
+            {
+                "measure": "Immune function",
+                "time_frame": "1-28 days",
+                "description": "Th1 cytokines: IL-1\u03b2, IL- 2, TNF-a, ITN-\u03b3;\nTh2 cytokines: IL- 4, IL- 6, IL- 10;\nImmunoglobulins: IgA, IgG, IgM, and total IgE;\nLymphocyte counts: CD3+, CD4+, CD8+, CD16+,CD19+, CD56+."
+            },
+            {
+                "measure": "Time of SARS-CoV-2 clearance",
+                "time_frame": "1-28 days",
+                "description": "Time of SARS-CoV-2 test turns negative"
+            },
+            {
+                "measure": "Blood test",
+                "time_frame": "1-28 days",
+                "description": "Blood cell count and classification"
+            },
+            {
+                "measure": "SPO2",
+                "time_frame": "1-28 days",
+                "description": "Pulse oximetry"
+            },
+            {
+                "measure": "RR",
+                "time_frame": "1-28 days",
+                "description": "Respiratory rate"
+            },
+            {
+                "measure": "Body temperature",
+                "time_frame": "1-28 days",
+                "description": "Body temperature"
+            },
+            {
+                "measure": "Side effects in the treatment group",
+                "time_frame": "1-28 days",
+                "description": "Number of the included patients with hDPSCs-related adverse events, e.g. liver or kidney function failure"
+            },
+            {
+                "measure": "C-reactive protein (mg/L)",
+                "time_frame": "1-28 days",
+                "description": "C-reactive protein in microgram per litre"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "20"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "hDPSCs group",
+                "arm_group_type": "Experimental",
+                "description": "Routine treatment + Intravenous injection of human dental pulp stem cells"
+            },
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Routine treatment + Intravenous saline injection (Placebo)"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "allogeneic human dental pulp stem cells (BSH BTC & Utooth BTC)",
+                "description": "Intravenous injection of 3.0x10e7 human dental pulp stem cells solution (30ml) on day 1, day 4 and day 7, based on routine treatment of COVID-19",
+                "arm_group_label": "hDPSCs group"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Intravenous saline injection (Placebo)",
+                "description": "Intravenous injection of 3ml of 0.9% saline on day 1, day 4 and day 7, based on routine treatment of COVID-19",
+                "arm_group_label": "Control group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Aged 18-65 years;\n\n          2. Voluntarily participate in this clinical trial and sign off \"informed consent form\";\n\n          3. Diagnosed with severe pneumonia of COVID: respiratory distress, RR >30 times / min;\n             resting oxygen saturation of 93% or less; arterial partial pressure of oxygen / oxygen\n             concentration 300mmHg; SARS-CoV-2 nucleic acid test was positive.\n\n          4. Chest imaging confirm COVID-19 featured lesions in lung.\n\n        Exclusion Criteria:\n\n          1. Receive any clinical trial drug treatment for COVID-2019 within 30 days before the\n             screening assessment;\n\n          2. Severe liver disease (e.g., Child Pugh score >=C or AST> 5 times of the upper limit);\n\n          3. Patients with known severe renal insufficiency (estimated glomerular filtration rate\n             <=30mL / min/1.73 m2) or patients receiving continuous renal replacement therapy,\n             hemodialysis, peritoneal dialysis;\n\n          4. Co-infection of HIV, hepatitis B, tuberculosis, influenza virus, adenovirus or other\n             respiratory infection viruses;\n\n          5. Female patients who have no sexual protection in the last 30 days prior to the\n             screening assessment;\n\n          6. Pregnant or lactating women or women using estrogen contraception;\n\n          7. Patients who are planning to become pregnant during the study period or within 6\n             months after the end of the study period;\n\n          8. Other conditions that the researchers consider not suitable for participating in this\n             clinical trial."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "65 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Prof. Qingsong Ye, PhD,DDS",
+            "role": "Study Chair",
+            "affiliation": "Center for Regenerative Medicine, Renmin Hospital of Wuhan University"
+        },
+        "overall_contact": {
+            "last_name": "Qingsong Ye, PhD,DDS",
+            "phone": "+8615858242516",
+            "email": "qingsongye@foxmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Chenliang Zhou, PhD",
+            "phone": "+862788041919",
+            "phone_ext": "83920"
+        },
+        "location": {
+            "facility": {
+                "name": "Renmin Hospital of Wuhan University (East Campus)",
+                "address": {
+                    "city": "Wuhan",
+                    "state": "Hubei",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Chenliang Zhou, PhD",
+                "phone": "+86 027 88041919",
+                "phone_ext": "83920"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 28, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Renmin Hospital of Wuhan University",
+            "investigator_full_name": "Ye Qingsong",
+            "investigator_title": "Professor, Director"
+        },
+        "keyword": [
+            "Cronovirus",
+            "Human Dental Pulp Stem Cells",
+            "Dental Stem Cell Banking"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

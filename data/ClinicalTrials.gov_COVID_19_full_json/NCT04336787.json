@@ -1,0 +1,183 @@
+{
+    "clinical_study": {
+        "@rank": "127",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336787"
+        },
+        "id_info": {
+            "org_study_id": "FADP-2",
+            "nct_id": "NCT04336787"
+        },
+        "brief_title": "Physical Activity Level, Stress Level, Sleep Quality in Covid-19 Quarantine",
+        "official_title": "Determination of Physical Activity, Sleep and Stress Level in the COVID-19 Quarantine Period",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Istanbul K\u00fclt\u00fcr University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Istanbul University-Cerrahpasa",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Istanbul K\u00fclt\u00fcr University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The first COVID-19 case was detected on 10 March 2020 by the Ministry of Health Turkey. As a\n      result, universities were closed during the spring semester and various institutions\n      interrupted their activities. In addition, the concept of voluntary quarantine was brought to\n      the agenda and people were asked to stay home as much as possible, staying away from social\n      contact. This period, which is not certain how to proceed and we are at the beginning, has\n      affected the daily life routines.\n\n      Our hypothesis are:\n\n        -  During the COVID-19 epidemic, the sleep quality of individuals of different age groups\n           who live their daily lives at home decreases.\n\n        -  During the COVID-19 epidemic, the stress level of individuals of different age groups\n           who live their daily lives at home increases.\n\n        -  During the COVID-19 epidemic, the level of physical activity of individuals of different\n           age groups who live their daily lives at home decreases.\n\n      The aim of the study is to determine the sleep quality, stress level and physical activity\n      level of people of different age groups who maintain the home quarantine after the COVID-19\n      epidemic"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 10, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 10, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Ecologic or Community",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "International Physical Activity Questionnaire",
+                "time_frame": "Baseline of the study",
+                "description": "This measure assesses the types of intensity of physical activity and sitting time that people do as part of their daily lives are considered to estimate total physical activity in MET-min/week and time spent sitting. Walking = 3.3 METs Moderate Intensity = 4.0 METs Vigorous Intensity = 8.0 METs Total MET-minutes/week = Walk (METs*min*days) + Mod (METs*min*days) + Vig (METs*min*days)\n1. Low: \u2022 No activity is reported OR \u2022 Some activity is reported but not enough to meet Categories 2 or 3. 2. Moderate: \u2022 3 or more days of vigorous activity of at least 20 minutes per day OR \u2022 5 or more days of moderate-intensity activity and/or walking of at least 30 minutes per day OR \u2022 5 or more days of any combination of walking, moderate-intensity or vigorous intensity activities achieving a minimum of at least 600 MET-minutes/week. 3. High: \u2022 Vigorous-intensity activity on at least 3 days and accumulating at least 1500 MET-minutes/week"
+            },
+            {
+                "measure": "Pittsburgh Sleep Quality Index",
+                "time_frame": "Baseline of the study",
+                "description": "The Pittsburgh Sleep Quality Index (PSQI) is an effective instrument used to measure the quality and patterns of sleep. It differentiates \"poor\" from \"good\" sleep by measuring seven domains: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, sleep disturbances, use of sleep medication, and daytime dysfunction over the last month.The client self rates each of these seven areas of sleep. Scoring of the answers is based on a 0 to 3 scale, whereby 3 reflects the negative extreme on the Likert Scale. A global sum of \"5\"or greater indicates a \"poor\" sleeper."
+            },
+            {
+                "measure": "Perceived Stress Scale",
+                "time_frame": "Baseline of the study",
+                "description": "The Perceived Stress Scale (PSS) is a 14-item self-report measure designed to assess \"the degree to which situations in one's life are appraised as stressful. Each item is rated on a 5-point scale (0 = Never, 1 = Almost Never, 2 = Sometimes, 3 = Fairly Often, 4 = Very Often) and summed to create a total score. PSS-14 has strong internal consistency (\u03b1 = .84 to .86) and good test-retest reliability (r = .85 over a 2-day period, r = .55 over a 6-week period."
+            },
+            {
+                "measure": "Numerical Pain Rating Scale",
+                "time_frame": "Baseline of the study",
+                "description": "The Numeric Rating Scale (NRS) is the simplest and most commonly used numeric scale rates the pain from 0 (no pain) to 10 (worst pain)."
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": [
+            "Covid-19",
+            "Coronavirus Infection"
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Survey",
+            "description": "A Google Survey which included that consent form, demographic information form, International Physical Activity Questionnaire, Pittsburgh Sleep Quality Index, Perceived Stress Scale will be created. Then the survey link will be shared via social media such as Whatsapp, Facebook, etc."
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "To assess the effect of social quarantine implementation that is for preventing COVID-19\n        infection in the Turkish community, Turkish people aged between 18-80 will participate in\n        the study."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Volunteer to participate in the study\n\n          -  Aged > 18\n\n          -  Spending most of the day at home cause of the quarantine\n\n        Exclusion Criteria:\n\n          -  Aged < 18\n\n          -  Continuing to work at the office during the quarantine"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "80 Years"
+        },
+        "overall_contact": {
+            "last_name": "Ay\u015fe Zengin Alp\u00f6zgen, assistant professor",
+            "phone": "(212) 866 37 00 43144",
+            "email": "azengin@istanbul.edu.tr"
+        },
+        "location": {
+            "facility": {
+                "name": "Istanbul University - Cerrahpa\u015fa",
+                "address": {
+                    "city": "Istanbul",
+                    "country": "Turkey"
+                }
+            },
+            "contact": {
+                "last_name": "Ay\u015fe Zengin Alp\u00f6zgen, Assistant Professor"
+            },
+            "investigator": [
+                {
+                    "last_name": "Halenur Evrendilek, PhD Student",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Ba\u015fak Polat, PhD Student",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "\u00c7i\u00e7ek Duman, PhD Student",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Tu\u011f\u00e7e Tahmaz, PhD Student",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Funda Ak\u00fcz\u00fcm, PhD Student",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Gamze Ert\u00fcrk Uzuno\u011flu, PhD Student",
+                    "role": "Principal Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Turkey"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Istanbul K\u00fclt\u00fcr University",
+            "investigator_full_name": "Gamze Ert\u00fcrk",
+            "investigator_title": "Research Assistant"
+        },
+        "keyword": [
+            "Covid-19",
+            "coronavirus infection",
+            "quarantine",
+            "sleep disorders",
+            "stress level",
+            "physical activity level"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

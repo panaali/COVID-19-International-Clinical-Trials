@@ -1,0 +1,139 @@
+{
+    "clinical_study": {
+        "@rank": "178",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337281"
+        },
+        "id_info": {
+            "org_study_id": "Highdosevitcincovid19",
+            "nct_id": "NCT04337281"
+        },
+        "brief_title": "Evaluation of the Effect of High-dose Vitamin C Use in Covid 19 Positive Pregnants",
+        "official_title": "High-dose Vitamin C Use in Covid 19 Positive Pregnants",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Kanuni Sultan Suleyman Training and Research Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Kanuni Sultan Suleyman Training and Research Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Evaluation of the effect of high-dose vitamin C use in covid 19 positive pregnants"
+        },
+        "detailed_description": {
+            "textblock": "Researchers will evaluate the change of peripheral blood values in pregnant women receiving\n      high doses of vitamin c (7.5g); (hemogram, biochemistry (ast- sub-urea, creatinine,\n      potassium, sodium, calcium, magnesium, vitamin d, homocysteine, ggt, crp)"
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 28, 2020"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "2 Months",
+        "primary_outcome": {
+            "measure": "evaluation of the change of peripheral blood values in pregnant women receiving high doses of vitamin C",
+            "time_frame": "2 months",
+            "description": "hemogram, biochemistry (ast- sub-urea, creatinine, potassium, sodium, calcium, magnesium, vitamin d, homocysteine, ggt, crp)"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": [
+            "Covid19",
+            "Pregnancy Related",
+            "Vitamin C Deficiency"
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "High dose vitamin C",
+            "description": "researchers will evaluate the change of peripheral blood values in pregnant women receiving high doses of vitamin C"
+        },
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "(hemogram, biochemistry (ast- urea, creatinine, potassium, sodium, calcium, magnesium,\n      vitamin d, homocysteine, ggt, crp)"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Effect of high dose vitamin c (7.5gr) usage on blood values and clinical results in covid\n        19 positive pregnants"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  pregnancy\n\n          -  covid19 positive\n\n          -  no lung disease\n\n          -  no additional disease\n\n          -  no vitamin C allergy\n\n        Exclusion Criteria:\n\n          -  Not pregnant\n\n          -  have lung disease"
+            },
+            "gender": "Female",
+            "gender_based": "Yes",
+            "minimum_age": "18 Years",
+            "maximum_age": "45 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "location": {
+            "facility": {
+                "name": "Pinar Yalcin Bahat",
+                "address": {
+                    "city": "Istanbul",
+                    "state": "\u0130\u0307stanbul",
+                    "zip": "34000",
+                    "country": "Turkey"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Turkey"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 5, 2020",
+        "study_first_submitted_qc": "April 5, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Kanuni Sultan Suleyman Training and Research Hospital",
+            "investigator_full_name": "P\u0131nar Yalcin bahat",
+            "investigator_title": "Principal Investigator"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Scurvy",
+                "Ascorbic Acid Deficiency"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Vitamins",
+                "Ascorbic Acid"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes"
+        }
+    }
+}

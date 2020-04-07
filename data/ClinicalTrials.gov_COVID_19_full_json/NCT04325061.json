@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "65",
+        "@rank": "73",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04325061"
         },
@@ -41,10 +41,10 @@
         "detailed_description": {
             "textblock": "The acute respiratory distress syndrome (ARDS) is a catastrophic illness of multifactorial\n      etiology characterized by a diffuse, severe inflammatory process of the lung leading to acute\n      hypoxemic respiratory failure requiring mechanical ventilation (MV). Pulmonary infections are\n      the leading causes of ARDS. Clinical and experimental research has established a strong\n      association between dysregulated systemic and pulmonary inflammation and progression or\n      delayed resolution of ARDS.\n\n      The COVID-19 pandemic is a critical moment for the world. Severe pneumonia is the main\n      condition leading to ARDS requiring weeks of MV with high mortality (40-60%) in COVID-19\n      patients. There is no specific therapy for Covid-19, although patients are receiving drugs\n      that are already approved for treating other diseases. There has been great interest in the\n      role of corticosteroids to attenuate the pulmonary and systemic damage in ARDS patients\n      because of their potent anti-inflammatory and antifibrotic properties. However, the efficacy\n      of corticosteroids in viral ARDS remains controversial.\n\n      We justify the need of this study based on the positive results of a recent clinical trial by\n      our group, showing that dexamethasone for 10 days was able to reduce the duration of\n      mechanical ventilation (MV) and increase hospital survival in patients with ARDS from\n      multiple causes (Villar J et al. Lancet Respir Med 2020). Dexamethasone has never been\n      evaluated in viral ARDS in a randomized controlled fashion. Our goal in this study is to\n      examine the effects of dexamethasone on hospital mortality and on ventilator-free days in\n      patients with moderate-to-severe ARDS due to confirmed COVID-19 infection admitted into a\n      network of Spanish intensive care units (ICUs)."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 1, 2020"
+            "@type": "Actual",
+            "#text": "April 3, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -126,6 +126,18 @@
         "location": [
             {
                 "facility": {
+                    "name": "Hospital Universitario Dr. Negrin",
+                    "address": {
+                        "city": "Las Palmas de Gran Canaria",
+                        "state": "Las Palmas",
+                        "zip": "35019",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Active, not recruiting"
+            },
+            {
+                "facility": {
                     "name": "Department of Anesthesia, Hospital Universitario de Cruces",
                     "address": {
                         "city": "Barakaldo",
@@ -134,20 +146,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Gonzalo Tamayo, MD, PhD",
-                    "phone": "+34655740637",
-                    "email": "gonzalotamayo@gmail.com"
-                },
-                "contact_backup": {
-                    "last_name": "Alberto Mart\u00ednez-Ruiz, MD, PhD",
-                    "phone": "+34610494664",
-                    "email": "alberto.martinezruiz@osakidetza.net"
-                },
-                "investigator": {
-                    "last_name": "I\u00f1aki Bilbao-Villasante",
-                    "role": "Sub-Investigator"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -159,15 +158,36 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Tom\u00e1s Mu\u00f1oz, MD, PhD",
-                    "phone": "+34619440485",
-                    "email": "tomas.munozmartinez@osakidetza.net"
+                "status": "Active, not recruiting"
+            },
+            {
+                "facility": {
+                    "name": "AVI, Hospital Clinic",
+                    "address": {
+                        "city": "Barcelona",
+                        "zip": "08036",
+                        "country": "Spain"
+                    }
                 },
-                "contact_backup": {
-                    "last_name": "Pablo Serna-Grande, MD",
-                    "phone": "+34620686825",
-                    "email": "pablo.serna.grande@gmail.com"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Pedro Castro, MD",
+                    "email": "PCASTRO@clinic.cat"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Cardiac ICU, Hospital Clinic",
+                    "address": {
+                        "city": "Barcelona",
+                        "zip": "08036",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Manuel Castell\u00e1, MD",
+                    "email": "MCASTE@clinic.cat"
                 }
             },
             {
@@ -179,10 +199,46 @@
                         "country": "Spain"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Carlos Ferrando, MD, PhD",
                     "phone": "+34659583815",
                     "email": "cafeoranestesia@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Ricard Mellado-Artigas, MD",
+                    "phone": "+34646217716",
+                    "email": "rmartigas@gmail.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hepatic ICU, Hospital Cl\u00ednic",
+                    "address": {
+                        "city": "Barcelona",
+                        "zip": "08036",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Javier Fern\u00e1ndez, MD",
+                    "email": "JFDEZ@clinic.cat"
+                }
+            },
+            {
+                "facility": {
+                    "name": "UVIR, Hospital Clinic",
+                    "address": {
+                        "city": "Barcelona",
+                        "zip": "08036",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Joan R Badia, MD",
+                    "email": "JRBADIA@clinic.cat"
                 }
             },
             {
@@ -194,29 +250,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Alfonso Ambr\u00f3s, MD, PhD",
-                    "phone": "+34696544641",
-                    "email": "alfonsoa@sescam.jccm.es"
-                },
-                "contact_backup": {
-                    "last_name": "Carmen Mart\u00edn, MD",
-                    "email": "mcarmartin@hotmail.com"
-                },
-                "investigator": {
-                    "last_name": "Rafael del Campo, MD",
-                    "role": "Sub-Investigator"
-                }
-            },
-            {
-                "facility": {
-                    "name": "Hospital Universitario Dr. Negrin",
-                    "address": {
-                        "city": "Las Palmas de Gran Canaria",
-                        "zip": "35019",
-                        "country": "Spain"
-                    }
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -227,11 +261,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Fernando Ramasco, MD, PhD",
-                    "phone": "+34639667114",
-                    "email": "gorria66@gmail.com"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -242,11 +272,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Fernando Suarez-Sipmann, MD, PhD",
-                    "phone": "+34669792961",
-                    "email": "fsuarezsipmann@gmail.com"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -257,16 +283,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "C\u00e9sar P\u00e9rez-Calvo, MD",
-                    "phone": "+34618100522",
-                    "email": "Cperez@fjd.es"
-                },
-                "contact_backup": {
-                    "last_name": "\u00c1nxela Vidal, MD",
-                    "phone": "+34680713669",
-                    "email": "anxelavidal@gmail.com"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -277,10 +294,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Emilio Maseda, MD, PhD",
-                    "email": "emilio.maseda@gmail.com"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -291,11 +305,32 @@
                         "country": "Spain"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Jos\u00e9 M A\u00f1\u00f3n, MD, PhD",
                     "phone": "+34620152794",
                     "email": "jmaelizalde@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Juan C Figueira, MD",
+                    "phone": "+34619182014",
+                    "email": "luarnaria@yahoo.es"
+                },
+                "investigator": {
+                    "last_name": "Mar\u00eda J Asensio, MD",
+                    "role": "Sub-Investigator"
                 }
+            },
+            {
+                "facility": {
+                    "name": "Department of Anesthesia, Hospital Universitario Virgen de Arrixaca",
+                    "address": {
+                        "city": "Murcia",
+                        "zip": "30120",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -306,16 +341,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Domingo Mart\u00ednez, MD",
-                    "phone": "+34670334050",
-                    "email": "dmbct1@gmail.com"
-                },
-                "contact_backup": {
-                    "last_name": "Juan A Soler, MD, PhD",
-                    "phone": "+34661764387",
-                    "email": "juasobar@hotmail.com"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -326,16 +352,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Marina Varela, MD, PhD",
-                    "phone": "+34607358008",
-                    "email": "marina.varela.duran@sergas.es"
-                },
-                "contact_backup": {
-                    "last_name": "Pilar Diaz-Parada, MD",
-                    "phone": "+34686101085",
-                    "email": "pilar.diaz.parada@sergas.es"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -346,15 +363,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Gerardo Aguilar, MD, PhD",
-                    "phone": "+34639715165",
-                    "email": "gaguilar.aguilar1@gmail.com"
-                },
-                "contact_backup": {
-                    "last_name": "Jos\u00e9 A Carbonell, MD",
-                    "email": "jsoeacarbonell19@gmail.com"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -365,26 +374,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Jos\u00e9 Ferreres, MD, PhD",
-                    "phone": "+34627557288",
-                    "email": "ferreresj@gmail.com"
-                }
-            },
-            {
-                "facility": {
-                    "name": "Intensive Care Unit, Hospital Universitario La Fe",
-                    "address": {
-                        "city": "Valencia",
-                        "zip": "46026",
-                        "country": "Spain"
-                    }
-                },
-                "contact": {
-                    "last_name": "\u00c1lvaro Castellanos, MD, PhD",
-                    "phone": "+34677984787",
-                    "email": "catellanos_alv@gva.es"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -395,10 +385,7 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Jos\u00e9 I G\u00f3mez-Herreras, MD, PhD",
-                    "email": "jgomez012001@yahoo.es"
-                }
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -409,28 +396,24 @@
                         "country": "Spain"
                     }
                 },
-                "contact": {
-                    "last_name": "Lorena Fern\u00e1ndez, MD, PhD",
-                    "phone": "+34626479670",
-                    "email": "mlorefer@yahoo.es"
-                }
+                "status": "Active, not recruiting"
             }
         ],
         "location_countries": {
             "country": "Spain"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 25, 2020",
         "study_first_submitted_qc": "March 26, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 27, 2020"
         },
-        "last_update_submitted": "March 31, 2020",
-        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_submitted": "April 4, 2020",
+        "last_update_submitted_qc": "April 4, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 1, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

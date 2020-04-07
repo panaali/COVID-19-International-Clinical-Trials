@@ -1,17 +1,17 @@
 {
     "clinical_study": {
-        "@rank": "37",
+        "@rank": "11",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04329611"
         },
         "id_info": {
-            "org_study_id": "ABCOV-01",
+            "org_study_id": "ABCOV-01 version 1.1",
             "nct_id": "NCT04329611"
         },
-        "brief_title": "Hydroxychloroquine to Prevent Covid19 Pneumonia (ALBERTA HOPE-Covid19)",
-        "official_title": "A Randomized, Double-blind, Placebo-controlled Trial to Assess the Efficacy and Safety of Oral Hydroxychloroquine for the Treatment of SARS-CoV-2 Positive Patients for the Prevention of Severe COVID-19 Disease",
+        "brief_title": "ALBERTA HOPE COVID-19 for the Prevention of Severe COVID19 Disease",
+        "official_title": "A Randomized, Double-blind, Placebo-controlled Trial to Assess the Efficacy and Safety of Oral Hydroxychloroquine for the Treatment of SARS-CoV-2 Positive Patients for the Prevention of Severe COVID-19 Disease.",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Dr. Michael Hill",
@@ -25,15 +25,15 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "Albertans with COVID-19 are at risk of deteriorating and developing severe illness. Those\n      over age 40 and those with comorbid illness, including those with immunosuppressed states may\n      be at highest risk.\n\n      Participants will be informed of the study by public health when they are tested for\n      COVID-19. The study description and consent form will also be posted on the Alberta Covid-19\n      website for all Albertans to be aware of. Patients being tested for COVID-19 according to the\n      guidance developed by Alberta Public Health will be referred to this website and those who\n      indicate they do not have access to this information will be provided with written\n      information at the time of testing.\n\n      Participants will be informed that they are potentially eligible for the study when a\n      positive COVID-19 test is confirmed. They will be asked by public health for consent to be\n      contacted by a study coordinator and their email address and phone number will be obtained.\n      These will then be shared with the investigators. Potential participants will be reminded to\n      review the study information and informed consent form on the website if possible.\n\n      The investigators will then initiate contact with potential participants by email (preferred)\n      or telephone. The study requirements will be reviewed, and the potential participant will\n      have an opportunity to ask questions. Consent for participation will preferably be obtained\n      electronically; those without internet access may provide consent by telephone.\n\n      Participants will then be screened for inclusion and exclusion criteria by electronic\n      questionnaire or telephone interview and Alberta Netcare medical record review. Follow-up\n      questions to confirm eligibility by email or telephone may be required.\n\n      Those who are eligible will be randomized to receive hydroxychloroquine or placebo for a\n      total duration of 5 days. Those who are not eligible will be informed and the reasons for\n      ineligibility will be explained why (generally it will be a safety exclusion and they should\n      be aware). Study drug will be delivered to their residence by courier.\n\n      Outcomes will be collected by electronic questionnaire, administrative data and review of\n      Alberta Netcare. If follow-up questionnaires are not completed within 24 hours telephone\n      follow-up will be attempted. Those completing the study who do not have internet access will\n      be followed by telephone. Administrative data, and information on Alberta Netcare will also\n      be used for follow-up. The duration of the followup is 30 days."
+            "textblock": "Albertans with COVID-19 are at risk of deteriorating and developing severe illness. Those\n      over age 40 or with co-morbid illness, and likely those who are immune suppressed, are at\n      highest risk. This study will include a focus on people with immune-suppressed states.\n      Individuals confirmed to have SARS-CoV-2 infection will be identified using administrative\n      data (positive lab result, age 18 or over, not hospitalized, and not living in SL4 level of\n      care). They will then be contacted by AHS staff, independent of the researchers, to obtain\n      their consent for the researchers to contact them about this trial. The AHS staff member who\n      contacts the individual will enroll consenting individuals into a study database. If they\n      provided an email address an email will automatically be sent to the individual with study\n      information. Those who decline to be contacted will also be informed of the study website so\n      they can choose to review the study information and self-enrol, although they will need to do\n      so quickly to meet study timelines. Enrolled participants will be contacted by a study\n      coordinator. Those without access to the internet will be informed about the study details\n      when they are contacted by a study coordinator. When the study coordinator contacts potential\n      participants the study will be reviewed, and the potential participant will have an\n      opportunity to ask questions. Consent for participation will be obtained by telephone.\n      Telephone consent will be recorded. Participants will then be screened for inclusion and\n      exclusion criteria by telephone interview and review of Alberta Netcare. Alberta Netcare is\n      the province of Alberta's public Electronic Health Record used to store patient information\n      so that it is easily accessible to healthcare professionals for the purpose of care.\n      Information like immunizations, ECG results, diagnostic images and reports, written medical\n      reports (e.g. surgery reports, consultations, hospital admissions), diagnostic lab testing\n      results (e.g. blood tests, urine tests, blood bank info), allergies and intolerances (drug\n      and food allergies, food intolerances), prescription history, and general patient information\n      (e.g. name, birthdate, personal health number, address, phone number). Those who are not\n      eligible for the study will be informed of the reason(s) for ineligibility (generally it will\n      be a safety exclusion and they should be aware of this). Those who are eligible will be\n      randomized to receive HCQ or placebo for a total duration of 5 days. Study drug will be\n      delivered to their residence by courier. Telephone follow-up will occur at day 7 (range 7-10\n      days) and at day 30 (range 25-35 days)."
         },
         "detailed_description": {
-            "textblock": "This double-blind placebo-controlled, randomized clinical trial will determine if\n      hydroxychloroquine for 5 days, initiated within 72 hours of a confirmed diagnosis of\n      COVID-19, reduces the occurrence of severe COVID-19 disease. Severe disease is defined as the\n      composite of mechanical ventilation or death at 30 days. This trial will enrol consenting\n      Albertans who are not hospitalized, are over age 40, have no contraindication to treatment\n      with hydroxychloroquine, who do not have a severe underlying comorbidity where treatment is\n      not likely to be beneficial to the patient.\n\n      Secondary outcomes will be the proportion requiring invasive mechanical ventilation,\n      diagnosis of acute respiratory distress syndrome (ARDS), use of vasopressors, receipt of\n      ECMO/ECLS, diagnosis of median length of stay, in-hospital and 30-day mortality, EQ5D at 30\n      days, disposition at 30 days.\n\n      Randomization will be stratified by risk of severe disease. A pre-specified risk tool that\n      includes classification by immunosuppression status will define patient strata.\n\n      Alberta has a single publicly funded health care system with processes and administrative\n      data that will allow complete capture of health system encounters and resource utilization.\n      The population is ethnically diverse (ref) and most Albertans have internet access to allow\n      electronic enrolment and data capture.\n\n      The current COVID-19 epidemic has also paused most ongoing research, thus providing access to\n      a large number of experienced researchers and highly trained research staff.\n\n      Lack of any proven treatments for this severe condition makes it imperative that we use the\n      resources we have to try to improve the lives of Albertans and determine if there is evidence\n      for the use of hydroxychloroquine for confirmed COVID-19 disease, overall, and in high risk\n      participants."
+            "textblock": "This double-blind placebo-controlled, randomized clinical trial will determine if\n      hydroxychloroquine for 5 days, initiated within 96 hours of confirmation of a positive\n      COVID-19 result, and within 12 days of symptom onset, reduces the occurrence of severe\n      COVID-19 disease. Severe disease is defined as the composite of hospitalization, invasive\n      mechanical ventilation and 30-day mortality. This trial will enrol consenting adults who are\n      not hospitalized, are age 18 or over, have a risk factor for severe disease, have no\n      contraindication to treatment with hydroxychloroquine, can swallow pills, and who do not have\n      a severe underlying comorbidity where treatment is not likely to be beneficial to the\n      patient.\n\n      Secondary outcomes will be the proportion of participants requiring hospitalization, invasive\n      mechanical ventilation, 30-day mortality, and disposition at 30 days, defined as recovered,\n      ongoing symptoms but not hospitalized, hospitalized, or deceased.\n\n      Randomization will be stratified by age, risk of severe disease, and Alberta Health zone of\n      primary residence. A pre-specified risk classification that includes immunosuppressed status\n      will define those at high risk of severe disease. Health care delivery across Alberta Health\n      zones will likely differ, in part due to the remote location of most patients in some zones.\n\n      Alberta has a single publicly funded health care system with processes and administrative\n      data that will allow complete capture of health system encounters and resource utilization.\n      The population is ethnically diverse. In 2016, 23.5% of Albertans belonged to a visible\n      minority group compared with 22.3% for Canada overall (1). Also, in 2018, 94.1% of Albertans\n      age 15 and older used the internet for personal use compared with 91.3% for Canada overall;\n      this excluded full-time residents of institutions (2). This will support a high degree of\n      electronic recruitment and data capture.\n\n      The current COVID-19 epidemic has also paused most ongoing research, thus providing access to\n      many experienced researchers and highly trained research staff.\n\n      Lack of any proven treatments for this severe condition makes it imperative that we use the\n      resources we have to try to improve the lives of Albertans and determine if there is evidence\n      for the use of hydroxychloroquine for confirmed COVID-19 disease, overall, and in high risk\n      participants."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "April 8, 2020"
+            "#text": "April 15, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -49,7 +49,7 @@
         "study_design_info": {
             "allocation": "Randomized",
             "intervention_model": "Single Group Assignment",
-            "intervention_model_description": "Randomization will be stratified by risk of severe disease. A pre-specified risk tool that includes classification by immunosuppression status will define patient strata.\nIt is predicted that patients will want treatment. Further, immunosuppressed patients may be at the highest risk of fatal outcomes. Therefore, we will use 2:1 randomization (hydroxychloroquine: placebo), stratified by risk status (which includes immune status).\nRandomization will use a stratified minimal sufficient balance algorithm to ensure balance on age, provincial zone/geographic location",
+            "intervention_model_description": "Randomization will be conducted using an online tool. The use of an online tool will allow for dynamic randomization which ensures concealment of allocation. We will use a minimal sufficient balance randomization tool to ensure balance on age, sex, risk status (binary variable based on immune competence and other identified risks), days from symptom onset to randomization and provincial health zone (5 categories). These variables will be identified at telephone screening by a study coordinator, clarified with a physician when necessary, and entered into the online randomization tool. It is predicted that many patients will want treatment. Further, immunosuppressed patients may be at the highest risk of fatal outcomes. Therefore, we will use 2:1 randomization (HCQ: placebo).",
             "primary_purpose": "Treatment",
             "masking": "Triple (Participant, Care Provider, Investigator)",
             "masking_description": "A randomized, double-blind, placebo-controlled trial - trial staff and patients will all be blinded to the treatment allocation."
@@ -59,11 +59,23 @@
             "time_frame": "Within 30 days of randomization",
             "description": "The aim of this intervention is to prevent severe COVID-19 disease.\nThis trial aims to confirm that severe COVID-19 disease can be reduced by a relative risk reduction of 50% by the use of hydroxychloroquine.The aim of this intervention is to prevent severe COVID-19 disease.\nThis trial aims to confirm that severe COVID-19 disease can be reduced by a relative risk reduction of 50% by the use of hydroxychloroquine.The aim of this intervention is to prevent severe COVID-19 disease.\nThis trial aims to confirm that severe COVID-19 disease can be reduced by a relative risk reduction of 50% by the use of hydroxychloroquine."
         },
-        "secondary_outcome": {
-            "measure": "mortality",
-            "time_frame": "Within 30 days of randomization",
-            "description": "Mortality within 30 days of randomization"
-        },
+        "secondary_outcome": [
+            {
+                "measure": "mortality",
+                "time_frame": "Within 30 days of randomization",
+                "description": "Mortality within 30 days of randomization"
+            },
+            {
+                "measure": "Symptom duration",
+                "time_frame": "Within 30 days of randomization",
+                "description": "Symptom duration of COVID10"
+            },
+            {
+                "measure": "Disposition at 30 days defined as recovered, ongoing symptoms but not hospitalized, hospitalized, or deceased.",
+                "time_frame": "Within 30 days of randomization",
+                "description": "Disposition of the patient at the Day 30 telephone followup"
+            }
+        ],
         "number_of_arms": "2",
         "enrollment": {
             "@type": "Anticipated",
@@ -94,7 +106,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n        Inclusion Criteria\n\n          1. All patients with a confirmed SARS-CoV-2 infection, defined as RT-PCR provincial\n             laboratory confirmation.\n\n          2. Self-reported symptoms of SARS-CoV-2 infection including any of the following: fever\n             \u226537.5'C, cough, dyspnea, chest tightness, malaise, sore throat, myalgias, or coryza.\n\n          3. Time from being notified of a positive test result to day 1 of treatment < 96 hours\n\n          4. Time from patient reported first symptoms to day 1 of treatment <12 days\n\n          5. Adults, age 18 and over, with any risk factor for severe disease as per Table 1\n\n          6. Resident of Alberta or if not a resident of Alberta able to provide complete follow-up\n             data\n\n          7. Informed consent\n\n        Exclusion Criteria\n\n          1. Currently or imminently planned admission to hospital.\n\n          2. Any contraindication to hydroxychloroquine\n\n          3. Participation in an ongoing interventional clinical trial within the previous 30 days.\n\n          4. Current treatment with hydroxychloroquine (Plaquenil), chloroquine, lumefantrine,\n             mefloquine, or quinine.\n\n          5. Inability to swallow pills or any other reason that compliance with the medical\n             regimen is not likely.\n\n          6. Pregnancy.\n\n          7. Severe underlying disease where treatment is not likely to be beneficial to the\n             patient. This includes people requiring care in designated supported living facilities\n             (SL4, nursing homes) and severe dementia."
+                "textblock": "Inclusion Criteria:\n\n          1. Confirmed SARS-CoV-2 infection, defined as RT-PCR provincial laboratory confirmation.\n\n          2. Self-reported symptoms of SARS-CoV-2 infection including any of the following: fever\n             \u226537.5\u00b0C, cough, dyspnea, chest tightness, malaise, sore throat, myalgias, or coryza\n\n          3. Time from a positive test result to day 1 of treatment <96 hours\n\n          4. Time from patient reported first symptoms to day 1 of treatment <12 days\n\n          5. Adults, age 18 and over, with any risk factor for severe disease\n\n          6. Resident of Alberta or if not a resident of Alberta able to provide complete follow-up\n             data\n\n          7. Agrees to use adequate contraception for the duration of the study\n\n          8. Informed consent\n\n        Exclusion Criteria:\n\n          1. Currently or imminently planned admission to hospital\n\n          2. Any contraindication to hydroxychloroquine\n\n          3. Participation in an ongoing interventional clinical trial within the previous 30 days\n\n          4. Use of hydroxychloroquine (Plaquenil) or chloroquine, lumefantrine, mefloquine, or\n             quinine within the previous 30 days.\n\n          5. Inability to swallow pills or any other reason that compliance with the medical\n             regimen is not likely\n\n          6. Pregnant or breastfeeding\n\n          7. Severe underlying disease where treatment is not likely to be beneficial to the\n             patient."
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -164,11 +176,11 @@
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 6, 2020"
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",
@@ -180,9 +192,6 @@
             "SARS-Cov2",
             "viral pneumonia"
         ],
-        "condition_browse": {
-            "mesh_term": "Pneumonia"
-        },
         "intervention_browse": {
             "mesh_term": "Hydroxychloroquine"
         },

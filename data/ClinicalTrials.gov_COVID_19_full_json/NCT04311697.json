@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "189",
+        "@rank": "210",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04311697"
         },
@@ -141,7 +141,7 @@
         "overall_official": {
             "last_name": "Jonathan C Javitt, MD, MPH",
             "role": "Study Chair",
-            "affiliation": "Relief Therapeutics"
+            "affiliation": "NeuroRx, Inc."
         },
         "overall_contact": {
             "last_name": "Robert E Besthof, MIM",
@@ -188,21 +188,6 @@
             },
             {
                 "facility": {
-                    "name": "Baylor College of Medicine",
-                    "address": {
-                        "city": "Houston",
-                        "state": "Texas",
-                        "zip": "77030",
-                        "country": "United States"
-                    }
-                },
-                "investigator": {
-                    "last_name": "Ashok Balasubramanyam, MD",
-                    "role": "Principal Investigator"
-                }
-            },
-            {
-                "facility": {
                     "name": "Rambam Health Care Campus",
                     "address": {
                         "city": "Haifa",
@@ -234,11 +219,11 @@
             "@type": "Actual",
             "#text": "March 17, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

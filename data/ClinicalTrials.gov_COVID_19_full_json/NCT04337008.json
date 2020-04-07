@@ -1,0 +1,143 @@
+{
+    "clinical_study": {
+        "@rank": "254",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337008"
+        },
+        "id_info": {
+            "org_study_id": "2020-16",
+            "secondary_id": "2020-A00795-34",
+            "nct_id": "NCT04337008"
+        },
+        "brief_title": "Renin Angiotesnin System - CoronaVirus",
+        "acronym": "SRA-COV",
+        "official_title": "Renin Angiotesnin System - CoronaVirus",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique Hopitaux De Marseille",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Assistance Publique Hopitaux De Marseille",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The aim of the study is to demonstrate overactivation of Renin Angiotensine System (RAS) in\n      Covid + patients, especially in those with the most serious clinical forms where the\n      mortality of patients in intensive care is on average 50%.\n\n      We are expecting two groups: a group of 25 Covid + patients in intensive care and a group of\n      25 Covid + hospitalized patients in conventionnal hospitalisation. We will measure RAS, serum\n      potassium and collect data on the treatment of these patients (especially antihypertensive\n      therapy) one week apart (at the patient'entry into hospital and 7 days later).\n\n      This is a preliminary study that could possibly allow the start of a therapeutic trial in\n      order to test the effectiveness of RAS blocker treatments in this condition."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 3, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Diagnostic",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "overactivity of the renin / aldosterone system",
+            "time_frame": "7 days",
+            "description": "demostrate overactivity of RAS in patients hospitalised in intensive car secondary to COVID-19 compared to control patients (COVID -19 hospitalsed patients without complications ).\ndemostrate overactivity of RAS in patients hospitalised in intensive car secondary to COVID-19 compared to control patients (COVID -19 hospitalsed patients without complications ).\nDemomstrate overactivity of RAS in patients hospitalised in intensive car secondary to COVID-19 compared to control patients (COVID -19 hospitalsed patients without complications )."
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": "COVID 19",
+        "arm_group": [
+            {
+                "arm_group_label": "covid + patient with no respiratory distress",
+                "arm_group_type": "Active Comparator"
+            },
+            {
+                "arm_group_label": "covid + patient with respiratory distress",
+                "arm_group_type": "Experimental"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "blood draw",
+            "description": "20 mL blood draw will be performed at J1 et J7",
+            "arm_group_label": [
+                "covid + patient with no respiratory distress",
+                "covid + patient with respiratory distress"
+            ]
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Covid + Patients hospitalized in conventionnal hospitalisation Patients hospitalized in\n        intensive care secondary to COVID-19 : Patient under invasive mechanical ventilation\n\n          -  PaO2 / FiO2 ratio <300\n\n          -  PEEP> = 5 cmH20\n\n          -  PCR SARS-CoV-2 positive in a pharyngeal or respiratory sample\n\n          -  PaO2 / FiO2 ratio> 300\n\n        Exclusion Criteria:\n\n        Minor patient Patient deprived of liberty Patient's refusal to participate in the study\n        Patient for whom therapeutic limitation measures such as non-admission to intensive care\n        have been issued"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Emilie Garrido-Pradalie",
+            "role": "Study Director",
+            "affiliation": "ASSISTANCE PUBLIQUE H\u00d4PITAUX de MARSEILLE"
+        },
+        "overall_contact": {
+            "last_name": "Fran\u00e7ois Silhol, MD",
+            "email": "francois.silhol@ap-hm.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "ASSISTANCE PUBLIQUE H\u00d6PITAUX de MARSEILLE",
+                "address": {
+                    "city": "Marseille",
+                    "zip": "13005",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Francois Silhol, MD",
+                "email": "francois.silhol@ap-hm.fr"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

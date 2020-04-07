@@ -1,0 +1,83 @@
+{
+    "clinical_study": {
+        "@rank": "78",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337359"
+        },
+        "id_info": {
+            "org_study_id": "CINC424A2001M",
+            "nct_id": "NCT04337359"
+        },
+        "brief_title": "Ruxolitinib Managed Access Program (MAP) for Patients Diagnosed With Severe/Very Severe COVID-19 Illness",
+        "official_title": "Ruxolitinib Managed Access Program (MAP) for Patients Diagnosed With Severe/Very Severe COVID-19 Illness",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Novartis",
+        "brief_summary": {
+            "textblock": "The purpose of this Cohort Treatment Plan is to allow access to ruxolitinib for eligible\n      patients diagnosed with severe/very severe COVID-19 illness. The patient's Treating Physician\n      should follow the suggested treatment guidelines and comply with all local health authority\n      regulations.\n\n      The requesting Treating Physician submitted a request for access to drug (often referred to\n      as Compassionate Use) to Novartis which was reviewed and approved by the medical team\n      experienced with the drug and indication.\n\n      Please refer to the latest Investigator's Brochure (IB) or approved label for overview of\n      ruxolitinib including: non-clinical and clinical experience, risk and benefits. Novartis will\n      continue to provide any new safety information to the Treating Physician as they emerge."
+        },
+        "overall_status": "Available",
+        "study_type": "Expanded Access",
+        "has_expanded_access": "No",
+        "expanded_access_info": {
+            "expanded_access_type_intermediate": "Yes"
+        },
+        "condition": "Severe/Very Severe COVID-19 Illness",
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Ruxolitinib",
+            "description": "5 mg. Tablet",
+            "other_name": "Jakavi"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Patients eligible for inclusion in this Treatment Plan have to meet all of the following\n        criteria:\n\n        Written patient informed consent or assent must be obtained prior to start of treatment.\n\n          -  Patients aged \u2265 6 years\n\n          -  Patients clinically diagnosed with SARS-CoV-2 infection, either through positive serum\n             antibodies (IgM or IgG); or by PCR; or by other approved diagnostic methodology.\n             Patients with presumptive diagnosis of COVID-19 (other respiratory causes ruled out\n             and SARS-CoV-2 test pending) may be included.\n\n          -  Adult and adolescent patients (\u226512years), who meet one of the below criteria\n\n               -  Respiratory frequency \u2265 30/min\n\n               -  Oxygen saturation \u2264 93% on room air (FiO2=0.21)\n\n               -  Arterial oxygen partial pressure (PaO2)/ fraction of inspired oxygen (FiO2)\n                  <300mmHg(1mmHg=0.133kPa) (corrective formulation should be used for higher\n                  altitude regions (over 1000m).\n\n        AND\n\n        -- Patients with lung imaging showing pulmonary infiltrates (chest X-ray or CT scan)\n\n        Pediatric patients (\u22656-<12 years) who meet one of the below criteria (where appropriate):\n\n          -  Shortness of breath\n\n          -  Oxygen saturation <92% on room air (Fi)2=0.21)\n\n          -  Labored breathing (e.g. wheezing, flaring of nostrils, three concave sign), cyanosis,\n             intermittent apnea.\n\n          -  Lethargy or convulsions\n\n          -  Refusal to eat or difficulty with feeding; signs of dehydration\n\n        Exclusion Criteria:\n\n          -  Patients eligible for this Treatment Plan must not meet any of the following criteria:\n\n          -  History of hypersensitivity to any drugs or metabolites of similar chemical classes as\n             ruxolitinib\n\n          -  Presence of severely impaired renal function defined by serum creatinine > 2 mg/dL\n             (>176.8 \u03bcmol/L), or have estimated creatinine clearance < 30 ml/min measured or\n             calculated by Cockroft Gault equation or calculated by the updated bedside Schwartz\n             equation.\n\n          -  Pregnant or nursing (lactating) women.\n\n          -  Patients who are NOT able to understand and to comply with treatment instructions and\n             requirements unless health care proxy is able to provide consent."
+            },
+            "gender": "All",
+            "minimum_age": "6 Years",
+            "maximum_age": "N/A"
+        },
+        "overall_official": {
+            "last_name": "Novartis Pharmaceuticals",
+            "role": "Study Director",
+            "affiliation": "Novartis Pharmaceuticals"
+        },
+        "overall_contact": {
+            "last_name": "Novartis Pharmaceuticals",
+            "phone": "41613241111",
+            "email": "novartis.email@novartis.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Novartis Pharmaeuticals"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Corona Virus",
+            "Pneumonia",
+            "Virus",
+            "Covid-19",
+            "Covid"
+        ]
+    }
+}

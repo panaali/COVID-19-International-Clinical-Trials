@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "185",
+        "@rank": "206",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04316949"
         },
@@ -52,7 +52,7 @@
         "primary_outcome": {
             "measure": "Respiratory failure",
             "time_frame": "14 days",
-            "description": "Composite of ICU admission or SpO2<92% with 100% FiO2 of oxygen treatment (reservoir mask or CPAP or NIV), respiratory rate >25 bpm, respiratory distress"
+            "description": "Composite of ICU admission or SpO2<92% with 100% FiO2 of oxygen treatment (reservoir mask or CPAP or NIV), respiratory rate >30 bpm, respiratory distress"
         },
         "secondary_outcome": {
             "measure": "Occurence of bacterial superinfection",
@@ -107,18 +107,18 @@
         "location_countries": {
             "country": "Italy"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 19, 2020",
         "study_first_submitted_qc": "March 19, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 20, 2020"
         },
-        "last_update_submitted": "March 25, 2020",
-        "last_update_submitted_qc": "March 25, 2020",
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 27, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

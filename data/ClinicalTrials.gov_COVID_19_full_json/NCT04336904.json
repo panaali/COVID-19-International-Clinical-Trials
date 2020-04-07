@@ -1,0 +1,186 @@
+{
+    "clinical_study": {
+        "@rank": "2",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336904"
+        },
+        "id_info": {
+            "org_study_id": "HS216C17-PHASE III",
+            "nct_id": "NCT04336904"
+        },
+        "brief_title": "Clinical Study To Evaluate The Performance And Safety Of Favipiravir in COVID-19",
+        "official_title": "A Multi-center, Randomized, Double-blind, Placebo-controlled, Phase III Clinical Study Evaluating the Efficacy and Safety of Favipiravir in the Treatment of Patients With COVID-19-Moderate Type",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Giuliano Rizzardini",
+                "agency_class": "Other"
+            }
+        },
+        "source": "ASST Fatebenefratelli Sacco",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study evaluates treatment with Favipiravir combined with supportive care for adult\n      patients with COVID-19-moderate type."
+        },
+        "detailed_description": {
+            "textblock": "This is a double-blind, placebo controlled, multicenter study that evaluates the performance\n      and safety of the Favipiravir combined with supportive care for adult patients with\n      COVID-19-moderate type."
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 25, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "This is a multi-center, randomized, double-blind, placebo-controlled (1:1) clinical study to explore the efficacy and safety of Favipiravir in the treatment of adult subjects with COVID-19-moderate type.\nSubjects within 10 days of COVID-19 onset will be screened, and be randomized as early as possible within 24 hours following screen success.\nIt is planned to randomize 100 subjects in an 1:1 ratio. Subjects in the test group will receive supportive care recommended in the current guidelines+Favipiravir, and subjects in the control group will receive supportive care recommended in the current guidelines+placebo control; the efficacy and safety of Favipiravir versus the placebo in the treatment of COVID-19-moderate type will be compared.",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Care Provider)"
+        },
+        "primary_outcome": {
+            "measure": "Time from randomization to clinical recovery",
+            "time_frame": "90 days",
+            "description": "The duration from start of treatment (Favipiravir or placebo) to normalization of pyrexia, respiratory rate and SPO2 and relief of cough (where there are relevant abnormal symptoms at enrolment) that is maintained for at least 72h."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time from randomization to negativity in RT-PCR nucleic acid test",
+                "time_frame": "28 days",
+                "description": "1. Time from randomization to negativity in RT-PCR nucleic acid test for 2019-nCov within 28 days of randomization;"
+            },
+            {
+                "measure": "Incidence of deterioration/aggravation of pneumonia",
+                "time_frame": "28 days",
+                "description": "Incidence of deterioration/aggravation of pneumonia (defined as SPO2\u226493% or PaO2/FiO2 \u2264300 mmHg or distressed RR\u226530/min without oxygen inhalation and requiring oxygen therapy or more advanced breath support) within 28 days of randomization;"
+            },
+            {
+                "measure": "Time from randomization to resolution of pyrexia",
+                "time_frame": "28 days",
+                "description": "Time from randomization to resolution of pyrexia (defined the same as for the primary efficacy variable; applicable to subjects with pyrexia at enrolment) within 28 days of randomization;"
+            },
+            {
+                "measure": "Time from randomization to relief of cough",
+                "time_frame": "28 days",
+                "description": "Time from randomization to relief of cough (defined the same as for the primary efficacy variable; applicable to subjects with cough at enrolment) within 28 days of randomization;\nIt is recommended that the severity of cough be graded as per NCI-CTCAE v5.0:\nMild: Requires non-prescription treatment;\nModerate: Requires medication treatment; limits instrumental activities of daily living;\nSevere: Limits self-care activities of daily living"
+            },
+            {
+                "measure": "Time from randomization to relief of dyspnoea",
+                "time_frame": "28 days",
+                "description": "Time from randomization to relief of dyspnoea (defined as subject-perceived improvement or resolution of dyspnoea; applicable to subjects with dyspnoea at enrolment) within 28 days of randomization;"
+            },
+            {
+                "measure": "Rate of auxiliary oxygen therapy",
+                "time_frame": "28 days",
+                "description": "6. Rate of auxiliary oxygen therapy or non-invasive ventilation within 28 days of randomization"
+            },
+            {
+                "measure": "ICU admission rate",
+                "time_frame": "28 days",
+                "description": "ICU admission rate within 28 days of randomization"
+            },
+            {
+                "measure": "Mortality",
+                "time_frame": "28 days",
+                "description": "All-cause mortality within 28 days of randomization"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Favipiravir",
+                "arm_group_type": "Experimental",
+                "description": "Experimental: Favipiravir Dosage and method of administration: Day 1: 1800mg, BID; Day 2 and thereafter: 600mg, TID, for a maximum of 14 days.\nWhere the subject has experienced an adverse event related to liver injury of grade\u22653 (NCI CTCAE v5.0), the dose is to be reduced to 600mg BID. It is at the discretion of the investigator whether or not to perform dose reduction based on how the subject is benefiting from study treatment. The subject should be discontinued from treatment if he/she re-experiences any adverse event related to liver injury of grade\u22653 after dose reduction."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Comparator: Placebo Dosage and method of administration: Day 1: 1800mg, BID; Day 2 and thereafter: 600mg, TID, for a maximum of 14 days.\nWhere the subject has experienced an adverse event related to liver injury of grade\u22653 (NCI CTCAE v5.0), the dose is to be reduced to 600mg BID. It is at the discretion of the investigator whether or not to perform dose reduction based on how the subject is benefiting from study treatment. The subject should be discontinued from treatment if he/she re-experiences any adverse event related to liver injury of grade\u22653 after dose reduction"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Favipiravir",
+                "description": "Dosage and method of administration: Day 1: 1800mg, BID; Day 2 and thereafter: 600mg, TID, for a maximum of 14 days.\nWhere the subject has experienced an adverse event related to liver injury of grade\u22653 (NCI CTCAE v5.0), the dose is to be reduced to 600mg BID. It is at the discretion of the investigator whether or not to perform dose reduction based on how the subject is benefiting from study treatment. The subject should be discontinued from treatment if he/she re-experiences any adverse event related to liver injury of grade\u22653 after dose reduction",
+                "arm_group_label": "Favipiravir"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "Dosage and method of administration: Day 1: 1800mg, BID; Day 2 and thereafter: 600mg, TID, for a maximum of 14 days.\nWhere the subject has experienced an adverse event related to liver injury of grade\u22653 (NCI CTCAE v5.0), the dose is to be reduced to 600mg BID. It is at the discretion of the investigator whether or not to perform dose reduction based on how the subject is benefiting from study treatment. The subject should be discontinued from treatment if he/she re-experiences any adverse event related to liver injury of grade\u22653 after dose reduction",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Voluntarily participating in the clinical study; fully understanding and being fully\n             informed of the study and having signed the Informed Consent Form (ICF); willingness\n             and capability to complete all the study procedures;\n\n          2. Age 18-75 years (inclusive) at the time of signing ICF;\n\n          3. Being confirmed with COVID-19-Moderate type according to Competent Authority and\n             Italian Ministry of Health guidelines and to the recommendations reported in Appendix\n             1 to the present protocol. Based on comprehensive analysis and judgement taking into\n             account both the epidemiological history and clinical manifestations, the diagnosis is\n             to be confirmed for suspected cases/clinically diagnosed cases with all of the\n             following etiological evidences:\n\n               -  Positivity in RT-PCR 2019-nCov test on respiratory tract specimens;\n\n               -  High homology with known gene sequence of 2019-nCov in viral gene sequencing on\n                  respiratory tract specimens; Note: The above criterion would be subject to any\n                  update of the Competent Authority and Italian Ministry of Health guidelines and\n                  to the recommendations reported in Appendix 1 to the present protocol. In case\n                  any new etiologically detection methods/criteria or any new detectable specimens\n                  become available after confirmed diagnosis, the new methods or new specimens may\n                  or may not be used at the discretion of the investigator.\n\n             Note: Sputum specimen is preferred for RT-PCR test of 2019-nCov nucleic acid; the\n             specific type of respiratory tract specimen (e.g., nasopharyngeal swabs, sputum, lower\n             respiratory tract secretions) is to be selected based on the conditions of the local\n             laboratory.\n\n             The type of specimen and detection method for 2019-nCov should remain consistent for\n             the same subject receiving study treatment.\n\n          4. Chest imaging (CT as first option or X-ray if CT not possible)-documented pneumonia;\n             if CT cannot be performed, Pneumonia confirmed by X-ray may be used. The method of\n             chest imaging pneumonia diagnosis must be consistent all through the study period.\n\n          5. Patients with pyrexia (axillary \u226537\u2103 or oral \u226537.5\u2103, or axillary or rectal\u226538\u2103) or\n             either respiratory rate >24/min and <30/min or cough; For not hospitalized patients,\n             the Investigator should maintain the detection method consistent all through the study\n             period. In addition, the Investigator should maintain the data collection and quality\n             compliant with GCP requirements.\n\n          6. The interval between symptoms onset and randomization is no more than 10 days;\n             symptoms onset is primarily based on pyrexia, and can be based on cough or other\n             related symptoms for patients without experiencing pyrexia following onset;\n\n          7. For female subjects: evidence of post-menopause, or, for pre-menopause subjects,\n             negative pre-treatment serum or urine pregnancy test. Menopause is defined as\n             amenorrhea for at least 12 months without other medical cause, with the following\n             age-specific requirements:\n\n               -  For female subjects aged <50 years: menopause for at least 12 months following\n                  withdrawal of exogenous hormonal therapy, with LH or FSH within the\n                  post-menopausal ranges, or having undergone any contraceptive surgery (bilateral\n                  oophorectomy or hysterectomy);\n\n               -  For female subjects aged \u226550 years: menopause for at least 12 months following\n                  withdrawal of exogenous hormonal therapy, or having undergone\n                  radiotherapy-induced oophorectomy with amenorrhea>1 year, or having undergone\n                  chemotherapy-induced menopause with amenorrhea>1 year, or having undergone any\n                  contraceptive surgery (bilateral oophorectomy or hysterectomy).\n\n          8. Eligible subjects of child-bearing age (male or female) must agree to take effective\n             contraceptive measures (including hormonal contraception, barrier methods or\n             abstinence) with his/her partner during the study period and for at least 7 days\n             following the last study treatment;\n\n          9. Not participating in any other interventional drug clinical studies before completion\n             of the present study.\n\n        Exclusion Criteria:\n\n          1. Where, in the opinion of the investigator, participation in this study will not be in\n             the best interest of the subject, or any other circumstances that prevent the subject\n             from participating in the study safely;\n\n          2. Refractory nausea, vomiting, or chronic gastrointestinal disorders, inability to\n             swallow the study drug or having undergone extensive bowel resection which may affect\n             adequate absorption of Favipiravir;\n\n          3. Severe liver disease: underlying liver cirrhosis or alanine aminotransferase\n             (ALT)/aspartate aminotransferase (AST) elevated over 5 times the ULN;\n\n          4. Gout/history of gout or hyperuricemia (above the ULN);\n\n          5. Oxygen saturation (SPO2)\u226493% or arterial oxygen partial pressure (PaO2)/ fraction of\n             inspired O2 (FiO2)\u2264300 mmHg;\n\n          6. Known allergy or hypersensitivity to Favipiravir;\n\n          7. Known severe renal impairment [creatinine clearance (CcCl) <30 mL/min] or having\n             received continuous renal replacement therapy, hemodialysis or peritoneal dialysis;\n             CcCl is to be calculated by the following Cockcroft-Gault formula only when the serum\n             creatinine is\uff1e1.5\u00d7ULN\n\n          8. Possibility of the subject being transferred to a non-study hospital within 72h;\n\n          9. Pregnant or lactating women;\n\n         10. Having used Favipiravir or participated in any other interventional drug clinical\n             study within 30 days prior to first dose of study drug.\n\n        Note: Considering that COVID-19 requires immediate treatment, absence of severe\n        hepatic/renal disorders (e.g., cirrhosis, long-term dialysis) in the medical record can be\n        used as an evidence for eligibility determination. It is recommended that hepatic function\n        and creatinine be examined whenever possible."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Giuliano Rizzardini, Md",
+            "role": "Principal Investigator",
+            "affiliation": "ASST Fatebenefratelli Sacco"
+        },
+        "location": {
+            "facility": {
+                "name": "Asst Fatebenefratelli Sacco",
+                "address": {
+                    "city": "Milano",
+                    "zip": "20157",
+                    "country": "Italy"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "ASST Fatebenefratelli Sacco",
+            "investigator_full_name": "Giuliano Rizzardini",
+            "investigator_title": "Doctor"
+        },
+        "keyword": "COVID-19",
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

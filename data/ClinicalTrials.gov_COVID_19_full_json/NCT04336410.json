@@ -1,0 +1,208 @@
+{
+    "clinical_study": {
+        "@rank": "348",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336410"
+        },
+        "id_info": {
+            "org_study_id": "COVID19-001",
+            "nct_id": "NCT04336410"
+        },
+        "brief_title": "Safety, Tolerability and Immunogenicity of INO-4800 in Healthy Volunteers",
+        "official_title": "Phase 1 Open-label Study to Evaluate the Safety, Tolerability and Immunogenicity of INO-4800 for a Novel Coronavirus (COVID-19) in Healthy Volunteers",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Inovio Pharmaceuticals",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "Coalition for Epidemic Preparedness Innovations (CEPI)",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Inovio Pharmaceuticals",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "Yes",
+            "is_unapproved_device": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This is an open-label trial to evaluate the safety, tolerability and immunological profile of\n      INO-4800 administered by intradermal (ID) injection followed by electroporation (EP) using\n      CELLECTRA\u00ae 2000 device in healthy adult volunteers."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 2020"
+        },
+        "phase": "Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Sequential Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Percentage of Participants with Adverse Events (AEs)",
+                "time_frame": "Baseline up to Week 28"
+            },
+            {
+                "measure": "Percentage of Participants with Administration (Injection) Site Reactions",
+                "time_frame": "Day 0 up to Week 28"
+            },
+            {
+                "measure": "Percentage of Participants with Adverse Events of Special Interest (AESIs)",
+                "time_frame": "Baseline up to Week 28"
+            },
+            {
+                "measure": "Change from Baseline in Antigen-Specific Binding Antibody Titers",
+                "time_frame": "Baseline up to Week 28"
+            },
+            {
+                "measure": "Change from Baseline in Antigen-Specific Interferon-Gamma (IFN-\u03b3) Cellular Immune Response",
+                "time_frame": "Baseline up to Week 28"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "40"
+        },
+        "condition": "Coronavirus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Group 1: INO-4800",
+                "arm_group_type": "Experimental",
+                "description": "Participants will receive one ID injection of 1.0 milligram (mg) of INO-4800 followed by EP using the CELLECTRA\u00ae 2000 device per dosing visit."
+            },
+            {
+                "arm_group_label": "Group 2: INO-4800",
+                "arm_group_type": "Experimental",
+                "description": "Participants will receive two ID injections of 1.0 mg (total 2.0 mg per dosing visit) of INO-4800 followed by EP using the CELLECTRA\u00ae 2000 device per dosing visit."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "INO-4800",
+                "description": "INO-4800 will be administered ID on Day 0 and Week 4.",
+                "arm_group_label": [
+                    "Group 1: INO-4800",
+                    "Group 2: INO-4800"
+                ]
+            },
+            {
+                "intervention_type": "Device",
+                "intervention_name": "CELLECTRA\u00ae 2000",
+                "description": "EP using the CELLECTRA\u00ae 2000 device will be administered following ID delivery of INO-4800 on Day 0 and Week 4.",
+                "arm_group_label": [
+                    "Group 1: INO-4800",
+                    "Group 2: INO-4800"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Judged to be healthy by the Investigator on the basis of medical history, physical\n             examination and vital signs performed at screening.\n\n          -  Able and willing to comply with all study procedures.\n\n          -  Screening laboratory results within normal limits or deemed not clinically significant\n             by the Investigator.\n\n          -  Negative serological tests for Hepatitis B surface antigen (HBsAg), Hepatitis C\n             antibody and Human Immunodeficiency Virus (HIV) antibody screening.\n\n          -  Screening electrocardiogram (ECG) deemed by the Investigator as having no clinically\n             significant findings (e.g. Wolff-Parkinson-White syndrome).\n\n          -  Use of medically effective contraception with a failure rate of < 1% per year when\n             used consistently and correctly from screening until 3 months following last dose, be\n             post-menopausal, be surgically sterile or have a partner who is sterile.\n\n        Exclusion Criteria:\n\n          -  Pregnant or breastfeeding, or intending to become pregnant or father children within\n             the projected duration of the trial from screening until 3 months following last dose.\n\n          -  Is currently participating in or has participated in a study with an investigational\n             product within 30 days preceding Day 0.\n\n          -  Previous exposure to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) or\n             receipt of an investigational vaccine product for the prevention of COVID-19, middle\n             east respiratory syndrome (MERS) or severe acute respiratory syndrome (SARS).\n\n          -  Current or history of the following medical conditions:\n\n               -  Respiratory diseases\n\n               -  Hypertension\n\n               -  Malignancy within 5 years of screening\n\n               -  Cardiovascular diseases\n\n          -  Immunosuppression as a result of underlying illness or treatment including:\n\n               -  Primary immunodeficiencies\n\n               -  Long term use (\u22657 days) of oral or parenteral glucocorticoids\n\n               -  Current or anticipated use of disease-modifying doses of anti-rheumatic drugs\n                  (and biologic disease-modifying drugs\n\n               -  History of solid organ or bone marrow transplantation\n\n               -  Prior history of other clinically significant immunosuppressive or clinically\n                  diagnosed autoimmune disease\n\n          -  Fewer than two acceptable sites are available for intradermal (ID) injection and\n             electroporation (EP) considering the deltoid and anterolateral quadriceps muscles.\n\n          -  Any physical examination findings and/or history of any illness that, in the opinion\n             of the study investigator, might confound the results of the study or pose an\n             additional risk to the patient by their participation in the study."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "50 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "ShuPing Yang, MD, PhD",
+            "role": "Study Director",
+            "affiliation": "Inovio Pharmaceuticals"
+        },
+        "overall_contact": {
+            "last_name": "Inovio Call Center",
+            "phone": "(267) 440-4237",
+            "email": "clinical.trials@inovio.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Center for Pharmaceutical Research",
+                    "address": {
+                        "city": "Kansas City",
+                        "state": "Missouri",
+                        "zip": "64114",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Program Manager Barbara Bradshaw",
+                    "email": "clinicaltrialsKC@amrllc.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "University of Pennsylvania",
+                    "address": {
+                        "city": "Philadelphia",
+                        "state": "Pennsylvania",
+                        "zip": "19104",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Program Manager Eileen Donaghy",
+                    "email": "eileen.donaghy2@pennmedicine.upenn.edu"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "DNA vaccine",
+            "Electroporation"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "Data dictionaries and all collected IPD will be stripped of identifiers and may be made available upon request.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Informed Consent Form (ICF)"
+            ],
+            "ipd_time_frame": "Anonymous IPD may be shared following or during the publication of summary data. Archival data may be accessed for up to 10 years following the end of the study.",
+            "ipd_access_criteria": "Those who request the anonymous IPD must provide a plan of study explaining how the data will be used. Requests may be sent to the Central Contact Person. Requests will be reviewed based on the potential for the planned use of the IPD for advancing scientific knowledge and theory."
+        }
+    }
+}

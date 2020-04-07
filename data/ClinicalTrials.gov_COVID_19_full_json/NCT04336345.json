@@ -1,0 +1,181 @@
+{
+    "clinical_study": {
+        "@rank": "126",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336345"
+        },
+        "id_info": {
+            "org_study_id": "TEI-3336-20-20-1",
+            "nct_id": "NCT04336345"
+        },
+        "brief_title": "Outcomes of Patients With COVID-19 in the Intensive Care Unit",
+        "acronym": "MexCOVID-19",
+        "official_title": "Outcomes of Patients With COVID-19 in the Intensive Care Unit: A National Observational Study (Mexico COVID-19 ICU Study)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The objective of this study is to evaluate the clinical characteristics and outcomes of\n      critically ill patients with COVID-19 admitted to the intensive care unit.\n\n      A Multicenter Observational Study."
+        },
+        "detailed_description": {
+            "textblock": "As of 23 March 2020, a cumulative total of 332,930 confirmed cases of coronavirus disease\n      2019 (COVID-19) were reported in 189 countries and territories worldwide. As of this time,\n      there had been 367 total confirmed cases of COVID-19, including four deaths in Mexico. The\n      clinical manifestations of patients with COVID-19 are wide, asymptomatic infection, mild\n      upper respiratory tract illness, and approximately 5% of critically ill patients with\n      COVID-19 have presented rapidly progressive respiratory failure, development of acute\n      respiratory distress syndrome (ARDS), and intensive care unit (ICU) admission. On March 24,\n      2020, the Secretary of Health of Mexico, formally declared the beginning of phase 2. It has\n      been estimated that many confirmed cases of COVID-19 would occur, thus would result in a\n      significant increase of hospital and ICU admissions."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Cross-Sectional"
+        },
+        "target_duration": "1 Month",
+        "primary_outcome": {
+            "measure": "Hospital mortality",
+            "time_frame": "30 days",
+            "description": "Mortality 30 days following hospital admission"
+        },
+        "secondary_outcome": {
+            "measure": "Length of stay in the intensive care unit",
+            "time_frame": "Through study completion, an average of 30 days",
+            "description": "The number of calendar days from the day of admission (counted as 1 day) to day of intensive care unit discharge"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "150"
+        },
+        "condition": [
+            "Coronavirus Infections",
+            "COVID-19",
+            "Viral Pneumonia Human Coronavirus"
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Critically ill patients aged over 18 years with a positive for SARS-CoV-2 result required\n        admission to an intensive care unit or critical care in other areas of the hospital\n        (critical care surge capacity)."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Confirmed case: Critically ill patient who meets the operational definition of a\n             suspected case and who has a confirmed diagnosis by the National Network of Public\n             Health Laboratories recognized by the Institute of Epidemiological Diagnosis and\n             Reference (Indre) (Mexico).\n\n        Exclusion Criteria:\n\n          -  If a negative for SARS-CoV-2 result is obtained from a critically ill patient with a\n             high index of suspicion for COVID-19 virus infection.\n\n          -  Patients who had participated in another observational study in the last 30 days prior\n             to inclusion."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Silvio A. \u00d1amendys-Silva, MD, MSc",
+                "role": "Principal Investigator",
+                "affiliation": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran"
+            },
+            {
+                "last_name": "Guillermo Dominguez-Cherit, MD",
+                "role": "Study Director",
+                "affiliation": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran"
+            },
+            {
+                "last_name": "Eduardo Rivero-Sigarroa, MD",
+                "role": "Study Chair",
+                "affiliation": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Silvio A. \u00d1amendys-Silva, MD, MSc",
+            "phone": "+52 55 54870900",
+            "phone_ext": "5046",
+            "email": "snamendys@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Guillermo Dominguez-Cherit, MD",
+            "phone": "+52 55 54870900",
+            "phone_ext": "5020",
+            "email": "g.dominguez.cherit@gmail.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Instituto Nacional de Ciencias M\u00e9dicas y Nutrici\u00f3n Salvador Zubir\u00e1n",
+                    "address": {
+                        "city": "Mexico City",
+                        "zip": "14000",
+                        "country": "Mexico"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "All centres from Mexico willing to contribute are Welcome.",
+                    "address": {
+                        "city": "Mexico",
+                        "country": "Mexico"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Mexico"
+        },
+        "link": {
+            "url": "https://criticalcaremexico.com.mx/en-gb",
+            "description": "Links to websites related to the study"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran",
+            "investigator_full_name": "Silvio A. \u00d1amendys-Silva",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": [
+            "Intensive care unit",
+            "Critical care",
+            "Outcomes",
+            "Epidemiology"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Pneumonia, Viral",
+                "Pneumonia"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "All IPD that underlie could results in a publication."
+        }
+    }
+}
