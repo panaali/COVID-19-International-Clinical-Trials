@@ -1,0 +1,157 @@
+{
+    "clinical_study": {
+        "@rank": "98",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336774"
+        },
+        "id_info": {
+            "org_study_id": "pro00105212",
+            "nct_id": "NCT04336774"
+        },
+        "brief_title": "CAPTION AI to Minimize Risk of COVID Exposure",
+        "acronym": "CAPTION AI",
+        "official_title": "Use of Caption AI to Perform a Clinically Indicated Transthoracic Echocardiogram in Patients Being Evaluated for or Positive for COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Duke University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Caption Health, Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Duke University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "Yes",
+            "is_unapproved_device": "Yes",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "Participants scheduled for for an echocardiogram (echo) and being evaluated for, or is\n      positive for COVID-19 will be asked if they would be willing to have their echo done using a\n      new software program on one of the hand-held ultrasound scanners.\n\n      The new software program guides the investigator, or any other non-sonographer, to take the\n      best possible pictures of the participants heart. The prior version of this software is\n      already being used clinically and is FDA approved. The main reason for using the updated\n      version is that it's faster and better in terms of guiding the user."
+        },
+        "detailed_description": {
+            "textblock": "To enable healthcare professionals that are not proficient in transthoracic echo (TTE) to\n      acquire images in patients being evaluated for or positive for COVID-19. By leveraging the\n      capabilities of the Caption AI which is designed to train novice users on how to acquire TTE,\n      this would minimize the risk of sonographers to be exposed to COVID-19. Additionally,\n      minimizing sonographer interaction with patients being evaluated for or positive for COVID 19\n      minimizes the risk of sonographers as vectors for transmission to other patients. Lastly,\n      since the Caption AI device will be dedicated to the COVID wards and COVID ICU and not\n      transported to other locations, use of the CAPTION AI device will help to limit viral\n      transmission via the surfaces of the ultrasound machine. These images will be assessed by\n      qualified medical professionals for diagnosis."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 9, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 1, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Diagnostic",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Percent of patient echos that are not interpretable",
+                "time_frame": "Up to 1 hour",
+                "description": "Images obtained through the point of care AI machine will be uploaded to the cardiology PACS system and read. If the images are felt to be not interpretable, the echo lab will send a sonographer with a regular echo machine to the patient's room to perform the study."
+            },
+            {
+                "measure": "Percent of patient echos that provide an automated (AI) LVEF (left ventricular ejection fraction)",
+                "time_frame": "Up to 1 hour",
+                "description": "There need to be enough images taken of sufficient quality to allow for calculation of an automated LVEF by the AI algorithm"
+            },
+            {
+                "measure": "Time to acquire images as measured by time stamps",
+                "time_frame": "up to 1 hour"
+            }
+        ],
+        "secondary_outcome": {
+            "measure": "Percent of agreement between AI calculate LVEF and LVEF read by physician",
+            "time_frame": "Up to 24 hours"
+        },
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "Echocardiogram patients",
+            "arm_group_type": "Experimental",
+            "description": "Patients scheduled to have an echocardiogram (echo) and who are also being evaluated for, or are positive for COVID-19."
+        },
+        "intervention": {
+            "intervention_type": "Device",
+            "intervention_name": "Caption AI",
+            "description": "Software program that guides the investigator or any other non-sonographer to take the best possible pictures of the heart.",
+            "arm_group_label": "Echocardiogram patients"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients who consent to participating in the study or Physician discretion that\n             information to be gained is important to the patient\n\n          -  Patients \u226518 years old\n\n        Exclusion Criteria:\n\n          -  Unable to lie flat for study\n\n          -  Patients unwilling to give consent"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Sreekanth Vemulapallli, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Duke University"
+        },
+        "overall_contact": {
+            "last_name": "Kristine Arges, BSN",
+            "phone": "919-668-0927",
+            "email": "kristine.arges@duke.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Duke University Medical Center",
+                "address": {
+                    "city": "Durham",
+                    "state": "North Carolina",
+                    "zip": "27710",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "Kristine Arges, BSN",
+                "phone": "919-668-0927",
+                "email": "kristine.arges@duke.edu"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "Echocardiogram",
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

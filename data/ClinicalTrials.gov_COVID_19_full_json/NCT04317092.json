@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "17",
+        "@rank": "21",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04317092"
         },
@@ -30,7 +30,7 @@
             "textblock": "This study project includes a single-arm phase 2 study and a parallel observational cohort\n      study, enrolling patients with COVID-19 pneumonia."
         },
         "detailed_description": {
-            "textblock": "Phase 2 study: this is a multicenter, single-arm, open-label, phase 2 study. All the patients\n      enrolled are treated with tocilizumab. One-month mortality rate is the primary endpoint.\n\n      Observational cohort study: patients who are not eligible for the phase 2 study because: (a)\n      emergency conditions or infrastructural or operational limits prevented registration before\n      the administration of the experimental drug or (b) they had been intubated more than 48 hours\n      before registration. The same information planned for the phase 2 cohort is in principle\n      required also for the observational cohort study. The sample size of the observational study\n      is not defined a priori and the cohort will close at the end of the overall project.\n\n      In both study groups (phase 2 and observational study), participants will receive two doses\n      of Tocilizumab 8 mg/kg (up to a maximum of 800mg per dose), with an interval of 12 hours."
+            "textblock": "Phase 2 study: this is a multicenter, single-arm, open-label, phase 2 study. All the patients\n      enrolled are treated with tocilizumab. One-month mortality rate is the primary endpoint.\n\n      Observational cohort: patients who are treated with tocilizumab and cannot enter the phase 2\n      study because:\n\n        1. emergency conditions or infrastructural or operational limits prevented registration\n           before the administration of the experimental drug or\n\n        2. they had been intubated more than 24 hours before registration or\n\n        3. the phase 2 study has been closed due to reached sample size.\n\n      This means that, after closure of the phase 2 enrolment, patients who might be eligible for\n      the phase 2 study will be included in the observational cohort study.\n\n      The same information planned for the phase 2 cohort is in principle required also for the\n      observational cohort study. The sample size of the observational study is not defined a\n      priori, and the cohort will close at the end of the overall project. All the patients\n      enrolled are treated with tocilizumab.\n\n      In both study groups (phase 2 and observational study), participants will receive two doses\n      of Tocilizumab 8 mg/kg (up to a maximum of 800mg per dose), with an interval of 12 hours."
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -124,7 +124,7 @@
         "number_of_arms": "1",
         "enrollment": {
             "@type": "Anticipated",
-            "#text": "330"
+            "#text": "400"
         },
         "condition": "COVID-19 Pneumonia",
         "arm_group": {
@@ -140,7 +140,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          1. Any gender\n\n          2. No age limit\n\n          3. Informed consent for participation in the study\n\n          4. Virological diagnosis of Sars-CoV2 infection (PCR)\n\n          5. Hospitalized due to clinical/instrumental diagnosis of pneumonia\n\n          6. Oxygen saturation at rest in ambient air \u226493% (valid for not intubated patients and\n             for both phase 2 and observational cohort)\n\n          7. Intubated less than 24 hours before registration (eligible for phase 2 only -\n             criterium #6 does not apply in this case)\n\n          8. Intubated more than 24 hours before registration (eligible for observational cohort\n             only - criterium #6 does not apply in this case)\n\n          9. Patients already treated with tocilizumab before registration are eligible for\n             observational cohort only if one criterium among #6, #7, #8 is valid\n\n        Exclusion Criteria:\n\n          1. Known hypersensitivity to tocilizumab or its excipients\n\n          2. Patient being treated with immunomodulators or anti-rejection drugs\n\n          3. Known active infections or other clinical condition that controindicate tocilizumab\n             and cannot be treated or solved according to the judgement of the clinician\n\n          4. ALT / AST> 5 times the upper limit of the normality\n\n          5. Neutrophils <500 / mmc\n\n          6. Platelets <50.000 / mmc\n\n          7. Bowel diverticulitis or perforation"
+                "textblock": "Inclusion Criteria:\n\n          1. Any gender\n\n          2. No age limit\n\n          3. Informed consent for participation in the study (consent can be oral if a written\n             consent cannot be expressed. If the subject is incapable of giving an informed consent\n             and an authorized representative is not available without a delay that would, in the\n             opinion of the Investigator, compromise the potential life-saving effect of the\n             treatment this can be administered without consent. Consent to remain in the research\n             should be sought as soon the conditions of the patient will allow it)\n\n          4. Virological diagnosis of SARS-CoV-2 infection (real-time PCR)\n\n          5. Hospitalized due to clinical/instrumental diagnosis of pneumonia\n\n          6. Oxygen saturation at rest in ambient air \u226493% or requiring oxygen therapy or\n             mechanical ventilation either non invasive or invasive (intubated)\n\n          7. Patients with criteria #4 and #5 who have been already treated with tocilizumab before\n             registration are eligible for the observational retrospective cohort\n\n        Exclusion Criteria:\n\n          1. Known hypersensitivity to tocilizumab or its excipients\n\n          2. Known active infections or other clinical condition that contraindicate tocilizumab\n             and cannot be treated or solved according to the judgement of the clinician\n\n          3. ALT / AST> 5 times the upper limit of the normality\n\n          4. Neutrophils <500 / mmc\n\n          5. Platelets <50.000 / mmc\n\n          6. Bowel diverticulitis or perforation"
             },
             "gender": "All",
             "minimum_age": "N/A",
@@ -700,11 +700,11 @@
             "@type": "Actual",
             "#text": "March 20, 2020"
         },
-        "last_update_submitted": "March 19, 2020",
-        "last_update_submitted_qc": "March 19, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 20, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

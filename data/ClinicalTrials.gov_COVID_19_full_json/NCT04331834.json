@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "47",
+        "@rank": "51",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04331834"
         },
@@ -38,9 +38,9 @@
         "brief_summary": {
             "textblock": "The investigators aim to evaluate the efficacy of pre-exposure prophylaxis with\n      hydroxychloroquine in healthcare workers with high-risk of SARS-CoV-2 infection."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
+            "@type": "Actual",
             "#text": "April 3, 2020"
         },
         "completion_date": {
@@ -145,6 +145,17 @@
                     "zip": "08036",
                     "country": "Spain"
                 }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Jose F Mu\u00f1oz Guti\u00e9rrez, MD, PhD",
+                "phone": "608774071",
+                "email": "jose.munoz@isglobal.org"
+            },
+            "contact_backup": {
+                "last_name": "Marc Fern\u00e1ndez Pardos, MSc",
+                "phone": "618868720",
+                "email": "marc.fernandez@isglobal.org"
             }
         },
         "location_countries": {
@@ -157,11 +168,11 @@
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

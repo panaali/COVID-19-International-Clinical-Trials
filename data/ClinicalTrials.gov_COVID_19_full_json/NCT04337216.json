@@ -1,0 +1,155 @@
+{
+    "clinical_study": {
+        "@rank": "52",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337216"
+        },
+        "id_info": {
+            "org_study_id": "HM20019145",
+            "nct_id": "NCT04337216"
+        },
+        "brief_title": "Mavrilimumab to Reduce Progression of Acute Respiratory Failure in Patients With Severe COVID-19 Pneumonia and Systemic Hyper-inflammation",
+        "official_title": "Mavrilimumab to Reduce Progression of Acute Respiratory Failure in Patients With Severe COVID-19 Pneumonia and Systemic Hyper-inflammation",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Virginia Commonwealth University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Virginia Commonwealth University",
+        "oversight_info": {
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The primary endpoint of this study is to assess the effects of a single IV dose of\n      mavrilimumab on the acute inflammatory response in patients with severe COVID-19 pneumonia"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Time to resolution of fever",
+            "time_frame": "Up to 28 days",
+            "description": "Body temperature will be measured in celsius"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Change in clinical status",
+                "time_frame": "Baseline to up to 28 days",
+                "description": "Clinical status will be assessed using 6-category scale: 1. Not hospitalized, 2. Hospitalized, no supplemental oxygen, 3. Hospitalized, on supplemental oxygen, 4. Hospitalized, requiring nasal high-flow oxygen or non-invasive ventilation, 5. Hospitalized, requiring ECMO, invasive mechanical ventilation or both, 6. Death."
+            },
+            {
+                "measure": "Mortality",
+                "time_frame": "28 days",
+                "description": "Number of deaths during 28 day follow-up period"
+            },
+            {
+                "measure": "Change in CRP",
+                "time_frame": "Baseline to up to 28 days or discharge",
+                "description": "Change in CRP levels"
+            },
+            {
+                "measure": "Change in IL-6",
+                "time_frame": "Baseline to up to 28 days or discharge",
+                "description": "Change in IL-6 levels"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "Mavrilimumab",
+            "arm_group_type": "Experimental"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Mavrilimumab",
+            "description": "single IV dose of mavrilimumab",
+            "arm_group_label": "Mavrilimumab"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Documented COVID19 pneumonia (positive SARS-CoV2 test, bilateral abnormalities/\n             infiltrates on chest x-ray or computed tomography, active fever or documented fever\n             within 24-48 or ongoing anti-pyretic use to suppress fever).\n\n          -  Hypoxia (room air SpO2 <92% or requirement for supplemental oxygen).\n\n          -  Increased serum inflammatory markers (CRP > 5 mg/dl AND LDH >upper limit of normal for\n             local laboratory).\n\n        Exclusion Criteria:\n\n          -  Onset of COVID-19 >14 days\n\n          -  Hospitalized >7 days\n\n          -  Mechanically ventilated\n\n          -  Age <18 years-old\n\n          -  Neutropenia (absolute neutrophil count <1,500/mm3)\n\n          -  Serious concomitant illness which in the opinion of the investigator precludes the\n             patient from enrolling in the trial, including (but not limited to):\n\n               -  History of immunodeficiency (congenital or acquired)\n\n               -  History of solid-organ or bone marrow transplant\n\n               -  History of current systemic autoimmune or autoinflammatory disease(s) requiring\n                  systemic immune-modulating drugs\n\n               -  History of myeloproliferative disorder or active malignancy receiving cytotoxic\n                  chemotherapy\n\n               -  Pre-existing severe pulmonary disease (i.e. asthma, COPD, or others)\n\n               -  Pre-existing severe left ventricular systolic dysfunction (i.e. LVEF <35%)\n\n               -  Known active tuberculosis (TB) or history of incompletely treated TB or at high\n                  risk for latent TB (for exposure or prior incarceration)\n\n               -  Concomitant systemic bacterial or fungal infection\n\n               -  Concomitant viral infection other than COVD-19 (e.g. influenza)\n\n               -  History of chronic liver disease with portal hypertension\n\n               -  History of end-stage renal disease on chronic renal replacement therapy\n\n          -  Recent treatment with cell-depleting biological therapies (e.g., anti-CD20) within 12\n             months noncell-depleting biological therapies (such as anti-tumor necrosis\n             factor-alpha [TNF-alpha], anakinra, anti-Interleukin [IL]-6 receptor [e.g.\n             tocilizumab], or abatacept) within 8 weeks (or 5 half-lives, whichever is longer),\n             treatment with alkylating agents within 12 weeks, treatment with cyclosporine A,\n             azathioprine, cyclophosphamide, or mycophenolate mofetil (MMF) within 4 weeks\n\n          -  Recent treatment with intramuscular live (attenuated) vaccine within the 4 weeks\n\n          -  Chronic or recent corticosteroid use\n\n          -  Pregnancy or lactation or newborn\n\n          -  Enrolled in another investigational study using immunosuppressive therapy\n\n          -  Enrolled in a blinded clinical trial of any type\n\n          -  Known hypersensitivity to Mavrilimumab or any of its excipients\n\n          -  In the opinion of the investigator, unable to comply with the requirements to\n             participate in the study"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Antonio Abbate, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Virginia Commonwealth University"
+        },
+        "location": {
+            "facility": {
+                "name": "Virginia Commonwealth University",
+                "address": {
+                    "city": "Richmond",
+                    "state": "Virginia",
+                    "zip": "23298",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Pneumonia",
+                "Respiratory Insufficiency",
+                "Inflammation"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Mavrilimumab",
+                "Antibodies, Monoclonal"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "101",
+        "@rank": "112",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04324190"
         },
@@ -33,12 +33,12 @@
             "textblock": "The COVID-19 pandemic leads to a greatly increased risk of substantial psychological stress\n      worldwide. We intend to evaluate an online support program aiming at reducing stress in the\n      context of the COVID-19 pandemic. The program consists of twelve modules that participants\n      undergo, covering a broad range of topics related to stress in the context of the COVID-19\n      pandemic. It has been developed together with and is provided by Selfapy GmbH, Berlin. The\n      aim of this randomised clinical trial with observational components is to estimate the\n      effects of the intervention as a whole, as well as individual modules and selected chapters.\n      Further, follow-up assessments as well as information on risks and the long-term course of\n      COVID pandemic-related stress may help to elucidate COVID-19 pandemic stress across time and\n      what we can do to prevent long-term negative consequences."
         },
         "detailed_description": {
-            "textblock": "The overall aim of this randomised trial with observational component is to estimate the\n      effects of a guided digital online support program to increase mental health and reduce\n      psychosocial stress in the context of the COVID-19 pandemic. More specifically, the main\n      hypothesis is to estimate whether the improvement in mental health is stronger during the\n      first two weeks of applying the online support program as compared to a two weeks waiting\n      condition (with provision of WHO information on 'coping with stress during the 2019-nCoV'\n      outbreak only). Furthermore, our aim is to estimate changes in the outcomes along taking part\n      in the program.\n\n      Additional research questions are:\n\n        -  to compare the intervention effects across modules and chapters of the online support\n           program, including between module comparison with an unspecific, control (comparator)\n           module: \"general information on the corona virus\" and its unspecific chapters;\n\n        -  to estimate the effects of selected modules on additional outcomes (e.g. physical\n           activity, and schooling related factors);\n\n        -  to describe the magnitude and course of psychosocial stress, mental health and related\n           factors in the context of the COVID-19 pandemic;\n\n        -  to estimate and predict which subjects profit most from specific parts of the program.\n\n      Follow-up assessment shall allow estimating whether the program prevents the development of\n      detrimental mental health conditions, e.g. depression, anxiety, etc."
+            "textblock": "The overall aim of this randomised trial with observational component is to estimate the\n      effects of a guided digital online support program to increase mental health and reduce\n      psychosocial stress in the context of the COVID-19 pandemic. More specifically, the main\n      hypothesis is to estimate whether the improvement in mental health is stronger during the\n      first two weeks of applying the online support program as compared to a two weeks waiting\n      condition (with provision of WHO information on 'coping with stress during the 2019-nCoV'\n      outbreak only). Furthermore, our aim is to estimate changes in the outcomes along taking part\n      in the program.\n\n      Additional research questions are:\n\n        -  to compare the intervention effects across modules and chapters of the online support\n           program, including between module comparison with an unspecific, control (comparator)\n           module: \"general information on the corona virus\" and its unspecific chapters;\n\n        -  to estimate the effects of selected modules on additional outcomes (e.g. physical\n           activity, and schooling related factors);\n\n        -  to describe the magnitude and course of psychosocial stress, mental health and related\n           factors in the context of the COVID-19 pandemic;\n\n        -  to estimate and predict which subjects profit most from specific parts of the program.\n\n      Follow-up assessment shall include estimating whether the program prevents the development of\n      detrimental mental health conditions, e.g. depression, anxiety, etc.\n\n      In order to make first study results available as early as possible, we intend to conduct\n      quick complete analyses (primary outcome and relevant parts of secondary/other outcomes):\n      These analyses will be conducted with data including subjects from the first 4 weeks of\n      recruitment, given that a sample size of at least 300 for the online support program arm and\n      a sample size of at least 300 for the waiting condition is reached; or if not yet reached\n      after 4 weeks of recruitment, as soon as a sample size of at least 300 for the online support\n      program arm and a sample size of at least 300 for the waiting condition is reached. However,\n      we intend to continue recruiting beyond this point in time and sample size (until the\n      COVID-19 pandemic situation has come to an end, i.e., vaccination is broadly available), to\n      allow further, also more detailed analyses at a later point in time, resulting in more\n      precise estimates."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "March 2020"
+            "#text": "April 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -46,7 +46,7 @@
         },
         "primary_completion_date": {
             "@type": "Anticipated",
-            "#text": "June 2021"
+            "#text": "June 2020"
         },
         "phase": "N/A",
         "study_type": "Interventional",
@@ -66,34 +66,66 @@
         },
         "secondary_outcome": [
             {
+                "measure": "Short-Form-36 (SF-36) Health Survey - Mental Health Component Summary score",
+                "time_frame": "T2 (T1+2 weeks) (arm 2 only), T3 (T1+4 weeks), T4 (T1+12 weeks), follow ups: T1+ 6 months, T1+12 months",
+                "description": "mental health related quality of life"
+            },
+            {
                 "measure": "Chronic stress items (9 items)",
-                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4weeks, T1+12weeks, follow ups: T1+ 6 months; T1+12 months",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T2 (T1+2 weeks), T3 (T1+4 weeks), T4 (T1+12 weeks), follow ups: T1+ 6 months, T1+12 months",
                 "description": "Assessing chronic stress (Petrowski et al., 2019)"
             },
             {
                 "measure": "Generalized Anxiety Disorder Scale (GAD-7)",
-                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4weeks, T1+12weeks, follow ups: T1+ 6 months; T1+12 months",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T2 (T1+2 weeks), T3 (T1+4 weeks), T4 (T1+12 weeks), follow ups: T1+ 6 months, T1+12 months",
                 "description": "Assessing anxiety symptoms (L\u00f6we et al., 2008)"
             },
             {
                 "measure": "Patient Health Questionnaire (PHQ8)",
-                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4weeks, T1+12weeks, follow ups: T1+ 6 months; T1+12 months",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T2 (T1+2 weeks), T3 (T1+4 weeks), T4 (T1+12 weeks), follow ups: T1+ 6 months, T1+12 months",
                 "description": "Assessing depressive symptoms (Kroenke et al., 2001)"
             },
             {
                 "measure": "Somatic Symptom Disorder (SSD-12)",
-                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4weeks, T1+12weeks, follow ups: T1+ 6 months; T1+12 months",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T2 (T1+2 weeks), T3 (T1+4 weeks), T4 (T1+12 weeks), follow ups: T1+ 6 months, T1+12 months",
                 "description": "Assessing depressive symptoms (Toussaint et al., 2019)"
             },
             {
                 "measure": "Somatic Symptom Scale (SSS-8)",
-                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4weeks, T1+12weeks, follow ups: T1+ 6 months; T1+12 months",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T2 (T1+2 weeks), T3 (T1+4 weeks), T4 (T1+12 weeks), follow ups: T1+ 6 months, T1+12 months",
                 "description": "Assessing somatic symptoms (Gierk et al., 2015)"
             },
             {
+                "measure": "Allgemeine Selbstwirksamkeit Kurzskala (ASKU)",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T2 (T1+2 weeks), T3 (T1+4 weeks), T4 (T1+12 weeks), follow ups: T1+ 6 months, T1+12 months",
+                "description": "competence expectations to deal with difficulties and obstacles in daily life (Beierlein et al., 2014)"
+            },
+            {
                 "measure": "Screening Tool for Psychological Distress (STOP-D) - selected items",
-                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4weeks, T1+12weeks, follow ups: T1+ 6 months; T1+12 months",
-                "description": "stress, anxiety, depression, social support - single item assessments to be applied repeatedly along the online support intervention (Young, Ignaszewski, Fofonoff, Kaan; 2007)"
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4 weeks, T1+12 weeks, follow ups: T1+ 6 months, T1+12 months; before & after each module of the online intervention",
+                "description": "stress, anxiety, depression, social support - single item assessments to be applied repeatedly along the online support intervention (Young, Ignaszewski, Fofonoff, Kaan; 2007), including stress of children and anticipation"
+            }
+        ],
+        "other_outcome": [
+            {
+                "measure": "Physical activity",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4 weeks, T1+12 weeks, follow ups: T1+ 6 months, T1+12 months; before & after sports and physical activity module; at baseline: before COVID-19 pandemic",
+                "description": "Vigorous, moderate, and walking activity (minutes/day)"
+            },
+            {
+                "measure": "Home-schooling",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4 weeks, T1+12 weeks, follow ups: T1+ 6 months, T1+12 months; before & after sports and physical activity module; at baseline: before COVID-19 pandemic",
+                "description": "Questions related to home-schooling related stress & learning"
+            },
+            {
+                "measure": "Information related to COVID-19 and SARS-CoV-2",
+                "time_frame": "baseline before waiting (T0, arm 2 only); baseline before online support (day 1, T1), T1+2 weeks, T1+4 weeks, T1+12 weeks, follow ups: T1+ 6 months, T1+12 months; before & after the sports and physical activity module of the online intervention",
+                "description": "Questions related to COVID-19 and SARS-CoV-2 symptoms, disease, and testing, anxiety, stressors"
+            },
+            {
+                "measure": "Unintended effects",
+                "time_frame": "only after undergoing online support program: T1+2 weeks, T1+4 weeks, T1+12 weeks, follow ups: T1+ 6 months, T1+12 months",
+                "description": "Unintended effects of online support program"
             }
         ],
         "number_of_arms": "2",
@@ -110,10 +142,10 @@
             {
                 "arm_group_label": "Online support program",
                 "arm_group_type": "Experimental",
-                "description": "Guided Online support program, consisting of 12 modules (structured in chapters) aiming at reduce stress related to the COVID-19 pandemic."
+                "description": "Guided online support program, consisting of modules (structured in chapters) aiming at reduce stress related to the COVID-19 pandemic."
             },
             {
-                "arm_group_label": "waiting period (WHO recommendation)",
+                "arm_group_label": "Waiting period (WHO recommendation)",
                 "arm_group_type": "Active Comparator",
                 "description": "Waiting period (2 weeks duration) during which subjects are provided with the WHO recommendations \"Coping with stress during the 2019 nCoV outbreak\". Following the 2 weeks waiting period, subjects are provided with the guided online support program outlined in the arm 'online support program'"
             }
@@ -125,7 +157,7 @@
                 "description": "Guided online support program consisting of several modules; Module \"General information ...\" is an unspecific control module (providing general information on hygiene etc. with no expected effect on outcomes)",
                 "arm_group_label": [
                     "Online support program",
-                    "waiting period (WHO recommendation)"
+                    "Waiting period (WHO recommendation)"
                 ],
                 "other_name": [
                     "online intervention",
@@ -136,12 +168,12 @@
                 "intervention_type": "Behavioral",
                 "intervention_name": "WHO recommendations (waiting condition)",
                 "description": "During the waiting period, a german translation of the WHO recommendations \"Coping with stress during the 2019-nCoV outbreak\" is provided",
-                "arm_group_label": "waiting period (WHO recommendation)"
+                "arm_group_label": "Waiting period (WHO recommendation)"
             }
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion criteria:\n\n          -  Sufficient German language skills to participate in the assessments.\n\n          -  Providing informed consent for participation"
+                "textblock": "Inclusion criteria, general:\n\n          -  Sufficient German language skills to participate in the assessments.\n\n          -  Providing informed consent for participation.\n\n        Inclusion criteria for the arms \"online support program\" and \"waiting condition...\":\n\n        - Having signed up for the online support program provided by selfapy GmbH, Berlin, Germany\n        (www.selfapy.de/corona) aiming at reducing burden in the context of the COVID-19 pandemic."
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -173,18 +205,18 @@
         "location_countries": {
             "country": "Germany"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 26, 2020",
         "study_first_submitted_qc": "March 26, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 27, 2020"
         },
-        "last_update_submitted": "March 26, 2020",
-        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 27, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

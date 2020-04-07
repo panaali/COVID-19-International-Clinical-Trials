@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "109",
+        "@rank": "120",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04333953"
         },
@@ -129,6 +129,16 @@
         "location_countries": {
             "country": "United States"
         },
+        "link": [
+            {
+                "url": "https://showmeportal.missouri.edu/redcap/surveys/?s=MX49KJFEYN",
+                "description": "Link to data entry"
+            },
+            {
+                "url": "https://drive.google.com/drive/folders/1qi9I8-JpCYzpOhe9C3cvdEBwpVDcTZGU?usp=sharing",
+                "description": "Further information about the study"
+            }
+        ],
         "verification_date": "April 2020",
         "study_first_submitted": "March 31, 2020",
         "study_first_submitted_qc": "April 1, 2020",
@@ -136,11 +146,11 @@
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 4, 2020",
+        "last_update_submitted_qc": "April 4, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

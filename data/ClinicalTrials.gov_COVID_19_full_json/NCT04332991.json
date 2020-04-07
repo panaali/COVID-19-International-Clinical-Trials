@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "152",
+        "@rank": "169",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04332991"
         },
@@ -35,10 +35,10 @@
         "detailed_description": {
             "textblock": "Effective therapies for COVID-19 are urgently needed. Hydroxychloroquine is an antimicrobial\n      agent with immunomodulatory and antiviral properties that has demonstrated in vitro activity\n      against SARS-CoV-2, the virus that causes COVID-19. Preliminary reports suggest potential\n      efficacy in small human studies. Clinical trial data are needed to determine whether\n      hydroxychloroquine is effective in treating COVID-19.\n\n      Study Aim: To compare the effect of hydroxychloroquine versus placebo on clinical outcomes,\n      measured using the COVID Ordinal Outcomes Scale at Day 15, among adults with COVID-19\n      requiring hospitalization.\n\n      Study Hypothesis: Among adults hospitalized with COVID-19, administration of\n      hydroxychloroquine will improve clinical outcomes at Day 15.\n\n      ."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 2020"
+            "@type": "Actual",
+            "#text": "April 2, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -243,7 +243,8 @@
                         "zip": "85721",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -254,7 +255,8 @@
                         "zip": "93701",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -265,7 +267,8 @@
                         "zip": "90048",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -276,7 +279,8 @@
                         "zip": "90095",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -287,7 +291,8 @@
                         "zip": "95817",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -298,7 +303,8 @@
                         "zip": "94143",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -309,7 +315,8 @@
                         "zip": "94305",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -320,7 +327,8 @@
                         "zip": "80045",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -331,7 +339,8 @@
                         "zip": "80045",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -342,7 +351,8 @@
                         "zip": "80204",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -353,7 +363,8 @@
                         "zip": "80218",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -364,7 +375,8 @@
                         "zip": "32608",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -375,7 +387,8 @@
                         "zip": "40506",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -386,7 +399,8 @@
                         "zip": "70112",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -397,7 +411,8 @@
                         "zip": "04102",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -408,7 +423,8 @@
                         "zip": "02114",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -419,7 +435,8 @@
                         "zip": "02115",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -430,7 +447,8 @@
                         "zip": "01199",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -441,7 +459,8 @@
                         "zip": "01608",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -452,7 +471,8 @@
                         "zip": "48109",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -463,7 +483,8 @@
                         "zip": "48025",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -474,7 +495,8 @@
                         "zip": "55415",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -485,7 +507,8 @@
                         "zip": "39216",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -496,7 +519,8 @@
                         "zip": "10461",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -507,7 +531,8 @@
                         "zip": "10467",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -518,7 +543,8 @@
                         "zip": "10029",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -529,7 +555,8 @@
                         "zip": "27514",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -540,7 +567,8 @@
                         "zip": "27157",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -551,7 +579,8 @@
                         "zip": "45219",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -562,7 +591,8 @@
                         "zip": "44195",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -573,7 +603,8 @@
                         "zip": "43210",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -584,7 +615,8 @@
                         "zip": "97239",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -595,7 +627,8 @@
                         "zip": "17033",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -606,7 +639,8 @@
                         "zip": "19140",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -617,7 +651,8 @@
                         "zip": "15261",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -628,7 +663,8 @@
                         "zip": "29425",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -639,7 +675,8 @@
                         "zip": "37221",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Recruiting"
             },
             {
                 "facility": {
@@ -650,7 +687,8 @@
                         "zip": "77030",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -661,7 +699,8 @@
                         "zip": "84107",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -672,7 +711,8 @@
                         "zip": "84132",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -683,7 +723,8 @@
                         "zip": "22903",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -694,7 +735,8 @@
                         "zip": "23298",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -705,7 +747,8 @@
                         "zip": "98104",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             },
             {
                 "facility": {
@@ -716,7 +759,8 @@
                         "zip": "98122",
                         "country": "United States"
                     }
-                }
+                },
+                "status": "Not yet recruiting"
             }
         ],
         "location_countries": {
@@ -726,18 +770,18 @@
             "url": "http://petalnet.org",
             "description": "Website for the PETAL Network"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 31, 2020",
         "study_first_submitted_qc": "March 31, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "March 31, 2020",
-        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

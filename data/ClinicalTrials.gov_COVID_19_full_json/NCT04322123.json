@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "281",
+        "@rank": "308",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04322123"
         },
@@ -39,14 +39,14 @@
         },
         "source": "Hospital do Coracao",
         "oversight_info": {
-            "has_dmc": "No",
+            "has_dmc": "Yes",
             "is_fda_regulated_drug": "No",
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
             "textblock": "Coronavirus (COVID-19) is a somewhat new and recognized infectious disease that is now\n      spreading to several countries in the world, including Brazil. Hydroxychloroquine and\n      azythromycin may be useful for treating those patients.\n\n      COALITION I study aims to compared standard of care, hydroxychloroquine plus azythromycin and\n      hydroxychloroquine monotherapy for treatment of hospitalized patients with COVID-19.\n\n      COALITION I will recruit 630 patients with infection by COVID-19 (210 per arm). Ordinal\n      endpoint of status at 15 days will be the primary endpoint."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
             "@type": "Anticipated",
             "#text": "April 6, 2020"
@@ -113,8 +113,18 @@
                 "measure": "Acute renal disfunction",
                 "time_frame": "15 days after randomization",
                 "description": "Occurrence of renal dysfunction, defined as an increase in creatinine above 1.5 times the baseline value"
+            },
+            {
+                "measure": "Presence of virus at day 10 in subset of 180 patients",
+                "time_frame": "10 days after randomization",
+                "description": "Positive PCR for Sars-Cov-2 at 10 days after enrollment"
             }
         ],
+        "other_outcome": {
+            "measure": "Safety outcome on QTc",
+            "time_frame": "At day 3 and 7 after enrollment",
+            "description": "QTc interval value"
+        },
         "number_of_arms": "3",
         "enrollment": {
             "@type": "Anticipated",
@@ -162,16 +172,11 @@
             "healthy_volunteers": "No"
         },
         "overall_official": {
-            "last_name": "Fernando Zampieri, PhD",
+            "last_name": "Alexandre Biasi, PhD",
             "role": "Principal Investigator",
             "affiliation": "Hospital do Cora\u00e7\u00e3o"
         },
         "overall_contact": {
-            "last_name": "Fernando Zampieri, PhD",
-            "phone": "+55 11 97093-1539",
-            "email": "fzampieri@hcor.com.br"
-        },
-        "overall_contact_backup": {
             "last_name": "Alexandre Biasi, PhD",
             "phone": "+55 11 99882-9343",
             "email": "abiasi@hcor.com.br"
@@ -186,6 +191,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "L\u00facio Oliveira Junior",
                     "email": "luciocouto@hotmail.com"
@@ -200,6 +206,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Marco Antonio Guedes"
                 }
@@ -213,6 +220,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Miqueias Silva"
                 }
@@ -226,6 +234,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Jos\u00e9 Andrade Neto"
                 }
@@ -239,6 +248,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Rodrigo Biondi",
                     "email": "rodrigobiondi.md@gmail.com ;"
@@ -253,6 +263,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Rodrigo Biondi",
                     "email": "rodrigobiondi.md@gmail.com ;"
@@ -267,6 +278,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Rodrigo Cruvinel"
                 }
@@ -280,6 +292,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Hugo Urbano"
                 }
@@ -293,6 +306,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Jorge Luiz Paranhos"
                 }
@@ -306,6 +320,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Cintia Grion"
                 }
@@ -319,6 +334,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Cassia Righy"
                 }
@@ -332,6 +348,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Emerson Silva"
                 }
@@ -345,6 +362,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Thiago Lisboa"
                 }
@@ -358,6 +376,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Eraldo Lucio"
                 }
@@ -371,6 +390,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Felipe Dal Pizzol"
                 }
@@ -384,6 +404,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Israel Maia",
                     "email": "israels.maia@gmail.com"
@@ -398,6 +419,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Israel Maia, PhD",
                     "email": "israels.maia@gmail.com ;"
@@ -412,6 +434,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Glauco Westphal"
                 }
@@ -425,35 +448,9 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Cristina Amendola"
-                }
-            },
-            {
-                "facility": {
-                    "name": "Faculdade de Medicina de S\u00e3o Jos\u00e9 do Rio Preto",
-                    "address": {
-                        "city": "S\u00e3o Jos\u00e9 do Rio Preto",
-                        "state": "SP",
-                        "country": "Brazil"
-                    }
-                },
-                "contact": {
-                    "last_name": "Neymar Oliveira"
-                }
-            },
-            {
-                "facility": {
-                    "name": "AC Camargo Cancer Center - Funda\u00e7\u00e3o Antonio Prudente",
-                    "address": {
-                        "city": "S\u00e3o Paulo",
-                        "state": "SP",
-                        "country": "Brazil"
-                    }
-                },
-                "contact": {
-                    "last_name": "Ant\u00f4nio Paulo Nassar",
-                    "email": "paulo_nassar@yahoo.com.br"
                 }
             },
             {
@@ -465,6 +462,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Luiz Dalfior Junior"
                 }
@@ -478,6 +476,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Otavio Berwanger"
                 }
@@ -491,6 +490,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Viviane Veiga",
                     "email": "dveiga@uol.com.br;"
@@ -505,22 +505,9 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Fernando Ramos"
-                }
-            },
-            {
-                "facility": {
-                    "name": "Hospital da Luz - Amico Sa\u00fade LTDA",
-                    "address": {
-                        "city": "S\u00e3o Paulo",
-                        "state": "SP",
-                        "country": "Brazil"
-                    }
-                },
-                "contact": {
-                    "last_name": "F\u00e1bio Lacerda",
-                    "email": "lacerdafh@gmail.com;"
                 }
             },
             {
@@ -532,6 +519,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Niklas Soderberg"
                 }
@@ -545,6 +533,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Jo\u00e3o Manoel Silva Junior"
                 }
@@ -558,6 +547,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Flavia Machado",
                     "email": "frmachado@unifesp.br;"
@@ -572,6 +562,7 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Luciazo Azevedo"
                 }
@@ -585,40 +576,27 @@
                         "country": "Brazil"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Fl\u00e1vio Freitas"
-                }
-            },
-            {
-                "facility": {
-                    "name": "Hospital das Cl\u00ednicas da Faculdade de Medicina da USP - Ribeir\u00e3o Preto",
-                    "address": {
-                        "city": "Ribeir\u00e3o Preto",
-                        "state": "S\u00e3o Paulo",
-                        "country": "Brazil"
-                    }
-                },
-                "contact": {
-                    "last_name": "Wilson Jos\u00e9 Lovato, PhD",
-                    "email": "wjlovato@gmail.com;"
                 }
             }
         ],
         "location_countries": {
             "country": "Brazil"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 24, 2020",
         "study_first_submitted_qc": "March 24, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 26, 2020"
         },
-        "last_update_submitted": "March 24, 2020",
-        "last_update_submitted_qc": "March 24, 2020",
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 26, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

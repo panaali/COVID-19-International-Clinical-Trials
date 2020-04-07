@@ -1,0 +1,139 @@
+{
+    "clinical_study": {
+        "@rank": "247",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337502"
+        },
+        "id_info": {
+            "org_study_id": "UM_2020_GY_COVID-19",
+            "nct_id": "NCT04337502"
+        },
+        "brief_title": "Clinical and Radiomic Model of COVID-19",
+        "official_title": "A Clinical and Radiological Model to Predict the Prognosis for COVID-19 Patients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Maastricht University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "The Central Hospital of Wuhan",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Maastricht University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "To develop and validate a machine-learning model based on clinical, laboratory, and\n      radiological characteristics alone or combination of COVID-19 patients to facilitate risk\n      Assessment before and after symptoms and triage (home, hospitalization inward or ICU)."
+        },
+        "detailed_description": {
+            "textblock": "In December 2019, a novel coronavirus, severe acute respiratory syndrome coronavirus 2\n      (SARS-CoV-2; earlier named as 2019-nCoV), emerged in Wuhan, China. The diseases caused by\n      SARS-CoV-2 is COVID-19. As of March 8, 2020, more than 100 000 COVID-19 patients have been\n      reported globally (more than 80 000 cases in China, more than 20 000 in other countries), and\n      3 600 patients (3 100 in China, 500 outside of China) have died. The outbreak of COVID-19\n      constitutes a Public Health Emergency of International Concern.\n\n      Among COVID-19 patients, around 80% are mild (non-severe) illness patients, who usually heal\n      within two weeks. However, another 20% of patients may aggravate into a severe or critical\n      illness which results in a longer hospital stay, and the mortality rate for such patients is\n      13.4%. Therefore, inchoate identification of the high-risk severe patients is extremely\n      important for patient management and medical resource allocation. General quarantine and\n      symptomatic treatment can be used for most non-severe patients, while a higher level of care\n      and green channel to the intensive care unit (ICU) are helpful for severe patients. Previous\n      studies have summarized the clinical and radiological characteristics of severe COVID-19\n      patients, while which factors are important predictors is still unclear.\n\n      Machine learning is a branch of artificial intelligence that enables us to learn knowledge\n      and potential laws from the given data and to build a model for solving problems as human\n      needs. In recent years, machine learning has been developed as a novel tool to analyze large\n      amounts of data from medical records or images. Previous modeling studies focused on\n      forecasting the potential international spread of COVID-19.\n\n      Therefore, our purpose is to develop and validate a machine-learning model based on clinical,\n      laboratory, and radiological characteristics alone or combination of COVID-19 patients in the\n      early stage without severe illness from multiple centers for the prediction of severe (or\n      critical) illness in the following hospitalization to facilitate risk Assessment before and\n      after symptoms and triage (home, hospitalization inward or ICU)."
+        },
+        "overall_status": "Completed",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "December 23, 2019"
+        },
+        "completion_date": {
+            "@type": "Actual",
+            "#text": "March 3, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Actual",
+            "#text": "January 20, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": {
+            "measure": "Predictive performance",
+            "time_frame": "Janunary 1, 2020, to February 13, 2020",
+            "description": "AUC, accuracy, sensitivity, and specificity"
+        },
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "300"
+        },
+        "condition": [
+            "Coronavirus",
+            "Machine Learning"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "severe group",
+                "description": "The severe group was designated when the patients had one of the following criteria during hospitalization issued by the Chinese National Health Committee (Version 3-5). 1) Respiratory distress with respiratory frequency \u2265 30/min; 2) Pulse Oximeter Oxygen Saturation \u2264 93% at rest; 3) Oxygenation index (artery partial pressure of oxygen/inspired oxygen fraction, PaO2/FiO2) \u2264 300 mmHg; 4) One of the conditions as following: a) respiratory failure occurs and requires mechanical ventilation; b) Shock occurs; c) ICU admission is required for combined organ failure."
+            },
+            {
+                "arm_group_label": "non-severe group",
+                "description": "The non-severe group was designated when the patients did not occur in the mentioned severe criteria until discharged from the hospital."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "Machine learning model",
+            "description": "Machine learning, such as logistic regression, random forest, and deep learning",
+            "arm_group_label": [
+                "non-severe group",
+                "severe group"
+            ]
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "COVID-19 patients"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  confirmed COVID-19 patients by high-throughput sequencing or real-time\n             reverse-transcriptase polymerase-chain-reaction (RT-PCR) assay for nasal and\n             pharyngeal swab specimens.\n\n        Exclusion Criteria:\n\n          1. patients with severe illness when admitted;\n\n          2. time interval > 2 days between the admission and examinations;\n\n          3. absent data or delayed results"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "location": {
+            "facility": {
+                "name": "The central hospital of Wuhan",
+                "address": {
+                    "city": "Wuhan",
+                    "state": "Hubei",
+                    "country": "China"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "No share plan"
+        }
+    }
+}

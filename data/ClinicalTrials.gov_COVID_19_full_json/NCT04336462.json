@@ -1,0 +1,283 @@
+{
+    "clinical_study": {
+        "@rank": "6",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336462"
+        },
+        "id_info": {
+            "org_study_id": "JT202002LZ",
+            "nct_id": "NCT04336462"
+        },
+        "brief_title": "Hydrogen-Oxygen Generator With Nebulizer in the Improvement of Symptoms in Patients Infected With COVID-19",
+        "acronym": "COVID-19",
+        "official_title": "A Multi-center, Randomized, Parallel-Controlled Clinical Trial of the Application of A Hydrogen-Oxygen Generator With Nebulizer in the Improvement of Symptoms in Patients Infected With COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Shanghai Asclepius Meditec Inc.",
+                "agency_class": "Industry"
+            },
+            "collaborator": [
+                {
+                    "agency": "Shanghai Public Health Clinical Center",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Henan Provincial People's Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Shenzhen Third People's Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "The First People's Hospital of Yunnan",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Shanghai 6th People's Hospital",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Guangdong Provincial Hospital of Traditional Chinese Medicine",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Shanghai Asclepius Meditec Inc.",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study will evaluate the efficacy and safety of Hydrogen-Oxygen Generator with Nebulizer\n      (model AMS-H-03) developed by Shanghai Asclepius Meditech Co., Ltd. as an adjuvant therapy\n      for the patients with COVID-19 infected pneumonia in improving the clinical symptoms and\n      reducing the incidence of severe pneumonia, as compared with the reference device of EverFlo\n      Oxygen Concentrator (registration certificate No.: NMPA Registration Standard: 20162542389)\n      manufactured by Respironics, Inc. US."
+        },
+        "detailed_description": {
+            "textblock": "A multi-center, randomized, parallel-controlled clinical trial design is used in this study.\n\n      Eligible subjects will be randomized into the study group and control group in a 1:1 ratio.\n      In addition to the supportive treatments depending on the condition, the subjects in the\n      study group will inhale the mixed gas of hydrogen/oxygen (hydrogen concentration 66%, oxygen\n      concentration 33%) at a flow rate of 6 L/min every day using the Hydrogen/Oxygen Generator\n      with Nebulizer (model AMS-H-03) developed by Shanghai Asclepius Meditech Co., Ltd. during the\n      treatment, with the total use of no less than 6 hours per day, and the other combination\n      treatments will be decided by the investigator depending on the clinical needs; the subjects\n      in the control group will inhale the gas at a flow rate of 2 L/min every day using the\n      reference device of EverFlo Oxygen Concentrator (registration certificate No.: NMPA\n      Registration Standard: 20162542389) developed by Respironics, Inc. US. during the treatment,\n      with the total use of no less than 6 hours per day, and the other combination treatments will\n      be decided by the investigator depending on the clinical needs. During the treatment, the\n      peripheral blood oxygen saturation should be monitored and the oxygen concentration should be\n      increased when necessary (the peripheral oxygen saturation is less than 95% for 30 seconds\n      and other causes have been excluded). Oxygen may be supplied by other devices if the oxygen\n      concentration is sufficient for the subjects in the study group. The oxygen saturation and\n      respiratory rate will be measured at the resting state every day during the treatment, namely\n      after the end of daily treatment and 30 minutes after the inhalation of oxygen and\n      hydrogen/oxygen."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "February 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Actual",
+            "#text": "February 21, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Recovery time",
+            "time_frame": "The day from the patient's admission to the Disease Progression to critical type\uff0cup to 2 weeks.",
+            "description": "The time from the patient's admission to the Disease Progression to critical type\uff0cup to 2 weeks."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Clinical Symptom Remission time",
+                "time_frame": "The day from admission to clinical remission,up to 2 weeks.",
+                "description": "Clinical Symptom Remission was defined as: The patient's body temperature was normal for more than 72 hours (without taking antipyretics or hormones) and had no conscious dyspnea or decreased dyspnea."
+            },
+            {
+                "measure": "fever duration",
+                "time_frame": "The day from the patient's body temperature was abnormal to normal,up to 2 weeks.",
+                "description": "fever duration is the time during the patient's body temperature was abnormal\u3002"
+            },
+            {
+                "measure": "Leicester cough questionaire (LCQ)",
+                "time_frame": "The day from admission to clinical remission,up to 2 weeks.",
+                "description": "The scale consisted of 19 questions in three domains: physical, psychological and social, each with a score ranging from 1.7. Each item represented an adverse event caused by a cough. The answer was scored on a Likert 7 point scale. The higher the score, the better the health condition. The total score ranged from 7 to 21."
+            },
+            {
+                "measure": "minimum oxygen",
+                "time_frame": "The day from admission to clinical remission,up to 2 weeks.",
+                "description": "The minimum oxygen absorption flow with 95% oxygen saturation."
+            },
+            {
+                "measure": "Negative conversion rate",
+                "time_frame": "the first day to the 14th days.",
+                "description": "Negative conversion rate of novel coronavirus nucleic acid in respiratory tract specimens 14 days after enrollment."
+            },
+            {
+                "measure": "white blood cell(WBC)",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "White blood cell (WBC) is a colorless, spherical and nucleated blood cell. The total number of normal adults is (4.0-10.0) x 109 / L, which can be changed in a certain range due to different time of day and the functional state of the body."
+            },
+            {
+                "measure": "Red blood cells(RBC)",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "also known as red blood cells, are often abbreviated into RBC in Chinese and English in routine tests. They are the most numerous blood cells in the blood, and also the most important medium for transporting oxygen through the blood in vertebrates. At the same time, they also have immune functions."
+            },
+            {
+                "measure": "Hemoglobin(Hb )",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "The abbreviation of hemoglobin is HGB or Hb. Hemoglobin is a special protein that transports oxygen in red blood cells. It makes the blood red. It is composed of globin and heme. Its globin part is a tetramer composed of two different pairs of globin chains (\u03b1 chain and \u03b2 chain)."
+            },
+            {
+                "measure": "Platelets(PLT)",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "Platelets are small pieces of cytoplasm released from the cytoplasm of mature megakaryocytes in bone marrow. Although megakaryocytes are the least in the hematopoietic cells of bone marrow, accounting for only 0.05% of the total number of bone marrow nucleated cells, the platelets produced by megakaryocytes are very important for the hemostatic function of the body."
+            },
+            {
+                "measure": "Lymphocyte count",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "Lymphocyte count refers to count and calculate the percentage of different types of white blood cells."
+            },
+            {
+                "measure": "The percentage of lymphocyte",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "Lymphocyte has the function of producing and carrying antibody and preventing virus infection. The percentage of lymphocyte was determined by routine blood test, and the normal value was 20.0% - 40.0%. The percentage of lymphocyte increased mainly in infectious diseases and decreased mainly in immune deficiency diseases."
+            },
+            {
+                "measure": "neutrophils",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "The membrane of neutrophils can release an unsaturated fatty acid, arachidonic acid. Under the action of enzyme, arachidonic acid can further generate a group of paracrine hormone substances, such as thromboxane and prostaglandin, which play an obvious role in regulating the caliber and permeability of blood vessels, can also cause inflammation and pain, and affect blood coagulation."
+            },
+            {
+                "measure": "C-reactive protein (CRP)",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "C-reactive protein (CRP) is a kind of protein (acute protein) which rises sharply in the plasma when the body is infected or damaged by tissue. It can activate the complement and strengthen the phagocytosis of phagocytes, so as to play a role in regulating. It can clear away the pathogenic microorganism and the damaged, necrotic and apoptotic tissue cells."
+            },
+            {
+                "measure": "Myocardial enzyme",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "Myocardial enzyme is a general term for many enzymes existing in the heart, including aspartate aminotransferase (AST), lactate dehydrogenase (LD or LDH), creatine kinase (CK) and isoenzyme, a-hydroxybutyrate dehydrogenase (a-hbd), etc. during acute myocardial infarction, a variety of enzymes in the heart are released due to the necrosis of myocardial cells, so the determination of serum central muscle enzyme is useful for the diagnosis and evaluation of myocardial infarction There is a certain value in the effect of supposition"
+            },
+            {
+                "measure": "liver function",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "The purpose of liver function examination is to detect the liver disease, the degree of liver damage, the cause of liver disease, the prognosis and the cause of jaundice. At present, there are many kinds of clinical trials of liver function, no less than dozens. But each kind of liver function test can only detect a certain function of a certain aspect of the liver, so far, there is still no one test that can reflect all the functions of the liver."
+            },
+            {
+                "measure": "Renal function",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "Renal function refers to the function of the kidney to excrete the body's metabolic waste, maintain the stability of electrolytes such as sodium, potassium, calcium and acid-base balance. Renal function examination includes blood creatinine, blood urea nitrogen, blood and urine \u03b2 2-microglobulin, urinary albumin, urinary immunoglobulin G, urinary secretory immunoglobulin A, etc."
+            },
+            {
+                "measure": "Muscle enzyme",
+                "time_frame": "The day of admission and clinical remission,up to 2 weeks.",
+                "description": "Muscle enzyme generally refers to: phosphocreatine kinase and creatine kinase isoenzyme examination, and some glutamic oxaloacetate transaminase. It is mainly used to check common muscle diseases."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "oxyhydrogen",
+                "arm_group_type": "Experimental",
+                "description": "conventional treatment + hydrogen/ oxygen inhaled"
+            },
+            {
+                "arm_group_label": "oxygen",
+                "arm_group_type": "Experimental",
+                "description": "conventional treatment + oxygen inhaled"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Device",
+                "intervention_name": "oxyhydrogen",
+                "description": "Hydrogen-Oxygen Generator with Nebulizer Model: AMS-H-03 Gas production: 2.0 L/min, 2.5 L/min, and 3 L/min, three gears in total (in this study, the gas production of each machine is 3 L/min, two sets are connected and used together by three-way connection, and the total gas production is 6 L/min.) Manufacturer: Shanghai Asclepius Meditech Co., Ltd.",
+                "arm_group_label": "oxyhydrogen",
+                "other_name": "Hydrogen/oxygen mixed gas inhaled(proportion 2:1),3 L/min . 6 hour a day."
+            },
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Oxygen",
+                "description": "oxygen inhaled,3 L/min . 6 hour a day.",
+                "arm_group_label": "oxygen"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        All subjects participating in this clinical study must meet all of the following criteria:\n\n          1. According to the Diagnosis and Treatment Protocol for COVID-19 (Trial Version 5),\n             under the premise of meeting the diagnostic criteria of moderate COVID-19, the\n             subjects should meet one of the following three conditions:\n\n             \u2460 Respiratory rate (RR): \u2265 20 times/min;\n\n             \u2461 In the state of air absorption and rest, the peripheral oxygen saturation is lower\n             than 95%;\n\n             \u2462 Arterial partial pressure of oxygen (PaO2)/FiO2: \u2264 400 mmHg (1mmHg=0.133 kPa).\n\n          2. \u226518 years old and \u226485 years old subjects with normal autonomous judgment, regardless\n             of gender and region;\n\n          3. Subjects voluntarily participate in the study and have signed the informed consent\n             form.\n\n        Exclusion Criteria:\n\n          1. Have other significant diseases other than COVID-19, that is, a disease that,\n             according to the investigator's judgment, can cause the subject to be at risk due to\n             participation in the study, or affect the study results and the ability of the subject\n             to participate in the study.\n\n          2. Women who are pregnant or breastfeeding or plan to be pregnant during the study.\n\n          3. Subjects with one of the following respiratory diseases:\n\n               1. Asthma: Based on the investigator's judgment, the subjects are currently\n                  diagnosed with asthma.\n\n               2. Subjects with a long-term history of COPD and medication or imaging evidence of\n                  significant lung structural damage (e.g., giant pulmonary bullae).\n\n             Other respiratory diseases: Subjects with other active pulmonry diseases, such as\n             active tuberculosis, lung cancer, wet bronchiectasis (the high-resolution CT shows\n             bronchiectasis, with yellow sputum every day), sarcoidosis, idiopathic interstitial\n             pulmonary fibrosis (IPF), primary pulmonary arterial hypertension, and uncontrolled\n             sleep apnea (the severity of the disease will affect the implementation of c)the study\n             according to the investigator's judgment), complicated with pneumothorax, pleural\n             effusion, pulmonary embolism, bronchial asthma, tumor, and fever of unknown origin,\n             etc.\n\n             d)Lung volume reduction: Subjects received lung volume reduction, lobectomy, or\n             bronchoscopic lung volume reduction (endobronchial occlusion, airway bypass,\n             endobronchial valve, steam thermal ablation, biological sealant and airway implant)\n             within 6 months.\n\n             e)Subjects in critical or unstable conditions. Critical (meeting any of the following\n             symptoms): 1. Respiratory failure occurs and mechanical ventilation is needed; 2.\n             Shock occurs; 3. With other organ failure, ICU monitoring and treatment is needed.\n\n             f)Risk factors for pneumonia: immunosuppressive diseases (HIV), severe neurological\n             disease affecting upper respiratory tract control, or other risk factors that the\n             investigator believes can cause a significant risk of pneumonia in subjects.\n\n          4. Subjects with serious primary diseases of heart, liver, kidney, hematopoietic system\n             and other important organs or systems.\n\n          5. Subjects with mental disorder and cognitive impairment.\n\n          6. Subjects who do not follow the study steps.\n\n          7. Patients with doubts about the effectiveness of informed consent: Subjects with mental\n             illness, mental retardation, poor motivation, drug abuse (including drugs and alcohol)\n             or other disease history restricting the effectiveness of informed consent in this\n             study.\n\n          8. Use of non-expectorants and antioxidants, including large doses of vitamin C and\n             vitamen E.\n\n          9. Subjects who are not suitable for participation in this study in the judgment of\n             investigator."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "85 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Zhang Ze Guang, doctor",
+            "phone": "18928868242",
+            "email": "zheng862080@139.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Xin Yong Lin, master",
+            "phone": "13901754567",
+            "email": "ceo@ascleway.com"
+        },
+        "location": {
+            "facility": {
+                "name": "First Affiliated Hospital of Guangzhou Medical University",
+                "address": {
+                    "city": "Guangzhou",
+                    "state": "Guangdong",
+                    "zip": "510000",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Zheng Z Guang, doctor",
+                "phone": "86-20-83062843",
+                "email": "zheng862080@139.com"
+            },
+            "contact_backup": {
+                "last_name": "Hu J Ying, master",
+                "phone": "13544425867",
+                "email": "hujieyingjy@126.com"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "link": {
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/30227423",
+            "description": "Breathing Hydrogen-Oxygen Mixture Decreases Inspiratory Effort in Patients with Tracheal Stenosis"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 25, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "The First Affiliated Hospital of Guangzhou Medical University",
+            "investigator_full_name": "Ze-guang Zheng",
+            "investigator_title": "Chief physician"
+        },
+        "keyword": [
+            "Hydrogen-Oxygen Generator with Neburlizer",
+            "COVID-19"
+        ]
+    }
+}

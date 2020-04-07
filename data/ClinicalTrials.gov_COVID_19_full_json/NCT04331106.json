@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "299",
+        "@rank": "216",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04331106"
         },
@@ -52,59 +52,59 @@
         },
         "primary_outcome": [
             {
-                "measure": "Characteristics of SARS-CoV-19-related anxiety",
+                "measure": "Characteristics of SARS-CoV-2-related anxiety",
                 "time_frame": "1 day",
-                "description": "To investigate specific fears regarding the SARS-CoV-19 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome."
+                "description": "To investigate specific fears regarding the SARS-CoV-2 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome."
             },
             {
-                "measure": "SARS-CoV-19-related anxiety symptoms",
+                "measure": "SARS-CoV-2-related anxiety symptoms",
                 "time_frame": "1 day",
-                "description": "Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to SARS-CoV-19."
+                "description": "Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to SARS-CoV-2."
             }
         ],
         "secondary_outcome": [
             {
-                "measure": "Self-efficacy and coping with SARS-CoV-19",
-                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
-                "description": "Self-efficacy and coping with the SARS-CoV-19-pandemic are measured with 13 self created items. Values ranging from 1 to 6; higher scores indicate a better outcome (except inverted items)."
+                "measure": "Self-efficacy and coping with SARS-CoV-2",
+                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
+                "description": "Self-efficacy and coping with the SARS-CoV-2 pandemic are measured with 13 self created items. Values ranging from 1 to 6; higher scores indicate a better outcome (except inverted items)."
             },
             {
-                "measure": "Consequences of SARS-CoV-19 in the last three weeks.",
-                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
-                "description": "Personal consequences of the SARS-CoV-19-pandemic in the last three weeks are collected with five self-created items."
+                "measure": "Consequences of SARS-CoV-2 in the last three weeks.",
+                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
+                "description": "Personal consequences of the SARS-CoV-2 pandemic in the last three weeks are collected with five self-created items."
             },
             {
                 "measure": "General Illness Attitude",
-                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
+                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
                 "description": "General illness attitudes are measured with 3 subscales (Worry about illness; Thanatophobia; Bodily preoccupations) of the German version of the Illness Attitude Scales (IAS) by Hiller & Rief (2004). 9 Items; values ranging from 1 to 5, higher scores indicate a worse outcome."
             },
             {
                 "measure": "Media reporting",
-                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
-                "description": "Frequency, effects and formats of consumed media related to SARS-CoV-19 are measured with 5 self created items."
+                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
+                "description": "Frequency, effects and formats of consumed media related to SARS-CoV-2 are measured with 5 self created items."
             },
             {
                 "measure": "Ultra-brief screening scale for anxiety and depression",
-                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
+                "time_frame": "1 day + every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
                 "description": "To screen for general anxiety and depressive symptoms the German version of the Patient Health Questionnaire-4 (PHQ-4) by L\u00f6we (2015) is used. 4 items; values ranging from 0 to 3, higher scores indicate a worse outcome."
             },
             {
-                "measure": "Change in characteristics of SARS-CoV-19-related anxiety",
-                "time_frame": "Every 3 weeks as long as the SARS-CoV-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
-                "description": "To investigate specific fears regarding the SARS-CoV-19 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome."
+                "measure": "Change in characteristics of SARS-CoV-2-related anxiety",
+                "time_frame": "Every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
+                "description": "To investigate specific fears regarding the SARS-CoV-2 pandemic 9 self created items are used. Values ranging from 1 to 6, higher scores indicate a worse outcome."
             },
             {
-                "measure": "Change in SARS-CoV-19-related anxiety symptoms",
-                "time_frame": "Every 3 weeks as long as the SARS-CoV-19 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
-                "description": "Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to SARS-CoV-19."
+                "measure": "Change in SARS-CoV-2-related anxiety symptoms",
+                "time_frame": "Every 3 weeks as long as the SARS-CoV-2 pandemic lasts (maximum: 30 weeks from baseline on) and one year later (Follow-Up)",
+                "description": "Modified German version of the DSM-5 Severity-Measure-For-Specific-Phobia-Adult-Scale by Beesdo-Baum et al. (2014). 10 items, values ranging from 1 to 5, higher scores indicate a worse outcome. The Scale was adapted to anxiety symptoms related to SARS-CoV-2."
             }
         ],
         "number_of_groups": "1",
         "enrollment": {
             "@type": "Anticipated",
-            "#text": "1000"
+            "#text": "5000"
         },
-        "condition": "Anxiety Related to the SARS-CoV-19 Pandemic",
+        "condition": "Anxiety Related to the SARS-CoV-2 Pandemic",
         "arm_group": {
             "arm_group_label": "Population in Germany",
             "description": "Reasonably large and representative sample of the general population in Germany"
@@ -121,7 +121,7 @@
             },
             "sampling_method": "Probability Sample",
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  informed consent was given\n\n          -  age \u2265 18\n\n          -  able to complete the questionnaire in German (an English version is in progress)\n\n          -  country of residence: Germany\n\n        Exclusion Criteria:\n\n          -  if at least one of the inclusion criteria is not met"
+                "textblock": "Inclusion Criteria:\n\n          -  informed consent was given\n\n          -  age \u2265 18\n\n          -  able to complete the questionnaire in German\n\n          -  country of residence: Germany\n\n        Exclusion Criteria:\n\n          -  if at least one of the inclusion criteria is not met"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -168,18 +168,18 @@
         "location_countries": {
             "country": "Germany"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 27, 2020",
         "study_first_submitted_qc": "March 30, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "March 30, 2020",
-        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",
@@ -191,7 +191,7 @@
             "Anxiety",
             "Pandemic",
             "Corona-Virus",
-            "SARS-CoV-19",
+            "SARS-CoV-2",
             "Corona",
             "Covid-19",
             "Public Health",

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "34",
+        "@rank": "40",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04319315"
         },
@@ -28,7 +28,7 @@
             "textblock": "The recent COVID-19 outbreak is very challenging as data are distributed instantly on the\n      data are very rapidly distributed through professional and non professional sources which may\n      impact the management of the disease"
         },
         "detailed_description": {
-            "textblock": "We are conducting a survey between the physicians to study the effect and practice of\n      received knowledge disseminated through social media .\n\n      the survey will be distributed through internet and data will be collected and analyzed"
+            "textblock": "The investigators are conducting a survey between the physicians to study the effect and\n      practice of received knowledge disseminated through social media .\n\n      the survey will be distributed through internet and data will be collected and analyzed"
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -37,11 +37,11 @@
         },
         "completion_date": {
             "@type": "Anticipated",
-            "#text": "March 16, 2020"
+            "#text": "April 16, 2020"
         },
         "primary_completion_date": {
             "@type": "Actual",
-            "#text": "March 16, 2020"
+            "#text": "April 1, 2020"
         },
         "study_type": "Observational",
         "has_expanded_access": "No",
@@ -106,18 +106,18 @@
         "location_countries": {
             "country": "Egypt"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 16, 2020",
         "study_first_submitted_qc": "March 20, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 24, 2020"
         },
-        "last_update_submitted": "March 20, 2020",
-        "last_update_submitted_qc": "March 20, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 24, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

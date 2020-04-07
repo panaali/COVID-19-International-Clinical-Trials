@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "124",
+        "@rank": "136",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04327206"
         },
@@ -273,36 +273,157 @@
         },
         "overall_contact": {
             "last_name": "Prof Nigel Curtis, MBBS PhD",
-            "phone": "93456366",
+            "phone": "+613 93456366",
             "email": "nigel.curtis@rch.org.au"
         },
         "overall_contact_backup": {
             "last_name": "Kaya Gardiner",
-            "phone": "99366461",
+            "phone": "+613 99366461",
             "email": "kaya.gardiner@mcri.edu.au"
         },
-        "location": {
-            "facility": {
-                "name": "Royal Children's Hospital",
-                "address": {
-                    "city": "Melbourne",
-                    "state": "Victoria",
-                    "zip": "3108",
-                    "country": "Australia"
+        "location": [
+            {
+                "facility": {
+                    "name": "Epworth Victoria Parade",
+                    "address": {
+                        "city": "Melbourne",
+                        "state": "Victoria",
+                        "zip": "3002",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Dr Nicole Tan, MBBS FANZCA",
+                    "phone": "+61 3 9427 7899",
+                    "email": "niki.tan@anaestheticservices.com.au"
                 }
             },
-            "status": "Recruiting",
-            "contact": {
-                "last_name": "Prof Nigel Curtis, MBBS PhD",
-                "phone": "9345 6366",
-                "email": "nigel.curtis@mcri.edu.au"
+            {
+                "facility": {
+                    "name": "Royal Children's Hospital",
+                    "address": {
+                        "city": "Melbourne",
+                        "state": "Victoria",
+                        "zip": "3052",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Prof Nigel Curtis, MBBS PhD",
+                    "phone": "+61 3 9345 6366",
+                    "email": "nigel.curtis@mcri.edu.au"
+                },
+                "contact_backup": {
+                    "last_name": "Kaya Gardiner",
+                    "phone": "+613 9936 6042",
+                    "email": "kaya.gardiner@mcri.edu.au"
+                }
             },
-            "contact_backup": {
-                "last_name": "Kaya Gardiner",
-                "phone": "9936 6042",
-                "email": "kaya.gardiner@mcri.edu.au"
+            {
+                "facility": {
+                    "name": "Epworth Richmond",
+                    "address": {
+                        "city": "Melbourne",
+                        "state": "Victoria",
+                        "zip": "3121",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Dr Nicole Tan, MBBS FANZCA",
+                    "phone": "+61 3 9427 7899",
+                    "email": "niki.tan@anaestheticservices.com.au"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Epworth Eastern",
+                    "address": {
+                        "city": "Melbourne",
+                        "state": "Victoria",
+                        "zip": "3128",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Dr Nicole Tan, MBBS FANZCA",
+                    "phone": "+61 3 9427 7899",
+                    "email": "niki.tan@anaestheticservices.com.au"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Monash Health- Monash Medical Centre",
+                    "address": {
+                        "city": "Melbourne",
+                        "state": "Victoria",
+                        "zip": "3168",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "A/Prof Tony Korman, MBBS FRACP",
+                    "phone": "+61 3 9594 4533",
+                    "email": "tony.korman@monash.edu"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Fiona Stanley Hospital",
+                    "address": {
+                        "city": "Murdoch",
+                        "state": "Western Australia",
+                        "zip": "6150",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Dr Laurens Manning, MBChB PhD",
+                    "phone": "+61 8 6152 2222",
+                    "email": "laurens.manning@health.wa.gov.au"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Perth Children's Hospital",
+                    "address": {
+                        "city": "Perth",
+                        "state": "Western Australia",
+                        "zip": "6009",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Prof Peter Richmond, MBBS FRACP",
+                    "phone": "+61 8 6456 5604",
+                    "email": "peter.richmond@uwa.edu.au"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Sir Charles Gairdner Hospital",
+                    "address": {
+                        "city": "Perth",
+                        "state": "Western Australia",
+                        "zip": "6009",
+                        "country": "Australia"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Prof Michaela Lucas, MD PhD",
+                    "phone": "+61 8 6383 4311",
+                    "email": "michaela.lucas@health.wa.gov.au"
+                }
             }
-        },
+        ],
         "location_countries": {
             "country": "Australia"
         },
@@ -313,11 +434,11 @@
             "@type": "Actual",
             "#text": "March 31, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

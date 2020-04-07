@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "30",
+        "@rank": "35",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04330690"
         },
@@ -73,12 +73,12 @@
             {
                 "measure": "Subject clinical status",
                 "time_frame": "up to 60 days",
-                "description": "Subject clinical status at days 3, 5, 8, 11, 15, 29, 60 measured using an ordinal scale"
+                "description": "Subject clinical status at days 3, 5, 8, 11, 15, 29, 60 measured using the ordinal scale below:\nThe scale is as below 0: Uninfected, no viral RNA\nAsymptomatic, viral RNA detected\nSymptomatic, independent\nSymptomatic, Assistance Needed\nHospitalized: no oxygen therapy\nHospitalized, on oxygen\nHospitalized, Oxygen by NIV or high-flow\nMechanical ventilation, p/f>150 or s/f >200\nMechanical ventilation, p/f<150 or s/f<200 OR vasopressors\nmechanical ventilation, p/f<150 AND vasopressors, dialysis, or ECMO\ndeath"
             },
             {
                 "measure": "Change in Subject clinical status",
                 "time_frame": "up to 60 days",
-                "description": "Mean change in the ranking from baseline to days 3, 5, 8, 11, 15, 29, 60 using an ordinal scale"
+                "description": "Mean change in the ranking from baseline to days 3, 5, 8, 11, 15, 29, 60 using the ordinal scale below:\nThe scale is as below 0: Uninfected, no viral RNA\nAsymptomatic, viral RNA detected\nSymptomatic, independent\nSymptomatic, Assistance Needed\nHospitalized: no oxygen therapy\nHospitalized, on oxygen\nHospitalized, Oxygen by NIV or high-flow\nMechanical ventilation, p/f>150 or s/f >200\nMechanical ventilation, p/f<150 or s/f<200 OR vasopressors\nmechanical ventilation, p/f<150 AND vasopressors, dialysis, or ECMO\ndeath"
             },
             {
                 "measure": "Oxygen free days",
@@ -123,7 +123,7 @@
         ],
         "other_outcome": {
             "measure": "Time to viral clearance of lopinavir/ritonavir as compared to the control arm",
-            "time_frame": "29 days",
+            "time_frame": "up to 29 days",
             "description": "To evaluate the virologic efficacy of lopinavir/ritonavir as compared to the control arm as assessed by the percent of subjects with SARS-CoV-2 detectable in OP sample at days 3, 5, 8, 11, 15, and 29"
         },
         "number_of_arms": "2",
@@ -173,18 +173,18 @@
         "location_countries": {
             "country": "Canada"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 23, 2020",
         "study_first_submitted_qc": "March 31, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "March 31, 2020",
-        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 1, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

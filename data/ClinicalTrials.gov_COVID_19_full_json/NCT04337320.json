@@ -1,0 +1,115 @@
+{
+    "clinical_study": {
+        "@rank": "152",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337320"
+        },
+        "id_info": {
+            "org_study_id": "covid19pregnancynewborn",
+            "nct_id": "NCT04337320"
+        },
+        "brief_title": "Evaluation of Postnatal Outcomes of Covid 19 Positive Mothers Newborns",
+        "official_title": "Postnatal Outcomes of Covid 19 Positive Mothers Newborns",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Kanuni Sultan Suleyman Training and Research Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Kanuni Sultan Suleyman Training and Research Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Evaluation of apgar, hemogram and developmental status of babies born from covid 19 positive\n      mothers"
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 20, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 15, 2020"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "2 Months",
+        "primary_outcome": {
+            "measure": "Evaluation of apgar status of newborns from covid 19 positive mothers",
+            "time_frame": "2 months",
+            "description": "The Apgar score is looked after at 1 and 5 minutes after birth, if the baby's Apgar score is lower than 7, it is repeated every 5 minutes until 20 minutes. Parameters examined in Apgar score Muscle tone, Heart rate, Reflexes, Skin color, Respiration.\nIn the Apgar score, the baby is evaluated and scores are collected.\n7 - 10: The baby is normal.\n4 - 6: They usually recover with respiratory support.\n0 - 3: Urgent intervention and resuscitation is needed.\nThe low Apgar score in the 1st minute usually returns to normal in the 5th minute with support. Despite the intervention, the Apgar scores of 5 and less at 5 and 10 minutes are associated with an increased risk of mortality and cerebral palsy."
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "70"
+        },
+        "condition": [
+            "Covid19",
+            "Newborn Morbidity"
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "newborns from covid 19 positive mothers",
+            "description": "Evaluation of apgar, hemogram and developmental status of babies born from covid 19 positive mothers"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Evaluation of apgar, hemogram and developmental status of babies born from covid 19\n        positive mothers"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  from covid 19 positive mothers\n\n          -  newborn mothers had not other condition or illness\n\n        Exclusion Criteria:\n\n          -  from covid 19 negative mothers\n\n          -  childs"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "15 Minutes",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "location": {
+            "facility": {
+                "name": "Pinar Yalcin Bahat",
+                "address": {
+                    "city": "Istanbul",
+                    "state": "\u0130\u0307stanbul",
+                    "zip": "34000",
+                    "country": "Turkey"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Turkey"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 5, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Kanuni Sultan Suleyman Training and Research Hospital",
+            "investigator_full_name": "P\u0131nar Yalcin bahat",
+            "investigator_title": "Principal Investigator"
+        }
+    }
+}

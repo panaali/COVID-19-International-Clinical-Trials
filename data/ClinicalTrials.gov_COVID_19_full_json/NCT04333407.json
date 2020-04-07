@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "3",
+        "@rank": "4",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04333407"
         },
@@ -52,23 +52,23 @@
             "masking": "None (Open Label)"
         },
         "primary_outcome": {
-            "measure": "Primary Efficacy Outcome",
+            "measure": "All-cause mortality at 30 days after admission",
             "time_frame": "at 30 days after admission",
             "description": "All-cause mortality"
         },
         "secondary_outcome": [
             {
-                "measure": "Secondary Efficacy Outcome 1",
+                "measure": "Absolute change in serum troponin from admission to peak value",
                 "time_frame": "within 7 days and within 30 days of admission",
                 "description": "Absolute change in serum troponin from admission (or from suspicion/diagnosis of Covid-19 if already an inpatient) measurement to peak value (measured using high sensitivity troponin assay). (Phase I interim analysis)"
             },
             {
-                "measure": "Secondary Efficacy Outcome 2",
+                "measure": "Discharge Rate",
                 "time_frame": "at 7 days and 30 days after admission",
                 "description": "Discharge Rate: Proportion of patients discharged (or documented as medically fit for discharge)"
             },
             {
-                "measure": "Secondary Efficacy Outcome 3",
+                "measure": "Intubation Rate",
                 "time_frame": "at 7 days and at 30 days after admission",
                 "description": "Intubation Rate: Proportion of patients who have been intubated for mechanical ventilation"
             }
@@ -152,11 +152,11 @@
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

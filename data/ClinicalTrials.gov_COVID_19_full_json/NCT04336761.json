@@ -1,0 +1,224 @@
+{
+    "clinical_study": {
+        "@rank": "304",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04336761"
+        },
+        "id_info": {
+            "org_study_id": "2020_21",
+            "secondary_id": "2020-A00811-38",
+            "nct_id": "NCT04336761"
+        },
+        "brief_title": "Prevalence of Covid-19 in Children Admitted to Paediatric Emergency Departments During the Pandemic Period in France",
+        "acronym": "INCOVPED",
+        "official_title": "Prevalence of Covid-19 in Children Admitted to Paediatric Emergency Departments During the Pandemic Period in France",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Lille",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Lille",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Arriving in December 2019, Coronavirus COVID-19 infection is causing a global pandemic with\n      high morbidity and mortality among adults and especially seniors. The child appears little or\n      no affected by this infection. It is estimated that the child could be asymptomatic or\n      pauci-symptomatic carrier and thus be vector of the disease. For this reason, measures have\n      been taken to close schools and contain populations in a large number of countries, including\n      France. However, there are no data on the prevalence of COVID-19 in children."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Prevalence of positivity of COVID-19 virus measured by rt-PCR",
+            "time_frame": "At 28 days"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Prevalence of positivity of COVID-19 virus measured by rt-PCR in the following subpopulations of emergency patients",
+                "time_frame": "at the end an average 28 days",
+                "description": "children admitted to pediatric emergencies for respiratory signs\nChildren hospitalized as a result of travelling to pediatric emergency departments for respiratory signs\nRespiratory asymptomatic children admitted to pediatric emergencies"
+            },
+            {
+                "measure": "Respiratory signs of children tested within 28 day",
+                "time_frame": "through study completion, an average 28 days"
+            },
+            {
+                "measure": "Percentage of children hospitalized tested within 28 day",
+                "time_frame": "through study completion, an average 28 days"
+            },
+            {
+                "measure": "Contact frequency",
+                "time_frame": "At inclusion",
+                "description": "the degree of relationship with these contacts and the time spent in contact with them within 24 hours before emergency"
+            },
+            {
+                "measure": "Prevalence of positivity of other respiratory viruses measured by rt-PCR",
+                "time_frame": "at 28 days"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "914"
+        },
+        "condition": [
+            "Coronavirus",
+            "COVID",
+            "Infection Viral"
+        ],
+        "arm_group": {
+            "arm_group_label": "Child suspected of infection with COVID-19.",
+            "description": "Child included with positive included"
+        },
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "nasopharyngeal swab",
+            "description": "Data collection and nasopharyngeal swab",
+            "arm_group_label": "Child suspected of infection with COVID-19."
+        },
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "Nasopharyngeal swab"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Children admitted to hospital pediatric emergencies in France during the pandemic period."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  1st Line Consultation in Pediatric Emergencies\n\n          -  All reasons for consultation during working hours\n\n          -  Informed and written consent of a parent holder (only 1 authorized companion) and a\n             child of understanding age\n\n        Exclusion Criteria:\n\n          -  Refusal of participation by parents/child of decision age\n\n          -  No membership of a social security scheme (beneficiary or entitled)\n\n          -  No understanding of French"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "18 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Fran\u00e7ois Dubos, MD,PhD",
+            "role": "Principal Investigator",
+            "affiliation": "University Hospital, Lille"
+        },
+        "overall_contact": {
+            "last_name": "Fran\u00e7ois DUBOS, MD,PhD",
+            "phone": "020445982",
+            "phone_ext": "+33",
+            "email": "francois.dubos@chru-lille.fr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "CH Louis MOURIER",
+                    "address": {
+                        "city": "Colombes",
+                        "country": "France"
+                    }
+                },
+                "investigator": {
+                    "last_name": "Flora JOANNES, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital M\u00e8re Enfant CHU",
+                    "address": {
+                        "city": "Nantes",
+                        "country": "France"
+                    }
+                },
+                "investigator": {
+                    "last_name": "Christ\u00e8le LE GUEN, MD,PhD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pitaux P\u00e9diatriques de Nice CHU-Lenval",
+                    "address": {
+                        "city": "Nice",
+                        "country": "France"
+                    }
+                },
+                "investigator": {
+                    "last_name": "Herv\u00e9 HAAS, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital des enfants - CHU",
+                    "address": {
+                        "city": "Toulouse",
+                        "country": "France"
+                    }
+                },
+                "investigator": {
+                    "last_name": "Camille BREHIN, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU de Tours",
+                    "address": {
+                        "city": "Tours",
+                        "country": "France"
+                    }
+                },
+                "investigator": {
+                    "last_name": "Marie Chinazzo-Vigouroux, MD",
+                    "role": "Principal Investigator"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "pediatric emergencies",
+            "pandemia"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Emergencies",
+                "Virus Diseases"
+            ]
+        }
+    }
+}

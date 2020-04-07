@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "276",
+        "@rank": "302",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04322773"
         },
@@ -33,10 +33,10 @@
         "brief_summary": {
             "textblock": "Coronavirus disease 2019 (COVID-19) is caused by the newly discovered coronavirus,\n      SARS-CoV-2. The median time from onset of symptoms of COVID-19 to development of acute\n      respiratory distress syndrome (ARDS) has been reported as short as 9 days. No effective\n      prophylactic or post-exposure therapy is currently available. According to data from the\n      Danish Health Authority (www.sst.dk/corona), as of March 21st, 2020, there were 1326 patients\n      infected with the disease in Denmark, more than 250 are admitted to a hospital, and >50 of\n      them have required intensive care. Nearly 350.000 cases and 15.000 deaths have been reported\n      globally. These numbers are likely to markedly increase during the coming weeks, challenging\n      the capacity of health systems worldwide.\n\n      In patients infected with SARS-CoV-2, it has been described that disease severity and\n      outcomes are related to the characteristics of the immune response. Interleukin (IL)-6 and\n      other components of the inflammatory cascade contribute to host defense against infections.\n      However, exaggerated synthesis of IL-6 can lead to an acute severe systemic inflammatory\n      response known as 'cytokine storm'. In the pathogenesis of SARS-CoV-2 pneumonia, a study\n      found that a cytokine storm involving a considerable release of proinflammatory cytokines\n      occurred, including IL-6, IL-12, and tumor necrosis factor \u03b1 (TNF-\u03b1). Studies on the Middle\n      East respiratory syndrome caused by another coronavirus (MERS-CoV), indicate that cytokine\n      genes of IL-6, IL-1\u03b2, and IL-8 can be markedly upregulated. Similarly, patients with\n      SARS-CoV-2 pneumonia admitted to an intensive care unit had higher plasma levels of cytokines\n      including IL-6, IL-2, IL-7, IL-10, granulocyte-colony stimulating factor (G-CSF),\n      interferon-\u03b3-inducible protein (IP10), monocyte chemoattractant protein (MCP1), macrophage\n      inflammatory protein 1 alpha (MIP1A), and TNF-\u03b1. These findings indicate that the magnitude\n      and characteristics of the cytokine response is related to the severity and prognosis of\n      patients with SARS-CoV-2 pneumonia.\n\n      It has been suggested that IL-6 blockade may constitute a novel therapeutic strategy for\n      other types of cytokine storm, such as the systemic inflammatory response syndrome including\n      sepsis, macrophage activation syndrome and hemophagocytic lymphohistiocytosis. Remarkable\n      beneficial effects of IL-6 blockade therapy using a IL-6 receptor inhibitor has been\n      described in patients with severe SARS-CoV-2 pneumonia in a retrospective case series from\n      China.\n\n      Currently, there are two available drugs based on human monoclonal antibodies against IL-6\n      receptor, tocilizumab (RoActemra, Roche) and sarilumab (Kevzara, Sanofi). IL-6 receptor\n      inhibitors are currently licensed for several autoimmune disorders and are considered well\n      tolerated and safe in general. The most common side effects reported are upper respiratory\n      tract infections, headache, hypertension, and abnormal liver function tests. The most serious\n      side effects are serious infections, complications of diverticulitis, and hypersensitivity\n      reactions.\n\n      it is hypothesized that IL-6 might play a key role in the cytokine storm associated with\n      serious adverse outcomes in patients infected with SARS-CoV-2 pneumonia, and that blockade of\n      IL-6 would be suitable therapeutic target for these patients. The study will investigate the\n      effect of different types of IL-6 inhibition versus no adjuvant treatment compared to\n      standard of care in patients with severe SARS-CoV-2 pneumonia.\n\n      Primary objective: To compare the effect of either one of three IL-6 inhibitor\n      administrations, relative to the standard of care, on time to independence from supplementary\n      oxygen therapy, measured in days from baseline to day 28, in patients with severe SARS-CoV-2\n      pneumonia."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 4, 2020"
+            "@type": "Actual",
+            "#text": "April 5, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -179,30 +179,46 @@
             "phone": "0045 38164157",
             "email": "lars.erik.kristensen@regionh.dk"
         },
-        "location": {
-            "facility": {
-                "name": "Bispebjerg-Frederiksberg Hospital",
-                "address": {
-                    "city": "Copenhagen",
-                    "zip": "2000",
-                    "country": "Denmark"
+        "location": [
+            {
+                "facility": {
+                    "name": "Bispebjerg-Frederiksberg Hospital",
+                    "address": {
+                        "city": "Copenhagen",
+                        "zip": "2000",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Lars Erik Kristensen, PhD",
+                    "phone": "0045 38164157",
+                    "email": "lars.erik.kristensen@regionh.dk"
+                },
+                "contact_backup": {
+                    "last_name": "Line Rustad",
+                    "phone": "0045 38164158",
+                    "email": "line.rustad@regionh.dk"
+                },
+                "investigator": {
+                    "last_name": "Lars Erik Kristensen, PhD",
+                    "role": "Principal Investigator"
                 }
             },
-            "contact": {
-                "last_name": "Lars Erik Kristensen, PhD",
-                "phone": "0045 38164157",
-                "email": "lars.erik.kristensen@regionh.dk"
-            },
-            "contact_backup": {
-                "last_name": "Line Rustad",
-                "phone": "0045 38164158",
-                "email": "line.rustad@regionh.dk"
-            },
-            "investigator": {
-                "last_name": "Lars Erik Kristensen, PhD",
-                "role": "Principal Investigator"
+            {
+                "facility": {
+                    "name": "Hiller\u00f8d Hospital",
+                    "address": {
+                        "city": "Hiller\u00f8d",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Zitta harboe"
+                }
             }
-        },
+        ],
         "location_countries": {
             "country": "Denmark"
         },
@@ -213,11 +229,11 @@
             "@type": "Actual",
             "#text": "March 26, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

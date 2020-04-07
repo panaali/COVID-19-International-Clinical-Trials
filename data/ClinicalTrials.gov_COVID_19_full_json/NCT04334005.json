@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "77",
+        "@rank": "88",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 06, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334005"
         },
@@ -93,7 +93,8 @@
             },
             {
                 "measure": "Subjective perception of recovery",
-                "time_frame": "Through study completion, an average of 10 weeks"
+                "time_frame": "Through study completion, an average of 10 weeks",
+                "description": "It will be measure by questionnaire"
             }
         ],
         "number_of_arms": "2",
@@ -185,11 +186,11 @@
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

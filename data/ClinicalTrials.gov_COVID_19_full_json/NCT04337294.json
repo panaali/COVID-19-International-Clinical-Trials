@@ -1,0 +1,122 @@
+{
+    "clinical_study": {
+        "@rank": "151",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337294"
+        },
+        "id_info": {
+            "org_study_id": "covid19pregnancies",
+            "nct_id": "NCT04337294"
+        },
+        "brief_title": "Evaluation of Blood Results of Covid 19 Positive Pregnants",
+        "official_title": "Blood Results of Covid 19 Positive Pregnants",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Kanuni Sultan Suleyman Training and Research Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Kanuni Sultan Suleyman Training and Research Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Evaluation of blood results of covid 19 positive pregnant patients"
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 21, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 22, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 20, 2020"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "2 Months",
+        "primary_outcome": {
+            "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+            "time_frame": "2 months",
+            "description": "peripheral blood values; hemogram, biochemistry (ast- sub-urea, creatinine, potassium, sodium, calcium, magnesium, vitamin d, homocysteine, ggt, crp)"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": [
+            "Covid19",
+            "Pregnancy Related"
+        ],
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "Evaluation of blood results of covid 19 positive pregnant patients",
+            "description": "peripheral blood values; hemogram, biochemistry (ast- sub-urea, creatinine, potassium, sodium, calcium, magnesium, vitamin d, homocysteine, ggt, crp)"
+        },
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "peripheral blood values; hemogram, biochemistry (ast- sub-urea, creatinine, potassium,\n      sodium, calcium, magnesium, vitamin d, homocysteine, ggt, crp)"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "women with covid 19 positive pregnant women without additional disease and lung disease"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  pregnant\n\n          -  covid19 positive\n\n          -  no lung disease\n\n        Exclusion Criteria:\n\n          -  with lung disease\n\n          -  additional disease\n\n          -  not pregnant pcr test negative"
+            },
+            "gender": "Female",
+            "gender_based": "Yes",
+            "minimum_age": "18 Years",
+            "maximum_age": "45 Years"
+        },
+        "location": {
+            "facility": {
+                "name": "Pinar Yalcin Bahat",
+                "address": {
+                    "city": "Istanbul",
+                    "state": "\u0130\u0307stanbul",
+                    "zip": "34000",
+                    "country": "Turkey"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Turkey"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 5, 2020",
+        "study_first_submitted_qc": "April 5, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 7, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Kanuni Sultan Suleyman Training and Research Hospital",
+            "investigator_full_name": "P\u0131nar Yalcin bahat",
+            "investigator_title": "Principal Investigator"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes"
+        }
+    }
+}
