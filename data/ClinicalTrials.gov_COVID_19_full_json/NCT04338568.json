@@ -1,0 +1,208 @@
+{
+    "clinical_study": {
+        "@rank": "173",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338568"
+        },
+        "id_info": {
+            "org_study_id": "CTU2020032",
+            "nct_id": "NCT04338568"
+        },
+        "brief_title": "Screening COVID by Point-of-care Lung Ultrasound: a Validation Study",
+        "acronym": "SCOUT",
+        "official_title": "Accuracy and Inter-observer Variability of Lung Ultrasound in COVID-19 Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hasselt University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Ziekenhuis Oost-Limburg",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Hasselt University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "COVID-19 is a rapidly spreading and very contagious disease caused by a novel coronavirus\n      that can lead to respiratory insufficiency. In many patients, the chest radiograph at first\n      presentation be normal, and early low-dose CT-scan is advocated to diagnose viral pneumonia.\n      Lung ultrasound (LUS) has similar diagnostic properties as CT for diagnosing pneumonia.\n      However, it has the advantage that it can be performed at point-of-care, minimizing the need\n      to transfer the patient, reducing the number of health care personnel and equipment that come\n      in contact with the patient and thus potentially decrease the risk of spreading the\n      infection.\n\n      This study has the objective to examine the accuracy of lung ultrasound in patients with\n      proven COVID-19 pneumonia."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 13, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "Patients with the diagnosis of COVID-19 pneumonia will undergo a lung ultrasound, by two observers each. The findings will be compared with findings on chest x-ray and/or CT thorax. Accuracy and inter-observer variability will be calculated.",
+            "primary_purpose": "Diagnostic",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Accuracy of the diagnosis of interstitial syndrome by lung ultrasound",
+                "time_frame": "within 2 weeks after first subject included",
+                "description": "The diagnostic accuracy of lung ultrasound is more than 90% compared to low-dose CT or chest X-ray for the detection of viral pneumonia in patients with COVID-19 infection."
+            },
+            {
+                "measure": "Inter-observer variability",
+                "time_frame": "within 2 weeks after first subject included",
+                "description": "The interobserver variability by lung ultrasound between the 2 observers for the diagnosis of interstitial syndrome by lung ultrasound is > 0.6 measured by the Kappa score"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": [
+            "COVID-19 Pneumonia",
+            "Lung Ultrasound"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "LUS observer 1",
+                "arm_group_type": "Active Comparator",
+                "description": "The subject will undergo a Lung Ultrasound by observer nr 1"
+            },
+            {
+                "arm_group_label": "LUS observer 2",
+                "arm_group_type": "Active Comparator",
+                "description": "The subject will undergo a Lung Ultrasound by observer nr 2"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "Lung ultrasound",
+            "description": "The lung ultrasound examination consists of two-sided scanning of the anterior and lateral chest wall and is performed with patients in supine or near-to-supine position.",
+            "arm_group_label": [
+                "LUS observer 1",
+                "LUS observer 2"
+            ]
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. high probability CT thorax or chest X-ray for viral pneumonia within five days of the\n             day of inclusion\n\n          2. positive COVID-19 nasopharyngeal swab within 10 days of inclusion\n\n          3. 18 years or older\n\n          4. Oxygen saturation of < 93% in ambient air\n\n          5. Signed written informed consent\n\n        Exclusion Criteria:\n\n          -  Contra-indication for lung ultrasound\n\n          -  Other causes of hypoxia or of pulmonary infiltrates on CT thorax or chest X-ray"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Michiel Thomeer, MD,PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Ziekenhuis Oost-Limburg"
+        },
+        "overall_contact": {
+            "last_name": "Michiel J Thomeer, MD,PhD",
+            "phone": "+3289327171",
+            "email": "michiel.thomeer@zol.be"
+        },
+        "location": {
+            "facility": {
+                "name": "Ziekenhuis Oost Limburg",
+                "address": {
+                    "city": "Genk",
+                    "state": "Limburg",
+                    "zip": "3600",
+                    "country": "Belgium"
+                }
+            },
+            "contact": {
+                "last_name": "Michiel J Thomeer, MD, PhD",
+                "phone": "+3289327171",
+                "email": "michiel.thomeer@zol.be"
+            },
+            "contact_backup": {
+                "last_name": "Inge Thijs, PhD",
+                "phone": "+3289212007",
+                "email": "Inge.Thijs@zol.be"
+            },
+            "investigator": [
+                {
+                    "last_name": "Marc Daenen, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "David Ruttens, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Michiel Thomeer, MD, PhD",
+                    "role": "Principal Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Belgium"
+        },
+        "reference": {
+            "citation": "Ramirez P, Torres A. Should ultrasound be included in the initial assessment of respiratory patients? Lancet Respir Med. 2014 Aug;2(8):599-600. doi: 10.1016/S2213-2600(14)70142-0. Epub 2014 Jul 3.",
+            "PMID": "24998675"
+        },
+        "results_reference": [
+            {
+                "citation": "Pisani L, Vercesi V, van Tongeren PSI, Lagrand WK, Leopold SJ, Huson MAM, Henwood PC, Walden A, Smit MR, Riviello ED, Pelosi P, Dondorp AM, Schultz MJ; Lung Ultrasound Consortium. The diagnostic accuracy for ARDS of global versus regional lung ultrasound scores - a post hoc analysis of an observational study in invasively ventilated ICU patients. Intensive Care Med Exp. 2019 Jul 25;7(Suppl 1):44. doi: 10.1186/s40635-019-0241-6.",
+                "PMID": "31346914"
+            },
+            {
+                "citation": "Li K, Fang Y, Li W, Pan C, Qin P, Zhong Y, Liu X, Huang M, Liao Y, Li S. CT image visual quantitative evaluation and clinical classification of coronavirus disease (COVID-19). Eur Radiol. 2020 Mar 25. doi: 10.1007/s00330-020-06817-6. [Epub ahead of print]",
+                "PMID": "32215691"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 4, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Hasselt University",
+            "investigator_full_name": "Prof. dr. Michiel Thomeer",
+            "investigator_title": "Prof.Dr.Michiel Thomeer"
+        },
+        "keyword": [
+            "accuracy",
+            "inter-observer variability"
+        ],
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "no plan"
+        },
+        "study_docs": {
+            "study_doc": {
+                "doc_type": "Clinical Study Report",
+                "doc_url": "https://www.castoredc.com/"
+            }
+        }
+    }
+}

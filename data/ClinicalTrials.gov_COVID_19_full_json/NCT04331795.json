@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "45",
+        "@rank": "48",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04331795"
         },
@@ -28,18 +28,18 @@
         "brief_summary": {
             "textblock": "Coronavirus disease-2019 (COVID-19) has a quoted inpatient mortality as high as 25%. This\n      high mortality may be driven by hyperinflammation resembling cytokine release syndrome (CRS),\n      offering the hope that therapies targeting the interleukin-6 (IL-6) axis therapies commonly\n      used to treat CRS can be used to reduce COVID-19 mortality. Retrospective analysis of severe\n      to critical COVID-19 patients receiving tocilizumab demonstrated that the majority of\n      patients had rapid resolution (i.e., within 24-72 hours following administration) of both\n      clinical and biochemical signs (fever and CRP, respectively) of hyperinflammation with only a\n      single tocilizumab dose.\n\n      Hypotheses:\n\n        1. Tocilizumab is effective in decreasing signs, symptoms, and laboratory evidence of\n           COVID-19 pneumonitis in hospitalized, non-critically ill patients with clinical risk\n           factors for clinical decompensation, intensive care utilization, and death.\n\n        2. Low-dose tocilizumab is effective in decreasing signs, symptoms, and laboratory evidence\n           of COVID-19 pneumonitis in hospitalized, non-critically ill patients with and without\n           clinical risk factors for clinical decompensation, intensive care utilization, and\n           death.\n\n      Objectives:\n\n        1. To establish proof of concept that tocilizumab is effective in decreasing signs,\n           symptoms, and laboratory evidence of COVID-19 pneumonitis in hospitalized,\n           non-critically ill patients with clinical risk factors for clinical decompensation,\n           intensive care utilization, and death, as determined by the clinical outcome of\n           resolution of fever and the biochemical outcome measures of time to CRP normalization\n           for the individual patient and the rate of patients whose CRP normalize.\n\n        2. To establish proof of concept that low-dose tocilizumab is effective in decreasing\n           signs, symptoms, and laboratory evidence of COVID-19 pneumonitis in hospitalized,\n           non-critically ill patients without clinical risk factors for clinical decompensation,\n           intensive care utilization, and death, as determined by the clinical outcome of\n           resolution of fever and the biochemical outcome measures of time to CRP normalization\n           for the individual patient and the rate of patients whose CRP normalize."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "April 3, 2020"
+            "#text": "April 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
-            "#text": "December 1, 2020"
+            "#text": "December 2020"
         },
         "primary_completion_date": {
             "@type": "Anticipated",
-            "#text": "July 1, 2020"
+            "#text": "July 2020"
         },
         "phase": "Phase 2",
         "study_type": "Interventional",
@@ -175,6 +175,7 @@
                     "country": "United States"
                 }
             },
+            "status": "Recruiting",
             "contact": {
                 "last_name": "Pankti Reid, MD, MPH"
             }
@@ -189,11 +190,11 @@
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

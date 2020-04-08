@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "116",
+        "@rank": "123",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04335071"
         },
@@ -11,7 +11,7 @@
             "secondary_id": "2020DR2044",
             "nct_id": "NCT04335071"
         },
-        "brief_title": "Multicenter, Double-blind, Randomized Controlled Trial of Tocilizumab in the Treatment of Coronavirus Induced Disease (COVID-19)",
+        "brief_title": "Tocilizumab in the Treatment of Coronavirus Induced Disease (COVID-19)",
         "acronym": "CORON-ACT",
         "official_title": "CORON-ACT - a Multicenter, Double-blind, Randomized Controlled Phase II Trial on the Efficacy and Safety of Tocilizumab in the Treatment of Coronavirus Induced Disease (COVID-19)",
         "sponsors": {
@@ -296,11 +296,11 @@
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

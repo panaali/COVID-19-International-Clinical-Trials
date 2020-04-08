@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "73",
+        "@rank": "77",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04325061"
         },
@@ -101,7 +101,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  age 18 years or older;\n\n          -  positive reverse-transcriptase-polymerase-chain-reaction (RT-PCR) assay for COVID-19\n             in a respiratory tract sample;\n\n          -  intubated and mechanically ventilated;\n\n          -  acute onset of ARDS, as defined by Berlin criteria as moderate-to-severe ARDS,3 which\n             includes: (i) having pneumonia or worsening respiratory symptoms, (ii) bilateral\n             pulmonary infiltrates on chest imaging (x-ray or CT scan), (iii) absence of left\n             atrial hypertension, pulmonary capillary wedge pressure <18 mmHg, or no clinical signs\n             of left heart failure, and (iv) hypoxemia, as defined by a PaO2/FiO2 ratio of \u2264200\n             mmHg on positive end-expiratory pressure (PEEP) of \u22655 cmH2O, regardless of FiO2.\n\n        Exclusion Criteria:\n\n          -  Patients with a known contraindication to corticosteroids,\n\n          -  Decision by a physician that involvement in the trial is not in the patient's best\n             interest,\n\n          -  Pregnancy and breast-feeding."
+                "textblock": "Inclusion Criteria:\n\n          -  age 18 years or older;\n\n          -  positive reverse-transcriptase-polymerase-chain-reaction (RT-PCR) assay for COVID-19\n             in a respiratory tract sample;\n\n          -  intubated and mechanically ventilated;\n\n          -  acute onset of ARDS, as defined by Berlin criteria as moderate-to-severe ARDS,3 which\n             includes: (i) having pneumonia or worsening respiratory symptoms, (ii) bilateral\n             pulmonary infiltrates on chest imaging (x-ray or CT scan), (iii) absence of left\n             atrial hypertension, pulmonary capillary wedge pressure <18 mmHg, or no clinical signs\n             of left heart failure, and (iv) hypoxemia, as defined by a PaO2/FiO2 ratio of \u2264200\n             mmHg on positive end-expiratory pressure (PEEP) of \u22655 cmH2O, regardless of FiO2.\n\n        Exclusion Criteria:\n\n        * Patients receiving or under treatment with corticosteroids\n\n          -  Patients with a known contraindication to corticosteroids,\n\n          -  Decision by a physician that involvement in the trial is not in the patient's best\n             interest,\n\n          -  Pregnancy and breast-feeding."
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -126,6 +126,28 @@
         "location": [
             {
                 "facility": {
+                    "name": "ICU, Hospital Universitari Mutua Terrassa",
+                    "address": {
+                        "city": "Terrassa",
+                        "state": "Barcelona",
+                        "zip": "08221",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Josep Trenado, MD",
+                    "phone": "+34630158583",
+                    "email": "jtrenado@mutuaterrasa.es"
+                },
+                "contact_backup": {
+                    "last_name": "Mar Fern\u00e1ndez, MD",
+                    "phone": "+34654027970",
+                    "email": "marufaes@yahoo.es"
+                }
+            },
+            {
+                "facility": {
                     "name": "Hospital Universitario Dr. Negrin",
                     "address": {
                         "city": "Las Palmas de Gran Canaria",
@@ -146,7 +168,21 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Gonzalo Tamayo, MD, PhD",
+                    "phone": "+34655740637",
+                    "email": "gonzalotamayo@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Alberto Mart\u00ednez-Ruiz, MD, PhD",
+                    "phone": "+34610494664",
+                    "email": "ALBERTO.MARTINEZRUIZ@osakidetza.eus"
+                },
+                "investigator": {
+                    "last_name": "I\u00f1aki Bilbao-Villasante, MD",
+                    "role": "Sub-Investigator"
+                }
             },
             {
                 "facility": {
@@ -158,7 +194,17 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Tom\u00e1s Mu\u00f1oz, MD, PhD",
+                    "phone": "+34619576429",
+                    "email": "tomas.munozmartinez@osakidetza.net"
+                },
+                "contact_backup": {
+                    "last_name": "Pablo Serna-Grande, MD",
+                    "phone": "+34620686825",
+                    "email": "pablo.serna.grande@gmail.com"
+                }
             },
             {
                 "facility": {
@@ -172,6 +218,7 @@
                 "status": "Recruiting",
                 "contact": {
                     "last_name": "Pedro Castro, MD",
+                    "phone": "+34645378213",
                     "email": "PCASTRO@clinic.cat"
                 }
             },
@@ -187,6 +234,7 @@
                 "status": "Recruiting",
                 "contact": {
                     "last_name": "Manuel Castell\u00e1, MD",
+                    "phone": "+34696605769",
                     "email": "MCASTE@clinic.cat"
                 }
             },
@@ -223,6 +271,7 @@
                 "status": "Recruiting",
                 "contact": {
                     "last_name": "Javier Fern\u00e1ndez, MD",
+                    "phone": "+34652421887",
                     "email": "JFDEZ@clinic.cat"
                 }
             },
@@ -250,7 +299,20 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Alfonso Ambr\u00f3s, MD, PhD",
+                    "phone": "+34696544641",
+                    "email": "alfonsoa@sescam.jccm.es"
+                },
+                "contact_backup": {
+                    "last_name": "Carmen Mart\u00edn, MD",
+                    "email": "mcarmartin@hotmail.com"
+                },
+                "investigator": {
+                    "last_name": "Rafael del Campo, MD",
+                    "role": "Sub-Investigator"
+                }
             },
             {
                 "facility": {
@@ -261,7 +323,12 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Fernando Ramasco, MD, PhD",
+                    "phone": "+34639667114",
+                    "email": "gorria66@gmail.com"
+                }
             },
             {
                 "facility": {
@@ -272,7 +339,12 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Fernando Suarez-Sipmann, MD, PhD",
+                    "phone": "+34669792961",
+                    "email": "fsuarezsipmann@gmail.com"
+                }
             },
             {
                 "facility": {
@@ -283,7 +355,17 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "C\u00e9sar P\u00e9rez-Calvo, MD",
+                    "phone": "+34618100522",
+                    "email": "Cperez@fjd.es"
+                },
+                "contact_backup": {
+                    "last_name": "\u00c1nxela Vidal, MD",
+                    "phone": "+34680713669",
+                    "email": "anxelavidal@gmail.com"
+                }
             },
             {
                 "facility": {
@@ -294,7 +376,12 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Emilio Maseda, MD, PhD",
+                    "phone": "+34629018689",
+                    "email": "emilio.maseda@gmail.com"
+                }
             },
             {
                 "facility": {
@@ -330,7 +417,31 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Carlos Garc\u00eda-Palenciano, MD",
+                    "phone": "+34629721053",
+                    "email": "carlos.garciapalenciano@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Piedad Mart\u00ednez-Gil, MD",
+                    "phone": "+34615067008",
+                    "email": "pimagil@hotmail.com"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Eugenia Dur\u00e1n-Gonz\u00e1lez, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Irene Faura-Nu\u00f1ez, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Jos\u00e9 C Mond\u00e9jar, MD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
             },
             {
                 "facility": {
@@ -341,7 +452,17 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Domingo Mart\u00ednez, MD",
+                    "phone": "+34670334050",
+                    "email": "dmbct1@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Juan A Soler, MD, PhD",
+                    "phone": "+34661764387",
+                    "email": "juasobar@hotmail.com"
+                }
             },
             {
                 "facility": {
@@ -349,6 +470,27 @@
                     "address": {
                         "city": "Pontevedra",
                         "zip": "36071",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Marina Varela, MD, PhD",
+                    "phone": "+34607358008",
+                    "email": "marina.varela.duran@sergas.es"
+                },
+                "contact_backup": {
+                    "last_name": "Pilar Diaz-Parada, MD",
+                    "phone": "+34686101085",
+                    "email": "pilar.diaz.parada@sergas.es"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Anesthesia, Hospital General Universitario de Valencia",
+                    "address": {
+                        "city": "Valencia",
+                        "zip": "46010",
                         "country": "Spain"
                     }
                 },
@@ -363,7 +505,17 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Gerardo Aguilar, MD, PhD",
+                    "phone": "+34639715165",
+                    "email": "gaguilar.aguilar1@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Jos\u00e9 A Carbonell, MD",
+                    "phone": "+34605472557",
+                    "email": "joseacarbonell19@gmail.com"
+                }
             },
             {
                 "facility": {
@@ -374,7 +526,31 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jos\u00e9 Ferreres, MD, PhD",
+                    "phone": "+34627557288",
+                    "email": "ferreresj@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Mar\u00eda L Blasco, MD",
+                    "phone": "+34609231344",
+                    "email": "mablas13@gmail.com"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Nieves Carbonell, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Ainhoa Serrano, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Mar Juan, MD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
             },
             {
                 "facility": {
@@ -385,7 +561,17 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jos\u00e9 I G\u00f3mez-Herreras, MD, PhD",
+                    "phone": "+34693417969",
+                    "email": "jgomez012001@yahoo.es"
+                },
+                "contact_backup": {
+                    "last_name": "Mario Lorenzo-L\u00f3pez, MD",
+                    "phone": "+34654860101",
+                    "email": "mariolorenzo17@yahoo.es"
+                }
             },
             {
                 "facility": {
@@ -396,7 +582,21 @@
                         "country": "Spain"
                     }
                 },
-                "status": "Active, not recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Lorena Fern\u00e1ndez, MD, PhD",
+                    "phone": "+34626479670",
+                    "email": "mlorefer@yahoo.es"
+                },
+                "contact_backup": {
+                    "last_name": "Jes\u00fas Sanchez-Ballesteros, MD",
+                    "phone": "+34655942577",
+                    "email": "jsanchezba@saludcastillayleon.es"
+                },
+                "investigator": {
+                    "last_name": "Pablo Blanco, MD",
+                    "role": "Sub-Investigator"
+                }
             }
         ],
         "location_countries": {
@@ -409,11 +609,11 @@
             "@type": "Actual",
             "#text": "March 27, 2020"
         },
-        "last_update_submitted": "April 4, 2020",
-        "last_update_submitted_qc": "April 4, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 7, 2020"
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

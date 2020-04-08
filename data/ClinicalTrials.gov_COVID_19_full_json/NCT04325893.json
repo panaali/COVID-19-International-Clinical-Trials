@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "274",
+        "@rank": "291",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04325893"
         },
@@ -27,7 +27,7 @@
         "brief_summary": {
             "textblock": "A new human coronavirus responsible for pneumonia, SARS-CoV-2, emerged in China in December\n      2019 and has spread rapidly. COVID-19, the disease caused by this virus, has a very\n      polymorphous clinical presentation, which ranges from upper respiratory tract infections to\n      acute respiratory distress syndrome. It may appear serious straightaway or may evolve in two\n      stages, with a worsening 7 to 10 days after the first clinical signs, potentially linked to a\n      cytokine storm and accompanied by a high risk of thrombosis. The global mortality rate of\n      COVID-19 is between 3% and 4%, with severe forms being more frequent among older patients.\n      Management is symptomatic as no antiviral treatment has demonstrated any clinical benefit in\n      this condition. Hydroxychloroquine is a derivative of chloroquine commonly used in some\n      autoimmune diseases, such as systemic lupus erythematosus. It is active in vitro in cellular\n      models of infection by many viruses such as HIV, hepatitis C or SARS-CoV. However, its\n      interest in viral infections in humans has not been demonstrated.\n\n      Very recently, a preliminary uncontrolled study evaluated the effect of hydroxychloroquine on\n      viral shedding in subjects with COVID-19. Among 20 patients treated with hydroxychloroquine\n      at a dose of 600 mg per day, the percentage of patients with detectable SARS-CoV-2 RNA in the\n      nasopharynx decreased from 100% at inclusion (start of treatment) to 43% six days later. In\n      comparison, 15 of 16 untreated patients had a positive RT-PCR six days after inclusion.\n      Furthermore, hydroxychloroquine has immunomodulating and anti-inflammatory properties, which\n      could theoretically prevent or limit secondary worsening.\n\n      The research hypothesis is that treatment with hydroxychloroquine improves prognosis and\n      reduces the risk of death or use for invasive ventilation in patients with COVID-19."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
             "@type": "Anticipated",
             "#text": "April 2020"
@@ -50,12 +50,12 @@
             "masking": "Double (Participant, Investigator)"
         },
         "primary_outcome": {
-            "measure": "Death from any cause, or the need for intubation and mechanical ventilation during the 14 days following inclusion and start of treatment.",
+            "measure": "Number of death from any cause, or the need for intubation and mechanical ventilation during the 14 days following inclusion and start of treatment.",
             "time_frame": "Day 14"
         },
         "secondary_outcome": [
             {
-                "measure": "Death from any cause, or the need for intubation and mechanical ventilation during the 28 days following inclusion and start of treatment.",
+                "measure": "Number of death from any cause, or the need for intubation and mechanical ventilation during the 28 days following inclusion and start of treatment.",
                 "time_frame": "Day 28"
             },
             {
@@ -69,11 +69,11 @@
                 "description": "WHO Ordinal Scale for Clinical Improvement ranges from 0 to 8, higher score meaning poorer outcome"
             },
             {
-                "measure": "All-cause mortality at day 14",
+                "measure": "Number of all-cause mortality at day 14",
                 "time_frame": "Day 14"
             },
             {
-                "measure": "All-cause mortality at day 28",
+                "measure": "Number of all-cause mortality at day 28",
                 "time_frame": "Day 28"
             },
             {
@@ -89,7 +89,7 @@
                 "time_frame": "Day 28"
             },
             {
-                "measure": "All-cause mortality at day 28 in patients aged 75 and older",
+                "measure": "Number of all-cause mortality at day 28 in patients aged 75 and older",
                 "time_frame": "day 28"
             },
             {
@@ -101,7 +101,7 @@
                 "time_frame": "day 28"
             },
             {
-                "measure": "All-cause mortality at day 14 in patients aged 75 and older",
+                "measure": "Number of all-cause mortality at day 14 in patients aged 75 and older",
                 "time_frame": "day 14"
             }
         ],
@@ -151,10 +151,10 @@
             "email": "vincent.dubee@chu-angers.fr"
         },
         "overall_contact_backup": {
-            "last_name": "B\u00e9atrice GABLE",
-            "phone": "241356825",
+            "last_name": "DRCI ANGERS",
+            "phone": "241353637",
             "phone_ext": "+33",
-            "email": "begable@chu-angers.fr"
+            "email": "DRCI-Promotion-Interne@chu-angers.fr"
         },
         "location": [
             {
@@ -165,6 +165,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Patrick Rispal, MD"
                 }
@@ -177,8 +178,22 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Jean-Philippe Lanoix, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Angers",
+                    "address": {
+                        "city": "Angers",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Vincent Dub\u00e9e"
                 }
             },
             {
@@ -189,6 +204,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Robin Dhote, MD"
                 }
@@ -201,6 +217,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "S\u00e9verine Ansart, MD"
                 }
@@ -213,6 +230,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Aur\u00e9lie Baldolli, MD"
                 }
@@ -225,6 +243,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Fran\u00e7ois Laterza, MD"
                 }
@@ -237,6 +256,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Roxane Courtois, MD"
                 }
@@ -249,6 +269,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Martin Martinot, MD"
                 }
@@ -261,6 +282,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Rapha\u00ebl Lepeule, MD"
                 }
@@ -273,6 +295,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Lionel Piroth, MD"
                 }
@@ -285,6 +308,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Thomas Guimard, MD"
                 }
@@ -297,6 +321,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "R\u00e9mi VATAN, MD"
                 }
@@ -309,6 +334,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Jean-Baptiste LAINE"
                 }
@@ -321,6 +347,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Jean-Fran\u00e7ois Faucher, MD"
                 }
@@ -333,6 +360,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Aur\u00e9lien Lorleac'h, MD"
                 }
@@ -345,6 +373,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Sylvain Diamantis, MD"
                 }
@@ -357,6 +386,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Philippe RAFFI, MD"
                 }
@@ -369,6 +399,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Olivier Grossi, MD"
                 }
@@ -381,6 +412,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Simon Sunder, MD"
                 }
@@ -393,6 +425,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Philippe Prazuck, MD"
                 }
@@ -405,6 +438,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Karine Lacombe, MD"
                 }
@@ -417,6 +451,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Val\u00e9rie Pourcher, MD"
                 }
@@ -429,6 +464,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Blandine Rammaert, MD"
                 }
@@ -441,6 +477,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Edouard Devaud, MD"
                 }
@@ -453,6 +490,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Jean-Philippe Talarmin, MD"
                 }
@@ -465,6 +503,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Rodolphe Buzele, MD"
                 }
@@ -477,6 +516,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Julia Brochard, MD"
                 }
@@ -489,6 +529,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Elisabeth Bothelo-Nevers, MD"
                 }
@@ -501,6 +542,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Guillaume Martin-Blondel, MD"
                 }
@@ -513,6 +555,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Olivier Robineau, MD"
                 }
@@ -525,6 +568,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Bernard Louis, MD"
                 }
@@ -537,6 +581,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Alina Tone, MD"
                 }
@@ -549,6 +594,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Thomas Gey, MD"
                 }
@@ -561,6 +607,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Marie Gousseff, MD"
                 }
@@ -573,6 +620,7 @@
                         "country": "France"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Emma D'Anglejean, MD"
                 }
@@ -585,6 +633,7 @@
                         "country": "Monaco"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Yann-Erick Claessens, MD"
                 }
@@ -603,11 +652,11 @@
             "@type": "Actual",
             "#text": "March 30, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

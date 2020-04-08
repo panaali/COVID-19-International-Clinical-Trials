@@ -1,0 +1,170 @@
+{
+    "clinical_study": {
+        "@rank": "73",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338074"
+        },
+        "id_info": {
+            "org_study_id": "TXACOVID1",
+            "nct_id": "NCT04338074"
+        },
+        "brief_title": "TXA and Corona Virus 2019 (COVID19) in Outpatients",
+        "acronym": "TCOutpatient",
+        "official_title": "Exploratory Studies of the Effect of Tranexamic Acid Treatment on the Progression of COVID19 in Outpatients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Alabama at Birmingham",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Alabama at Birmingham",
+        "oversight_info": {
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "A controlled trial of the drug tranexamic acid (TXA) in outpatients who were recently\n      diagnosed with COVID-19. It is hypothesized that TXA will reduce the infectivity and\n      virulence of the virus."
+        },
+        "detailed_description": {
+            "textblock": "A recent report in Physiological Reviews proposed that the endogenous protease plasmin acts\n      on the COVID19 virus by cleaving a newly inserted furin site in the S protein portion of the\n      virus resulting in increased infectivity and virulence. Patients with hypertension, diabetes,\n      coronary artery disease, cerebrovascular illness, lung disease and kidney dysfunction\n      commonly have elevated levels of plasmin/plasminogen and it was proposed that this may be the\n      mechanism for poorer outcomes in patients with these co-morbidities. A logical treatment that\n      might blunt this process would be the inhibition of the conversion of plasminogen to plasmin.\n      There is an inexpensive, commonly used drug, tranexamic acid, (TXA), which suppresses this\n      conversion and could be re-purposed for the treatment of COVID19.\n\n      TXA is a synthetic analog of the amino acid lysine which reversibly binds four to five lysine\n      receptor sites on plasminogen. This reduces conversion of plasminogen to plasmin, and is\n      normally used to prevent fibrin degradation. TXA is FDA approved for treatment of heavy\n      menstrual bleeding (typical dose 1300 mg p.o. three times per day x 5 days) and off-label use\n      for many other indications. TXA is used perioperatively as a standard-of-care at the\n      University of Alabama at Birmingham (UAB) for orthopedic and cardiac bypass surgeries. At our\n      institution, it is commonly employed in hemorrhaging trauma patients and currently is being\n      studied for perioperative use in Cesarean section surgeries. It has also been utilized for\n      spinal surgery, neurosurgery, orthognathic surgeries and even long term for the treatment of\n      cosmetic dermatological disorders with a long track record of safety. Given the potential\n      benefit and limited toxicity of TXA it would appear warranted to perform a rapid randomized,\n      double-blind placebo controlled exploratory trial at UAB in the treatment of the early phases\n      of COVID19 to determine whether it reduces infectivity and virulence of the COVID19 virus as\n      hypothesized. Involvement of each patient is only for 7 days before primary endpoints.\n\n      An exploratory, randomized, placebo-controlled, double-blind Phase 2 clinical trial in which\n      study patients have just been diagnosed with COVID19 as an outpatient. The overall goal of\n      this exploratory study is to assess both safety and efficacy of 5 days of TXA versus placebo\n      in the COVID19 population. All patients would also receive daily Lovenox. The primary\n      endpoint for the study would be a need for hospitalization. Contact would consist of daily\n      phone contact. Care for COVID19 would otherwise be standard of care."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 15, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Randomized, placebo-controlled, double-blind comparison",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",
+            "masking_description": "Pharmacy prepares 5 day packs of medications that are coded"
+        },
+        "primary_outcome": {
+            "measure": "Hospitalization",
+            "time_frame": "Randomization to 7 days after randomization",
+            "description": "Admission to hospital for COVID-19 treatment"
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Tranexamic Acid Treatment",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Placebo Treatment",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Tranexamic acid tablets",
+                "description": "Oral dosing of 1300 mg p.o. three times per day x 5 days versus identical placebos",
+                "arm_group_label": "Tranexamic Acid Treatment"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo oral tablet",
+                "description": "2 tablets p.o. three times per day x 5 days",
+                "arm_group_label": "Placebo Treatment"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Positive COVID-19 test\n\n          -  Outpatient\n\n          -  Age >/= 19 y.o.\n\n        Exclusion Criteria:\n\n          -  Allergic reaction to tranexamic acid\n\n          -  History of hypercoagulation disorders (deep venous thrombosis, pulmonary\n             thromboembolism)\n\n          -  Ongoing anticoagulation\n\n          -  History of GI bleeding\n\n          -  History of Seizures\n\n          -  Cardiac or other vascular stents\n\n          -  History of severe renal disease\n\n          -  History of intracranial hemorrhage"
+            },
+            "gender": "All",
+            "minimum_age": "19 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Timothy J Ness, MD PhD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Alabama at Birmingham"
+        },
+        "overall_contact": {
+            "last_name": "Timothy J Ness, MD PhD",
+            "phone": "2059079743",
+            "email": "tness@uabmc.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Alabama at Birmingham",
+                "address": {
+                    "city": "Birmingham",
+                    "state": "Alabama",
+                    "zip": "35222",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "Timothy J Ness",
+                "phone": "205-907-9743",
+                "email": "tness@uabmc.edu"
+            },
+            "investigator": [
+                {
+                    "last_name": "Sonya Heath, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Brant Wagener, MD PhD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Sadis Matalon, PhD",
+                    "role": "Principal Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Alabama at Birmingham",
+            "investigator_full_name": "Timothy Ness, MD",
+            "investigator_title": "Professor"
+        },
+        "intervention_browse": {
+            "mesh_term": "Tranexamic Acid"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

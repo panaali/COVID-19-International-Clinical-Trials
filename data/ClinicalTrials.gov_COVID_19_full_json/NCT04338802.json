@@ -1,0 +1,179 @@
+{
+    "clinical_study": {
+        "@rank": "317",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338802"
+        },
+        "id_info": {
+            "org_study_id": "huilanz Zhang",
+            "nct_id": "NCT04338802"
+        },
+        "brief_title": "Efficacy and Safety of Nintedanib in the Treatment of Pulmonary Fibrosis in Patients With Moderate to Severe COVID -19",
+        "official_title": "Efficacy and Safety of Nintedanib Ethanesulfonate Soft Capsule in the Treatment of Pulmonary Fibrosis in Patients With Moderate to Severe COVID-9(COVID 19) : a Single-center, Randomized, Placebo-controlled Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Huilan Zhang",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Tongji Hospital",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This center intends to conduct a single-center, randomized, placebo-controlled study to\n      evaluate the effectiveness and safety of Nintedanib ethanesulfonate soft capsule in the\n      treatment of pulmonary fibrosis in patients with moderate to severe COVID-19."
+        },
+        "detailed_description": {
+            "textblock": "This center intends to conduct a single-center, randomized, placebo-controlled study to\n      evaluate the effectiveness and safety of Nintedanib ethanesulfonate soft capsule in the\n      treatment of pulmonary fibrosis in patients with moderate to severe COVID-19. The number of\n      cases is estimated based on the following:\n\n      This exploratory trial is expected to complete 80 case studies (randomly divided into control\n      group and test group each with 40 cases), and the expected drop-out rate is not more than\n      20%, so the total number of cases is 96. Placebo control group:\n\n      Empty capsules with the same appearance and ingredients as Nintedanib soft capsules: one\n      capsule at a time, twice a day, with an interval of about 12 hours each time. Continuous\n      medication for 8 weeks.\n\n      Nintedanib Nintedanib cloth sulfonate soft capsule treatment: According to the drug manual\n      recommendation, give Nintedanib cloth sulfonate soft capsule 150mg twice daily with an\n      interval of about 12 hours each time, with food. Continuous medication for 8 weeks."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 4, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Changes in forced vital capacity (FVC)",
+            "time_frame": "8 weeks",
+            "description": "Changes in forced vital capacity (FVC) after treatment compared to baseline."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Changes in carbon monoxide dispersion (DLco%)",
+                "time_frame": "8 weeks",
+                "description": "Changes incarbon monoxide dispersion (DLco%) after treatment compared to baseline."
+            },
+            {
+                "measure": "Changes in the six-minute walk test (6MWT)",
+                "time_frame": "8 weeks",
+                "description": "Changes in the six-minute walk test (6MWT) after treatment compared to baseline."
+            },
+            {
+                "measure": "Changes in High resolution CT score",
+                "time_frame": "8 weeks",
+                "description": "Changes in High resolution CT score after treatment compared to baseline.The minimum and maximum values are 0 and 25 , and higher scores mean a worse outcome. As for the score, it is the expected value and will be determined according to the actual result"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "96"
+        },
+        "condition": [
+            "COVID-19",
+            "Nintedanib",
+            "Safety",
+            "Effect of Drugs"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo group",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Empty capsules with the same appearance and ingredients as Nintedanib soft capsules: one capsule at a time, twice a day, with an interval of about 12 hours each time. Continuous medication for 8 weeks."
+            },
+            {
+                "arm_group_label": "Nintedanib group",
+                "arm_group_type": "Experimental",
+                "description": "Nintedanib cloth sulfonate soft capsule treatment: According to the drug manual recommendation, give Nintedanib cloth sulfonate soft capsule 150mg twice daily with an interval of about 12 hours each time. Continuous medication for 8 weeks."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Nintedanib 150 MG",
+                "description": "Nintedanib cloth sulfonate 150 mg, twice a day, about 12 hours apart. Continuous medication for 8 weeks.",
+                "arm_group_label": "Nintedanib group"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "Empty capsules with the same appearance and ingredients as Nidanib soft capsules: one capsule at a time, twice a day, with an interval of about 12 hours each time. Continuous medication for 8 weeks.",
+                "arm_group_label": "Placebo group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. 18-70 years old (including 18 and 70 years old), regardless of gender;\n\n          2. Infection with new coronavirus pneumonia was confirmed by throat swab nucleic acid\n             test. Patients with severe and critical illness were clinically judged. The symptoms\n             of acute infection have been alleviated after treatment (at least 14 days after onset,\n             no fever for more than 3 days), and the disease is recovering Within three months;\n\n          3. CT examination of patients with multiple fibrotic shadows in both lungs;\n\n          4. Blood routine, liver, and kidney functions are within the controllable range: such as\n             the normal upper limit of plasma total bilirubin and creatinine \u2264 1.5 times; AST, ALT,\n             LDH \u2264 2 times the normal upper limit; sufficient hematopoietic function: such as white\n             blood cells \u22654.0 \u00d7 109 / L, platelets \u2265100 \u00d7 109 / L;\n\n          5. Signed informed consent.\n\n        Exclusion Criteria:\n\n          1. Previous history of chronic bronchitis, emphysema, interstitial lung disease or\n             pulmonary heart disease;\n\n          2. Combining with other serious diseases: such as those who have suffered myocardial\n             infarction and uncontrollable diabetes within 6 months, and are considered unsuitable\n             to participate in the trial;\n\n          3. People with active peptic ulcer;\n\n          4. Patients during pregnancy and lactation\n\n          5. Patients with mental illness or others who cannot cooperate effectively;\n\n          6. Researcher judges uncomfortable to participate in trial"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "70 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Huilan Zhang, PD",
+            "phone": "15391532171",
+            "email": "Huilanz_76@163.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Xianglin Yuan, PD",
+            "phone": "13667241722",
+            "email": "yuanxianglin@hust.edu.cn"
+        },
+        "reference": [
+            {
+                "citation": "Flaherty KR, Wells AU, Cottin V, Devaraj A, Walsh SLF, Inoue Y, Richeldi L, Kolb M, Tetzlaff K, Stowasser S, Coeck C, Clerisme-Beaty E, Rosenstock B, Quaresma M, Haeufel T, Goeldner RG, Schlenker-Herceg R, Brown KK; INBUILD Trial Investigators. Nintedanib in Progressive Fibrosing Interstitial Lung Diseases. N Engl J Med. 2019 Oct 31;381(18):1718-1727. doi: 10.1056/NEJMoa1908681. Epub 2019 Sep 29.",
+                "PMID": "31566307"
+            },
+            {
+                "citation": "Richeldi L, du Bois RM, Raghu G, Azuma A, Brown KK, Costabel U, Cottin V, Flaherty KR, Hansell DM, Inoue Y, Kim DS, Kolb M, Nicholson AG, Noble PW, Selman M, Taniguchi H, Brun M, Le Maulf F, Girard M, Stowasser S, Schlenker-Herceg R, Disse B, Collard HR; INPULSIS Trial Investigators. Efficacy and safety of nintedanib in idiopathic pulmonary fibrosis. N Engl J Med. 2014 May 29;370(22):2071-82. doi: 10.1056/NEJMoa1402584. Epub 2014 May 18. Erratum in: N Engl J Med. 2015 Aug 20;373(8):782.",
+                "PMID": "24836310"
+            },
+            {
+                "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
+                "PMID": "32007143"
+            },
+            {
+                "citation": "Xie L, Liu Y, Fan B, Xiao Y, Tian Q, Chen L, Zhao H, Chen W. Dynamic changes of serum SARS-coronavirus IgG, pulmonary function and radiography in patients recovering from SARS after hospital discharge. Respir Res. 2005 Jan 8;6:5.",
+                "PMID": "15638943"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Tongji Hospital",
+            "investigator_full_name": "Huilan Zhang",
+            "investigator_title": "Director of Respiratory and Critical Care Medicine , Tongji Hospital of Tongji Medical College, Huazhong University of Science and Technology"
+        },
+        "condition_browse": {
+            "mesh_term": "Pulmonary Fibrosis"
+        },
+        "intervention_browse": {
+            "mesh_term": "Nintedanib"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

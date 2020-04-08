@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "363",
+        "@rank": "385",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04308668"
         },
@@ -12,7 +12,7 @@
         },
         "brief_title": "Post-exposure Prophylaxis / Preemptive Therapy for SARS-Coronavirus-2",
         "acronym": "COVID-19 PEP",
-        "official_title": "Post-exposure Prophylaxis and Preemptive Therapy for SARS-Coronavirus-2: A Pragmatic Randomized Clinical Trial",
+        "official_title": "Post-exposure Prophylaxis or Preemptive Therapy for SARS-Coronavirus-2: A Pragmatic Randomized Clinical Trial",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "University of Minnesota",
@@ -40,7 +40,7 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "Study Objective:\n\n        1. To test if post-exposure prophylaxis with hydroxychloroquine can prevent symptomatic\n           COVID-19 disease after known exposure to the SARS-CoV-2 coronavirus.\n\n        2. To test if preemptive therapy with hydroxychloroquine early in the sypmptomatic COVID-19\n           disease course can prevent progression of persons with known symptomatic COVID19\n           disease, decrease hospitalization."
+            "textblock": "Study Objective:\n\n        1. To test if post-exposure prophylaxis with hydroxychloroquine can prevent symptomatic\n           COVID-19 disease after known exposure to the SARS-CoV-2 coronavirus.\n\n        2. To test if early preemptive hydroxychloroquine therapy can prevent disease progression\n           in persons with known symptomatic COVID-19 disease, decreasing hospitalizations and\n           symptom severity."
         },
         "detailed_description": {
             "textblock": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a rapidly emerging viral\n      infection causing COVID19. The current strategy uses a public health model of identifying\n      infected cases, isolation, and quarantine to stop transmission. Once exposed, observation is\n      standard-of-care. Therapy is generally not given to persons who are not hospitalized.\n\n      Hydroxychloroquine may have antiviral effects against SARS-COV2 which may prevent COVID-19\n      disease or early preemptive therapy may decrease disease severity. This trial will use a\n      modification of standard malaria dosing of hydroxychloroquine to provide post-exposure\n      prophylaxis to prevent disease or preemptive therapy for those with early symptoms. People\n      around the the United States and Canada can participate to help answer this critically\n      important question. No in-person visits are needed.\n\n      This trial is targeting 5 groups of people NATIONWIDE to participate:\n\n        1. If you are symptomatic with a positive COVID-19 test within the first 4 days of symptoms\n           and are not hospitalized; OR\n\n        2. If you live with someone who has been diagnosed with COVID-19, with your last exposure\n           within the last 4 days, and do not have any symptoms; OR\n\n        3. If you live with someone who has been diagnosed with COVID-19, and your symptoms started\n           within the last 4 days; OR\n\n        4. If you are a healthcare worker or first responder with known exposure to someone with\n           lab-confirmed COVID-19 within the last 4 days and do not have symptoms; OR\n\n        5. If you are a healthcare worker or first responder and have compatible symptoms starting\n           within the last 4 days;\n\n      You may participate if you live anywhere in the United States (including territories) or in\n      the Canadian Provinces of Quebec, Manitoba, or Alberta.\n\n      For information on how to participate in the research trial, go to covidpep.umn.edu or email\n      covid19@umn.edu for instructions. Please check your spam folder if you email.\n\n      In Canada, for trial information, please go to: www.covid-19research.ca"
@@ -350,11 +350,11 @@
             "@type": "Actual",
             "#text": "March 16, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

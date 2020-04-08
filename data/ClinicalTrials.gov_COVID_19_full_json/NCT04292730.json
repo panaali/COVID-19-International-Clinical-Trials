@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "59",
+        "@rank": "62",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04292730"
         },
@@ -26,7 +26,7 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "The primary objective of this study is to evaluate the efficacy of 2 remdesivir (RDV)\n      regimens compared to standard of care (SOC), with respect to the time to discharge in\n      participants with moderate coronavirus disease (COVID-19)."
+            "textblock": "The primary objective of this study is to evaluate the efficacy of 2 remdesivir (RDV)\n      regimens compared to standard of care (SOC), with respect to clinical status assessed by a\n      7-point ordinal scale on Day 11."
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -43,7 +43,7 @@
         },
         "phase": "Phase 3",
         "study_type": "Interventional",
-        "has_expanded_access": "No",
+        "has_expanded_access": "Yes",
         "study_design_info": {
             "allocation": "Randomized",
             "intervention_model": "Parallel Assignment",
@@ -51,34 +51,40 @@
             "masking": "None (Open Label)"
         },
         "primary_outcome": {
-            "measure": "Proportion of Participants Discharged by Day 14",
-            "time_frame": "First dose date or randomization date up to 14 days"
+            "measure": "The Odds of Ratio for Improvement on a 7-point Ordinal Scale on Day 11",
+            "time_frame": "Day 11",
+            "description": "The odds ratio represents the odds of improvement in the ordinal scale between the treatment groups. The ordinal scale is an assessment of the clinical status at a given day. Each day, the worst score from the previous day will be recorded. The scale is as follows: 1. Death 2. Hospitalized, on invasive mechanical ventilation or Extracorporeal Membrane Oxygenation (ECMO) 3. Hospitalized, on non-invasive ventilation or high flow oxygen devices 4. Hospitalized, requiring low flow supplemental oxygen 5. Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (coronavirus (COVID-19) related or otherwise) 6. Hospitalized, not requiring supplemental oxygen - no longer required ongoing medical care (other than per protocol Remdesivir administration 7. Not hospitalized."
         },
         "secondary_outcome": {
-            "measure": "Proportion of Participants With Treatment Emergent Adverse Events Leading to Study Drug Discontinuation",
-            "time_frame": "First dose date up to 10 days"
+            "measure": "Proportion of Participants experiencing Treatment-Emergent Adverse Events",
+            "time_frame": "First dose date up to 10 days plus 30 days"
         },
-        "number_of_arms": "3",
+        "number_of_arms": "4",
         "enrollment": {
             "@type": "Anticipated",
-            "#text": "600"
+            "#text": "1600"
         },
         "condition": "COVID-19",
         "arm_group": [
             {
-                "arm_group_label": "Remdesivir (RDV), 5 Days",
+                "arm_group_label": "Part A: Remdesivir (RDV), 5 Days",
                 "arm_group_type": "Experimental",
                 "description": "Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, and 5."
             },
             {
-                "arm_group_label": "Remdesivir, 10 Days",
+                "arm_group_label": "Part A: Remdesivir, 10 Days",
                 "arm_group_type": "Experimental",
                 "description": "Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, 5, 6, 7, 8, 9, and 10."
             },
             {
-                "arm_group_label": "Continued SOC Therapy",
+                "arm_group_label": "Part A: Continued SOC Therapy",
                 "arm_group_type": "Active Comparator",
                 "description": "Participants will receive continued standard of care therapy."
+            },
+            {
+                "arm_group_label": "Part B: Extension Treatment, Remdesivir 5 or 10 days",
+                "arm_group_type": "Experimental",
+                "description": "Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, 5, 6, 7, 8, 9, and 10."
             }
         ],
         "intervention": [
@@ -87,28 +93,30 @@
                 "intervention_name": "Remdesivir",
                 "description": "Administered as an intravenous infusion",
                 "arm_group_label": [
-                    "Remdesivir (RDV), 5 Days",
-                    "Remdesivir, 10 Days"
+                    "Part A: Remdesivir (RDV), 5 Days",
+                    "Part A: Remdesivir, 10 Days",
+                    "Part B: Extension Treatment, Remdesivir 5 or 10 days"
                 ],
                 "other_name": "GS-5734\u2122"
             },
             {
                 "intervention_type": "Drug",
                 "intervention_name": "Standard of Care",
-                "description": "Standard of care therapy per local written policies or guidelines",
+                "description": "Standard of Care Treatment for COVID-19 Infection",
                 "arm_group_label": [
-                    "Continued SOC Therapy",
-                    "Remdesivir (RDV), 5 Days",
-                    "Remdesivir, 10 Days"
+                    "Part A: Continued SOC Therapy",
+                    "Part A: Remdesivir (RDV), 5 Days",
+                    "Part A: Remdesivir, 10 Days",
+                    "Part B: Extension Treatment, Remdesivir 5 or 10 days"
                 ]
             }
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Key Inclusion Criteria:\n\n          -  Willing and able to provide written informed consent prior to performing study\n             procedures\n\n          -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by\n             polymerase chain reaction (PCR) test \u2264 4 days before randomization\n\n          -  Currently hospitalized with fever defined as temperature \u2265 36.6 \u00b0C armpit, \u2265 37.2 \u00b0C\n             oral, or \u2265 37.8 \u00b0C rectal\n\n          -  Peripheral capillary oxygen saturation (SpO2) > 94% on room air at screening\n\n          -  Radiographic evidence of pulmonary infiltrates\n\n        Key Exclusion Criteria:\n\n          -  Participation in any other clinical trial of an experimental treatment for COVID-19\n\n          -  Concurrent treatment with other agents with actual or possible direct acting antiviral\n             activity against SARS-CoV-2 is prohibited < 24 hours prior to study drug dosing\n\n          -  Requiring mechanical ventilation at screening\n\n          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit\n             of normal (ULN)\n\n          -  Creatinine clearance < 50 mL/min\n\n        Note: Other protocol defined Inclusion/Exclusion criteria may apply."
+                "textblock": "Key Inclusion Criteria:\n\n          -  Willing and able to provide written informed consent prior to performing study\n             procedures (participants \u2265 18 years of age) or assent (participants \u2265 12 and < 18\n             years of age) prior to performing study procedures. For participants \u2265 12 and < 18\n             years of age, a parent or legal guardian willing and able to provide written informed\n             consent prior to performing study procedures\n\n          -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by\n             polymerase chain reaction (PCR) test \u2264 4 days before randomization\n\n          -  Currently hospitalized and requiring medical care for COVID-19\n\n          -  Peripheral capillary oxygen saturation (SpO2) > 94% on room air at screening\n\n          -  Radiographic evidence of pulmonary infiltrates\n\n        Key Exclusion Criteria:\n\n          -  Participation in any other clinical trial of an experimental treatment for COVID-19\n\n          -  Concurrent treatment with other agents with actual or possible direct acting antiviral\n             activity against SARS-CoV-2 < 24 hours prior to study drug dosing\n\n          -  Requiring mechanical ventilation at screening\n\n          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit\n             of normal (ULN)\n\n          -  Creatinine clearance < 50 mL/min using the Cockcroft-Gault formula for participants \u2265\n             18 years of age {Cockcroft 1976} and Schwartz Formula for participants < 18 years of\n             age\n\n        Note: Other protocol defined Inclusion/Exclusion criteria may apply."
             },
             "gender": "All",
-            "minimum_age": "18 Years",
+            "minimum_age": "12 Years",
             "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
@@ -154,6 +162,18 @@
                         "city": "Fontana",
                         "state": "California",
                         "zip": "92335",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "St Joseph Hospital Eureka",
+                    "address": {
+                        "city": "Fortuna",
+                        "state": "California",
+                        "zip": "95540",
                         "country": "United States"
                     }
                 },
@@ -245,6 +265,18 @@
             },
             {
                 "facility": {
+                    "name": "Kaiser Permanente-Oakland/San Francisco",
+                    "address": {
+                        "city": "Oakland",
+                        "state": "California",
+                        "zip": "94611",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Kaiser Permanente Los Angeles Medical Center, 2295 S. Vineyard Avenue",
                     "address": {
                         "city": "Ontario",
@@ -286,6 +318,18 @@
                         "city": "San Diego",
                         "state": "California",
                         "zip": "92120-2507",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "California Pacific Medical Center-Infectious Disease Associates Medical Group",
+                    "address": {
+                        "city": "San Francisco",
+                        "state": "California",
+                        "zip": "94109",
                         "country": "United States"
                     }
                 },
@@ -341,6 +385,18 @@
             },
             {
                 "facility": {
+                    "name": "University of Colorado Denver, University of Colorado Hospital",
+                    "address": {
+                        "city": "Aurora",
+                        "state": "Colorado",
+                        "zip": "80045",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Yale University",
                     "address": {
                         "city": "New Haven",
@@ -354,6 +410,18 @@
             {
                 "facility": {
                     "name": "Cook County General Hospital",
+                    "address": {
+                        "city": "Chicago",
+                        "state": "Illinois",
+                        "zip": "60612",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Rush University Medical Center",
                     "address": {
                         "city": "Chicago",
                         "state": "Illinois",
@@ -382,6 +450,18 @@
                         "city": "Iowa City",
                         "state": "Iowa",
                         "zip": "52242",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Holy Cross Hospital",
+                    "address": {
+                        "city": "Silver Spring",
+                        "state": "Maryland",
+                        "zip": "20910",
                         "country": "United States"
                     }
                 },
@@ -421,7 +501,7 @@
                         "country": "United States"
                     }
                 },
-                "status": "Not yet recruiting"
+                "status": "Recruiting"
             },
             {
                 "facility": {
@@ -437,7 +517,7 @@
             },
             {
                 "facility": {
-                    "name": "Mayo Clinic Rochester",
+                    "name": "Mayo Clinic",
                     "address": {
                         "city": "Rochester",
                         "state": "Minnesota",
@@ -445,11 +525,7 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "Michael Ackerman, MD, PhD",
-                    "phone": "507-284-8900"
-                }
+                "status": "Recruiting"
             },
             {
                 "facility": {
@@ -569,16 +645,19 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "David Bernstein, MD",
-                    "phone": "516-562-2061",
-                    "email": "dbernste@nshs.edu"
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "North Shore University Hospital, 270-05 76th Ave",
+                    "address": {
+                        "city": "New Hyde Park",
+                        "state": "New York",
+                        "zip": "11040",
+                        "country": "United States"
+                    }
                 },
-                "investigator": {
-                    "last_name": "David Bernstein, MD",
-                    "role": "Principal Investigator"
-                }
+                "status": "Recruiting"
             },
             {
                 "facility": {
@@ -590,7 +669,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -602,7 +684,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -614,7 +699,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -626,7 +714,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -734,15 +825,7 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "Sandra Amoroso",
-                    "phone": "215-707-4600"
-                },
-                "investigator": {
-                    "last_name": "Jesse M Goldman, MD",
-                    "role": "Principal Investigator"
-                }
+                "status": "Recruiting"
             },
             {
                 "facility": {
@@ -751,6 +834,18 @@
                         "city": "Providence",
                         "state": "Rhode Island",
                         "zip": "02906",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Prisma Health Richland Hospital",
+                    "address": {
+                        "city": "Columbia",
+                        "state": "South Carolina",
+                        "zip": "29203",
                         "country": "United States"
                     }
                 },
@@ -851,11 +946,6 @@
                     }
                 },
                 "status": "Recruiting",
-                "contact": {
-                    "last_name": "Melodie Mains",
-                    "phone": "703-776-6485",
-                    "email": "melodie.mains@inova.org"
-                },
                 "investigator": {
                     "last_name": "Oksana Shlobin",
                     "role": "Principal Investigator"
@@ -880,6 +970,18 @@
                         "city": "Everett",
                         "state": "Washington",
                         "zip": "98201",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Providence St. Peter Hospital",
+                    "address": {
+                        "city": "Olympia",
+                        "state": "Washington",
+                        "zip": "98506",
                         "country": "United States"
                     }
                 },
@@ -935,6 +1037,18 @@
             },
             {
                 "facility": {
+                    "name": "St Joseph Medical Center",
+                    "address": {
+                        "city": "Tacoma",
+                        "state": "Washington",
+                        "zip": "98405",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "The First Affiliated Hospital of Guangzhou Medical University",
                     "address": {
                         "city": "Guangzhou",
@@ -945,7 +1059,18 @@
             },
             {
                 "facility": {
-                    "name": "University Clinic D\u00fcsseldorf",
+                    "name": "Chu Montpellier",
+                    "address": {
+                        "city": "Montpelier Cedex 5",
+                        "zip": "34295",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Universitatsklinikum Dusseldorf, Klinik fur Gastroenterologie, Hepatologie und Infektiologie",
                     "address": {
                         "city": "D\u00fcsseldorf",
                         "zip": "40225",
@@ -1085,6 +1210,26 @@
             },
             {
                 "facility": {
+                    "name": "Ospedale Guglielmo da Saliceto AUSL di Piacenza",
+                    "address": {
+                        "city": "Piacenza",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Istituto Nazionale Malattie Infettive Lazzaro Spallanzani I.R.C.C.S.",
+                    "address": {
+                        "city": "Roma",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Kyungpook National University Hospital",
                     "address": {
                         "city": "Daegu",
@@ -1112,6 +1257,17 @@
                         "city": "Seoul",
                         "zip": "04564",
                         "country": "Korea, Republic of"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Leiden University Medical Center",
+                    "address": {
+                        "city": "Leiden",
+                        "zip": "2300 RC",
+                        "country": "Netherlands"
                     }
                 },
                 "status": "Recruiting"
@@ -1166,6 +1322,17 @@
                     "address": {
                         "city": "Bizkaia",
                         "zip": "48903",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario 12 de Octubre",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28041",
                         "country": "Spain"
                     }
                 },
@@ -1269,15 +1436,28 @@
                     }
                 },
                 "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Sheffield Teaching Hospitals",
+                    "address": {
+                        "city": "Sheffield",
+                        "zip": "S10 2JF",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
             }
         ],
         "location_countries": {
             "country": [
                 "China",
+                "France",
                 "Germany",
                 "Hong Kong",
                 "Italy",
                 "Korea, Republic of",
+                "Netherlands",
                 "Singapore",
                 "Spain",
                 "Switzerland",
@@ -1296,11 +1476,11 @@
             "@type": "Actual",
             "#text": "March 3, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

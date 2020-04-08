@@ -1,0 +1,236 @@
+{
+    "clinical_study": {
+        "@rank": "298",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337918"
+        },
+        "id_info": {
+            "org_study_id": "COVID-CTP-01",
+            "nct_id": "NCT04337918"
+        },
+        "brief_title": "Nitric Oxide Releasing Solutions to Prevent and Treat Mild/Moderate COVID-19 Infection",
+        "acronym": "NOCOVID",
+        "official_title": "Multi-Center, Randomized, Controlled, Phase II Clinical Efficacy Study Evaluating Nitric Oxide Releasing Solution Treatment for the Prevention and Treatment of COVID-19 in Healthcare Workers and Individuals at Risk of Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sanotize Research and Development corp.",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "The Emmes Company, LLC",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Sanotize Research and Development corp.",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a multi-center, randomized, controlled, phase II clinical efficacy study evaluating a\n      novel Nitric Oxide Releasing Solution (NORS) treatment for the prevention and treatment of\n      COVID-19 in healthcare workers at risk of infection. Participants will be enrolled into one\n      of two components of this study. Based on initial swabs/symptoms, volunteers who are COVID-19\n      negative will be enrolled in the Prevention study and randomized to receive standard\n      institutional precautions or standard institutional precautions + NORS. Those who are\n      COVID-19 positive will be enrolled in the open-label Treatment Sub-Study."
+        },
+        "detailed_description": {
+            "textblock": "The novel, human-infecting corona-virus, provisionally named 2019 novel corona virus\n      (2019-nCoV) is a single-strand, positive-sense RNA virus and has a similar receptor-binding\n      domain structure to that of SARS-CoV and MERS-CoV. The virus is transmitted via airborne\n      droplets to the nasal mucosa. Replication occurs locally in the nasal mucosa, in ciliated\n      epithelial cells, over a 3-day incubation period. The mucosal cells are damaged with a\n      resultant inflammatory response similar to the common cold. During this time the virus is\n      shed in nasal secretions causing disease in the lower respiratory tract, potentially causing\n      fatal viral pneumonia.\n\n      The literature supports that NO or its derivatives have inhibitory effects on a variety of\n      viral infections. This inhibitory effect was shown to be marked in Interferon (IFN) mediated\n      inhibition manifested by activated macrophage. It was also shown to be correlated with\n      s-nitrosylation of viral proteins such as reductases and proteases.\n\n      Based on the genetic similarities between SARS and corona viruses, similar viricidal effects\n      of NO on COVID-19 can be hypothesized.\n\n      SaNOtize has developed an innovative approach to provide nitric oxide gas using a formulation\n      called Nitric Oxide Releasing Solution (NORS). This patented solution releases virucidal\n      doses of NO for a sustained period (at least 30 min) against Influenza A.\n\n      NORS delivered as a gargle (AM), nasal spray (PRN) or as a nasopharyngeal flush (PM) has the\n      potential to decontaminate the upper respiratory tract that could preventing transmission and\n      progression of COVID-19 in Healthcare Workers & Individuals at Risk of Infection.\n\n      The randomized Prevention study will investigate the ability of NORS to prevent COVID-19\n      infection when used prophylactically. The open-label Treatment Sub-Study is expected to be\n      small and will provide pilot data on the possibility of NORS as a treatment for Mild/Moderate\n      COVID-19 infection."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 31, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Multi-center, prospective, randomized, controlled, phase II, parallel group",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Prevention Primary Endpoint",
+                "time_frame": "21 days",
+                "description": "To assess the efficacy of NORS in prevention of COVID-19 infection among health care professionals at risk of exposure to COVID-19. Proportion of subjects with either positive COVID-19 or presentation of clinical symptoms defined as fatigue with either fever >37.2 (oral) and/or a persistent cough in NORS vs control group by 21 days following randomization."
+            },
+            {
+                "measure": "Treatment Sub Study Primary Endpoint",
+                "time_frame": "28 days",
+                "description": "To assess the efficacy of NORS in prevention of progression of COVID- 19. Proportion of participants requiring respiratory support defined as oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation by 28 days following enrollment. Proportion of participants requiring hospitalization for COVID-19/flu-like symptoms by 28 days following enrollment."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Prevention Secondary Endpoint",
+                "time_frame": "28 days",
+                "description": "To assess the efficacy of NORS in prevention of progression of COVID- 19. Proportion of participants requiring respiratory support defined as oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation in NORS vs control group by 28 days following randomization. Proportion of participants requiring hospitalization for COVID-19/flu-like symptoms in NORS vs control group by 28 days following randomization."
+            },
+            {
+                "measure": "Prevention Secondary Endpoint",
+                "time_frame": "28 days",
+                "description": "To assess the tolerability of the NORS treatments. Adverse events, pain, discomfort or discontinuations of treatment."
+            },
+            {
+                "measure": "Treatment Sub Study Secondary Endpoint",
+                "time_frame": "28 days",
+                "description": "To assess the virucidal effect of NORS in participants with COVID-19. Median number of days to negative conversion of SARS-CoV-2 RT-PCR from an oropharyngeal or a nasopharyngeal swab with follow-up through 28 days from enrollment."
+            },
+            {
+                "measure": "Treatment Sub Study Secondary Endpoint",
+                "time_frame": "28 days",
+                "description": "To assess NORS efficacy on time to clinical recovery in participants with COVID-19. Median number of days from enrollment to clinical recovery with follow-up through 28 days. Clinical recovery defined as discharge (if admitted), or to normalization of fever (defined as <36.6\u00b0C from axillary site, or < 37.2\u00b0C from oral site or < 37.8\u00b0C from rectal or tympanic site), respiratory rate (< 24 bpm while breathing room air)."
+            },
+            {
+                "measure": "Treatment Sub Study Secondary Endpoint",
+                "time_frame": "28 days",
+                "description": "To assess reduction of clinical symptoms in participants with COVID- 19. Change in Modified Jackson Cold Score Diary Score."
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "Corona Virus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Prevention - Standard Precautions",
+                "arm_group_type": "No Intervention",
+                "description": "Participants COVID-19 negative at baseline will be randomized to receive standard COVID-19 screening and protection (per their facility or organization's protocols)."
+            },
+            {
+                "arm_group_label": "Prevention - NORS + Standard Precautions",
+                "arm_group_type": "Experimental",
+                "description": "Participants COVID-19 negative at baseline will be randomized to receive standard COVID-19 screening and protection (per their facility or organization's protocols) plus daily NORS treatment for 21 days."
+            },
+            {
+                "arm_group_label": "Treatment Sub-Study",
+                "arm_group_type": "Other",
+                "description": "Volunteers who are found to be COVID-19 positive during screening will be eligible to enroll in the 28-day Treatment sub-study and receive daily NORS treatment for 21 days. Ten participants can be directly enrolled in the Treatment sub-study.\nParticipants enrolled in the Prevention study who meet the criteria in this section will roll over into the Treatment Sub-Study but must remain in their randomly assigned group."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "NORS (Nitric Oxide Releasing Solution)",
+                "description": "NORS treatment will consist of daily self-administration of three routes; Nitric Oxide Gargle (NOG) every morning, Nitric Oxide Nasophyaryngeal Irrigation (NONI) every evening, and Nitric Oxide Nasal Spray (NONS) up to 5 times per day.",
+                "arm_group_label": "Prevention - NORS + Standard Precautions",
+                "other_name": "NOG, NONI, NONS"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "NORS (Nitric Oxide Releasing Solution)",
+                "description": "Up to ten volunteers who are found to be COVID-19 positive during screening will be eligible to enroll in the 28-day Treatment sub-study and receive daily NORS treatment for 21 days. NORS treatment will consist of daily self-administration of three routes; Nitric Oxide Gargle (NOG) every morning, Nitric Oxide Nasophyaryngeal Irrigation (NONI) every evening, and Nitric Oxide Nasal Spray (NONS) up to 5 times per day.\nAny participants enrolled in the Prevention study who meet the criteria for the sub study will roll over into the Treatment Sub-Study but must remain in their randomly assigned group.",
+                "arm_group_label": "Treatment Sub-Study",
+                "other_name": "NOG, NONI, NONS"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Prevention Study Inclusion Criteria:\n\n          1. Capable of understanding and providing signed informed consent and ability to adhere\n             to the requirements and restrictions of this protocol;\n\n          2. Men and Women \u2265 19 years of age unless local laws dictate otherwise;\n\n          3. English speaking;\n\n          4. Must be willing to use an adequate form of contraception (or abstinence) from the time\n             of the first dose with the IMP until after the last dose of IMP.\n\n          5. Be symptom-free and have a negative COVID-19 test result at baseline.\n\n          6. Work/live in contact with COVID-19 infected patients or scheduled to work in a setting\n             with high likelihood of contact with COVID-19 infected patients.\n\n        Prevention Study Exclusion Criteria:\n\n          1. Prior Tracheostomy;\n\n          2. Concomitant treatment of respiratory support (involving any form of oxygen therapy);\n\n          3. Any clinical contraindications, as judged by the attending physician;\n\n          4. Any symptoms consistent with COVID-19;\n\n          5. Mentally or neurologically disabled patients who are considered not fit to consent to\n             their participation in the study;\n\n          6. Prior COVID-19 infection.\n\n        Treatment Sub study Inclusion Criteria:\n\n          1. Capable of understanding and providing signed informed consent and ability to adhere\n             to the requirements and restrictions of this protocol;\n\n          2. Men and Women \u2265 19 years of age unless local laws dictate otherwise;\n\n          3. English speaking;\n\n          4. Must be willing to use an adequate form of contraception (or abstinence) from the time\n             of the first dose with the IMP until after the last dose of IMP;\n\n          5. Positive COVID-19 test or presentation of clinical symptoms defined as fatigue with\n             either fever >37.2 (oral) and/or a persistent cough.\n\n        Treatment Sub Study Exclusion Criteria:\n\n          1. Prior Tracheostomy;\n\n          2. Concomitant treatment of respiratory support (involving any form of oxygen therapy);\n             Any clinical contraindications, as judged by the attending physician;\n\n          3. Mentally or neurologically disabled patients who are considered not fit to consent to\n             their participation in the study;\n\n          4. Currently hospitalized for symptoms of COVID-19."
+            },
+            "gender": "All",
+            "minimum_age": "19 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Jeremy Road, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Vancouver Coastal Health"
+        },
+        "overall_contact": {
+            "last_name": "Chris Miller, Ph.D.",
+            "phone": "778-899-0607",
+            "email": "chris@sanotize.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Gilly Regev, Ph.D.",
+            "phone": "604-727-3014"
+        },
+        "reference": [
+            {
+                "citation": "Reiss CS, Komatsu T. Does nitric oxide play a critical role in viral infections? J Virol. 1998 Jun;72(6):4547-51. Review.",
+                "PMID": "9573217"
+            },
+            {
+                "citation": "Colasanti M, Persichini T, Venturini G, Ascenzi P. S-nitrosylation of viral proteins: molecular bases for antiviral effect of nitric oxide. IUBMB Life. 1999 Jul;48(1):25-31. Review.",
+                "PMID": "10791912"
+            },
+            {
+                "citation": "Deppisch C, Herrmann G, Graepler-Mainka U, Wirtz H, Heyder S, Engel C, Marschal M, Miller CC, Riethm\u00fcller J. Gaseous nitric oxide to treat antibiotic resistant bacterial and fungal lung infections in patients with cystic fibrosis: a phase I clinical study. Infection. 2016 Aug;44(4):513-20. doi: 10.1007/s15010-016-0879-x. Epub 2016 Feb 9.",
+                "PMID": "26861246"
+            },
+            {
+                "citation": "Miller CC, Hergott CA, Rohan M, Arsenault-Mehta K, D\u00f6ring G, Mehta S. Inhaled nitric oxide decreases the bacterial load in a rat model of Pseudomonas aeruginosa pneumonia. J Cyst Fibros. 2013 Dec;12(6):817-20. doi: 10.1016/j.jcf.2013.01.008. Epub 2013 Mar 6.",
+                "PMID": "23481089"
+            },
+            {
+                "citation": "Miller C, Miller M, McMullin B, Regev G, Serghides L, Kain K, Road J, Av-Gay Y. A phase I clinical study of inhaled nitric oxide in healthy adults. J Cyst Fibros. 2012 Jul;11(4):324-31. doi: 10.1016/j.jcf.2012.01.003. Epub 2012 Apr 18.",
+                "PMID": "22520076"
+            },
+            {
+                "citation": "McMullin BB, Chittock DR, Roscoe DL, Garcha H, Wang L, Miller CC. The antimicrobial effect of nitric oxide on the bacteria that cause nosocomial pneumonia in mechanically ventilated patients in the intensive care unit. Respir Care. 2005 Nov;50(11):1451-6.",
+                "PMID": "16253152"
+            },
+            {
+                "citation": "Regev-Shoshani G, Vimalanathan S, McMullin B, Road J, Av-Gay Y, Miller C. Gaseous nitric oxide reduces influenza infectivity in vitro. Nitric Oxide. 2013 May 31;31:48-53. doi: 10.1016/j.niox.2013.03.007. Epub 2013 Apr 2.",
+                "PMID": "23562771"
+            },
+            {
+                "citation": "Regev-Shoshani G, McMullin B, Nation N, Church JS, Dorin C, Miller C. Non-inferiority of nitric oxide releasing intranasal spray compared to sub-therapeutic antibiotics to reduce incidence of undifferentiated fever and bovine respiratory disease complex in low to moderate risk beef cattle arriving at a commercial feedlot. Prev Vet Med. 2017 Mar 1;138:162-169. doi: 10.1016/j.prevetmed.2015.04.008. Epub 2015 Apr 20.",
+                "PMID": "25975664"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Antiviral",
+            "Virucidal",
+            "Nitric Oxide"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Nitric Oxide",
+                "Pharmaceutical Solutions"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

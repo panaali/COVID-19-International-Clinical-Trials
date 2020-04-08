@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "170",
+        "@rank": "184",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334954"
         },
@@ -21,7 +21,7 @@
         },
         "source": "National Institutes of Health Clinical Center (CC)",
         "brief_summary": {
-            "textblock": "It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,\n      SARS, MERS, and now the newly emerged SARS-COV2 virus, have a major impact on morbidity and\n      mortality worldwide, as well as having devastating global economic and societal impact.\n      During these outbreaks it is critical to gain a rapid understanding of the exposures and\n      immunity in the general population. Identifying exposures can be accomplished through\n      analysis of serum during an outbreak to identify those with specific antibodies to the\n      pathogen. The knowledge of the level of exposures could greatly impact the response to\n      current and future pandemics. In this natural history study, we will collect a single blood\n      draw from individuals to identify individuals who have anti-SARS-COV2 antibodies present\n      despite no confirmed disease or known exposures."
+            "textblock": "Background:\n\n      Respiratory virus outbreaks and pandemics, such as SARS, MERS, and the new SARS-COV2 virus,\n      have major impacts worldwide. Researchers must act quickly to learn about the exposures and\n      immunity in the general population. This can be done by studying people s blood serum to find\n      those with antibodies to the virus. This knowledge can help in current and future pandemics.\n      In this study, researchers want to find people who have anti-SARS-COV2 antibodies but no\n      known exposure or illness.\n\n      Objective:\n\n      To find the number of people with detectable antibodies to SARS-COV2 from a sampling of\n      adults who have no known exposure or clinical illness.\n\n      Eligibility:\n\n      Adults ages 18 and older without a confirmed COVID19 infection or current symptoms consistent\n      with COVID19\n\n      Design:\n\n      Participants will enroll and give consent over the phone. They will be screened over the\n      phone with a health assessment questionnaire. They will be screened for COVID19 using the NIH\n      COVID19 screening questionnaire.\n\n      Participants will give a blood sample. They can go to the NIH Clinical Center or do home\n      blood sampling. In-person collection at NIH is preferred.\n\n      If participants go to NIH, 2 tubes of blood will be taken.\n\n      If participants do home sampling, they will be sent a home sampling kit. The kit contains\n      gauze, an alcohol pad, a lancet, collection devices, and shipping materials. It also contains\n      detailed instructions. They will collect 80ul of blood and mail it to the NIH lab.\n\n      Participants may enroll in the study up to 4 times. They cannot enroll within 30 days of\n      previous enrollment."
         },
         "detailed_description": {
             "textblock": "It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,\n      SARS, MERS, and now the newly emerged SARS-COV2 virus, have a major impact on morbidity and\n      mortality worldwide, as well as having devastating global economic and societal impact.\n      During these outbreaks it is critical to gain a rapid understanding of the exposures and\n      immunity in the general population. Identifying exposures can be accomplished through\n      analysis of serum during an outbreak to identify those with specific antibodies to the\n      pathogen. The knowledge of the level of exposures could greatly impact the response to\n      current and future pandemics. In this natural history study, we will collect a single blood\n      draw from individuals to identify individuals who have anti-SARS-COV2 antibodies present\n      despite no confirmed disease or known exposures."
@@ -29,7 +29,7 @@
         "overall_status": "Recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "April 10, 2020"
+            "#text": "April 13, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -115,11 +115,11 @@
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 4, 2020",
-        "last_update_submitted_qc": "April 4, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 7, 2020"
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

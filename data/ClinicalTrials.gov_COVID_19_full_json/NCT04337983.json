@@ -1,0 +1,269 @@
+{
+    "clinical_study": {
+        "@rank": "323",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337983"
+        },
+        "id_info": {
+            "org_study_id": "2020-A00793-36",
+            "nct_id": "NCT04337983"
+        },
+        "brief_title": "Hemodynamic Characteristics of Patients With SARS-CoV-2",
+        "acronym": "PiCCOVID",
+        "official_title": "Hemodynamic Characteristics of Patients With SARS-CoV-2: PiCCOVID Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bicetre Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Bicetre Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory\n      syndrome coronavirus 2 (SARS-CoV-2) has been declared a public health emergency of\n      international concern. Hospitalized COVID-19-positive patients requiring ICU care is\n      increasing along with the course of epidemic. A large number of these patients developed\n      acute respiratory distress syndrome (ARDS) according to current data. However, the related\n      hemodynamic characteristic has so far been rarely described."
+        },
+        "detailed_description": {
+            "textblock": "The outbreak of COVID-19 is a worldwide concern. To our knowledge, the details of the\n      hemodynamic characteristics of COVID-19 patients have not yet been well described. Besides,\n      the cardiac injury was reported in about 7-17% of hospitalized patients with COVID-19 in\n      previous Chinese publications and is much more common in patients admitted to ICU and\n      non-survivors. However, no systematic assessment, including echocardiography evaluating the\n      left ventricular function of these patients has been declared. In addition, extravascular\n      lung water (EVLW) and pulmonary capillary permeability are two hall markers in ARDS patient's\n      management, and transpulmonary thermodilution is a validated method to provide these values\n      at the bedside. However, no study has reported the characteristic profile of these variables\n      during ARDS caused by SARS-Cov2. A better knowledge of these characteristics would also be\n      helpful in guiding their management."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Body temperature",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Body temperature(\u00b0C)"
+            },
+            {
+                "measure": "Blood pressure",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Blood pressure in mmHg"
+            },
+            {
+                "measure": "Pulse (heart rate)",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Pulse (heart rate) in times/minute"
+            },
+            {
+                "measure": "Respiratory rate",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Respiratory rate in times/minute"
+            },
+            {
+                "measure": "Data provided by transpulmonary thermodilution-CI",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Cardiac index (L/min/m2)"
+            },
+            {
+                "measure": "Data provided by transpulmonary thermodilution-GEDV",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Global end-diastolic volume(mL/m2)"
+            },
+            {
+                "measure": "Data provided by transpulmonary thermodilution-EVLW",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Extravascular lung water (mL/kg)"
+            },
+            {
+                "measure": "Data provided by transpulmonary thermodilution-PVPI",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Pulmonary vascular permeability index"
+            },
+            {
+                "measure": "Incidence of abnormal laboratory test results",
+                "time_frame": "Through study completion, an estimation of 6 months"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of new-onset or reversible systolic left ventricular dysfunction",
+                "time_frame": "Through study completion, an estimation of 6 months",
+                "description": "Left ventricle ejection fraction, Segmental left ventricle contractility, Speckle tracking data of the left and right ventricles, Dimensions of right and left cavities and Diastolic function of left ventricle"
+            },
+            {
+                "measure": "Changes of extravascular lung water measured by transpulmonary thermodilution",
+                "time_frame": "Change from baseline extravascular lung water at 6 months",
+                "description": "The worst extravascular lung water"
+            },
+            {
+                "measure": "Changes of pulmonary vascular permeability index measured by transpulmonary thermodilution",
+                "time_frame": "Change from baseline extravascular lung water at 6 months",
+                "description": "The worst pulmonary vascular permeability index"
+            },
+            {
+                "measure": "Correlation between the hemodynamic characteristics and 90-day mortality",
+                "time_frame": "Up to 90th day after inclusion"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": [
+            "Coronavirus",
+            "SARS-CoV-2",
+            "COVID-19",
+            "Acute Respiratory Distress Syndrome",
+            "Shock",
+            "Acute Circulatory Failure",
+            "Left Ventricular Dysfunction",
+            "Fluid Overload"
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Transpulmonary thermodilution",
+                "description": "Obtained by averaging the results of three thermodilution measurements. Each thermodilution is performed by injecting a bolus (15 mL) of cold saline (less than 10\u00b0C)"
+            },
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Echocardiography",
+                "description": "Daily echocardiography evaluation"
+            }
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "SARS-Cov2 positive patients admitted to ICU and monitored by transpulmonary thermodilution\n        system will be included."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Confirmed or suspected SARS-Cov2 cases\n\n          -  Patients admitted to ICU, defined as a unit in which patients can receive\n             vasopressors.\n\n          -  Monitored by a transpulmonary thermodilution system (PiCCO2 (Pulsion Medical Systems,\n             Feldkirchen, Germany) or EV1000 (Edwards Lifesciences, Irvine, United States of\n             America).\n\n        Exclusion Criteria:\n\n          -  SARS Cov-2 Negative\n\n          -  Refusal to participate in the study"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Xavier Monnet, MD.PhD",
+            "phone": "+33 01 45 21 35 39",
+            "email": "xavier.monnet@aphp.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "Bicetre Hospital",
+                "address": {
+                    "city": "Paris",
+                    "state": "Val-de-Marne",
+                    "zip": "94270",
+                    "country": "France"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "reference": [
+            {
+                "citation": "Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B, Huang CL, Chen HD, Chen J, Luo Y, Guo H, Jiang RD, Liu MQ, Chen Y, Shen XR, Wang X, Zheng XS, Zhao K, Chen QJ, Deng F, Liu LL, Yan B, Zhan FX, Wang YY, Xiao GF, Shi ZL. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Mar;579(7798):270-273. doi: 10.1038/s41586-020-2012-7. Epub 2020 Feb 3.",
+                "PMID": "32015507"
+            },
+            {
+                "citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]",
+                "PMID": "32031570"
+            },
+            {
+                "citation": "Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 11. pii: S0140-6736(20)30566-3. doi: 10.1016/S0140-6736(20)30566-3. [Epub ahead of print] Erratum in: Lancet. 2020 Mar 12;:.",
+                "PMID": "32171076"
+            },
+            {
+                "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
+                "PMID": "32007143"
+            },
+            {
+                "citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.",
+                "PMID": "31986264"
+            },
+            {
+                "citation": "Driggin E, Madhavan MV, Bikdeli B, Chuich T, Laracy J, Bondi-Zoccai G, Brown TS, Nigoghossian C, Zidar DA, Haythe J, Brodie D, Beckman JA, Kirtane AJ, Stone GW, Krumholz HM, Parikh SA. Cardiovascular Considerations for Patients, Health Care Workers, and Health Systems During the Coronavirus Disease 2019 (COVID-19) Pandemic. J Am Coll Cardiol. 2020 Mar 18. pii: S0735-1097(20)34637-4. doi: 10.1016/j.jacc.2020.03.031. [Epub ahead of print] Review.",
+                "PMID": "32201335"
+            },
+            {
+                "citation": "Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print]",
+                "PMID": "32125452"
+            },
+            {
+                "citation": "Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 Feb 24. pii: S2213-2600(20)30079-5. doi: 10.1016/S2213-2600(20)30079-5. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 28;:.",
+                "PMID": "32105632"
+            },
+            {
+                "citation": "Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648. [Epub ahead of print]",
+                "PMID": "32091533"
+            },
+            {
+                "citation": "Schuster DP. The search for \"objective\" criteria of ARDS. Intensive Care Med. 2007 Mar;33(3):400-2. Epub 2007 Jan 13.",
+                "PMID": "17221188"
+            },
+            {
+                "citation": "Jozwiak M, Silva S, Persichini R, Anguel N, Osman D, Richard C, Teboul JL, Monnet X. Extravascular lung water is an independent prognostic factor in patients with acute respiratory distress syndrome. Crit Care Med. 2013 Feb;41(2):472-80. doi: 10.1097/CCM.0b013e31826ab377.",
+                "PMID": "23263578"
+            },
+            {
+                "citation": "Monnet X, Teboul JL. Transpulmonary thermodilution: advantages and limits. Crit Care. 2017 Jun 19;21(1):147. doi: 10.1186/s13054-017-1739-5. Review.",
+                "PMID": "28625165"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 30, 2020",
+        "study_first_submitted_qc": "April 3, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 3, 2020",
+        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Bicetre Hospital",
+            "investigator_full_name": "Xavier Monnet",
+            "investigator_title": "Professor Xavier Monnet MD. PhD."
+        },
+        "keyword": [
+            "Hemodynamic chracteristics",
+            "Transpulmonary thermodilution",
+            "Preload-dependency",
+            "Echocardiography",
+            "Extravascular lung water",
+            "Pulmonary vascular permeability index"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Respiratory Distress Syndrome, Newborn",
+                "Respiratory Distress Syndrome, Adult",
+                "Acute Lung Injury",
+                "Ventricular Dysfunction",
+                "Ventricular Dysfunction, Left",
+                "Shock"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

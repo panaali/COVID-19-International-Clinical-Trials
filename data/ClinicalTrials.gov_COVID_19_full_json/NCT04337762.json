@@ -1,0 +1,126 @@
+{
+    "clinical_study": {
+        "@rank": "28",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337762"
+        },
+        "id_info": {
+            "org_study_id": "20200835",
+            "nct_id": "NCT04337762"
+        },
+        "brief_title": "Beat COVID-19 - Observational Trial",
+        "acronym": "JUPITER",
+        "official_title": "A Virtual Observational Protocol to Gain Longitudinal Data in Participants to Help Understand COVID-19 Spread and Disease Progression",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Beat COVID LLC",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Beat COVID LLC",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "JUPITER is an observational study protocol that aims to understand factors that can help\n      prevent/mitigate the spread of COVID-19 and understand factors that help reduce disease\n      progression in patients with COVID-19. We aim to accomplish this by obtaining self-reported\n      historical and longitudinal data from study participants."
+        },
+        "detailed_description": {
+            "textblock": "This is an observational study that will electronically collect self-reported participant\n      data in a database that follows HIPAA security requirements for those with a clinically\n      confirmed case of COVID-19 or those who have had exposure to COVID-19.\n\n      The aim of this study is to gather a large, diverse dataset from a large population of\n      participants in order to gather longitudinal observational data on what health practices\n      participants are practicing and what, if any, benefits these practices may be providing the\n      participants.\n\n      Data for this study will be gathered via self-reporting from participants who wish to\n      participate in the fight against COVID-19. This will include getting a baseline of each\n      participant's health and then monitor their health over time while looking at how their\n      symptoms are progressing or regressing. The JUPITER study may also seek historical data from\n      patients who have recovered from COVID-19.\n\n      The JUPITER dataset may be shared (in accordance with applicable state, federal, and local\n      laws) so that others may utilize the data from the dataset for further analysis to determine\n      relevant trends in the data and in turn hopefully use these trends to determine potential\n      treatment protocols or lifestyle recommendations to help prevent COVID-19 spread and reduce\n      hospitalization rates, as well as to understand how certain factors may aide in the COVID-19\n      disease progression."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Health Outcomes",
+            "time_frame": "1 year",
+            "description": "Patterns of data will be mined to understand risks for hospitalization and disease progression associated with COVID-19"
+        },
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100000"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Healthy",
+                "description": "Healthy adult individuals residing in the United States with no history of COVID-19"
+            },
+            {
+                "arm_group_label": "COVID-19 Confirmed",
+                "description": "United States adults that have tested positive for SARS-CoV-2 virus which causes the human disease COVID-19 (IE novel coronavirus) or those that have been exposed to a confirmed case and are awaiting testing"
+            }
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "English Speaking adults aged 18 years or older with an ability to self-report their medical\n        history and provide regular updates via an electronic data capture web portal that can be\n        accessed through internet connection.\n\n        Observational period for this trial will be 30 days involving regular updates from\n        participants for the duration. Participants will also be asked whether they wish to be\n        informed about additional opportunities/future studies pertaining to COVID-19."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Adults residing in the United States aged 18 years or older proficient in\n             understanding and reading the English language who wish to participate in the fight\n             against COVID-19 by providing self-reported health information.\n\n          2. Ability to complete electronic informed consent process.\n\n          3. Ability to use the internet and check email regularly.\n\n          4. Consent to provide a HIPAA waiver of health information to share protected health\n             information.\n\n        Exclusion Criteria:\n\n        1. Inability to provide regular updates to their health status when contacted by the BEAT\n        COVID study personnel via email or SMS."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "110 Years"
+        },
+        "overall_contact": {
+            "last_name": "Rama Jager, M.D.",
+            "phone": "(708) 620-4608",
+            "email": "rjager@beatcovidtrial.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Hollis Ledbetter",
+            "email": "hledbetter@beatcovidtrial.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Beat COIVD, LLC",
+                "address": {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "zip": "60452",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting"
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }
+    }
+}

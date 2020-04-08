@@ -2,7 +2,7 @@
     "clinical_study": {
         "@rank": "2",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04336904"
         },
@@ -56,7 +56,7 @@
         "primary_outcome": {
             "measure": "Time from randomization to clinical recovery",
             "time_frame": "90 days",
-            "description": "The duration from start of treatment (Favipiravir or placebo) to normalization of pyrexia, respiratory rate and SPO2 and relief of cough (where there are relevant abnormal symptoms at enrolment) that is maintained for at least 72h."
+            "description": "The duration from start of treatment (Favipiravir or placebo) to normalization of pyrexia, respiratory rate and SPO2 and relief of cough (where there are relevant abnormal symptoms at enrolment) that is maintained for at least 72 hours."
         },
         "secondary_outcome": [
             {
@@ -163,14 +163,14 @@
         "study_first_submitted": "April 3, 2020",
         "study_first_submitted_qc": "April 3, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 7, 2020"
         },
-        "last_update_submitted": "April 3, 2020",
-        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 7, 2020"
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

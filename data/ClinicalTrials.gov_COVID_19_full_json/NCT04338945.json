@@ -1,0 +1,128 @@
+{
+    "clinical_study": {
+        "@rank": "259",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338945"
+        },
+        "id_info": {
+            "org_study_id": "COVID-surgRES-Italy",
+            "nct_id": "NCT04338945"
+        },
+        "brief_title": "Impact of COVID-19 Emergency on Italian Surgical Residents",
+        "official_title": "Impact of COVID-19 Emergency on Italian Surgical Residents",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Ospedale Policlinico San Martino",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Ospedale Policlinico San Martino",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The Coronavirus Emergency has severely affected Italian Healthcare National System. This\n      event made it necessary to adopt extraordinary containment measures and to allocate\n      extraordinary resources in Italian hospitals. In many centers routinely elective surgical\n      activity has been decreased or even completely abolished. We believe that this exceptional\n      condition is being consequently having a significant impact on surgical training programs."
+        },
+        "detailed_description": {
+            "textblock": "Purpose of this investigation is to establish the impact of COVID-19 emergency in the work\n      and training activities of Italian surgical residents.\n\n      There will be collected the residents' impressions by completing a survey on this topic."
+        },
+        "overall_status": "Enrolling by invitation",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Measure of the impact of COVID Emergency on surgical specialist training programs",
+            "time_frame": "1-3 months after the beginning of COVID emergency in Italy",
+            "description": "Analysis of this outcome with regard to the different surgical subspecialities and different Italian medical centers"
+        },
+        "secondary_outcome": {
+            "measure": "Measure of impact of COVID Emergency on wellness of residents",
+            "time_frame": "1-3 months after the beginning of COVID emergency in Italy",
+            "description": "Analysis of this outcome with regard to the different surgical subspecialities and different Italian medical centers"
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1200"
+        },
+        "condition": "COVID",
+        "arm_group": {
+            "arm_group_label": "Residents in surgical areas"
+        },
+        "intervention": {
+            "intervention_type": "Behavioral",
+            "intervention_name": "COVID-surgRES questionaire",
+            "description": "The questionaire gives a multidimensional assessment of residents' impression with regard to impact of COVID emergency on Italian specialist training programs",
+            "arm_group_label": "Residents in surgical areas"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Italian medical residents in surgical areas"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        - Residents in the following surgical specialities: cardiothoracic surgery, colon and\n        rectal surgery, general surgery, gynecology and obstetrics, gynecologic oncology,\n        neurological surgery, ophthalmic surgery, oral and maxillofacial surgery, orthopaedic\n        surgery, otorhinolaryngology, pediatric surgery, plastic and maxillofacial surgery,\n        urology, and vascular surgery\n\n        Exclusion Criteria:\n\n          -  Undergratuated and postgraduated students\n\n          -  Consultants in surgical areas"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "location": {
+            "facility": {
+                "name": "Ospedale Policlinico San Martino",
+                "address": {
+                    "city": "Genova",
+                    "country": "Italy"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Ospedale Policlinico San Martino",
+            "investigator_full_name": "Fabio Barra",
+            "investigator_title": "MD"
+        },
+        "keyword": [
+            "resident wellness",
+            "surgical residency"
+        ],
+        "condition_browse": {
+            "mesh_term": "Emergencies"
+        }
+    }
+}

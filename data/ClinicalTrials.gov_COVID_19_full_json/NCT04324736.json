@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "328",
+        "@rank": "349",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04324736"
         },
@@ -31,7 +31,7 @@
         "overall_status": "Recruiting",
         "start_date": {
             "@type": "Actual",
-            "#text": "March 31, 2020"
+            "#text": "March 10, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -72,7 +72,7 @@
         "number_of_groups": "1",
         "enrollment": {
             "@type": "Anticipated",
-            "#text": "300"
+            "#text": "1000"
         },
         "condition": [
             "Coronavirus",
@@ -131,11 +131,11 @@
             "@type": "Actual",
             "#text": "March 27, 2020"
         },
-        "last_update_submitted": "April 3, 2020",
-        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

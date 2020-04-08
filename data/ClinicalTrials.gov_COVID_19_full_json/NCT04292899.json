@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "55",
+        "@rank": "58",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04292899"
         },
@@ -26,7 +26,7 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "The primary objective of this study is to evaluate the efficacy of 2 remdesivir (RDV)\n      regimens with respect to the normalization of temperature and oxygen saturation through Day\n      14 in participants with severe coronavirus disease (COVID-19)."
+            "textblock": "The primary objective of this study is to evaluate the efficacy of 2 remdesivir (RDV)\n      regimens with respect to clinical status assessed by a 7-point ordinal scale on Day 14."
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -43,7 +43,7 @@
         },
         "phase": "Phase 3",
         "study_type": "Interventional",
-        "has_expanded_access": "No",
+        "has_expanded_access": "Yes",
         "study_design_info": {
             "allocation": "Randomized",
             "intervention_model": "Parallel Assignment",
@@ -51,30 +51,40 @@
             "masking": "None (Open Label)"
         },
         "primary_outcome": {
-            "measure": "Proportion of Participants With Normalization of Fever and Oxygen Saturation Through Day 14",
-            "time_frame": "First dose date up to 14 days",
-            "description": "This is a composite outcome measure. Criteria for fever normalization: Temperature < 36.6 \u00b0C armpit, < 37.2 \u00b0C oral, or < 37.8 \u00b0C rectal sustained for at least 24 hours and criteria for oxygen normalization: peripheral capillary oxygen saturation (Sp02) > 94% sustained for at least 24 hours."
+            "measure": "The Odds of Ratio for Improvement on a 7-point Ordinal Scale on Day 14",
+            "time_frame": "Day 14",
+            "description": "The odds ratio represents the odds of improvement in the ordinal scale between the treatment groups. The ordinal scale is an assessment of the clinical status at a given day. Each day, the worst score from the previous day will be recorded. The scale is as follows: 1. Death 2. Hospitalized, on invasive mechanical ventilation or Extracorporeal Membrane Oxygenation (ECMO) 3. Hospitalized, on non-invasive ventilation or high flow oxygen devices 4. Hospitalized, requiring low flow supplemental oxygen 5. Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (coronavirus (COVID-19) related or otherwise) 6. Hospitalized, not requiring supplemental oxygen - no longer required ongoing medical care (other than per protocol Remdesivir administration 7. Not hospitalized."
         },
         "secondary_outcome": {
-            "measure": "Proportion of Participants With Treatment Emergent Adverse Events Leading to Study Drug Discontinuation",
-            "time_frame": "First dose date up to 10 days"
+            "measure": "Proportion of Participants Experiencing any Treatment-Emergent Adverse Events",
+            "time_frame": "First dose date up to 10 days plus 30 days"
         },
-        "number_of_arms": "2",
+        "number_of_arms": "4",
         "enrollment": {
             "@type": "Anticipated",
-            "#text": "400"
+            "#text": "2400"
         },
         "condition": "COVID-19",
         "arm_group": [
             {
-                "arm_group_label": "Remdesivir (RDV), 5 Days",
+                "arm_group_label": "Part A: Remdesivir (RDV), 5 Days (Not Mechanically Ventilated)",
                 "arm_group_type": "Experimental",
-                "description": "Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, and 5."
+                "description": "Participants who are not mechanically ventilated will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, and 5."
             },
             {
-                "arm_group_label": "Remdesivir, 10 Days",
+                "arm_group_label": "Part A: Remdesivir, 10 Days (Not Mechanically Ventilated)",
                 "arm_group_type": "Experimental",
-                "description": "Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, 5, 6, 7, 8, 9, and 10."
+                "description": "Participants who are not mechanically ventilated will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, 5, 6, 7, 8, 9, and 10."
+            },
+            {
+                "arm_group_label": "Part B: Remdesivir, 5 or 10 Days (Extension)",
+                "arm_group_type": "Experimental",
+                "description": "Part B (Extension) will enroll participants after enrollment to Part A is complete. Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2-10."
+            },
+            {
+                "arm_group_label": "Part B: Remdesivir 10 days (Mechanically Ventilated)",
+                "arm_group_type": "Experimental",
+                "description": "Participants on mechanical ventilation will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2-10"
             }
         ],
         "intervention": [
@@ -83,27 +93,31 @@
                 "intervention_name": "Remdesivir",
                 "description": "Administered as an intravenous infusion",
                 "arm_group_label": [
-                    "Remdesivir (RDV), 5 Days",
-                    "Remdesivir, 10 Days"
+                    "Part A: Remdesivir (RDV), 5 Days (Not Mechanically Ventilated)",
+                    "Part A: Remdesivir, 10 Days (Not Mechanically Ventilated)",
+                    "Part B: Remdesivir 10 days (Mechanically Ventilated)",
+                    "Part B: Remdesivir, 5 or 10 Days (Extension)"
                 ],
                 "other_name": "GS-5734\u2122"
             },
             {
                 "intervention_type": "Drug",
                 "intervention_name": "Standard of Care",
-                "description": "Standard of care therapy per local written policies or guidelines",
+                "description": "Standard of Care Treatment for COVID-19 Infection",
                 "arm_group_label": [
-                    "Remdesivir (RDV), 5 Days",
-                    "Remdesivir, 10 Days"
+                    "Part A: Remdesivir (RDV), 5 Days (Not Mechanically Ventilated)",
+                    "Part A: Remdesivir, 10 Days (Not Mechanically Ventilated)",
+                    "Part B: Remdesivir 10 days (Mechanically Ventilated)",
+                    "Part B: Remdesivir, 5 or 10 Days (Extension)"
                 ]
             }
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Key Inclusion Criteria:\n\n          -  Willing and able to provide written informed consent prior to performing study\n             procedures\n\n          -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by\n             polymerase chain reaction (PCR) test \u2264 4 days before randomization\n\n          -  Currently hospitalized with fever defined as temperature \u2265 36.6 \u00b0C armpit, \u2265 37.2 \u00b0C\n             oral, or \u2265 37.8 \u00b0C rectal\n\n          -  Peripheral capillary oxygen saturation (SpO2) \u2264 94% on room air at screening\n\n          -  Radiographic evidence of pulmonary infiltrates\n\n        Key Exclusion Criteria:\n\n          -  Participation in any other clinical trial of an experimental treatment for COVID-19\n\n          -  Concurrent treatment with other agents with actual or possible direct acting antiviral\n             activity against SARS-CoV-2 is prohibited < 24 hours prior to study drug dosing\n\n          -  Evidence of multiorgan failure\n\n          -  Requiring mechanical ventilation at screening\n\n          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit\n             of normal (ULN)\n\n          -  Creatinine clearance < 50 mL/min\n\n        Note: Other protocol defined Inclusion/Exclusion criteria may apply."
+                "textblock": "Key Inclusion Criteria:\n\n          -  Willing and able to provide written informed consent, or with a legal representative\n             who can provide informed consent, or enrolled under International Conference on\n             Harmonization (ICH) E6(R2) 4.8.15 emergency use provisions as deemed necessary by the\n             investigator (age \u226518), or willing and able to provide assent (age \u226512 to <18, where\n             locally and nationally approved) prior to performing study procedures\n\n          -  Aged \u2265 18 years (at all sites), or aged \u2265 12 and < 18 years of age weighing \u2265 40 kg\n             (where permitted according to local law and approved nationally and by the relevant\n             institutional review board [IRB] or independent ethics committee [IEC])\n\n          -  Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection confirmed by\n             polymerase chain reaction (PCR) test \u2264 4 days before randomization\n\n          -  Currently hospitalized\n\n          -  Peripheral capillary oxygen saturation (SpO2) \u2264 94% or requiring supplemental oxygen\n             at screening\n\n        Key Exclusion Criteria:\n\n          -  Participation in any other clinical trial of an experimental treatment for COVID-19\n\n          -  Concurrent treatment with other agents with actual or possible direct acting antiviral\n             activity against SARS-CoV-2 is prohibited < 24 hours prior to study drug dosing\n\n          -  Evidence of multiorgan failure\n\n          -  Mechanically ventilated (including V-V ECMO) \u2265 5 days, or any duration of V-A ECMO.\n\n          -  Requiring mechanical ventilation at screening\n\n          -  Alanine Aminotransferase (ALT) or aspartate aminotransferase (AST) > 5 X upper limit\n             of normal (ULN)\n\n          -  Creatinine clearance < 50 mL/min using the Cockcroft-Gault formula for participants \u2265\n             18 years of age {Cockcroft 1976} and Schwartz Formula for participants < 18 years of\n             age\n\n        Note: Other protocol defined Inclusion/Exclusion criteria may apply."
             },
             "gender": "All",
-            "minimum_age": "18 Years",
+            "minimum_age": "12 Years",
             "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
@@ -149,6 +163,18 @@
                         "city": "Fontana",
                         "state": "California",
                         "zip": "92335",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "St Joseph Hospital Eureka",
+                    "address": {
+                        "city": "Fortuna",
+                        "state": "California",
+                        "zip": "95540",
                         "country": "United States"
                     }
                 },
@@ -300,6 +326,18 @@
             },
             {
                 "facility": {
+                    "name": "California Pacific Medical Center-Infectious Disease Associates Medical Group",
+                    "address": {
+                        "city": "San Francisco",
+                        "state": "California",
+                        "zip": "94109",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Kaiser Permanente-Oakland/San Francisco, 2425 Geary Blvd",
                     "address": {
                         "city": "San Francisco",
@@ -341,6 +379,18 @@
                         "city": "Stanford",
                         "state": "California",
                         "zip": "94305",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "University of Colorado Denver, University of Colorado Hospital",
+                    "address": {
+                        "city": "Aurora",
+                        "state": "Colorado",
+                        "zip": "80045",
                         "country": "United States"
                     }
                 },
@@ -396,6 +446,18 @@
             },
             {
                 "facility": {
+                    "name": "Holy Cross Hospital",
+                    "address": {
+                        "city": "Silver Spring",
+                        "state": "Maryland",
+                        "zip": "20910",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Tufts Medical Center",
                     "address": {
                         "city": "Boston",
@@ -428,7 +490,7 @@
                         "country": "United States"
                     }
                 },
-                "status": "Not yet recruiting"
+                "status": "Recruiting"
             },
             {
                 "facility": {
@@ -564,6 +626,18 @@
             },
             {
                 "facility": {
+                    "name": "North Shore University Hospital, 270-05 76th Ave",
+                    "address": {
+                        "city": "Manhasset",
+                        "state": "New York",
+                        "zip": "11030",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "North Shore University Hospital",
                     "address": {
                         "city": "Manhasset",
@@ -584,7 +658,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -596,7 +673,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -608,7 +688,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -620,19 +703,10 @@
                         "country": "United States"
                     }
                 },
-                "status": "Recruiting"
-            },
-            {
-                "facility": {
-                    "name": "Columbia University Irving Medical Center",
-                    "address": {
-                        "city": "New York",
-                        "state": "New York",
-                        "zip": "10032",
-                        "country": "United States"
-                    }
-                },
-                "status": "Recruiting"
+                "status": "Recruiting",
+                "contact": {
+                    "email": "COVIDGILEAD@mssm.edu"
+                }
             },
             {
                 "facility": {
@@ -732,11 +806,35 @@
             },
             {
                 "facility": {
+                    "name": "Temple University Hospital",
+                    "address": {
+                        "city": "Philadelphia",
+                        "state": "Pennsylvania",
+                        "zip": "19140",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "The Miriam Hospital",
                     "address": {
                         "city": "Providence",
                         "state": "Rhode Island",
                         "zip": "02906",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Prisma Health Richland Hospital",
+                    "address": {
+                        "city": "Columbia",
+                        "state": "South Carolina",
+                        "zip": "29203",
                         "country": "United States"
                     }
                 },
@@ -864,6 +962,18 @@
             },
             {
                 "facility": {
+                    "name": "Providence St. Peter Hospital",
+                    "address": {
+                        "city": "Olympia",
+                        "state": "Washington",
+                        "zip": "98506",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Virginia Mason Medical Center",
                     "address": {
                         "city": "Seattle",
@@ -906,6 +1016,29 @@
                         "state": "Washington",
                         "zip": "98405",
                         "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "St Joseph Medical Center",
+                    "address": {
+                        "city": "Tacoma",
+                        "state": "Washington",
+                        "zip": "98405",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Chu Montpellier",
+                    "address": {
+                        "city": "Montpelier Cedex 5",
+                        "zip": "34295",
+                        "country": "France"
                     }
                 },
                 "status": "Recruiting"
@@ -975,6 +1108,17 @@
             },
             {
                 "facility": {
+                    "name": "Dipartimento di Malattie Infettive, Malattie Infettive I- Malattie Infettive III, AssT Fatebenefratelli Sacco Ospedale Luigi Sacco",
+                    "address": {
+                        "city": "Milano",
+                        "zip": "20157",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "UOC Medicina Di Laboratorio, Azienda Ospedaliera di Padova",
                     "address": {
                         "city": "Padova PD",
@@ -1001,6 +1145,16 @@
                     "address": {
                         "city": "Pavia",
                         "zip": "27100",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Ospedale Guglielmo da Saliceto AUSL di Piacenza",
+                    "address": {
+                        "city": "Piacenza",
                         "country": "Italy"
                     }
                 },
@@ -1041,6 +1195,17 @@
             },
             {
                 "facility": {
+                    "name": "Leiden University Medical Center",
+                    "address": {
+                        "city": "Leiden",
+                        "zip": "2300 RC",
+                        "country": "Netherlands"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "National University Hospital",
                     "address": {
                         "city": "Singapore",
@@ -1074,10 +1239,54 @@
             },
             {
                 "facility": {
+                    "name": "Hospital Universitari Vall d'Hebron",
+                    "address": {
+                        "city": "Barcelona",
+                        "zip": "08035",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Hospital Clinic de Barcelona",
                     "address": {
                         "city": "Barcelona",
                         "zip": "8036",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario Cruces",
+                    "address": {
+                        "city": "Bizkaia",
+                        "zip": "48903",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario Ram\u00f3n y Cajal",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28034",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario 12 de Octubre",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28041",
                         "country": "Spain"
                     }
                 },
@@ -1181,14 +1390,27 @@
                     }
                 },
                 "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Sheffield Teaching Hospitals",
+                    "address": {
+                        "city": "Sheffield",
+                        "zip": "S10 2JF",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
             }
         ],
         "location_countries": {
             "country": [
+                "France",
                 "Germany",
                 "Hong Kong",
                 "Italy",
                 "Korea, Republic of",
+                "Netherlands",
                 "Singapore",
                 "Spain",
                 "Switzerland",
@@ -1204,11 +1426,11 @@
             "@type": "Actual",
             "#text": "March 3, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

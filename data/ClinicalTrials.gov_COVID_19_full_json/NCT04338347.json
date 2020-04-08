@@ -1,0 +1,105 @@
+{
+    "clinical_study": {
+        "@rank": "34",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338347"
+        },
+        "id_info": {
+            "org_study_id": "CAP-1002-COVID-19",
+            "nct_id": "NCT04338347"
+        },
+        "brief_title": "CAP-1002 in Severe COVID-19 Disease",
+        "official_title": "CAP-1002 Treatment in Patients With Severe COVID-19 and in Critical Condition as Indicated by Life Support Measurements",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Capricor Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Capricor Inc.",
+        "brief_summary": {
+            "textblock": "This expanded access protocol will enroll subjects with a clinical diagnosis of COVID-19\n      confirmed by laboratory testing and who are in critical condition as indicated by life\n      support measurements. Eligible subjects will receive open-label intravenous administration of\n      investigational product (CAP-1002) containing 150 million allogeneic Cardiosphere-Derived\n      Cells (CDCs). CAP-1002 administration will be conducted at the investigative site on Day 1\n      and weekly up to a maximum of 4 doses, based on clinical course.\n\n      Subjects will complete protocol assessments at Screening; Day 1; Weeks 1-3; and Follow-up by\n      phone 30 and 90 days after the last infusion. Baseline assessments will be conducted prior to\n      first infusion on Day 1.\n\n      The patient will be observed during the lengths of hospitalization and monitored for outcome\n      and safety. Safety and outcome data will be collected and reported at the conclusion of\n      treatment and follow-up."
+        },
+        "detailed_description": {
+            "textblock": "This is an expanded access protocol that will enroll subjects with clinical diagnosis of\n      COVID-19 infection confirmed by laboratory testing and who are in critical condition as\n      indicated by life support measurements. Prior to protocol procedures, informed consent will\n      be obtained from the subject or a legally authorized representative. Subjects will undergo a\n      screening evaluation to determine eligibility based on the protocol inclusion and exclusion\n      criteria.\n\n      Eligible subjects will receive open-label intravenous administration of investigational\n      product (CAP-1002) containing 150 million allogeneic Cardiosphere-Derived Cells (CDCs).\n      CAP-1002 administration will be conducted at the investigative site on Day 1 and weekly up to\n      a maximum of 4 doses, based on clinical course. Starting at the second CAP-1002\n      administration and at all subsequent administrations, medications may be administered to the\n      subject at the Investigator's discretion based on the pre-treatment guidelines provided by\n      Capricor and/or institutional protocols to minimize the risk of potential severe allergic\n      reactions such as anaphylaxis. Final decisions regarding the pre-treatment medication(s),\n      dose(s) administered, and route(s) of administration will be determined by the Investigator\n      taking into consideration the subject's medical status, COVID-19, related conditions,\n      concomitant medications, and medical history. For any pre-treatment medication administered,\n      the FDA approved label will be reviewed for information on potential side effects and/or drug\n      interactions and followed for detailed instructions on weight-based dosing.\n\n      Subjects will complete protocol assessments at Screening; Day 1; Weeks 1-3; and Follow-up by\n      phone 30 and 90 days after the last infusion. Baseline assessments will be conducted prior to\n      first infusion on Day 1.\n\n      The patient will be observed during the lengths of hospitalization and monitored for outcome\n      and safety with vital signs, physical examinations, ECGs, PFTs, clinical laboratory testing\n      (including CBC, BMP, BNP, CRP, ESR, hsCRP, cytokine assay, viral load/nasal swab), troponin\n      I/troponin T and transthoracic echocardiogram. Additional CT and/or cardiac MRI imaging may\n      be performed, as appropriate. Safety and outcome data (including mortality, need for\n      additional levels of supportive care, length of stay) will be collected and reported at the\n      conclusion of treatment and follow-up. Additional samples of blood may be collected for\n      proteomic analysis."
+        },
+        "overall_status": "Available",
+        "study_type": "Expanded Access",
+        "expanded_access_info": {
+            "expanded_access_type_intermediate": "Yes",
+            "expanded_access_type_treatment": "Yes"
+        },
+        "condition": "COVID-19",
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "CAP-1002 Allogeneic Cardiosphere-Derived Cells",
+            "description": "Extracellular Vesicles (EVs) from Cardiosphere-Derived Cells (CDCs)"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male or female subjects at least 18 years of age at time of consent\n\n          2. Confirmed COVID-19 infection by clinical diagnosis and laboratory testing\n\n          3. In critical condition as indicated by life support measurements\n\n          4. Have one or more of the following laboratory parameters:\n\n               -  lymphocytopenia\n\n               -  elevated IL-6\n\n               -  elevated Troponin I/Troponin T (TnI/T)\n\n               -  elevated myoglobin\n\n               -  elevated C-Reactive Protein (CRP)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A"
+        },
+        "overall_official": {
+            "last_name": "Raj Makkar, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Cedars-Sinai Medical Center, Los Angeles, CA 90048"
+        },
+        "overall_contact": {
+            "last_name": "Siegfried Rogy, PhD",
+            "phone": "818-618-5774",
+            "email": "srogy@capricor.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Paula Williams, MS",
+            "phone": "646-784-7030",
+            "email": "pwilliams@capricor.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Cedars-Sinai Medical Center",
+                "address": {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "zip": "90048",
+                    "country": "United States"
+                }
+            },
+            "status": "Available",
+            "contact": {
+                "last_name": "Mitch Gheoghiu, MD",
+                "phone": "310-423-6152",
+                "email": "Mitch.Gheorghiu@cshs.org"
+            },
+            "contact_backup": {
+                "last_name": "Khaled Alsabaawi",
+                "phone": "310-423-6226",
+                "email": "Khaled.Alsabaawi@cshs.org"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "clinical_study": {
+        "@rank": "92",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338932"
+        },
+        "id_info": {
+            "org_study_id": "JessaH_COVID19_DVT",
+            "nct_id": "NCT04338932"
+        },
+        "brief_title": "COVID-19 and Deep Venous Thrombosis",
+        "official_title": "COVID-19 and Deep Venous Thrombosis: a Cross-sectional Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Jessa Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Jessa Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The aim of this study is to investigate the prevalence and possible risk factors of the\n      occurrence of a DVT in 12 intubated and mechanically ventilated COVID-19 patients admitted to\n      the ICU at a single time point (29/03/2020)."
+        },
+        "detailed_description": {
+            "textblock": "Patients admitted to the Intensive Care Unit (ICU) are known to be at risk for\n      thrombo-embolic events. Virchow's triad describes the major risk factors in three categories:\n      venous stasis, vessel injury and activation of blood coagulation. A prolonged mechanical\n      ventilation together with the hemodynamic effects of this ventilation with a high positive\n      and expiratory pressure (PEEP), the presence of central venous catheters, the immobilization\n      of these patients and the presence of obesity or other comorbidities can attribute to the\n      occurrence of a deep venous thrombosis (DVT) in patients admitted at ICU. The incidence of\n      DVT during ICU stay has been reported between 5 and 15%.\n\n      On the 13th of March, the first COVID-19 patient was admitted at the ICU at the Jessa\n      Hospital. Within a few days, the admissions at our COVID-19 unit grew exponential. In these\n      difficult time, research concerning COVID-19 has been performed indicating the COVID-19 virus\n      induces a hyper-inflammatory state. It has been suggested that systemic inflammation induces\n      endothelial injury. This will activate the coagulation cascade and impair fibrinolysis with\n      disruption of endothelial barrier, and loss of physiologic antithrombotic factors which may\n      elevated the risk for DVTs significantly. Up to now, there is still no causal treatment for\n      COVID-19. The current management of COVID-19 is mainly supportive i.e. a prolonged\n      inflammatory status and a prolonged risk for VTE.\n\n      During the placement of a dialysis catheter in the femoral vein of one of the patients\n      admitted in the ICU for COVID-19 at our hospital, a large deep vein thrombosis (DVT) proximal\n      in both common femoral veins was noticed in a patient. Since there were no clinical signs of\n      DVT present in this patient, every patient at the ICU unit at that moment was screened on the\n      presence of DVTs. We found one or several deep vein thromboses in 5 out of 12 patients at 1\n      ICU unit. Since this was a unusual high incidence, we want to further investigate this\n      prevalence and evaluate possible causes of these DVTs.\n\n      The aim of this study is to investigate the prevalence and possible risk factors of the\n      occurrence of a DVT in 12 intubated and mechanically ventilated COVID-19 patients admitted to\n      the ICU at a single time point (29/03/2020).\n\n      The endpoint of this cross-sectional study is to investigate the prevalence and identify\n      possible risk factors of the occurrence of a DVT in these patients at the ICU.\n\n      These parameters are listed below and included parameters/values collected as a\n      standard-of-care in our hospital:\n\n        -  Demographics: i.e age, gender\n\n        -  Comorbidities: smoking, hypertension, diabetes, cardiovascular disease, respiratory\n           disease, malignancies, renal failure, liver failure, gastrointestinal disease,\n           neurological conditions, mental state, other\n\n        -  Symptoms at the time of admission to ICU: i.e fever, body temperature, dyspnoea,\n           headache, diarrhea etc\u2026\n\n        -  Laboratory results of all standard parameters measured\n\n        -  Treatment: antiviral agents, antibiotics, etc\u2026\n\n        -  Complications: shock, heart failure, sepsis, stroke, etc\u2026\n\n        -  Ventilation: method, PEEP, FiO2, ..\n\n        -  Radiological findings: pneumonia, ground-glass opacity.."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 17, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": {
+            "measure": "to investigate the prevalence and identify possible risk factors of the occurrence of a DVT in these patients at the ICU.",
+            "time_frame": "1 day at ICU",
+            "description": "to investigate the prevalence and identify possible risk factors of the occurrence of a DVT in these patients at the ICU."
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "12"
+        },
+        "condition": [
+            "COVID-19",
+            "Deep Vein Thrombosis (DVT)/Thrombophlebitis"
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "12 intubated and mechanically ventilated COVID-19 patients admitted to the ICU at a single\n        time point (29/03/2020)."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  12 intubated and mechanically ventilated COVID-19 patients admitted to the ICU at a\n             single time point (29/03/2020).\n\n        Exclusion Criteria:\n\n          -  None"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Bjorn Stessel, Dr",
+            "phone": "003211222107",
+            "email": "bjorn.stessel@jessazh.be"
+        },
+        "overall_contact_backup": {
+            "last_name": "Ina Callebaut, dr",
+            "phone": "003211339848",
+            "email": "ina.callebaut@jessazh.be"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Jessa Hospital",
+            "investigator_full_name": "Stessel Bj\u00f6rn",
+            "investigator_title": "Dr"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Thrombosis",
+                "Venous Thrombosis",
+                "Thrombophlebitis"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

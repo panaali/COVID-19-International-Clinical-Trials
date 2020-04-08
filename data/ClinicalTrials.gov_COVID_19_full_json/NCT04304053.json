@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "39",
+        "@rank": "42",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04304053"
         },
@@ -158,58 +158,35 @@
             "last_name": "Laia Bertran",
             "phone": "0034 934651072"
         },
-        "location": [
-            {
-                "facility": {
-                    "name": "CAP II Sant F\u00e8lix",
-                    "address": {
-                        "city": "Sabadell",
-                        "state": "Barcelona",
-                        "zip": "08204",
-                        "country": "Spain"
-                    }
-                },
-                "status": "Recruiting"
+        "location": {
+            "facility": {
+                "name": "Departament de Salut",
+                "address": {
+                    "city": "Barcelona",
+                    "country": "Spain"
+                }
             },
-            {
-                "facility": {
-                    "name": "Ger\u00e8ncia Territorial Catalunya Central",
-                    "address": {
-                        "city": "Sant Fruit\u00f3s De Bages",
-                        "state": "Barcelona",
-                        "zip": "08272",
-                        "country": "Spain"
-                    }
-                },
-                "status": "Recruiting"
-            },
-            {
-                "facility": {
-                    "name": "Centre de Salut Isabel Roig-Casernes de Sant Andreu",
-                    "address": {
-                        "city": "Barcelona",
-                        "zip": "08030",
-                        "country": "Spain"
-                    }
-                },
-                "status": "Recruiting"
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Oriol Mitj\u00e0",
+                "email": "omitja@flsida.org"
             }
-        ],
+        },
         "location_countries": {
             "country": "Spain"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 5, 2020",
         "study_first_submitted_qc": "March 7, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 11, 2020"
         },
-        "last_update_submitted": "March 22, 2020",
-        "last_update_submitted_qc": "March 22, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 24, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",
@@ -221,7 +198,18 @@
             "mesh_term": "Antiviral Agents"
         },
         "patient_data": {
-            "sharing_ipd": "No"
+            "sharing_ipd": "Yes",
+            "ipd_description": "Open access",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)",
+                "Clinical Study Report (CSR)",
+                "Analytic Code"
+            ],
+            "ipd_time_frame": "30 days after start of treatment",
+            "ipd_access_criteria": "Open access for everybody",
+            "ipd_url": "http://www.estudicovid19.org"
         }
     }
 }

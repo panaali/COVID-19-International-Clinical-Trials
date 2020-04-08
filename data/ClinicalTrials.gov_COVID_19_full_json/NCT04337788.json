@@ -1,0 +1,123 @@
+{
+    "clinical_study": {
+        "@rank": "214",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04337788"
+        },
+        "id_info": {
+            "org_study_id": "87RI20_0013",
+            "nct_id": "NCT04337788"
+        },
+        "brief_title": "Gerontological Telemonitoring of Older Adults Living in Nursing Homes With COVID-19 Disease",
+        "acronym": "COVIDeHPAD",
+        "official_title": "Gerontological Telemonitoring of Older Adults Living in Nursing Homes With Symptoms of Confirmed or Probable COVID-19 Disease",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Limoges",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Limoges",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Since the last 3 months the world copes with the novel coronavirus disease : Covid-19 emerged\n      in China in the end of 2019. WHO declared the pandemic situation as a Public Health Emergency\n      around the world on January 2020.\n\n      Firsts studies emphasized on higher risk to older adults to experience serious health\n      consequences : hospitalizations and mortality, due to multimorbidity and multimedication.\n      Nursing home resident are particulary frailer and vulnerable."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Prospective cohort study (here and elsewhere)",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Impact of Gerontological telemonitoring on healthcare management for older adults living in Nursing Homes with symptoms of confirmed or probable COVID-19 disease (Death within 30 days).",
+            "time_frame": "day 30"
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "Coronavirus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "gerontological telemonitoring action",
+                "arm_group_type": "Experimental",
+                "description": "Nurses answer a daily resident-reported questionnaire (e.g. temperature, dyspnea, pain), edited by French health authorities. From D0 to D20, data are transmitted to the NHSP. Warning algorithms specially developed for older persons identify signs that are monitored by the NHSP geriatrician coordinator. A feedback is provided to the general physician for specific actions required and appropriate support.\nA last questionnaire is completed at D30 by the nurse in order to stop monitoring and know event occurred between D20 to D30."
+            },
+            {
+                "arm_group_label": "routine care without gerontological telemonitoring",
+                "arm_group_type": "No Intervention",
+                "description": "routine care"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "telehealth applications",
+            "description": "telehealth applications during 30 days/patient",
+            "arm_group_label": "gerontological telemonitoring action"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Nursing home resident with Covid disease RT-PCR or Chest CT or rapid test\n\n          -  Nursing home resident with Covid-19 disease symptoms :\n\n          -  fever\n\n          -  cough\n\n          -  dyspnea\n\n          -  SPO2<95% in ambient air (or <91% in COPD patient)\n\n          -  Diarrhea\n\n          -  Fall or balance disorder\n\n          -  Confusion\n\n        Exclusion Criteria:\n\n          -  Age < 75 years\n\n          -  Patient in respiratory distress\n\n          -  No consent"
+            },
+            "gender": "All",
+            "minimum_age": "75 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Achille TCHALLA, MD",
+            "phone": "+33 5 55 05 86 26",
+            "email": "achille.tchalla@chu-limoges.fr"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "Covid-19, early gerontologic healthcare",
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

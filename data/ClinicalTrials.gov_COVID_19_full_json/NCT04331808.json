@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "284",
+        "@rank": "371",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04331808"
         },
@@ -10,7 +10,7 @@
             "org_study_id": "APHP200375-1",
             "nct_id": "NCT04331808"
         },
-        "brief_title": "Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Tocilizumab Trial - CORIMUNO-19 - TOCI (CORIMUNO-TOCI)",
+        "brief_title": "CORIMUNO-19 - Tocilizumab Trial - TOCI (CORIMUNO-TOCI)",
         "acronym": "CORIMUNO-TOC",
         "official_title": "Cohort Multiple Randomized Controlled Trials Open-label of Immune Modulatory Drugs and Other Treatments in COVID-19 Patients - Tocilizumab Trial - CORIMUNO-19 - TOCI (CORIMUNO-TOCI)",
         "sponsors": {
@@ -54,22 +54,22 @@
             {
                 "measure": "Survival without needs of ventilator utilization at day 14.",
                 "time_frame": "14 days",
-                "description": "Survival without needs of ventilator utilization (including Non invasive ventilation) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NVI), or death. New Do Not Resuscitate (DNR) order will be considered as an event at the date of the DNR."
+                "description": "Survival without needs of ventilator utilization (including non invasive ventilation and high flow) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NIV or high flow), or death. New DNR order (if given after the inclusion of the patient) will be considered as an event at the date of the DNR."
             },
             {
                 "measure": "WHO progression scale <=5 at day 4",
                 "time_frame": "4 days",
-                "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"
+                "description": "Proportion of patients alive without non-invasive ventilation of high low at day 4 (WHO progression scale \u2264 5). A patient with new DNR order at day 4 will be considered as with a score > 5.\nWHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"
             },
             {
                 "measure": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14",
                 "time_frame": "14 days",
-                "description": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14. Death or DNR order will be considered as a competing event."
+                "description": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14 if patients have been intubated before day 14 ; or removal of NIV or high flow (for > 48h) if they were included under oxygen by NIV or High flow (score 6) and remained without intubation. Death or new DNR order (if given after the inclusion of the patient) will be considered as a competing event."
             },
             {
-                "measure": "WHO progression scale <=7 at day 4",
+                "measure": "WHO progression scale at day 4",
                 "time_frame": "4 days",
-                "description": "WHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"
+                "description": "Early end point: proportion of patients with a decrease of WHO score of at least 1 point at day 4.\nWHO progression scale:\nUninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10"
             }
         ],
         "secondary_outcome": [
@@ -174,11 +174,11 @@
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "March 31, 2020",
-        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

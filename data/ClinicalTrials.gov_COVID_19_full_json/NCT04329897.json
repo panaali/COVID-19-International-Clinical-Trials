@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "365",
+        "@rank": "387",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04329897"
         },
@@ -30,10 +30,10 @@
         "detailed_description": {
             "textblock": "Adult patients presenting to a University Hospital and found to have hip and knee\n      osteoarthritis that had failed conservative management were subsequently indicated for\n      primary hip or knee replacement (arthroplasty). Patients who subsequently had their surgery\n      delayed or cancelled due to the COVID-19 pandemic were eligible for this study. Eligible\n      patients consenting to the study will be assigned a unique study identification number (ID).\n      A master database linking patient ID to patient name and medical record number will be housed\n      on a password protected and encrypted departmental server location, which only research\n      personnel can access.\n\n      Participants will complete a basic demographics survey and preoperative/ baseline patient\n      reported outcome surveys at enrollment, including the Patient-reported outcomes measurement\n      information system (PROMIS) Pain Intensity 1A short form, PROMIS Pain Intensity 3A short\n      form, PROMIS Pain Interference 8A short form, and PROMIS 8A Emotional Distress-Anxiety 8A\n      short forms. Following completion of these surveys, subjects will be randomized in a 1:1\n      ratio using a random number generator into one of two study groups. The intervention group\n      will receive mobile messages communicating the behavior intervention. The control group will\n      not receive the intervention. Subjects will not be blinded to their study group. Participants\n      randomized to the intervention group were subsequently enrolled into the automated mobile\n      messaging protocol and received a confirmation message welcoming them to the study, which was\n      reviewed with them by the research assistant. Subjects were instructed that they were only\n      required to read all messages, no responses were required.\n\n      A single instance of follow-up will take place on Day 14 of the study. This will occur over\n      the phone with a research team member. Subjects will fill out a second set of the patient\n      reported outcome surveys completed at enrollment. Collection of these followup items marks\n      the end of the subject's participation in the study. No data collection is planned following\n      the two week study period. The study hypothesis is that subjects receiving the behavior\n      intervention delivered via an automated mobile messaging robot would demonstrate better\n      patient reported outcome survey scores than controls at follow-up."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Enrolling by invitation",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "March 31, 2020"
+            "@type": "Actual",
+            "#text": "April 5, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -118,14 +118,19 @@
             "role": "Study Director",
             "affiliation": "University of Iowa Department of Orthopaedics"
         },
-        "overall_contact": {
-            "last_name": "Edward Rojas, BS",
-            "phone": "5624052654",
-            "email": "edward-rojas@uiowa.edu"
+        "location": {
+            "facility": {
+                "name": "University of Iowa Hospitals and Clinics",
+                "address": {
+                    "city": "Iowa City",
+                    "state": "Iowa",
+                    "zip": "52242",
+                    "country": "United States"
+                }
+            }
         },
-        "overall_contact_backup": {
-            "last_name": "Nicholas Bedard, MD",
-            "email": "nicholas-bedard@uiowa.edu"
+        "location_countries": {
+            "country": "United States"
         },
         "reference": [
             {
@@ -153,18 +158,18 @@
                 "PMID": "29091492"
             }
         ],
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 30, 2020",
         "study_first_submitted_qc": "March 30, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "March 30, 2020",
-        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 1, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

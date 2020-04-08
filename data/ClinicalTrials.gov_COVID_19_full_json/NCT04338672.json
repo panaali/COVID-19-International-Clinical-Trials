@@ -1,0 +1,170 @@
+{
+    "clinical_study": {
+        "@rank": "326",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338672"
+        },
+        "id_info": {
+            "org_study_id": "SMC-20-7078-YZ-CTIL",
+            "nct_id": "NCT04338672"
+        },
+        "brief_title": "The Impact of the Covid-19 Outbreak on Emergency Room Attendances of Surgical Patients",
+        "official_title": "The Impact of the Coronavirus Disease 2019 (Covid-19) Outbreak on Emergency Room Attendances of Surgical Patients at a Tertiary Medical Center",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sheba Medical Center",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Sheba Medical Center",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Since December 2019, when the novel coronavirus disease (Covid-19) spread throughout the\n      world, data have been needed on the effects of the pandemic on various aspects of healthcare\n      systems. Recommendations for social distancing and quarantine decrees made by local\n      governments, alongside the general public fear from the spread of the virus, are presumed to\n      have markedly affected the trends in hospitals visits. Understanding the exact nature of the\n      effect is critical for better anticipating and preparing health systems in the event of\n      future outbreaks and in the post outbreak period. Therefore we intend to To identify\n      retrospectively all patients who presented to the emergency department at our medical\n      institute between January 1 - March 31 in the following years: 2017, 2018, 2019, 2020. We\n      will examine the impact of COVID-19 on the rates of surgical emergency visits, ratio of\n      surgical visits to non-surgical visits, the ratio of severe presentations to non-severe\n      presentations, and the impact of age on ED attendance."
+        },
+        "detailed_description": {
+            "textblock": "Since December 2019, when the novel coronavirus disease (Covid-19) spread throughout the\n      world, data have been needed on the effects of the pandemic on various aspects of healthcare\n      systems. Recommendations for social distancing and quarantine decrees made by local\n      governments, alongside the general public fear from the spread of the virus, are presumed to\n      have markedly affected the trends in hospitals visits. Understanding the exact nature of the\n      effect is critical for better anticipating and preparing health systems in the event of\n      future outbreaks and in the post outbreak period. Additionally, deferring hospitals visits\n      can potentially put patients at increased risk for morbidity and mortality, especially in\n      postsurgical patients. Evaluating the impact of the pandemic on patient volume can guide\n      decision-making in future scenarios.\n\n      Previous infectious disease outbreaks have been shown to impact ED volumes: The US Hantavirus\n      outbreak in 1993 led to a 2-fold increase in ED visits; Escherichia coli 0157:H7 outbreak in\n      Washington state in 1993 increased ED visits by 17%; However, the 2003 SARS outbreaks in Hong\n      Kong, Taiwan, and Toronto reduced tertiary care ED visits by up to 47 percent."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 5, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Rates of emergency visits needing surgical consult",
+                "time_frame": "January 1 - March 31 in the following years: 2017, 2018, 2019, 2020"
+            },
+            {
+                "measure": "The ratio of severe presentations to non-severe presentations",
+                "time_frame": "January 1 - March 31 in the following years: 2017, 2018, 2019, 2020"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "The impact of age on ED attendance rates",
+                "time_frame": "January 1 - March 31 in the following years: 2017, 2018, 2019, 2020"
+            },
+            {
+                "measure": "Differences in ED surgical visits (in terms of capacity and severity) of surgical patients depending on the presentation and the co morbidity",
+                "time_frame": "January 1 - March 31 in the following years: 2017, 2018, 2019, 2020"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1000000"
+        },
+        "condition": [
+            "Emergency Service, Hospital",
+            "General Surgery"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Pandemic Period",
+                "description": "Patients who presented to the emergency department at our medical institute Sheba Medical Center between January 1 - March 31 in 2020."
+            },
+            {
+                "arm_group_label": "Pre Pandemic Period",
+                "description": "Patients who presented to the emergency department at our medical institute Sheba Medical Center between January 1 - March 31 in the following years: 2017, 2018, 2019,"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "COVID-19 Pandemic",
+            "description": "Exposure: the novel coronavirus disease (Covid-19) outbreak",
+            "arm_group_label": "Pandemic Period"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All patients aged >18 years old who attended the emergency department of Sheba Medical\n        Center between January 1 - March 31 in the following years: 2017, 2018, 2019, 2020"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All patients visiting the ER of Sheba Medical Center between January 1 - March 31 in\n             the following years: 2017, 2018, 2019, 2020\n\n        Exclusion Criteria:\n\n          -  Patients less than 18 years of age"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Roi Anteby, MD",
+            "phone": "19293011120",
+            "email": "roi.anteby@sheba.health.gov.il"
+        },
+        "location": {
+            "facility": {
+                "name": "Sheba Medical Center",
+                "address": {
+                    "city": "Ramat Gan",
+                    "country": "Israel"
+                }
+            },
+            "contact": {
+                "last_name": "Roi Anteby, MD",
+                "phone": "+972545882207",
+                "email": "roi.anteby@sheba.health.gov.il"
+            }
+        },
+        "location_countries": {
+            "country": "Israel"
+        },
+        "reference": [
+            {
+                "citation": "Heiber M, Lou WY. Effect of the SARS outbreak on visits to a community hospital emergency department. CJEM. 2006 Sep;8(5):323-8.",
+                "PMID": "17338843"
+            },
+            {
+                "citation": "Chen WK, Cheng YC, Chung YT, Lin CC. The impact of the SARS outbreak on an urban emergency department in Taiwan. Med Care. 2005 Feb;43(2):168-72.",
+                "PMID": "15655430"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 4, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Emergency Department",
+            "Surgical Consults",
+            "General Surgery",
+            "Hospital Attendance"
+        ],
+        "condition_browse": {
+            "mesh_term": "Emergencies"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

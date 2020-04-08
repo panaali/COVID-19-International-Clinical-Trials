@@ -1,0 +1,205 @@
+{
+    "clinical_study": {
+        "@rank": "146",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338698"
+        },
+        "id_info": {
+            "org_study_id": "12(06)/2016-Coord",
+            "nct_id": "NCT04338698"
+        },
+        "brief_title": "Hydroxychloroquine, Oseltamivir and Azithromycin for the Treatment of COVID-19 Infection: An RCT",
+        "acronym": "PROTECT",
+        "official_title": "Pakistan Randomized and Observational Trial to Evaluate Coronavirus Treatment",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Shehnoor Azhar",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Federal Task Force on Science & Technology notified by Government of Pakistan",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Health Sciences Lahore",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "To evaluate the effectiveness of Hydroxychloroquine Phosphate/Sulfate (200 mg orally 8hr\n      thrice a day for 5 days) vs oseltamivir (75 mg orally twice a day for 5 days) vs Azithromycin\n      (500 mg orally daily on day 1, followed by 250 mg orally twice a day on days 2-5) alone and\n      in combination (in all seven groups), in clearing the coronavirus nucleic acid from throat\n      and nasal swab and in bringing about clinical improvement on day 7 of follow-up (primary\n      outcomes)."
+        },
+        "detailed_description": {
+            "textblock": "A scientific taskforce notified by the Ministry of Science and Technology of the Government\n      of Pakistan will oversee a comprehensive cohort study. Within this cohort, a multicenter,\n      adaptive, randomized controlled trial will evaluate, among eligible SARS-Cov-2 (COVID-19)\n      infected patients receiving standard supportive care who consent to randomization following a\n      new diagnosis in Pakistan, if Hydroxychloroquine Phosphate/Sulfate alone (control\n      intervention) vs a series of alternatives (comparator interventions) including Oseltamivir\n      and Azithromycin alone and in combination with Hydroxychloroquine Phosphate/Sulfate is\n      effective in clearing the coronavirus and improving the clinical course of the disease. Those\n      not consenting to randomization will be followed up for outcomes of SARS-Cov-2 infection with\n      supportive care only. Findings of this study are expected to inform clinical care and public\n      health protocols and policies for management of SARS-Cov-2."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 7, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 1, 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Adaptive design (sample size given below is indicative)",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Laboratory Result",
+                "time_frame": "Day 07 on follow-up",
+                "description": "The laboratory-based primary outcome will be turning test negative for COVID-19 on RT-qPCR calculated as viral load of < 150 i.u"
+            },
+            {
+                "measure": "Clinical Outcome",
+                "time_frame": "Day 07 on follow-up",
+                "description": "The clinical primary outcome will improvement of two points on a seven-category ordinal scale"
+            }
+        ],
+        "number_of_arms": "8",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": "COVID 19",
+        "arm_group": [
+            {
+                "arm_group_label": "Control Intervention",
+                "arm_group_type": "Active Comparator",
+                "description": "Hydroxychloroquine"
+            },
+            {
+                "arm_group_label": "Comparator 1",
+                "arm_group_type": "Experimental",
+                "description": "Azithromycin"
+            },
+            {
+                "arm_group_label": "Comparator 2",
+                "arm_group_type": "Experimental",
+                "description": "Oseltamivir"
+            },
+            {
+                "arm_group_label": "Comparator 3",
+                "arm_group_type": "Experimental",
+                "description": "Hydroxychloroquine + Azithromycin"
+            },
+            {
+                "arm_group_label": "Comparator 4",
+                "arm_group_type": "Experimental",
+                "description": "Hydroxychloroquine + Oseltamivir"
+            },
+            {
+                "arm_group_label": "Comparator 5",
+                "arm_group_type": "Experimental",
+                "description": "Oseltamivir + Azithromycin"
+            },
+            {
+                "arm_group_label": "Comparator 6",
+                "arm_group_type": "Experimental",
+                "description": "Hydroxyquinine + Oseltamivir + Azithromycin"
+            },
+            {
+                "arm_group_label": "Observational Cohort",
+                "arm_group_type": "No Intervention",
+                "description": "Non-consenting to randomization"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "Hydroxychloroquine Phosphate/Sulfate (200 mg orally thrice a day for 5 days)",
+                "arm_group_label": [
+                    "Comparator 3",
+                    "Comparator 4",
+                    "Comparator 6",
+                    "Control Intervention"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Oseltamivir",
+                "description": "Oseltamivir (75 mg orally twice a day for 5 days)",
+                "arm_group_label": [
+                    "Comparator 2",
+                    "Comparator 4",
+                    "Comparator 5",
+                    "Comparator 6"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Azithromycin",
+                "description": "Azithromycin (500 mg orally once a day on day 1, followed by 250 mg orally daily on days 2-5)",
+                "arm_group_label": [
+                    "Comparator 1",
+                    "Comparator 3",
+                    "Comparator 5",
+                    "Comparator 6"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Confirmed SARS-CoV-2 (COVID-19) infection by a positive test result\n\n          2. Either gender\n\n          3. Symptomatic for example fever, dry Cough, difficulty to breathe\n\n        Exclusion Criteria:\n\n          1. Confirmed absence of SARS-CoV-2 (COVID-19) infection by a negative test result\n\n          2. Have chronic conditions such as heart disease, liver and kidney failure\n\n          3. Pregnant or currently lactating\n\n          4. Immunocompromise and/or systemic disease(s)\n\n          5. On other antiviral drugs\n\n          6. History of allergy to any of the drugs to be administered in this study"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Javed Akram, FRCP",
+            "role": "Principal Investigator",
+            "affiliation": "University of Health Sciences Lahore"
+        },
+        "overall_contact": {
+            "last_name": "Shehnoor Azhar, MPH",
+            "phone": "+92 321 4090221",
+            "email": "shehnoor.azhar@gmail.com"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 4, 2020",
+        "study_first_submitted_qc": "April 4, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 4, 2020",
+        "last_update_submitted_qc": "April 4, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "University of Health Sciences Lahore",
+            "investigator_full_name": "Shehnoor Azhar",
+            "investigator_title": "Study Coordinator"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydroxychloroquine",
+                "Oseltamivir"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "On completion of study, investigators are open to participation in planned IPD projects with a prospective registration, subject to appropriate approvals"
+        }
+    }
+}

@@ -1,0 +1,366 @@
+{
+    "clinical_study": {
+        "@rank": "147",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338009"
+        },
+        "id_info": {
+            "org_study_id": "842810",
+            "nct_id": "NCT04338009"
+        },
+        "brief_title": "Elimination or Prolongation of ACE Inhibitors and ARB in Coronavirus Disease 2019",
+        "acronym": "REPLACECOVID",
+        "official_title": "The Randomized Elimination or Prolongation of Angiotensin Converting Enzyme Inhibitors and Angiotensin Receptor Blockers in Coronavirus Disease 2019",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Pennsylvania",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Jordana B. Cohen, MD, MSCE",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Thomas C. Hanff, MD, MPH",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Vicente Corrales-Medina, MD, PhD",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "James Brian Byrd, MD",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Roberto Viau Colindres",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University of Pennsylvania",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus responsible for\n      coronavirus disease 2019 (COVID-19), is associated with a high incidence of acute respiratory\n      distress syndrome (ARDS) and death. Hypertension and cardiovascular disease are risk factors\n      for death in COVID-19. Angiotensin converting enzyme 2 (ACE2), an important component of the\n      renin-angiotensin system, serves as the binding site of SARS-CoV-2 and facilitates host cell\n      entry in the lungs. In experimental models, angiotensin converting enzyme inhibitors (ACEIs)\n      and angiotensin receptor blockers (ARBs) have been shown to increase ACE2 expression in\n      several organs, potentially promoting viral cell invasion, although these findings are not\n      consistent across studies. Alternatively, ACEIs and ARBs may actually improve mechanisms of\n      host defense or hyperinflammation, ultimately reducing organ injury. Finally, ACEIs and ARBs\n      may have direct renal, pulmonary and cardiac protective benefits in the setting of COVID-19.\n      Therefore, it is unclear if ACEIs and ARBs may be beneficial or harmful in patients with\n      COVID-19. Given the high prevalence of hypertension, cardiovascular and renal disease in the\n      world, the high prevalence of ACEIs or ARBs in these conditions, and the clinical equipoise\n      regarding the continuation vs. discontinuation of ACEIs/ARBs in the setting of COVID, a\n      randomized trial is urgently needed. The aim of this trial is to assess the clinical impact\n      of continuation vs. discontinuation of ACE inhibitors and angiotensin receptor blockers on\n      outcomes in patients hospitalized with COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "March 31, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": {
+            "measure": "Hierarchical composite endpoint",
+            "time_frame": "Up to 28 days",
+            "description": "The primary endpoint of the trial will be a global rank score that ranks patient outcomes according to four factors: (1) time to death, (2) the number of days supported by invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO), (3) the number of days supported by renal replacement therapy or pressor/inotropic therapy, and (4) a modified sequential Organ Failure Assessment (SOFA) score. The modified SOFA score will include the cardiac, respiratory, renal and coagulation domains of the SOFA score."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "All-Cause Death",
+                "time_frame": "Up to 28 days"
+            },
+            {
+                "measure": "Length of Hospital Stay",
+                "time_frame": "Up to 28 days"
+            },
+            {
+                "measure": "Length of ICU Stay, invasive mechanical ventilation or extracorporeal membrane oxygenation",
+                "time_frame": "Up to 28 days"
+            },
+            {
+                "measure": "AUC SOFA",
+                "time_frame": "Up to 28 days",
+                "description": "The Area Under the Curve of the modified SOFA (AUC SOFA) from daily measurements, weighted to account for the shorter observation period among patients who die in-hospital."
+            }
+        ],
+        "other_outcome": [
+            {
+                "measure": "Intensive care unit admission or respiratory Failure Requiring Mechanical Ventilation.",
+                "time_frame": "Up to 28 days",
+                "description": "Composite"
+            },
+            {
+                "measure": "Hypotension Requiring Vasopressors, inotropes or mechanical hemodynamic support",
+                "time_frame": "Up to 28 days",
+                "description": "Hypotension Requiring Vasopressors, inotropes or mechanical hemodynamic support (ventricular assist device or intra-aortic balloon pump)."
+            },
+            {
+                "measure": "Number of 28-Day Ventilator-Free Days.",
+                "time_frame": "Up to 28 days",
+                "description": "Number of days in 28-day period feee of invasive or non-invasive mechanical ventilation."
+            },
+            {
+                "measure": "Maximal change in NT-proBNP from baseline",
+                "time_frame": "28 days from enrollment",
+                "description": "Difference between NT-proBNP at the time of randomization and the maximum value"
+            },
+            {
+                "measure": "Change in serum creatinine between randomization and discharge (or time of death)",
+                "time_frame": "Up to 28 days",
+                "description": "as above"
+            },
+            {
+                "measure": "Acute kidney injury during hospitalization",
+                "time_frame": "Up to 28 days",
+                "description": "defined as Kidney Disease Improving Global Outcomes Stage 2 or higher or initiation of renal replacement therapy"
+            },
+            {
+                "measure": "Proteinuria or Hematuria",
+                "time_frame": "Up to 28 days",
+                "description": "Proteinuria or Hematuria detected on urinalysis"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "152"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Discontinuation arm",
+                "arm_group_type": "Experimental",
+                "description": "The randomized intervention will be the discontinuation of ACEI/ARBs"
+            },
+            {
+                "arm_group_label": "Continuation arm",
+                "arm_group_type": "Experimental",
+                "description": "The randomized intervention will be the continuation of ACEI/ARBs"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Discontinuation of ARB/ACEI",
+                "description": "The randomized intervention will be the discontinuation of ACEI/ARBs. In all participants randomized to discontinuation, treating clinicians will be reminded about the medication discontinuation upon discharge and will be prompted to consider re-initiation of the medication at that time if appropriate, per the clinician's discretion.",
+                "arm_group_label": "Discontinuation arm"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Continuation of ARB/ACEI",
+                "description": "The randomized intervention will be the continuation of ACEI/ARBs at the doses previously prescribed for patients during their routine care. Clinicians will be encouraged to continue the randomized treatment but will be allowed to change the dose of ACEI/ARB or discontinue these medications if any compelling clinical reasons are identified (such as hypotension, hyperkalemia, acute kidney injury).",
+                "arm_group_label": "Continuation arm"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Age 18 years or older\n\n          2. Hospitalization with a suspected diagnosis of COVID-19, based on: (a) A compatible\n             clinical presentation with a positive laboratory test for SARS-CoV-2, or (b)\n             Considered by the primary team to be a Person Under Investigation due to undergo\n             testing for COVID-19 in addition to compatible pulmonary infiltrates on chest x-ray\n             (mutilobar, intersticial or ground glass opacities).\n\n          3. Use of ACEI or ARB as an outpatient prior to hospital admission.\n\n        Exclusion Criteria:\n\n          1. Systolic blood pressure <100 mmHg.\n\n          2. Systolic blood pressure > 180 mmHg or >160 if unable to substitute ACEIs/ARBs for\n             another antihypertensive class, per the investigator's discretion.\n\n          3. Diastolic blood pressure > 110 mmHg\n\n          4. Known history of heart failure with reduced ejection fraction (EF <40%) on their most\n             recent echo and/or clinical heart failure with unknown EF (i.e. no echo in\n             approximately the past year).\n\n          5. Serum K>5.0 mEq/L on admission.\n\n          6. Known pregnancy or breastfeeding.\n\n          7. eGFR <30 mL/min/1.73m2\n\n          8. >50% increase in creatinine (to a creatinine >1.5 mg/dl) compared to most recent\n             creatinine in the past six months, if available\n\n          9. Urine protein-to-creatitine ratio > 3 g/g or proteinuria > 3 g/24-hours within the\n             past year\n\n         10. Ongoing treatment with aliskiren or sacubitril-valsartan.\n\n         11. Inability to obtain informed consent from patient.\n\n         12. Inability to read and write or lack of access to a smart phone, computer or tablet\n             device at the time of evaluation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Julio A Chirinos",
+            "phone": "215-573-6606",
+            "email": "juliochi@pennmedicine.upenn.edu"
+        },
+        "reference": [
+            {
+                "citation": "Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648. [Epub ahead of print]",
+                "PMID": "32091533"
+            },
+            {
+                "citation": "Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 11. pii: S0140-6736(20)30566-3. doi: 10.1016/S0140-6736(20)30566-3. [Epub ahead of print] Erratum in: Lancet. 2020 Mar 12;:.",
+                "PMID": "32171076"
+            },
+            {
+                "citation": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Feb 28. doi: 10.1056/NEJMoa2002032. [Epub ahead of print]",
+                "PMID": "32109013"
+            },
+            {
+                "citation": "Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Mar 13. doi: 10.1001/jamainternmed.2020.0994. [Epub ahead of print]",
+                "PMID": "32167524"
+            },
+            {
+                "citation": "Forouzanfar MH, Liu P, Roth GA, Ng M, Biryukov S, Marczak L, Alexander L, Estep K, Hassen Abate K, Akinyemiju TF, Ali R, Alvis-Guzman N, Azzopardi P, Banerjee A, B\u00e4rnighausen T, Basu A, Bekele T, Bennett DA, Biadgilign S, Catal\u00e1-L\u00f3pez F, Feigin VL, Fernandes JC, Fischer F, Gebru AA, Gona P, Gupta R, Hankey GJ, Jonas JB, Judd SE, Khang YH, Khosravi A, Kim YJ, Kimokoti RW, Kokubo Y, Kolte D, Lopez A, Lotufo PA, Malekzadeh R, Melaku YA, Mensah GA, Misganaw A, Mokdad AH, Moran AE, Nawaz H, Neal B, Ngalesoni FN, Ohkubo T, Pourmalek F, Rafay A, Rai RK, Rojas-Rueda D, Sampson UK, Santos IS, Sawhney M, Schutte AE, Sepanlou SG, Shifa GT, Shiue I, Tedla BA, Thrift AG, Tonelli M, Truelsen T, Tsilimparis N, Ukwaja KN, Uthman OA, Vasankari T, Venketasubramanian N, Vlassov VV, Vos T, Westerman R, Yan LL, Yano Y, Yonemoto N, Zaki ME, Murray CJ. Global Burden of Hypertension and Systolic Blood Pressure of at Least 110 to 115 mm Hg, 1990-2015. JAMA. 2017 Jan 10;317(2):165-182. doi: 10.1001/jama.2016.19043. Erratum in: JAMA. 2017 Feb 14;317(6):648.",
+                "PMID": "28097354"
+            },
+            {
+                "citation": "Hoffmann M, Kleine-Weber H, Schroeder S, Kr\u00fcger N, Herrler T, Erichsen S, Schiergens TS, Herrler G, Wu NH, Nitsche A, M\u00fcller MA, Drosten C, P\u00f6hlmann S. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell. 2020 Mar 4. pii: S0092-8674(20)30229-4. doi: 10.1016/j.cell.2020.02.052. [Epub ahead of print]",
+                "PMID": "32142651"
+            },
+            {
+                "citation": "Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H. Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis. J Pathol. 2004 Jun;203(2):631-7.",
+                "PMID": "15141377"
+            },
+            {
+                "citation": "Ferrario CM, Jessup J, Chappell MC, Averill DB, Brosnihan KB, Tallant EA, Diz DI, Gallagher PE. Effect of angiotensin-converting enzyme inhibition and angiotensin II receptor blockers on cardiac angiotensin-converting enzyme 2. Circulation. 2005 May 24;111(20):2605-10. Epub 2005 May 16.",
+                "PMID": "15897343"
+            },
+            {
+                "citation": "Ocaranza MP, Godoy I, Jalil JE, Varas M, Collantes P, Pinto M, Roman M, Ramirez C, Copaja M, Diaz-Araya G, Castro P, Lavandero S. Enalapril attenuates downregulation of Angiotensin-converting enzyme 2 in the late phase of ventricular dysfunction in myocardial infarcted rat. Hypertension. 2006 Oct;48(4):572-8. Epub 2006 Aug 14.",
+                "PMID": "16908757"
+            },
+            {
+                "citation": "Ishiyama Y, Gallagher PE, Averill DB, Tallant EA, Brosnihan KB, Ferrario CM. Upregulation of angiotensin-converting enzyme 2 after myocardial infarction by blockade of angiotensin II receptors. Hypertension. 2004 May;43(5):970-6. Epub 2004 Mar 8.",
+                "PMID": "15007027"
+            },
+            {
+                "citation": "Soler MJ, Ye M, Wysocki J, William J, Lloveras J, Batlle D. Localization of ACE2 in the renal vasculature: amplification by angiotensin II type 1 receptor blockade using telmisartan. Am J Physiol Renal Physiol. 2009 Feb;296(2):F398-405. doi: 10.1152/ajprenal.90488.2008. Epub 2008 Nov 12.",
+                "PMID": "19004932"
+            },
+            {
+                "citation": "Burrell LM, Risvanis J, Kubota E, Dean RG, MacDonald PS, Lu S, Tikellis C, Grant SL, Lew RA, Smith AI, Cooper ME, Johnston CI. Myocardial infarction increases ACE2 expression in rat and humans. Eur Heart J. 2005 Feb;26(4):369-75; discussion 322-4. Epub 2005 Jan 25.",
+                "PMID": "15671045"
+            },
+            {
+                "citation": "Burchill LJ, Velkoska E, Dean RG, Griggs K, Patel SK, Burrell LM. Combination renin-angiotensin system blockade and angiotensin-converting enzyme 2 in experimental myocardial infarction: implications for future therapeutic directions. Clin Sci (Lond). 2012 Dec;123(11):649-58. doi: 10.1042/CS20120162.",
+                "PMID": "22715807"
+            },
+            {
+                "citation": "Walters TE, Kalman JM, Patel SK, Mearns M, Velkoska E, Burrell LM. Angiotensin converting enzyme 2 activity and human atrial fibrillation: increased plasma angiotensin converting enzyme 2 activity is associated with atrial fibrillation and more advanced left atrial structural remodelling. Europace. 2017 Aug 1;19(8):1280-1287. doi: 10.1093/europace/euw246.",
+                "PMID": "27738071"
+            },
+            {
+                "citation": "Ramchand J, Patel SK, Srivastava PM, Farouque O, Burrell LM. Elevated plasma angiotensin converting enzyme 2 activity is an independent predictor of major adverse cardiac events in patients with obstructive coronary artery disease. PLoS One. 2018 Jun 13;13(6):e0198144. doi: 10.1371/journal.pone.0198144. eCollection 2018.",
+                "PMID": "29897923"
+            },
+            {
+                "citation": "Kuba K, Imai Y, Rao S, Gao H, Guo F, Guan B, Huan Y, Yang P, Zhang Y, Deng W, Bao L, Zhang B, Liu G, Wang Z, Chappell M, Liu Y, Zheng D, Leibbrandt A, Wada T, Slutsky AS, Liu D, Qin C, Jiang C, Penninger JM. A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury. Nat Med. 2005 Aug;11(8):875-9. Epub 2005 Jul 10.",
+                "PMID": "16007097"
+            },
+            {
+                "citation": "Henry C, Zaizafoun M, Stock E, Ghamande S, Arroliga AC, White HD. Impact of angiotensin-converting enzyme inhibitors and statins on viral pneumonia. Proc (Bayl Univ Med Cent). 2018 Oct 26;31(4):419-423. doi: 10.1080/08998280.2018.1499293. eCollection 2018 Oct.",
+                "PMID": "30948970"
+            },
+            {
+                "citation": "Gu Q, Burt VL, Dillon CF, Yoon S. Trends in antihypertensive medication use and blood pressure control among United States adults with hypertension: the National Health And Nutrition Examination Survey, 2001 to 2010. Circulation. 2012 Oct 23;126(17):2105-14. doi: 10.1161/CIRCULATIONAHA.112.096156.",
+                "PMID": "23091084"
+            },
+            {
+                "citation": "Buczko W, Kubik A, Kucharewicz I, Chabielska E. Antithrombotic effect of captopril and enalapril in young rats. Pol J Pharmacol. 2004 Jan-Feb;56(1):97-104.",
+                "PMID": "15047983"
+            },
+            {
+                "citation": "Remkov\u00e1 A, Kratochv\u00edlov\u00e1 H. Effect of the angiotensin-converting enzyme inhibitor perindopril on haemostasis in essential hypertension. Blood Coagul Fibrinolysis. 2000 Oct;11(7):641-4.",
+                "PMID": "11085284"
+            },
+            {
+                "citation": "Senchenkova EY, Russell J, Esmon CT, Granger DN. Roles of Coagulation and fibrinolysis in angiotensin II-enhanced microvascular thrombosis. Microcirculation. 2014 Jul;21(5):401-7. doi: 10.1111/micc.12120.",
+                "PMID": "24495184"
+            },
+            {
+                "citation": "Wojew\u00f3dzka-Zelezniakowicz M, Chabielska E, Mogielnicki A, Kramkowski K, Karp A, Opadczuk A, Domaniewski T, Malinowska-Zaprza\u0142ka M, Buczko W. Antithrombotic effect of tissue and plasma type angiotensin converting enzyme inhibitors in experimental thrombosis in rats. J Physiol Pharmacol. 2006 Jun;57(2):231-45.",
+                "PMID": "16845228"
+            },
+            {
+                "citation": "Mehta RL, Kellum JA, Shah SV, Molitoris BA, Ronco C, Warnock DG, Levin A; Acute Kidney Injury Network. Acute Kidney Injury Network: report of an initiative to improve outcomes in acute kidney injury. Crit Care. 2007;11(2):R31.",
+                "PMID": "17331245"
+            },
+            {
+                "citation": "Bateman BT, Patorno E, Desai RJ, Seely EW, Mogun H, Dejene SZ, Fischer MA, Friedman AM, Hernandez-Diaz S, Huybrechts KF. Angiotensin-Converting Enzyme Inhibitors and the Risk of Congenital Malformations. Obstet Gynecol. 2017 Jan;129(1):174-184. doi: 10.1097/AOG.0000000000001775.",
+                "PMID": "27926639"
+            },
+            {
+                "citation": "Moretti ME, Caprara D, Drehuta I, Yeung E, Cheung S, Federico L, Koren G. The Fetal Safety of Angiotensin Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers. Obstet Gynecol Int. 2012;2012:658310. doi: 10.1155/2012/658310. Epub 2011 Dec 13.",
+                "PMID": "22203847"
+            },
+            {
+                "citation": "Chow SC, Shao J, Wang H. Sample Size Calculations in Clinical Research. 2nd Edition ed. New York: Dekker; 2008."
+            },
+            {
+                "citation": "Julious SA. Sample sizes for clinical trials with normal data. Stat Med. 2004 Jun 30;23(12):1921-86. Review.",
+                "PMID": "15195324"
+            },
+            {
+                "citation": "PASS 16 Power Analysis and Sample Size Software. NCSS, LLC. Kaysville, Utah, USA, ncss.com/software/pass. 2018."
+            },
+            {
+                "citation": "Willan AR, Pater JL. Carryover and the two-period crossover clinical trial. Biometrics. 1986 Sep;42(3):593-9.",
+                "PMID": "3567292"
+            },
+            {
+                "citation": "Brown BW Jr. The crossover experiment for clinical trials. Biometrics. 1980 Mar;36(1):69-79.",
+                "PMID": "7370374"
+            },
+            {
+                "citation": "GRIZZLE JE. THE TWO-PERIOD CHANGE-OVER DESIGN AN ITS USE IN CLINICAL TRIALS. Biometrics. 1965 Jun;21:467-80.",
+                "PMID": "14338679"
+            },
+            {
+                "citation": "Laird NM, Ware JH. Random-effects models for longitudinal data. Biometrics. 1982 Dec;38(4):963-74.",
+                "PMID": "7168798"
+            },
+            {
+                "citation": "Therneau TM, Grambsch PM. Modeling Survival Data: Extending the Cox Model. In: Statistics for Biology and Health. New York, NY: Springer; 2001."
+            },
+            {
+                "citation": "Little RJ. Modeling the drop-out mechanism in repeated-measures studies. Journal of the American Statistical Association. 1995;90:1112-1121."
+            },
+            {
+                "citation": "Xie X, Chen J, Wang X, Zhang F, Liu Y. Age- and gender-related difference of ACE2 expression in rat lung. Life Sci. 2006 Apr 4;78(19):2166-71. Epub 2005 Nov 21. Erratum in: Life Sci. 2006 Nov 25;79(26):2499. Xudong, Xie [corrected to Xie, Xudong]; Junzhu, Chen [corrected to Chen, Junzhu]; Xingxiang, Wang [corrected to Wang, Xingxiang]; Furong, Zhang [corrected to Zhang, Furong]; Yanrong, Liu [corrected to Liu, Yanrong].",
+                "PMID": "16303146"
+            },
+            {
+                "citation": "Wright JT Jr, Dunn JK, Cutler JA, Davis BR, Cushman WC, Ford CE, Haywood LJ, Leenen FH, Margolis KL, Papademetriou V, Probstfield JL, Whelton PK, Habib GB; ALLHAT Collaborative Research Group. Outcomes in hypertensive black and nonblack patients treated with chlorthalidone, amlodipine, and lisinopril. JAMA. 2005 Apr 6;293(13):1595-608.",
+                "PMID": "15811979"
+            },
+            {
+                "citation": "Gurwitz D. Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics. Drug Dev Res. 2020 Mar 4. doi: 10.1002/ddr.21656. [Epub ahead of print]",
+                "PMID": "32129518"
+            },
+            {
+                "citation": "Pflugfelder PW, Baird MG, Tonkon MJ, DiBianco R, Pitt B. Clinical consequences of angiotensin-converting enzyme inhibitor withdrawal in chronic heart failure: a double-blind, placebo-controlled study of quinapril. The Quinapril Heart Failure Trial Investigators. J Am Coll Cardiol. 1993 Nov 15;22(6):1557-63.",
+                "PMID": "8227822"
+            },
+            {
+                "citation": "Beeftink MM, van der Sande NG, Bots ML, Doevendans PA, Blankestijn PJ, Visseren FL, Voskuil M, Spiering W. Safety of Temporary Discontinuation of Antihypertensive Medication in Patients With Difficult-to-Control Hypertension. Hypertension. 2017 May;69(5):927-932. doi: 10.1161/HYPERTENSIONAHA.116.08793. Epub 2017 Apr 3.",
+                "PMID": "28373591"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Pennsylvania",
+            "investigator_full_name": "Julio A. Chirinos",
+            "investigator_title": "Associate Professor of Medicine at the Hospital of the University of Pennsylvania"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "intervention_browse": {
+            "mesh_term": "Angiotensin-Converting Enzyme Inhibitors"
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "Not making it available"
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "clinical_study": {
+        "@rank": "116",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338958"
+        },
+        "id_info": {
+            "org_study_id": "RuxCoFlam",
+            "nct_id": "NCT04338958"
+        },
+        "brief_title": "Ruxolitinib in Covid-19 Patients With Defined Hyperinflammation",
+        "acronym": "RuxCoFlam",
+        "official_title": "A Phase-II Clinical Trial for First Line Treatment of Stage II/III Covid-19 Patients to Treat Hyperinflammation",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Prof. Dr. med. Andreas Hochhaus",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Jena",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "RuxCoFlam is a single arm, non-randomized open phase II trial for front line treatment of\n      Covid-19 patients with defined hyperinflammation."
+        },
+        "detailed_description": {
+            "textblock": "RuxCoFlam is a single arm, non-randomized open phase II trial for front line treatment of\n      Covid-19 patients with defined hyperinflammation. Purpose of the study is the reversal of\n      hyperinflammation to improve pulmonary function, reduce respiratory dependency and reduce\n      mortality. Patients with a hyperinflammation Score 10/16 without a clinical diagnosis of\n      sepsis will be treated with 2 x 10mg Ruxolitinib with defined response adapted dose\n      escalation up to 2 x 20mg for a duration of 7 days with clinical and/or radiographic response\n      assessment. Inflammation assessment will be performed every other day (day 3, 5,7) using the\n      CIS. In patients with unaffected CIS alteration < 25% or increasing CIS > 25% dose escalation\n      by 5mg steps (15mg, day3; 20mg day 5) at the investigator\u00b4s discretion. Treatment can be\n      extended up to 28 days if clinically indicated and the benefits of treatment outweigh the\n      risks. Primary endpoint of the study is the overall response rate in reversal of\n      hyperinflammation at day 7 compared to baseline. Secondary endpoints are total use of\n      assisted oxygenation dependency (duration (days) of invasive/non-invasive ventilation or\n      duration (days) of high-flow Oxygen support), radiologic response (reversal of pulmonary\n      Covid-signs, Lung-XRay/CT), day 15 clinical status and day 15 and day 29 mortality. Patients\n      aged \u226518 years hospitalized with COVID-19 pneumonia (demonstrated by CXRAY or chest CT), with\n      a study specific Covid Inflammation Score \u2265 10 are eligible. Patients with active\n      tuberculosis or uncontrolled bacterial, fungal, viral, or other infection (besides SARS-CoV-2\n      virus) will be excluded from the study."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "January 31, 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "single arm, non-randomized",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "overall response rate in reversal of hyperinflammation",
+            "time_frame": "day 7 after start of therapy",
+            "description": "Patients achieving 25% reduction in hyperinflammation score (CIS) compared to baseline at day 7"
+        },
+        "secondary_outcome": {
+            "measure": "efficacy of ruxolitinib + standard-of-care (SoC)",
+            "time_frame": "Days 15 and 29 after start of therapy",
+            "description": "duration of hospitalization, reduction of mechanical ventilation, duration and amount of oxygen supplementation, reduction of side effects"
+        },
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "Covid-19",
+        "arm_group": {
+            "arm_group_label": "Ruxolitinib",
+            "arm_group_type": "Experimental",
+            "description": "2 x 10mg Ruxolitinib with defined response adapted dose escalation up to 2 x 20mg for a duration of 7 days"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Ruxolitinib 10 MG",
+            "description": "2 x 10mg Ruxolitinib with defined response adapted dose escalation up to 2 x 20mg for a duration of 7 days with clinical and/or radiographic response assessment",
+            "arm_group_label": "Ruxolitinib"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  1. Patient or guardian must provide written informed consent (and assent if\n             applicable) before any study assessment is performed.\n\n          -  2. Male and female patients aged \u2265 18 years.\n\n          -  3. Patients with temperature > 37.3\u00b0C\n\n          -  4. Patients with respiratory symptoms and/or hypoxia SpO2 < 93%\n\n          -  5. Patients with Covid-19 stage II and stage III\n\n          -  6. Patients with lung imaging showing bi-pulmonary infiltrates (chest X-ray or CT\n             scan).\n\n          -  7. Patients, with a Covid Inflammation Score \u2265 10\n\n        Exclusion Criteria:\n\n          -  1. History of hypersensitivity to any drugs or metabolites of similar chemical classes\n             as ruxolitinib.\n\n          -  2. Uncontrolled active bacterial, fungal, viral, or other infection (besides\n             COVID-19).\n\n          -  3. Active Tuberculosis infection.\n\n          -  4. Known Positivity for HBV, HCV or HIV.\n\n          -  5. Patients who are on long-term use of oral anti-rejection or immunomodulatory drugs\n\n          -  6. Participating in any other interventional clinical trial for COVID-19.\n\n          -  7. Treatment with cytokine-directed agents such as anti-IL6 or anti-IL1R directed\n             antibodies (i.e. tocilizumab, anakinra). Other treatment modalities used in locally\n             adapted SOPs (corticosteroids, chloroquine, hydroxychloroquine, lopinavir-ritonavir)\n             may be given with daily documentation of dose and schedule.\n\n          -  8. ALT or AST > 5 x ULN detected within 24 hours at screening (according to local\n             laboratory reference ranges).\n\n          -  9. ANC < 500/\u00b5L at screening (according to local laboratory reference ranges).\n\n          -  10. Platelet count < 50,000/\u00b5L at screening (according to local laboratory reference\n             ranges).\n\n          -  11. Hemoglobin < 6 g/dl (3.73mmol/l)\n\n          -  12. Pregnant or nursing (lactating) women.\n\n          -  13. Female patients of childbearing potential (e.g. are menstruating) and male\n             patients who do not agree to abstinence or, if sexually active, do not agree to the\n             use of highly effective contraception as defined below, throughout the study and for\n             up to 90 days after stopping treatment, OR Female patients of child-bearing potential,\n             defined as all women physiologically capable of becoming pregnant, unless they are\n             using highly effective methods of contraception as defined below, throughout the study\n             and for up to 90 days after stopping treatment.\n\n        Highly effective contraception methods include:\n\n          -  Total abstinence (when this is in line with the preferred and usual lifestyle of the\n             patient). Periodic abstinence (e.g., calendar, ovulation, symptothermal,\n             post-ovulation methods) and withdrawal are not acceptable methods of contraception.\n\n          -  Female sterilization (have had surgical bilateral oophorectomy with or without\n             hysterectomy), total hysterectomy or tubal ligation at least six weeks before taking\n             study treatment. In case of oophorectomy alone, only when the reproductive status of\n             the woman has been confirmed by follow up hormone level assessment.\n\n          -  Male sterilization (at least 6 months prior to screening). The vasectomized male\n             partner should be the sole partner for that patient.\n\n          -  Use of oral, injected or implanted hormonal methods of contraception. Placement of an\n             intrauterine device (IUD) or intrauterine system (IUS) or other forms of hormonal\n             contraception that have comparable efficacy (failure rate <1%), for example hormone\n             vaginal ring or transdermal hormone contraception (in case of oral contraception,\n             patients should have been using the same pill on a stable dose for a minimum of 3\n             months before Screening).\n\n        Women are considered post-menopausal and not of child bearing potential if they have had 12\n        months of natural (spontaneous) amenorrhea with an appropriate clinical profile (e.g. age\n        appropriate, history of vasomotor symptoms) or have had surgical bilateral oophorectomy\n        (with or without hysterectomy), total hysterectomy or tubal ligation at least six weeks\n        ago. In the case of oophorectomy alone, only when the reproductive status of the woman has\n        been confirmed by follow up hormone level assessment is she considered not of child bearing\n        potential."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Andreas Hochhaus, Prof. Dr.",
+            "role": "Principal Investigator",
+            "affiliation": "University Hospital Jena"
+        },
+        "overall_contact": {
+            "last_name": "Andreas Hochhaus, Prof. Dr.",
+            "phone": "+49 3641",
+            "phone_ext": "9324201",
+            "email": "ruxcoflam@med.uni-jena.de"
+        },
+        "overall_contact_backup": {
+            "last_name": "Christian Fabisch, Dr.",
+            "phone": "+49 3641",
+            "phone_ext": "9396670",
+            "email": "ruxcoflam@med.uni-jena.de"
+        },
+        "location": {
+            "facility": {
+                "name": "University Hospital Jena",
+                "address": {
+                    "city": "Jena",
+                    "zip": "07747",
+                    "country": "Germany"
+                }
+            },
+            "contact": {
+                "last_name": "Andreas Hochhaus, Prof. Dr.",
+                "phone": "+49 3641",
+                "phone_ext": "9324201",
+                "email": "ruxcoflam@med.uni-jena.de"
+            },
+            "investigator": {
+                "last_name": "Andreas Hochhaus, Prof. Dr.",
+                "role": "Principal Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "Germany"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "University of Jena",
+            "investigator_full_name": "Prof. Dr. med. Andreas Hochhaus",
+            "investigator_title": "Principal Investigator"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

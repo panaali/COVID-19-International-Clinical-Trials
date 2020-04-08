@@ -1,0 +1,236 @@
+{
+    "clinical_study": {
+        "@rank": "244",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338100"
+        },
+        "id_info": {
+            "org_study_id": "2020-A00782-37",
+            "nct_id": "NCT04338100"
+        },
+        "brief_title": "Point Of Care UltraSonography for Risk-stratification of COVID-19 Patients",
+        "acronym": "POCUSCO",
+        "official_title": "Point Of Care UltraSonography to Perform Risk-stratification of Patients With Suspected or Confirmed COVID-19 - POCUSCO Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Angers",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Angers",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "COVID-19 pandemic has developed worldwide in less than 4 months. While most patients have a\n      mild or uncomplicated disease (80%), approximately 15% need hospital care and 5% intensive\n      care. Severe cases are characterized by pulmonary involvement which may progress to acute\n      respiratory distress syndrome (ARDS). Early identification of patients who are likely to get\n      worse is therefore a major issue.\n\n      While, chest X-ray has poor diagnostic performances, pulmonary computed tomography (CT scan)\n      seems very sensitive (97%) and quite specific of COVID-19. Sub-pleural bilateral ground-glass\n      pattern can precede the positivity of RT-PCR for SARS-CoV-2. CT scan is now considered as the\n      best imaging test to assess COVID-19 patients and is recommended as first-line diagnosis tool\n      by the French Society of Radiology (SFR). However, performing CT scan in all or many patients\n      with suspected COVID-19 may result in radiology department overload, especially, taking into\n      account bio-cleaning between patients. Moreover, CT scan may lead to adverse effects\n      including induced cancer due to the cumulative diagnostic irradiation.\n\n      Chest ultrasonography may be an alternative to CT scan. It is a simple, non-invasive,\n      non-irradiating, inexpensive and available at the point of care (POCUS). Most of emergency\n      physicians and many other specialists (pneumologists, infectious disease or intensive care\n      physicians) are trained to perform chest POCUS and use it in their everyday practice.\n      Multiple studies have demonstrated its superiority to chest X-ray for the detection of\n      pneumonia. In ARDS, a scoring has been developed and has shown good correlation with\n      mortality. POCUS is very effective in detecting peripheral patterns and seems appropriate to\n      explore COVID-19 patients.\n\n      Previous studies suggest its interest in SARSCov2 infections for initial patient assessment\n      and identification of lung damage. However, its performances have never been scientifically\n      evaluated to date.\n\n      Our main hypothesis is that point of care lung ultrasonography performed during the initial\n      examination may identify high-risk COVID-19 patients."
+        },
+        "detailed_description": {
+            "textblock": "Patients consulting in the emergeny department of participating centres for suspected or\n      confirmed COVID-19 are checked for inclusion and non-inclusion criteria and asked for study\n      participation.\n\n      Including patients have point-of-care lung ultrasonography (POCUS) performed within 48 hours\n      following ED admission. The severity of lung damage is assessed using the lung\n      ultrasonography score on 36 points for ARDS (POCUS score).\n\n      Apart POCUS score assessment, patients are managed as usual.\n\n      If a chest CT scan is performed, its result is collected and, in particular, the\n      quantification of the extent of pulmonary lesions in percentage from 0 to 100%, carried out\n      according to the recommendations of the French Society of Radiology.\n\n      For hospitalized patients, if possible, a second chest ultrasonography is performed on Day 5\n      +/- 3. The extent of lung damage is assessed by the POCUS score.\n\n      A follow-up is carried out on day 14 (D14) and the patient's status according to the \"Ordinal\n      Scale for Clinical Improvement\" for COVID-19 from WHO is recorded."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "January 29, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 29, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Risk of unfavourable outcome at D14",
+            "time_frame": "14 days",
+            "description": "To assess, in patients with confirmed or probable SARS-CoV-2 infection, chest ultrasonography capacity, using the POCUS score for ARDS, to identify patients with unfavourable outcome at D14.\nUnfavourable outcome is defined by intubation with mechanical ventilation requirement or death (Stage \u2265 6 on \"Ordinal Scale for Clinical Improvement\" of the World Health Organization) within 14 days of inclusion.\nWe will determine the 95% confidence interval of the AUC of the ROC curve and consider POCUS capacity as clinically relevant if the lower limit of the 95% confidence interval is at least 0.7."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Risk of unfavourable outcome over time",
+                "time_frame": "14 days",
+                "description": "To evaluate, in patients with a confirmed or probable SARS-CoV-2 infection, whether POCUS score performances vary as a function of time, between D1 and D14, and, if so, until which time horizon its performances are clinically relevant.\nIn this purpose, we will determine the time period for which the lower limit of the 95% confidence interval of the AUC of the POCUS score ROC curve is at least 0.7."
+            },
+            {
+                "measure": "Risk-stratification threshold values",
+                "time_frame": "14 days",
+                "description": "To identify the threshold values of POCUS score to perform risk-stratification in three groups of patients:\nlow-risk patients,\nintermediate-risk patients,\nhigh-risk patients.\nIn this purpose, we will determine two threshold values on the inflection points of the ROC curve:\nmaximizing the specificity for a sensitivity of at least 95%,\nmaximizing the sensitivity for a specificity of at least 95%."
+            },
+            {
+                "measure": "Adding value of POCUS score to previous risk-stratification clinical rules",
+                "time_frame": "14 days",
+                "description": "To study the impact of adding the result of POCUS evaluation to several risk-stratification clinical rules for pulmonary infection or sepsis: qSOFA, CRB 65 and CURB 65\nIn this purpose, we will attribute 0, 1 or 2 points to POCUS score according to the predefined threshold values and will assess :\nsensitivities of qSOFA with and without addition of POCUS score result,\nspecificities of qSOFA with and without addition of POCUS score result;\nsensitivities of CRB 65 with and without addition of POCUS score result,\nspecificities of CRB 65 with and without addition of POCUS score result;\nsensitivities of CRB 65 with and without addition of POCUS score result,\nspecificities of CRB 65 with and without addition of POCUS score result."
+            },
+            {
+                "measure": "POCUS score and patient clinical status at D14",
+                "time_frame": "14 days",
+                "description": "To assess, the capacity of POCUS score at D0 to predict patient clinical status at D14\nIn this purpose, we will determine the correlation coefficient between the POCUS score at D0 and the clinical status of patients at day 14 according to the WHO Ordinal Scale for Clinical Improvement for COVID-19 patients."
+            },
+            {
+                "measure": "POCUS and CT scan correlation",
+                "time_frame": "14 days",
+                "description": "To study the correlation between POCUS and CT scan assessment of lung damage.\nIn this purpose, we will determine the intra-class correlation coefficient between POCUS assessment according to the number of affected areas among 12 and CT scan assessment according to the quantification proposed by the French Society of Radiology: 0 - normal; 1 - minor (< 10%), 2 - moderate (10-25%), 3 - important (25-50%), 4 - severe (50-75%), 5 - critical (> 75%)"
+            },
+            {
+                "measure": "POCUS versus CT scan risk-stratification performances",
+                "time_frame": "14 days",
+                "description": "To compare the diagnostic performances of POCUS with that of chest computed tomography to identify patients with unfavourable outcome.\nIn this purpose, we will compare the AUC of the ROC curves of POCUS score and CT scan quantification of lung damage to identify patients with unfavourable outcome (intubation and mechanical ventilation requirement or death)"
+            },
+            {
+                "measure": "POCUS score evolution performances",
+                "time_frame": "14 days",
+                "description": "To evaluate, in the subgroup of hospitalized patients having a second chest ultrasonography at Day 5 +/- 3 of inclusion, the performances of the evolution of the POCUS score between the first and the second assessment to identify patients with unfavourable outcome.\nIn this purpose, we will calculate the delta between the first and second POCUS score and determine the AUC of the ROC curve and its 95% confidence interval."
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "300"
+        },
+        "condition": [
+            "COVID",
+            "Coronavirus Infection"
+        ],
+        "arm_group": {
+            "arm_group_label": "Chest Ultrasound",
+            "description": "Only one arm, all included patients having chest ultrasonography."
+        },
+        "intervention": {
+            "intervention_type": "Procedure",
+            "intervention_name": "Follow-up at 14 days",
+            "description": "Point of care chest ultrasonography and 14-day follow-up to assess the evolution of the infection and care requirement (invasive ventilation or death)",
+            "arm_group_label": "Chest Ultrasound"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Adults patients consulting emergency department with non-severe suspected or confirmed\n        SARS-CoV-2 infection (COVID-19)"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient with COVID-19 confirmed by positive RT-PCR or considered as probable by the\n             in-charge physician,\n\n          -  \u226518 years old,\n\n          -  Not requiring respiratory assistance and/or other intensive care\n\n          -  Not subject to a limitation of active therapeutics\n\n        Exclusion Criteria:\n\n          -  History of pneumonectomy\n\n          -  Any reason making chest ultrasonography impossible\n\n          -  Any reason making 14-day follow-up impossible\n\n          -  Patient opposition to research participation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Philippe LE CONTE, Pr",
+                "role": "Principal Investigator",
+                "affiliation": "University Hospital of Nantes"
+            },
+            {
+                "last_name": "Thomas FLAMENT, Dr",
+                "role": "Principal Investigator",
+                "affiliation": "University Hospital of Tours"
+            },
+            {
+                "last_name": "Louis SOULAT, Pr",
+                "role": "Principal Investigator",
+                "affiliation": "University Hospital of Rennes"
+            },
+            {
+                "last_name": "Nicolas MARJANOVIC, Dr",
+                "role": "Principal Investigator",
+                "affiliation": "University Hospital of Poitiers"
+            },
+            {
+                "last_name": "Francis COUTURAUD, Dr",
+                "role": "Principal Investigator",
+                "affiliation": "University Hospital of Brest"
+            },
+            {
+                "last_name": "Laure BAUDIN, Dr",
+                "role": "Principal Investigator",
+                "affiliation": "Hospital of Cholet"
+            },
+            {
+                "last_name": "Karim TAZAROURTE, Pr",
+                "role": "Principal Investigator",
+                "affiliation": "Hospices Civils de Lyon (University Hospital of Lyon)"
+            },
+            {
+                "last_name": "Thomas DELOMAS, Dr",
+                "role": "Principal Investigator",
+                "affiliation": "Hospital of Saint-L\u00f4"
+            },
+            {
+                "last_name": "Luc-Marie JOLY, Pr",
+                "role": "Principal Investigator",
+                "affiliation": "University Hospital, Rouen"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Fran\u00e7ois MORIN, Dr",
+            "phone": "33 (0)2 41 35 00 81",
+            "email": "Francois.Morin@chu-angers.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Pierre-Marie ROY, Pr",
+            "phone": "33 (0)2 41 35 65 92",
+            "email": "PMRoy@chu-angers.fr"
+        },
+        "link": {
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3544750",
+            "description": "A Preliminary Study on the Ultrasonic Manifestations of Peripulmonary Lesions of Non-Critical Novel Coronavirus Pneumonia (COVID-19)"
+        },
+        "results_reference": [
+            {
+                "citation": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Feb 28. doi: 10.1056/NEJMoa2002032. [Epub ahead of print]",
+                "PMID": "32109013"
+            },
+            {
+                "citation": "Rodriguez-Morales AJ, Cardona-Ospina JA, Guti\u00e9rrez-Ocampo E, Villamizar-Pe\u00f1a R, Holguin-Rivera Y, Escalera-Antezana JP, Alvarado-Arnez LE, Bonilla-Aldana DK, Franco-Paredes C, Henao-Martinez AF, Paniz-Mondolfi A, Lagos-Grisales GJ, Ram\u00edrez-Vallejo E, Su\u00e1rez JA, Zambrano LI, Villamil-G\u00f3mez WE, Balbin-Ramon GJ, Rabaan AA, Harapan H, Dhama K, Nishiura H, Kataoka H, Ahmad T, Sah R; Latin American Network of Coronavirus Disease 2019-COVID-19 Research (LANCOVID-19). Electronic address: https://www.lancovid.org. Clinical, laboratory and imaging features of COVID-19: A systematic review and meta-analysis. Travel Med Infect Dis. 2020 Mar 13:101623. doi: 10.1016/j.tmaid.2020.101623. [Epub ahead of print] Review.",
+                "PMID": "32179124"
+            },
+            {
+                "citation": "Lichtenstein DA, Mezi\u00e8re GA. Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol. Chest. 2008 Jul;134(1):117-25. doi: 10.1378/chest.07-2800. Epub 2008 Apr 10. Erratum in: Chest. 2013 Aug;144(2):721.",
+                "PMID": "18403664"
+            },
+            {
+                "citation": "Zhao Z, Jiang L, Xi X, Jiang Q, Zhu B, Wang M, Xing J, Zhang D. Prognostic value of extravascular lung water assessed with lung ultrasound score by chest sonography in patients with acute respiratory distress syndrome. BMC Pulm Med. 2015 Aug 23;15:98. doi: 10.1186/s12890-015-0091-2.",
+                "PMID": "26298866"
+            }
+        ],
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 4, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 4, 2020",
+        "last_update_submitted_qc": "April 4, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-CoV-2",
+            "POCUS",
+            "Lung ultrasonography",
+            "Risk-stratification"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        }
+    }
+}

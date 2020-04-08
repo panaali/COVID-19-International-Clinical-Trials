@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "80",
+        "@rank": "83",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04332107"
         },
@@ -27,10 +27,10 @@
             "is_us_export": "No"
         },
         "brief_summary": {
-            "textblock": "This individually randomized telemedicine-based trial aims to evaluate the efficacy of a\n      single dose of azithromycin for prevention of progression of COVID-19 in patients with\n      mild/moderate symptomatic COVID-19 with a recent positive SARS-CoV-2 test."
+            "textblock": "This individually randomized telemedicine-based trial aims to evaluate the efficacy of a\n      single dose of azithromycin for prevention of progression of COVID-19 in patients with a\n      recent positive SARS-CoV-2 test who are not currently hospitalized."
         },
         "detailed_description": {
-            "textblock": "Identification of a safe, effective treatment for individuals with mild or moderate COVID-19\n      that prevents disease progression and reduces hospitalization would reduce the burden on the\n      health system. High dose hydroxychloroquine is being evaluated for SARS-CoV-2 prevention and\n      COVID-19 disease treatment, but has a high risk of a number of potentially severe adverse\n      events. Recent evidence has indicated that the broad-spectrum macrolide azithromycin may have\n      some activity against coronaviruses. Here we propose an individually-randomized,\n      placebo-controlled trial to determine the efficacy of a single dose of azithromycin for\n      prevention of COVID-19 progression to hospitalization.\n\n      Participants will be invited to participate via clinical laboratories performing SARS-CoV-2\n      testing. With receipt of a positive test, patients will be sent an email or letter inviting\n      them to contact study staff for screening and enrollment if interested.\n\n      Potential participants will undergo remote eligibility screening with study staff prior to\n      enrollment. Upon determination of eligibility and signing electronic informed consent\n      documents, participants will be emailed baseline study forms and will be mailed their\n      randomized study treatment. At the end of the study (14 days), participants will be emailed a\n      final study questionnaire. Note that there will no contact between study staff and\n      participants in this trial, minimizing risk of infection spread."
+            "textblock": "Identification of a safe, effective treatment for individuals with mild or moderate COVID-19\n      that prevents disease progression and reduces hospitalization would reduce the burden on the\n      health system. High dose hydroxychloroquine is being evaluated for SARS-CoV-2 prevention and\n      COVID-19 disease treatment, but has a high risk of a number of potentially severe adverse\n      events. Recent evidence has indicated that the broad-spectrum macrolide azithromycin may have\n      some activity against coronaviruses. Here we propose an individually-randomized,\n      placebo-controlled trial to determine the efficacy of a single dose of azithromycin for\n      prevention of COVID-19 progression to hospitalization.\n\n      Potential participants will undergo remote eligibility screening with study staff prior to\n      enrollment. Upon determination of eligibility and signing electronic informed consent\n      documents, participants will be emailed baseline study forms and will be mailed their\n      randomized study treatment. At the end of the study (14 days), participants will be emailed a\n      final study questionnaire. Note that there will no contact between study staff and\n      participants in this trial, minimizing risk of infection spread."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
@@ -57,23 +57,63 @@
         "primary_outcome": {
             "measure": "Hospitalization",
             "time_frame": "14 days",
-            "description": "All-cause hospitalization"
+            "description": "All-cause hospitalization or emergency room stay of >24 hours"
         },
         "secondary_outcome": [
             {
                 "measure": "Viral load",
-                "time_frame": "7 days",
+                "time_frame": "3 days",
                 "description": "Viral load by self-collected nasal swab"
             },
             {
                 "measure": "Viral load",
-                "time_frame": "7 days",
+                "time_frame": "3 days",
                 "description": "Viral load by self-collected saliva swab"
             },
             {
                 "measure": "Mortality",
                 "time_frame": "14 days",
                 "description": "All-cause mortality"
+            },
+            {
+                "measure": "Adverse events",
+                "time_frame": "3 days",
+                "description": "Proportion of participants experiencing adverse events, including gastrointestinal side effects and rash"
+            },
+            {
+                "measure": "Positive SARS-CoV-2 test - nasal swab",
+                "time_frame": "3 days",
+                "description": "Prevalence of positive SARS-CoV-2 test by self-collected nasal swab"
+            },
+            {
+                "measure": "Positive SARS-CoV-2 test - saliva swab",
+                "time_frame": "3 days",
+                "description": "Prevalence of positive SARS-CoV-2 test by self-collected saliva swab"
+            },
+            {
+                "measure": "Positive SARS-CoV-2 test - rectal swab",
+                "time_frame": "3 days",
+                "description": "Prevalence of positive SARS-CoV-2 test by self-collected rectal swab"
+            },
+            {
+                "measure": "Genetic macrolide resistance determinants",
+                "time_frame": "3 days",
+                "description": "Prevalence of genetic macrolide resistance determinants by self-collected rectal swab"
+            },
+            {
+                "measure": "COVID-19 symptoms",
+                "time_frame": "3, 7, and 14 days",
+                "description": "Prevalence of cough, fever, myalgia, anosmia, shortness of breath, fatigue, conjunctivitis, and orthostatic symptoms"
+            },
+            {
+                "measure": "Number of emergency room visits",
+                "time_frame": "14 days",
+                "description": "Number of emergency room visits <24 hours"
+            },
+            {
+                "measure": "Number of household members with COVID-19 (confirmed or symptomatic)",
+                "time_frame": "14 days",
+                "description": "Number of household members with confirmed or symptomatic COVID-19"
             }
         ],
         "number_of_arms": "2",
@@ -113,7 +153,7 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  Positive SARS-CoV-2 test and test results received within the previous three days\n\n          -  Not currently hospitalized\n\n          -  Willing and able to receive study drug by mail\n\n          -  Willing and able to return internet-based study questionnaires at baseline and 14 days\n\n          -  No known allergy or other contraindication to macrolides\n\n          -  Age 18 years older at the time of enrollment\n\n          -  Provision of informed consent\n\n        Exclusion Criteria:\n\n          -  Currently hospitalized\n\n          -  Confirmed SARS-CoV-2 positive test\n\n          -  Not willing or able to receive study drug by mail"
+                "textblock": "Inclusion Criteria:\n\n          -  Evidence of a positive SARS-CoV-2 test and test results received within the previous\n             three days\n\n          -  Not currently hospitalized\n\n          -  Willing and able to receive study drug by mail\n\n          -  Willing and able to return the internet-based study questionnaires at baseline, day 3,\n             7, and 14 days\n\n          -  No known allergy or other contraindication to macrolides\n\n          -  Age 18 years or older at the time of enrollment\n\n          -  Provision of informed consent"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -167,11 +207,11 @@
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

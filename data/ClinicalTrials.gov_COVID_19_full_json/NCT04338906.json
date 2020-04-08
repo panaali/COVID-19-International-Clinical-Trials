@@ -1,0 +1,215 @@
+{
+    "clinical_study": {
+        "@rank": "292",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04338906"
+        },
+        "id_info": {
+            "org_study_id": "CLOCC-2020",
+            "nct_id": "NCT04338906"
+        },
+        "brief_title": "Combination Therapy With Camostat Mesilate + Hydroxychloroquine for COVID-19",
+        "acronym": "CLOCC",
+        "official_title": "Evaluation of the Efficacy and Safety of Camostat Mesilate + Hydroxychloroquine Combination Therapy in Hospitalized Patients With Moderate COVID-19 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Heinrich-Heine University, Duesseldorf",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "University Hospital, Frankfurt",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "St. Georg Hospital Leipzig, Germany",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Hospital Schwabing Munich, Germany",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Missioklinik, Wuerzburg, Germany",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Heinrich-Heine University, Duesseldorf",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Evaluation of the efficacy and safety of hydroxychloroquine - camostat combination therapy in\n      hospitalized patients with moderate COVID-19 infection, CLOCC-Trial Primary Objectives: The\n      primary objective of this study is to demonstrate, that a combination therapy of\n      hydroxychloroquine and camostat (Foipan\u00ae) is superior to hydroxychloroquine + placebo in\n      participants with moderate COVID-19."
+        },
+        "detailed_description": {
+            "textblock": "The ongoing pandemic with the novel coronavirus (SARS-CoV-2) poses a massive threat to public\n      health. SARS-CoV-2 is highly contagious and may lead to severe acute respiratory distress\n      syndrome in affected individuals. No therapeutic intervention has yet been approved for\n      COVID-19, and initial interventional studies with single agents showed only minimal\n      improvement in outcome or were not convincing in design. Therefore, the CLOCC trial will\n      evaluate the efficacy and safety of a combination therapy consisting of hydroxychloroquine,\n      which was used already as single agent with some effect, together with camostat mesylate in\n      hospitalized patients with moderate COVID-19 infection. The rationale for this combination\n      therapy stems from the observation that hydroxychloroquine interferes with viral entry and\n      replication through several mechanisms including changes in endosomal pH and in glycosylation\n      of the ACE2 receptor, which serves as entry receptor for SARS-CoV-2. Camostat acts as\n      inhibitor of the host cell serine protease TMPRSS2, which is needed to prime the viral S\n      protein for cell entry. Participants will be recruited in a total of 6 German centers, and\n      the trial will be randomized (1:1) and enrolled in either the hydroxychloroquine + placebo or\n      the hydroxychloroquine + camostat arm (7-day treatment). The trial will be carried out in a\n      double-blinded fashion. The primary efficacy outcome is the number of patients discharged by\n      day 14 (status 1 and 2 of a 7-point ordinal clinical status scale). Several secondary\n      outcomes regarding efficacy but also safety will be evaluated. Exploratory endpoints include\n      analysis of viral titers and the emergence of viral resistance in response to therapy."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2021"
+        },
+        "phase": "Phase 4",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Evaluation of the efficacy and safety of hydroxychloroquine + camostat combination therapy in comparison to hydroxychloroquine + placebo in hospitalized patients with moderate COVID-19 infection, CLOCC-Trial",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Not hospitalized",
+            "time_frame": "day 14 from baseline"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time to improvement of 2 categories from admission on a 7-point ordinal scale",
+                "time_frame": "day 14"
+            },
+            {
+                "measure": "Proportion of participants in each group with normalization of fever",
+                "time_frame": "day 7 and day 14"
+            },
+            {
+                "measure": "Proportion of participants in each group with oxygen saturation > 94% on room air for >24h",
+                "time_frame": "day 7 and day 14"
+            },
+            {
+                "measure": "Time to fever normalization (if febrile at baseline)",
+                "time_frame": "within 14 days"
+            },
+            {
+                "measure": "Time to first negative SARS-CoV-2 PCR in NP swap (if pos. at baseline)",
+                "time_frame": "within 14 days"
+            },
+            {
+                "measure": "Time to first negative SARS-CoV-2 PCR in lower respiratory tract specimens (sputum, bronchoalveolar lavage, tracheal aspirate) (if positive at baseline)",
+                "time_frame": "within 14 days"
+            },
+            {
+                "measure": "Duration of oxygen therapy",
+                "time_frame": "within 28 days"
+            },
+            {
+                "measure": "Proportion of participants in each group with need for mechanical ventilation",
+                "time_frame": "within 28 days"
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "within 28 days"
+            },
+            {
+                "measure": "All cause mortality",
+                "time_frame": "day 28"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "334"
+        },
+        "condition": "COVID",
+        "arm_group": [
+            {
+                "arm_group_label": "Camostat + Hydroxychloroquine",
+                "arm_group_type": "Experimental",
+                "description": "Subjects will receive Camostat (400 mg tid) + hydroxychloroquine (400 mg bid day1, 200 mg bid d2-d7)"
+            },
+            {
+                "arm_group_label": "Placebo + Hydroxychloroquine",
+                "arm_group_type": "Active Comparator",
+                "description": "Subjects will receive placebo (tid) + hydroxychloroquine (400 mg bid day1, 200 mg bid d2-d7)"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Camostat Mesilate",
+                "description": "400 mg tid, d1-d7",
+                "arm_group_label": "Camostat + Hydroxychloroquine"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Instead of Camostat Mesilate, tid, d1-d7",
+                "arm_group_label": "Placebo + Hydroxychloroquine"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "400 mg bid on day 1, 200 mg bid d2-d7",
+                "arm_group_label": [
+                    "Camostat + Hydroxychloroquine",
+                    "Placebo + Hydroxychloroquine"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Participants \u226518 years of age with SARS-CoV-2 infection confirmed by PCR before\n             randomization\n\n          -  Willing and able to provide written informed consent\n\n          -  Hospitalized and requiring medical care for COVID-19, (status 3 or 4 of 7-point\n             ordinal clinical status scale)\n\n          -  SpO2 \u226593% on room air\n\n          -  Evidence of pulmonary infiltrate on chest X ray/and or CT scan\n\n        Exclusion Criteria:\n\n          -  Age <18 years old\n\n          -  Pregnant or breast feeding\n\n          -  Inability to take oral medication\n\n          -  Inability to provide informed written consent\n\n          -  Known hypersensitivity towards 4-aminoquinolines, e.g. hydroxychloroquine and/or\n             camostat\n\n          -  Use of hydroxychloroquine, chloroquine and or camostat within 6 months prior to\n             baseline\n\n          -  Patients with known retinopathy or macular degeneration Patients with known\n             glucose-6-phosphate dehydrogenase (G6PD) deficiency\n\n          -  Prolonged QTc-interval in baseline ECG (>500 ms)\n\n          -  Concomitant medication associated with QTc-interval prolongation, which cannot be\n             withdrawn prior to study drug administration\n\n          -  Major comorbidities, possibly leading to increased unwanted side effects of study\n             drugs:"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Camostat",
+            "Hydroxychloroquine",
+            "Moderate COVID-10"
+        ],
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydroxychloroquine",
+                "Gabexate",
+                "Camostat"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)",
+                "Clinical Study Report (CSR)"
+            ],
+            "ipd_time_frame": "3 Months after publication",
+            "ipd_access_criteria": "Open"
+        }
+    }
+}

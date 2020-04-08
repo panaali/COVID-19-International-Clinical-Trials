@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "132",
+        "@rank": "168",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04328012"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "1581969",
             "nct_id": "NCT04328012"
         },
-        "brief_title": "Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)",
-        "acronym": "COVID MED",
+        "brief_title": "COVID MED Trial - Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2",
+        "acronym": "COVIDMED",
         "official_title": "Comparison Of Therapeutics for Hospitalized Patients Infected With SARS-CoV-2 In a Pragmatic aDaptive randoMizED Clinical Trial During the COVID-19 Pandemic (COVID MED Trial)",
         "sponsors": {
             "lead_sponsor": {
@@ -32,10 +32,10 @@
         "detailed_description": {
             "textblock": "In a randomized, double-blind, placebo-controlled, multi-center, Phase 2-like,\n      investigator-directed trial, hospitalized adult patients with laboratory confirmed SARS-CoV-2\n      infection meeting inclusion and exclusion criteria, will be provided information on the\n      trial, offered enrollment, and if informed consent provided, enrolled randomly in a 2:2:2:1\n      ratio to one of four groups: Group 1 standard care and lopinavir/ritonavir, Group 2 standard\n      care and hydroxychloroquine, Group 3 standard care and losartan, or Group 4 standard care and\n      placebo. Patients will be followed for up to 60 days, with data collected to quantify the\n      NCOSS over time (the primary objective), and for the trial's secondary objectives (see\n      outcome measurements below)."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 1, 2020"
+            "@type": "Actual",
+            "#text": "April 6, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -56,7 +56,7 @@
             "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
         },
         "primary_outcome": {
-            "measure": "NIAID COVID-19 Ordinal Severity Scale (NCOSS)",
+            "measure": "National Institute of Allergy and Infectious Diseases COVID-19 Ordinal Severity Scale (NCOSS)",
             "time_frame": "60 days",
             "description": "difference in NCOSS scores between the different treatment groups"
         },
@@ -67,7 +67,7 @@
                 "description": "difference in the total inpatient LOS between the four treatment groups"
             },
             {
-                "measure": "ICU level LOS",
+                "measure": "Intensive care unit level LOS",
                 "time_frame": "60 days",
                 "description": "difference in the total ICU level care LOS between the four treatment groups"
             },
@@ -114,20 +114,23 @@
             {
                 "intervention_type": "Drug",
                 "intervention_name": "lopinavir/ritonavir",
-                "description": "administered for 5 day minimally, up to 14 days if supply available",
-                "arm_group_label": "lopinavir/ritonavir"
+                "description": "administered for minimum of 5 days, up to 14 days if supply available",
+                "arm_group_label": "lopinavir/ritonavir",
+                "other_name": "Kaletra"
             },
             {
                 "intervention_type": "Drug",
                 "intervention_name": "Hydroxychloroquine Sulfate",
-                "description": "administered for 5 day minimally, up to 14 days if supply available",
-                "arm_group_label": "hydroxychloroquine"
+                "description": "administered for minimum of 5 days, up to 14 days if supply available",
+                "arm_group_label": "hydroxychloroquine",
+                "other_name": "Plaquenil"
             },
             {
                 "intervention_type": "Drug",
                 "intervention_name": "Losartan",
-                "description": "administered for 5 day minimally, up to 14 days if supply available",
-                "arm_group_label": "Losartan"
+                "description": "administered for minimum of 5 days, up to 14 days if supply available",
+                "arm_group_label": "Losartan",
+                "other_name": "Cozaar"
             },
             {
                 "intervention_type": "Drug",
@@ -160,18 +163,48 @@
             "phone": "6075474586",
             "email": "daniel.freilich@bassett.org"
         },
-        "verification_date": "March 2020",
+        "location": {
+            "facility": {
+                "name": "Bassett Medical Center",
+                "address": {
+                    "city": "Cooperstown",
+                    "state": "New York",
+                    "zip": "13326",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Kristin Pullyblank, RN, MS",
+                "phone": "607-547-6711",
+                "email": "kristin.pullyblank@bassett.org"
+            },
+            "contact_backup": {
+                "last_name": "Jennifer Victory, RN",
+                "phone": "6075476965",
+                "phone_ext": "Victory",
+                "email": "jennifer.victory@bassett.org"
+            },
+            "investigator": {
+                "last_name": "daniel freilich, MD",
+                "role": "Principal Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
         "study_first_submitted": "March 27, 2020",
         "study_first_submitted_qc": "March 27, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 31, 2020"
         },
-        "last_update_submitted": "March 27, 2020",
-        "last_update_submitted_qc": "March 27, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 31, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",
@@ -179,6 +212,12 @@
             "investigator_full_name": "Daniel Freilich, MD",
             "investigator_title": "attending physician - hospitalist"
         },
+        "keyword": [
+            "COVID",
+            "COVID 19",
+            "coronavirus",
+            "hydroxychloroquine"
+        ],
         "intervention_browse": {
             "mesh_term": [
                 "Ritonavir",

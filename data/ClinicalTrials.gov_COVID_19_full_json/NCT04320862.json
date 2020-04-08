@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "354",
+        "@rank": "376",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 07, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04320862"
         },
@@ -25,12 +25,12 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "Coronavirus Disease 19 (COVID-19) represents an unprecedented challenge to the operations and\n      population health management efforts of health care systems around the world. The \"Pandemic\n      Research Network (PRN): Duke Community Health Watch\" study leverages technology, clinical\n      research, epidemiology, telemedicine, and population health management capabilities to\n      understand how to safely COVID-19. The target population is individuals in the Duke Health\n      region who have flu-like symptoms, a viral test order for COVID-19, confirmed COVID-19, or\n      concern for exposure to COVID-19. A subgroup of particular interest within the target\n      population is health care workers (HCW) and families of HCW. Community members will enroll in\n      the study electronically and for 28 days will be reminded via email or SMS to submit signs\n      and symptoms related to COVID-19. Participants who report symptoms will be provided\n      information about COVID-19 testing (if needed) and established mechanisms to seek care within\n      Duke Health. Instructions for telemedicine and in-person visits, which is available publicly\n      at https://www.dukehealth.org/covid-19-update, will be presented to participants.\n      Participants who are unable to report symptoms independently may be contacted via telephone\n      by Population Health Management Office (PHMO) or Clinical Events Classification (CEC) team\n      members. Data collected through the \"Pandemic Research Network (PRN): Duke Community Health\n      Watch\" study will be used for three objectives.\n\n        -  First, to characterize the epidemiological features of COVID-19. Specifically, we will\n           have a high-risk subgroup of HCW and families of HCW that we enroll.\n\n        -  Second, to develop models that predict deterioration and the need for inpatient care,\n           intensive care, and mechanical ventilation.\n\n        -  Third, to develop forecast models to estimate the volume of inpatient and outpatient\n           resources needed to manage a COVID-19 population.\n\n      The primary risk to study participants is loss of protected health information. To address\n      this concern, all data will be stored in Duke's REDCap instance and the Duke Protected\n      Analytics Compute Environment (PACE)."
+            "textblock": "Coronavirus Disease 19 (COVID-19) represents an unprecedented challenge to the operations and\n      population health management efforts of health care systems around the world. The \"Pandemic\n      Research Network (PRN): Duke Community Health Watch\" study leverages technology, clinical\n      research, epidemiology, telemedicine, and population health management capabilities to\n      understand how to safely COVID-19. The target population is individuals in the Duke Health\n      region as well as individuals beyond the Duke Health region who have flu-like symptoms, a\n      viral test order for COVID-19, confirmed COVID-19, or concern for exposure to COVID-19. A\n      subgroup of particular interest within the target population is health care workers (HCW) and\n      families of HCW. Community members will enroll in the study electronically and for 28 days\n      will be reminded via email or SMS to submit signs and symptoms related to COVID-19.\n      Participants who report symptoms will be provided information about COVID-19 testing (if\n      needed) and established mechanisms to seek care within Duke Health. Instructions for\n      telemedicine and in-person visits, which is available publicly at\n      https://www.dukehealth.org/covid-19-update, will be presented to participants. Participants\n      who are unable to report symptoms independently may be contacted via telephone by Population\n      Health Management Office (PHMO) or Clinical Events Classification (CEC) team members. Data\n      collected through the \"Pandemic Research Network (PRN): Duke Community Health Watch\" study\n      will be used for three objectives.\n\n        -  First, to characterize the epidemiological features of COVID-19. Specifically, we will\n           have a high-risk subgroup of HCW and families of HCW that we enroll.\n\n        -  Second, to develop models that predict deterioration and the need for inpatient care,\n           intensive care, and mechanical ventilation.\n\n        -  Third, to develop forecast models to estimate the volume of inpatient and outpatient\n           resources needed to manage a COVID-19 population.\n\n      The primary risk to study participants is loss of protected health information. To address\n      this concern, all data will be stored in Duke's REDCap instance and the Duke Protected\n      Analytics Compute Environment (PACE)."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "March 31, 2020"
+            "@type": "Actual",
+            "#text": "April 3, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -78,12 +78,12 @@
             "Upper Resp Tract Infection"
         ],
         "arm_group": {
-            "arm_group_label": "Individuals in the Duke Health region",
-            "description": "Individuals in the Duke Health region who have flu-like symptoms, a viral test order for COVID-19, confirmed COVID-19, or concern for exposure to COVID-19."
+            "arm_group_label": "Duke Health region and beyond",
+            "description": "Individuals in the Duke Health region as well as individuals beyond the Duke Health region who have flu-like symptoms, a viral test order for COVID-19, confirmed COVID-19, or concern for exposure to COVID-19."
         },
         "eligibility": {
             "study_pop": {
-                "textblock": "Individuals in the Duke Health region"
+                "textblock": "Individuals in the Duke Health region as well as individuals beyond the Duke Health region"
             },
             "sampling_method": "Non-Probability Sample",
             "criteria": {
@@ -114,6 +114,7 @@
                     "country": "United States"
                 }
             },
+            "status": "Recruiting",
             "investigator": [
                 {
                     "last_name": "Raquel Bartz, M.D.",
@@ -136,18 +137,18 @@
         "location_countries": {
             "country": "United States"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 23, 2020",
         "study_first_submitted_qc": "March 23, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 25, 2020"
         },
-        "last_update_submitted": "March 30, 2020",
-        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 31, 2020"
+            "@type": "Estimate",
+            "#text": "April 8, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"
