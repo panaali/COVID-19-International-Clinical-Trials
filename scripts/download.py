@@ -15,7 +15,8 @@ static_content_URLs = {
 }
 
 dynamic_content_URLs = {
-    "ICTRP_COVID_19.xls" : "https://www.who.int/docs/default-source/coronaviruse/covid-19-trials.xls",
+    # "ICTRP_COVID_19.xls" : "https://www.who.int/docs/default-source/coronaviruse/covid-19-trials.xls", # old
+    "ICTRP_COVID_19.csv" : "https://www.who.int/ictrp/COVID19-927-trials.csv",
     "ClinicalTrials.gov_COVID_19.csv" : "https://www.clinicaltrials.gov/ct2/results/download_fields?down_count=10000&down_flds=all&down_fmt=csv&cond=COVID-19&flds=a&flds=b&flds=y",
     "ClinicalTrials.gov_COVID_19_full_xml.zip" : "https://www.clinicaltrials.gov/ct2/results/download_studies?cond=COVID-19"
 }
