@@ -1,0 +1,171 @@
+{
+    "clinical_study": {
+        "@rank": "186",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04339998"
+        },
+        "id_info": {
+            "org_study_id": "STUDY00009429",
+            "nct_id": "NCT04339998"
+        },
+        "brief_title": "Assessment of Exam Findings in Coronavirus Disease 2019 (COVID-19) With Point-of-Care Ultrasonography (POCUS)",
+        "official_title": "Assessment of Exam Findings in Coronavirus Disease 2019 (COVID-19) With Point-of-Care Ultrasonography (POCUS)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Minnesota",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Minnesota",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Specific Aims:\n\n        1. The investigators will prospectively evaluate and analyze changes in the appearance of\n           the lungs and heart through serial acquisition of focused point-of-care ultrasound\n           images in a cohort of patients with or under investigation for COVID-19.\n\n        2. The investigators will correlate changes noted in ultrasound with clinical course and\n           diagnostic evaluation to ascertain whether changes on ultrasound could improve care\n           through earlier diagnosis or identification of patients at high risk of disease\n           progression."
+        },
+        "detailed_description": {
+            "textblock": "The investigators will perform a descriptive study aimed at identifying the cardiopulmonary\n      ultrasound features in patients with or under investigation for COVID-19.\n\n      The study will take place at two sites: University of Minnesota Medical Center (UMMC) and\n      Bethesda Hospital. At UMMC, a tertiary care center, clinicians will recruit and evaluate\n      patients with or under investigation for COVID-19. At Bethesda clinicians will recruit and\n      evaluate patients with a confirmed diagnosis of COVID-19 as demonstrated by a positive\n      PT-PCR.\n\n      POCUS exams will be performed in a cohort of 200-500 patients with or under investigation for\n      COVID-19. Serial ultrasound examinations will be performed every 48-72 hours until discharge,\n      death, or study completion. Participants will undergo POCUS at enrollment by their treating\n      physicians. Inquiry into study enrollment will be performed over the phone rather than in\n      person, given the current scarcity of PPE and the added use that would occur with in-person\n      enrollment."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "POCUS Score - Lungs",
+                "time_frame": "up to 14 days",
+                "description": "POCUS is a 6-point scale evaluating the degree of abnormalities and number of sites with abnormalities in ultrasound images of the lungs. Higher scores indicate greater malady.\nPulmonary POCUS Evaluation:\nB lines: absent (< 3 lines), present (> 3 lines), fused\nConsolidation: yes or no\na. Bilateral: yes or no\nPleural Effusion: yes or no\nOther pleural abnormalities: yes or no\nScore each finding based on degree of abnormalities and number of sites with abnormalities"
+            },
+            {
+                "measure": "POCUS Score - Heart",
+                "time_frame": "up to 14 days",
+                "description": "POCUS is a 6-point scale evaluating the degree of abnormalities and number of sites with abnormalities in ultrasound images of the heart. Higher scores indicate greater malady.\nCardiac POCUS Evaluation:\nParasternal long axis\nParasternal short axis\nQualitative LVEF: Normal, hyperdynamic, mild-moderately depressed, severely depressed\nEPSS (E-point septal separation): normal (<10 mm), abnormal (>10 mm)\nLeft ventricular (LV) mass approximation by septal thickness\nLeft Ventricular Chamber Size by internal diameter at diastole\nScore each finding based on degree of abnormalities and number of sites with abnormalities"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": [
+            "Coronavirus Infection",
+            "COVID",
+            "Covid-19",
+            "SARS-CoV-2"
+        ],
+        "arm_group": {
+            "arm_group_label": "Patients with Suspected or Confirmed COVID-19",
+            "description": "Patients 18 years of age and older under investigation for COVID-19 and those patients that are positive for COVID-19 at University of Minnesota Medical Center and Bethesda Hospital. Informed consent will be obtained from the patient or decision maker prior to study inclusion"
+        },
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "Point-of-Care Ultrasonography (POCUS)",
+            "description": "The POCUS exam of the heart will capture 2 standard views commonly used to assess general cardiac function at the point of care. The details of POCUS views and exam findings of interest are outline below:\nPulmonary POCUS Evaluation:\nB lines: absent (< 3 lines), present (> 3 lines), fused\nConsolidation: yes or no\na. Bilateral: yes or no\nPleural Effusion: yes or no\nOther pleural abnormalities: yes or no Score each finding based on degree of abnormalities and number of sites with abnormalities\nCardiac POCUS Evaluation:\nParasternal long axis\nParasternal short axis\nQualitative LVEF: Normal, hyperdynamic, mild-moderately depressed, severely depressed\nEPSS (E-point septal separation): normal (<10 mm), abnormal (>10 mm)\nLeft ventricular (LV) mass approximation by septal thickness\nLeft Ventricular Chamber Size by internal diameter at diastole",
+            "arm_group_label": "Patients with Suspected or Confirmed COVID-19"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients 18 years of age and older under investigation for COVID-19 and those patients that\n        are positive for COVID-19 at UMMC and Bethesda. Informed consent will be obtained from the\n        patient or decision maker prior to study inclusion."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patients under investigation for COVID-19\n\n          -  patients that are positive for COVID-19 at UMMC and Bethesda\n\n        Exclusion Criteria:\n\n        - ultrasound contraindication such as overlying skin wound"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Matthew Yocum, MD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Minnesota"
+        },
+        "overall_contact": {
+            "last_name": "Matthew Yocum, MD",
+            "phone": "612-626-8015",
+            "email": "yocum007@umn.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Jon Kirsch, MD",
+            "email": "kirsch@umn.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "University of Minnesota Medical Center (UMMC)",
+                    "address": {
+                        "city": "Minneapolis",
+                        "state": "Minnesota",
+                        "zip": "55455",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Matthew Yocum, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "M Health Fairview Bethesda Hospital",
+                    "address": {
+                        "city": "Saint Paul",
+                        "state": "Minnesota",
+                        "zip": "55103",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Matthew Yocum, MD"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

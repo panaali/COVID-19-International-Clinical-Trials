@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "161",
+        "@rank": "169",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04337294"
         },
@@ -47,11 +47,50 @@
             "time_perspective": "Prospective"
         },
         "target_duration": "2 Months",
-        "primary_outcome": {
-            "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
-            "time_frame": "2 months",
-            "description": "peripheral blood values; hemogram, biochemistry (ast- sub-urea, creatinine, potassium, sodium, calcium, magnesium, vitamin d, homocysteine, ggt, crp)"
-        },
+        "primary_outcome": [
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "peripheral blood values; hemogram(hgb: g/dL),"
+            },
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "biochemistry (sgot (U/L)"
+            },
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "biochemistry- sgpt(U/L)"
+            },
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "-urea(mg/dL), creatinine(mg),"
+            },
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "electrolits : potassium (mg), sodium (mg ), calcium (mg ), magnesium (mg ),"
+            },
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "vitamin d ( IU),"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "homocysteine (Mmol/L),"
+            },
+            {
+                "measure": "Examination of changes in blood values of covid 19 positive pregnant patients",
+                "time_frame": "2 months",
+                "description": "crp (mg/L))"
+            }
+        ],
         "enrollment": {
             "@type": "Anticipated",
             "#text": "100"
@@ -103,11 +142,11 @@
             "@type": "Actual",
             "#text": "April 7, 2020"
         },
-        "last_update_submitted": "April 5, 2020",
-        "last_update_submitted_qc": "April 5, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

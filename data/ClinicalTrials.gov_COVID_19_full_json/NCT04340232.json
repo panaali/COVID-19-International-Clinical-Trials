@@ -1,0 +1,405 @@
+{
+    "clinical_study": {
+        "@rank": "19",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340232"
+        },
+        "id_info": {
+            "org_study_id": "20-0738",
+            "nct_id": "NCT04340232"
+        },
+        "brief_title": "Safety and Efficacy of Baricitinib for COVID-19",
+        "official_title": "Safety and Efficacy of Baricitinib for COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Colorado, Denver",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Colorado, Denver",
+        "oversight_info": {
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study plans to learn more about the effects of a medicine called baricitinib on the\n      progression of COVID-19 (coronavirus disease of 2019), the medical condition caused by the\n      Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Baricitinib is FDA-approved for\n      the treatment of rheumatoid arthritis, an autoimmune condition. This study intends to define\n      the impact of baricitinib on the severity and progression of COVID-19. This drug might to\n      lower the hyperinflammation caused by the virus, which would prevent damage to the lungs and\n      possibly other organs.\n\n      The study will recruit patients who have been diagnosed with COVID-19.\n\n      The goal is to recruit 80 patients."
+        },
+        "detailed_description": {
+            "textblock": "This is an adaptive Phase 2/3 clinical trial, with a focus on the assessment of safety in the\n      first 20 participants (Phase 2), followed by a much broader assessment of efficacy, while\n      continuing to monitor safety, in an additional 60 participants (Phase 3, total participants\n      across Phase 2/3 n=80). Both phases are single arm, open label, and occur at a single site at\n      the University of Colorado Hospital (UCH). Data from participants in this study will be\n      compared with data from other COVID-19 patients not receiving baricitinib. Study participants\n      will receive 2 mg/day of baricitinib for 14 days and will be followed for up to 29 days."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2020"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "This is a single arm, open label, single site study. Data from participants in this study with data from other COVID-19 patients not receiving baricitinib.",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Phase 2: Cumulative incidence of Grade 3 and 4 adverse events (AEs)",
+                "time_frame": "Day 0 (screening) through Day 29",
+                "description": "Description: Grade 3 AEs are defined as events that interrupt usual activities of daily living, or significantly affects clinical status, or may require intensive therapeutic intervention. Severe events are usually incapacitating. Grade 4 AEs are defined as events that are potentially life threatening. AEs will be collected and graded daily and cumulative incidence will be reported."
+            },
+            {
+                "measure": "Phase 2: Cumulative incidence of serious adverse events (SAEs)",
+                "time_frame": "Day 0 (screening) through Day 29",
+                "description": "Description: An SAE is defined as an AE that is life-threatening or results in death, inpatient hospitalization or prolongation of existing hospitalization, a persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions, or a congenital anomaly/birth defect. SAEs will be collected and graded daily and cumulative incidence will be reported."
+            },
+            {
+                "measure": "Phase 2: Changes in white blood cell count (CBC) through Day 15",
+                "time_frame": "Day 1 to Day 15",
+                "description": "Safety assessment via standard blood chemistry and metabolic panels will be performed daily as recommended by participant's physician as standard of care (SOC). Mean changes from baseline to Day 15 will be reported."
+            },
+            {
+                "measure": "Phase 2: Changes in hemoglobin through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in platelets through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in creatinine through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in glucose through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in prothrombin time (PT) through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in total bilirubin through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in ALT through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in AST through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 2: Changes in white blood cell count (CBC) through End of Study (EOS)",
+                "time_frame": "Day through Day 29 or hospital discharge, whichever is first",
+                "description": "Safety assessment via standard blood chemistry and metabolic panels will be performed daily as recommended by participant's physician as SOC. Mean changes from baseline to EOS will be reported."
+            },
+            {
+                "measure": "Phase 2: Changes in hemoglobin through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 2: Changes in platelets through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 2: Changes in creatinine through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 2: Changes in glucose through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 2: Changes in prothrombin time (PT) though End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 2: Changes in total bilirubin through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 2: Changes in ALT through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 2: Changes in AST through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Percentage of patients reporting each severity on an 8-point ordinal scale at Day 15",
+                "time_frame": "Day 15",
+                "description": "The 8-point ordinal scale described below, where a lower score indicates a worse outcome, will be performed daily or as recommended by participant's physician as SOC. The percent of participants scored at each severity will be reported on Day 15.\nThe 8-point ordinal scale is as follows:\nDeath\nHospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)\nHospitalized, on non-invasive ventilation or high flow oxygen devices\nHospitalized, requiring supplemental oxygen\nHospitalized, not requiring supplemental oxygen, requiring ongoing medical care (COVID-19 related or otherwise)\nHospitalized, not requiring supplemental oxygen, no longer requires ongoing medical care\nNot hospitalized, limitation on activities and/or requiring home oxygen\nNot hospitalized, no limitations on activities"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Phase 2: Change in the 8-point ordinal scale",
+                "time_frame": "Day 1 to Day 29",
+                "description": "The 8-point ordinal scale described above will be assessed using MR data collected as SOC or follow-up phone call on Day 29, where a lower score indicates a worse outcome. Mean changes from baseline to Day 29 will be reported."
+            },
+            {
+                "measure": "Phase 2: Change in National Early Warning Score (NEWS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "The NEWS is a cumulative score (range: 0 - 20) based on 7 clinical parameters as depicted below and discriminates patients at risk of poor outcomes. A higher score indicates a higher risk. The assessment will be calculated daily using MR data collected as SOC. Mean changes from baseline to End of Study (Day 29 or discharge) will be reported."
+            },
+            {
+                "measure": "Phase 3: Change in the 8-point ordinal scale",
+                "time_frame": "Day 1 to Day 29",
+                "description": "The 8-point ordinal scale described above will be assessed daily using MR data collected as SOC or follow-up phone call, where a lower score indicates a worse outcome. Mean changes from baseline to Day 29 will be reported."
+            },
+            {
+                "measure": "Phase 3: Change in National Early Warning Score (NEWS)",
+                "time_frame": "Day 1 to Day 29 or hospital discharge, whichever is first",
+                "description": "The NEWS is a cumulative score (range: 0 - 20) based on 7 clinical parameters as depicted below and discriminates patients at risk of poor outcomes. A higher score indicates a higher risk. The assessment will be calculated daily using MR data collected as SOC. Mean changes from baseline to End of Study (Day 29 or discharge) will be reported."
+            },
+            {
+                "measure": "Phase 3: Time to an improvement of one category using the 8-point ordinal scale",
+                "time_frame": "Day 1 to Day 29 or hospital discharge, whichever is first",
+                "description": "The 8-point ordinal scale described above will be assessed daily using MR data collected as SOC, where a lower score indicates a worse outcome. Mean time in days to a one-category improvement will be reported."
+            },
+            {
+                "measure": "Phase 3: Time to an improvement of two categories using the 8-point ordinal scale",
+                "time_frame": "Day 1 to Day 29 or hospital discharge, whichever is first",
+                "description": "The 8-point ordinal scale described above will be assessed daily, where a lower score indicates a worse outcome. Mean time in days to a two-category improvement will be reported."
+            },
+            {
+                "measure": "Phase 3: Time to discharge or to a NEWS \u22642 and maintained for 24 hours, whichever occurs first",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "The NEWS will be calculated daily. Mean time in days to achieve a score of \u22642 and maintain this score for at least 24 hours OR to be discharged from the hospital, whichever occurs first, will be reported. A higher score indicates a higher risk. End of study is defined as day 29 or discharge, whichever occurs first."
+            },
+            {
+                "measure": "Phase 3: Cumulative incidence of Grade 3 and 4 adverse events (AEs)",
+                "time_frame": "Day 0 (screening) through Day 29",
+                "description": "Grade 3 AEs are defined as events that interrupt usual activities of daily living, or significantly affects clinical status, or may require intensive therapeutic intervention. Severe events are usually incapacitating. Grade 4 AEs are defined as events that are potentially life threatening. AEs will be collected and graded daily and cumulative incidence will be reported."
+            },
+            {
+                "measure": "Phase 3: Cumulative incidence of serious adverse events (SAEs)",
+                "time_frame": "Day 0 (screening) through Day 29",
+                "description": "An SAE is defined as an AE that is life-threatening or results in death, inpatient hospitalization or prolongation of existing hospitalization, a persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions, or a congenital anomaly/birth defect. SAEs will be collected and graded daily and cumulative incidence will be reported."
+            },
+            {
+                "measure": "Phase 3: Duration of hospitalization",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "The mean duration of hospitalization will be reported, measured in days."
+            },
+            {
+                "measure": "Phase 3: Duration of new oxygen use",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "The mean duration of new oxygen use will be reported, measured in days."
+            },
+            {
+                "measure": "Phase 3: Duration of new ventilator or ECMO use",
+                "time_frame": "Day 1 to Day 29 or hospital discharge, whichever is first",
+                "description": "The mean duration of new ventilator or ECMO use will be reported, measured in days."
+            },
+            {
+                "measure": "Phase 3: Incidence of discontinuation or temporary suspension of drug for any reason",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "The incidence of interruption of baricitinib treatment, along with mean duration and reasons for the interruptions, will be reported."
+            },
+            {
+                "measure": "Phase 3: Incidence of new oxygen use",
+                "time_frame": "Day 1 to Day 29 or hospital discharge, whichever is first",
+                "description": "The incidence of new oxygen use will be reported."
+            },
+            {
+                "measure": "Phase 3: Incidence of new ventilator use",
+                "time_frame": "Day 1 to Day 29 or hospital discharge, whichever is first",
+                "description": "The incidence of new ventilator or ECMO use will be reported."
+            },
+            {
+                "measure": "Phase 3: Number of oxygen free days",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "The mean number of days patients are free from use of oxygen will be reported."
+            },
+            {
+                "measure": "Phase 3: Number of ventilator or ECMO free days",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "The mean number of days patients are free from use of a ventilator or ECMO will be reported."
+            },
+            {
+                "measure": "Phase 3: 14 day mortality rate",
+                "time_frame": "Day 1 through Day 15",
+                "description": "The rate of participant death from Day 1 through Day 15 will be reported."
+            },
+            {
+                "measure": "Phase 3: 28 day mortality rate",
+                "time_frame": "Day 1 through Day 29",
+                "description": "The rate of participant death from Day 1 through Day 29 will be reported."
+            },
+            {
+                "measure": "Phase 3: Changes in white blood cell count (CBC) through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in hemoglobin through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in platelets through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in creatinine through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in glucose through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in prothrombin time (PT) through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in total bilirubin through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in ALT through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in AST through Day 15",
+                "time_frame": "Day 1 to Day 15"
+            },
+            {
+                "measure": "Phase 3: Changes in white blood cell count (CBC) through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first",
+                "description": "Safety assessment via standard blood chemistry and metabolic panels will be performed daily as recommended by participant's physician as SOC. Mean changes from baseline to EOS will be reported."
+            },
+            {
+                "measure": "Phase 3: Changes in hemoglobin through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Changes in platelets through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Changes in creatinine through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Changes in glucose through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Changes in prothrombin time (PT) though End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Changes in total bilirubin through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Changes in ALT through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            },
+            {
+                "measure": "Phase 3: Changes in AST through End of Study (EOS)",
+                "time_frame": "Day 1 through Day 29 or hospital discharge, whichever is first"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "80"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "Baricitinib Arm",
+            "arm_group_type": "Experimental",
+            "description": "This study is an Adaptive Phase 2/3 trial designed to test the safety (Phase 2) and efficacy (Phase 2 and 3) of baricitinib to treat COVID-19. Phase 2 consists of a single-arm, open-label assignment of 20 participants receiving 2 mg baricitinib once daily for 14 days. Phase 3 consists of a single-arm, open-label assignment of 60 additional participants receiving baricitinib at the same dose. In both phases, participants will be monitored daily while hospitalized for 29 days, or until discharge, whichever occurs first. Participants who are discharged will be followed up with via phone on Day 15 and Day 29."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Baricitinib",
+            "description": "Subjects will receive a 2 mg oral dose of baricitinib.",
+            "arm_group_label": "Baricitinib Arm"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Male or female aged 18 - 89 years at time of enrollment\n\n          -  Hospitalized (or documented plan to hospitalize if patient is in the emergency\n             department) with symptoms suggestive of COVID-19\n\n          -  Illness of any duration that meets each of the following:\n\n               1. Evidence of pneumonia, including radiographic infiltrates by imaging (chest\n                  x-ray, CT scan, etc.) or clinical assessment (rales/crackles on exam)\n\n               2. Requires supportive care, including non-invasive supplemental oxygen\n\n          -  Laboratory-confirmed SARS-CoV-2 infection as determined by PCR or other commercial or\n             public health assay within 7 days of enrollment\n\n          -  Understands and agrees to comply with planned study procedures\n\n          -  Provides informed consent signed by study patient or legally acceptable representative\n\n        Exclusion Criteria:\n\n          -  Absolute lymphocyte count is less than 500 cells/mm\n\n          -  Absolute neutrophil count is less than 1000 cells/mm\n\n          -  Hemoglobin level is less than 8 g/dL\n\n          -  Estimated GFR is less than 60 mL/min/1.73 m2\n\n          -  ALT or AST is over 5 times the upper limit of normal\n\n          -  Treatment with other JAK inhibitors, OAT3 inhibitors, biologic disease-modifying\n             anti-rheumatic drugs (DMARDs), anti-IL-6 or anti-IL-6R antibodies, or potent\n             immunosuppressants such as azathioprine. and cyclosporine concurrently or within the\n             past 5 days. Note: recent or concurrent treatment with hydroxychloroquine or\n             chloroquine is allowable, as these are 'non-biologic' DMARDs with potential antiviral\n             activity.\n\n          -  History of HIV infection and on active immunosuppressant therapy\n\n          -  Current hematological or solid organ malignancy and on active immunosuppressant\n             therapy\n\n          -  Active tuberculosis (TB) infection or known or suspected systemic bacterial or fungal\n             infection\n\n          -  Pregnancy or breast feeding\n\n          -  Known allergy to baricitinib\n\n          -  In the opinion of the investigator, they are unlikely to survive for >48 hours from\n             screening\n\n          -  Any physical examination findings and/or history of any illness that, in the opinion\n             of the investigator, might confound the results of the study or pose an additional\n             risk to the patient by their participation in the study\n\n        Additional Exclusion Criteria for Phase 2 only:\n\n        \u2022 Invasive oxygen supplementation, including mechanical ventilation and extracorporeal\n        membrane oxygenation (ECMO)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "89 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Joaquin Espinosa, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Colorado, Denver"
+        },
+        "overall_contact": {
+            "last_name": "Angela Rachubinski, PhD",
+            "phone": "(720) 507-9107",
+            "email": "bari-covid19@cuanschutz.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Joaquin Espinosa, PhD",
+            "phone": "(720) 507-9107",
+            "email": "bari-covid19@cuanschutz.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Colorado, Denver",
+                "address": {
+                    "city": "Aurora",
+                    "state": "Colorado",
+                    "zip": "80045",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "JAK inhibitor",
+            "SARS-CoV-2",
+            "inflammation",
+            "cytokine release syndrome"
+        ],
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "De-identified individual participant data will be made available for all primary outcome measures.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Clinical Study Report (CSR)",
+                "Analytic Code"
+            ],
+            "ipd_time_frame": "Data will be made available upon publication in a peer-reviewed journal.",
+            "ipd_access_criteria": "Data access requests will be reviewed by the sponsor-investigator and collaborators."
+        }
+    }
+}

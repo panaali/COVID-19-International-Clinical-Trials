@@ -1,0 +1,164 @@
+{
+    "clinical_study": {
+        "@rank": "98",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04339842"
+        },
+        "id_info": {
+            "org_study_id": "Nutr2020",
+            "nct_id": "NCT04339842"
+        },
+        "brief_title": "Eating Habits of Adults During the COVID-19 Quarantine",
+        "official_title": "Eating Habits of Adults During the COVID-19 Quarantine",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Eliz Arter",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Cyprus Science University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Eastern Mediterranean University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The aim of this study is to assess the changes in the dietary habits of adults spending most\n      of their time in their homes due to the Coronavirus (COVID-19) outbreak. Eating habits of\n      individuals may vary greatly depending on several factors such as geographic location,\n      socioeconomic conditions, education level, knowledge about nutrition and psychological\n      factors. Since this period of quarantine is economically and psychologically stressful, we\n      hypothesise that individuals may alter their usual eating habits."
+        },
+        "detailed_description": {
+            "textblock": "Since the World Health Organisation (WHO) declared the latest Coronavirus outbreak as a\n      'pandemic', most countries had to take strict measures such as travel bans and lock-downs to\n      prevent the spread of the virus. Unfortunately, this unexpected situation has caused many\n      people around to globe to panic buy and stock up on food for an unpredictable period of time\n      as it cannot be estimated when the outbreak will be controlled.\n\n      Nutrition plays an important role in our everyday life; it makes up a large part of a healthy\n      life, it brings individuals together to socialise around a table and sometimes it can be used\n      in times of stress as a coping mechanism leading to emotional eating.\n\n      In this study it is hypothesised that adults may tempt to change their everyday eating habits\n      due to social isolation. Humans are generally sociable beings and this period of social\n      isolation will psychologically pressurise humans and may cause some of them to eat more in\n      quantity or frequency as a mechanism to cope with the growing fear and anxiety. On the other\n      hand, it is also hypothesised that, some individuals may prefer healthier ways of eating,\n      such as consuming more fruits and vegetables, drinking more water etc, believing that if they\n      can improve their immunity they will be less likely to contract the virus. The study may also\n      show that some individuals will be highly impacted economically and this will alter their\n      dietary preferences.\n\n      Within the scope of this study an online survey consisting of 20 questions will be asked to\n      volunteers who are over the age of 18 and spend most of their time at home in social\n      isolation because of the Coronavirus outbreak. The survey does not include any personal\n      questions but only general demographic data including gender, age range, the country they are\n      currently residing, quarantine duration and whether or not they have observed any changes in\n      their eating patterns since the beginning of this period.\n\n      In some questions, observed changes, if any, are further investigated to include details such\n      as increase/decrease in portion size, frequency of meals etc."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 31, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Cross-Sectional"
+        },
+        "primary_outcome": {
+            "measure": "Changes in the Eating Habits of Adults during the COVID-19 quarantine",
+            "time_frame": "One month",
+            "description": "This online survey will provide us with an idea of whether or not social isolation due to a pandemic will affect the usual eating patterns of adults either because of psychological stress or economic burden. It will also help us understand the context of these changes"
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "400"
+        },
+        "condition": "Adults in Social Isolation During the COVID-19 Outbreak",
+        "arm_group": {
+            "arm_group_label": "Adults in Quarantine due to the COVID-19 outbreak",
+            "description": "Individuals over the age of 18 who spend most of their time at home in social isolation because of the Coronavirus to prevent the risk of contracting the virus"
+        },
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Assessment of Dietary Changes in Adults in the COVID-19 quarantine",
+            "description": "The online survey will help to collect demographic data from the volunteers. Personal information and contact details, such as email, will not be asked. The survey will include questions about any increase or decrease in the consumption of main meals, snacks and fluid intake. If the participants of the study have observed changes in their dietary pattern since the beginning of the quarantine, details of these changes, such as an increase in the amount of main meal consumption, will be questioned.",
+            "arm_group_label": "Adults in Quarantine due to the COVID-19 outbreak"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Adults in Quarantine in their homes due to the COVID-19 outbreak"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Being between the ages of 18-80\n\n          -  Spending most of their time at home in quarantine because of the Coronavirus outbreak\n             not to contract the virus\n\n          -  Having internet access\n\n          -  Being able to read and comprehend English language\n\n        Exclusion Criteria:\n\n          -  Having any mental impairment or degeneration\n\n          -  Having any life-threatening health condition"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Eliz Arter",
+            "role": "Principal Investigator",
+            "affiliation": "Eastern Mediterranean University"
+        },
+        "overall_contact": {
+            "last_name": "Eliz Arter, MSc",
+            "phone": "00906301367",
+            "email": "eliz.arter@emu.edu.tr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Zalihe Yarkiner, PhD",
+            "phone": "00905428564710",
+            "email": "zaliheyarkiner@csu.edu.tr"
+        },
+        "location": {
+            "facility": {
+                "name": "Online",
+                "address": {
+                    "city": "Nicosia",
+                    "country": "Cyprus"
+                }
+            },
+            "contact": {
+                "last_name": "Eliz Arter, MSc",
+                "phone": "00906301367",
+                "email": "eliz.arter@emu.edu.tr"
+            },
+            "contact_backup": {
+                "last_name": "Zalihe Yarkiner, PhD",
+                "phone": "00905428564710",
+                "email": "zaliheyarkiner@csu.edu.tr"
+            }
+        },
+        "location_countries": {
+            "country": "Cyprus"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Eastern Mediterranean University",
+            "investigator_full_name": "Eliz Arter",
+            "investigator_title": "Sr. Instr."
+        },
+        "keyword": [
+            "Coronavirus",
+            "Quarantine",
+            "Social Isolation",
+            "Eating Habits",
+            "Nutrition"
+        ],
+        "provided_document_section": {
+            "provided_document": {
+                "document_type": "Study Protocol and Statistical Analysis Plan",
+                "document_has_protocol": "Yes",
+                "document_has_icf": "No",
+                "document_has_sap": "Yes",
+                "document_date": "April 6, 2020",
+                "document_url": "https://ClinicalTrials.gov/ProvidedDocs/42/NCT04339842/Prot_SAP_000.pdf"
+            }
+        }
+    }
+}

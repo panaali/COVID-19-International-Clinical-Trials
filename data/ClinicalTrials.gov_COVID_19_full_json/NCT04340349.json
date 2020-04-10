@@ -1,0 +1,195 @@
+{
+    "clinical_study": {
+        "@rank": "247",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340349"
+        },
+        "id_info": {
+            "org_study_id": "20/20",
+            "nct_id": "NCT04340349"
+        },
+        "brief_title": "Low-dose Hydroxychloroquine and Bromhexine: a Novel Regimen for COVID-19 Prophylaxis in Healthcare Professionals",
+        "acronym": "HCQINRLGII",
+        "official_title": "Low-dose Hydroxychloroquine and Bromhexine: a Novel Regimen for COVID-19 Prophylaxis in Healthcare Professionals",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Instituto Nacional de Rehabilitacion",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Instituto Nacional de Rehabilitacion",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study will investigate the security and efficacy of a daily low dose of\n      hydroxychloroquine, in preventing the development of the disease from COVID-19 in Health Care\n      Workers at a National Institute of Health In Mexico City."
+        },
+        "detailed_description": {
+            "textblock": "This study will combine two drugs (hydroxychloroquine and Bromhexine) to see if\n      hydroxychloroquine is better in combination with Bromhexine in preventing the development of\n      the disease from COVID-19 in Health Care Workers at a National Institute of Health In Mexico\n      City. Hydroxychloroquine will be used in a low dose (200 mg every 24 hrs). Bromhexine will be\n      8mg every 8 hrs. The placebo group will receive only Bromhexine and a sham hydroxychloroquine\n      pill."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 10, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 9, 2020"
+        },
+        "phase": "Early Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Triple (Participant, Care Provider, Investigator)",
+            "masking_description": "DOUBLE BLINDED"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Polymerase chain reaction assay (PCR) negative at day 0 plus negative serological panel for COVID-19 antibodies at enrolment.",
+                "time_frame": "Day 0",
+                "description": "https://www.who.int/blueprint/priority-diseases/key-action/COVID-19_Treatment_Trial_Design_Master_Protocol_synopsis_Final_18022020.pdf, this scale reflects a range from uninfected to dead, where 0 is \"no clinical or virological evidence of infection\", 1 is \"no limitation of activities\", 2 is \"limitation of activities\", 3 is \"hospitalized, no oxygen therapy\", 4 is \"oxygen by mask or nasal prongs\", 5 is \"non-invasive ventilation or high-flow oxygen\", 6 is \"intubation and mechanical ventilation\", 7 is \"ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)\", and 8 is \"death\"."
+            },
+            {
+                "measure": "Polymerase chain reaction assay (PCR) negative at day 30.",
+                "time_frame": "Day 30",
+                "description": "https://www.who.int/blueprint/priority-diseases/key-action/COVID-19_Treatment_Trial_Design_Master_Protocol_synopsis_Final_18022020.pdf, this scale reflects a range from uninfected to dead, where 0 is \"no clinical or virological evidence of infection\", 1 is \"no limitation of activities\", 2 is \"limitation of activities\", 3 is \"hospitalized, no oxygen therapy\", 4 is \"oxygen by mask or nasal prongs\", 5 is \"non-invasive ventilation or high-flow oxygen\", 6 is \"intubation and mechanical ventilation\", 7 is \"ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)\", and 8 is \"death\"."
+            },
+            {
+                "measure": "Polymerase chain reaction assay (PCR) negative at day 60.",
+                "time_frame": "Day 60",
+                "description": "https://www.who.int/blueprint/priority-diseases/key-action/COVID-19_Treatment_Trial_Design_Master_Protocol_synopsis_Final_18022020.pdf, this scale reflects a range from uninfected to dead, where 0 is \"no clinical or virological evidence of infection\", 1 is \"no limitation of activities\", 2 is \"limitation of activities\", 3 is \"hospitalized, no oxygen therapy\", 4 is \"oxygen by mask or nasal prongs\", 5 is \"non-invasive ventilation or high-flow oxygen\", 6 is \"intubation and mechanical ventilation\", 7 is \"ventilation + additional organ support - pressors, RRT (renal replacement therapy), ECMO (extracorporeal membrane oxygenation)\", and 8 is \"death\"."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": [
+            "Hydroxychloroquine",
+            "Antimalarials",
+            "Enzyme Inhibitors",
+            "Antirheumatic Agents"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Experimental: Hydroxychloroquine plus Bromhexine",
+                "arm_group_type": "Experimental",
+                "description": "200 mg of Hydroxychloroquine daily for 2 months 8 mg of Bromhexine every 8 hrs for 2 months"
+            },
+            {
+                "arm_group_label": "Bromhexine only",
+                "arm_group_type": "Placebo Comparator",
+                "description": "8 mg of Bromhexine every 8 hrs for 2 months"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine Sulfate",
+                "description": "A daily low dose of Hydroxychloroquine Sulfate",
+                "arm_group_label": "Experimental: Hydroxychloroquine plus Bromhexine",
+                "other_name": "Plaquenil"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Bromhexine 8 MG",
+                "description": "TMPRSS2 blocker",
+                "arm_group_label": [
+                    "Bromhexine only",
+                    "Experimental: Hydroxychloroquine plus Bromhexine"
+                ],
+                "other_name": "Bisolvon"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        \u2022 Health Care workers with high exposure to COVID-19 patients\n\n        Exclusion Criteria:\n\n          -  Allergy to hydroxychloroquine or bromhexine\n\n          -  History of bone marrow transplant\n\n          -  Known G6PD deficiency\n\n          -  Chronic hemodialysis or Glomerular Filtration Rate < 20ml/min\n\n          -  Psoriasis\n\n          -  Porphyria\n\n          -  Concomitant use of digitalis, flecainide, amiodarone, procainamide, or propafenone\n\n          -  Known history of long QT syndrome\n\n          -  Current known QTc>500 msec\n\n          -  Pregnant or nursing\n\n          -  Severe liver disease\n\n          -  Seizure disorder"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "location": {
+            "facility": {
+                "name": "National Institute of Rehabilitation",
+                "address": {
+                    "city": "Mexico City",
+                    "state": "Cdmx",
+                    "zip": "14389",
+                    "country": "Mexico"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Mexico"
+        },
+        "results_reference": [
+            {
+                "citation": "Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J Antimicrob Agents. 2020 Mar 11:105938. doi: 10.1016/j.ijantimicag.2020.105938. [Epub ahead of print]",
+                "PMID": "32171740"
+            },
+            {
+                "citation": "Hoffmann M, Kleine-Weber H, Schroeder S, Kr\u00fcger N, Herrler T, Erichsen S, Schiergens TS, Herrler G, Wu NH, Nitsche A, M\u00fcller MA, Drosten C, P\u00f6hlmann S. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell. 2020 Mar 4. pii: S0092-8674(20)30229-4. doi: 10.1016/j.cell.2020.02.052. [Epub ahead of print]",
+                "PMID": "32142651"
+            },
+            {
+                "citation": "Lucas JM, Heinlein C, Kim T, Hernandez SA, Malik MS, True LD, Morrissey C, Corey E, Montgomery B, Mostaghel E, Clegg N, Coleman I, Brown CM, Schneider EL, Craik C, Simon JA, Bedalov A, Nelson PS. The androgen-regulated protease TMPRSS2 activates a proteolytic cascade involving components of the tumor microenvironment and promotes prostate cancer metastasis. Cancer Discov. 2014 Nov;4(11):1310-25. doi: 10.1158/2159-8290.CD-13-1010. Epub 2014 Aug 13.",
+                "PMID": "25122198"
+            },
+            {
+                "citation": "Shen LW, Mao HJ, Wu YL, Tanaka Y, Zhang W. TMPRSS2: A potential target for treatment of influenza virus and coronavirus infections. Biochimie. 2017 Nov;142:1-10. doi: 10.1016/j.biochi.2017.07.016. Epub 2017 Aug 1. Review.",
+                "PMID": "28778717"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Instituto Nacional de Rehabilitacion",
+            "investigator_full_name": "Julio Granados Montiel",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": [
+            "SARS-CoV-2",
+            "COVID-19",
+            "Hydroxychloroquine",
+            "BROMHEXINE"
+        ],
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydroxychloroquine",
+                "Bromhexine"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "Under Mexican Law, we are not able to provide IPD"
+        }
+    }
+}

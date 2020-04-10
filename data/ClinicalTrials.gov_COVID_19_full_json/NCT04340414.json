@@ -1,0 +1,162 @@
+{
+    "clinical_study": {
+        "@rank": "288",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340414"
+        },
+        "id_info": {
+            "org_study_id": "Low flow-ECMO by CVVH in NCP",
+            "nct_id": "NCT04340414"
+        },
+        "brief_title": "Safety and Effectiveness of Low-flow ECMO Driving by CVVH Machine in Severe NCP",
+        "official_title": "Safety and Effectiveness Study of Low Flow Extracorporeal Membrane Oxygenation\uff08CO2 Removal\uff09 Driving by Continuous Hemofiltration Machine the Severe New Corovirus Pneumonia (NCP)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Peking Union Medical College Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Peking Union Medical College Hospital",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "assess the safety and effectiveness of using low-flow extracorporeal membrane oxygenation(CO2\n      removal) driving by CVVH machine in the severe NCP patients"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 3, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 15, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 15, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "PaCO2",
+                "time_frame": "Day 1",
+                "description": "PaCO2 from blood gas analysis"
+            },
+            {
+                "measure": "Driving Pressure",
+                "time_frame": "Day 1",
+                "description": "Driving Pressure monitor by ventilator"
+            },
+            {
+                "measure": "Tidal volume",
+                "time_frame": "Day 1",
+                "description": "Tidal volume monitor by ventilator"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10"
+        },
+        "condition": [
+            "COVID-19",
+            "ECMO"
+        ],
+        "arm_group": {
+            "arm_group_label": "NCP patient with severe ARDS and/or high ventilator supported",
+            "arm_group_type": "Experimental",
+            "description": "The NCP patient with severe ARDS and/or high ventilator supported condition was eligibilitable for enrollment"
+        },
+        "intervention": {
+            "intervention_type": "Device",
+            "intervention_name": "Low flow ECMO driving by CVVH machine",
+            "description": "With aim to clear CO2 and improve oxygenation, a low flow ECMO treatment(using oxgyenator membrane of kid type ) driving by CVVH machine will be performed in the NCP with severe ARDS",
+            "arm_group_label": "NCP patient with severe ARDS and/or high ventilator supported"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  1. NCP with severe acute respiratory distress syndrome with ratio of partial pressure\n             of arterial oxygen over fraction of inspired oxygen (PaO2:FiO2)<150 and PEEP >10cmH2O\n\n          -  2. Driving pressure> 20cmH2O\n\n          -  3. RR>30bpm\n\n          -  4.PaCO2>55cmH2O and/or PH>7.3\n\n        Exclusion Criteria:\n\n          -  1. poor venous vascular condition and unavaible for central venous catheter placement"
+            },
+            "gender": "All",
+            "minimum_age": "14 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Yun Long",
+            "role": "Principal Investigator",
+            "affiliation": "Peking Union Medical College Hospit"
+        },
+        "overall_contact": {
+            "last_name": "Yun Long, MD",
+            "phone": "+8610169152300",
+            "email": "ly_icu@aliyun.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Yun Long",
+            "phone": "+8610169152300",
+            "email": "ly_icu@aliyun.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Yun Long",
+                "address": {
+                    "city": "Beijing",
+                    "state": "Beijing",
+                    "zip": "100730",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Yun Long",
+                "phone": "+8610169152300",
+                "email": "ly_icu@aliyun.com"
+            },
+            "investigator": [
+                {
+                    "last_name": "Xiang Zhou, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Huaiwu He, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Wei Cheng, MD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 3, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        }
+    }
+}

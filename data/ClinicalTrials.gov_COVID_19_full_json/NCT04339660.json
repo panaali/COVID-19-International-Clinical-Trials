@@ -1,0 +1,210 @@
+{
+    "clinical_study": {
+        "@rank": "15",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04339660"
+        },
+        "id_info": {
+            "org_study_id": "Pr20200402",
+            "nct_id": "NCT04339660"
+        },
+        "brief_title": "Clinical Research of Human Mesenchymal Stem Cells in the Treatment of COVID-19 Pneumonia",
+        "official_title": "Clinical Research of Human Mesenchymal Stem Cells in the Treatment of COVID-19 Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Puren Hospital Affiliated to Wuhan University of Science and Technology",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Shanghai University",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Qingdao Co-orient Watson Biotechnology group co. LTD",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Basic Medical Sciences, Chinese Academy of Medical Sciences",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Puren Hospital Affiliated to Wuhan University of Science and Technology",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The COVID-19 pneumonia has grown to be a global public health emergency since patients were\n      first detected in Wuhan, China, in December 2019, which spread quickly to worldwide and\n      presented a serious threat to public health. It is mainly characterized by fever, dry cough,\n      shortness of breath and breathing difficulties. Some patients may develop into rapid and\n      deadly respiratory system injury with overwhelming inflammation in the lung. Currently, no\n      specific drugs or vaccines are available to cure the patients with COVID-19 pneumonia. Hence,\n      there is a large unmet need for a safe and effective treatment for COVID-19 pneumonia\n      patients, especially the critically ill cases. The significant clinical outcome and well\n      tolerance was observed by the adoptive transfer of allogenic MSCs. We proposed that the\n      adoptive transfer therapy of MSCs might be an ideal choice to be used. We expect to provide\n      new options for the treatment of critically ill COVID-19 pneumonia patients and contribute to\n      improving the quality of life of critically ill patients."
+        },
+        "detailed_description": {
+            "textblock": "Since December 2019, novel coronavirus disease 2019 (COVID-19) in Wuhan has been fierce and\n      spread rapidly. As of 24:00 on March 4, 2020, China has reported a total of 80567 confirmed\n      cases, 5952 existing critically ill cases, and 3016 dead cases. The COVID-19 pneumonia has\n      grown to be a global public health emergency since patients were first detected in Wuhan,\n      China, in December 2019, which spread quickly to 26 countries worldwide and presented a\n      serious threat to public health. It is mainly characterized by fever, dry cough, shortness of\n      breath and breathing difficulties. Some patients may develop into rapid and deadly\n      respiratory system injury with overwhelming inflammation in the lung. Currently, no specific\n      drugs or vaccines are available to cure the patients with COVID-19 infection. Hence, there is\n      a large unmet need for a safe and effective treatment for COVID-19 infected patients,\n      especially the critically ill cases.\n\n      Recently, some clinical researches about the COVID-19 published in The Lancet and The New\n      England Journal of Medicine suggested that massive inflammatory cell infiltration and\n      inflammatory cytokines secretion were found in patients' lungs, alveolar epithelial cells and\n      capillary endothelial cells were damaged, causing acute lung injury. Several reports\n      demonstrated that the first step of the HCoV-19 pathogenesis is that the virus specifically\n      recognizes the angiotensin I converting enzyme 2 receptor (ACE2) by its spike Protein. This\n      receptor is abundant in lung and small intestinal tissues, but is also highly expressed in\n      vascular endothelial cells and smooth muscle cells in almost all organs, including the\n      nervous system and skeletal muscle. The main organ injured by the HCoV-19 is the lung. In\n      fact, HCoV-19 can also involve the nervous system, digestive system, urinary system, blood\n      system and other systems. Therefore, when the initial symptom is discomfort of other systems\n      in the early stage, it is often easy to be misdiagnosed and delay treatment. Moreover, the\n      HCoV-19 is a noncellular form consisting of RNA and protein, which cannot be copied\n      independently. It needs to bind to cell surface receptors to enter the cell to complete the\n      replication, and then be released again. Therefore, once the HCoV-19 enters the blood\n      circulation, it can easily spread to all systems throughout the body, which may be the\n      pathological mechanism that the HCoV-19 directly or indirectly causes neurological symptoms.\n\n      It seems that the key to cure the COVID-19 pneumonia is to inhibit the inflammatory response,\n      resulting to reduce the damage of alveolar epithelial cells and endothelial cells and repair\n      the function of the lung. MSCs, owing to their powerful immunomodulatory ability, may have\n      beneficial effects on preventing or attenuating the cytokine storm.\n\n      Mesenchymal stem cells (MSCs) are widely used in basic research and clinical application.\n      They are proved to migrate to damaged tissues, exert antiinflammatory and immunoregulatory\n      functions, promote the regeneration of damaged tissues and inhibit tissue fibrosis. MSCs play\n      a positive role mainly in two ways, namely immunomodulatory effects and differentiation\n      abilities. MSCs can secrete many types of cytokines by paracrine secretion or make direct\n      interactions with immune cells, leading to immunomodulation. Studies have shown that MSCs can\n      significantly reduce acute lung injury in mice caused by H9N2 and H5N1 viruses by reducing\n      the levels of proinflammatory cytokines and the recruitment of inflammatory cells into the\n      lungs. Compared with MSCs from other sources, human umbilical cord-derived MSCs (UC-MSCs)\n      have been widely applied to various diseases due to their convenient collection, no ethical\n      controversy, low immunogenicity, and rapid proliferation rate.\n\n      Here we conducted an MSC transplantation pilot study to explore their therapeutic potential\n      for COVID-19 pneumonia patients. To explore the effective treatment of COVID-19 pneumonia for\n      the current prevention and control of novel coronavirus pneumonia to find a key and effective\n      clinical treatment means, to fight against the epidemic."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "February 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "phase": "Phase 1/Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Triple (Participant, Care Provider, Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "The immune function (TNF-\u03b1 \u3001IL-1\u03b2\u3001IL-6\u3001TGF-\u03b2\u3001IL-8\u3001PCT\u3001CRP)",
+                "time_frame": "Observe the immune function of the participants within 4 weeks",
+                "description": "Improvement and recovery time of inflammatory and immune factors"
+            },
+            {
+                "measure": "Blood oxygen saturation",
+                "time_frame": "Monitor blood oxygen saturation of the participants within 4 weeks",
+                "description": "Evaluation of Pneumonia change"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Rate of mortality within 28-days",
+                "time_frame": "At baseline, Day 1, Day 2, Day 7, Week 2, Week 3, Week 4",
+                "description": "Marker for efficacy of treatment"
+            },
+            {
+                "measure": "Size of lesion area by chest imaging",
+                "time_frame": "At baseline, Day 1, Day 2, Day 7, Week 2, Week 3, Week 4",
+                "description": "Evaluation of Pneumonia change"
+            },
+            {
+                "measure": "CD4+ and CD8+ T cells count",
+                "time_frame": "At baseline, Day 1, Day 2, Day 7, Week 2, Week 3, Week 4",
+                "description": "Marker of Immunology and inflammation"
+            },
+            {
+                "measure": "Peripheral blood count recovery time",
+                "time_frame": "At baseline, Day 1, Day 2, Day 7, Week 2, Week 3, Week 4",
+                "description": "Degree of infection"
+            },
+            {
+                "measure": "Duration of respiratory symptoms (fever, dry cough, difficulty breathing, etc.)",
+                "time_frame": "At baseline, Day 1, Day 2, Day 7, Week 2, Week 3, Week 4",
+                "description": "Indirect response to lung function"
+            },
+            {
+                "measure": "COVID-19 nucleic acid negative time",
+                "time_frame": "At baseline, Day 1, Day 2, Day 7, Week 2, Week 3, Week 4",
+                "description": "Clearance time of COVID-19 in participant"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "UC-MSCs treatment group",
+                "arm_group_type": "Experimental",
+                "description": "Participants will receive conventional and treatment with MSCs, MSCs were suspended in 100 mL of normal saline, and the total number of transplanted cells was calculated by 1*10E6 cells per kilogram of weight. This product is generally a course of treatment, a total of 1 time, depending on the condition of the need to be given again at an interval of 1 week."
+            },
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Participants will receive conventional treatment and Placebo intravenously."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "UC-MSCs",
+                "description": "1*10E6 UC-MSCs /kg body weight suspended in 100mL saline",
+                "arm_group_label": "UC-MSCs treatment group"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "100mL saline intravenously",
+                "arm_group_label": "Control group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male or female, 18 years old \u2264 age \u2264 75years old;\n\n          2. CT image is characteristic of 2019 novel coronavirus pneumonia;\n\n          3. Laboratory confirmation of 2019-nCoV infection by reverse transcription polymerase\n             chain reaction (RT-PCR);\n\n          4. In compliance with the 2019-nCoV pneumonia diagnosis standard (according to the novel\n             coronavirus infection pneumonia diagnosis and treatment program (Trial Implementation\n             Version 6) issued by the National Health and Medical Commission, and WHO 2019 new\n             coronavirus guidelines standards): (A) increased breathing rate (\u226530 beats / min),\n             difficulty breathing, cyanosis of the lips; (B) in resting state, means oxygen\n             saturation \u226493%; (C) partial pressure of arterial oxygen (PaO2) / Fraction of inspired\n             oxygen (FiO2) \u2264300 mmHg (1mmHg = 0.133kPa);\n\n          5. Participant or the authorized agent signed the informed consent form.\n\n          6. Agree to collect clinical samples.\n\n        Exclusion Criteria:\n\n          1. Malignant disease in the past five years;\n\n          2. Participant with no hope of survival were clinically predicted and only received\n             hospice care, or those who were in a deep coma and did not respond to supportive\n             treatment measures within three hours of admission.\n\n          3. Participant who are participating in other clinical trials or who have participated in\n             other clinical trials within 3 months.\n\n          4. Cases of severe shock and respiratory failure."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Yan Liu, MD",
+            "phone": "+8613387517458",
+            "email": "447822853@qq.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Yue Zhu",
+            "phone": "+8617786289703",
+            "email": "978925651@qq.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Puren Hospital Affiliated to Wuhan University of Science and Technology",
+                "address": {
+                    "city": "Wuhan",
+                    "state": "Hubei",
+                    "zip": "430081",
+                    "country": "China"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Yan Liu, MD",
+                "phone": "+8613387517458",
+                "email": "447822853@qq.com"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 5, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 5, 2020",
+        "last_update_submitted_qc": "April 5, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "UC-MSCs",
+            "critically ill",
+            "cell transplantation"
+        ],
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        }
+    }
+}

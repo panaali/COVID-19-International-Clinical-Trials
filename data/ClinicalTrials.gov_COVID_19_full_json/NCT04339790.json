@@ -1,0 +1,163 @@
+{
+    "clinical_study": {
+        "@rank": "261",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04339790"
+        },
+        "id_info": {
+            "org_study_id": "999920085",
+            "secondary_id": "20-M-N085",
+            "nct_id": "NCT04339790"
+        },
+        "brief_title": "Mental Health Impact of COVID-19 Pandemic on NIMH Research Participants and Volunteers",
+        "official_title": "Mental Health Impact of COVID-19 Pandemic on NIMH Research Participants and Volunteers",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institute of Mental Health (NIMH)",
+                "agency_class": "NIH"
+            }
+        },
+        "source": "National Institutes of Health Clinical Center (CC)",
+        "brief_summary": {
+            "textblock": "Study Description: This protocol leverages existing NIMH studies and participants to\n\n      accomplish time-sensitive research on the mental health impact of environmental stressors\n      imposed by the COVID-19 pandemic. The study will describe the relationship between stressors\n      related to COVID-19 and self-rated measures of mental health symptoms and distress among a\n      range of participants including various patient populations and healthy volunteers. The\n      utilization of a study website to consent and survey participants online is an efficient and\n      timely way to collect research data during this unique public health crisis.\n\n      Objectives: The primary objective is to describe the relationship between stressors related\n      to COVID-19 and self-rated measures of mental health symptoms and distress among a range of\n      participants including various patient populations and healthy volunteers. The secondary\n      objectives are to determine whether existing mental health concerns moderates this\n      relationship and to identify risk and resilience factors among study participants regarding\n      the mental health impact of the COVID-19 pandemic.\n\n      Endpoints: The primary endpoints are descriptive data on stressors experienced as a result of\n      the COVID-19 pandemic, and emotional, behavioral, and clinical symptoms. These endpoints will\n      be measured repeatedly using an online platform for up to 6 months. These repeated measures\n      will be combined with previously collected phenotype data on NIMH participants as allowed.\n\n      Study Population: The sample size will be up to 5,000 and will include participants 18\n\n      years and older of both sexes, any gender, and health status. They must be English-speaking.\n      The study population will include patient and volunteer participants who have consented for a\n      NIMH study in the past as well as new participants from the general population who respond to\n      advertisements for the NIMH COVID study but who have not previously been a NIMH study\n      participant. The NIMH COVID study participants may or may not be local to the Metropolitan\n      Washington DC area but since the study will be conducted entirely online, this is not\n      relevant."
+        },
+        "detailed_description": {
+            "textblock": "Study Description: This protocol leverages existing NIMH studies and participants to\n      accomplish time-sensitive research on the mental health impact of environmental stressors\n      imposed by the COVID-19 pandemic. The study will describe the relationship between stressors\n      related to COVID-19 and self-rated measures of mental health symptoms and distress among a\n      range of participants including various patient populations and healthy volunteers. The\n      utilization of a study website to consent and survey participants online is an efficient and\n      timely way to collect research data during this unique public health crisis.\n\n      Objectives: The primary objective is to describe the relationship between stressors related\n      to COVID-19 and self-rated measures of mental health symptoms and distress among a range of\n      participants including various patient populations and healthy volunteers. The secondary\n      objectives are to determine whether existing mental health concerns moderates this\n      relationship and to identify risk and resilience factors among study participants regarding\n      the mental health impact of the COVID-19 pandemic.\n\n      Endpoints: The primary endpoints are descriptive data on stressors experienced as a result of\n      the COVID-19 pandemic, and emotional, behavioral, and clinical symptoms. These endpoints will\n      be measured repeatedly using an online platform for up to 6 months. These repeated measures\n      will be combined with previously collected phenotype data on NIMH participants as allowed.\n\n      Study Population: The sample size will be up to 5,000 and will include participants 18 years\n      and older of both sexes, any gender, and health status. They must be English-speaking. The\n      study population will include patient and volunteer participants who have consented for a\n      NIMH study in the past as well as new participants from the general population who respond to\n      advertisements for the NIMH COVID study but who have not previously been a NIMH study\n      participant. The NIMH COVID study participants may or may not be local to the Metropolitan\n      Washington DC area but since the study will be conducted entirely online, this is not\n      relevant."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 14, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 1, 2022"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "NIMH COVID Study survey - adult responses",
+            "time_frame": "Biweekly online responses",
+            "description": "Thoughts and feelings about mental health impact of COVID-19"
+        },
+        "secondary_outcome": {
+            "measure": "DSM XC and KS survey",
+            "time_frame": "Biweekly online self report",
+            "description": "Ratings on measures of mental health symptoms and distress"
+        },
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "5000"
+        },
+        "condition": [
+            "Healthy Volunteer",
+            "Mood Disorder",
+            "Anxiety Disorder",
+            "Preexisting Medical Condition"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "New study participant",
+                "description": "Individuals who respond to study website or advertisements for the study who have not previously been a NIMH study participant"
+            },
+            {
+                "arm_group_label": "NIMH Study Participant",
+                "description": "Individuals who have previously consented for a NIMH study"
+            }
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "The study population for the NIMH COVID study will include patient and volunteer\n        participants who have consented for a NIMH study in the past as well as new participants\n        from the general population whorespond to advertisements for the NIMH COVID study but who\n        have not previously been a NIMH studyparticipant. The NIMH COVID study participants may or\n        may not be local to the Metropolitan WashingtonDC area but since the study will be\n        conducted entirely online, this is not relevant."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "-  INCLUSION CRITERIA:\n\n        In order to be eligible to participate in this study, an individual must meet all of the\n        following criteria:\n\n          -  18 years of age and older.\n\n          -  Able to read and write English.\n\n          -  Able to provide informed consent online using study website.\n\n        EXCLUSION CRITERIA:\n\n        -There are no exclusion criteria for this study."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Joyce Y Chung, M.D.",
+            "role": "Principal Investigator",
+            "affiliation": "National Institute of Mental Health (NIMH)"
+        },
+        "overall_contact": {
+            "last_name": "Alison Gibbons",
+            "phone": "(240) 665-0697",
+            "email": "alison.gibbons@nih.gov"
+        },
+        "location": {
+            "facility": {
+                "name": "National Institute of Mental Health (NIMH)",
+                "address": {
+                    "city": "Bethesda",
+                    "state": "Maryland",
+                    "zip": "20892",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Alison Gibbons",
+                "phone": "240-665-0697",
+                "email": "alison.gibbons@nih.gov"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "reference": [
+            {
+                "citation": "Cohen S, Gianaros PJ, Manuck SB. A Stage Model of Stress and Disease. Perspect Psychol Sci. 2016 Jul;11(4):456-63. doi: 10.1177/1745691616646305. Review.",
+                "PMID": "27474134"
+            },
+            {
+                "citation": "Kendler KS, Hettema JM, Butera F, Gardner CO, Prescott CA. Life event dimensions of loss, humiliation, entrapment, and danger in the prediction of onsets of major depression and generalized anxiety. Arch Gen Psychiatry. 2003 Aug;60(8):789-96.",
+                "PMID": "12912762"
+            }
+        ],
+        "verification_date": "April 7, 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Coronavirus",
+            "COVID-19",
+            "Mental Health",
+            "Environmental Stressor",
+            "Distress"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Disease",
+                "Anxiety Disorders",
+                "Mood Disorders"
+            ]
+        }
+    }
+}

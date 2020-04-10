@@ -1,0 +1,239 @@
+{
+    "clinical_study": {
+        "@rank": "277",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340219"
+        },
+        "id_info": {
+            "org_study_id": "BC-07505-LGE",
+            "nct_id": "NCT04340219"
+        },
+        "brief_title": "Oncology-patient-reported Anxiety, Mood, and QoL During the COVID-19 Pandemic",
+        "acronym": "ONCOVID",
+        "official_title": "A Prospective Cohort Study Investigating Oncology-patient-reported Anxiety, Mood, and Quality of Life During the COVID-19 Pandemic (ONCOVID Trial)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Ghent",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Ghent",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "ONCOVID is a prospective cohort study investigating oncology-patient-reported anxiety, mood,\n      and quality of life during the COVID-19 pandemic. Participants complete a survey consisting\n      of sociodemographic information and self-administered questionnaires (COVID-19 Peritraumatic\n      Distress Index, Depression Anxiety Stress Scale-21, and WHO Quality of Life-BREF). Data\n      collection occurs at baseline and follow-up surveys are performed after 6, 12, and 24 weeks."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Distress at baseline measured by the COVID-19 Peritraumatic Distress Index (CPDI); in terms of proportions (0-28 vs \u2265 29).",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Depression at baseline measured by the 7-item depression subscale of the 21-item Depression, Anxiety, and Stress Scale (DASS-21) (DASS-21\u2014Depression); in terms of proportions (0-4 vs \u2265 5).",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Anxiety at baseline measured by the 7-item anxiety subscale of the DASS-21 (DASS-21\u2014Anxiety); in terms of proportions (0-3 vs \u2265 4).",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Stress at baseline measured by the 7-item stress subscale of the DASS-21 (DASS-21\u2014Stress); in terms of proportions (0-7 vs \u2265 8).",
+                "time_frame": "Week 0"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Distress measured at baseline by the CPDI; in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Depression at baseline measured by the DASS-21\u2014Depression; in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Anxiety at baseline measured by the DASS-21\u2014Anxiety; in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Stress at baseline measured by the DASS-21\u2014Stress; in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Domain-specific quality of life at baseline measured by the 7-item physical health domain of the World Health Organization Quality of Life-BREF (WHOQOL-BREF) questionnaire (WHOQOL-BREF\u2014Physical health); in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Domain-specific quality of life at baseline measured by the 6-item psychological health domain of the WHOQOL-BREF questionnaire (WHOQOL-BREF\u2014Psychological health); in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Domain-specific quality of life at baseline measured by the 3-item social relationships domain of the WHOQOL-BREF questionnaire (WHOQOL-BREF\u2014Social relationships); in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Domain-specific quality of life at baseline measured by the 8-item environment domain of the WHOQOL-BREF questionnaire (WHOQOL-BREF\u2014Environment); in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Overall perception of quality of life and overall perception of health at baseline measured by the two items from the Overall QOL and General Health in the WHOQOL-BREF questionnaire\u2014in terms of continuous values.",
+                "time_frame": "Week 0"
+            },
+            {
+                "measure": "Change from baseline in distress measured by CDPI; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in depression measured by the DASS-21\u2014Depression; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in anxiety measured by the DASS-21\u2014Anxiety; in terms of continues values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in stress measured by the DASS-21\u2014Stress; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in domain-specific quality of life at baseline measured by the WHOQOL-BREF\u2014Physical health; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in domain-specific quality of life at baseline measured by the WHOQOL-BREF\u2014Psychological health; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in domain-specific quality of life measured by the WHOQOL-BREF\u2014Social relationship; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in domain-specific quality of life measured by the WHOQOL-BREF\u2014Environment; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "Change from baseline in overall perception of quality of life and overall perception of health measured by the 2 items from the Overall QOL and General Health in the WHOQOL-BREF questionnaire; in terms of continuous values.",
+                "time_frame": "24 weeks"
+            },
+            {
+                "measure": "The real-life impact of COVID-19 on systemic treatment administration will be assessed using descriptive statistics",
+                "time_frame": "Week 0-6-12-24"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "180"
+        },
+        "condition": "Cancer",
+        "arm_group": {
+            "arm_group_label": "Cancer patients",
+            "description": "Participants complete a survey consisting of sociodemographic information and self-administered questionnaires (CPDI, DASS-21, and WHOQOL-BREF)."
+        },
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Survey administration",
+            "description": "Covid-19 Peritraumatic Distress Index, Depression Anxiety Stress Scale-21, WHO Quality of Life-BREF",
+            "arm_group_label": "Cancer patients"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All patients undergoing systemic treatment at the Medical Oncology Department between\n        February 14 and March 31, 2020."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  \u2265 18 years of age\n\n          -  Histologically confirmed cancer\n\n          -  Receive systemic therapy (including chemotherapy, targeted small-molecule therapy,\n             anticancer monoclonal antibody, immunotherapy, endocrine therapy, or investigational\n             agent) (either exclusively or in combination with other anticancer therapy) between\n             February 14, 2020 and March 31, 2020 (Note: Patients whose systemic treatment\n             administration was initially planned for this period but was modified, delayed,\n             stopped, or withheld due to COVID-19 measures are also eligible for inclusion)\n\n        Exclusion Criteria:\n\n          -  Insufficient understanding of the Dutch language\n\n          -  Severe cognitive impairment\n\n          -  Acute psychiatric crisis\n\n          -  Not able to give informed consent\n\n          -  Confirmed or clinically suspected COVID-19\n\n          -  Endocrine therapy in (neo)adjuvant setting (Note: Patients whose (neo)adjuvant\n             systemic treatment was initially planned as chemotherapy, targeted small-molecule\n             therapy, anticancer monoclonal antibody, immunotherapy, or investigational agent\n             (either exclusively or in combination in combination with other anticancer therapy)\n             but was modified to endocrine therapy due to COVID-19 measures are also eligible for\n             inclusion)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Hannelore Denys, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Medical Oncologist"
+        },
+        "overall_contact": {
+            "last_name": "Heini Kanervo, RN",
+            "phone": "+32 9 332 26 19",
+            "email": "heini.kanervo@uzgent.be"
+        },
+        "location": {
+            "facility": {
+                "name": "University Hospital Gent",
+                "address": {
+                    "city": "Gent",
+                    "zip": "9000",
+                    "country": "Belgium"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Hannelore Denys"
+            },
+            "investigator": {
+                "last_name": "Emiel De Jaeghere, MD",
+                "role": "Sub-Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "Belgium"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "Quality of Life",
+            "Anxiety",
+            "Stress",
+            "Mood",
+            "DASS-21",
+            "WHOQOL-BREF",
+            "CPDI"
+        ],
+        "condition_browse": {
+            "mesh_term": "Anxiety Disorders"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

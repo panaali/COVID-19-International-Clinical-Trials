@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "30",
+        "@rank": "32",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04332081"
         },
@@ -31,10 +31,10 @@
         "detailed_description": {
             "textblock": "This is a single center prospective pilot cohort study to evaluate the safety and efficacy of\n      hyperbaric oxygen therapy (HBOT) as an emergency investigational device for treating patients\n      with a novel coronavirus, disease, COVID-19. Patients that meet inclusion criteria will be\n      consented by the hyperbaric physician. They will then be transported from the ED or other\n      unit to the hyperbaric unit maintaining airborne precautions based on the most current\n      hospital protocol. All study personnel will have proper PPE at all times. The patient will\n      then be placed into the monoplace chamber and when the chamber door is closed the patient\n      will remove any respiratory filter/mask that was placed. The patient will receive 90 minutes\n      of hyperbaric oxygen at 2.0 ATA with or without airbreaks per the hyperbaric physician. Upon\n      completion of the treatment the patient will then return to the medical unit and continue all\n      standard of care. Additional treatments (up to 5) can be given if warranted and agreed upon\n      by the patient and all members of the team caring for the patient. After the intervention\n      portion of this study, a chart review will be performed to compare the outcomes of\n      intervention patients versus patients who received standard of care."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 2020"
+            "@type": "Actual",
+            "#text": "April 6, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -113,6 +113,7 @@
                     "country": "United States"
                 }
             },
+            "status": "Recruiting",
             "contact": {
                 "last_name": "David Lee, MD",
                 "phone": "212-562-6561",
@@ -129,11 +130,11 @@
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 8, 2020"
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

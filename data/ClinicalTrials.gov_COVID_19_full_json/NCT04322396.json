@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "300",
+        "@rank": "321",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04322396"
         },
@@ -32,10 +32,10 @@
         "detailed_description": {
             "textblock": "In the ongoing coronavirus pandemic, COVID-19, that arose in Wuhan China, there is still\n      sparse data in the course, risk of various complications, and in particular how patients who\n      are hospitalized are best treated to ensure high survival and short hospitalization. Despite\n      the rapid spread of the disease globally, there is no solid data yet to recommend any\n      specific treatments, which is why symptomatic, organ supportive therapy including respiratory\n      therapy in acute pulmonary failure is recommended. There has been reported a high incidence\n      of bacterial super-infections in patients with COVID-19. Patients with COVID-19 also have a\n      higher risk of dying because of septic shock. Thus, there is an urgent need for treatment\n      that can improve the patient's chance of the shortest hospitalization possible, and treatment\n      that can lower the risk of secondary infection and death.\n\n      This is a randomized, placebo-controlled, double-blinded multi-center trial evaluating the\n      effect of azithromycin and hydroxychloroquine treatment in patients with COVID-19 during\n      hospitalization. The aim of the study is to investigate whether the treatment can shorten\n      hospitalization, reduce the risk of non-invasive ventilation, admittance to Intensive Care\n      Units and death."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 1, 2020"
+            "@type": "Actual",
+            "#text": "April 6, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -45,7 +45,7 @@
             "@type": "Anticipated",
             "#text": "October 31, 2020"
         },
-        "phase": "Phase 4",
+        "phase": "Phase 2",
         "study_type": "Interventional",
         "has_expanded_access": "No",
         "study_design_info": {
@@ -127,7 +127,8 @@
         },
         "condition": [
             "Virus Diseases",
-            "Infection Viral"
+            "Infection Viral",
+            "Corona Virus Infection"
         ],
         "arm_group": [
             {
@@ -181,24 +182,46 @@
             "phone": "004528938168",
             "email": "jens.ulrik.jensen@regionh.dk"
         },
-        "verification_date": "March 2020",
+        "location": {
+            "facility": {
+                "name": "Herlev-Gentofte Hospital",
+                "address": {
+                    "city": "Copenhagen",
+                    "country": "Denmark"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Jens-Ulrik Jensen, MD, PhD"
+            }
+        },
+        "location_countries": {
+            "country": "Denmark"
+        },
+        "verification_date": "April 2020",
         "study_first_submitted": "March 23, 2020",
         "study_first_submitted_qc": "March 24, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 26, 2020"
         },
-        "last_update_submitted": "March 24, 2020",
-        "last_update_submitted_qc": "March 24, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 26, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"
         },
         "condition_browse": {
-            "mesh_term": "Virus Diseases"
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Virus Diseases"
+            ]
         },
         "intervention_browse": {
             "mesh_term": [

@@ -1,0 +1,136 @@
+{
+    "clinical_study": {
+        "@rank": "75",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04339608"
+        },
+        "id_info": {
+            "org_study_id": "Covid-19/MHC/2020",
+            "nct_id": "NCT04339608"
+        },
+        "brief_title": "Max COVID19- Study",
+        "official_title": "A Prospective, Longitudinal, Observational Study of Healthcare Workers and the General Population to Watch for Flu-like Symptoms in Suspicion of COVID 19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Max Healthcare Insititute Limited",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Max Healthcare Insititute Limited",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "In view of the increasing cases of COVID-19 in India and the possibility of the exponential\n      rise of the cases, this study has been designed to collect data of the healthcare workers of\n      Max Hospital and the general population. Our objective is to identify individuals with\n      flu-like symptoms in suspicion of COVID-19 and follow them weekly up to 8 weeks until the\n      pandemic resolves. The data will be collected through an online questionnaire circulated via\n      Emails or WhatsApp."
+        },
+        "detailed_description": {
+            "textblock": "The primary objective of this study is to screen and identify individuals with flu-like\n      symptoms and follow-them up weekly. In the study, baseline data will be collected online and\n      then weekly follow up will be done with the participants for 4 weeks via opted communication\n      method. There will be no physical contact and we are also avoiding the use of papers so as to\n      avoid possible transmission. Participation in this study will be entirely voluntary and the\n      questionnaire will be accessible to the participants only when they mark \"Agree\" on the form.\n\n      The data collection form is available in English and Hindi.\n\n      The study questionnaire includes questions related to general health status, clinical\n      symptoms, Food security, and job security."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 30, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "COVID-19 positive case",
+            "time_frame": "4-8 weeks",
+            "description": "An individual identified with the clinical symptoms when tested positive for COVID-19"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10000"
+        },
+        "condition": "COVID-19",
+        "eligibility": {
+            "study_pop": {
+                "textblock": "The study population will include all the healthcare workers of Max Super Speciality\n        Hospital, New Delhi, India, and all males and females from the general population. One\n        questionnaire will be filled up per household."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Indian males and females currently living in India, OR\n\n          -  All the employees of Max Super Speciality Hospital, New Delhi, India\n\n        Exclusion Criteria:\n\n          -  Anyone who has filled the questionnaire once per household"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Sujeet Jha, MRCP (U.K)",
+            "role": "Principal Investigator",
+            "affiliation": "Max Healthcare"
+        },
+        "overall_contact": {
+            "last_name": "Sujeet Jha, MRCP (U.K)",
+            "phone": "+919910609000",
+            "email": "sujeet.jha@maxhealthcare.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Max Super Speciality Hospital, A Unit of Devki Devi Foundation",
+                "address": {
+                    "city": "New Delhi",
+                    "state": "Delhi",
+                    "zip": "110017",
+                    "country": "India"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Samreen Siddiqui, PhD",
+                "phone": "+919582865898",
+                "email": "samreensiddiqui@maxhealthcare.com"
+            },
+            "investigator": [
+                {
+                    "last_name": "Sujeet Jha, MRCP (U.K)",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Sandeep Budhiraja, MRCP (U.K), MD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "India"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "IPD sharing protocol is undecided at this stage. We may, however, provide the data if requested."
+        }
+    }
+}

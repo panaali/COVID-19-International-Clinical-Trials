@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "369",
+        "@rank": "344",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04336410"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "COVID19-001",
             "nct_id": "NCT04336410"
         },
-        "brief_title": "Safety, Tolerability and Immunogenicity of INO-4800 in Healthy Volunteers",
-        "official_title": "Phase 1 Open-label Study to Evaluate the Safety, Tolerability and Immunogenicity of INO-4800 for a Novel Coronavirus (COVID-19) in Healthy Volunteers",
+        "brief_title": "Safety, Tolerability and Immunogenicity of INO-4800 for COVID-19 in Healthy Volunteers",
+        "official_title": "Phase 1 Open-label Study to Evaluate the Safety, Tolerability and Immunogenicity of INO-4800, a Prophylactic Vaccine Against SARS-CoV-2, Administered Intradermally Followed by Electroporation in Healthy Volunteers",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Inovio Pharmaceuticals",
@@ -32,10 +32,10 @@
         "brief_summary": {
             "textblock": "This is an open-label trial to evaluate the safety, tolerability and immunological profile of\n      INO-4800 administered by intradermal (ID) injection followed by electroporation (EP) using\n      CELLECTRA\u00ae 2000 device in healthy adult volunteers."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 2020"
+            "@type": "Actual",
+            "#text": "April 3, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -144,6 +144,7 @@
                         "country": "United States"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Program Manager Barbara Bradshaw",
                     "email": "clinicaltrialsKC@amrllc.com"
@@ -159,6 +160,7 @@
                         "country": "United States"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Program Manager Eileen Donaghy",
                     "email": "eileen.donaghy2@pennmedicine.upenn.edu"
@@ -175,11 +177,11 @@
             "@type": "Actual",
             "#text": "April 7, 2020"
         },
-        "last_update_submitted": "April 3, 2020",
-        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

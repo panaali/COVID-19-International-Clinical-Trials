@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "44",
+        "@rank": "47",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334382"
         },
@@ -38,10 +38,10 @@
         "brief_summary": {
             "textblock": "This study will compare two drugs (hydroxychloroquine and azithromycin) to see if\n      hydroxychloroquine is better than azithromycin in treating outpatients with suspected or\n      confirmed COVID-19."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 1, 2020"
+            "@type": "Actual",
+            "#text": "April 2, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -151,10 +151,16 @@
                         "country": "United States"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Valerie T Aston, MBA",
                     "phone": "801-507-4606",
                     "email": "Valerie.Aston@imail.org"
+                },
+                "contact_backup": {
+                    "last_name": "Jake Krong",
+                    "phone": "801-507-9333",
+                    "email": "Jake.Krong@imail.org"
                 }
             },
             {
@@ -167,6 +173,7 @@
                         "country": "United States"
                     }
                 },
+                "status": "Not yet recruiting",
                 "contact": {
                     "last_name": "Estelle Harris, MD",
                     "phone": "801-581-7806"
@@ -183,11 +190,11 @@
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

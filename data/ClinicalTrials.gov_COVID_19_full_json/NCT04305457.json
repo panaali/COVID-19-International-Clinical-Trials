@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "237",
+        "@rank": "252",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04305457"
         },
@@ -116,7 +116,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          1. Laboratory confirmed COVID19 infection defined with a positive RT-PCR from any\n             specimen and/or detection of SARS-CoV-2 IgM/IgG antibodies.\n\n          2. Hospital admission with at least one of the following:\n\n               1. fever \u2265 36.6 \u00b0C from axillary site; or \u2265 37.2\u00b0C from oral site; or \u2265 37.6\u00b0C from\n                  tympanic or rectal site.\n\n               2. Respiratory rate \u2265 24 bpm\n\n               3. cough\n\n          3. Spontaneous breathing with or without hypoxia of any degree. Gas exchange and\n             ventilation maybe assisted by any continuous continuous airway pressure (CPAP), or any\n             system of Non Invasive Ventilation (NIV), with Positive End-Expiratory Pressure (PEEP)\n             \u2264 10 cmH2O.\n\n        Exclusion Criteria:\n\n          1. Tracheostomy\n\n          2. Therapy with high flow nasal cannula\n\n          3. Any clinical contraindications, as judged by the attending physician\n\n          4. Hospitalized and confirmed diagnosis of COVID-19 for more than 72 hours"
+                "textblock": "Inclusion Criteria:\n\n          1. Laboratory confirmed COVID19 infection defined with a positive RT-PCR from any\n             specimen and/or detection of SARS-CoV-2 IgM/IgG antibodies.\n\n          2. Hospital admission with at least one of the following:\n\n               1. fever \u2265 36.6 \u00b0C from axillary site; or \u2265 37.2\u00b0C from oral site; or \u2265 37.6\u00b0C from\n                  tympanic or rectal site.\n\n               2. Respiratory rate \u2265 24 bpm\n\n               3. cough\n\n          3. Spontaneous breathing with or without hypoxia of any degree. Gas exchange and\n             ventilation maybe assisted by any continuous continuous airway pressure (CPAP), or any\n             system of Non Invasive Ventilation (NIV), with Positive End-Expiratory Pressure (PEEP)\n             \u2264 10 cmH2O.\n\n        Exclusion Criteria:\n\n          1. Tracheostomy\n\n          2. Therapy with high flow nasal cannula\n\n          3. Any clinical contraindications, as judged by the attending physician\n\n          4. Patients enrolled in another interventional study\n\n          5. Hospitalized and confirmed diagnosis of COVID-19 for more than 72 hours"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -159,11 +159,11 @@
             "@type": "Actual",
             "#text": "March 12, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

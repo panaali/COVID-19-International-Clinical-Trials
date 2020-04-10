@@ -1,0 +1,397 @@
+{
+    "clinical_study": {
+        "@rank": "167",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04339712"
+        },
+        "id_info": {
+            "org_study_id": "ESCAPE",
+            "secondary_id": "2020-001039-29",
+            "nct_id": "NCT04339712"
+        },
+        "brief_title": "Personalised Immunotherapy for SARS-CoV-2 (COVID-19) Associated With Organ Dysfunction",
+        "acronym": "ESCAPE",
+        "official_title": "Efficiency in Management of Organ Dysfunction Associated With Infection by the Novel SARS-CoV-2 Virus (COVID-19) Through a Personalized Immunotherapy Approach: the ESCAPE Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hellenic Institute for the Study of Sepsis",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Hellenic Institute for the Study of Sepsis",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Our aim is to conduct one trial of personalized immunotherapy in patients with SARS-CoV-2\n      (COVID-19) associated with organ dysfunction and with laboratory findings of macrophage\n      activation syndrome or immune dysregulation. These patients will be selected by the use of a\n      panel of biomarkers and laboratory findings and they will be allocated to immunotherapy\n      treatment according to their needs."
+        },
+        "detailed_description": {
+            "textblock": "Humanity is experiencing since November 2019 a new pandemic by the novel SARS Coronavirus-19\n      (SARS-CoV-2). As of March 16 2020 170,191 documented case were reported worldwide of which\n      6,526 died1. The analysis of the clinical characteristics of these patients showed that among\n      those who were critically ill with acute respiratory failure the risk of death was as high as\n      60%2. Main clinical feature is the presence of comorbidities and age more than 60 years\n      whereas main laboratory findings are leukopenia and lymphopenia with hepatic dysfunction and\n      increase of D-dimers3,4. It is also reported that these patients suffer from intense\n      pro-inflammation where hyper-cytokinemia predominates5,6.\n\n      The above characteristics lead to consider two main mechanisms of pathogenesis of this\n      critical condition: macrophage activation syndrome (MAS) and immune dysregulation. Early and\n      correct understanding of the mechanism and management are of prime importance. This can be\n      achieved only through a therapeutic protocol where the early recognition of the immune state\n      can be done with the use of biomarkers and with the delivery of the precise treatment aiming\n      to the correction of the immune dysregulation.\n\n      Data of the Hellenic Sepsis Study Group indicate that MAS can be diagnosed with reliability\n      using serum ferritin7. Concentrations greater than 4,420ng/ml possess diagnostic specificity\n      97.3% and negative predictive value 98%. According to these data, the risk of developing MAS\n      is greater among patients with comorbidities like type 2 diabetes mellitus and heart failure\n      who are prone to hyper-production of interleukin (IL)-1\u03b2 by tissue macrophages8. A recent\n      retrospective analysis of patients with severe sepsis and MAS showed that the administration\n      of anakinra decreased 28-day mortality by 30%9. Anakinra is the recombinant antagonist of\n      human IL-1\u03b2 receptor. IL-1\u03b2 over-production is the hallmark of the pathogenesis of MAS.\n      Results of a phase III study in 906 patients showed that anakinra was a very safe drug: there\n      was neither excess mortality nor increased susceptibility to secondary infections9. Since\n      November 2017 the randomized clinical trial entitled \"A trial of validation and restoration\n      of immune dysfunction in severe infections and sepsis, PROVIDE\" (EudraCT number:\n      2017-002171-26, approval 78/17 by the National Ethics Committee, approval IS 75/17 by the\n      National Organization for Medicines, ClinicalTrials.gov NCT03332225). In this study patients\n      with sepsis and laboratory diagnosis of MAS are randomized to treatment with placebo or\n      anakinra for seven days. Enrolment was completed in December 2019 and no drug related adverse\n      events have been reported.\n\n      Recent unpublished data of the Hellenic Sepsis Study Group demonstrate that patients with\n      immune dysregulation have profound lymphopenia associated with elevated IL-6. This is in\n      accordance with evidence of the H1N1 pandemic where patients with pneumonia had substantial\n      lymphopenia and increased \u03a4 regulatory lymphocytes (Treg). This increase of \u03a4reg was\n      prominent among patients with comorbidities like diabetes mellitus, chronic heart failure and\n      chronic obstructive pulmonary disease10,11. The IL-6 blocker tocilizumab is a promising\n      candidate for the reversal of this immune dysregulation.\n\n      ESCAPE is an address to the personalized management of life-threatening organ dysfunction by\n      SARS-CoV-2. More precisely, patients infected by SARS-CoV-2 associated with MAS and immune\n      dysregulation will be administered treatment with anakinra and tocilizumab respectively."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2022"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Factorial Assignment",
+            "intervention_model_description": "Treatment with tocilizumab or anakinra",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Decrease of baseline total sequential organ failure assessment (SOFA) score",
+                "time_frame": "Visit study day 8",
+                "description": "At least 25% decrease between baseline SOFA score and measured SOFA score at Study Day 8"
+            },
+            {
+                "measure": "Improvement of lung involvement measurements",
+                "time_frame": "Visit study day 8",
+                "description": "Resolution of all criteria of lower respiratory tract involvemed that led to study inclusion (except findings from imaging studies) at Study Day 8"
+            },
+            {
+                "measure": "Increase of pO2/FiO2 ratio",
+                "time_frame": "Visit Study Day 8",
+                "description": "At least 50% increase of pO2/FiO2 ratio between baseline and study visit Day 8"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Comparison of change of baseline total sequential organ failure assessment (SOFA) score in enrolled subjects towards historical comparators",
+                "time_frame": "Screening, Day 8",
+                "description": "Change of total sequential organ failure assessment (SOFA) score between baseline and study visit day 8 will be compared with historical comparators from Hellenic Sepsis Study Group Database"
+            },
+            {
+                "measure": "Comparison of change of lung involvement measurements in enrolled subjects towards historical comparators",
+                "time_frame": "Screening, Day 8",
+                "description": "Change of lung involvement measurements between baseline and study visit day 8 will be compared with historical comparators from Hellenic Sepsis Study Group Database"
+            },
+            {
+                "measure": "Comparison of pO2/FiO2 ratio in enrolled subjects towards historical comparators",
+                "time_frame": "Screening, Day 8",
+                "description": "Comparison of increase in pO2/FiO2 ratio towards historical comparators from Hellenic Sepsis Study Group Database"
+            },
+            {
+                "measure": "Change of sequential organ failure assessment (SOFA) score",
+                "time_frame": "Day 28",
+                "description": "Change of SOFA score on day 28"
+            },
+            {
+                "measure": "Rate of Mortality",
+                "time_frame": "Day 28",
+                "description": "Mortality on day 28"
+            },
+            {
+                "measure": "Rate of Mortality",
+                "time_frame": "Day 90",
+                "description": "Mortality on day 90"
+            },
+            {
+                "measure": "Cytokine stimulation",
+                "time_frame": "Screening, Day 4",
+                "description": "Cytokine stimulation from peripheral blood mononuclear cells will be compared between days 0 and 4"
+            },
+            {
+                "measure": "Gene expression",
+                "time_frame": "Screening, Day 4",
+                "description": "Gene expression of peripheral blood mononuclear cells will be compared between days 0 and 4"
+            },
+            {
+                "measure": "Serum/plasma proteins",
+                "time_frame": "Screening, Day 4",
+                "description": "Change of serum/plasma proteins between days 0 and 4"
+            },
+            {
+                "measure": "Classification of the immune function",
+                "time_frame": "Screening",
+                "description": "Classification of immune function of screened patients who are not enrolled in study drug since they are not characterized with MAS or immune dysregulation"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "20"
+        },
+        "condition": [
+            "COVID-19",
+            "Virus Diseases",
+            "Macrophage Activation Syndrome",
+            "Corona Virus Infection"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "anakinra",
+                "arm_group_type": "Experimental",
+                "description": "In case of diagnosis of MAS, IV anakinra 200mg three times daily (every eight hours) for 7 days. Patients who will receive anakinra treatment and who suffer from kidney dysfunction will receive 50% of the dose i.e. 100mg anakinra three times daily for 15 days"
+            },
+            {
+                "arm_group_label": "tocilizumab",
+                "arm_group_type": "Experimental",
+                "description": "In case of diagnosis of immune dysregulation IV tocilizumab 8mg/kg body weight once up to a maximum of 800mg. These patients will receive anakinra at the above dose in case they meet one of the following contra-indications for tocilizumab:\nabsolute neutrophil count less than 2,500/mm3;\nabsolute platelet count less than 100,000/mm3; and\nAST or ALT more than 1.5 x the upper normal limit"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Anakinra",
+                "description": "In case of diagnosis of MAS treatment with anakinra",
+                "arm_group_label": "anakinra",
+                "other_name": "kineret"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Tocilizumab",
+                "description": "In case of diagnosis of immune dysregulation treatment with tocilizumab",
+                "arm_group_label": "tocilizumab",
+                "other_name": "RoActemra"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age equal to or above 18 years\n\n          -  Male or female gender\n\n          -  In case of women, unwillingness to remain pregnant during the study period.\n\n          -  Written informed consent provided by the patient or by one first-degree\n             relative/spouse in case of patients unable to consent\n\n          -  Confirmed infection by SARS-CoV-2 virus using molecular techniques as defined by the\n             World Health Organization11\n\n          -  Organ dysfunction defined as the presence of at least one of the following conditions:\n\n               -  Total SOFA score greater than or equal to 2;\n\n               -  Involvement of the lower respiratory tract\n\n          -  Laboratory documentation of MAS or immune dysregulation. MAS is documented by the\n             findings of any serum ferritin greater than 4,420ng/ml. immune dysregulation is\n             documented by the combination of two findings: a) serum ferritin equal to or lower\n             than 4,420ng/ml; and b) less than 5,000 receptors of the membrane molecule of HLA-DR\n             on the cell membrane of blood CD14-monocytes or less than 30 MFI of HLA-DR on the cell\n             membrane of blood CD14-monocytes as counted by flow cytometry\n\n        Exclusion Criteria:\n\n          -  Age below 18 years\n\n          -  Denial for written informed consent\n\n          -  Any stage IV malignancy\n\n          -  Any do not resuscitate decision\n\n          -  Active tuberculosis (TB) as defined by the co-administration of drugs for the\n             treatment of TB\n\n          -  Infection by the human immunodeficiency virus (HIV)\n\n          -  Any primary immunodeficiency\n\n          -  Oral or IV intake of corticosteroids at a daily dose equal or greater than 0.4 mg\n             prednisone or greater the last 15 days.\n\n          -  Any anti-cytokine biological treatment the last one month\n\n          -  Medical history of systemic lupus erythematosus\n\n          -  Medical history of multiple sclerosis or any other demyelinating disorder.\n\n          -  Pregnancy or lactation. Women of child-bearing potential will be screened by a urine\n             pregnancy test before inclusion in the study"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Apostolos Armaganidis, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "National Kapodistrian University of Athens, Medical School"
+        },
+        "overall_contact": {
+            "last_name": "Evangelos Giamarellos-Bourboulis, MD, PhD",
+            "phone": "+302107480662",
+            "email": "egiamarel@med.uoa.gr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Antigoni Kotsaki, MD, PhD",
+            "phone": "+306946637164",
+            "email": "antigonebut@yahoo.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "2nd Department of Critical Care Medicine, ATTIKON University Hospital",
+                    "address": {
+                        "city": "Athens",
+                        "state": "Haidari",
+                        "zip": "12462",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, Ioannina University Hospital",
+                    "address": {
+                        "city": "Io\u00e1nnina",
+                        "state": "Ioannina",
+                        "zip": "45500",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Department of Internal Medicine, Patras University Hospital",
+                    "address": {
+                        "city": "Patras",
+                        "state": "Rion",
+                        "zip": "26504",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Department of Internal Medicine, I PAMMAKARISTOS Hospital",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11144",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, General Hospital of Athens KORGIALENIO-BENAKIO E.E.S.",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11526",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "1st Department of Pulmonary Medicine and Intensive Care Unit",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11527",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, General Hospital of Athens IPPOKRATEIO",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11527",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "4th Department of Internal Medicine, Attikon University Hospital",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "12462",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, \"Latsio\", Thriasio Elefsis General Hospital",
+                    "address": {
+                        "city": "Elefs\u00edna",
+                        "zip": "19600",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, \"Koutlimbaneio & Triantafylleio\" Larissa General Hospital",
+                    "address": {
+                        "city": "Larissa",
+                        "zip": "41221",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Department of Internal Medicine, Larissa University Hospital",
+                    "address": {
+                        "city": "Larissa",
+                        "zip": "41334",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, AGIOS DIMITRIOS General Hospital of Thessaloniki",
+                    "address": {
+                        "city": "Thessaloniki",
+                        "zip": "54 634",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, G. GENNIMATAS General Hospital of Thessaloniki",
+                    "address": {
+                        "city": "Thessaloniki",
+                        "zip": "546 35",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, Theageneio Oncological Hospital of Thessaloniki",
+                    "address": {
+                        "city": "Thessaloniki",
+                        "zip": "546 39",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Intensive Care Unit, General Hospital of Thessaloniki IPPOKRATEIO",
+                    "address": {
+                        "city": "Thessaloniki",
+                        "zip": "546 42",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Department of Anesthesiology and Intensive Care Medicine, University General Hospital of Thessaloniki AHEPA",
+                    "address": {
+                        "city": "Thessaloniki",
+                        "zip": "54636",
+                        "country": "Greece"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Greece"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-CoV-2",
+            "MAS",
+            "Anakinra",
+            "Tocilizumab"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Macrophage Activation Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Interleukin 1 Receptor Antagonist Protein"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

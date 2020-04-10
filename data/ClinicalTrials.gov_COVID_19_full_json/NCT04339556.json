@@ -1,0 +1,129 @@
+{
+    "clinical_study": {
+        "@rank": "172",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04339556"
+        },
+        "id_info": {
+            "org_study_id": "zinccovid19",
+            "nct_id": "NCT04339556"
+        },
+        "brief_title": "Evaluation of Serum Zinc Levels Response to Treatment of Covid 19 Positive Patients",
+        "official_title": "Zinc Levels in Covid-19 Positive Patients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Kanuni Sultan Suleyman Training and Research Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Kanuni Sultan Suleyman Training and Research Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Evaluation of serum zinc levels response to treatment of covid 19 positive patients"
+        },
+        "detailed_description": {
+            "textblock": "Since covid 19 and zinc act on the same receptor in the body, the effect of serum levels of\n      patients on the course of the disease and response to treatment is examined."
+        },
+        "overall_status": "Active, not recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 20, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 3, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2020"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "45 Days",
+        "primary_outcome": {
+            "measure": "The effect of serum zinc levels of patients on the course of the disease and response to treatment is examined.",
+            "time_frame": "45 days",
+            "description": "serum zinc levels (mcg/dL) will be measured in peripheral blood."
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "25"
+        },
+        "condition": [
+            "Covid19",
+            "Zinc Deficiency"
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Zinc levels",
+            "description": "Since covid 19 and zinc act on the same receptor in the body, the effect of serum levels of patients on the course of the disease and response to treatment is examined."
+        },
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "serum zinc level will be measured in peripheral blood."
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Serum zinc levels of women between 18 and 45 years old who are covid positive and\n        hospitalized in our hospital will be examined."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  covid positive women\n\n          -  not use zinc pills\n\n        Exclusion Criteria:\n\n          -  covid negative women\n\n          -  have zinc metabolism disease"
+            },
+            "gender": "Female",
+            "gender_based": "Yes",
+            "minimum_age": "18 Years",
+            "maximum_age": "45 Years",
+            "healthy_volunteers": "No"
+        },
+        "location": {
+            "facility": {
+                "name": "Pinar Yalcin Bahat",
+                "address": {
+                    "city": "Istanbul",
+                    "state": "\u0130\u0307stanbul",
+                    "zip": "34000",
+                    "country": "Turkey"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Turkey"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Kanuni Sultan Suleyman Training and Research Hospital",
+            "investigator_full_name": "P\u0131nar Yalcin bahat",
+            "investigator_title": "Principal Investigator"
+        },
+        "intervention_browse": {
+            "mesh_term": "Zinc"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes"
+        }
+    }
+}

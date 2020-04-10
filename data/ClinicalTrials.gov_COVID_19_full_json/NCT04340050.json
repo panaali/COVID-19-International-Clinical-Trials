@@ -1,0 +1,194 @@
+{
+    "clinical_study": {
+        "@rank": "194",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340050"
+        },
+        "id_info": {
+            "org_study_id": "IRB20-0523",
+            "nct_id": "NCT04340050"
+        },
+        "brief_title": "COVID-19 Convalescent Plasma",
+        "official_title": "Pilot Study for Use of Convalescent Plasma Collected From Patients Recovered From COVID-19 Disease for Transfusion as an Empiric Treatment During the 2020 Pandemic at the University of Chicago Medical Center",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Chicago",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Chicago",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this study is to assess the feasibility of delivering anti-SARS-CoV-2\n      convalescent plasma to hospitalized patients with severe or life-threatening COVID-19.\n\n      Beyond supportive care, there are currently no proven treatment options for coronavirus\n      disease (COVID-19), the infection caused by Severe Acute Respiratory Syndrome Coronavirus 2\n      (SARS-CoV-2). Human convalescent plasma is an option for treatment of COVID-19 and could be\n      rapidly available when there are sufficient numbers of people who have recovered and can\n      donate high titer neutralizing immunoglobulin-containing plasma.\n\n      Hypothesis: Collecting and administering convalescent plasma requires a level of logistical\n      coordination that is not available in all centers.\n\n      Objective: To establish feasibility for a hospital-based integrated system to collect and\n      administer convalescent plasma to patients with severe or life-threatening COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "phase": "Early Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Feasibility of performing study pathway consisting of consenting convalescent donors, harvesting convalescent plasma, application for FDA eIND and administering convalescent plasma to the patients",
+                "time_frame": "28 days after plasma administration",
+                "description": "Feasibility will be measured by (number of donors from whom convalescent plasma is harvested/number of interested donors) and number of patients who receive convalescent plasma at day 28."
+            },
+            {
+                "measure": "Type of respiratory support",
+                "time_frame": "28 days after plasma administration",
+                "description": "Levels of respiratory support will be graded (e.g. room air, high flow oxygen, intubation) to determine the change in type of respiratory support at 28 days."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Cardiac arrest",
+                "time_frame": "28 days after plasma administration",
+                "description": "This will be a continuous outcome defined by the amount of time between plasma administration and cardiac arrest."
+            },
+            {
+                "measure": "Transfer to ICU",
+                "time_frame": "28 days",
+                "description": "This will be a continuous outcome defined by the amount of time between plasma administration and transfer to ICU."
+            },
+            {
+                "measure": "ICU mortality",
+                "time_frame": "28 days",
+                "description": "This will be a binary outcome defined by the amount of time between plasma administration and mortality in the ICU."
+            },
+            {
+                "measure": "ICU length of stay",
+                "time_frame": "28 days",
+                "description": "This will be a continuous outcome defined by the amount of time between plasma administration and discharge from ICU. This will be treated as a time-to-event."
+            },
+            {
+                "measure": "Hospital mortality",
+                "time_frame": "28 days",
+                "description": "This will be a binary outcome defined by the amount of time between plasma administration and in-hospital mortality."
+            },
+            {
+                "measure": "Hospital length of stay",
+                "time_frame": "28 days",
+                "description": "This will be a continuous outcome defined by the amount of time between plasma administration and discharge from hospital."
+            },
+            {
+                "measure": "Ventilator-free days",
+                "time_frame": "28 days",
+                "description": "This will be a continuous outcome defined by the amount of time between plasma administration and the transition from mechanical ventilation to non-invasive respiratory support."
+            },
+            {
+                "measure": "Overall survival (28-day mortality)",
+                "time_frame": "28 days",
+                "description": "28-Day Overall Survival is defined as the status of the patient at the end of 28 days, beginning from the time of plasma administration."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10"
+        },
+        "condition": "Coronavirus",
+        "arm_group": {
+            "arm_group_label": "Treatment with anti-SARS-CoV-2 convalescent plasma",
+            "arm_group_type": "Experimental",
+            "description": "Infusion of one unit of anti-SARS-CoV-2 convalescent plasma ~300 mL over 4 hours"
+        },
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "anti-SARS-CoV-2 convalescent plasma",
+            "description": "Infusion of one unit of anti-SARS-CoV-2 convalescent plasma ~300 mL over 4 hours",
+            "arm_group_label": "Treatment with anti-SARS-CoV-2 convalescent plasma"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Donor Inclusion Criteria:\n\n          -  Age greater or equal to 18\n\n          -  Able to donate blood per blood bank standard guidelines\n\n          -  Prior diagnosis of COVID-19 documented by a laboratory test (confirmed)\n\n          -  Complete resolution of symptoms at least 28 days prior to donation\n\n          -  Female donors who have never been pregnant, previously pregnant female donors negative\n             for HLA antibodies (HLA screening), or male donors\n\n        Donor Exclusion Criteria:\n\n          -  Does not provide consent\n\n          -  Does not meet standard blood bank donation guidelines\n\n          -  Unsuccessful blood donation\n\n        Recipient Inclusion Criteria:\n\n          -  Patients must be 18 years of age or older\n\n          -  Must have laboratory-confirmed COVID-19\n\n          -  Must have severe or immediately life-threatening COVID-19\n\n               -  Severe defined as dyspnea, respiratory frequency \u2265 30/min, blood oxygen\n                  saturation \u2264 93%, partial pressure of arterial oxygen to fraction of inspired\n                  oxygen ratio < 300, and/or lung infiltrates > 50% within 24 to 48 hours\n\n               -  Life-threatening defined as respiratory failure, septic shock, and/or multiple\n                  organ dysfunction or failure. Lower priority should be given to patients with\n                  septic shock or multiple organ dysfunction or failure since their disease may\n                  have progressed to a point where they are not able to benefit from convalescent\n                  plasma therapy.\n\n          -  Must be less than 21 days from the start of illness\n\n          -  Patient is willing and able to provide written informed consent and comply with all\n             protocol requirements. If the patient is not able to consent, we will obtain consent\n             from the power of attorney or a health care proxy for the patient as determined by the\n             Illinois Healthcare Surrogate Act\n\n          -  Patient, power of attorney or health care proxy agrees to storage of specimens for\n             future testing.\n\n          -  Of note, eIND application for each recipient subject will need to be approved before\n             administration of convalescent plasma\n\n        Recipient Exclusion Criteria:\n\n          -  Female subjects with positive pregnancy test, breastfeeding, or planning to become\n             pregnant/breastfeed during the study period\n\n          -  Receipt of pooled immunoglobulin in past 30 days\n\n          -  Contraindication to transfusion or history of prior reactions to transfusion blood\n             products\n\n          -  Patients currently enrolled in other drug trials that preclude investigational\n             treatment with anti-SARS-CoV-2 convalescent plasma"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Maria Lucia Madariaga, MD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Chicago Biological Sciences Division Department of Surgery"
+        },
+        "overall_contact": {
+            "last_name": "Maria Lucia Madariaga, MD",
+            "phone": "773-270-2004",
+            "email": "mlmadariaga@bsd.uchicago.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Chicago Medicine",
+                "address": {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "zip": "60637",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "Maria Lucia Madariaga"
+            },
+            "investigator": {
+                "last_name": "Maria Lucia Madariaga, MD",
+                "role": "Principal Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "COVID19",
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "We will share individual participant data that is de-identified available to all qualified investigators",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Informed Consent Form (ICF)",
+                "Clinical Study Report (CSR)"
+            ],
+            "ipd_time_frame": "Upon publication of the major manuscript to be generated from this study. Data will be deposited in an appropriate major database"
+        }
+    }
+}

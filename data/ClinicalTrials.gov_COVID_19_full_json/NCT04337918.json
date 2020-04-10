@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "298",
+        "@rank": "319",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04337918"
         },
@@ -60,41 +60,41 @@
         },
         "primary_outcome": [
             {
-                "measure": "Prevention Primary Endpoint",
+                "measure": "Prevention Study: Measure the effect of NORS on the prevention of COVID-19 infection among health care professionals at risk of exposure to COVID-19",
                 "time_frame": "21 days",
-                "description": "To assess the efficacy of NORS in prevention of COVID-19 infection among health care professionals at risk of exposure to COVID-19. Proportion of subjects with either positive COVID-19 or presentation of clinical symptoms defined as fatigue with either fever >37.2 (oral) and/or a persistent cough in NORS vs control group by 21 days following randomization."
+                "description": "Measure the proportion of subjects with either swab positive COVID-19 or presentation of clinical symptoms as measured by fatigue with either fever >37.2 (oral)and/or a persistent cough."
             },
             {
-                "measure": "Treatment Sub Study Primary Endpoint",
+                "measure": "Treatment Sub Study: Measure the efficacy of NORS at reducing the progression of COVID- 19",
                 "time_frame": "28 days",
-                "description": "To assess the efficacy of NORS in prevention of progression of COVID- 19. Proportion of participants requiring respiratory support defined as oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation by 28 days following enrollment. Proportion of participants requiring hospitalization for COVID-19/flu-like symptoms by 28 days following enrollment."
+                "description": "Measure the proportion of participants requiring requiring hospitalization for COVID-19/flu-like symptoms and/or needing oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation following enrollment."
             }
         ],
         "secondary_outcome": [
             {
-                "measure": "Prevention Secondary Endpoint",
+                "measure": "Prevention Study: Measure the effect of NORS on the prevention of progression of COVID- 19",
                 "time_frame": "28 days",
-                "description": "To assess the efficacy of NORS in prevention of progression of COVID- 19. Proportion of participants requiring respiratory support defined as oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation in NORS vs control group by 28 days following randomization. Proportion of participants requiring hospitalization for COVID-19/flu-like symptoms in NORS vs control group by 28 days following randomization."
+                "description": "Measure the proportion of participants requiring requiring hospitalization for COVID-19/flu-like symptoms and/or needing oxygen therapy, BIPAP/CPAP, intubation and mechanical ventilation following enrollment."
             },
             {
-                "measure": "Prevention Secondary Endpoint",
+                "measure": "Prevention Study: Measure the tolerability of NORS treatments",
                 "time_frame": "28 days",
-                "description": "To assess the tolerability of the NORS treatments. Adverse events, pain, discomfort or discontinuations of treatment."
+                "description": "Measure the tolerability of the NORS treatments as determined by number of adverse events, pain, discomfort or discontinuations of treatment."
             },
             {
-                "measure": "Treatment Sub Study Secondary Endpoint",
+                "measure": "Treatment Sub Study: Measure the virucidal effect of NORS Treatments",
                 "time_frame": "28 days",
-                "description": "To assess the virucidal effect of NORS in participants with COVID-19. Median number of days to negative conversion of SARS-CoV-2 RT-PCR from an oropharyngeal or a nasopharyngeal swab with follow-up through 28 days from enrollment."
+                "description": "Measure the median number of days to negative conversion of SARS-CoV-2 RT-PCR from a nasopharyngeal swabs."
             },
             {
-                "measure": "Treatment Sub Study Secondary Endpoint",
+                "measure": "Treatment Sub Study: Determine effect of NORS on the speed of clinical recovery",
                 "time_frame": "28 days",
-                "description": "To assess NORS efficacy on time to clinical recovery in participants with COVID-19. Median number of days from enrollment to clinical recovery with follow-up through 28 days. Clinical recovery defined as discharge (if admitted), or to normalization of fever (defined as <36.6\u00b0C from axillary site, or < 37.2\u00b0C from oral site or < 37.8\u00b0C from rectal or tympanic site), respiratory rate (< 24 bpm while breathing room air)."
+                "description": "Determine the time to clinical recovery in participants with COVID-19 by measuring the median number of days from enrollment to discharge (if admitted), or to normalization of fever (defined as <36.6\u00b0C from axillary site, or < 37.2\u00b0C from oral site or < 37.8\u00b0C from rectal or tympanic site), respiratory rate (< 24 bpm while breathing room air)."
             },
             {
-                "measure": "Treatment Sub Study Secondary Endpoint",
+                "measure": "Treatment Sub Study: Determine the reduction in clinical symptoms",
                 "time_frame": "28 days",
-                "description": "To assess reduction of clinical symptoms in participants with COVID- 19. Change in Modified Jackson Cold Score Diary Score."
+                "description": "Measure the reduction of clinical symptoms in participants with COVID- 19 by the magnitude of the change in Modified Jackson Cold Score Diary Score."
             }
         ],
         "number_of_arms": "3",
@@ -193,18 +193,18 @@
                 "PMID": "25975664"
             }
         ],
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "April 6, 2020",
         "study_first_submitted_qc": "April 6, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 8, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 8, 2020"
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

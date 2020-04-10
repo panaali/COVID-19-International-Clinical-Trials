@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "58",
+        "@rank": "61",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04292899"
         },
@@ -290,6 +290,18 @@
             },
             {
                 "facility": {
+                    "name": "The Center for Cancer Prevention and Treatment at St. Joseph Hospital of Orange",
+                    "address": {
+                        "city": "Orange",
+                        "state": "California",
+                        "zip": "92868",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Kaiser Permanente Los Angeles Medical Center,13651 Willard Street",
                     "address": {
                         "city": "Panorama City",
@@ -398,6 +410,42 @@
             },
             {
                 "facility": {
+                    "name": "SCL Health St. Joseph Hospital, 1375 East 19th Ave",
+                    "address": {
+                        "city": "Denver",
+                        "state": "Colorado",
+                        "zip": "80208",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "SCL Health St. Joseph Hospital",
+                    "address": {
+                        "city": "Denver",
+                        "state": "Colorado",
+                        "zip": "80218",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "SCL Health St. Joseph Hospital, 200 Exempla Circle.",
+                    "address": {
+                        "city": "Lafayette",
+                        "state": "Colorado",
+                        "zip": "80026",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Yale-New Haven Hospital",
                     "address": {
                         "city": "New Haven",
@@ -439,6 +487,18 @@
                         "city": "Chicago",
                         "state": "Illinois",
                         "zip": "60637",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "University of Iowa Hospitals & Clinics",
+                    "address": {
+                        "city": "Iowa City",
+                        "state": "Iowa",
+                        "zip": "52242",
                         "country": "United States"
                     }
                 },
@@ -842,6 +902,18 @@
             },
             {
                 "facility": {
+                    "name": "The Liver Institute of Methodist Dallas Medical Center",
+                    "address": {
+                        "city": "Dallas",
+                        "state": "Texas",
+                        "zip": "75203",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "UT Southwestern Medical Center Amelia Court, HIV Research Clinic",
                     "address": {
                         "city": "Dallas",
@@ -919,6 +991,30 @@
                         "city": "Temple",
                         "state": "Texas",
                         "zip": "76508",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "University of Utah Health",
+                    "address": {
+                        "city": "Salt Lake City",
+                        "state": "Utah",
+                        "zip": "84132",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Maine Medical Center",
+                    "address": {
+                        "city": "Arlington",
+                        "state": "Virginia",
+                        "zip": "22205",
                         "country": "United States"
                     }
                 },
@@ -1034,6 +1130,17 @@
             },
             {
                 "facility": {
+                    "name": "CHU de BORDEAUX",
+                    "address": {
+                        "city": "Bordeaux",
+                        "zip": "33076",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Chu Montpellier",
                     "address": {
                         "city": "Montpelier Cedex 5",
@@ -1045,10 +1152,66 @@
             },
             {
                 "facility": {
+                    "name": "CHU de Nantes",
+                    "address": {
+                        "city": "Nantes",
+                        "zip": "44035",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Universitatsklinikum Dusseldorf, Klinik fur Gastroenterologie, Hepatologie und Infektiologie",
+                    "address": {
+                        "city": "D\u00fcsseldorf",
+                        "state": "WA",
+                        "zip": "40225",
+                        "country": "Germany"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Universitatsklinikum Hamburg-Eppendorf",
+                    "address": {
+                        "city": "Hamburg",
+                        "zip": "20246",
+                        "country": "Germany"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Universit\u00e4tsklinikum Schleswig-Holstein Campus Kiel",
+                    "address": {
+                        "city": "Kiel",
+                        "zip": "24105",
+                        "country": "Germany"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Klinikum rechts der Isar der TU Munchen, Klinik und Poliklinik Innere Medizin 2",
                     "address": {
                         "city": "Munich",
                         "zip": "81675",
+                        "country": "Germany"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Klinik f\u00fcr H\u00e4matologie, Onkologie, Immunologie",
+                    "address": {
+                        "city": "M\u00fcnchen",
+                        "zip": "80804",
                         "country": "Germany"
                     }
                 },
@@ -1108,10 +1271,32 @@
             },
             {
                 "facility": {
+                    "name": "UOC Malattie Infettive, IRCCS Ospedale San Raffaele",
+                    "address": {
+                        "city": "Milano",
+                        "zip": "20127",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Dipartimento di Malattie Infettive, Malattie Infettive I- Malattie Infettive III, AssT Fatebenefratelli Sacco Ospedale Luigi Sacco",
                     "address": {
                         "city": "Milano",
                         "zip": "20157",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "UO Malattie Infettive, Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico",
+                    "address": {
+                        "city": "Milan",
+                        "zip": "20122",
                         "country": "Italy"
                     }
                 },
@@ -1155,6 +1340,17 @@
                     "name": "Ospedale Guglielmo da Saliceto AUSL di Piacenza",
                     "address": {
                         "city": "Piacenza",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "UOC Malattie Infettive ad Alta Intensita di Cure, Istituto Nazionale Malattie Infettive Lazzaro Spallanzani I.R.C.C.S.",
+                    "address": {
+                        "city": "Roma",
+                        "zip": "00149",
                         "country": "Italy"
                     }
                 },
@@ -1206,6 +1402,17 @@
             },
             {
                 "facility": {
+                    "name": "Erasmus Medical Centre",
+                    "address": {
+                        "city": "Rotterdam",
+                        "zip": "3015 GD",
+                        "country": "Netherlands"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "National University Hospital",
                     "address": {
                         "city": "Singapore",
@@ -1233,6 +1440,18 @@
                         "city": "Singapore",
                         "zip": "308442",
                         "country": "Singapore"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital Principe de Asturias",
+                    "address": {
+                        "city": "Alcal\u00e1 De Henares",
+                        "state": "Madrid",
+                        "zip": "28805",
+                        "country": "Spain"
                     }
                 },
                 "status": "Recruiting"
@@ -1298,6 +1517,17 @@
                     "address": {
                         "city": "Madrid",
                         "zip": "28046",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital Regional Universitario de M\u00e1laga",
+                    "address": {
+                        "city": "M\u00e1laga",
+                        "zip": "29010",
                         "country": "Spain"
                     }
                 },
@@ -1371,6 +1601,39 @@
             },
             {
                 "facility": {
+                    "name": "Hull University Teaching Hospitals NHS Trust",
+                    "address": {
+                        "city": "Hull",
+                        "zip": "HU16 5JQ",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Royal Lancaster Hospital",
+                    "address": {
+                        "city": "Lancaster",
+                        "zip": "LA1 4RP",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Liverpool University Hospital",
+                    "address": {
+                        "city": "Liverpool",
+                        "zip": "L7 8XP",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "King's College Hospital NHS Trust",
                     "address": {
                         "city": "London",
@@ -1382,10 +1645,32 @@
             },
             {
                 "facility": {
+                    "name": "University College London",
+                    "address": {
+                        "city": "London",
+                        "zip": "WC1E 6JF",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Pennine Acute Hospitals NHS Trust",
                     "address": {
                         "city": "Manchester",
                         "zip": "M8 5RB",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Derriford Hospital",
+                    "address": {
+                        "city": "Plymouth",
+                        "zip": "PL6 8BG",
                         "country": "United Kingdom"
                     }
                 },
@@ -1426,11 +1711,11 @@
             "@type": "Actual",
             "#text": "March 3, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 8, 2020"
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

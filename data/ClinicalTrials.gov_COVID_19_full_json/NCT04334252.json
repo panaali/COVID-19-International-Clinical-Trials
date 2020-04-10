@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "132",
+        "@rank": "109",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334252"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "JessaH_COVID19_prescreening",
             "nct_id": "NCT04334252"
         },
-        "brief_title": "Descriptive Study Regarding Pre-operative Screening During COVID 19 Pandemia",
-        "official_title": "Descriptive Study Regarding the Pre-operative Screening Protocol in Times of High SARS CoV-2 Prevalence",
+        "brief_title": "Descriptive Study Regarding Ambulant Screening During COVID-19 Pandemia",
+        "official_title": "Descriptive Study Regarding the Ambulant Screening Protocol for COVID-19 in Times of High SARS CoV-2 Prevalence",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Jessa Hospital",
@@ -25,10 +25,10 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "Descriptive prospective study to investigate the prevalence of COVID 19 at the pre-operative\n      consultation"
+            "textblock": "Descriptive prospective study to investigate the prevalence of COVID 19 during ambulant\n      screening"
         },
         "detailed_description": {
-            "textblock": "The exact prevalence of COVID-19 is unknown. Due to the relatively high number of diagnosed,\n      symptomatic infections despite a strict policy, we expect a high prevalence of COVID 19\n      throughout the entire population. The risk that an asymptomatic carrier transfers the virus\n      to others is very high. This risk is even higher during surgery, where intubation is\n      necessary. Therefore we would like to pre-screen all patients pre-operatively on the presence\n      of COVID 19 before surgery since there is no consensus for screening at the moment. The\n      golden standard is the SARS CoV-2 PCR on the nasopharyngeal sample together with a CT scan of\n      the lungs. On top of this standard of care screening, we will perform a questionnaire at the\n      pre-operative visit which evaluates the possible occurence of certain symptoms in the last 2\n      weeks. These symptoms are fever, anorexia, cough, diarrhea, sneezing, vomiting, dyspnea,\n      headache, rhinorrhea, loss of smell, muscle pain, sputum, sore throat and fatigue. Patients\n      were also asked if one of their housemates are affected by these symptoms. Furthermore, 2\n      weeks after surgery, patient will be contacted to phone in order to fill the same\n      questionnaire."
+            "textblock": "The exact prevalence of COVID-19 is unknown. Due to the relatively high number of diagnosed,\n      symptomatic infections despite a strict policy, we expect a high prevalence of COVID 19\n      throughout the entire population. The risk that an asymptomatic carrier who is admitted to\n      the hospital for a (semi)urgent surgery, treatment of investigation transfers the virus to\n      the hospital staff is very high, and vice versa. This risk is even higher during surgery,\n      where intubation is necessary. Therefore we would like to pre-screen all patients ambulantly\n      on the presence of COVID 19 since there is no consensus for screening at the moment. The\n      golden standard is the SARS CoV-2 PCR on the nasopharyngeal sample together with a CT scan of\n      the lungs. On top of this standard of care screening, we will perform a questionnaire at the\n      pre-operative visit which evaluates the possible occurence of certain symptoms in the last 2\n      weeks. These symptoms are fever, anorexia, cough, diarrhea, sneezing, vomiting, dyspnea,\n      headache, rhinorrhea, loss of smell, muscle pain, sputum, sore throat and fatigue. Patients\n      were also asked if one of their housemates are affected by these symptoms. Furthermore, 2\n      weeks after surgery, patient will be contacted to phone in order to fill the same\n      questionnaire."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
@@ -52,34 +52,34 @@
         "primary_outcome": [
             {
                 "measure": "Prevalence of symptoms",
-                "time_frame": "at the pre-operative consultation",
+                "time_frame": "at the ambulant screening",
                 "description": "Prevalence of fever, cough, anorexia, fatigue, diarrhea, vomiting, dyspnee, sore throat and sputum"
             },
             {
                 "measure": "Prevalence of positive Sars CoV-2 PCR",
-                "time_frame": "at the pre-operative consultation",
-                "description": "Prevalence of positive COVID 19 tests in patients planned for surgery"
+                "time_frame": "at the ambulant screening",
+                "description": "Prevalence of positive COVID 19 tests in patients planned for surgery, treatment or investigation in the hospital"
             },
             {
                 "measure": "Prevalence of positive radiological findings",
-                "time_frame": "at the pre-operative consultation",
-                "description": "Prevalence of positive radiological findings in CT scans of the lungs of patients planned for surgery"
+                "time_frame": "at the ambulant screening",
+                "description": "Prevalence of positive radiological findings in CT scans of the lungs of planned for surgery, treatment or investigation in the hospital"
             }
         ],
         "secondary_outcome": [
             {
                 "measure": "Prediction of symptoms",
-                "time_frame": "2 weeks after surgery",
+                "time_frame": "2 weeks after surgery or treatment",
                 "description": "Prediction of symptoms of COVID 19, based on evaluated baseline questionnaire"
             },
             {
                 "measure": "Prediction of symptoms",
-                "time_frame": "2 weeks after surgery",
+                "time_frame": "2 weeks after surgery or treatment",
                 "description": "Prediction of symptoms of COVID 19, based on radiological findings of CT scans"
             },
             {
                 "measure": "Prediction of symptoms",
-                "time_frame": "2 weeks after surgery",
+                "time_frame": "2 weeks after surgery or treatment",
                 "description": "Prediction of symptoms of COVID 19, based on COVID 19 PCR results"
             }
         ],
@@ -95,11 +95,11 @@
         },
         "eligibility": {
             "study_pop": {
-                "textblock": "All adult patients scheduled for a surgery in the Jessa hospital and seen at the\n        pre-operative consultation will be asked to participate and to fullfill the questionnaire"
+                "textblock": "All adult patients scheduled for a (semi) urgent surgery, hematological or oncological\n        treatment or elektrophysiciological investigations in the Jessa hospital and seen at the\n        pre-operative consultation will be asked to participate and to fullfill the questionnaire"
             },
             "sampling_method": "Non-Probability Sample",
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  All adult patients > 18 years undergoing surgery in the Jessa hospital\n\n        Exclusion Criteria:\n\n          -  Patients < 18 years\n\n          -  Adult patients who are unable the give informed consent\n\n          -  Language barrier"
+                "textblock": "Inclusion Criteria:\n\n          -  All adult patients > 18 years scheduled for a (semi) urgent surgery, hematological or\n             oncological treatment or elektrophysiciological investigations in the Jessa hospital\n\n        Exclusion Criteria:\n\n          -  Patients < 18 years\n\n          -  Adult patients who are unable the give informed consent\n\n          -  Language barrier"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -123,11 +123,11 @@
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 3, 2020",
-        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

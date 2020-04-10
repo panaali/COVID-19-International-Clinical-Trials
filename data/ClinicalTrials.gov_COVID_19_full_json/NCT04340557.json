@@ -1,0 +1,259 @@
+{
+    "clinical_study": {
+        "@rank": "356",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340557"
+        },
+        "id_info": {
+            "org_study_id": "COVID-ARB",
+            "secondary_id": "2003902",
+            "nct_id": "NCT04340557"
+        },
+        "brief_title": "Do Angiotensin Receptor Blockers Mitigate Progression to Acute Respiratory Distress Syndrome With SARS-CoV-2 Infection",
+        "official_title": "Randomized Open Label Study of Standard of Care Plus an Angiotensin II Receptor Blocker Compared to Standard of Care Alone to Minimize the Progression to Respiratory Failure in SARS-CoV-2 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sharp HealthCare",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Sharp HealthCare",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this research is to identify whether or not Angiotensin Receptor Blockers\n      (ARB) can halt the progression to respiratory failure requiring transfer into the intensive\n      care unit (ICU), as well as halt mechanical ventilation in subjects with mild to moderate\n      hypoxia due to the corona virus that causes COVID-19. Based on previous animal studies, the\n      researchers hypothesize that the addition of an ARB is beneficial in abating acute lung\n      injury in subjects in early stages of SARS-CoV-2 viral induced hypoxia."
+        },
+        "detailed_description": {
+            "textblock": "This is an investigator initiated, open label, multicenter, two arm, randomized study to\n      compare the impact of adding an ARB to the Standard of Care (SOC) to the SOC without an ARB.\n      Randomization ratio will be 1:1. The goal of this study is to identify whether or not ARBs\n      have an impact on inhibiting the progression to respiratory failure requiring mechanical\n      ventilation in patients with mild to moderate hypoxia in the setting of COVID-19. The\n      addition of an ARB to the standard of care treatment for these patients may be beneficial in\n      abating acute lung injury in patients in early stages of SARSCoV-2 induced hypoxia."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 6, 2020"
+        },
+        "phase": "Phase 4",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Subjects will be randomized into one of two groups: Standard of Care or Standard of Care plus an ARB.",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Mechanical ventilation",
+            "time_frame": "from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days",
+            "description": "Number of subjects requiring transfer into ICU for mechanical ventilation due to respiratory failure"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "ICU transfer",
+                "time_frame": "from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days",
+                "description": "Number of subjects transferred from non-ICU bed to an ICU bed"
+            },
+            {
+                "measure": "Oxygen therapy",
+                "time_frame": "from date of patient admission to date of patient discharge or date of death, whichever came first, assessed up to 45 days",
+                "description": "Number of days requiring oxygen therapy"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "SARS-CoV Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Group A",
+                "arm_group_type": "Experimental",
+                "description": "Standard of Care plus an ARB to be taken orally twice daily for up to 10 days or until discharged from the hospital, whichever occurs first. Investigator may increase dose on days 2 - 10 if confident the subject will tolerate."
+            },
+            {
+                "arm_group_label": "Group B",
+                "arm_group_type": "No Intervention",
+                "description": "Standard of Care"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Losartan",
+            "description": "Standard of care plus the starting dose of losartan 12.5mg (investigator has option to increase dose on days 2-10 based on tolerance of SBP) of losartan taken twice daily for up to 10 days.",
+            "arm_group_label": "Group A"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Confirmed COVID-19 positive test result\n\n          -  Mild to moderate respiratory disease defined by oxygen requirement of at least 2 L/min\n             to maintain oxygen saturation level \u226592%.\n\n          -  Systolic blood pressure \u2265 110 mmHg.\n\n          -  Age \u226518 years old.\n\n          -  Access to an electronic device that is able to access DocuSign\u00ae online and email for\n             consenting.\n\n          -  Able to read/write/speak English or Spanish fluently.\n\n          -  Subjects must have the ability to understand the requirements of the study, provide\n             informed consent, and provide authorization of use and disclosure of personal health\n             information.\n\n          -  Negative pregnancy test for women of childbearing potential.\n\n        Exclusion Criteria:\n\n          -  Severe allergy to any ARB or ACE-inhibitor, including angioedema\n\n          -  In the intensive care unit at screening.\n\n          -  Home meds include any kind of ACE inhibitor or ARB\n\n          -  SBP <110 mmHg\n\n          -  Acute Kidney Injury (50% reduction in GFR from baseline at admission to any time\n             during treatment in the study treatment arm)\n\n          -  Hyperkalemia >5.0 mmol/L at baseline or any time during treatment in the study\n             treatment arm\n\n          -  Creatinine Clearance < 30 ml/min at baseline or any time during treatment in the study\n             treatment arm"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "George Sakoulas, MD",
+            "role": "Study Director",
+            "affiliation": "Sharp HealthCare"
+        },
+        "overall_contact": {
+            "last_name": "Katie Miller",
+            "phone": "(858) 939-7162",
+            "email": "kathryn.miller@sharp.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Cary Murphy, RN",
+            "phone": "(619)740-4363",
+            "email": "cary.murphy@sharp.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Sharp Grossmont Hospital",
+                    "address": {
+                        "city": "La Mesa",
+                        "state": "California",
+                        "zip": "91942",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Cary Murphy, RN",
+                    "phone": "619-740-4363",
+                    "email": "cary.murphy@sharp.com"
+                },
+                "contact_backup": {
+                    "last_name": "Adriana Valdez-Hernandez, RN",
+                    "phone": "(619)458-2260",
+                    "email": "Adriana.Valdez-hernandez@sharp.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Sharp Chula Vista Medical Center",
+                    "address": {
+                        "city": "San Diego",
+                        "state": "California",
+                        "zip": "91911",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Cary Murphy, RN",
+                    "phone": "619-740-4363",
+                    "email": "cary.murphy@sharp.com"
+                },
+                "contact_backup": {
+                    "last_name": "Adriana Valdez-Hernandez, RN",
+                    "phone": "(619)458-2260",
+                    "email": "Adriana.Valdez-hernandez@sharp.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Sharp Coronado Hospital",
+                    "address": {
+                        "city": "San Diego",
+                        "state": "California",
+                        "zip": "92118",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Cary Murphy, RN",
+                    "phone": "619-740-4363",
+                    "email": "Cary.Murphy@sharp.com"
+                },
+                "contact_backup": {
+                    "last_name": "Adriana Valdez-Hernandez, RN",
+                    "phone": "(619)458-2260",
+                    "email": "Adriana.Valdez-hernandez@sharp.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Sharp Memorial Hospital",
+                    "address": {
+                        "city": "San Diego",
+                        "state": "California",
+                        "zip": "92123",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Matthew Geriak, PharmD",
+                    "phone": "858-939-3717",
+                    "email": "matthew.geriak@sharp.com"
+                },
+                "contact_backup": {
+                    "last_name": "Cary Murphy, RN",
+                    "phone": "(619) 740-4363",
+                    "email": "cary.murphy@sharp.com"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Sharp HealthCare",
+            "investigator_full_name": "Matthew Geriak",
+            "investigator_title": "Investigational Pharmacist"
+        },
+        "keyword": [
+            "Coronavirus",
+            "Angiotensin receptor blocker",
+            "SARS-CoV-2",
+            "COVID-19"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Losartan",
+                "Angiotensin Receptor Antagonists"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

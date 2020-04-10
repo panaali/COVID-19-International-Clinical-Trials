@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "289",
+        "@rank": "310",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04327388"
         },
@@ -308,6 +308,17 @@
             },
             {
                 "facility": {
+                    "name": "Investigational Site Number 3800001",
+                    "address": {
+                        "city": "Milano",
+                        "zip": "20132",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Investigational Site Number 7240003",
                     "address": {
                         "city": "Barcelona",
@@ -366,6 +377,7 @@
             "country": [
                 "Canada",
                 "France",
+                "Italy",
                 "Spain"
             ]
         },
@@ -376,11 +388,11 @@
             "@type": "Actual",
             "#text": "March 31, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 8, 2020"
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

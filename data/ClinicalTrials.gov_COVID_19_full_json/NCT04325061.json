@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "77",
+        "@rank": "80",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04325061"
         },
@@ -575,6 +575,27 @@
             },
             {
                 "facility": {
+                    "name": "Anesthesia, Hospital Universitario R\u00edo Hortega",
+                    "address": {
+                        "city": "Valladolid",
+                        "zip": "47012",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "C\u00e9sar Aldecoa, MD, PhD",
+                    "phone": "+34657500031",
+                    "email": "cesar.aldecoa@gmail.com"
+                },
+                "contact_backup": {
+                    "last_name": "Jes\u00fas Rico, MD",
+                    "phone": "+34609024076",
+                    "email": "jricofe@saludcastillayleon.es"
+                }
+            },
+            {
+                "facility": {
                     "name": "Intensive Care Unit, Hospital Universitario R\u00edo Hortega",
                     "address": {
                         "city": "Valladolid",
@@ -609,11 +630,11 @@
             "@type": "Actual",
             "#text": "March 27, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 8, 2020"
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "350",
+        "@rank": "373",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04322682"
         },
@@ -26,7 +26,7 @@
         "source": "Montreal Heart Institute",
         "oversight_info": {
             "has_dmc": "Yes",
-            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_drug": "Yes",
             "is_fda_regulated_device": "No",
             "is_us_export": "No"
         },
@@ -147,43 +147,69 @@
             "phone_ext": "2214",
             "email": "zohar.bassevitch@mhicc.org"
         },
-        "location": {
-            "facility": {
-                "name": "Montreal Heart Institute",
-                "address": {
-                    "city": "Montreal",
-                    "state": "Quebec",
-                    "zip": "H1T 1C8",
-                    "country": "Canada"
+        "location": [
+            {
+                "facility": {
+                    "name": "New York University School of Medecine",
+                    "address": {
+                        "city": "New York",
+                        "state": "New York",
+                        "zip": "10010",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Binita Shah, MD",
+                    "phone": "212-263-4235",
+                    "email": "binita.shah@nyumc.org"
+                },
+                "investigator": {
+                    "last_name": "Binita Shah, MD",
+                    "role": "Sub-Investigator"
                 }
             },
-            "status": "Recruiting",
-            "contact": {
-                "last_name": "Chantal Lacoste",
-                "phone": "514 376-3330",
-                "phone_ext": "3604",
-                "email": "chantal.lacoste@icm-mhi.org"
-            },
-            "investigator": {
-                "last_name": "Jean-Claude Tardif, M.D",
-                "role": "Principal Investigator"
+            {
+                "facility": {
+                    "name": "Montreal Heart Institute",
+                    "address": {
+                        "city": "Montreal",
+                        "state": "Quebec",
+                        "zip": "H1T 1C8",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Claude Tardif",
+                    "phone": "514 376-3330",
+                    "phone_ext": "3612",
+                    "email": "jean-claude.tardif@icm-mhi.org"
+                },
+                "investigator": {
+                    "last_name": "Jean-Claude Tardif, M.D",
+                    "role": "Principal Investigator"
+                }
             }
-        },
+        ],
         "location_countries": {
-            "country": "Canada"
+            "country": [
+                "Canada",
+                "United States"
+            ]
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 23, 2020",
         "study_first_submitted_qc": "March 25, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 26, 2020"
         },
-        "last_update_submitted": "March 26, 2020",
-        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 27, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

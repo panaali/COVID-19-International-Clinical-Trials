@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "198",
+        "@rank": "210",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 08, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334928"
         },
@@ -10,7 +10,7 @@
             "org_study_id": "PrEP COVID-19",
             "nct_id": "NCT04334928"
         },
-        "brief_title": "Clinical Trial for the Prevention of SARS-CoV-2 Infection (COVID-19) in Healthcare Personnel (EPICOS)",
+        "brief_title": "Randomized Clinical Trial for the Prevention of SARS-CoV-2 Infection (COVID-19) in Healthcare Personnel",
         "acronym": "EPICOS",
         "official_title": "Prevention of SARS-CoV-2 (COVID-19) Through Pre-Exposure Prophylaxis With Tenofovir Disoproxil Fumarate/Emtricitabine and Hydroxychloroquine in Healthcare Personnel: Randomized Clinical Trial Controlled With Placebo",
         "sponsors": {
@@ -56,7 +56,7 @@
             "intervention_model": "Parallel Assignment",
             "primary_purpose": "Prevention",
             "masking": "Double (Participant, Investigator)",
-            "masking_description": "Randomised double-blind clinical trial"
+            "masking_description": "Randomized double-blind clinical trial"
         },
         "primary_outcome": {
             "measure": "Number of confirmed symptomatic infections of SARS-CoV-2 (COVID-19)",
@@ -180,11 +180,11 @@
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 4, 2020",
-        "last_update_submitted_qc": "April 4, 2020",
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

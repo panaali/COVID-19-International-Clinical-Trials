@@ -1,0 +1,178 @@
+{
+    "clinical_study": {
+        "@rank": "37",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340544"
+        },
+        "id_info": {
+            "org_study_id": "COMIHY",
+            "nct_id": "NCT04340544"
+        },
+        "brief_title": "Hydroxychloroquine for the Treatment of Mild COVID-19 Disease",
+        "acronym": "COMIHY",
+        "official_title": "Hydroxychloroquine for the Treatment of Mild COVID-19 Disease",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital Tuebingen",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Robert Bosch Medical Center",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Bernhard Nocht Institute for Tropical Medicine",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University Hospital Tuebingen",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The current outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute\n      respiratory syndrome corona virus 2 (SARS-CoV-2) is a global health emergency with a case\n      fatality rate so far approximately 4% and a growing number of confirmed cases (>57.000) in\n      Germany. There is no data available on the efficacy of antiviral agents for the treatment of\n      COVID-19. In-vitro data show that hydroxychloroquine can inhibit SARS-CoV-2 [1] replication\n      and anecdotal reports from Chinese COVID-19 patients [2, 3] suggest that chloroquine is a\n      good candidate for treatment. No data have been published and reported evidence is based on\n      non-controlled use of hydroxychloroquine.\n\n      The aim of this placebo-controlled trial is to assess the effect of hydroxychloroquine on\n      duration of symptoms in mild COVID-19 patients and time of virus shedding as an important\n      tool to reduce the risk of further community transmissions. This data will inform practice\n      for the design of larger trials on clinical efficacy of hydroxychloroquine in the treatment\n      and post- and preexposure prophylaxis of COVID-19 and as a tool for reduction of community\n      transmission."
+        },
+        "detailed_description": {
+            "textblock": "The study is a double-blinded randomized placebo controlled multicentric trial. The trial is\n      expected to be conducted from April to January 2021. The duration for each individual subject\n      includes 7 days study treatment and 21\u00b12 days of follow-up after the last study treatment\n      administration time. Adult male and female patients with positive COVID-19 diagnosis and\n      fulfilling the outlined eligibility criteria will be enrolled into the study. Trial\n      population will consist of both genders. Gender distribution in the trial is supposed to\n      reflect the distribution in the real patient's population, there will be no prior defined\n      quantitative ratio between females and males.\n\n      All consenting and eligible adult patients with virologically confirmed COVID-19 will be\n      recruited and randomly and double-blindly (patient and investigators) allocated in a 1:1\n      ratio to either IMP or placebo. Each patient will be given a first dose of 600mg IMP\n      (hydroxychloroquine or placebo) at the day of inclusion at the study site. This amount\n      corresponds to 3 capsules. From the 2nd day on, each patient will take 600mg once a day until\n      day 7 (6 more doses of 600mg) at home and will document it in an online form or, when not\n      possible, in a diary.\n\n      IMP will be given to the patients orally. To mask the IMP versus placebo the original tables\n      will be encapsulated in a film coated tablet. After this step IMP and placebo will not be\n      distinguishable. Only the pharmacy and an independent party are aware of group allocation.\n\n      Treatment phase:\n\n      Day 1:\n\n      After randomization and treatment allocation medical history, concomitant as well as previous\n      (up to 2 weeks) medication and baseline characteristics of the patients will be captured and\n      a physical examination will be performed. The patients will receive the full amount of study\n      medication (drug or placebo) from a trained study nurse together with a diary. They will be\n      instructed how and when to fill in the diary concerning drug intake, clinical signs and\n      symptoms and, if applicable, any adverse events and changes in concomitant medication. The\n      first assessment of clinical signs and symptoms and a throat swab including blood sample\n      collection will be done under supervision of a study nurse. The patients will then take the\n      first dose of the allocated treatment and document the intake in the diary. This will also\n      take place under the supervision of a study nurse. Patients will then be discharged to home\n      isolation.\n\n      Day 2 to Day 7:\n\n      On each of the following 6 days during home isolation the patients will take the study\n      medication and document the intake and the clinical signs and symptoms in their online or\n      paper diary. In case of any adverse events or changes in concomitant medication, the patients\n      will document this in their diary as well. The patients will be asked to contact the\n      investigator in case their clinical condition is getting worse. Home visits will be performed\n      in case of clinically significant symptoms.\n\n      Day 8 to Day 13:\n\n      On each day, the patients are in home isolation and document the clinical signs and symptoms\n      in their diary. In case of any adverse events or changes in concomitant medication, the\n      patients will document this in their diary as well. The patients will be asked to contact the\n      investigator in case their clinical condition is getting worse. As before, home visits will\n      be performed when indicated.\n\n      Day 14\u00b11:\n\n      Patients will go to the study site and bring their diary and any unused study medication (if\n      applicable). Physical examination will be performed. The patients will document their\n      clinical signs and symptoms, a throat swab and a blood sample will be taken under the\n      supervision of a study nurse. They will be motivated to continue their diary for the\n      follow-up phase with instruction how to use it.\n\n      Day 15 to Day 27:\n\n      On each day, the patients will document the clinical signs and symptoms in their diary. In\n      case of any adverse events or changes in concomitant medication, the patients will document\n      this in their diary as well. The patients will be asked to contact the investigator in case\n      their clinical condition is getting worse.\n\n      Day 28\u00b12:\n\n      Patients will go to the study site and bring their follow-up diary. Physical examination will\n      be performed. The patients will document their clinical signs and symptoms. Blood and throat\n      swab will be taken in a subset of patients under the supervision of a study nurse. Their\n      study participation will then be terminated."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 30, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Difference in time to resolution of clinical signs and symptoms of mild COVID-19 treated with hydroxychloroquine or placebo as assessed by daily self-assessment",
+            "time_frame": "28\u00b12 days"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Difference between hydroxychloroquine- and placebotreated patients on an ordinal outcome scale until Day 28 (death, admission to intensive care, hospitalization, continuing disease, recovered)",
+                "time_frame": "28\u00b12 days"
+            },
+            {
+                "measure": "All-cause mortality within 28 days",
+                "time_frame": "28\u00b12 days"
+            }
+        ],
+        "other_outcome": [
+            {
+                "measure": "Proportion of patients with negative COVID-19 PCR test at day 14 in per protocol population as per throat swab",
+                "time_frame": "28\u00b12 days"
+            },
+            {
+                "measure": "Change in COVID-19 virus load from baseline to day 14",
+                "time_frame": "28\u00b12 days"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "2700"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Hydroxychloroquine",
+                "arm_group_type": "Experimental",
+                "description": "Hydroxychloroquine 600mg daily for 7 days"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Equivalent number of placebo capsules"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "Hydroxychloroquine Sulfate is an anti-malarial and anti-rheumatic drug and seems to be a potential candidate for the treatment of COVID-19 since it is able to block virus infection by increasing the endosomal pH, required for virus/cell fusion, it affects the activation of p38 mitogen-activated protein kinase (MAPK), involved in the replication of HCoV-229E and can interfere with the terminal glycosylation of ACE2, thus inhibiting SARS-CoV-2 infection.",
+                "arm_group_label": "Hydroxychloroquine"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Placebo capsules",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Must be \u226518 years at the time of signing the informed consent\n\n          -  Understand and voluntarily sign an informed consent document prior to any study\n             related assessments/procedures\n\n          -  Able to adhere to the study visit schedule and other protocol requirements\n\n          -  Mild COVID-19 with outpatient management as decided by the treating physician\n\n          -  Early warning score for 2019-nCoV infected patients \u2264 5\n\n          -  Females of childbearing potential (FCBP1) must agree\n\n          -  to utilize two reliable forms of contraception simultaneously or practice complete\n             abstinence from heterosexual contact for at least 28 days before starting study drug,\n             while participating in the study (including dose interruptions), and for at least 28\n             days after study treatment discontinuation and must agree to regular pregnancy testing\n             during this timeframe\n\n          -  to abstain from breastfeeding during study participation and 28 days after study drug\n             discontinuation\n\n          -  All subjects must agree to refrain from donating blood while on study drug and for 28\n             days after discontinuation from this study treatment\n\n          -  All subjects must agree not to share medication\n\n        Exclusion Criteria:\n\n          -  Requirement for oxygen administration\n\n          -  Shortness of breath in resting position\n\n          -  Creatinin > 2.0 mg/dl\n\n          -  Women during pregnancy and lactation\n\n          -  Participation in other clinical trials or observation period of competing trials\n\n          -  Active or clinically significant cardiac disease including congestive heart failure\n             (New York Heart Association Class III or higher)\n\n          -  History or current evidence of clinically significant cardiac arrhythmia except atrial\n             fibrillation or paroxysmal supraventricular tachycardia\n\n          -  Use of concomitant medications that prolong the QT/QTc interval\n\n          -  Physician decision that involvement in the study is not in the patient\u00b4s best interest"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "99 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Diane Egger-Adam, Dr.",
+            "phone": "+4970712982191",
+            "email": "diane.egger-adam@uni-tuebingen.de"
+        },
+        "overall_contact_backup": {
+            "last_name": "Peter Kremsner, Prof.",
+            "phone": "+4970712987179",
+            "email": "peter.kremsner@uni-tuebingen.de"
+        },
+        "location": {
+            "facility": {
+                "name": "Institute for Tropical Medicine",
+                "address": {
+                    "city": "T\u00fcbingen",
+                    "zip": "72074",
+                    "country": "Germany"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Germany"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 9, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        }
+    }
+}
