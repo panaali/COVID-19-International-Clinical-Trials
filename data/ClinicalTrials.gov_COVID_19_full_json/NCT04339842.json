@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "98",
+        "@rank": "439",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04339842"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "Nutr2020",
             "nct_id": "NCT04339842"
         },
-        "brief_title": "Eating Habits of Adults During the COVID-19 Quarantine",
-        "official_title": "Eating Habits of Adults During the COVID-19 Quarantine",
+        "brief_title": "Eating Habits of Adults During the Quarantine",
+        "official_title": "Eating Habits of Adults During the Quarantine",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Eliz Arter",
@@ -54,7 +54,7 @@
             "time_perspective": "Cross-Sectional"
         },
         "primary_outcome": {
-            "measure": "Changes in the Eating Habits of Adults during the COVID-19 quarantine",
+            "measure": "Changes in the Eating Habits of Adults during the Quarantine",
             "time_frame": "One month",
             "description": "This online survey will provide us with an idea of whether or not social isolation due to a pandemic will affect the usual eating patterns of adults either because of psychological stress or economic burden. It will also help us understand the context of these changes"
         },
@@ -63,16 +63,19 @@
             "@type": "Anticipated",
             "#text": "400"
         },
-        "condition": "Adults in Social Isolation During the COVID-19 Outbreak",
+        "condition": [
+            "Health Behavior",
+            "Eating Behavior"
+        ],
         "arm_group": {
-            "arm_group_label": "Adults in Quarantine due to the COVID-19 outbreak",
+            "arm_group_label": "Adults in quarantine due to the virus outbreak",
             "description": "Individuals over the age of 18 who spend most of their time at home in social isolation because of the Coronavirus to prevent the risk of contracting the virus"
         },
         "intervention": {
             "intervention_type": "Other",
-            "intervention_name": "Assessment of Dietary Changes in Adults in the COVID-19 quarantine",
+            "intervention_name": "Assessment of Dietary Changes in Adults in the Quarantine",
             "description": "The online survey will help to collect demographic data from the volunteers. Personal information and contact details, such as email, will not be asked. The survey will include questions about any increase or decrease in the consumption of main meals, snacks and fluid intake. If the participants of the study have observed changes in their dietary pattern since the beginning of the quarantine, details of these changes, such as an increase in the amount of main meal consumption, will be questioned.",
-            "arm_group_label": "Adults in Quarantine due to the COVID-19 outbreak"
+            "arm_group_label": "Adults in quarantine due to the virus outbreak"
         },
         "eligibility": {
             "study_pop": {
@@ -128,14 +131,14 @@
         "study_first_submitted": "April 6, 2020",
         "study_first_submitted_qc": "April 6, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 9, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 9, 2020"
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",
@@ -148,7 +151,8 @@
             "Quarantine",
             "Social Isolation",
             "Eating Habits",
-            "Nutrition"
+            "Nutrition",
+            "COVID-19"
         ],
         "provided_document_section": {
             "provided_document": {

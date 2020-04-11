@@ -1,0 +1,182 @@
+{
+    "clinical_study": {
+        "@rank": "312",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341012"
+        },
+        "id_info": {
+            "org_study_id": "19-001971",
+            "nct_id": "NCT04341012"
+        },
+        "brief_title": "Breath Analysis Based Disease Biomarkers of COVID-19 and Other Diseases",
+        "official_title": "Development of a Breath Analysis Test for Disease Diagnosis and Prognosis",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Mayo Clinic",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Mayo Clinic",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of the study is to develop a clinical test based on breath analysis that can be\n      used for disease diagnosis or prognosis."
+        },
+        "detailed_description": {
+            "textblock": "The study will seek to collect and analyze breath samples from a broad range of patients to\n      develop reference ranges and to refine the testing methods. Protocols for breath sample\n      collection and algorithms for analysis will be developed. Samples will be collected from\n      normal volunteers, persons with documented liver disease, organ transplant or with known\n      COVID-19 test results."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "September 10, 2019"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Presence of disease",
+                "time_frame": "1 day",
+                "description": "Established diagnosis"
+            },
+            {
+                "measure": "Progression of disease",
+                "time_frame": "14 days",
+                "description": "Established disease progression"
+            }
+        ],
+        "number_of_groups": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "120"
+        },
+        "condition": [
+            "Liver Diseases",
+            "Liver Cancer",
+            "COVID19"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Normal",
+                "description": "No known medical conditions"
+            },
+            {
+                "arm_group_label": "Liver Cirrhosis",
+                "description": "Clinically diagnosed with cirrhosis"
+            },
+            {
+                "arm_group_label": "COVID-19 tested",
+                "description": "Persons with known test results for COVID-19 RNA"
+            },
+            {
+                "arm_group_label": "Other",
+                "description": "Persons with other medical diagnosis, no known liver disease, negative for COVID-19"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Diagnostic Test",
+            "intervention_name": "Collection of breath sample",
+            "description": "Analysis of volatile organic compounds in breath",
+            "arm_group_label": [
+                "COVID-19 tested",
+                "Liver Cirrhosis",
+                "Normal",
+                "Other"
+            ]
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Subjects who are undergoing evaluation and obtaining clinical care at Mayo Clinic in\n        Florida will be enrolled"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Able to provide informed consent\n\n        Exclusion Criteria:\n\n          -  None"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Tushar Patel",
+            "role": "Principal Investigator",
+            "affiliation": "Mayo Clinic"
+        },
+        "overall_contact": {
+            "last_name": "Robert Brannock",
+            "phone": "904-953-2000",
+            "email": "brannock.robert@mayo.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Joanna Roopkumar",
+            "phone": "904-953-2000",
+            "email": "roopkumar.joanna@mayo.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Mayo Clinic Florida",
+                "address": {
+                    "city": "Jacksonville",
+                    "state": "Florida",
+                    "zip": "32224",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Robert Brannock",
+                "phone": "904-953-2000",
+                "email": "brannock.robert@mayo.edu"
+            },
+            "investigator": {
+                "last_name": "Tushar Patel, MBChB",
+                "role": "Principal Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "link": {
+            "url": "https://www.mayo.edu/research/clinical-trials",
+            "description": "Mayo Clinic Clinical Trials"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Mayo Clinic",
+            "investigator_full_name": "Tushar Patel",
+            "investigator_title": "Principal Investigator"
+        },
+        "condition_browse": {
+            "mesh_term": "Liver Diseases"
+        }
+    }
+}

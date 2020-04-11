@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "110",
+        "@rank": "116",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04339426"
         },
@@ -58,9 +58,9 @@
         },
         "secondary_outcome": [
             {
-                "measure": "Safety and Tolerability of combination therapy",
+                "measure": "Incidence of GI adverse events",
                 "time_frame": "47 days",
-                "description": "Incidence of GI adverse events"
+                "description": "Measure incidence of diarrhea, vomiting, nausea and constipation"
             },
             {
                 "measure": "Cardiac Toxicity",
@@ -68,11 +68,18 @@
                 "description": "12-Lead ECG daily if QTc >500 msec"
             }
         ],
-        "other_outcome": {
-            "measure": "Exploratory - Immune response",
-            "time_frame": "10 days",
-            "description": "Plasma Cytokines, Genomics"
-        },
+        "other_outcome": [
+            {
+                "measure": "Changes in WBC w Diff, B cells, T cells, NK cells",
+                "time_frame": "10 days",
+                "description": "Measure blood counts"
+            },
+            {
+                "measure": "Changes in cytokine levels",
+                "time_frame": "10 days",
+                "description": "Measure plasma cytokines"
+            }
+        ],
         "number_of_arms": "1",
         "enrollment": {
             "@type": "Anticipated",
@@ -119,14 +126,14 @@
         "study_first_submitted": "April 7, 2020",
         "study_first_submitted_qc": "April 7, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 9, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 9, 2020"
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

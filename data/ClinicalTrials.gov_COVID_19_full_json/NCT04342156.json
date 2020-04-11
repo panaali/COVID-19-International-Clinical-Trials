@@ -1,0 +1,170 @@
+{
+    "clinical_study": {
+        "@rank": "278",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342156"
+        },
+        "id_info": {
+            "org_study_id": "2020/00402",
+            "nct_id": "NCT04342156"
+        },
+        "brief_title": "Safety And Efficacy Of Hydroxychloroquine As COVID-19 Prophylaxis For At-Risk Population (SHARP): A Cluster Randomized Controlled Trial",
+        "acronym": "SHARP COVID-19",
+        "official_title": "Safety And Efficacy Of Hydroxychloroquine As COVID-19 Prophylaxis For At-Risk Population (SHARP): A Cluster Randomized Controlled Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Tan Tock Seng Hospital",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "National Center for Infectious Diseases",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Singapore Clinical Research Institute",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Singapore Eye Research Institute",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Saw Swee Hock School of Public Health",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Duke-NUS Graduate Medical School",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Netherlands: Ministry of Health, Welfare and Sports",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Tan Tock Seng Hospital",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The Coronavirus Disease 2019 (COVID-19) pandemic has placed tremendous stress on the global\n      economy since its outbreak in December 2019. Currently, with nearly 1.3 million confirmed\n      cases, there is still no effective way to contain the disease. The transmission of COVID-19\n      occurs via direct (prolonged close interaction, within 2 meters for more than 30 minutes) and\n      indirect (fomites) contacts. Locally, the risk of COVID-19 infection in household contacts of\n      confirmed cases is about 4%. These at-risk individuals are identified through contact tracing\n      and infectious may be preventable using post-exposure-prophylaxis (PEP). However, there has\n      yet to be a single effective, safe, and affordable pharmacological agent with such\n      capabilities. Hydroxychloroquine (HCQ) is a cheap anti-malarial and immunomodulatory agent\n      which may potentially be used as PEP against COVID-19. HCQ is capable of blocking the\n      invasion and intracellular replication of the virus. Existing studies have reported efficacy\n      of HCQ in treating COVID-19, with reduced time to clinical recovery and few reports of\n      patients suffering from significant side effects. However, existing studies are largely\n      limited by their small sample sizes. Furthermore, there has yet to be a published trial on\n      HCQ's role in PEP. This cluster randomized trial will evaluate the safety and efficacy of\n      oral HCQ PEP, taken over for 5 days, in reducing the number of infected household contacts of\n      confirmed COVID-19 patients under home quarantine. Comparison will be made between HCQ PEP\n      (treatment group) and no treatment (control group). Subjects will be followed up over a\n      course of 28 days, with daily symptom monitoring conducted over phone calls. Positive\n      outcomes from this study will provide a means for us to battle the COVID-19 pandemic."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "positive serology or reverse transcriptase (RT-PCR) for COVID-19 up until day 28.",
+            "time_frame": "Until day 28",
+            "description": "COVID-19 infection"
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "3000"
+        },
+        "condition": [
+            "Coronavirus Infection",
+            "Hydroxychloroquine Adverse Reaction"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Hydroxychloroquine post exposure prophylaxis",
+                "arm_group_type": "Experimental",
+                "description": "Treatment arm will be given Hydroxychloroquine sulfate. Dose: 800 milligrams (mg) (4 pills of 200mg) as single dose on day 1 followed by 400mg (2 pills of 200mg) single dose on day 2, 3,4, 5.\nMode of administration: Oral pills of 200mg of HCQ; has to be given in the form of single daily dose.\nSupply: The total supply of all the pills (12 pills of 200mg per subject in the study group) will be given to the recruited subject from day 1."
+            },
+            {
+                "arm_group_label": "Standard Preventive Measures",
+                "arm_group_type": "Other",
+                "description": "No intervention. Standard recommended preventive measures by the ministry of health ( MOH), Singapore. under which the subjects under control arm will be following the standard measures recommended by Ministry of Health (temperature monitoring 3 times per day, three times video calls by MOH, no mask, advice to close the lid and flush toilet, hand hygiene)"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Hydroxychloroquine Sulfate 200 milligram (mg) Tab",
+            "description": "Oral tablet of Hydroxychloroquine sulfate",
+            "arm_group_label": [
+                "Hydroxychloroquine post exposure prophylaxis",
+                "Standard Preventive Measures"
+            ]
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Aged 21 to 80 years.\n\n          2. History of close contact or exposure to positive COVID-19 cases in the same household.\n\n          3. Absence of symptoms resembling COVID-19 (e.g., fever and acute respiratory or\n             gastrointestinal symptoms)\n\n          4. Able to give informed consent.\n\n          5. Able to comply with study procedures and follow-up\n\n          6. Singapore citizen, permanent resident or long-term pass-holder.\n\n        Exclusion Criteria:\n\n          1. Pregnant at time of screening or breastfeeding.\n\n          2. Known allergy or hypersensitivity to HCQ or other aminoquinoline compounds.\n\n          3. Already on HCQ for different indications (e.g., rheumatological diseases, malaria\n             prophylaxis)\n\n          4. Diagnosis of other systemic viral or bacterial infection.\n\n          5. Use of systemic immunosuppressant agents within 90 days of enrollment (e.g.,\n             corticosteroids and immunomodulatory therapy)\n\n          6. History of immunocompromised state.\n\n          7. History of psychiatric illness.\n\n          8. History of psoriasis or porphyria.\n\n          9. History of cardiac disease.\n\n         10. Other major comorbidities that contraindicate the use of HCQ: i. Hematologic\n             malignancy, ii. Stage 4-5 chronic kidney disease or end-stage renal failure, iii.\n             history of ventricular arrhythmias, iv. current use of drugs that prolong the QT\n             interval\n\n         11. History of severe skin reactions such as Stevens-Johnson syndrome and toxic epidermal\n             necrolysis.\n\n         12. Bradycardia <50beats/min.\n\n         13. Uncorrected hypokalemia or hypomagnesemia.\n\n         14. Person diagnosed with COVID-19 infection and if he is living in the same household as\n             index case, only he will be excluded but rest of the members of the household will be\n             included."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Rupesh Agrawal, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Tan Tock Seng Hospital"
+        },
+        "overall_contact": {
+            "last_name": "Rupesh Agrawal, MD",
+            "phone": "6357100",
+            "phone_ext": "7726",
+            "email": "rupesh_agrawal@ttsh.com.sg"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Post Exposure Prophylaxis (PEP)",
+            "Hydroxychloroquine",
+            "Singapore",
+            "COVID-19"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "clinical_study": {
+        "@rank": "155",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341207"
+        },
+        "id_info": {
+            "org_study_id": "2020-001250-21",
+            "secondary_id": "2020/3078",
+            "nct_id": "NCT04341207"
+        },
+        "brief_title": "Epidemiology of SARS-CoV-2 and Mortality to Covid19 Disease in French Cancer Patients",
+        "acronym": "ONCOVID",
+        "official_title": "COVID 19 - Epidemiology of SARS-CoV-2 and Mortality to Covid19 Disease Upon Hydroxychloroquine and Azithromycin Therapy in French Cancer Patients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Gustave Roussy, Cancer Campus, Grand Paris",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Gustave Roussy, Cancer Campus, Grand Paris",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "To determine the prevalence and the 3-months incidence of SARS-CoV-2 in cancer patients (Part\n      A).\n\n      To evaluate the Covid-19 disease-specific mortality rate in cancer patients treated by\n      hydroxychloroquine and azithromycin (Part B)."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2022"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Prevalence and the 3-months incidence of SARS-CoV-2 in cancer patients",
+                "time_frame": "Up to 3 months"
+            },
+            {
+                "measure": "Covid-19 disease-specific mortality rate in cancer patients treated by hydroxychloroquine and azithromycin",
+                "time_frame": "Up to 12 months"
+            }
+        ],
+        "number_of_arms": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1000"
+        },
+        "condition": "Cancer & COVID 19",
+        "arm_group": [
+            {
+                "arm_group_label": "Cohort 1",
+                "arm_group_type": "Experimental",
+                "description": "Advanced Cancer Patients with SARS-CoV-2 positive test & Covid19 symptoms"
+            },
+            {
+                "arm_group_label": "Cohort 2",
+                "arm_group_type": "No Intervention",
+                "description": "Advanced Cancer Patients with SARS-CoV-2 negative test & Covid19 symptoms. Patients with a chest CT-scan compatible with Covid19 disease shall be treated in part B."
+            },
+            {
+                "arm_group_label": "Cohort 3",
+                "arm_group_type": "No Intervention",
+                "description": "Advanced Cancer Patients with SARS-CoV-2 positive or negative test & no Covid19 symptoms"
+            },
+            {
+                "arm_group_label": "Cohort 4",
+                "arm_group_type": "Experimental",
+                "description": "Advanced Cancer Patients with SARS-CoV-2 positive test AND chest CT-scan compatible with Covid19 disease & no Covid19 symptoms & Pretreated or with frail conditions following the HCSP definition"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "Hydroxychloroquine 200 mg 3 times a day for 10 days",
+                "arm_group_label": [
+                    "Cohort 1",
+                    "Cohort 4"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Azithromycin",
+                "description": "Azithromycin 500 mg on day 1 followed by 250 mg/day for 4 days",
+                "arm_group_label": "Cohort 1"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All types of locally advanced and metastatic malignancy\n\n          -  Male/female participants\n\n          -  Age>18 y.o.\n\n          -  Signed informed consent for participation in the study\n\n          -  No restriction on Eastern Cooperative Oncology Group (ECOG)/World Health Organization\n             (WHO) Performance Status\n\n          -  Subject should not have received a prior systemic anti-viral treatment for Covid19\n             disease.\n\n        Exclusion Criteria:\n\n          -  Patients with known hypersensitivity to hydroxychloroquine or chloroquine,\n             azithromycin, erythromycin, or any other macrolide, ketolide or any of the excipients\n             of the hydroxychloroquine and/or azithromycin-based specialty used.\n\n          -  Severe hepatic impairment and patients with severe cholestasis.\n\n          -  Patients with renal insufficiency with creatinine clearance < 40 mL/min.\n\n          -  Combinations of drugs contraindicated in accordance with the approvals of the\n             specialties used.\n\n          -  Patients currently treated with Tamoxifen\n\n          -  Patients already treated by hydroxychloroquine or azithromycin for Covid19 disease or\n             currently treated with other antiviral drugs against coronavirus.\n\n          -  Patients with known contra-indication to treatment with the study drug, including\n             retinopathy, G6PD deficiency, QT prolongation and severe hepato-cellular\n             insufficiency.\n\n          -  Patients post allogeneic hematopoietic stem cell transplantation are eligible to the\n             Part B treatments but the potential toxic effects of hydroxychloroquin and\n             azithromycin on hematopoietic stem cells should be taken into consideration by\n             prescribers.\n\n          -  Pregnant or breastfeeding women. Women of childbearing potential (WOCBP, as defined in\n             appendix 2) should have a negative urine or serum pregnancy test within 72 hours prior\n             to receiving the first dose of study medication. If the urine test is positive or\n             cannot be confirmed as negative, a serum pregnancy test will be required."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Lisa DEROSA, MD",
+            "phone": "0142114211",
+            "phone_ext": "+33",
+            "email": "lisa.derosa@gustaveroussy.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Stefan MICHIELS, MD",
+            "phone": "0142114211",
+            "phone_ext": "+33",
+            "email": "Stefan.michiels@gustaveroussy.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "Gustave Roussy",
+                "address": {
+                    "city": "Villejuif",
+                    "state": "Val De Marne",
+                    "zip": "94800",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Lisa DEROSA, MD",
+                "phone": "0142114211",
+                "phone_ext": "+33",
+                "email": "lisa.derosa@gustaveroussy.fr"
+            },
+            "contact_backup": {
+                "last_name": "Stefan MICHIELS, MD",
+                "phone": "0142114211",
+                "phone_ext": "+33",
+                "email": "stefan.michiels@gustaveroussy.fr"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

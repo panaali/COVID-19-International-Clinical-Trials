@@ -1,0 +1,144 @@
+{
+    "clinical_study": {
+        "@rank": "40",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341675"
+        },
+        "id_info": {
+            "org_study_id": "2020-0337",
+            "nct_id": "NCT04341675"
+        },
+        "brief_title": "Sirolimus Treatment in Hospitalized Patients With COVID-19 Pneumonia",
+        "acronym": "SCOPE",
+        "official_title": "Sirolimus Treatment in Hospitalized Patients With COVID-19 Pneumonia (The SCOPE Trial)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Cincinnati",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Cincinnati",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The main objective of our study is to determine if treatment with sirolimus can improve\n      clinical outcomes in hospitalized patients with COVID-19. We will employ a randomized, double\n      blind, placebo-controlled study design. 30 subjects will be randomized in a 2:1 fashion to\n      receive sirolimus or placebo. Sirolimus will be given as a 6mg oral loading dose on day 1\n      followed by 2mg daily for a maximum treatment duration of 14 days or until hospital\n      discharge, whichever happens sooner. Chart reviews will be conducted daily to determine\n      changes in clinical status, concomitant medications and laboratory parameters. Study specific\n      biomarkers will be measured at baseline and then at days 3, 7 and 14."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Randmized, double blind, placebo controlled",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Progression to advanced respiratory support",
+            "time_frame": "14 days",
+            "description": "Progression to respiratory failure requiring advanced support measures, either due to inadequate ventilation (non-invasive or invasive mechanical ventilation) or inadequate oxygenation (CPAP* or high flow supplemental oxygen at rates \u2265 15 liters/minute), in patients given sirolimus compared to the placebo group.\n* CPAP use for known obstructive sleep apnea will not be considered as disease progression."
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Sirolimus",
+                "arm_group_type": "Active Comparator",
+                "description": "Sirolimus 6mg on day 1 followed by 2mg daily for the next 13 days or until hospital discharge, whatever happens sooner."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Matching placebo"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Sirolimus",
+                "description": "Sirolimus 6mg daily on Day 1 followed by 2mg daily for the next 13 days for a total treatment duration of 14 days or hospital discharge, whatever happens sooner.",
+                "arm_group_label": "Sirolimus"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Matching placebo",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Subjects enrolled in the trial must meet all of the following criteria.\n\n          -  Confirmed COVID-19 pneumonia or high likelihood of COVID-19 pneumonia as suggested by\n             the presence of: a) bilateral pulmonary infiltrates, b) fever >100 degrees Fahrenheit,\n             c) negative URI PCR for other viral pathogens (if performed per clinical indications),\n             and d) serum procalcitonin \u22640.25ng/mL\n\n          -  Hypoxia as defined by room air oxygen saturation less than 90% or supplemental oxygen\n             requirement\n\n          -  Presence of at least one additional biomarker that has been shown to predict poor\n             prognosis: a) serum ferritin \u2265500ug/l, b) LDH \u2265250U/L, c) d-dimer \u22651ug/L, or d)\n             lymphopenia as defined by absolute lymphocyte count <1,000/uL\n\n          -  Age \u2265 18 years\n\n          -  Completed informed consent\n\n        Exclusion Criteria:\n\n        Subjects who meet ANY of the following criteria are not eligible for enrollment as study\n        participants:\n\n          -  Known allergy or hypersensitivity to sirolimus\n\n          -  Inability or refusal to provide informed consent\n\n          -  Advanced respiratory support (high flow oxygen \u2265 15 L/min, CPAP, non-invasive or\n             invasive mechanical ventilation)\n\n          -  Active enrollment in other interventional clinical drug trials. Co-enrollment in\n             observational studies and biorepositories is allowed.\n\n          -  Pregnant women\n\n          -  Breast feeding\n\n          -  On chronic immunosuppression for other medical conditions such as rheumatological\n             disorders, inflammatory bowel disease, or in patients with organ transplants. A list\n             of these medications is provided in Section 12.3.4\n\n          -  Any clinically significant medical disease which in the opinion of the investigator\n             precludes the patient from enrolling in the trial, including (but not limited to):\n\n               -  History of liver cirrhosis\n\n               -  End stage renal disease or need for renal replacement therapy\n\n               -  Decompensated heart failure\n\n               -  Known active tuberculosis or history of incompletely treated tuberculosis\n\n               -  Uncontrolled systemic bacterial or fungal infections\n\n               -  Active viral infection other than COVID-19"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Nishant Gupta, MD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Cincinnati"
+        },
+        "overall_contact": {
+            "last_name": "Nishant Gupta, MD",
+            "phone": "5135584831",
+            "email": "guptans@ucmail.uc.edu"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 5, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Cincinnati",
+            "investigator_full_name": "Nishant Gupta",
+            "investigator_title": "Adjunct Associate Professor"
+        },
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Sirolimus",
+                "Everolimus"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "De-identified aggregate data will be made available to other researchers on a case-by-case basis."
+        }
+    }
+}

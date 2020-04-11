@@ -1,13 +1,14 @@
 {
     "clinical_study": {
-        "@rank": "94",
+        "@rank": "99",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04317040"
         },
         "id_info": {
             "org_study_id": "CD24Fc-007",
+            "secondary_id": "20200674",
             "nct_id": "NCT04317040"
         },
         "brief_title": "CD24Fc as a Non-antiviral Immunomodulator in COVID-19 Treatment",
@@ -26,15 +27,15 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "The study is designed as a randomized, placebo-controlled, double blind, multicenter, Phase\n      III trial to compare two COVID-19 treatment regimens in hospitalized adult subjects who are\n      diagnosed with severe COVID 19 and absolute lymphocyte counts \u2264 800/mm^3 in peripheral blood.\n\n      Arm A: CD24Fc/Best Available Treatment; Arm B: placebo/ Best Available Treatment. CD24Fc will\n      be administered as single dose of 480 mg via IV infusion on Day 1. Total of 230 subjects will\n      be enrolled and randomized in 1:1 ratio to receive CD24Fc or placebo. Serum cytokine IL-6\n      level will be used as stratification factor in randomization. All subjects will be treated\n      with the best available treatment. The follow up period is 15 days."
+            "textblock": "The study is designed as a randomized, placebo-controlled, double blind, multicenter, Phase\n      III trial to compare two COVID-19 treatment regimens in hospitalized adult subjects who are\n      diagnosed with severe COVID 19.\n\n      Arm A: CD24Fc/Best Available Treatment; Arm B: placebo/ Best Available Treatment. CD24Fc will\n      be administered as single dose of 480 mg via IV infusion on Day 1. Total of 230 subjects will\n      be enrolled and randomized in 1:1 ratio to receive CD24Fc or placebo. All subjects will be\n      treated with the best available treatment. The follow up period is 15 days."
         },
         "detailed_description": {
             "textblock": "As the newest global medical emergency, the COVID-19 (diagnosed SARS-CoV2 infection with lung\n      involvement) exhibits features that are unlikely ameliorated by antivirals-based approaches\n      alone. First, although the new coronavirus (SARS-CoV-2) infect lung and intestine, many\n      patients suddenly take a turn for the worse even when the viral replication appears to be\n      under control. Second, patients with serious or critical clinical symptoms show remarked T\n      cell lymphopenia that are more severe and more acute than human immunodeficiency virus (HIV)\n      infection. Functional exhaustion of T cells is suggested by high expression of T-cell\n      exhaustion markers, which again appears more acute than in HIV patients. Third, multiple\n      cytokines are elevated among patients with severe clinical symptoms, which potentially\n      explains the multiple organ failure associated with COVID-19. For these reasons, treatment of\n      COVID-19 likely requires a combination of both antivirals and non-antivirals-based\n      approaches.\n\n      CD24Fc is a biological immunomodulator in Phase II/III clinical trial stage. CD24Fc comprises\n      the nonpolymorphic regions of CD24 attached to the Fc region of human IgG1. We have shown\n      that CD24 is an innate checkpoint against the inflammatory response to tissue injuries or\n      danger-associated molecular patterns (DAMPs). Preclinical and clinical studies have\n      demonstrated that CD24Fc effectively address the major challenges associated with COVID-19.\n      First, a Phase I clinical trial on healthy volunteers not only demonstrated safety of CD24Fc,\n      but also demonstrated its biological activity in suppressing expression of multiple\n      inflammatory cytokines. Second, in Phase II clinical trial in leukemia patients undergoing\n      hematopoietic stem cell transplantation (HCT), three doses of CD24Fc effectively eliminated\n      severe (Grade 3-4) acute graft vs host diseases (GVHD), which is caused by over reacting\n      immune system and transplanted T cells attacking recipient target tissues. Third, in\n      preclinical models of HIV/SIV infections, we have shown that CD24Fc ameliorated production of\n      multiple inflammatory cytokines, reversed the loss of T lymphocytes as well as functional T\n      cell exhaustion and reduced the leukocyte infiltration of multiple organs. It is particularly\n      noteworthy that CD24Fc reduced the rate of pneumonia in SIV-infected Chinese rhesus monkey\n      from 83% to 33%. Therefore, CD24Fc maybe a prime candidate for non-antiviral biological\n      modifier for COVID-19 therapy. The phase III trial will involve 230 patients randomized into\n      blinded placebo and CD24Fc arms, with time to clinical improvement from severe to mild\n      symptom as the primary endpoint."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "May 2020"
+            "@type": "Actual",
+            "#text": "April 8, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -146,7 +147,7 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          1. Should be at least 18 years of age,\n\n          2. Male or female,\n\n          3. Diagnosed with COVID-19 and confirmed SARS-coV-2 viral infection.\n\n          4. Able to sign the consent form.\n\n          5. Severe COVID-19 (Appendix A), or NIAID 7-point ordinal score 3 to 4 (requiring\n             non-invasive ventilation or oxygen, a SpO2 </= 94% or tachypnea (respiratory rate >/=\n             24 breaths/min), Appendix B).\n\n          6. The absolute lymphocyte count is \u2264 0.8 \u00d7 10^9 / L (8x10^5 / mL, 800 / mm3).\n\n        Exclusion Criteria:\n\n          1. Patients with COVID 19 in critical condition or ARDS (Appendix A) or NIAID 7-point\n             ordinal score 2 (Hospitalized, on invasive mechanical ventilation or extracorporeal\n             membrane oxygenation (ECMO)).\n\n          2. Patients with bacterial / fungal infections.\n\n          3. Patients who are pregnant, breastfeeding, or have a positive pregnancy test result\n             before enrollment.\n\n          4. Severe liver damage (Child-Pugh score \u2265 C, AST> 5 times the upper limit).\n\n          5. Patients with known severe renal impairment (creatinine clearance \u2264 30 mL / min) or\n             patients receiving continuous renal replacement therapy, hemodialysis, or peritoneal\n             dialysis.\n\n          6. Will be transferred to a non-study site hospital within 72 hours.\n\n          7. The investigator believes that participating in the trial is not in the best interests\n             of the patient, or the investigator considers unsuitable for enrollment (such as\n             unpredictable risks or subject compliance issues)."
+                "textblock": "Inclusion Criteria:\n\n          1. Should be at least 18 years of age,\n\n          2. Male or female,\n\n          3. Diagnosed with COVID-19 and confirmed SARS-coV-2 viral infection.\n\n          4. Able to sign the consent form.\n\n          5. Severe COVID-19 (Appendix A), or NIAID 7-point ordinal score 3 to 4 (requiring\n             non-invasive ventilation or oxygen, a SpO2 </= 94% or tachypnea (respiratory rate >/=\n             24 breaths/min), Appendix B).\n\n        Exclusion Criteria:\n\n          1. Patients with COVID 19 in critical condition or ARDS (Appendix A) or NIAID 7-point\n             ordinal score 2 (Hospitalized, on invasive mechanical ventilation or extracorporeal\n             membrane oxygenation (ECMO)).\n\n          2. Patients with bacterial / fungal infections.\n\n          3. Patients who are pregnant, breastfeeding, or have a positive pregnancy test result\n             before enrollment.\n\n          4. Severe liver damage (Child-Pugh score \u2265 C, AST> 5 times the upper limit).\n\n          5. Patients with known severe renal impairment (creatinine clearance \u2264 30 mL / min) or\n             patients receiving continuous renal replacement therapy, hemodialysis, or peritoneal\n             dialysis.\n\n          6. The investigator believes that participating in the trial is not in the best interests\n             of the patient, or the investigator considers unsuitable for enrollment (such as\n             unpredictable risks or subject compliance issues)."
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -177,23 +178,46 @@
                     "zip": "21201",
                     "country": "United States"
                 }
-            }
+            },
+            "status": "Recruiting"
         },
         "location_countries": {
             "country": "United States"
         },
-        "verification_date": "March 2020",
+        "reference": [
+            {
+                "citation": "Chen GY, Brown NK, Zheng P, Liu Y. Siglec-G/10 in self-nonself discrimination of innate and adaptive immunity. Glycobiology. 2014 Sep;24(9):800-6. doi: 10.1093/glycob/cwu068. Epub 2014 Jul 4. Review.",
+                "PMID": "24996822"
+            },
+            {
+                "citation": "Liu Y, Chen GY, Zheng P. Sialoside-based pattern recognitions discriminating infections from tissue injuries. Curr Opin Immunol. 2011 Feb;23(1):41-5. doi: 10.1016/j.coi.2010.10.004. Epub 2011 Jan 3. Review.",
+                "PMID": "21208791"
+            },
+            {
+                "citation": "Chen GY, Chen X, King S, Cavassani KA, Cheng J, Zheng X, Cao H, Yu H, Qu J, Fang D, Wu W, Bai XF, Liu JQ, Woodiga SA, Chen C, Sun L, Hogaboam CM, Kunkel SL, Zheng P, Liu Y. Amelioration of sepsis by inhibiting sialidase-mediated disruption of the CD24-SiglecG interaction. Nat Biotechnol. 2011 May;29(5):428-35. doi: 10.1038/nbt.1846. Epub 2011 Apr 10. Erratum in: Nat Biotechnol. 2012 Feb;30(2):193.",
+                "PMID": "21478876"
+            },
+            {
+                "citation": "Chen GY, Tang J, Zheng P, Liu Y. CD24 and Siglec-10 selectively repress tissue damage-induced immune responses. Science. 2009 Mar 27;323(5922):1722-5. doi: 10.1126/science.1168988. Epub 2009 Mar 5.",
+                "PMID": "19264983"
+            },
+            {
+                "citation": "Tian RR, Zhang MX, Zhang LT, Zhang P, Ma JP, Liu M, Devenport M, Zheng P, Zhang XL, Lian XD, Ye M, Zheng HY, Pang W, Zhang GH, Zhang LG, Liu Y, Zheng YT. CD24 and Fc fusion protein protects SIVmac239-infected Chinese rhesus macaque against progression to AIDS. Antiviral Res. 2018 Sep;157:9-17. doi: 10.1016/j.antiviral.2018.07.004. Epub 2018 Jul 3.",
+                "PMID": "29983395"
+            }
+        ],
+        "verification_date": "April 2020",
         "study_first_submitted": "March 19, 2020",
         "study_first_submitted_qc": "March 19, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 20, 2020"
         },
-        "last_update_submitted": "March 19, 2020",
-        "last_update_submitted_qc": "March 19, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 23, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

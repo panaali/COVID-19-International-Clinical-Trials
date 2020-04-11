@@ -1,0 +1,103 @@
+{
+    "clinical_study": {
+        "@rank": "117",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341103"
+        },
+        "id_info": {
+            "org_study_id": "Al-COVE",
+            "nct_id": "NCT04341103"
+        },
+        "brief_title": "AlloSure Guided Immuno-Optimization for COVID-19: An Early Experience",
+        "acronym": "Al-COVE",
+        "official_title": "AlloSure Guided Immuno-Optimization for COVID-19: An Early Experience",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "CareDx",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "CareDx",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The utilization of AlloSure to help guide immunosuppression management in solid organ\n      transplant recipients diagnosed with COVID-19"
+        },
+        "detailed_description": {
+            "textblock": "An observational case series of patients with solid organ transplants who have been admitted\n      with suspected COVID-19 utilizing AlloSure dd-cf DNA to help guide immunosuppression\n      management balancing the treatment of sepsis and avoiding allograft rejection."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 1, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Assessing the utility of AlloSure dd-cfDNA to guide clinical immune-optimization for transplant patients with COVID-19",
+            "time_frame": "6 months",
+            "description": "AlloSure dd-cfDNA blood draw values"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": [
+            "Solid Organ Transplant Rejection",
+            "COVID-19"
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Solid organ (liver, heart, lung or kidney) transplant recipients diagnosed with suspected\n        or confirmed case of COVID-19"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Liver, Heart, Lung or Kidney organ transplant recipient with a suspected or confirmed\n             diagnosis of COVID-19\n\n        Exclusion Criteria:"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Alana Burns",
+            "phone": "415.287.2420",
+            "email": "aburns@caredx.com"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 16, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "299",
+        "@rank": "319",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04319016"
         },
@@ -100,18 +100,18 @@
         "location_countries": {
             "country": "Italy"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 20, 2020",
         "study_first_submitted_qc": "March 23, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 24, 2020"
         },
-        "last_update_submitted": "March 30, 2020",
-        "last_update_submitted_qc": "March 30, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 1, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

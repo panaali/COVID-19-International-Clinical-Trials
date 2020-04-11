@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "161",
+        "@rank": "179",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04310228"
         },
@@ -152,22 +152,6 @@
         "location": [
             {
                 "facility": {
-                    "name": "Anhui Medical University Affiliated First Hospital",
-                    "address": {
-                        "city": "Hefei",
-                        "state": "Anhui",
-                        "zip": "230022",
-                        "country": "China"
-                    }
-                },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "Xihai Xu",
-                    "phone": "13966658330"
-                }
-            },
-            {
-                "facility": {
                     "name": "Guiqiang Wang",
                     "address": {
                         "city": "Beijing",
@@ -197,22 +181,6 @@
                 "contact": {
                     "last_name": "Haichao Li",
                     "phone": "18511129044"
-                }
-            },
-            {
-                "facility": {
-                    "name": "Cancer Hospital Union Hospital Tongji Medical College Huazhong University of Science and Technology",
-                    "address": {
-                        "city": "Wuhan",
-                        "state": "Hubei",
-                        "zip": "430000",
-                        "country": "China"
-                    }
-                },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "Xi Zheng",
-                    "phone": "18602724981"
                 }
             },
             {
@@ -264,38 +232,6 @@
             },
             {
                 "facility": {
-                    "name": "Tongji Hospital of Huazhong University of Science and Technology",
-                    "address": {
-                        "city": "Wuhan",
-                        "state": "Hubei",
-                        "zip": "430000",
-                        "country": "China"
-                    }
-                },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "Qin Ning",
-                    "phone": "13971521450"
-                }
-            },
-            {
-                "facility": {
-                    "name": "West Hospital Union Hospital Huazhong University of Science and Technology",
-                    "address": {
-                        "city": "Wuhan",
-                        "state": "Hubei",
-                        "zip": "430000",
-                        "country": "China"
-                    }
-                },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "Yu Hu",
-                    "phone": "13986183871"
-                }
-            },
-            {
-                "facility": {
                     "name": "Wuhan Pulmonary Hospital",
                     "address": {
                         "city": "Wuhan",
@@ -309,39 +245,23 @@
                     "last_name": "Xianxiang Chen",
                     "phone": "18971570937"
                 }
-            },
-            {
-                "facility": {
-                    "name": "Zhongnan Hospital of Wuhan University",
-                    "address": {
-                        "city": "Wuhan",
-                        "state": "Hubei",
-                        "zip": "430000",
-                        "country": "China"
-                    }
-                },
-                "status": "Recruiting",
-                "contact": {
-                    "last_name": "Zhenshun Cheng",
-                    "phone": "13627288300"
-                }
             }
         ],
         "location_countries": {
             "country": "China"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 9, 2020",
         "study_first_submitted_qc": "March 14, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 17, 2020"
         },
-        "last_update_submitted": "March 14, 2020",
-        "last_update_submitted_qc": "March 14, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 17, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

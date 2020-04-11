@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "62",
+        "@rank": "63",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334980"
         },
@@ -25,10 +25,10 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "Protocol bacTRL-IL-Spike-1 will be the first-in-human study of bacTRL-Spike, and the\n      first-in-human use of orally delivered bacTRL. Each oral dose of bacTRL-Spike contains\n      bacterial medium with either 1 billion (Group 1A), 3 billion (Group 2A) or 10 billion (Group\n      3A) cfu of live Bifidobacterium longum, which has been genetically modified to express the\n      spike protein from the SARS-CoV2 virus. Placebo will consist of bacterial medium without\n      bacteria."
+            "textblock": "Protocol bacTRL-Spike-1 will be the first-in-human study of bacTRL-Spike, and the\n      first-in-human use of orally delivered bacTRL. Each oral dose of bacTRL-Spike contains\n      bacterial medium with either 1 billion (Group 1A), 3 billion (Group 2A) or 10 billion (Group\n      3A) colony-forming-units of live Bifidobacterium longum, which has been engineered to deliver\n      plasmids containing synthetic DNA encoding spike protein from SARS-CoV-2. Placebo will\n      consist of bacterial medium without bacteria."
         },
         "detailed_description": {
-            "textblock": "Protocol bacTRL-IL-Spike-1 will be the first-in-human study of bacTRL-Spike, and the\n      first-in-human use of orally delivered bacTRL. The trial is designed to evaluate the safety\n      and tolerability of orally delivered bacTRL-Spike vaccine in healthy adults.\n\n      Total anticipated enrollment is n=84, including 63 receiving active vaccine in bacterial\n      medium and 21 receiving placebo (bacterial medium only). The distribution of the sample size\n      will be as follows:\n\n        -  Group 1A (n=21): Single dose of bacTRL-Spike, equivalent to 1 billion colony forming\n           units (cfu) of Bifidiobacterium longum;\n\n        -  Group 1B (n=7): Single dose of placebo;\n\n        -  Group 2A (n=21): Single dose of bacTRL-Spike, equivalent to 3 billion cfu of B. longum;\n\n        -  Group 2B (n=7): Single dose of placebo;\n\n        -  Group 3A (n=21): Single dose of bacTRL-Spike, equivalent to 10 billion cfu of B. longum;\n\n        -  Group 3B (n=7): Single dose of placebo. The planned trial duration is 18 months.\n\n      Each participant will remain in the trial for 12-13 months, including a screening phase of up\n      to 14 days, intervention phase of 1 day and follow-up phase of 12 months."
+            "textblock": "Protocol bacTRL-Spike-1 will be the first-in-human study of bacTRL-Spike, and the\n      first-in-human use of orally delivered bacTRL. The trial is designed to evaluate the safety\n      and tolerability of orally delivered bacTRL-Spike vaccine in healthy adults.\n\n      Total anticipated enrollment is n=84, including 63 receiving active vaccine in bacterial\n      medium and 21 receiving placebo (bacterial medium only). The distribution of the sample size\n      will be as follows:\n\n        -  Group 1A (n=21): Single dose of bacTRL-Spike, equivalent to 1 billion colony forming\n           units (cfu) of Bifidiobacterium longum;\n\n        -  Group 1B (n=7): Single dose of placebo;\n\n        -  Group 2A (n=21): Single dose of bacTRL-Spike, equivalent to 3 billion cfu of B. longum;\n\n        -  Group 2B (n=7): Single dose of placebo;\n\n        -  Group 3A (n=21): Single dose of bacTRL-Spike, equivalent to 10 billion cfu of B. longum;\n\n        -  Group 3B (n=7): Single dose of placebo. The planned trial duration is 18 months.\n\n      Each participant will remain in the trial for 12-13 months, including a screening phase of up\n      to 14 days, intervention phase of 1 day and follow-up phase of 12 months."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
@@ -75,7 +75,7 @@
                 "description": "Isolation of viable bacTRL-Spike from stool post-vaccination"
             }
         ],
-        "number_of_arms": "2",
+        "number_of_arms": "6",
         "enrollment": {
             "@type": "Anticipated",
             "#text": "84"
@@ -83,25 +83,58 @@
         "condition": "COVID-19",
         "arm_group": [
             {
-                "arm_group_label": "bacTRL-Spike",
+                "arm_group_label": "bacTRL-Spike Group 1A",
                 "arm_group_type": "Experimental",
-                "description": "bacTRL-Spike is a live, genetically modified B. longum. Symvivo has transformed wild-type B. longum subsp. longum with a proprietary plasmid DNA molecule (pFRG3.5-Spike) to generate the bacTRL-Spike product.\nbacTRL-Spike is administered once, orally in doses of 1, 3 or 10 mL.\nGroup 1A (n=21): Single, 1 mL dose of bacTRL-Spike, equivalent to 1 billion colony forming units (cfu) of Bifidiobacterium longum;\nGroup 2A (n=21): Single, 3 mL dose of bacTRL-Spike, equivalent to 3 billion cfu of B. longum;\nGroup 3A (n=21): Single, 10 mL dose of bacTRL-Spike, equivalent to 10 billion cfu of B. longum;"
+                "description": "\u2022 Group 1A (n=21): Single, 1 mL dose of bacTRL-Spike, equivalent to 1 billion colony forming units (cfu) of Bifidiobacterium longum;"
             },
             {
-                "arm_group_label": "Placebo",
+                "arm_group_label": "bacTRL-Spike Group 2A",
+                "arm_group_type": "Experimental",
+                "description": "\u2022 Group 2A (n=21): Single, 3 mL dose of bacTRL-Spike, equivalent to 3 billion colony forming units (cfu) of Bifidobacterium longum;"
+            },
+            {
+                "arm_group_label": "bacTRL-Spike Group 3A",
+                "arm_group_type": "Experimental",
+                "description": "\u2022 Group 3A (n=21): Single, 10 mL dose of bacTRL-Spike, equivalent to 10 billion colony forming units (cfu) of Bifidobacterium longum;"
+            },
+            {
+                "arm_group_label": "Placebo Group 1B",
                 "arm_group_type": "Placebo Comparator",
-                "description": "Group 1B (n=7): Single dose of placebo;\nGroup 2B (n=7): Single dose of placebo;\nGroup 3B (n=7): Single dose of placebo."
+                "description": "\u2022 Group 1B (n=7): Single dose of placebo;"
+            },
+            {
+                "arm_group_label": "Placebo Group 2B",
+                "arm_group_type": "Placebo Comparator",
+                "description": "\u2022 Group 2B (n=7): Single dose of placebo;"
+            },
+            {
+                "arm_group_label": "Placebo Group 3B",
+                "arm_group_type": "Placebo Comparator",
+                "description": "\u2022 Group 3B (n=7): Single dose of placebo."
             }
         ],
-        "intervention": {
-            "intervention_type": "Biological",
-            "intervention_name": "bacTRL-Spike",
-            "description": "Each oral dose of bacTRL-Spike contains bacterial medium with either 1 billion (Group 1A), 3 billion (Group 2A) or 10 billion (Group 3A) cfu of live Bifidobacterium longum, which has been genetically modified to express the spike protein from the SARS-CoV2 virus.",
-            "arm_group_label": [
-                "Placebo",
-                "bacTRL-Spike"
-            ]
-        },
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "bacTRL-Spike",
+                "description": "Each oral dose of bacTRL-Spike contains bacterial medium with either 1 billion (Group 1A), 3 billion (Group 2A) or 10 billion (Group 3A) colony-forming-units of live Bifidobacterium longum, which has been engineered to deliver plasmids containing synthetic DNA encoding spike protein from SARS-CoV-2.",
+                "arm_group_label": [
+                    "bacTRL-Spike Group 1A",
+                    "bacTRL-Spike Group 2A",
+                    "bacTRL-Spike Group 3A"
+                ]
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "Placebo consists of bacterial medium without bacteria.",
+                "arm_group_label": [
+                    "Placebo Group 1B",
+                    "Placebo Group 2B",
+                    "Placebo Group 3B"
+                ]
+            }
+        ],
         "eligibility": {
             "criteria": {
                 "textblock": "Inclusion Criteria:\n\n          -  Capable to and does provide written informed consent;\n\n          -  Able to understand and agrees to comply with planned study procedures and be available\n             for all study visits;\n\n          -  Body Mass Index 18-35 kg/square meter, inclusive, at screening;\n\n          -  Women of childbearing potential must agree to use or have practiced true abstinence or\n             use at least one acceptable primary form of contraception.Note: These criteria are\n             applicable to females in a heterosexual relationship and child-bearing potential\n             (i.e., the criteria do not apply to participants in a same sex relationship).\n\n          -  Women of childbearing potential must have a negative urine or serum pregnancy test\n             within 24 hours prior to initiation of vaccination;\n\n          -  Male participants of childbearing potential: use of condoms to ensure effective\n             contraception with a female partner from first vaccination until 3 months after the\n             last vaccination.\n\n          -  Male participants agree to refrain from sperm donation from the time of first\n             vaccination until 3 months after the last vaccination.\n\n          -  Pulse no greater than 100 beats per minute;\n\n          -  Systolic blood pressure (BP) is 85 to 150 mmHg, inclusive;\n\n          -  Clinical screening laboratory evaluations (white blood cell (WBC), hemoglobin (Hgb),\n             platelets (PLTs), alanine transaminase (ALT), aspartate transaminase (AST), creatinine\n             (Cr), alkaline phosphatase (ALP), total bilirubin (T. Bili), Lipase, prothrombin time\n             (PT), and partial thromboplastin time (PTT)) are within acceptable normal reference\n             ranges at the clinical laboratory being used;\n\n          -  Agree to have samples stored for secondary research.\n\n        Exclusion Criteria:\n\n          -  Positive pregnancy test either at screening or just prior to vaccine administration.\n\n          -  Female participant who is breastfeeding or plans to breastfeed from the time of the\n             first vaccination through 3 months after the last vaccination.\n\n          -  Has acute or chronic inflammatory condition of the gastrointestinal tract including,\n             but not limited to, Crohn's disease, ulcerative colitis, gastritis, proctitis, or any\n             other inflammatory bowel disorder\n\n          -  Has any medical disease or condition that, in the opinion of the site PI or\n             appropriate sub-investigator, precludes study participation (including but not limited\n             to acute, subacute, intermittent or chronic medical disease or condition that would\n             place the participant at an unacceptable risk of injury, render the participant unable\n             to meet the requirements of the protocol, or may interfere with the evaluation of\n             responses or the participant's successful completion of this trial.)\n\n          -  Presence of self-reported or medically documented significant medical or psychiatric\n             condition(s).\n\n          -  Significant medical or psychiatric conditions include but are not limited to:\n\n        Respiratory disease, significant cardiovascular disease, neurological or neurodevelopmental\n        conditions, ongoing malignancy or recent diagnosis of malignancy in the last five years\n        (excluding basal cell and squamous cell carcinoma of the skin, which are allowed), an\n        autoimmune disease, including hypothyroidism without a defined non-autoimmune cause,\n        localized or history of psoriasis, an immunodeficiency of any cause.\n\n          -  Presence of an indwelling prosthetic device or other foreign vaccination\n\n          -  Has a positive test result for hepatitis B surface antigen, hepatitis C virus\n             antibody, or HIV types 1 or 2 antibodies at screening.\n\n          -  Has participated in another investigational study involving any investigational\n             product (study drug, biologic or device) within 60 days, or 5 half-lives, whichever is\n             longer, before the first vaccine administration.\n\n          -  Currently enrolled in or plans to participate in another clinical trial with an\n             investigational agent (including licensed or unlicensed vaccine, drug, biologic,\n             device, blood product, or medication) that will be received during the trial period.\n\n          -  Has a history of hypersensitivity or severe allergic reaction (e.g., anaphylaxis,\n             generalized urticaria, angioedema, other significant reaction) to any previous\n             licensed or unlicensed vaccines.\n\n          -  Chronic use (more than 14 continuous days) of any medications that may be associated\n             with impaired immune responsiveness. Including, but not limited to: systemic\n             corticosteroids exceeding 10 mg/day of prednisone equivalent, allergy injections,\n             immunoglobulin, interferon, immunomodulators, cytotoxic drugs, or other similar or\n             toxic drugs during the preceding 6-month period prior to vaccine administration (Day\n             1). The use of low dose topical, ophthalmic, inhaled and intranasal steroid\n             preparations will be permitted.\n\n          -  Received immunoglobulins and/or any blood or blood products within the 4 months before\n             the first vaccine administration or at any time during the study.\n\n          -  Has any blood dyscrasias or significant disorder of coagulation.\n\n          -  Has any chronic liver disease, including fatty liver.\n\n          -  Has a history of alcohol abuse or other recreational drug (excluding cannabis) use\n             within 6 months before the first vaccine administration.\n\n          -  Received or plans to receive a licensed, live vaccine within 4 weeks before or after\n             each vaccination.\n\n          -  Received or plans to receive a licensed, inactivated vaccine within 2 weeks before or\n             after each vaccination.\n\n          -  Receipt of any other SARS-CoV-2/COVID-19, or other experimental coronavirus vaccine at\n             any time prior to or during the study.\n\n          -  Known previous laboratory-confirmed SARS-CoV-2/COVID-19 infection.\n\n          -  Known close contact of anyone with laboratory-confirmed SARS-CoV-2/COVID-19 infection\n             within 2 weeks prior to vaccine administration.\n\n          -  Has traveled outside Canada for any duration within 30 days before the first\n             vaccination.\n\n          -  Household contact with any medical condition or taking medications that may result in\n             immunosuppression.\n\n          -  Current use of any antibiotics or probiotic supplements within 7 days prior to\n             vaccination and any anticipated use for 7 days post vaccination.\n\n          -  The participant must agree to refrain from donating blood or plasma during the study.\n\n          -  Oral temperature is greater than or equal to 37.8 degrees Celsius (temporary exclusion\n             criteria)."
@@ -111,20 +144,32 @@
             "maximum_age": "55 Years",
             "healthy_volunteers": "Accepts Healthy Volunteers"
         },
-        "overall_official": {
-            "last_name": "Eric Sievers",
-            "role": "Study Director",
-            "affiliation": "Consulting Chief Medical Officer"
-        },
+        "overall_official": [
+            {
+                "last_name": "Eric L Sievers, MD",
+                "role": "Study Director",
+                "affiliation": "Chief Medical Officer"
+            },
+            {
+                "last_name": "Manish Sadarangani, MRCPCH, DPHIL",
+                "role": "Study Chair",
+                "affiliation": "Principal Investigator"
+            },
+            {
+                "last_name": "Joanne Langley, MD, FRCPSC",
+                "role": "Principal Investigator",
+                "affiliation": "Principal Investigator"
+            }
+        ],
         "overall_contact": {
-            "last_name": "Alexander Graves",
+            "last_name": "Alexander Graves, PhD, MBA",
             "phone": "(604) 428-7474",
-            "email": "agraves@symvivo.com"
+            "email": "bd@symvivo.com"
         },
         "overall_contact_backup": {
-            "last_name": "Michelle Jones",
+            "last_name": "Michelle Jones, RN, M.Sc., MBA",
             "phone": "604-428-7474",
-            "email": "mjones@symvivo.com"
+            "email": "bd@symvivo.com"
         },
         "location": [
             {
@@ -138,9 +183,8 @@
                     }
                 },
                 "contact": {
-                    "last_name": "Karen Simmons, M. Sc.",
-                    "phone": "6048752757",
-                    "email": "ksimmons@bcchr.ubc.ca"
+                    "last_name": "Mistin Wilkinson",
+                    "email": "mistin.wilkinson@bcchr.ubc.ca"
                 },
                 "investigator": [
                     {
@@ -194,24 +238,21 @@
         "location_countries": {
             "country": "Canada"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 31, 2020",
         "study_first_submitted_qc": "April 2, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"
-        },
-        "intervention_browse": {
-            "mesh_term": "Vaccines"
         },
         "patient_data": {
             "sharing_ipd": "Undecided"

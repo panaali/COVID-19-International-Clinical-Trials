@@ -1,0 +1,137 @@
+{
+    "clinical_study": {
+        "@rank": "190",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341792"
+        },
+        "id_info": {
+            "org_study_id": "2020_33",
+            "secondary_id": "2020-A00906-33",
+            "nct_id": "NCT04341792"
+        },
+        "brief_title": "Predictive Biomarkers of Secondary Aggravation in Covid-19 Suspect Patient",
+        "acronym": "BIOCOVU",
+        "official_title": "Predictive Biomarkers of Secondary Aggravation in Covid-19 Suspect Patient Admitted to Emergency Departments During an Epidemic",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Lille",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Lille",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "There is no predictive tool for patients admitted to the emergency department with a\n      suspicion of Covid-19 that will worsen secondarily and require a heavy lifting.\n\n      In a context of saturation of the healthcare system by the pandemic at Covid-19,it is\n      essential to identify specific, accessible prognostic markers via minimally invasive sampling\n      with low risk of infection for personnel caregiver, for optimal allocation of resuscitation\n      resources.\n\n      This study proposes to evaluate the biological markers of routine care known to be associated\n      with resuscitation admission in relation to hospitalization on conventional service for the\n      prediction of worsening of patients admitted to the emergencies for Covid-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Rate of secondary aggravation",
+            "time_frame": "At 30 days of admission to the emergency department",
+            "description": "Secondary aggravation is defined as :\na re-hospitalization or\naggravation in hospitalization : development or increase in oxygen dependency, hemodynamic failure, and/or respiratory, death"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Change of standart biological parameters",
+                "time_frame": "Between baseline and at 30 days of admission to the emergency department",
+                "description": "the number of leukocytes, lymphocytes, neutrophil polynuclear cells, CRP, fibrinogen, and the D-dimers."
+            },
+            {
+                "measure": "Change of Von willebrand factor (vWF) changes over time",
+                "time_frame": "Between baseline and at 30 days of admission to the emergency department"
+            },
+            {
+                "measure": "Change of the Factor VIII (FVIII)",
+                "time_frame": "Between baseline and at 30 days of admission to the emergency department"
+            },
+            {
+                "measure": "Prevalence of positivity of COVID-19 virus measured by PCR or serology",
+                "time_frame": "At 30 days of admission to the emergency department"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1000"
+        },
+        "condition": [
+            "Infection Viral",
+            "Coronavirus",
+            "COVID-19"
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Adult population presenting to the emergency department during this pandemic period with\n        symptoms suggestive of Covid-19 infection with no other probable diagnosis."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Clinical criteria for suspicion of Covid-19 in an epidemic period: Signs of acute\n             respiratory infection (rhinorrhea, odynophagia, cough, dyspnea, polypnea, signs of\n             struggle, pathological auscultation) or syndrome influenza or acute respiratory\n             distress (hypoxia, polypnoea, signs of respiratory distress).\n\n          -  Consultation in the emergency departement\n\n          -  Non-opposition agree\n\n        Exclusion Criteria:\n\n          -  Respiratory impairment related to another identified cause than Covid-19, in\n             particular a rapid diagnostic test flu-positive\n\n          -  Severe patient from the outset with transfer to intensive care within 12 hours of\n             admission to the Emergency Department\n\n          -  No social security coverage (beneficiary or entitled person)\n\n          -  Poor understanding of French\n\n          -  Refusal to participate"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Delphine Garrigue, MD",
+            "role": "Principal Investigator",
+            "affiliation": "University Hospital, Lille"
+        },
+        "overall_contact": {
+            "last_name": "Delphine Garrigue, MD",
+            "phone": "03 20 44 67 97",
+            "phone_ext": "+33",
+            "email": "Delphine.garrigue@chru-lille.fr"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "infection viral",
+            "biological risk factor",
+            "coronavirus",
+            "covid-19"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Virus Diseases"
+            ]
+        }
+    }
+}

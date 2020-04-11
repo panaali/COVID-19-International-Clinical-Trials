@@ -1,0 +1,163 @@
+{
+    "clinical_study": {
+        "@rank": "336",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341714"
+        },
+        "id_info": {
+            "org_study_id": "GREEN GRC01",
+            "nct_id": "NCT04341714"
+        },
+        "brief_title": "Efficiency and Satisfaction With Telephone Consultation in Neuro-urology: Experience of the COVID-19 Pandemic",
+        "official_title": "Efficiency and Satisfaction With Telephone Consultation in Neuro-urology: Experience of the COVID-19 Pandemic",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Pierre and Marie Curie University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Pierre and Marie Curie University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The COVID-19 pandemic has necessitated drastic measures in order to limit the spread of\n      SARS-CoV-2. The stay home policies for the whole population and especially for frail patients\n      and the express instruction to deprogram non-urgent consultations and interventions limited\n      the clinic visits in neuro-urology department. In this context, telemedicine was seen as a\n      pragmatic solution to provide follow-up care for our neurologic patients. Due to the delay in\n      deploying telemedicine and the cognitive impairment of some of our patients, telephone\n      consultation has been prioritized.\n\n      The COVID-19 pandemic might be an opportunity to review and refine our practices in\n      neuro-urology. For the follow-up of selected patients, telephone consultations may be\n      efficient and cost effective.\n\n      The aim of the study is to assess the efficiency and the satisfaction with telephone\n      consultation for the physician and the patient.\n\n      The study was conducted in a neuro-urology department of a university hospital in France.\n\n      During the stay-home policies for the COVID-19 pandemic, all the scheduled medical visits\n      were converted into telephone consultation. New patients weren't included.\n\n      For each teleconsultation, the physician assess the duration of the consultation, the number\n      of tries to join the patient, the efficiency of the consultation, the difficulty to obtain\n      relevant information due to the phone way of the consultation and the lack of physical\n      examination.\n\n      On the next days, the patient was contacted by phone and was asked a) if he was satisfied of\n      being phoned by the physician, b) if the teleconsultation was embarrassing, c) if he had\n      enough time of teleconsultation d) if he got all the answers to his queries, e) if he would\n      preferred to had a physical consultation f) to assessed the global satisfaction of the\n      teleconsultation and g) if in the future, they may considered converting some clinic visits\n      to teleconsultations.\n\n      The physician and the patient assessed whether this teleconsultation has replaced a physical\n      visit.\n\n      The usual transport mode of the patient for a clinic visit and the need to take a day off for\n      worker patients were recorded.\n\n      The primary aim was to assess the efficiency and the satisfaction of the telephone\n      consultation. The primary outcome was the evaluation of the efficiency of the telephone\n      consultation by the physician on a numerical 10-points scale. The secondary outcome was the\n      evaluation of the satisfaction of the telephone consultation by the patient on a numerical\n      10-points scale.\n\n      Four hundred teleconsultations are scheduled for five physicians."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 16, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 15, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 30, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Efficiency of the telephone consultation",
+            "time_frame": "1 day",
+            "description": "The primary outcome was the evaluation of the efficiency of the telephone consultation by the physician on a numerical 10-points scale."
+        },
+        "secondary_outcome": {
+            "measure": "Satisfaction of the telephone consultation",
+            "time_frame": "1 day",
+            "description": "The secondary outcome was the evaluation of the satisfaction of the telephone consultation by the patient on a numerical 10-points scale."
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "400"
+        },
+        "condition": [
+            "Efficacy, Self",
+            "Satisfaction, Patient",
+            "Telemedicine"
+        ],
+        "arm_group": {
+            "arm_group_label": "patients enrolled",
+            "description": "Patients with telephone consultation on neurourology department, age > 18"
+        },
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Satisfaction evaluation",
+            "description": "Assessement of satisfaction of the telephone consultation",
+            "arm_group_label": "patients enrolled"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients with telephone consultation in a tertiary center in neuro-urology"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18 years old\n\n          -  Telephone consultation\n\n        Exclusion Criteria:\n\n          -  New patient in the department"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A"
+        },
+        "overall_official": {
+            "last_name": "G\u00e9rard Amarenco, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Sorbonne Universit\u00e9, GRC 001, GREEN Groupe de Recherche en Neuro-Urologie, AP-HP, H\u00f4pital Tenon, F-75020, Paris, France"
+        },
+        "overall_contact": {
+            "last_name": "Camille Chesnel, MD",
+            "phone": "0156017500",
+            "phone_ext": "+33",
+            "email": "greengrc01@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "G\u00e9rard Amarenco, PhD",
+            "phone": "0156017500",
+            "phone_ext": "+33",
+            "email": "greengrc01@gmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Department of Neuro- Urology, H\u00f4pital Tenon",
+                "address": {
+                    "city": "Paris",
+                    "zip": "75020",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Camille Chesnel, MD",
+                "phone": "0156017500",
+                "phone_ext": "+33",
+                "email": "greengrc01@gmail.com"
+            },
+            "contact_backup": {
+                "last_name": "G\u00e9rard Amarenco, PhD",
+                "phone": "0156017500",
+                "phone_ext": "+33",
+                "email": "greengrc01@gmail.com"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Pierre and Marie Curie University",
+            "investigator_full_name": "G\u00e9rard Amarenco",
+            "investigator_title": "PHD"
+        },
+        "keyword": [
+            "telemedicine",
+            "neurourology",
+            "efficacy",
+            "satisfaction"
+        ],
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

@@ -1,17 +1,17 @@
 {
     "clinical_study": {
-        "@rank": "276",
+        "@rank": "316",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04338945"
         },
         "id_info": {
-            "org_study_id": "COVID-surgRES-Italy",
+            "org_study_id": "COVID-ItaliansurgRES-SPIGC",
             "nct_id": "NCT04338945"
         },
-        "brief_title": "Impact of COVID-19 Emergency on Italian Surgical Residents",
-        "official_title": "Impact of COVID-19 Emergency on Italian Surgical Residents",
+        "brief_title": "Impact of Pandemic COVID-19 on Surgical Specialities Residents in Italy",
+        "official_title": "Impact of Pandemic COVID-19 on Surgical Specialities Residents in Italy: an Italian Polispecialistic Society of Young Surgeons (S.P.I.G.C.) Survey",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Ospedale Policlinico San Martino",
@@ -27,7 +27,7 @@
             "textblock": "The Coronavirus Emergency has severely affected Italian Healthcare National System. This\n      event made it necessary to adopt extraordinary containment measures and to allocate\n      extraordinary resources in Italian hospitals. In many centers routinely elective surgical\n      activity has been decreased or even completely abolished. We believe that this exceptional\n      condition is being consequently having a significant impact on surgical training programs."
         },
         "detailed_description": {
-            "textblock": "Purpose of this investigation is to establish the impact of COVID-19 emergency in the work\n      and training activities of Italian surgical residents.\n\n      There will be collected the residents' impressions by completing a survey on this topic."
+            "textblock": "Purpose of this investigation, organized by the Italian Polispecialistic Society of Young\n      Surgeons (S.P.I.G.C.), is to establish the impact of COVID-19 emergency in the work and\n      training activities of Italian surgical residents.\n\n      There will be collected the residents' impressions by completing a survey on this topic."
         },
         "overall_status": "Enrolling by invitation",
         "start_date": {
@@ -86,15 +86,71 @@
             "maximum_age": "N/A",
             "healthy_volunteers": "Accepts Healthy Volunteers"
         },
-        "location": {
-            "facility": {
-                "name": "Ospedale Policlinico San Martino",
-                "address": {
-                    "city": "Genova",
-                    "country": "Italy"
+        "location": [
+            {
+                "facility": {
+                    "name": "U.O.C. Chirurgia Generale Universitaria \"V. Bonomo\"",
+                    "address": {
+                        "city": "Bari",
+                        "country": "Italy"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Ospedale Perrino Asl Brindisi",
+                    "address": {
+                        "city": "Brindisi",
+                        "country": "Italy"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Dipartimento di scienze mediche e chirurgiche, Universit\u00e0 di Catanzaro",
+                    "address": {
+                        "city": "Catanzaro",
+                        "country": "Italy"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Ospedale Policlinico San Martino",
+                    "address": {
+                        "city": "Genova",
+                        "country": "Italy"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Azienda Ospedaliera San Camillo-Forlanini",
+                    "address": {
+                        "city": "Roma",
+                        "country": "Italy"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "IRCCS Fondazione Policlinico Universitario Agostino Gemelli",
+                    "address": {
+                        "city": "Roma",
+                        "country": "Italy"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Ospedale Cristo re",
+                    "address": {
+                        "city": "Roma",
+                        "country": "Italy"
+                    }
                 }
             }
-        },
+        ],
         "location_countries": {
             "country": "Italy"
         },
@@ -105,11 +161,11 @@
             "@type": "Actual",
             "#text": "April 8, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 8, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",
@@ -120,9 +176,6 @@
         "keyword": [
             "resident wellness",
             "surgical residency"
-        ],
-        "condition_browse": {
-            "mesh_term": "Emergencies"
-        }
+        ]
     }
 }

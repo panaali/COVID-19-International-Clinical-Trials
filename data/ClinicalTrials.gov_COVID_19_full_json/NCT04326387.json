@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "352",
+        "@rank": "341",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04326387"
         },
@@ -10,7 +10,7 @@
             "org_study_id": "COVIDx",
             "nct_id": "NCT04326387"
         },
-        "brief_title": "Evaluation of Novel Diagnostic Tests for 2019-nCOV",
+        "brief_title": "Evaluation of Novel Diagnostic Tests for COVID-19",
         "acronym": "COVIDx",
         "official_title": "Evaluation of Novel Diagnostic Tests for 2019-nCOV",
         "sponsors": {
@@ -28,10 +28,10 @@
         "brief_summary": {
             "textblock": "COVID-19 (also known as Coronavirus) originated in the Wuhan China and has since spread to at\n      least 159 countries around the world. It was declared a pandemic by the World health\n      organisation on the 11th of March 2020. The cases in the United Kingdom continue to increase\n      exponentially with up to 5 683 people diagnosed as on the 22nd of March 2020. It is estimated\n      that 1 in 5 people diagnosed will require hospital admission and 1 in 20 intensive care\n      treatment. By developing and improving diagnostic testing, we can accurately diagnose\n      infected cases to triage appropriate treatments, identify individuals for quarantine in order\n      to prevent transmission and obtain information regarding patient's immune systems.\n\n      At present, the diagnostic test is a highly specific method of genetic amplification called\n      'Reverse Transcription - Polymerase Chain Reaction' or RT-PCR, which allows detection of very\n      small amounts of genetic mutations caused by the COVID-19 virus. However, this method must be\n      completed in highly specialised facilities, which are few and far between, increasing time to\n      diagnosis (currently 48-72 hours), increasing exposure to non-infected individuals, and\n      overburdening the analysing facilities. The ideal solution is a point of care (POC) test that\n      can give results immediately. This study aims to harness the point of care technology of the\n      SAMBA II device (Diagnostics for the Real World Ltd.), which is a CE-marked device that has\n      been used with success in the identification of Human Immunodeficiency Virus (HIV), by\n      amplifying genetic material without the need to increase and decrease temperatures during the\n      amplification process.\n\n      In the COVIDx study, 200 patients meeting the Public Health England's (PHE) inpatient\n      definition of having suspected COVID-19 will be approached, consented and a sample from\n      throat and nasal swab (combined) or tracheal fluid taken and tested using the SAMBA II\n      method. A combination of the standard PHE RT-PCR and an additional validated laboratory PCR\n      technique will be used as a control in line with standard clinical practice. Patients will\n      undergo an additional serum tests on existing samples as made available after routine\n      clinical assessments to monitor antibody response. Patients will be followed for clinical\n      outcomes at 28 days post-admission."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 8, 2020"
+            "@type": "Actual",
+            "#text": "April 6, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -138,18 +138,53 @@
             "phone_ext": "348086",
             "email": "anne-laure.vallier@addenbrookes.nhs.uk"
         },
-        "verification_date": "March 2020",
+        "location": {
+            "facility": {
+                "name": "Cambridge University Hospitals NHS Foundation Trust",
+                "address": {
+                    "city": "Cambridge",
+                    "state": "Cambridgeshire",
+                    "zip": "CB2 0QQ",
+                    "country": "United Kingdom"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Ravi K Gupta, PhD",
+                "phone": "07500792984",
+                "email": "rkg20@cam.ac.uk"
+            },
+            "contact_backup": {
+                "last_name": "Dami Collier, MBBS",
+                "phone": "07888707113",
+                "email": "d.collier@ucl.ac.uk"
+            },
+            "investigator": [
+                {
+                    "last_name": "Ravi Gupta, PhD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Dami Collier, MBBS",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "United Kingdom"
+        },
+        "verification_date": "April 2020",
         "study_first_submitted": "March 26, 2020",
         "study_first_submitted_qc": "March 27, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 30, 2020"
         },
-        "last_update_submitted": "March 27, 2020",
-        "last_update_submitted_qc": "March 27, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 30, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

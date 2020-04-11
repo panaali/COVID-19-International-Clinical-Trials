@@ -1,0 +1,197 @@
+{
+    "clinical_study": {
+        "@rank": "250",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341935"
+        },
+        "id_info": {
+            "org_study_id": "20200384",
+            "nct_id": "NCT04341935"
+        },
+        "brief_title": "Effects of DPP4 Inhibition on COVID-19",
+        "official_title": "Effects of DPP4 Inhibition on COVID-19 Patients With Type 2 Diabetes",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Miami",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Miami",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this research is to see if the DPP4 inhibitor linagliptin, an oral medication\n      commonly used to treat type 2 diabetes,can help with diabetes control and reduce the severity\n      of the COVID-19 infection"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "phase": "Phase 4",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Changes in Glucose Llevels",
+            "time_frame": "Baseline, up to 2 weeks",
+            "description": "Change in glucose control will be assessed via glucose levels obtained from blood serum samples"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Changes in SpO2 levels",
+                "time_frame": "Baseline, up to 2 weeks",
+                "description": "changes in SpO2 will be measured with a Pulseimetry, an indirect, non-invasive method"
+            },
+            {
+                "measure": "Changes in Interleukin 6 (IL6)",
+                "time_frame": "Baseline, up to 2 weeks",
+                "description": "Changes in IL 6 will be assessed from blood serum samples"
+            },
+            {
+                "measure": "Changes in chest structures",
+                "time_frame": "Baseline, up to 2 weeks",
+                "description": "Changes in Chest radiography (X-ray)"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "20"
+        },
+        "condition": [
+            "Coronavirus Infection",
+            "Type 2 Diabetes"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "DPP4 group",
+                "arm_group_type": "Experimental",
+                "description": "Participants in the Dipeptidyl Peptidase 4 (DPP4) group will receive Linagliptin in addition to standard of care insulin regimen as per hospital protocol during hospitalization for up to 14 days"
+            },
+            {
+                "arm_group_label": "Control group",
+                "arm_group_type": "Active Comparator",
+                "description": "Participants in the control group will receive only the standard of care insulin regimen as per hospital protocol during hospitalization for up to 14 days"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Linagliptin",
+                "description": "5 mg Linagliptin administered by mouth once daily",
+                "arm_group_label": "DPP4 group",
+                "other_name": "Tradjenta"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Insulin regimen",
+                "description": "Standard of care insulin regimen as per hospital protocol",
+                "arm_group_label": "Control group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Type 2 Diabetes Mellitus (T2DM) as per American Diabetes Association (ADA) guidelines\n\n          -  Age \u2265 18\n\n          -  Confirmed COVID-19\n\n          -  Mild COVID-19 defined as any of the following: fever, malaise, cough, headache, sore\n             throat, myalgia, nasal congestion, diarrhea\n\n          -  Moderate COVID-19 is defined as > 2 of the following in non-intubated patients: any\n             symptom of mild disease, radiographic imaging (chest x-ray or lung ultrasound) with\n             bilateral ground glass opacities or bilateral consolidations, SpO2 <90% up to 5L Nasal\n             Cannula (NC)\n\n          -  No additional signs or symptoms of severe COVID-19.\n\n        Exclusion Criteria:\n\n          -  Type 1 Diabetes Mellitus (T1DM) diabetes, as per ADA guidelines\n\n          -  History of Diabetic Ketoacidosis (DKA)\n\n          -  History of acute pancreatitis\n\n          -  Chronic or Acute Renal Failure with Estimated Glomerular Filtration Rate (eGFR) < 30\n             ml/min/1.73 m2\n\n        Exclusion Criteria:\n\n        T1DM diabetes, as per ADA guidelines, History of DKA, History of acute pancreatitis;\n        Chronic or Acute Renal Failure with eGFR < 30 ml/min/1.73 m2"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Gianluca Iacobellis, MD PhD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Miami"
+        },
+        "overall_contact": {
+            "last_name": "Gianluca Iacobellis, MD PhD",
+            "phone": "3052433636",
+            "email": "giacobellis@med.miami.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Miami",
+                "address": {
+                    "city": "Miami",
+                    "state": "Florida",
+                    "zip": "33136",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "results_reference": [
+            {
+                "citation": "Vankadari N, Wilce JA. Emerging WuHan (COVID-19) coronavirus: glycan shield and structure prediction of spike glycoprotein and its interaction with human CD26. Emerg Microbes Infect. 2020 Mar 17;9(1):601-604. doi: 10.1080/22221751.2020.1739565. eCollection 2020.",
+                "PMID": "32178593"
+            },
+            {
+                "citation": "Iacobellis G. COVID-19 and diabetes: Can DPP4 inhibition play a role? Diabetes Res Clin Pract. 2020 Mar 26;162:108125. doi: 10.1016/j.diabres.2020.108125. [Epub ahead of print]",
+                "PMID": "32224164"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Miami",
+            "investigator_full_name": "Gianluca Iacobellis",
+            "investigator_title": "Professor of Medicine"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-Cov 2",
+            "DPP4",
+            "Type 2 diabetes"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Diabetes Mellitus, Type 2"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Insulin",
+                "Insulin, Globin Zinc",
+                "Linagliptin"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

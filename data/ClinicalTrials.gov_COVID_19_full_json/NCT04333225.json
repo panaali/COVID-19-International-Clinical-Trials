@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "52",
+        "@rank": "53",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04333225"
         },
@@ -28,7 +28,7 @@
         "brief_summary": {
             "textblock": "In order to assess the efficacy of hydroxychloroquine treatment weekly for a total of 7 weeks\n      in the prevention of COVID-19 infection, three hundred sixty (360) Healthcare workers with\n      high risk exposure to patients infected with COVID-19 will be tested for COVID-19 infection\n      via nasopharyngeal (NP) swab once weekly for 7 weeks. Of those, one hundred eighty (180) will\n      receive weekly doses of hydroxychloroquine for the duration of the study. Subjects who opt\n      not to receive the study drug will form the control group."
         },
-        "overall_status": "Recruiting",
+        "overall_status": "Enrolling by invitation",
         "start_date": {
             "@type": "Anticipated",
             "#text": "April 3, 2020"
@@ -103,16 +103,6 @@
             "role": "Principal Investigator",
             "affiliation": "Baylor Health Care System"
         },
-        "overall_contact": {
-            "last_name": "Laura Clariday, CCRC",
-            "phone": "214-820-7224",
-            "email": "Laura.Clariday@BSWHealth.org"
-        },
-        "overall_contact_backup": {
-            "last_name": "Rebecca Baker, MSN, APRN",
-            "phone": "214-820-7965",
-            "email": "Rebecca.Baker2@BSWHealth.org"
-        },
         "location": {
             "facility": {
                 "name": "Baylor University Medical Center",
@@ -122,21 +112,6 @@
                     "zip": "75226",
                     "country": "United States"
                 }
-            },
-            "status": "Recruiting",
-            "contact": {
-                "last_name": "Laura Clariday, CCRC",
-                "phone": "214-820-7224",
-                "email": "Laura.Clariday@BSWHealth.org"
-            },
-            "contact_backup": {
-                "last_name": "Rebecca Baker, MSN, APRN",
-                "phone": "214-820-7965",
-                "email": "Rebecca.Baker2@BSWHealth.org"
-            },
-            "investigator": {
-                "last_name": "Peter A McCullough, MD, MPH",
-                "role": "Principal Investigator"
             }
         },
         "location_countries": {
@@ -149,11 +124,11 @@
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "April 5, 2020",
-        "last_update_submitted_qc": "April 5, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

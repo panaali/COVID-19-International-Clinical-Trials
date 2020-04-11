@@ -1,0 +1,260 @@
+{
+    "clinical_study": {
+        "@rank": "95",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341116"
+        },
+        "id_info": {
+            "org_study_id": "TJ003234COV201",
+            "nct_id": "NCT04341116"
+        },
+        "brief_title": "Study of TJ003234 (Anti-GM-CSF Monoclonal Antibody) in Subjects With Severe Coronavirus Disease 2019 (COVID-19)",
+        "official_title": "A Phase 1b/2, Randomized, Double-Blind, Placebo-Controlled, Multi-Center Study to Evaluate the Safety and Efficacy of TJ003234 in Subjects With Severe Coronavirus Disease 2019 (COVID-19)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "I-Mab Biopharma Co. Ltd.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "I-Mab Biopharma Co. Ltd.",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a randomized, double-blind, placebo-controlled, multi-center trial to evaluate the\n      safety and efficacy of TJ003234 administered as an intravenous (IV) infusion in subjects with\n      severe COVID-19 under supportive care, and to assess the effect of TJ003234 on the levels of\n      cytokines."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "phase": "Phase 1/Phase 2",
+        "study_type": "Interventional",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Proportion (%) of subjects experiencing deterioration in clinical status",
+                "time_frame": "Changes from baseline on Day 14",
+                "description": "8-category ordinal scale"
+            },
+            {
+                "measure": "Treatment Emergent Adverse Events",
+                "time_frame": "Up to 30 days after drug administration",
+                "description": "Per CTCAE"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Proportion (%) of subjects experiencing deterioration in clinical status",
+                "time_frame": "Changes from baseline on Day 7 and Day 30",
+                "description": "8-category ordinal scale"
+            },
+            {
+                "measure": "Clinical status",
+                "time_frame": "On Day 7, Day 14 and Day 30",
+                "description": "8-category ordinal scale: 8, Death; 7, ventilation in addition to extracorporeal membrane oxygen (ECMO), continuous renal replacement therapy (CRRT) or pressors; 6, Intubation and mechanical ventilation; 5, non-invasive mechanical ventilation (NIV) or high-flow oxygen; 4,Oxygen by mask or nasal prongs; 3, Hospitalization without oxygen supplementation; 2, Limitation of activities, discharge from hospital; and 1, No limitation of activities, discharge from hospital"
+            },
+            {
+                "measure": "Improvement in clinical status",
+                "time_frame": "On Day 7, Day 14 and Day 30",
+                "description": "8-category ordinal scale: 8, Death; 7, ventilation in addition to extracorporeal membrane oxygen (ECMO), continuous renal replacement therapy (CRRT) or pressors; 6, Intubation and mechanical ventilation; 5, non-invasive mechanical ventilation (NIV) or high-flow oxygen; 4,Oxygen by mask or nasal prongs; 3, Hospitalization without oxygen supplementation; 2, Limitation of activities, discharge from hospital; and 1, No limitation of activities, discharge from hospital"
+            },
+            {
+                "measure": "Sequential Organ Failure Assessment (SOFA) score",
+                "time_frame": "On Day 7 and Day 14",
+                "description": "The score is based on six different scores, one each for the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems. A higher score predicts a worse clinical outcome."
+            },
+            {
+                "measure": "Change from baseline in PaO2/ FiO2",
+                "time_frame": "On Day 7 and Day 14"
+            },
+            {
+                "measure": "Length of time to normalization of oxygen saturation",
+                "time_frame": "Up to 30 days after drug administration",
+                "description": "Defined as SpO2\u226594% sustained minimum 24 hours"
+            },
+            {
+                "measure": "Change from baseline in percentage of subjects requiring mechanical ventilation",
+                "time_frame": "On Day 7 and Day 14"
+            },
+            {
+                "measure": "Change from baseline in Glucocorticoid use",
+                "time_frame": "On Day 7 and Day 14"
+            },
+            {
+                "measure": "Mortality rate from any cause",
+                "time_frame": "Up to 30 days after drug administration"
+            },
+            {
+                "measure": "Length of hospitalization",
+                "time_frame": "Up to 30 days after drug administration"
+            },
+            {
+                "measure": "Change from baseline in D-dimer",
+                "time_frame": "On Day 7 and Day 14"
+            },
+            {
+                "measure": "Serum concentration of TJ003234",
+                "time_frame": "Day 1 predose, Day 1 End of Infusion, Day 7 and Day 14"
+            },
+            {
+                "measure": "Incidence and titer of anti-drug antibodies (ADA)",
+                "time_frame": "Day 1 predose, Day 14"
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "144"
+        },
+        "condition": "Coronavirus Disease 2019 COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "TJ003234 3 mg/kg",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "TJ003234 6 mg/kg",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "TJ003234",
+                "description": "patients receive a single infusion",
+                "arm_group_label": [
+                    "TJ003234 3 mg/kg",
+                    "TJ003234 6 mg/kg"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "patients receive a single infusion",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age: 18 years or older (including 18 years); male or female\n\n          -  Laboratory-confirmed SARS-CoV-2 or COVID-19 infection as determined by polymerase\n             chain reaction (PCR) or other commercial or public health assay.\n\n          -  Bilateral lung infection confirmed by imaging.\n\n          -  Hospitalized patients \u226560 years old with underlying medical comorbidities OR Severe\n             disease that meets one of the following conditions: (i) At rest, finger blood oxygen\n             saturation \u2264 93% or PaO2/FiO2 \u2264 300 mmHg; OR (ii) Requiring non-invasive or invasive\n             mechanical ventilation.\n\n        Exclusion Criteria:\n\n          -  Any previous and/or current clinically significant disease or condition that has not\n             been stable within 3 months prior to enrollment, or acute illness, planned medical/\n             surgical procedure, or any trauma that occurred within 2 weeks prior to enrollment.\n\n          -  Chronic obstructive pulmonary disease (COPD) patients requiring inhaled\n             corticosteroid, long-acting beta-adrenergic agonists, long-acting anticholinergics, or\n             long-term oxygen therapy.\n\n          -  Pulmonary interstitial disease, pulmonary alveolar proteinosis, and pulmonary\n             granulomatosis.\n\n          -  Cardiovascular event in the 3 months prior to study drug administration: acute\n             myocardial infarction or unstable angina pectoris, severe arrhythmia (multiple sources\n             of frequent ventricular premature beat, ventricular tachycardia and ventricular\n             fibrillation); New York Heart Association Classification (NYHA): Class III-Class IV.\n\n          -  Blood system disorders or routine blood analysis test abnormalities: Hemoglobin < 8\n             g/dL; Absolute neutrophil count (ANC) <1500 \u00d7 109/L; Platelets < 50 \u00d7 109/L.\n\n          -  Dependence on glucocorticoid treatment equivalent to methylprednisolone 2 mg/kg/ day\n             or more or long-term use of anti-rejection or immunomodulatory drugs.\n\n          -  Subjects that require ECMO.\n\n          -  Pregnant or breastfeeding females."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Claire Xu, MD, PhD",
+            "role": "Study Director",
+            "affiliation": "I-Mab Biopharma US Limited"
+        },
+        "overall_contact": {
+            "last_name": "US Site Head",
+            "phone": "240-767-6981",
+            "email": "US.Info@I-MabBiopharma.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "OSF Healthcare Saint Francis Medical Center",
+                    "address": {
+                        "city": "Peoria",
+                        "state": "Illinois",
+                        "zip": "61637",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "email": "skwynn@uic.edu"
+                },
+                "investigator": {
+                    "last_name": "Joseph Kim, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Indiana University Health",
+                    "address": {
+                        "city": "Indianapolis",
+                        "state": "Indiana",
+                        "zip": "46202",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "email": "chage@iu.edu"
+                },
+                "investigator": {
+                    "last_name": "Chadi A. Hage, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Oschner Medical Center",
+                    "address": {
+                        "city": "New Orleans",
+                        "state": "Louisiana",
+                        "zip": "70121",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "email": "idresearch@ochsner.org"
+                },
+                "investigator": {
+                    "last_name": "Julia Garcia-Diaz, MD",
+                    "role": "Principal Investigator"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 4, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "405",
+        "@rank": "434",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT03680274"
         },
@@ -30,7 +30,7 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "LOVIT is a multicentre concealed-allocation parallel-group blinded randomized controlled\n      trial to ascertain the effect of high-dose intravenous vitamin C compared to placebo on\n      mortality or persistent organ dysfunction at 28 days in septic intensive care unit patients.\n      Patients with COVID-19 are considered eligible to this study."
+            "textblock": "LOVIT is a multicentre concealed-allocation parallel-group blinded randomized controlled\n      trial to ascertain the effect of high-dose intravenous vitamin C compared to placebo on\n      mortality or persistent organ dysfunction at 28 days in septic intensive care unit patients.\n      Patients with COVID-19 are considered eligible for this study."
         },
         "detailed_description": {
             "textblock": "Background. The burden of sepsis is increasing worldwide. It is the cause of 8 million global\n      deaths each year. Currently, treatment options are limited to antimicrobials and supportive\n      care such as intravenous fluids, vasopressors, mechanical ventilation, and renal replacement\n      therapy. In the absence of effective therapies specifically targeting the dysregulated immune\n      response, prolonged use of these life-sustaining therapies can be debilitating. A growing\n      body of evidence suggesting that vitamin C, an inexpensive and readily available\n      intervention, is potentially lifesaving in sepsis. Intravenous vitamin C may be the first\n      therapy to mitigate the dysregulated cascade of events that leads to sepsis. If proven\n      effective, vitamin C could be used worldwide and drastically change outcomes in high- and\n      low-income settings alike.\n\n      Objectives. To determine whether intravenous vitamin C, compared to placebo, reduces\n      mortality and morbidity in sepsis (induced by bacterial and viral pathogens (as COVID-19)),\n      and compare clinical and biochemical measures of organ dysfunction, and health-related\n      quality of life (HRQoL) at 6 months. To ascertain the volume of distribution, clearance, and\n      plasma concentration over a course of 96 hours of intravenous vitamin C 50 mg/kg of weight\n      every 6 hours or matching placebo (pharmacokinetic (PK) substudy).\n\n      Methods. Patients will be randomly assigned to vitamin C (intravenous, 50 mg/kg every 6h) or\n      placebo (0.9% NaCl or dextrose 5% in water) for 96 hours. Study personnel at the clinical\n      sites will document the composite of death or persistent organ dysfunction at day 28. Daily\n      assessments will occur for organ function, on days 1, 3, 7 for inflammation, infection, and\n      endothelial injury biomarkers, at baseline for vitamin C level, and at 6 months for mortality\n      and HRQoL. The LOVIT Trial will be conducted in adult general Canadian and international\n      intensive care units. For the PK substudy: Blood samples will be drawn around the 6th dose\n      (second dose on day 2) at time 0 and then after administration at times 1h, 2h, 4h and 6h\n      (the 6h level will be immediately prior to the next dose). The PK substudy will be conducted\n      with 100 participants in 3 of the 25 participating centers.\n\n      Relevance. In the context of increasing off-label use of vitamin C for sepsis and ongoing\n      trials of vitamin C bundled with other pharmacological interventions, the LOVIT Trial will\n      constitute a rigorous assessment of the effect of vitamin C monotherapy on patient-important\n      outcomes."
@@ -176,7 +176,7 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          1. Admitted to the intensive care unit with proven or suspected infection as the main\n             diagnosis;\n\n          2. Currently treated with a continuous IV infusion of vasopressors (norepinephrine,\n             epinephrine, vasopressin, dopamine, phenylephrine).\n\n        Exclusion Criteria:\n\n          1. > 24 hours of intensive care unit admission;\n\n          2. Known Glucose-6-phosphate dehydrogenase (G6PD) deficiency;\n\n          3. Pregnancy;\n\n          4. Known allergy to vitamin C;\n\n          5. Known kidney stones within the past 1 year;\n\n          6. Received any intravenous vitamin C during this hospitalization unless incorporated in\n             parenteral nutrition;\n\n          7. Expected death or withdrawal of life-sustaining treatments within 48 hours;\n\n          8. Previously enrolled in this study;\n\n          9. Previously enrolled in a trial with which co-enrolment is not allowed.\n\n        The LOVIT trial has broad eligibility criteria and includes patients with a primary\n        diagnosis of sepsis (including sepsis caused by viral pathogens as COVID-19)."
+                "textblock": "Inclusion Criteria:\n\n          1. Admitted to the intensive care unit with proven or suspected infection as the main\n             diagnosis;\n\n          2. Currently treated with a continuous IV infusion of vasopressors (norepinephrine,\n             epinephrine, vasopressin, dopamine, phenylephrine).\n\n        Exclusion Criteria:\n\n          1. > 24 hours of intensive care unit admission;\n\n          2. Known Glucose-6-phosphate dehydrogenase (G6PD) deficiency;\n\n          3. Pregnancy;\n\n          4. Known allergy to vitamin C;\n\n          5. Known kidney stones within the past 1 year;\n\n          6. Received any intravenous vitamin C during this hospitalization unless incorporated in\n             parenteral nutrition;\n\n          7. Expected death or withdrawal of life-sustaining treatments within 48 hours;\n\n          8. Previously enrolled in this study;\n\n          9. Previously enrolled in a trial with which co-enrolment is not allowed.\n\n        The LOVIT trial has broad eligibility criteria and includes patients with a primary\n        diagnosis of sepsis of any cause (including sepsis caused by viral pathogens as COVID-19)."
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -234,18 +234,18 @@
         "location_countries": {
             "country": "Canada"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "September 19, 2018",
         "study_first_submitted_qc": "September 20, 2018",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "September 21, 2018"
         },
-        "last_update_submitted": "March 20, 2020",
-        "last_update_submitted_qc": "March 20, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 24, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

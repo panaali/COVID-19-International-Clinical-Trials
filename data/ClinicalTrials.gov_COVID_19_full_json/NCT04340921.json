@@ -1,0 +1,220 @@
+{
+    "clinical_study": {
+        "@rank": "314",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04340921"
+        },
+        "id_info": {
+            "org_study_id": "282289",
+            "nct_id": "NCT04340921"
+        },
+        "brief_title": "The Role of Adaptive Immunity in COVID-19 Associated Myocardial Injury",
+        "official_title": "The Role of Adaptive Immunity in COVID-19 Associated Myocardial Injury",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Barts & The London NHS Trust",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Queen Mary University of London",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Barts & The London NHS Trust",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "COVID-19 is associated with complications including ARDS and myocardial injury, which informs\n      prognosis and patient outcome. The laboratory plans to perform immunophenotyping of\n      peripheral T-cells in patients with COVID-19 and complications (ARDS, ITU admission,\n      myocardial injury) and map this against clinical patient outcomes. The aim is to determine if\n      there is a specific T-cell immunophenotype associated with COVID-19 and/or complications,\n      which can be used to inform prognosis and potential therapies."
+        },
+        "detailed_description": {
+            "textblock": "Infection with the novel coronavirus SARS-CoV-2 (COVID-19) has now been designated a pandemic\n      by the World Health Organisation (WHO). COVID-19 infection can result in a severe pneumonitis\n      which, when present, dominates the clinical course for most patients. However, other organs\n      may also be directly or indirectly affected and the cardiovascular (CV) system appears to\n      have complex interactions with COVID-19. Published reports and personal communications detail\n      evidence of acute myocardial injury in 20-40% of hospitalised cases manifesting as cardiac\n      chest pain, fulminant heart failure, cardiac arrhythmias and cardiac death. Indeed, symptoms\n      of cardiac chest pain and palpitations are presenting features in some patients.\n\n      In hospitalized COVID-19 patients, cardiac injury is common, correlates with disease severity\n      and is likely to reflect a variety of mechanisms. The relative importance of these causes may\n      alter during the course of a severe illness and include local and systemic factors resulting\n      in myocardial infarction (type 1 or 2), virally-mediated cytolysis and\n      immunologically-mediated injury. More than one mechanism may be active at a time: for\n      example, troponin elevation is present in up to 80% of (non-COVID) patients hospitalised with\n      septic shock in the absence of significant epicardial coronary disease.\n\n      Many of those affected were previously well, but approximately half of those admitted to\n      hospitals in Hunan province with COVID-19 had known comorbidities, increasing to about two\n      thirds in those requiring ITU admission or those that do not survive. Indeed, patients with\n      pre-existing CV conditions (hypertension in particular) seem to have some of the worst\n      outcomes. These observations indicate that pre-existing CV disorders may reduce an\n      individual's capacity to withstand severe illness. Alternative hypotheses, that commonly used\n      treatments for CV disorders (or the diseases themselves) confer increased susceptibility to\n      COVID-19 disease are attracting intense speculation5. Angiotensin converting enzyme 2 (ACE2)\n      serves as the binding site for SARS-CoV-27. Levels of ACE2 may be affected by ACE-i/ARB\n      therapy, which has led to concerns over the use of these drugs during the current COVID-19\n      epidemic. At present there is no evidence that ACE2 is increased with RAS blockade in humans\n      and animal data is conflicting.\n\n      However, these mechanisms might not play a major role in the patients with no known\n      pre-existing conditions (approximately 50%), and additional mechanisms are likely to be\n      responsible for the acute myocardial injury detected in 20-40% of cases of hospitalised\n      cases6. A question central to potential therapeutic options is the extent to which myocardial\n      injury results from viral replication (cytopathic), is immune mediated or is due to other\n      mechanisms. Given that rapid deterioration can occur at least a week after symptomatic\n      disease (unpublished observations) it is proposed that evaluating the contribution of\n      adaptive T-cell mediated immunity and characterising its phenotype is pivotal to\n      understanding and targeting inflammation in COVID-19 associated myocardial injury.\n\n      The laboratory have discovered a subset of T-cells in mice and humans that specifically\n      migrate to the heart during cardiac inflammation9. Cardiac migration (cardiotropism) is\n      determined by expression of the hepatocyte growth factor (HGF) receptor c-Met, which is\n      triggered by the release of HGF by stromal cells in damaged cardiac tissue. HGF is\n      transported to local draining lymph nodes where it binds to the receptor c-Met on na\u00efve\n      T-cells, inducing c-Met expression and the upregulation of chemokine receptors CCR4 and\n      CXCR3. While c-Met expression enables T-cell cardiotropism, CCR4 and CXCR3 sustain selective\n      T-cell recruitment to the heart. Importantly, cardiotropic T-cells can be detected in the\n      circulation of mice and humans in heart allograft rejection and during acute myocarditis.\n      Staining of endomyocardial biopsy (EMB) samples from patients with acute myocarditis (AM) has\n      shown that cardiotropic (c-Met+) T-cells are present in the inflammatory myocardial\n      infiltrate (Pilot data, unpublished).\n\n      Pilot data has shown that it is possible detect a population of cardiotropic memory T-cells\n      (CD4/CD8+ c-Met+ CD45RO+) by flow cytometry of human peripheral blood mononuclear cells\n      (PBMCs) purified from a routine blood sample from patients with acute myocarditis. A\n      significantly greater proportion of cardiotropic memory T-cells has been detected in patients\n      with AM and inflammatory DCM (iDCM) relative to both healthy controls and patients with ST\n      elevation myocardial infarction. The laboratory have demonstrated that cardiotropic T-cell\n      proliferation in AM is dominantly driven by the cardiac autoantigen myosin heavy chain.\n      Cardiotropic T-cells in AM are also more likely to express markers of early activation such\n      as CD69+, and produce higher levels of the cytokines IL-4, IL-17A and IL-22, in line with\n      previous reports assessing the functional phenotype of T-cells in AM and DCM12. Neutralising\n      monoclonal antibodies against two of these cytokines are commercially available and approved\n      for use in humans (IL-17A - Ixekizumab and IL-4 - Dupilumab). An increase in the proportion\n      of cardiotropic regulatory T-cells has also been observed in AM. The laboratory has also\n      developed a mouse model of experimental autoimmune myocarditis (EAM), which spontaneously\n      progresses to DCM and allows monitoring of the presence and functional development of c-Met+\n      T cells in the circulation during, and as surrogate marker of disease progression.\n      Specifically, mice who develop chronic inflammation and subsequent DCM have been shown to\n      maintain high levels of c-Met+ T-cells in the blood, in contrast to mice that recover from\n      AM. Early treatment (day 8-18) with the c-Met inhibitor PHA-665752 following immunisation\n      with cardiac myosin can attenuate the rise in c-Met+ T-cells and reduce cardiac inflammation.\n\n      04. Original hypothesis\n\n      T-cell mediated autoimmunity is a key pathogenic factor in the development of myocardial\n      injury secondary to COVID-19 and that deep immunophenotyping of cardiotropic T-cells in these\n      patients will provide specific targets for disease-modifying immunosuppression. The aim is to\n      test the following hypotheses:\n\n        1. Patients with myocardial injury secondary to COVID-19 have evidence of cardiac\n           autoimmune inflammation reflected by the presence of circulating cardiotropic (c-Met+)\n           T-cells. These react to self-cardiac antigens and are functionally defined by a\n           pro-inflammatory phenotype.\n\n        2. The presence of cardiotropic T-cells in patients presenting with COVID-19 predicts the\n           development of myocardial injury.\n\n        3. The persistence of cardiotropic T-cells following COVID-19 associated myocardial injury\n           can be used to inform prognosis and therapy."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 10, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "T-cell immunophenotype",
+            "time_frame": "12 months from enrollment",
+            "description": "T-cell immunophenotype"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Mortality",
+                "time_frame": "12 months from enrolment",
+                "description": "death, survival to discharge"
+            },
+            {
+                "measure": "ITU admission",
+                "time_frame": "12 months from enrolment",
+                "description": "Admission to the intensive care"
+            },
+            {
+                "measure": "Myocardial injury",
+                "time_frame": "12 months from enrolment",
+                "description": "Defined by troponin rise to >99th centile"
+            }
+        ],
+        "number_of_groups": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "140"
+        },
+        "condition": [
+            "Cardiovascular Disease Acute",
+            "Cardiomyopathies",
+            "COVID"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "1. COVID-19+ (n=140)",
+                "description": "All patients \u226518 years old admitted to Barts NHS Trust will be eligible for this group. They will be recruited at the time of their COVID-19 diagnosis and T-cell immunophenotyping will be performed (below). Their clinical outcomes during the admission will be recorded from the electronic patient record (death, survival to discharge) in addition to relevant clinical (ECG changes, admission to ITU), imaging (cMRI and ECHO) and laboratory (troponin, CRP) findings using the attached case report form (appendix). They will be followed-up for at least 12 months following discharge and clinical outcomes (death, re-admission, development of heart failure) will be recorded. All patients in group 1 will have their electronic health record reviewed weekly to assess for complications such as myocardial injury and ARDS. Should myocardial injury or complications occur (below), they will undergo repeat immunophenotyping and be recruited to subgroups 2 or 3."
+            },
+            {
+                "arm_group_label": "2. COVID-19+ Myocardial injury+ (n=20)",
+                "description": "All patients \u226518 years old admitted to Barts NHS Trust who have a diagnosis of COVID-19 and evidence of myocardial injury (troponin >99th centile). Some of this cohort will be recruited from group 1, but we will also recruit patients who are transferred from external hospitals with established cardiac involvement. This cohort will undergo immunophenotyping (repeat if already recruited) at the point of diagnosis (or as soon as is technically feasible) and 3-6 months following hospital discharge. Their clinical outcomes during admission will also be recorded (above). We will exclude patients from this cohort who have significant chronic kidney disease (eGFR \u226430 or on dialysis) or septic shock. We will also exclude patients with a diagnosis of chronic heart failure and obstructive coronary artery disease (treated or untreated)."
+            },
+            {
+                "arm_group_label": "3. COVID-19+ Complication+ (n=20)",
+                "description": "All patients \u226518 years old admitted to the Barts NHS Trust who have a diagnosis of COVID-19 and who develop a complication directly related to the viral infection. Specifically, we will recruit patients who require admission to ICU, develop acute respiratory distress syndrome (ARDS) or secondary hemophagocytic lymphohistiocytosis (as defined in the referenced paper13). A number of this cohort will be recruited from patients in group 1, but also from patients who are transferred from external hospitals. This cohort will undergo immunophenotyping (repeat if already recruited) at the point of diagnosis (or as soon as is technically feasible)."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "COVID-19 exposure",
+            "description": "Observation only",
+            "arm_group_label": [
+                "1. COVID-19+ (n=140)",
+                "2. COVID-19+ Myocardial injury+ (n=20)",
+                "3. COVID-19+ Complication+ (n=20)"
+            ]
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All patients \u226518 years old admitted to the Barts NHS Trust who have a diagnosis of\n        COVID-19."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Patient groups\n\n          1. COVID-19+ (n=140) All patients \u226518 years old admitted to Barts NHS Trust will be\n             eligible for this group.\n\n          2. COVID-19+ Myocardial injury+ (n=20) All patients \u226518 years old admitted to Barts NHS\n             Trust who have a diagnosis of COVID-19 and evidence of myocardial injury (troponin\n             >99th centile). We will exclude patients from this cohort who have significant chronic\n             kidney disease (eGFR \u226430 or on dialysis) or septic shock. We will also exclude\n             patients with a diagnosis of chronic heart failure and obstructive coronary artery\n             disease (treated or untreated).\n\n          3. COVID-19+ Complication+ (n=20) All patients \u226518 years old admitted to the Barts NHS\n             Trust who have a diagnosis of COVID-19 and who develop a complication directly related\n             to the viral infection. Specifically, we will recruit patients who require admission\n             to ICU, develop acute respiratory distress syndrome (ARDS) or secondary hemophagocytic\n             lymphohistiocytosis (as defined in the referenced paper13)."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A"
+        },
+        "overall_official": [
+            {
+                "last_name": "Sam (Saidi) Mohiddin, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Barts & The London NHS Trust"
+            },
+            {
+                "last_name": "Federica Marelli-Berg, PhD",
+                "role": "Study Chair",
+                "affiliation": "Queen Mary University of London"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Daniel E Harding, BM BCh",
+            "phone": "020 7377 7000",
+            "email": "d.harding@qmul.ac.uk"
+        },
+        "overall_contact_backup": {
+            "last_name": "Sam (Saidi) Mohiddin, MD",
+            "email": "saidi.mohiddin@nhs.net"
+        },
+        "reference": [
+            {
+                "citation": "Gurwitz D. Angiotensin receptor blockers as tentative SARS-CoV-2 therapeutics. Drug Dev Res. 2020 Mar 4. doi: 10.1002/ddr.21656. [Epub ahead of print]",
+                "PMID": "32129518"
+            },
+            {
+                "citation": "Ramchand J, Patel SK, Srivastava PM, Farouque O, Burrell LM. Elevated plasma angiotensin converting enzyme 2 activity is an independent predictor of major adverse cardiac events in patients with obstructive coronary artery disease. PLoS One. 2018 Jun 13;13(6):e0198144. doi: 10.1371/journal.pone.0198144. eCollection 2018.",
+                "PMID": "29897923"
+            },
+            {
+                "citation": "Cooper LT Jr. Myocarditis. N Engl J Med. 2009 Apr 9;360(15):1526-38. doi: 10.1056/NEJMra0800028. Review.",
+                "PMID": "19357408"
+            },
+            {
+                "citation": "Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 16. pii: S0140-6736(20)30628-0. doi: 10.1016/S0140-6736(20)30628-0. [Epub ahead of print]",
+                "PMID": "32192578"
+            }
+        ],
+        "results_reference": [
+            {
+                "citation": "Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05991-x. [Epub ahead of print]",
+                "PMID": "32125452"
+            },
+            {
+                "citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.",
+                "PMID": "31986264"
+            },
+            {
+                "citation": "Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 11. pii: S0140-6736(20)30566-3. doi: 10.1016/S0140-6736(20)30566-3. [Epub ahead of print] Erratum in: Lancet. 2020 Mar 12;:.",
+                "PMID": "32171076"
+            },
+            {
+                "citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]",
+                "PMID": "32031570"
+            },
+            {
+                "citation": "Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular system. Nat Rev Cardiol. 2020 Mar 5. doi: 10.1038/s41569-020-0360-5. [Epub ahead of print]",
+                "PMID": "32139904"
+            },
+            {
+                "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
+                "PMID": "32007143"
+            },
+            {
+                "citation": "Komarowska I, Coe D, Wang G, Haas R, Mauro C, Kishore M, Cooper D, Nadkarni S, Fu H, Steinbruchel DA, Pitzalis C, Anderson G, Bucy P, Lombardi G, Breckenridge R, Marelli-Berg FM. Hepatocyte Growth Factor Receptor c-Met Instructs T Cell Cardiotropism and Promotes T Cell Migration to the Heart via Autocrine Chemokine Release. Immunity. 2015 Jun 16;42(6):1087-99. doi: 10.1016/j.immuni.2015.05.014. Epub 2015 Jun 9.",
+                "PMID": "26070483"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Cardiomyopathies",
+                "Cardiovascular Diseases"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "No IPD will be shared from this project."
+        }
+    }
+}

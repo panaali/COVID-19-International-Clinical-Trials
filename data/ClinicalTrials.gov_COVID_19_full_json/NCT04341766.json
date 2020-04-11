@@ -1,0 +1,252 @@
+{
+    "clinical_study": {
+        "@rank": "204",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341766"
+        },
+        "id_info": {
+            "org_study_id": "COVID-ECHO",
+            "nct_id": "NCT04341766"
+        },
+        "brief_title": "Evolution of Pulmonary Ultrasound in Patients Hospitalized for Covid (Coronavirus Disease) 19",
+        "official_title": "Prospective Descriptive Study on the Evolution of Pulmonary Ultrasound in Patients Hospitalized for Covid19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Centre Hospitalier Intercommunal Creteil",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Centre Hospitalier Intercommunal Creteil",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Clinical thoracic ultrasound plays an important role in the exploration, diagnosis and\n      follow-up of thoracic pathologies.\n\n      The COVID (Coronavirus Disease) epidemic is leading to a large influx of patients in the\n      emergency department with respiratory disorders. The rapid diagnosis of respiratory disorders\n      in infected patients is important for further management.\n\n      Chest ultrasound has already demonstrated its value in the diagnosis of pneumonia in the\n      emergency department with superiority over chest X-ray.\n\n      However, there is little data on the thoracic ultrasound semiology of viral pneumonia in\n      general and of COVID in particular."
+        },
+        "detailed_description": {
+            "textblock": "Chest ultrasound has already shown its value in the diagnosis of pneumonia in the emergency\n      department with superiority over chest X-ray.\n\n      However, there is little data on the thoracic ultrasound semiology of viral pneumonia in\n      general and of COVID in particular.\n\n      Peng reported data from 20 patients and compared them to chest CT. The abnormalities are a\n      thickening of the pleuropneumonia line, an interstitial syndrome with B lines, corresponding\n      to frosted glass opacities, confluent B lines (snowstorm appearance) corresponding to\n      interstitial infiltrate, sub-pleural alveolar opacities corresponding to sub-pleural\n      condensations, more frank alveolar images corresponding to alveolar opacities. A multifocal\n      aspect was associated with involvement of more than 2 lobes. However, the frequency of these\n      abnormalities as well as the sensitivity of the echo are not detailed in this article.\n\n      Another Italian article describes a clinical case of COVID-19 pneumonia with sub-pleural\n      involvement and irregularity of the pleuro-pulmonary line.\n\n      Clinical thoracic ultrasound has a major potential interest during the COVID epidemic:\n      available at the patient's bedside, avoiding the need to move around, feasible for the\n      physician during his visit, easy to clean especially if ultraportable devices are used, fast\n      and not exposing the staff any more than the usual clinical examination.\n\n      In order to determine whether this technique is useful in the management of infected patients\n      or patients suspected of COVID-19 infection with respiratory signs, we propose a descriptive\n      prospective study evaluating the ultrasound semiology of COVID-19 pneumonia and the interest\n      of ultrasound in the evolutionary follow-up of these patients."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2020"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "6 Weeks",
+        "primary_outcome": {
+            "measure": "Characteristics of pulmonary ultrasound for Covid-19 patients",
+            "time_frame": "Day one",
+            "description": "description of ultrasound abnormalities for Covid-19 patients"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Characteristics of pulmonary ultrasound for Covid-19 patients",
+                "time_frame": "Day 3",
+                "description": "description of ultrasound abnormalities for Covid-19 patients"
+            },
+            {
+                "measure": "Characteristics of pulmonary ultrasound for Covid-19 patients",
+                "time_frame": "Day 14",
+                "description": "description of ultrasound abnormalities for Covid-19 patients"
+            },
+            {
+                "measure": "Charateristics of pulmonary CT-scan for Covid-19 patients",
+                "time_frame": "Day 1",
+                "description": "description of CT-scan abnormalities for Covid-19 patients"
+            },
+            {
+                "measure": "Charateristics of pulmonary CT-scan for Covid-19 patients",
+                "time_frame": "Day 3",
+                "description": "description of CT-scan abnormalities for Covid-19 patients"
+            },
+            {
+                "measure": "Charateristics of pulmonary CT-scan for Covid-19 patients",
+                "time_frame": "Day 14",
+                "description": "description of CT-scan abnormalities for Covid-19 patients"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": [
+            "Pneumonia, Viral",
+            "COVID-19"
+        ],
+        "arm_group": {
+            "arm_group_label": "Patient hospitalised with COVID-19 infection",
+            "description": "Patients admitted to hospital with proven COVID-19 infection with respiratory signs warranting a chest CT scan"
+        },
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "No special intervention",
+            "description": "No special intervention : Ultrasound data will be collected",
+            "arm_group_label": "Patient hospitalised with COVID-19 infection"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patient admitted to hospital with proven COVID-19 infection with respiratory signs and who\n        need an hospitalization"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients admitted to hospital with proven COVID-19 infection with respiratory signs\n             warranting a chest CT scan\n\n        Exclusion Criteria:\n\n          -  Patient not agreeing to have his or her data collected for the study\n\n          -  Unconscious patient"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "105 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Gilles MANGIAPAN, MD",
+            "phone": "0033157022087",
+            "email": "gilles.mangiapan@chicreteil.fr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "CHG de Chambery",
+                    "address": {
+                        "city": "Chamb\u00e9ry",
+                        "zip": "73000",
+                        "country": "France"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Marie Coudurier, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Intercommunal de Cr\u00e9teil",
+                    "address": {
+                        "city": "Cr\u00e9teil",
+                        "zip": "94000",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Gilles Mangiapan, MD",
+                    "email": "gilles.mangiapan@chicreteil.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU de Limoges",
+                    "address": {
+                        "city": "Limoges",
+                        "zip": "87000",
+                        "country": "France"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Yannick Simonneau, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "APHM - Hopital Nord",
+                    "address": {
+                        "city": "Marseille",
+                        "zip": "13015",
+                        "country": "France"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Sophie Laroumagne, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU de Nancy",
+                    "address": {
+                        "city": "Nancy",
+                        "zip": "54035",
+                        "country": "France"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Ayman KHEIR, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hopital priv\u00e9 de la Loire",
+                    "address": {
+                        "city": "Saint-\u00c9tienne",
+                        "zip": "42100",
+                        "country": "France"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Antoine Luchez, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU de Tours",
+                    "address": {
+                        "city": "Tours",
+                        "zip": "37000",
+                        "country": "France"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Thomas Flament, MD"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 1, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Pneumonia, Viral",
+                "Pneumonia"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

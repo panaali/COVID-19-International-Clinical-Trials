@@ -1,0 +1,268 @@
+{
+    "clinical_study": {
+        "@rank": "419",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341727"
+        },
+        "id_info": {
+            "org_study_id": "202003188",
+            "nct_id": "NCT04341727"
+        },
+        "brief_title": "Hydroxychloroquine,Hydroxychloroquine,Azithromycin in the Treatment of SARS CoV-2 Infection",
+        "acronym": "WU352",
+        "official_title": "WU 352: Open-label, Randomized Controlled Trial of Hydroxychloroquine Alone or Hydroxychloroquine Plus Azithromycin or Chloroquine Alone or Chloroquine Plus Azithromycin in the Treatment of SARS CoV-2 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Washington University School of Medicine",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This Phase III trial four treatment strategies non-critically ill hospitalized participants\n      (not requiring ICU admission and/or mechanical ventilation) with SARS CoV-2 infection,\n      Participants will receive hydroxychloroquine or chloroquine with or without azithromycin."
+        },
+        "detailed_description": {
+            "textblock": "This Phase III trial will utilize four treatment strategies in non-critically ill\n      hospitalized participants (not requiring mechanical ventilation) with SARS CoV-2 infection,\n      Participants will receive hydroxychloroquine or chloroquine with or without azithromycin. We\n      are primarily interested in the time to recovery. In addition to study medications there will\n      be daily symptom surveys for 14 days, then weekly thereafter for 4 weeks resulting in a total\n      duration of follow up of 42 days. During hospitalization, daily symptom surveys will be\n      completed in conjunction with the study coordinators. On discharge participants will have the\n      option to complete electronic symptom surveys or complete symptom surveys via telephone with\n      study coordinator. In the event that the participant opts for electronic symptom surveys on\n      discharge they will in addition receive a follow up call from a study coordination every 7\n      days during the initial 14 day period. In addition, failure to submit a symptom survey will\n      prompt a study follow up call. Data from SOC will be collected from medical records."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 4, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 1, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Hours to recovery",
+            "time_frame": "42 days",
+            "description": "Time (hours) from randomization to recovery defined as 1) absence of fever, as defined as at least 48 hours since last temperature \u2265 38.0\u00b0C without the use of fever-reducing medications AND 2) absence of symptoms of greater than mild severity for 24 hours AND 3) not requiring supplemental oxygen beyond pre-COVID baseline AND 4) freedom from mechanical ventilation or death"
+        },
+        "secondary_outcome": {
+            "measure": "Time fever resolution",
+            "time_frame": "42 days",
+            "description": "Time to resolution of fever defined as at least 48 hours since last temperature \u2265 38.0\u00b0C without the use of fever-reducing medications"
+        },
+        "number_of_arms": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": "Coronavirus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Hydroxychloroquine alone",
+                "arm_group_type": "Active Comparator",
+                "description": "Arm 1: Hydroxychloroquine 400mg orally twice a day for one day, followed by 200mg twice a day for four consecutive days (Five days in total). The drug will be supplied in 200mg tablets."
+            },
+            {
+                "arm_group_label": "Hydroxychloroquine plus azithromycin",
+                "arm_group_type": "Active Comparator",
+                "description": "Arm 2: Hydroxychloroquine 400mg orally twice a day for one day, followed by 200mg twice a day for four consecutive days (Five days in total). The drug will be supplied in 200mg tablets.\nAND Azithromycin 500mg orally once, followed by 250mg daily for four consecutive days (five days total). The drug will be supplied in 250mg tablets."
+            },
+            {
+                "arm_group_label": "Chloroquine alone",
+                "arm_group_type": "Active Comparator",
+                "description": "Arm 3: Chloroquine phosphate 1000mg orally once, followed in 12 hours by 500mg, then 500mg orally twice daily for 4 days (Five days in total). The drug will be supplied in 500mg tablets."
+            },
+            {
+                "arm_group_label": "Chloroquine plus azithromycin",
+                "arm_group_type": "Active Comparator",
+                "description": "Arm 4: Chloroquine phosphate 1000mg orally once, followed in 12 hours by 500mg, then 500mg orally twice daily for 4 days (Five days in total). The drug will be supplied in 500mg tablets.\nAND Azithromycin 500mg orally once, followed by 250mg daily for 4 consecutive days (5 days total).The drug will be supplied in 250mg tablets."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine Sulfate",
+                "description": "anti-rheumatic drug (DMARD)",
+                "arm_group_label": [
+                    "Hydroxychloroquine alone",
+                    "Hydroxychloroquine plus azithromycin"
+                ],
+                "other_name": "HYDROXYCHLOROQUINE Plaquenil"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Azithromycin",
+                "description": "Antibiotic",
+                "arm_group_label": [
+                    "Chloroquine plus azithromycin",
+                    "Hydroxychloroquine plus azithromycin"
+                ],
+                "other_name": "COMMON BRAND(S): Zithromax GENERIC NAME(S): Azithromycin"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Chloroquine Sulfate",
+                "description": "Antimalarial",
+                "arm_group_label": [
+                    "Chloroquine alone",
+                    "Chloroquine plus azithromycin"
+                ],
+                "other_name": "Aralen GENERIC NAME(S): Chloroquine Phosphate"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Hospitalization for management of SARS CoV-2 infection\n\n          -  Positive SARS CoV-2 test\n\n          -  Age >=18 years\n\n          -  Provision of informed consent\n\n          -  Electrocardiogram (ECG) \u226448 hours prior to enrollment\n\n          -  Complete blood count, glucose-6 phosphate-dehydrogenase (G6PD), comprehensive\n             metabolic panel and magnesium \u226448 hours prior to enrollment from standard of care.\n\n          -  If participating in sexual activity that could lead to pregnancy, individuals of\n             reproductive potential who can become pregnant must agree to use contraception\n             throughout the study. At least one of the following must be used throughout the study:\n\n               -  Condom (male or female) with or without spermicide\n\n               -  Diaphragm or cervical cap with spermicide\n\n               -  Intrauterine device (IUD)\n\n               -  Hormone-based contraceptive\n\n        Exclusion Criteria:\n\n          -  Contraindication or allergy to chloroquine, hydroxychloroquine or azithromycin\n\n          -  Current use hydroxychloroquine, chloroquine or azithromycin\n\n          -  Concurrent use of another investigational agent\n\n          -  Invasive mechanical ventilation\n\n          -  Participants who have any severe and/or uncontrolled medical conditions such as:\n\n               -  unstable angina pectoris,\n\n               -  symptomatic congestive heart failure,\n\n               -  myocardial infarction,\n\n               -  cardiac arrhythmias or know prolonged QTc >470 males, >480 female on ECG\n\n               -  pulmonary insufficiency,\n\n               -  epilepsy (interaction with chloroquine),\n\n          -  Prior retinal eye disease\n\n          -  Concurrent malignancy requiring chemotherapy\n\n          -  Known Chronic Kidney disease, eGFR<10 or dialysis\n\n          -  G-6-PD deficiency, if unknown requires G6PD testing prior to enrollment\n\n               -  Known Porphyria\n\n               -  Known myasthenia gravis\n\n               -  Currently pregnant or planning on getting pregnant while on study\n\n               -  Breast feeding\n\n               -  AST/ALT >five times the upper limit of normal ULN*\n\n               -  Bilirubin >five times the ULN*\n\n               -  Magnesium <1.4 mEq/L*\n\n               -  Calcium <8.4mg/dL >10.6mg/dL*\n\n               -  Potassium <3.3 >5.5 mEg/L*"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Jane O'Halloran, MD PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Washington University School of Medicine (ID-CRU)"
+        },
+        "overall_contact": {
+            "last_name": "Michael Klebert, RN PhD",
+            "phone": "314 747 1098",
+            "email": "mklebert@wustl.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Jane O'Halloran, MD PhD",
+            "phone": "314-454-8354",
+            "email": "janeaohalloran@wustl.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Washington University School of Medicine Infectious Disease Clinical Research Unit",
+                    "address": {
+                        "city": "Saint Louis",
+                        "state": "Missouri",
+                        "zip": "63110",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Michael Klebert, RN PhD",
+                    "phone": "314-454-0058",
+                    "email": "mklebert@wustl.edu"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Rachel Presti, MD PhD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Jane O'Halloran, MD PhD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Klebert Michael, RN PhD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Adriana Rauseo Acevedo, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Philip Spinella, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Carlos Mejia Chew, RN",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Spec Andrej, MD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Washington University School of Medicine",
+                    "address": {
+                        "city": "Saint Louis",
+                        "state": "Missouri",
+                        "zip": "63110",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Michael Klebert, RN PhD",
+                    "phone": "314-747-1098",
+                    "email": "mklebert@wustl.edu"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Jane O'Hallorhan, MB BA PhD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Rachel Presti, MD PhD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 4, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Washington University School of Medicine",
+            "investigator_full_name": "Jane O'Halloran",
+            "investigator_title": "Assistant Professor in Medicine"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Hydroxychloroquine",
+                "Chloroquine",
+                "Chloroquine diphosphate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

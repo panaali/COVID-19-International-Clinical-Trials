@@ -1,0 +1,165 @@
+{
+    "clinical_study": {
+        "@rank": "137",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342104"
+        },
+        "id_info": {
+            "org_study_id": "08-04-2020",
+            "nct_id": "NCT04342104"
+        },
+        "brief_title": "NIV and CPAP Failure Predictors in COVID-19 Associated Respiratory Failure",
+        "official_title": "NIV and CPAP Failure Predictors in COVID-19 Associated Respiratory Failure",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hospital General Universitario Morales Meseguer",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Hospital General Universitario Morales Meseguer",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Evaluate HACOR socre utility and efficacy in predicting NIV and/or CPAP failure in patients\n      with COVID-19 associated respiratory failure.\n\n      Propose adaptations to HACOR score based on the \"state of art\" of COVID-19"
+        },
+        "detailed_description": {
+            "textblock": "Evaluate HACOR socre utility and efficacy in predicting NIV and/or CPAP failure in patients\n      with COVID-19 associated respiratory failure.\n\n      Propose adaptations to HACOR score based on the \"state of art\" of COVID-19\n\n      - this adaptations may include radiologic aggravation and monitoring of CRF, ferritin, LDH,\n      d-dimers, NT-proBNP, troponin I, GOT, GPT, blood count"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "HACOR score efficacy",
+                "time_frame": "1 hour after initation of CPAP or NIV",
+                "description": "Analyze if HACOR score is effective in predicting nonivasive ventilation failure in COVID-19 associated respiratory failure"
+            },
+            {
+                "measure": "HACOR score addaptation",
+                "time_frame": "1 - 2 weeks",
+                "description": "Analyze the role of possible variables to be added to HACOR score in order to improve efficay in COVID-19 patients"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": [
+            "Respiratory Failure",
+            "Covid-19"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "NIV",
+                "description": "Patients on Bilevel NIV"
+            },
+            {
+                "arm_group_label": "CPAP",
+                "description": "Patients on CPAP"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Monitoring for aggravation",
+            "description": "Monitor patients on CPAP or NIV and analyzing possible variables that may predict failure",
+            "arm_group_label": [
+                "CPAP",
+                "NIV"
+            ]
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients with acute respiratory failure due to COVID-19 who have initiated NIV or CPAP\n        based on assistant clinician decision"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with acute respiratory failure due to COVID-19 who have initiated NIV or CPAP\n             based on assistant clinician decision\n\n        Exclusion Criteria:\n\n          -  Patients with imediate indication to invasive mechanical ventilation\n\n          -  Patients with any formal contraindication to noninvasive respiratory support"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Miguel Guia",
+            "phone": "00351915774975",
+            "email": "miguelguia7@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Antonio Esquinas",
+            "phone": "0034609321966",
+            "email": "antmesquinas@gmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Hospital General Universitario Morales Meseguer",
+                "address": {
+                    "city": "Murcia",
+                    "country": "Spain"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Antonio Esquinas",
+                "phone": "0034609321966",
+                "email": "antmesquinas@gmail.com"
+            }
+        },
+        "location_countries": {
+            "country": "Spain"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Hospital General Universitario Morales Meseguer",
+            "investigator_full_name": "Miguel Filipe Martins de Matos Navarro Guia",
+            "investigator_title": "Dr."
+        },
+        "keyword": [
+            "noninvasive ventilation",
+            "CPAP",
+            "Covid-19",
+            "Respiratory failure",
+            "HACOR score"
+        ],
+        "condition_browse": {
+            "mesh_term": "Respiratory Insufficiency"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

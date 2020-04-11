@@ -1,0 +1,207 @@
+{
+    "clinical_study": {
+        "@rank": "108",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342182"
+        },
+        "id_info": {
+            "org_study_id": "NL73489.078.20",
+            "nct_id": "NCT04342182"
+        },
+        "brief_title": "Convalescent Plasma Therapy From Recovered Patients to Treat Severe SARS-CoV-2 Disease (CONCOVID Study)",
+        "acronym": "ConCoVid",
+        "official_title": "Convalescent Plasma Therapy From Recovered Patients to Treat Severe SARS-CoV-2 Disease",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Erasmus Medical Center",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Maasstad Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Erasmus Medical Center",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Passive immunization with immunoglobulins is occasionally used as therapy for the treatment\n      of viral infectious diseases. Immunoglobulins are used for the treatment of CMV disease, and\n      is effective as prophylaxis when given soon after exposure to varicella zoster virus, rabies,\n      and hepatitis B virus.\n\n      Neutralizing antibodies against MERS, SARS-CoV-1 and SARS-CoV-2 have been shown to be present\n      in patients previously infected with MERS, SARS-CoV-1 and SARS-CoV-2 respectively. During the\n      2003 SARS outbreak in Hong-Kong,a non-randomized study in hospitalized SARS patients showed\n      that treatment with convalescent plasma (convP) from SARS-recovered donors significantly\n      increased the day 22 discharge rate and decreased mortality. A study in non-human primates\n      showed that rhesus macaques could not be re-infected with SARS-CoV-2 after primary infection.\n\n      With no proven effective therapy against COVID-19, this protocol will evaluate the\n      therapeutic potential of therapy with convalescent plasma from COVID-19 recovered donors.\n\n      Primary objectives\n\n      \u2022 Decrease overall mortality in patients within COVID disease\n\n      Study design:\n\n      This trial is a randomized comparative trial. Patients will be randomized between the\n      infusion of 250mL of convP with standard of care.\n\n      Patient population:\n\n      Patients with PCR confirmed COVID disease, age >18 years Donors will be included with a known\n      history of COVID who have been asymptomatic for at least 24 hours.\n\n      Intervention: 250mL of convP Duration of treatment: ConvP will be given as a one-time\n      infusion Duration of follow up: Until discharge or death before day 60, whichever comes first\n\n      Target number of patients: 426 Target number of donors: 100"
+        },
+        "detailed_description": {
+            "textblock": "Secondary (exploratory) objectives\n\n        -  Evaluate the effect of 250ml convP on hospital stay\n\n        -  Evaluate the effect of 250ml convP on mortality in patients admitted to the ICU\n\n        -  Evaluate the effect of 250ml plasma therapy on hospital days for patients admitted to\n           the ICU within 24 hours after admission\n\n        -  Evaluate the impact of plasma therapy on the decrease in SARS-CoV2 shedding from airways"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "This trial is a randomized comparative trial. Patients will be randomized between the infusion of 250mL of convP versus the standard of care.",
+            "primary_purpose": "Treatment",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": {
+            "measure": "Overall mortality until discharge from the hospital or a maximum of 60 days after admission whichever comes first",
+            "time_frame": "until hospital discharge or a maximum of 60 days whichever comes first",
+            "description": "the mortality in the 250ml convP group will be compared with the control arm"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Impact of 250ml convP therapy on hospital days",
+                "time_frame": "until hospital discharge or a maximum of 60 days whichever comes first",
+                "description": "the hospital days in the 250ml convP group will be compared with the control arm"
+            },
+            {
+                "measure": "Impact of 250ml convP on weaning from oxygen therapy",
+                "time_frame": "until hospital discharge or a maximum of 60 days whichever comes first",
+                "description": "A patient will be considered weaned from oxygen therapy when the patient did not receive oxygen for at least 24 hours."
+            },
+            {
+                "measure": "Impact of 250ml convP on overall mortality in patients admitted to the ICU within 24 hours after admission",
+                "time_frame": "until hospital discharge or a maximum of 60 days whichever comes first",
+                "description": "the overall mortality in hospital days in patients admitted tot the ICU within 24 hours after admission in the 250ml convP group will be compared with the patients admitted tot the ICU within 24 hours after admission in the control arm"
+            },
+            {
+                "measure": "Difference in the effect of convP on mortality in patients with a duration of symptoms less or more the median duration of symptoms in the study population",
+                "time_frame": "hospital discharge or a maximum of 60 days whichever comes first",
+                "description": "The mortality in patients with a duration of symptoms less than the median duration of symptoms in the study population will be compared with the mortality in patients with a duration of symptoms more than the median duration of symptoms in the study population"
+            },
+            {
+                "measure": "Impact of 250ml convP therapy on ICU days in patients admitted to the ICU within 24 hours after admission",
+                "time_frame": "Until hospital discharge, estimated average 4 weeks",
+                "description": "the ICU days in hospital days in patients admitted to the ICU within 24 hours after admission in the 250ml convP group will be compared with the patients admitted tot the ICU within 24 hours after admission in the control arm"
+            },
+            {
+                "measure": "Impact of plasma therapy on the decrease in SARS-CoV2 shedding from airways",
+                "time_frame": "until hospital discharge, estimated average 2 weeks",
+                "description": "airway samples will be taken on day 1 - 3 - 5 - 7 - 10 - 14 - and at discharge"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "426"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Convalescent plasma",
+                "arm_group_type": "Experimental",
+                "description": "250mL of convalescent plasma from COVID-19 recovered donors"
+            },
+            {
+                "arm_group_label": "Standard of care",
+                "arm_group_type": "No Intervention",
+                "description": "supportive care, oxygen, antibiotics"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "Convalescent plasma",
+            "description": "Infusion of plasma retrieved from donors with a history of PCR proven symptomatic COVID.\nPlasma will be administered according to the Erasmus MC KIS protocol regarding the use of blood products",
+            "arm_group_label": "Convalescent plasma"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with PCR confirmed COVID disease\n\n          -  Written informed consent by patient or legal patient representative\n\n          -  Age >18\n\n        Exclusion Criteria:\n\n          -  Patient in which a \"no ICU admission\" or \"no invasive ventilation\" restriction was\n             implemented at the time of screening for the study\n\n        Donors: Eligibility for plasma donation\n\n        Inclusions Criteria:\n\n          -  A history of COVID infection that was documented by PCR\n\n          -  Known ABO-Resus(D) blood group\n\n          -  A negative screening for irregular antibodies\n\n          -  Asymptomatic for at least 24 hours\n\n          -  Donors will be restricted to those who had a symptomatic COVID infection defined as\n             documented fever 38.0 or higher C for at least 48 hours.\n\n          -  Written informed consent regarding the plasmapheresis procedure\n\n        Exclusion Criteria:\n\n          -  Age <18 years\n\n          -  Weight <45kg\n\n          -  Medical history of heart failure\n\n          -  History of transfusion with red blood cells, platelets or plasma\n\n          -  Born as a female person. The reason for this is a higher incidence of transfusion\n             related acute lung injury (TRALI) after plasma transfusion from a female donor"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Bart Rijnders, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Erasmus Medical Center"
+        },
+        "overall_contact": {
+            "last_name": "Bart Rijnders, MD, PhD",
+            "phone": "+31107033510",
+            "email": "b.rijnders@erasmusmc.nl"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Erasmus Medical Center",
+                    "address": {
+                        "city": "Rotterdam",
+                        "state": "Zuid-Holland",
+                        "zip": "3000 CA",
+                        "country": "Netherlands"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Bart Rijnders, MD, PhD",
+                    "phone": "+31104639222",
+                    "phone_ext": "35339",
+                    "email": "b.rijnders@erasmusmc.nl"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Casper Rokx, MD, PhD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Arvind Gharbharan, MD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Maasstad Ziekenhuis",
+                    "address": {
+                        "city": "Rotterdam",
+                        "country": "Netherlands"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Jan Den Hollander, MD, PhD"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Netherlands"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Erasmus Medical Center",
+            "investigator_full_name": "Bart Rijnders",
+            "investigator_title": "MD, PhD"
+        }
+    }
+}

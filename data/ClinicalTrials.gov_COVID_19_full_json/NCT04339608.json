@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "75",
+        "@rank": "78",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04339608"
         },
@@ -116,13 +116,13 @@
         "study_first_submitted": "April 7, 2020",
         "study_first_submitted_qc": "April 7, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 9, 2020"
         },
         "last_update_submitted": "April 7, 2020",
         "last_update_submitted_qc": "April 7, 2020",
         "last_update_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 9, 2020"
         },
         "responsible_party": {

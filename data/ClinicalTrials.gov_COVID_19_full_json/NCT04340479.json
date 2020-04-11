@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "307",
+        "@rank": "328",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04340479"
         },
@@ -95,7 +95,7 @@
             },
             "sampling_method": "Non-Probability Sample",
             "criteria": {
-                "textblock": "Inclusions: All trauma patients evaluated at our institution that present as a trauma\n        activation or alerts will be included in the study.\n\n        Exclusions: Patients who require prompt surgical exploration based on physical exam\n        findings to minimize delays in transport to the operating room. Patients with an open chest\n        injury."
+                "textblock": "Inclusions:\n\n          1. Trauma patients presenting to our institution as trauma activation\n\n          2. Trauma patients presenting to our institution as trauma alerts\n\n        Exclusions:\n\n          1. Patients who require prompt surgical exploration based on physical exam findings\n             (minimize delays in transport to the operating room)\n\n          2. Patients with an open chest injury"
             },
             "gender": "All",
             "minimum_age": "N/A",
@@ -135,14 +135,14 @@
         "study_first_submitted": "April 6, 2020",
         "study_first_submitted_qc": "April 6, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 9, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 9, 2020"
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

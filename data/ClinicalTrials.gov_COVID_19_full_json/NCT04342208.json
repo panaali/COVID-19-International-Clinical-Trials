@@ -1,0 +1,148 @@
+{
+    "clinical_study": {
+        "@rank": "376",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342208"
+        },
+        "id_info": {
+            "org_study_id": "GPA1347",
+            "nct_id": "NCT04342208"
+        },
+        "brief_title": "Evaluate the Working Environments of Individuals Working From Home During Covid-19 Outbreak",
+        "official_title": "Evaluate the Working Environments of Individuals Working From Home During Covid-19 Outbreak",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Istanbul University-Cerrahpasa",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Istanbul University-Cerrahpasa",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The study aims to evaluate the working environments of individuals working from home during\n      the covid-19 outbreak and the effect of the working environments on their musculoskeletal\n      system.\n\n      The study will include 500 people between the ages of 18-65 who works from home (works in the\n      office before isolation) as a part of Covid-19 isolation measure. The working environment of\n      the individuals participating in the study will be evaluated with The Rapid Office Strain\n      Assessment (ROSA). Musculoskeletal symptoms will be analysed by using the Standardised Nordic\n      Questionnaries (NMQ). Pain will be analysed by using Visual Analogue Scale (VAS)"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Other"
+        },
+        "primary_outcome": {
+            "measure": "The Rapid Office Strain Assessment (ROSA)",
+            "time_frame": "30 minutes",
+            "description": "The working environment of the individuals participating in the study will be evaluated with The Rapid Office Strain Assessment (ROSA)."
+        },
+        "secondary_outcome": {
+            "measure": "The Standardised Nordic Questionnaries (NMQ)",
+            "time_frame": "15 minutes",
+            "description": "The NMQ can be used as a questionnaire or as a structured interview"
+        },
+        "other_outcome": {
+            "measure": "Visual Analog Scale (VAS)",
+            "time_frame": "2 minutes",
+            "description": "Pain will be analysed by using Visual Analogue Scale (VAS)"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": "Musculoskeletal Pain",
+        "eligibility": {
+            "study_pop": {
+                "textblock": "The study will include 500 people between the ages of 18-65 who works from home (works in\n        the office before isolation) as a part of Covid-19 isolation measure"
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  between the ages of 18-65\n\n          -  works from home\n\n          -  works in the office before isolation\n\n        Exclusion Criteria:\n\n          -  have any systemic disease that may affect on musculoskeletal system such as\n             fibromyalgia, myofacial pain syndrome, etc.\n\n          -  have any vision problem\n\n          -  have difficulty of understanding and following online survey\n\n          -  have any physical disability\n\n          -  have self-reported computer use for less than four hours on a typical workday"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "65 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Ay\u015fe Zengin Alp\u00f6zgen",
+            "phone": "+905526830479",
+            "email": "azengin@istanbul.edu.tr"
+        },
+        "link": [
+            {
+                "url": "http://www.apta.org/uploadedFiles/APTAorg/News_and_Publications/Latest_News/News_Items/2020/Physiotherapy_Guideline_COVID-19.pdf",
+                "description": "Related Info"
+            },
+            {
+                "url": "http://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+                "description": "Related Info"
+            }
+        ],
+        "reference": [
+            {
+                "citation": "Barbieri DF, Srinivasan D, Mathiassen SE, Oliveira AB. Variation in upper extremity, neck and trunk postures when performing computer work at a sit-stand station. Appl Ergon. 2019 Feb;75:120-128. doi: 10.1016/j.apergo.2018.09.012. Epub 2018 Oct 3.",
+                "PMID": "30509516"
+            },
+            {
+                "citation": "Brewer S, Van Eerd D, Amick BC 3rd, Irvin E, Daum KM, Gerr F, Moore JS, Cullen K, Rempel D. Workplace interventions to prevent musculoskeletal and visual symptoms and disorders among computer users: a systematic review. J Occup Rehabil. 2006 Sep;16(3):325-58. Review.",
+                "PMID": "16933148"
+            },
+            {
+                "citation": "Sonne M, Villalta DL, Andrews DM. Development and evaluation of an office ergonomic risk checklist: ROSA--rapid office strain assessment. Appl Ergon. 2012 Jan;43(1):98-108. doi: 10.1016/j.apergo.2011.03.008. Epub 2011 May 6.",
+                "PMID": "21529772"
+            },
+            {
+                "citation": "Kuorinka I, Jonsson B, Kilbom A, Vinterberg H, Biering-S\u00f8rensen F, Andersson G, J\u00f8rgensen K. Standardised Nordic questionnaires for the analysis of musculoskeletal symptoms. Appl Ergon. 1987 Sep;18(3):233-7.",
+                "PMID": "15676628"
+            },
+            {
+                "citation": "Clark P, Lavielle P, Mart\u00ednez H. Learning from pain scales: patient perspective. J Rheumatol. 2003 Jul;30(7):1584-8.",
+                "PMID": "12858463"
+            },
+            {
+                "citation": "Kahraman T, Gen\u00e7 A, G\u00f6z E. The Nordic Musculoskeletal Questionnaire: cross-cultural adaptation into Turkish assessing its psychometric properties. Disabil Rehabil. 2016 Oct;38(21):2153-60. doi: 10.3109/09638288.2015.1114034. Epub 2016 Jan 4.",
+                "PMID": "26726840"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Istanbul University-Cerrahpasa",
+            "investigator_full_name": "Gamze Polen Ak\u015fim\u015fek",
+            "investigator_title": "PhD student"
+        },
+        "condition_browse": {
+            "mesh_term": "Musculoskeletal Pain"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

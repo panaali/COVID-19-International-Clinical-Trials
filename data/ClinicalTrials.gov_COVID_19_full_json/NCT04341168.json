@@ -1,0 +1,295 @@
+{
+    "clinical_study": {
+        "@rank": "68",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341168"
+        },
+        "id_info": {
+            "org_study_id": "KICC19",
+            "nct_id": "NCT04341168"
+        },
+        "brief_title": "Clinical and Immunological Characterisation of COVID-19 in Children, Adolescents and Adults",
+        "official_title": "Clinical and Immunological Characterisation of COVID-19 in Children, Adolescents and Adults",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital of Cologne",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Clinic for Internal Medicine I, University Hospital Cologne, Germany",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Institute of Virology, University Hospital Cologne, Germany",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Center for Molecular Medicine Cologne (CMMC) Cologne, Germany",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University Hospital of Cologne",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The investigators aim to characterise Coronavirus Disease 2019 (COVID-19) in every age group.\n      On the one hand, emphasis is put on the initial presentation, clinical course, outcome and\n      the therapy used. On the other hand further investigations regarding viral and bacterial\n      coinfections, and response of the immune system will be conducted. This study should serve to\n      improve the understanding of COVID-19, to identify risk factors for a severe clinical course\n      and to obtain further insights into pathophysiology of this new infectious disease."
+        },
+        "detailed_description": {
+            "textblock": "In 2019 the novel coronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)\n      was identified as the pathogen causing the Coronavirus Disease 2019 (COVID-19) pandemic. Many\n      retrospective studies have been conducted regarding clinical signs and symptoms and clinical\n      course of the disease. In most cases the infection causes only light symptoms of the upper\n      respiratory tract. The infection can also be asymptomatic. However, in some the disease can\n      cause a severe infection of the lower respiratory tract leading to acute respiratory syndrome\n      (ARDS) which can be fatal. Especially elderly people suffer from severe disease whereas\n      children are less compromised.\n\n      In this prospective, monocentric study the investigators include patients of all ages with\n      COVID-19 and also a control group of all ages with respiratory tract infections other than\n      COVID-19. Initial presentation, clinical course, outcome and the therapy used will be\n      recorded. Standard diagnostic procedures (vital signs, results of blood samples, blood gas\n      analysis, x ray, ct scan) will also be recorded. To further characterise the study population\n      naso- and oropharyngeal swabs will be checked for viral and bacterial coinfections. The\n      SARS-CoV-2 viral load will be estimated. To characterise the immunological response IgM- and\n      IgG-antibodies for SARS-CoV-2 will be measured. Moreover lymphocyte typing, cytokine and\n      chemokine analysis will be conducted. The investigators will also include an analysis of the\n      proteome in serum and urine. To characterise the virus-host-interaction HLA analysis of the\n      patients will be conducted. In the case of a medically indicated bronchoscopy bronchoalveolar\n      lavage will be analysed in regards of viral load, coinfections, lymphocyte typing and\n      cytokines / chemokines. In case of a medically indicated lung biopsy or in a post mortem lung\n      biopsy a histological analysis will be made.\n\n      In general, samples will be analysed at the initial presentation and after two weeks. Further\n      analysis will be conducted depending on special events like clinical deterioration. Long-term\n      follow up will be ensured by telephone visits."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Clinical course of COVID-19",
+                "time_frame": "10/2020",
+                "description": "Description of clinical course of COVID-19 in children, adolescents and adults"
+            },
+            {
+                "measure": "Analysis of development of antibodies to SARS-CoV-2",
+                "time_frame": "10/2020",
+                "description": "Measurement of specific IgM- and IgG-antibody production"
+            },
+            {
+                "measure": "Estimation of viral load",
+                "time_frame": "10/2020",
+                "description": "Estimation of viral load at initial presentation and after two weeks"
+            },
+            {
+                "measure": "Detection of viral coinfections",
+                "time_frame": "10/2020",
+                "description": "A Multiplex PCR will be conducted to test for the most common respiratroy viruses. A naso- and oropharyngeal swab will be used for this"
+            },
+            {
+                "measure": "Measurement of cytokine and chemokine response",
+                "time_frame": "12/2020",
+                "description": "Determination of cytokine and chemokine concentrations in serum by ELISA."
+            },
+            {
+                "measure": "Characterisation of virus-host-interaction",
+                "time_frame": "12/2020",
+                "description": "Characterisation of virus-host-interaction by HLA-typing"
+            },
+            {
+                "measure": "Identification of disease patterns in proteome",
+                "time_frame": "12/2020",
+                "description": "Identification of disease patterns in proteome by analysis of the proteome in serum and urine"
+            },
+            {
+                "measure": "Analysis of change in lymphocyte subtypes",
+                "time_frame": "10/2020",
+                "description": "Detection of change in lymphocyte subtypes in blood and bronchoalveolar lavage"
+            },
+            {
+                "measure": "Analysis of histological changes in severe lung disease",
+                "time_frame": "12/2020",
+                "description": "Analysis of histological changes in severe lung disease by lung biopsy"
+            },
+            {
+                "measure": "Detection of bacterial coinfections",
+                "time_frame": "10/2020",
+                "description": "A pharyngeal swab will be cultured to check for bacteria residing in the upper airways. Additionally, a blood culture will serve to detect bacteremia"
+            }
+        ],
+        "number_of_groups": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "160"
+        },
+        "condition": [
+            "COVID-19",
+            "SARS-CoV-2"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Children and Adolescents with COVID-19",
+                "description": "age range: newborn - 18 years old, subgroups will be established"
+            },
+            {
+                "arm_group_label": "Adults with COVID-19",
+                "description": "age range: from 18 years old, subgroups will be established"
+            },
+            {
+                "arm_group_label": "Control group",
+                "description": "all ages, any respiratory tract infection, subgroups will be established"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "this study is non- interventional",
+            "description": "this study is non- interventional",
+            "arm_group_label": [
+                "Adults with COVID-19",
+                "Children and Adolescents with COVID-19",
+                "Control group"
+            ]
+        },
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "nasopharyngeal swab, oropharyngeal swab, sputum: obtain estimate for viral load of\n      SARS-CoV-2, multiplex PCR for other respiratory viruses, bacterial culture blood:\n      SARS-CoV-2-IgM and -IgG, routine lab values, blood - gas - analysis, blood culture,\n      lymphocyte typing, cytokines, chemokines, HLA-typing, proteome urine: proteome\n      bronchoalveolar lavage: obtain estimate for viral load of SARS-CoV-2, multiplex PCR for other\n      respiratory viruses, bacterial culture, lymphocyte typing, cytokines, chemokines lung biopsy\n      (optional): histology"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients of all ages either with COVID-19 (symptomatic and asymptomatic) or a respiratory\n        tract infection not caused by SARS-CoV-2"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  patients with COVID-19: detection of SARS-CoV-2 by PCR in naso- or oropharyngeal swab\n             or sputum, no age limit\n\n          -  control group: any respiratory tract infection not caused by SARS-CoV-2, no age limit\n\n          -  informed consent\n\n        Exclusion Criteria:\n\n          -  no respiratory tract infection and no detection of SARS-CoV-2\n\n          -  no informed consent"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A"
+        },
+        "overall_official": [
+            {
+                "last_name": "Robert W K\u00f6rner, Dr.",
+                "role": "Study Director",
+                "affiliation": "Children's University Hospital Cologne"
+            },
+            {
+                "last_name": "Jan Rybniker, PD Dr. Dr.",
+                "role": "Study Director",
+                "affiliation": "Department I of Internal Medicine University Hospital Cologne"
+            },
+            {
+                "last_name": "Miguel A Alejandre Alcazar, Prof. Dr. Dr.",
+                "role": "Study Director",
+                "affiliation": "Children's University Hospital Cologne"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Robert W K\u00f6rner, Dr.",
+            "phone": "+49 221 478",
+            "phone_ext": "6083",
+            "email": "robert.koerner@uk-koeln.de"
+        },
+        "overall_contact_backup": {
+            "last_name": "Jan Rybniker, PD Dr. Dr.",
+            "phone": "+49 221 478",
+            "phone_ext": "89611",
+            "email": "jan.rybniker@uk-koeln.de"
+        },
+        "location": {
+            "facility": {
+                "name": "University Hospital Cologne",
+                "address": {
+                    "city": "Cologne",
+                    "state": "NRW",
+                    "zip": "50937",
+                    "country": "Germany"
+                }
+            },
+            "contact": {
+                "last_name": "Robert W Koerner, Dr.",
+                "phone": "+49221478",
+                "phone_ext": "6083",
+                "email": "robert.koerner@uk-koeln.de"
+            },
+            "contact_backup": {
+                "last_name": "Jan Rybniker, PD Dr. Dr.",
+                "phone": "+49221478",
+                "phone_ext": "89611",
+                "email": "jan.rybniker@uk-koeln.de"
+            },
+            "investigator": [
+                {
+                    "last_name": "Miguel A Alejandre Alcazar, Prof. Dr. Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Saleta Sierra - Arag\u00f3n, PD Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Rolf Kaiser, Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Florian Klein, PD Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Julia Fischer, Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Katja H\u00f6pker, PD Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Tom Schildberg, Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Centina Kuiper-Makris",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Esther Mahabir-Brenner, Prof. Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Christoph H\u00fcnseler, PD Dr.",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Lutz Weber, Prof. Dr.",
+                    "role": "Principal Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Germany"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 6, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 6, 2020",
+        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University Hospital of Cologne",
+            "investigator_full_name": "Dr. med. Robert W. K\u00f6rner",
+            "investigator_title": "Study Director"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-CoV-2"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

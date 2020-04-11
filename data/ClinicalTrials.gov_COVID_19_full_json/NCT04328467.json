@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "394",
+        "@rank": "423",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04328467"
         },
@@ -158,22 +158,40 @@
             "last_name": "Sarah Lofgren",
             "email": "covid19prep@umn.edu"
         },
-        "location": {
-            "facility": {
-                "name": "University of Minnesota",
-                "address": {
-                    "city": "Minneapolis",
-                    "state": "Minnesota",
-                    "zip": "55455",
-                    "country": "United States"
+        "location": [
+            {
+                "facility": {
+                    "name": "Nationwide Enrollment via Internet, please email: covid19@umn.edu",
+                    "address": {
+                        "city": "Minneapolis",
+                        "state": "Minnesota",
+                        "zip": "55455",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Radha Rajasingham, MD",
+                    "email": "covid19prep@umn.edu"
                 }
             },
-            "status": "Recruiting",
-            "contact": {
-                "last_name": "Radha Rajasingham, MD",
-                "email": "covid19prep@umn.edu"
+            {
+                "facility": {
+                    "name": "University of Minnesota",
+                    "address": {
+                        "city": "Minneapolis",
+                        "state": "Minnesota",
+                        "zip": "55455",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Radha Rajasingham, MD",
+                    "email": "covid19prep@umn.edu"
+                }
             }
-        },
+        ],
         "location_countries": {
             "country": "United States"
         },
@@ -184,11 +202,11 @@
             "@type": "Actual",
             "#text": "March 31, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 8, 2020"
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

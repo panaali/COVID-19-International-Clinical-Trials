@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "375",
+        "@rank": "403",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 09, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04315480"
         },
@@ -120,7 +120,7 @@
         },
         "reference": [
             {
-                "citation": "Tian S, Hu W, Niu L, Liu H, Xu H, Xiao SY. Pulmonary pathology of early phase 2019 novel coronavirus (COVID-19) pneumonia in two patients with lung cancer. J Thorac Oncol. 2020 Feb 27. pii: S1556-0864(20)30132-5. doi: 10.1016/j.jtho.2020.02.010. [Epub ahead of print]",
+                "citation": "Tian S, Hu W, Niu L, Liu H, Xu H, Xiao SY. Pulmonary Pathology of Early-Phase 2019 Novel Coronavirus (COVID-19) Pneumonia in Two Patients With Lung Cancer. J Thorac Oncol. 2020 Feb 28. pii: S1556-0864(20)30132-5. doi: 10.1016/j.jtho.2020.02.010. [Epub ahead of print]",
                 "PMID": "32114094"
             },
             {
@@ -132,7 +132,7 @@
                 "PMID": "28466096"
             },
             {
-                "citation": "Zumla A, Ippolito G, Ntoumi F, Seyfert-Margolies V, Nagu TJ, Cirillo D, Chakaya JM, Marais B, Maeurer M. Host-directed therapies and holistic care for tuberculosis. Lancet Respir Med. 2020 Feb 27. pii: S2213-2600(20)30078-3. doi: 10.1016/S2213-2600(20)30078-3. [Epub ahead of print]",
+                "citation": "Zumla A, Ippolito G, Ntoumi F, Seyfert-Margolies V, Nagu TJ, Cirillo D, Chakaya JM, Marais B, Maeurer M. Host-directed therapies and holistic care for tuberculosis. Lancet Respir Med. 2020 Apr;8(4):337-340. doi: 10.1016/S2213-2600(20)30078-3. Epub 2020 Feb 27.",
                 "PMID": "32113574"
             }
         ],

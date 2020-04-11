@@ -1,0 +1,117 @@
+{
+    "clinical_study": {
+        "@rank": "67",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341506"
+        },
+        "id_info": {
+            "org_study_id": "20-0407",
+            "nct_id": "NCT04341506"
+        },
+        "brief_title": "Non-contact ECG Sensor System for COVID19",
+        "official_title": "Evaluating Non-contact ECG Sensor System for Early Detection of COVID19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Northwestern Medicine",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Northwestern Medicine",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "Yes",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this study is two-fold. First we would like to confirm that non-contact ECG\n      provides equivalency to current contact methods of obtaining ECG data. Second we would like\n      to investigate whether non-contact ECG can detect ECG changes prior to the onset symptoms\n      from COVID19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 15, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 15, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "ECG changes associated with COVID-19",
+            "time_frame": "3 months",
+            "description": "Assess different ECG changes in participants diagnosed with COVID-10"
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "Participant ECG",
+            "description": "The study has one arm, I.e., we will collect daily ECGs in 100 participants and track their ECG over three months. We will then compare ECGs pre and post COVID-19 diagnosis in any participant diagnosed with COVID-19 to assess for any early ECG changes that may aid with diagnosing."
+        },
+        "intervention": {
+            "intervention_type": "Device",
+            "intervention_name": "Non-contact ECG",
+            "description": "A non-contact ECG will be used to detect a patient cardiac electrical activity.",
+            "arm_group_label": "Participant ECG"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "100 employees of Lake Forrest Memorial Hospital"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Any employee of Lake Forrest Memorial Hospital presenting to work\n\n          -  Age greater than 18 years-old\n\n        Exclusion Criteria:\n\n          -  Age less than 18 years-old\n\n          -  Non-employee"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Andrew Gostine, MD",
+            "phone": "(312) 695-0061",
+            "email": "andrew.gostine@nm.org"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Northwestern Medicine",
+            "investigator_full_name": "Andrew Gostine, MD",
+            "investigator_title": "Doctor"
+        },
+        "keyword": [
+            "COVID-19",
+            "ECG",
+            "Arrhythmia"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

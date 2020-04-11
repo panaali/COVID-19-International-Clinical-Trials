@@ -1,0 +1,269 @@
+{
+    "clinical_study": {
+        "@rank": "123",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341038"
+        },
+        "id_info": {
+            "org_study_id": "TACRO-BELL-COVID",
+            "secondary_id": "2020-001445-39",
+            "nct_id": "NCT04341038"
+        },
+        "brief_title": "Clinical Trial to Evaluate Methylprednisolone Pulses and Tacrolimus in Patients With COVID-19 Lung Injury",
+        "acronym": "TACROVID",
+        "official_title": "Open Randomized Single Centre Clinical Trial to Evaluate Methylprednisolone Pulses and Tacrolimus in Patients With Severe Lung Injury Secondary to COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hospital Universitari de Bellvitge",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Institut d'Investigaci\u00f3 Biom\u00e8dica de Bellvitge",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Hospital Universitari de Bellvitge",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The primary objective of the study is to evaluate the days until reaching clinical stability\n      after starting randomization in hospitalized patients with elevated inflammatory parameters\n      and severe COVID-19 lung injury."
+        },
+        "detailed_description": {
+            "textblock": "Unfortunately, the treatment of COVID-19 disease is still based on life support therapies.\n      Nowadays, there is no scientific evidence from clinical trials regarding the efficacy or\n      safety of different drugs to treat COVID-19 patients, despite some of them evolving to fatal\n      severe lung injury due to important inflammatory process secondary to pro-inflammatory\n      cytokines. Interestingly, Tacrolimus has been shown to inhibit both pro-inflammatory\n      cytokines and, also, human coronavirus SARS-Cov replication, but it has not specifically been\n      tested in COVID-19 patients.\n\n      Our working hypothesis is that severe SARS-CoV-2 (COVID-19) pneumonia is secondary to a\n      deleterious inflammatory process; so, the use of Methylprednisolone pulses and Tacrolimus in\n      hospitalized severe COVID-19 lung injury patients might have a positive clinical effect.\n\n      Given the COVID-19 current health emergency, this study could provide useful evidence to\n      treat some COVID-19 patients with Methylprednisolona and Tacrolimus, which might represent a\n      new therapeutic option for them. Tacrolimus is a drug with more than 20 years of experience,\n      and therefore, its side effects are well known and usually reversible. In addition, since\n      tacrolimus is a low-cost and easy to produce at large-scale drug, it could be used to treat a\n      large number of patients. The administration of this drugs could not only decrease mortality\n      secondary to lung involvement by COVID-19, but also decrease the excessive burden of care\n      that intensive care units are bearing."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Single (Outcomes Assessor)",
+            "masking_description": "The statistician who will finally carry out the analyses will be blind to the treatment received by the patients"
+        },
+        "primary_outcome": {
+            "measure": "Time to reach clinical stability",
+            "time_frame": "28 days",
+            "description": "Assess the days until clinical stability is achieved after initiating randomization in hospitalized patients with elevated inflammatory parameters and severe COVID-19 lung injury.\nClinical stability is defined if all the following criteria are met for 48 consecutive hours: Body temperature \u2264 37.0\u00baC; PaO2 / FiO2> 400 and / or SatO2 / FiO2> 300; Respiratory rate \u2264 24 rpm"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time to reach an afebrile state for 48 hours.",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Time to reach PaO2 / FiO2> 400 and / or SatO2 / FiO2> 300",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Time to reach FR \u2264 24 rpm for 48 hours",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Time to normalization of D-dimer (<250 ug / L)",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Time until PCR normalization (<5mg / L).",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Time until normalization of ferritin (<400ug / L)",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Study the impact of immunosuppressive treatment on viral load using quantitative PCR",
+                "time_frame": "56 days",
+                "description": "viral load"
+            },
+            {
+                "measure": "Time until hospital discharge",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Need for ventilatory support devices",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Duration that it is necessary to maintain ventilatory support.",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "COVID-19 mortality",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "all-cause mortality",
+                "time_frame": "56 days",
+                "description": "days"
+            },
+            {
+                "measure": "Analyze the expanded cytokine profile before the start of treatment and their evolution every 7 days after admission",
+                "time_frame": "56 days",
+                "description": "cytokines quantification technique by Luminex"
+            },
+            {
+                "measure": "Describe the side effects and their severity attributed to tacrolimus and / or methylprednisolone.",
+                "time_frame": "56 days",
+                "description": "IDIBELL Clinical Research and Clinical Trials Unit will oversee the monitoring and pharmacovigilance"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "84"
+        },
+        "condition": [
+            "COVID-19",
+            "Lung Injury"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention",
+                "arm_group_type": "Experimental",
+                "description": "Methylprednisolone pulses 120mg/day for 3 consecutive days (if they were not previously administered) with Tacrolimus at the necessary dose to achieve plasma levels of 8-10 ng/ml.\nIn addition, these patients can receive all the treatments considered necessary for their clinical management."
+            },
+            {
+                "arm_group_label": "Usual care",
+                "arm_group_type": "No Intervention",
+                "description": "These patients can receive all the treatments considered necessary for their clinical management, except cyclosporine and tacrolimus."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Tacrolimus",
+                "description": "the necessary dose to obtain blood levels of 8-10 ng / ml",
+                "arm_group_label": "Intervention",
+                "other_name": "Advagraf\u00ae, Modigraf\u00ae"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Methylprednisolone",
+                "description": "120mg of methylprednisolone daily for 3 consecutive days",
+                "arm_group_label": "Intervention",
+                "other_name": "Urbason\u00ae, Solu-Moder\u00edn\u00ae"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 infection confirmed by PCR\n\n          -  New onset radiological infiltrates\n\n          -  Respiratory failure (PaO2 / FiO2 <300 or satO2 / FiO2 <220)\n\n          -  PCR>100 mg/L and/or D-Dimer>1000 \u00b5g/L and/or Ferritin>1000 ug/L\n\n          -  Informed consent.\n\n        Exclusion Criteria:\n\n          -  Life expectancy \u2264 24h\n\n          -  Glomerular filtration \u2264 30 ml / min / 1.73 m2\n\n          -  Leukopenia \u2264 4000 cells / \u00b5L\n\n          -  Concomitant potentially serious infections.\n\n          -  Contraindication for the use of tacrolimus according to the specifications of the\n             product\n\n          -  Known adverse reactions to treatment\n\n          -  Have participated in a clinical trial in the last 3 months"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Xavier Corbella, MD, PhD",
+            "role": "Study Director",
+            "affiliation": "Hospital Universitari de Bellvige"
+        },
+        "overall_contact": {
+            "last_name": "Xavier Solanich, MD",
+            "phone": "0034 932607500",
+            "phone_ext": "8946",
+            "email": "xsolanich@bellvitgehospital.cat"
+        },
+        "location": {
+            "facility": {
+                "name": "Hospital Universitari de Bellvitge",
+                "address": {
+                    "city": "L'Hospitalet de Llobregat",
+                    "state": "Barcelona",
+                    "zip": "08907",
+                    "country": "Spain"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Xavier Solanich, MD",
+                "phone": "0034 932607500",
+                "phone_ext": "8946",
+                "email": "xsolanich@bellvitgehospital.cat"
+            },
+            "investigator": [
+                {
+                    "last_name": "Xavier Solanich, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Arnau Antol\u00ed, MD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Spain"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Hospital Universitari de Bellvitge",
+            "investigator_full_name": "Xavier Solanich",
+            "investigator_title": "Xavier Solanich, MD"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Lung Injury",
+                "Wounds and Injuries"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Methylprednisolone",
+                "Methylprednisolone Acetate",
+                "Methylprednisolone Hemisuccinate",
+                "Prednisolone",
+                "Prednisolone acetate",
+                "Tacrolimus",
+                "Prednisolone hemisuccinate",
+                "Prednisolone phosphate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "clinical_study": {
+        "@rank": "352",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341584"
+        },
+        "id_info": {
+            "org_study_id": "APHP200375-5",
+            "nct_id": "NCT04341584"
+        },
+        "brief_title": "CORIMUNO-ANA: TRIAL EVALUATING EFFICACY OF ANAKINRA IN PATIENTS WITH COVID-19 INFECTION, NESTED IN THE CORIMUNO-19 COHORT",
+        "acronym": "CORIMUNO-ANA",
+        "official_title": "CORIMUNO-ANA: TRIAL EVALUATING EFFICACY OF ANAKINRA IN PATIENTS WITH COVID-19 INFECTION, NESTED IN THE CORIMUNO-19 COHORT",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique - H\u00f4pitaux de Paris",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Assistance Publique - H\u00f4pitaux de Paris",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The overall objective of the study is to determine the therapeutic effect and tolerance of\n      Anakinra in patients with moderate, severe pneumonia or critical pneumonia associated with\n      Coronavirus disease 2019 (COVID-19). Anakinra (ANA) is a recombinant human decoy IL-1Ra and\n      therefore blocks IL-1\u03b1 and IL-1\u03b2. The study has a cohort multiple Randomized Controlled\n      Trials (cmRCT) design. Randomization will occur prior to offering Anakinra administration to\n      patients enrolled in the COVIMUNO-19 cohort. Anakinra will be administered to consenting\n      adult patients hospitalized with CORVID-19 either diagnosed with moderate or severe pneumonia\n      requiring no mechanical ventilation or critical pneumonia requiring mechanical ventilation.\n      Patients who will chose not to receive Anakinra will receive standard of cares. Outcomes of\n      Anakinra -treated patients will be compared with outcomes of standard of care treated\n      patients as well as outcomes of patients treated with other immune modulators."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Survival without needs of ventilator utilization at day 14",
+                "time_frame": "14 days",
+                "description": "Survival without needs of ventilator utilization (including non invasive ventilation and high flow) at day 14. Thus, events considered are needing ventilator utilization (including Non Invasive Ventilation, NIV or high flow), or death. New DNR order (if given after the inclusion of the patient) will be considered as an event at the date of the DNR."
+            },
+            {
+                "measure": "WHO progression scale \u2264 5",
+                "time_frame": "4 days",
+                "description": "Proportion of patients alive without non-invasive ventilation of high low at day 4 (WHO progression scale \u2264 5). A patient with new DNR order at day 4 will be considered as with a score > 5."
+            },
+            {
+                "measure": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) or withdrawal of NIV or high flow (for > 48h), at day 14",
+                "time_frame": "14 days",
+                "description": "Cumulative incidence of successful tracheal extubation (defined as duration extubation > 48h) at day 14 if patients have been intubated before day 14 ; or removal of NIV or high flow (for > 48h) if they were included under oxygen by NIV or High flow (score 6) and remained without intubation. Death or new DNR order (if given after the inclusion of the patient) will be considered as a competing event."
+            },
+            {
+                "measure": "Decrease of at least one point in WHO progression scale score",
+                "time_frame": "4 days",
+                "description": "Proportion of patients with a decrease of WHO score of at least 1 point at day 4"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "WHO progression scale",
+                "time_frame": "7 and 14 days",
+                "description": "WHO progression scale: Uninfected; non viral RNA detected: 0 Asymptomatic; viral RNA detected: 1 Symptomatic; Independent: 2 Symptomatic; Assistance needed: 3 Hospitalized; No oxygen therapy: 4 Hospitalized; oxygen by mask or nasal prongs: 5 Hospitalized; oxygen by NIV or High flow: 6 Intubation and Mechanical ventilation, pO2/FIO2>=150 OR SpO2/FIO2>=200: 7 Mechanical ventilation, (pO2/FIO2<150 OR SpO2/FIO2<200) OR vasopressors (norepinephrine >0.3 microg/kg/min): 8 Mechanical ventilation, pO2/FIO2<150 AND vasopressors (norepinephrine >0.3 microg/kg/min), OR Dialysis OR ECMO: 9 Dead: 10."
+            },
+            {
+                "measure": "Survival",
+                "time_frame": "14, 28 and 90 days",
+                "description": "Overall survival."
+            },
+            {
+                "measure": "28-day ventilator free-days",
+                "time_frame": "28 days"
+            },
+            {
+                "measure": "Respiratory acidosis",
+                "time_frame": "4 days",
+                "description": "arterial blood pH of <7.25 with a partial pressure of arterial carbon dioxide [Paco2] of \u226560 mm Hg for >6 hours."
+            },
+            {
+                "measure": "PaO2/FiO2 ratio",
+                "time_frame": "day 1 to day 14",
+                "description": "Evolution of PaO2/FiO2 ratio."
+            },
+            {
+                "measure": "Time to oxygen supply independency",
+                "time_frame": "14 days",
+                "description": "Time to oxygen supply independency."
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "90 days",
+                "description": "Duration of hospitalization."
+            },
+            {
+                "measure": "Time to negative viral excretion",
+                "time_frame": "90 days",
+                "description": "Time to negative viral excretion."
+            },
+            {
+                "measure": "Time to ICU discharge",
+                "time_frame": "90 days",
+                "description": "Time to ICU discharge."
+            },
+            {
+                "measure": "Time to hospital discharge",
+                "time_frame": "90 days",
+                "description": "Time to hospital discharge."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "240"
+        },
+        "condition": "Corona Virus Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "ANAKINRA",
+                "arm_group_type": "Experimental",
+                "description": "Treatment includes the administration of Two IV infusions / day of ANAKINRA KINERET\u00ae 200mg (Total 400 mg) at day 1 (D1), D2 and D3, two IV infusions / day of ANAKINRA KINERET\u00ae 100mg (Total 200 mg) at day 4 (D4), and one IV infusion of ANAKINRA KINERET\u00ae 100mg (Total 100 mg) at day 5 (D5).\nIn case of absence of improvement at D4 (absence of clinical improvement AND absence of decrease of CRP level > 50%), 3 supplementary days of treatment at 400 mg/day will be done at D4, D5, D6 followed by a decrease at 200 mg/day at D7 and 100 mg/day at D8 and stop thereafter"
+            },
+            {
+                "arm_group_label": "Standard of care",
+                "arm_group_type": "No Intervention"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Anakinra",
+            "description": "Treatment includes the administration of Two IV infusions / day of ANAKINRA KINERET\u00ae 200mg (Total 400 mg) at day 1 (D1), D2 and D3, two IV infusions / day of ANAKINRA KINERET\u00ae 100mg (Total 200 mg) at day 4 (D4), and one IV infusion of ANAKINRA KINERET\u00ae 100mg (Total 100 mg) at day 5 (D5).\nIn case of absence of improvement at D4 (absence of clinical improvement AND absence of decrease of CRP level > 50%), 3 supplementary days of treatment at 400 mg/day will be done at D4, D5, D6 followed by a decrease at 200 mg/day at D7 and 100 mg/day at D8 and stop thereafter",
+            "arm_group_label": "ANAKINRA"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Patients included in the CORIMUNO-19 cohort\n\n          2. Patients with C-reactive protein level (CRP) > 25 mg / L the day or the day before the\n             infusion)\n\n          3. Patients belonging to one of the 2 following groups:\n\n               -  Group 1: patients meeting all of the following criteria: 1) Requiring more than\n                  3L/min of oxygen; 2) WHO progression scale = 5; 3) No NIV or High flow\n\n               -  Group 2: patients with respiratory failure AND (requiring mechanical ventilation\n                  OR NIV OR High flow), with a WHO progression scale \u2265 6, and no do-not-resuscitate\n                  (DNR) order\n\n        Exclusion Criteria:\n\n          -  Patients with exclusion criteria to the CORIMUNO-19 cohort.\n\n          -  Known hypersensitivity to Anakinra or to any of their excipients.\n\n          -  Pregnancy\n\n          -  Current documented bacterial infection.\n\n          -  Patient with any of following laboratory results out of the ranges detailed below at\n             screening:\n\n               -  Absolute neutrophil count (ANC) \u2264 1.0 x 109/L\n\n               -  Haemoglobin level: no limitation\n\n               -  Platelets (PLT) < 50 G /L\n\n               -  SGOT or SGPT > 5N\n\n               -  Severe renal insufficiency with Glomerular filtration rate < 30 ml / mn"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Xavier Mariette, MD, PhD",
+            "phone": "145213751",
+            "phone_ext": "+33",
+            "email": "xavier.mariette@aphp.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Matthieu Resche-Rigon, MD, PhD",
+            "phone": "142499742",
+            "phone_ext": "+33",
+            "email": "matthieu.resche-rigon@u-paris.fr"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 7, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 7, 2020",
+        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Communicable Diseases",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Interleukin 1 Receptor Antagonist Protein"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

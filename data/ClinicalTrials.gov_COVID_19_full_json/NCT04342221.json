@@ -1,0 +1,207 @@
+{
+    "clinical_study": {
+        "@rank": "80",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342221"
+        },
+        "id_info": {
+            "org_study_id": "COV-HCQ",
+            "secondary_id": "2020-001224-33",
+            "nct_id": "NCT04342221"
+        },
+        "brief_title": "Hydroxychloroquine for COVID-19",
+        "acronym": "COV-HCQ",
+        "official_title": "Randomized Controlled Trial of Hydroxychloroquine Versus Placebo for the Treatment of Adult Patients With Acute Coronavirus Disease 2019 - COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital Tuebingen",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Robert Bosch Medical Center",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Bernhard Nocht Institute for Tropical Medicine",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "University Hospital Tuebingen",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The current outbreak of COVID-19 caused by SARS-CoV-2 is a global health emergency with a\n      case fatality rate so far approximately 4% and a growing number of confirmed cases (>9500) in\n      Germany. There is no data available on the efficacy of antiviral agents for the treatment of\n      COVID-19. In vitro data show that hydroxychloroquine can inhibit SARS-CoV-2 replication and\n      anecdotal reports from COVID-19 patients in China and France suggest that chloroquine or\n      hydroxychloroquine is a good candidate for treatment. In the French study a favourable effect\n      was seen when hydroxychloroquine was used together with azithromycin in a small series of\n      COVID-19 patients. However, so far all published evidence is based on non-controlled use of\n      hydroxychloroquine.\n\n      We propose to conduct a placebo-controlled trial in COVID-19 patients with mild to moderate\n      disease in Germany to assess virological efficacy, tolerability and safety of\n      hydroxychloroquine in the treatment of COVID-19. The objective of this trial is to identify\n      an effect of hydroxychloroquine on viral clearance in vivo. This data will inform practice\n      for the design of larger trials on clinical efficacy of hydroxychloroquine in the treatment\n      and post-exposure prophylaxis of COVID-19."
+        },
+        "detailed_description": {
+            "textblock": "The study is a randomized placebo controlled multicentric Phase III trial. The duration of\n      the trial for each subject is expected to be 6 months. The duration for each individual\n      subject includes 7 days study treatment and 6 months follow-up time. Recruitment of subjects\n      will start in April 2020.\n\n      Adult male and female patients with positive COVID-19 diagnosis and fulfilling the below\n      outlined inclusion criteria will be enrolled into the study. Trial population will consist of\n      both genders.\n\n      Name of IMP: Hydroxychloroquine sulfate (HCQ); Quensyl. All consenting adult patients having\n      confirmed COVID-19 will be recruited and randomly and blindly allocated in a 1:1 ratio to\n      either IMP or placebo. Each patient will be given a first dose of 800 mg IMP or the\n      equivalent number of placebo capsules (4 capsules) at the day of inclusion (Day 1). From the\n      2nd day on, each patient will get 600 mg or the equivalent number if placebo capsules (3\n      capsules) once a day until day 7 (6 more does of 600 mg). The patient will be given the daily\n      dose of IMP at once for a total of 7 days.\n\n      Patients will be monitored on a daily basis until the endpoint (2 measurements of viral load\n      below 100 copies at least 24 hours apart) is reached. During admission visits will be\n      performed by the attending physician or study-nurse, after discharge visits will be performed\n      by qualified and trained study-personnel. Daily procedures will include a pharyngeal swab for\n      qPCR diagnostics (until primary endpoint is reached) and symptom assessment by questionnaire\n      and clinical examination. Blood draw for assessment of full blood count, routine clinical\n      chemistry and assessment of markers of inflammation, and immune response will be performed on\n      days 1, 2, 4, 7, 14, 30 and last follow up. ECG and measurement of cardiac enzymes will be\n      performed on a weekly basis or if clinically indicated to identify new onset arrhythmias.\n\n      The efficacy will be assessed by the daily throat swaps and directly followed measurement of\n      SARS-CoV-2-specific RNA copy number until the result of this test will be below the level of\n      detection during at least 2 consecutive visits (24h apart).\n\n      Safety will be assessed daily by the study physician until the endpoint is reached and at all\n      subsequent scheduled visits and contacts as well as at any unscheduled visit."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 29, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Effect of HCQ on in vivo viral clearance",
+            "time_frame": "6 months",
+            "description": "Viral clearance defined as time to sustained SARS-CoV-2-specific RNA copy number \u2264100, measured by real time reverse-transcription polymerase chain reaction RT-PCR in throat swabs."
+        },
+        "other_outcome": [
+            {
+                "measure": "In-hospital mortality",
+                "time_frame": "60 days"
+            },
+            {
+                "measure": "All-cause mortality",
+                "time_frame": "60 days"
+            },
+            {
+                "measure": "Proportion requiring non-invasive or invasive ventilation",
+                "time_frame": "6 months"
+            },
+            {
+                "measure": "Proportion admitted to ICU",
+                "time_frame": "6 months"
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "6 months"
+            },
+            {
+                "measure": "Reduction in viral RNA load in upper respiratory tract specimen as assessed by area under viral load curve",
+                "time_frame": "6 months"
+            },
+            {
+                "measure": "Reduction in viral RNA load in upper respiratory tract specimen defined as decline of RNA load by 2 log-levels or to below detection level",
+                "time_frame": "6 months"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "220"
+        },
+        "condition": "COVID-19, Hydroxychloroquine Sulfate",
+        "arm_group": [
+            {
+                "arm_group_label": "Hydroxychloroquine Sulfate",
+                "arm_group_type": "Experimental",
+                "description": "First dose: 800 mg. From 2nd day on, each patient will get 600 mg (3 capsules) once a day until day 7 (6 more does of 600 mg)."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Equivalent number of placebo capsules at the day of inclusion (4 capsules) and the following days (3 capsules)"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine Sulfate",
+                "description": "Hydroxychloroquine Sulfate is an anti-malarial and anti-rheumatic drug and seems to be a potential candidate for the treatment of COVID-19 since it is able to block virus infection by increasing the endosomal pH, required for virus/cell fusion, it affects the activation of p38 mitogen-activated protein kinase (MAPK), involved in the replication of HCoV-229E and can interfere with the terminal glycosylation of ACE2, thus inhibiting SARS-CoV-2 infection.",
+                "arm_group_label": "Hydroxychloroquine Sulfate"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Placebo capsules",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Written informed consent\n\n          -  Age above 18 years\n\n          -  Women of childbearing age only: Must agree to practice continuous effective\n             contraception for the duration of the study (a method which results in a failure rate\n             less than 1% per year)\n\n          -  Disease severe enough to require hospitalization\n\n          -  QTc interval lower than 450 msec\n\n        Exclusion Criteria:\n\n          -  Respiratory rate >24/min\n\n          -  Pregnancy (tested with a pregnancy test) or lactation\n\n          -  Weight <50 kg\n\n          -  Hemodynamic/rhythm instability\n\n          -  Acute myocardial infarction Type 1\n\n          -  Use of concomitant medications that prolong the QT/QTc interval.\n\n          -  Any regular concomitant medication which is contraindicated in the use together with\n             HCQ\n\n          -  Hypersensitivity to Hydroxychloroquine, Chloroquine or other 4-Aminoquinolines\n\n          -  Pre-existing retinopathy or maculopathy\n\n          -  Known Glucose-6-phosphate dehydrogenase deficiency (haemolytic anaemia, Favism)\n\n          -  Haematopoietic systems diseases\n\n          -  Myasthenia gravis\n\n          -  Any other significant disease, disorder or finding which, in the opinion of the\n             investigator, may significantly increase the risk to the volunteer because of\n             participation in the study, affect the ability of the volunteer to participate in the\n             study or impair interpretation of the study data\n\n        Additionally, clinical evaluation and laboratory values inform eligibility of the patient\n        based on the judgement of the study team. These may include: total bilirubin, transaminase\n        level, albumin concentration, haematological parameters, troponin and BNP levels,\n        creatinine, creatinine kinase levels."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "99 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Benjamin Mordm\u00fcller, Prof.",
+            "role": "Principal Investigator",
+            "affiliation": "University Hospital T\u00fcbingen"
+        },
+        "overall_contact": {
+            "last_name": "Diane Egger-Adam, Dr.",
+            "phone": "+4970712982191",
+            "email": "diane.egger-adam@uni-tuebingen.de"
+        },
+        "overall_contact_backup": {
+            "last_name": "Thirumalaisamy Velavan, Prof.",
+            "phone": "+4970712985981",
+            "email": "velavan@medizin.uni-tuebingen.de"
+        },
+        "location": {
+            "facility": {
+                "name": "Institute for Tropical Medicine",
+                "address": {
+                    "city": "T\u00fcbingen",
+                    "zip": "72074",
+                    "country": "Germany"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Diane Egger-Adam, Dr.",
+                "phone": "+4970712982191",
+                "email": "diane.egger-adam@uni-tuebingen.de"
+            },
+            "contact_backup": {
+                "last_name": "Thirulamaisamy Velavan, Prof.",
+                "phone": "+49 70712985981",
+                "email": "velavan@medizin.uni-tuebingen.de"
+            }
+        },
+        "location_countries": {
+            "country": "Germany"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "clinical_study": {
+        "@rank": "262",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04341480"
+        },
+        "id_info": {
+            "org_study_id": "2020-TJ-COVID-19",
+            "nct_id": "NCT04341480"
+        },
+        "brief_title": "The Safety of Chemotherapy for Patients With Gynecological Malignancy in High-risk Region of COVID-19",
+        "official_title": "The Safety of Chemotherapy for Patients With Gynecological Malignancy in High-risk Region of COVID-19, a Prospective Cohort Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Tongji Hospital",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Tongji Hospital",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "A novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) disease (COVID-19)\n      emerged at December 2019 in Wuhan, China, and soon caused a large global outbreak. The\n      delayed treatment for many chronic diseases, due to the concern of SARS-CoV-2 infection, is\n      an increasing serious problem. Here we investigate the safety of chemotherapy for patients\n      with gynecological malignancy in Wuhan, the center of high-risk regions of COVID-19."
+        },
+        "detailed_description": {
+            "textblock": "A novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2; previously provisionally\n      named 2019 novel coronavirus or 2019-nCoV) disease (COVID-19) emerged at December 2019 in\n      Wuhan, Hubei Province, China. This infectious disease soon caused a large global outbreak and\n      became a major public health issue. As of 19:00, 12 March 2020, the total number of confirmed\n      cases of SARS-CoV-2 in China has reached 80982 with 3173 death, and 110 other countries have\n      officially reported 45164 cases of SARS-CoV-2 infection with 1520 death.\n\n      In this particular time, only patients with SARS-CoV-2 or other diseases with an emergency\n      condition were receipted by most of the hospitals in Hubei Province, even in many other\n      regions of China. The delayed treatment for many chronic diseases, such as malignant tumors,\n      is an increasing serious problem. One major concern was that patients with malignant tumors\n      were generally older in age with low immunity. Preliminary study has shown that cancer\n      patients are most susceptible to infect SARS-CoV-2 and more likely to develop a severe\n      pneumonia. But many other researches suspected that conclusion. Moreover, many of the\n      patients with malignant tumors are facing short term death from tumors rather than the risk\n      of infection. Nevertheless, there is not sufficient evidence to insure the safety of\n      chemotherapy in high-risk region of COVID-19, and there is also not sufficient information to\n      judge which patients' tumor therapy can be appropriately delayed. Here we investigate the\n      safety of chemotherapy for patients with gynecological malignancy in Wuhan, the center of\n      high-risk regions of COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 10, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 10, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "SARS-CoV-2 infection",
+            "time_frame": "through study completion, an average of 3 months.",
+            "description": "Incidence rate of SARS-CoV-2 infection within the whole period of the study."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Tumor response",
+                "time_frame": "6 weeks after enrollment.",
+                "description": "Tumor response by determining changes (PD, SD, PR, CR) according to Response Evaluation Criteria in Solid Tumours (RECIST), version 1.1"
+            },
+            {
+                "measure": "Safety and tolerability",
+                "time_frame": "through study completion, an average of 3 months.",
+                "description": "Safety and tolerability of chemotherapy as measured by the Common Terminology Criteria for Adverse Events (version 4.0)"
+            },
+            {
+                "measure": "Patient-reported outcomes",
+                "time_frame": "through study completion, an average of 3 months.",
+                "description": "Patient-reported outcomes are measured using the EORTC quality of life questionnaire core-30 (QLQ-C30)."
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "207"
+        },
+        "condition": "Gynecological Cancer",
+        "arm_group": [
+            {
+                "arm_group_label": "Chemotherapy group",
+                "description": "Routine chemotherapy every 3 weeks for 2 cycles, and follow up for 2 weeks after discharge from hospital. Total observation duration is 6 weeks."
+            },
+            {
+                "arm_group_label": "Control group",
+                "description": "No treatment, based on patient's choice. Total observation duration is 6 weeks."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Chemotherapy",
+            "description": "Routine chemotherapy for individual tumor type.",
+            "arm_group_label": "Chemotherapy group"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients with gynecological malignancy."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient is 18 to 80 years old female.\n\n          -  Patient must have histologically confirmed either type of gynecological malignancies.\n\n          -  Chemotherapy must be essential for the patient.\n\n        Exclusion Criteria:\n\n          -  Diagnosed or suspected patients with covid-19 pneumonia, according to the symptom,\n             nucleic acid tests, antibody tests for SARS-CoV-2, or CT scan of the lungs.\n\n          -  Patient has a prior SARS-CoV-2 infection without clinical cure for 28 days.\n\n          -  Patient has close contact with diagnosed or suspected SARS-CoV-2 infected person\n             within 14 days.\n\n          -  Patient has inadequate general condition, severe complication or organ dysfunction not\n             fit for chemotherapy (based on the judgment of researchers).\n\n          -  Patient or the family refuses to sign the informed consent.\n\n          -  Patient does not cooperate in following up."
+            },
+            "gender": "Female",
+            "minimum_age": "18 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Qinglei Gao, Dr.",
+            "phone": "+86-13871127473",
+            "email": "qingleigao@hotmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+                "address": {
+                    "city": "Wuhan",
+                    "state": "Hubei",
+                    "zip": "430030",
+                    "country": "China"
+                }
+            },
+            "contact": {
+                "last_name": "Qinglei Gao, Dr.",
+                "phone": "+86-13871127473",
+                "email": "qingleigao@hotmail.com"
+            }
+        },
+        "location_countries": {
+            "country": "China"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Tongji Hospital",
+            "investigator_full_name": "Qinglei Gao",
+            "investigator_title": "Professor"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-CoV-2",
+            "Gynecological cancer",
+            "Chemotherapy"
+        ],
+        "condition_browse": {
+            "mesh_term": "Neoplasms"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "Undecided"
+        }
+    }
+}

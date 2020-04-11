@@ -1,0 +1,193 @@
+{
+    "clinical_study": {
+        "@rank": "252",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342169"
+        },
+        "id_info": {
+            "org_study_id": "IRB_00131893",
+            "nct_id": "NCT04342169"
+        },
+        "brief_title": "University of Utah COVID-19 Hydrochloroquine Trial",
+        "official_title": "Hydroxychloroquine for Outpatients With Confirmed COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Utah",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Utah",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "A novel coronavirus, SARS-CoV-2, is responsible for a rapidly spreading pandemic that has\n      reached 160 countries, infecting over 500,000 individuals and killing more than 24,000\n      people. SARS-CoV-2 causes an acute and potentially lethal respiratory illness, known as\n      COVID-19, that is threatening to overwhelm health care systems due to a dramatic surge in\n      hospitalized and critically ill patients. Patients hospitalized with COVID-19 typically have\n      been symptomatic for 5-7 days prior to admission, indicating that there is a window during\n      which an effective intervention could significantly alter the course of illness, lessen\n      disease spread, and alleviate the stress on hospital resources.\n\n      There is no known treatment for COVID-19, though in vitro and one poorly controlled study\n      have identified a potential antiviral activity for HCQ. The rationale for this clinical trial\n      is to measure the efficacy and safety of hydroxychloroquine for reducing viral load and\n      shedding in adult outpatients with confirmed COVID-19."
+        },
+        "detailed_description": {
+            "textblock": "Background COVID-19 is pandemic with high mortality among hospitalized patients despite a\n      benign course in the large majority of patients infected. Limited data are available from\n      small outpatient studies and have not shown efficacy in preventing hospitalization.\n      Hydroxychloroquine (HCQ) and chloroquine have antiviral and immune-modulating effects, but\n      there are no data concerning their efficacy in reducing viral load and shedding in\n      outpatients.\n\n      Evidence supporting possible efficacy for hydroxychloroquine. In cell models, chloroquine\n      both interferes with terminal glycosylation of the ACE2 receptor (the cell surface receptor\n      by which SARS-CoV2 enters human cells) and increases endosomal pH, which interferes (at least\n      in vitro) with a crucial step in viral replication.1,2 HCQ is 5x more potent than chloroquine\n      in a Vero cell model of SARS-CoV-2 infection. In independent experiments, chloroquine has\n      confirmed in vitro activity against SARS-CoV-2. Additionally, HCQ has in vitro efficacy\n      against SARS-CoV-1. According to news releases, an as-yet-unpublished set of case series in\n      China (N reportedly 120) suggests the possibility of rapid viral clearance and low rates of\n      progression to critical illness. In addition to in vitro anti-viral effects chloroquine and\n      HCQ appear to have immune-modulatory effects, especially via suppression of release of TNF\n      and IL6, especially in macrophages.\n\n      Evidence against efficacy for hydroxychloroquine. Chloroquine and HCQ have been promoted as\n      extremely broad anti-infective agents for decades. The reported effects include suppression\n      of fungi, atypical bacteria, and viruses. Other than the effects on ACE2 glycosylation, the\n      mechanisms invoked as evidence for efficacy against SARS-CoV-2 have also been invoked for a\n      wide range of viruses. However, when chloroquine and HCQ have been studied in humans, neither\n      agent has demonstrated consistent efficacy in clinical trials, including in HIV, influenza,\n      hepatitis, and Dengue. In one trial, chloroquine resulted in increased viral replication in\n      Chikungunya virus [Roques et al, Viruses 2018 May 17;10(5)] while in another\n      hydroxychloroquine was associated with increased HIV viral load [Paton et al, JAMA 2012 Jul\n      25;308(4):353]. Expert opinion advises against HCQ for MERS, another serious coronavirus. An\n      underpowered (n=30) study of HCQ in COVID-19 recently published in China did not demonstrate\n      any clinical benefit [Chen et al, J Zhejiang University, 2020 March 9]. The long history of\n      clinical failure despite in vitro anti-viral activity suggests a low probability of efficacy.\n\n      Rationale for Trial There is significant publicity concerning the potential use of HCQ in\n      this pandemic, and many patients are seeking access to this unproven therapy. The ANZICS\n      guidelines emphasize that novel treatments should be administered within clinical trials; the\n      Surviving Sepsis Campaign guidelines (http://bit.ly/SSCCOVID-19) also affirm the lack of\n      evidence to support the clinical use of (hydroxy)chloroquine. WHO guidance\n      (https://apps.who.int/iris/bitstream/handle/10665/331446/WHO-2019-nCoV-clinical-2020.4-eng.pd\n      f) also strongly affirms that \"investigational anti-COVID-19 therapeutics should be done\n      under ethically approved, randomized, controlled trials.\" The evidence thus strongly favors\n      equipoise."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 14, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2023"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2022"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Phase 2, prospective, placebo-controlled, parallel group, randomized trial",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Duration of viral shedding",
+            "time_frame": "Days 1-14"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Duration of COVID-19-attributable symptoms",
+                "time_frame": "Everyday through 6 months"
+            },
+            {
+                "measure": "Hospitalization",
+                "time_frame": "within 14 days of enrollment"
+            },
+            {
+                "measure": "Duration of viral shedding",
+                "time_frame": "Days 1-14 and Day 28"
+            },
+            {
+                "measure": "Adult household contact viral acquisition",
+                "time_frame": "Days 1-14 and Day 28"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "400"
+        },
+        "condition": [
+            "Coronavirus Infection",
+            "Coronavirus",
+            "Infectious Disease"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "HCQ",
+                "arm_group_type": "Experimental",
+                "description": "Participants randomized to the HCQ arm will receive HCQ 400mg po BID x 1 day, then 200mg po BID x 4 days. The drug dose (2.4 gm over 5 days) falls at the lower end of doses proposed in various international trials, but it has proven in vitro efficacy, with a ratio of lung tissue trough concentrations to the EC50 (effective concentration to suppress 50% of viral activity) of >20."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Those randomized to placebo will receive a placebo to be taken on the same schedule."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "HCQ 400mg po BID x 1 day, then 200mg po BID x 4 days",
+                "arm_group_label": "HCQ"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo oral tablet",
+                "description": "Placebo to be taken on the same schedule as HCQ.",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient age \u226518 years, competent to provide consent\n\n          -  Within 48 hours of positive nucleic acid test for SARS-CoV-2\n\n        Exclusion Criteria:\n\n          -  Patient already prescribed chloroquine or hydroxychloroquine\n\n          -  Allergy to hydroxychloroquine\n\n          -  History of bone marrow or solid organ transplant\n\n          -  Known G6PD deficiency\n\n          -  Chronic hemodialysis, peritoneal dialysis, continuous renal replacement therapy or\n             Glomerular Filtration Rate < 20ml/min/1.73m2\n\n          -  Known liver disease (e.g. Child Pugh score \u2265 B or AST>2 times upper limit)\n\n          -  Psoriasis\n\n          -  Porphyria\n\n          -  Known cardiac conduction delay (QTc > 500mSec) or taking any prescription medications\n             known to prolong QT interval\n\n          -  Concomitant use of digitalis, flecainide, amiodarone, procainamide, or propafenone\n\n          -  Seizure disorder\n\n          -  Prisoner\n\n          -  Weight < 35kg\n\n          -  Inability to follow-up - no cell phone or no address or not Spanish or English\n             speaking\n\n          -  Receipt of any experimental treatment for SARS-CoV-2 (off-label, compassionate use, or\n             trial related) within the 30 days prior to the time of the screening evaluation\n\n          -  Patient or another member of patient's household has been already enrolled in this\n             study."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Adam Spivak, MD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Utah"
+        },
+        "overall_contact": {
+            "last_name": "Christina Pacchia, PhD",
+            "phone": "8012138735",
+            "email": "christina.pacchia@hsc.utah.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "University of Utah",
+                "address": {
+                    "city": "Salt Lake City",
+                    "state": "Utah",
+                    "zip": "84108",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "Christina Pacchia, PhD",
+                "phone": "801-213-8735",
+                "email": "christina.pacchia@hsc.utah.edu"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 10, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Utah",
+            "investigator_full_name": "Adam M. Spivak, MD",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": [
+            "coronavirus",
+            "COVID-19",
+            "hydrochloroquine",
+            "placebo"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Communicable Diseases",
+                "Infection",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}
