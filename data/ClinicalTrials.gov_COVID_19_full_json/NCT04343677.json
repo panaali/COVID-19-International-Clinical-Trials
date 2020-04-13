@@ -1,0 +1,190 @@
+{
+    "clinical_study": {
+        "@rank": "38",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343677"
+        },
+        "id_info": {
+            "org_study_id": "Pentagon 20-1",
+            "nct_id": "NCT04343677"
+        },
+        "brief_title": "Military COVID-19 Hydroxychloroquine Pre-exposure and Post-exposure Prophylaxis Study",
+        "official_title": "Military COVID-19 Hydroxychloroquine Pre-exposure and Post-exposure Prophylaxis Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "United States Department of Defense",
+                "agency_class": "U.S. Fed"
+            }
+        },
+        "source": "United States Department of Defense",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "There is significant interest throughout the United States in performing a well-designed\n      study to evaluate whether there is value in using Hydroxychloroquine or Chloroquine as a\n      pre-exposure prophylaxis or post-exposure prophylaxis regimen for COVID-19 patients and at\n      risk personnel.\n\n      We have designed a prospective double blinded randomized controlled clinical trial to answer\n      just this question.\n\n      The study will consist of 4 arms:\n\n        1. A placebo control arm of 450 patients\n\n        2. A low dose prophylaxis arm of 450 patients treated with 200mg Hydroxychloroquine daily\n\n        3. A high dose prophylaxis arm of 450 patients treated with 400mg Hydroxychloroquine daily\n\n        4. A post-exposure arm of 100 patients treated with 400mg Hydroxychloroquine daily for 7\n           days."
+        },
+        "detailed_description": {
+            "textblock": "Since December of 2019 COVID-19 is a rapidly spreading virus presently infecting over\n      1,000,000 individuals worldwide, over 250,000, and over 6,000 deaths in the United States as\n      of 03/31/2020.1\n\n      Presently there are no FDA approved treatments or immunizations against COVID-19; however,\n      the FDA has granted an EUA for the treatment of hospitalized patients with\n      hydroxycholorquine.2\n\n      Depending on case series the expected case fatality rate for COVID-19 without treatment is\n      between 0.5-10% with the most likely range between 1-3% which is >10x the expected case\n      fatality rate of seasonal influenza.\n\n      Several studies have reported anecdotal and promising preliminary data on the treatment of\n      Coronavirus. Based on the limited evidence from these studies, pre-exposure prophylaxis, or\n      post-exposure prophylaxis may be beneficial.3-21\n\n      Due to the nature of the work in the Pentagon multiple critical individuals are unable to\n      practice effective social distancing measures in order to ensure their mission critical jobs\n      for continuity of government and national defense.\n\n      Any medication, treatment protocol, or epidemiological control measure which appears safe\n      preliminarily and can be implemented must be tested and put into practice immediately in\n      order to protect senior leaders and other mission critical personnel.\n\n        1. https://www.worldometers.info/coronavirus/country/us/\n\n        2. EUA Hydroxychloroquine sulfate Health Care Provider Fact Sheet, version date 3/28/2020 -\n           attached in study documents.\n\n        3. Colson P, et al. Chloroquine and hydroxychloroquine as available weapons to\n           fightCOVID-19. International Journal of Antimicrobial Agents\n           https://doi.org/10.1016/j.ijantimicag.2020.105932\n\n        4. Zhou D, et al. COVID-19: a recommendation to examine the effect of hydroxychloroquine in\n           preventing infection and progression, Journal of Antimicrobial Chemotherapy,\n           https://doi.org/10.1093/jac/dkaa114\n\n        5. Multicenter collaboration group of Department of Science and Technology of Guangdong\n           Province and Health Commission of Guangdong Province for chloroquine in the treatment of\n           novel coronavirus pneumonia. Expert consensus on chloroquine phosphate for the treatment\n           of novel coronavirus pneumonia Chinese Journal of Tuberculosis and Respiratory Diseases\n           43, no. 0. https://www.ncbi.nlm.nih.gov/pubmed/32075365.\n\n        6. Yao X, et al. In Vitro Antiviral Activity and Projection of Optimized Dosing Design of\n           Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2\n           (SARS-CoV-2). Clin Infect Dis. 2020 Mar 9. https://www.ncbi.nlm.nih.gov/pubmed/32150618.\n\n        7. Cortegiana, et al. A systematic review on the efficacy and safety of chloroquine for the\n           treatment of COVID-19. J Crit Care. 2020 Mar 10.\n           https://www.sciencedirect.com/science/article/pii/S0883944120303907.\n\n        8. Hydroxychloroquine clinical trial (NCT04261517).\n           https://clinicaltrials.gov/ct2/show/NCT04261517?cond=covid-19&draw=8.\n\n        9. WHO. Clinical management of severe acute respiratory infection when novel coronavirus\n           (nCoV) infection is suspected. Accessed 2020 Mar 12.\n           https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratory-\n           infection-when-novel-coronavirus(ncov)-infection-is-suspected.\n\n       10. CDC. Interim Clinical Guidance for Management of Patients with Confirmed Coronavirus\n           Disease (COVID-19). Accessed 2020 Mar 12.\n           https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html\n           .\n\n       11. Gross AE, Bryson ML. Oral Ribavirin for the Treatment of Noninfluenza Respiratory Viral\n           Infections: A Systematic Review. Ann Pharmacother. 2015 Oct;49(10):1125-35.\n           https://www.ncbi.nlm.nih.gov/pubmed/26228937.\n\n       12. Arabi YM, et al. Ribavirin and Interferon Therapy for Critically Ill Patients With\n           Middle East Respiratory Syndrome: A Multicenter Observational Study. Clin Infect Dis.\n           2019 Jun 25. https://www.ncbi.nlm.nih.gov/pubmed/31925415.\n\n       13. Mo Y, Fisher D. A review of treatment modalities for Middle East Respiratory Syndrome. J\n           Antimicrob Chemother. 2016 Dec;71(12):33403350.\n           https://www.ncbi.nlm.nih.gov/pubmed/27585965.\n\n       14. Darunavir/cobicistat clinical trial (NCT04252274).\n           https://clinicaltrials.gov/ct2/show/NCT04252274.\n\n       15. Wang M, et al. Remdesivir and chloroquine effectively inhibit the recently emerged novel\n           coronavirus (2019-nCoV) in vitro. Cell Research. 2020 30;269-71.\n           https://www.nature.com/articles/s41422-020-0282-0.\n\n       16. Gamino-Arroyo AE, et al. Efficacy and Safety of Nitazoxanide in Addition to Standard of\n           Care for the Treatment of Severe Acute Respiratory Illness. Clin Infect Dis. 2019 Dec\n           69;11:1903-11. https://academic.oup.com/cid/article/69/11/1903/5308603.\n\n       17. Yao TT, et al. A Systematic Review of Lopinavir Therapy for SARS Coronavirus and MERS\n           Coronavirus-A Possible Reference for Coronavirus Disease-19 Treatment Option. J Med\n           Virol. 2020 Feb 27. https://www.ncbi.nlm.nih.gov/pubmed/32104907.\n\n       18. Young BE, et al. Epidemiologic Features and Clinical Course of Patients Infected With\n           SARS-CoV-2 in Singapore. JAMA. 2020 Mar 3.\n           https://jamanetwork.com/journals/jama/fullarticle/2762688\n\n       19. Li Y, et al. Extraordinary GU-rich single-strand RNA identified from SARS coronavirus\n           contributes an excessive innate immune response. Microbes Infect. 2013 Feb;15(2):88-95.\n           https://www.ncbi.nlm.nih.gov/pubmed/23123977\n\n       20. Xiaoling X, et al. Effective treatment of Severe COVID-19 Patients with Tocilizumab.\n           [Pre-print - not peer reviewed]. http://chinaxiv.org/abs/202003.00026.\n\n       21. NephJC (nephrology online journal club) detailed review with links to society\n           statements. Accessed 2020 Mar 16. http://www.nephjc.com/news/covidace2.\n\n      The primary aim of this study is to determine whether pre-exposure prophylaxis decreases the\n      incidence of COVID-19 infections amongst personnel, and the secondary aim is to determine\n      whether post-exposure prophylaxis decreases the severity of illness and speeds the return to\n      work of personnel.\n\n      The Pentagon Medical Facilities consist of 2 separate medical clinics and 2 separate dental\n      clinics that collaborate on daily activities. Operational personnel with special medical\n      requirements such as aviators and Personnel Reliability Program (PRP) personnel are typically\n      seen in the Pentagon Flight Medicine Clinic while other personnel are seen in the DiLorenzo\n      Tricare Health Clinic Pentagon.\n\n      Based on the EUAs for hydroxychloroquine & chloroquine, which are in critical national\n      shortage, and inpatient treatment protocols, hydroxychloroquine and chloroquine show\n      potential for treatment of patients hospitalized for COVID-19. We suspect that treatment of\n      early or asymptomatic exposed patients with chloroquine may decrease infection rates or limit\n      infection severity if pre-treated or treated early\n\n      Describe all the data variables, information to be collected, the source of the data, and how\n      the data will be operationally measured.\n\n      Study Procedures:\n\n      Inclusion criteria:\n\n      All mission critical personnel enrolled to the DiLorenzo Tricare Health Clinic or Pentagon\n      Flight Medicine Clinic unable to telework or appropriately socially distance with access to\n      the Pentagon during the declared public health crisis.\n\n      Exclusion criteria:\n\n      Known recovered COVID-19 patient, G6PD deficient individuals, individuals with significant QT\n      abnormalities, non-compliant patients, and patients who refuse randomization or consent.\n\n      Recruitment by Arms:\n\n        1. 2, 3. Individuals will be approached by protocol staff and any other staff added to the\n           protocol after initial submission during their screening for clinical visits or access\n           screening to critical spaces. They will be asked 2 questions:\n\n           a. Are you aware of an ongoing study within the Pentagon attempting to determine the\n           efficacy of a medication to prevent or treat COVID-19 infections?\n\n           i. If the individual answers yes:\n\n           a. Have you already elected or are you interested in participating?\n\n           i. If yes they are or are interested in participating they will be referred for\n           enrollment as appropriate.\n\n           ii. If not they will be thanked for their time.\n\n           ii. If the individual answers no:\n\n           a. Would you like to learn more or are you interested in enrolling?\n\n           i. Yes: Referred for enrollment.\n\n           ii. No: They will be thanked for their time.\n\n      4. PIs and AIs who are seeing patients for possible COVID-19 exposure or who have tested\n      positive as part of their routine clinical duties will offer enrollment to arm 4 these\n      individuals. At their first visit.\n\n      Consent:\n\n      Informed and appropriately witnessed consent* as required will be obtained by the PI or any\n      other AI added in subsequent modifications to the protocol. Due to telemedicine and social\n      distancing with the ongoing crisis this will be by distance mechanisms including digital\n      versus wet signature as clinically indicated based on the situation to minimize patient and\n      provider risks.\n\n      Patients will be assigned sequential patient identifier numbers during their consent process\n      for tracking purposes.\n\n      Initial procedures for safety monitoring including CBC, CMP, UA, G6PD testing (if prior\n      records unavailable), and EKG (if prior records unavailable) will be obtained after consent.\n\n      Assignment to groups 1, 2, or 3:\n\n      Patients will be randomized to groups 1-3 by a random number generators' results\n      (https://www.google.com/search?sxsrf=ALeKk03SHGo_yHevMbw4jIPVd85kc7e8Sg%3A1586372945822&sourc\n      e=hp&ei=USGOXqqgL6mGytMPo-268Ag&q=random+number+1-3&oq=random+nu&gs_lcp=CgZwc3ktYWIQAxgEMgUIA\n      BCDATICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECCMQJzoFCAAQkQJKJAgXEiAwZzE3NGcxNjlnMT\n      czZzc4ZzEwNmc5N2c5OGc4N2c4NUoXCBgSEzBnMWcxZzJnMWcxZzFnMWcxZzFQvQJYhxRg4zdoAXAAeACAAaEBiAH3B5I\n      BAzcuM5gBAKABAaoBB2d3cy13aXo&sclient=psy-ab) pre-recorded in a sealed plain envelope.\n\n      Medication retrieval:\n\n      The patient will then present to the DTHC pharmacy with their envelope and copy of their\n      enrollment consent to retrieve their medications. The pharmacist will open their envelope and\n      hand them medication 1, 2, or 3 as appropriate, and record their study number and group\n      number on a running spreadsheet maintained without PII in the pharmacy.\n\n      Patients will provide their study number to the pharmacy for any refills during the duration\n      of the study.\n\n      If an individual is on pre-exposure prophylaxis and develops COVID-19 they will continue on\n      treatment through the post-exposure prophylaxis window of 7 days on the dose they were\n      assigned at randomization.\n\n      Records collection:\n\n      Patient records will be queried in five ways: 1. At study enrollment 2. During consent\n      patient's will be asked to inform study personnel if they become sick or exposed to COVID-19;\n      patients will present with concerns 3. Monthly records reviews will be conducted to determine\n      if patients have become positive or are displaying signs of COVID-19 4. When the study\n      personnel are informed by public health officials of a positive COVID-19 patient assigned to\n      the Pentagon 5. When the declared public health emergency is over or the study ends (at its 1\n      year anniversary if the public health emergency has not ended).\n\n      Results will be retrieved from AHTLA, CHCS, request to treating civilian providers for care\n      outside the MHS, Essentris, and MHS imaging systems such as Impax.\n\n      Records collection will include as appropriate:\n\n        1. Date of exposure - to determine optimal timing of post-exposure prophylaxis during data\n           analysis.\n\n        2. Date of positive test - to determine optimal timing of post-exposure prophylaxis on data\n           analysis.\n\n        3. Medical comorbidities as they are known or become known including HTN, DM, Male Gender,\n           Age, Pulmonary Disease, Health Care Worker / First Responder, and/or known cardiac\n           disease. - to control and test for cofounding conditions as well as risk stratify\n\n        4. CXR results, Chest CT results, Intracranial Imaging results, cardiac testing, CBCs,\n           CMPs, COVID-19 test results, Infectious Disease notes, Pulmonary notes,\n           Cardiology/Cardiac surgery notes, and Neurology notes. - to control and test for\n           cofounding conditions as well as risk stratify. To determine whether an individual is\n           safe to enroll and receive study medications. To determine if an individual under\n           therapy has become infected and guage severity of the infection. All imaging being\n           performed is for standard of care and not study purposes.\n\n        5. Date of symptom onset - to determine optimal timing of post-exposure prophylaxis during\n           data analysis. To determine time to event.\n\n        6. Date of resolution - to assess effects of medication treatment on duration and severity\n           of disease.\n\n        7. All medications that the patient is on or has been on within the proceeding 1 month - to\n           assess for possible complications or medication interactions.\n\n        8. Hospitiization records, particulary records with regards to ICU admission, ICU\n           discharge, need for supplemental oxygen, length of stay, ICU length of stay, and/or need\n           for mechanical ventilation - to properly assess severity, disease duration, and course\n           for secondary outcome analysis.\n\n        9. Date of treatment start - to assess for optimal timing of initiation of secondary\n           prophylaxis or time to onset of symptoms after prophylaxis.\n\n       10. Date of treatment termination - to assess for relapses or worsening timing after\n           cessation of treatment.\n\n             -  Witness:\n\n      \"In order to conduct human research in this Commonwealth of Virginia, informed consent must\n      be obtained if the person who is to be the human subject is as follows:(i) capable of making\n      an informed decision, then it shall be subscribed to in writing by the person and witnessed;\n      or (ii) incapable of making an informed decision at the time consent is required, then it\n      shall be subscribed to in writing by the person and witnessed. Therefore the \"impartial\n      witness\" section in the consent form will be used for all subjects consented in the\n      Commonwealth of Virginia.\n\n      Responsibilities of the impartial witness include the following:\n\n        -  Read the informed consent and all written materials given to the subject\n\n        -  Confirm the subject was presented sufficient information to assure that the subject was\n           truly informed\n\n        -  Sign and date the informed consent form after the informed consent and any other written\n           information provided to the subject is read and explained.\n\n      A signature from the impartial witness will serve as documentation of this process within the\n      subject's study file. The subject will also need to sign and date or mark the informed\n      consent showing appropriate consent for participation.\""
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Triple (Participant, Care Provider, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Incidence",
+            "time_frame": "2 months",
+            "description": "The primary aim of this study is to determine whether pre-exposure prophylaxis decreases the incidence of COVID-19 infections amongst personnel"
+        },
+        "secondary_outcome": {
+            "measure": "Severity of Disease",
+            "time_frame": "2 months",
+            "description": "The secondary aim is to determine whether post-exposure prophylaxis decreases the severity of illness and speeds the return to work of personnel"
+        },
+        "number_of_arms": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1450"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Arm 1 Control",
+                "arm_group_type": "Placebo Comparator"
+            },
+            {
+                "arm_group_label": "Arm 2 PrEP",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Arm 3 PrEP",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Arm 4 PEP",
+                "arm_group_type": "Experimental"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "Daily dosing of hydroxychloroquine as PrEP or PEP",
+                "arm_group_label": [
+                    "Arm 2 PrEP",
+                    "Arm 3 PrEP",
+                    "Arm 4 PEP"
+                ]
+            },
+            {
+                "intervention_type": "Dietary Supplement",
+                "intervention_name": "Placebo",
+                "description": "A vitamin supplement of no known activity against COVID-19",
+                "arm_group_label": "Arm 1 Control"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        All mission critical personnel enrolled to the DiLorenzo Tricare Health Clinic or Pentagon\n        Flight Medicine Clinic unable to telework or appropriately socially distance with access to\n        the Pentagon during the declared public health crisis.\n\n        Exclusion Criteria:\n\n        Known recovered COVID-19 patient, G6PD deficient individuals, individuals with significant\n        QT abnormalities, non-compliant patients, and patients who refuse randomization or consent."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": [
+            {
+                "last_name": "Angela Phillips, PhD",
+                "role": "Principal Investigator",
+                "affiliation": "11 MDG"
+            },
+            {
+                "last_name": "Scott A Wallace, MD",
+                "role": "Principal Investigator",
+                "affiliation": "NMRTC Bethesda"
+            },
+            {
+                "last_name": "David S Robinson, MD",
+                "role": "Principal Investigator",
+                "affiliation": "11 MDG"
+            },
+            {
+                "last_name": "John S Baxter, MD, JD",
+                "role": "Study Chair",
+                "affiliation": "11 MDG"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Scott A Wallace, MD",
+            "phone": "703-697-3255",
+            "email": "usaf.pentagon.11-mdg.mbx.flight-med-clinic@mail.mil"
+        },
+        "location": {
+            "facility": {
+                "name": "Pentagon",
+                "address": {
+                    "city": "Arlington",
+                    "state": "Virginia",
+                    "zip": "20301",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "Scott A Wallace, MD",
+                "phone": "703-697-3255",
+                "email": "usaf.pentagon.11-mdg.mbx.flight-med-clinic@mail.mil"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "United States Department of Defense",
+            "investigator_full_name": "Scott A. Wallace",
+            "investigator_title": "Flight Surgeon"
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "No patient data to be shared outside of the Pentagon."
+        }
+    }
+}

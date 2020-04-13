@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "41",
+        "@rank": "48",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04329923"
         },
@@ -29,10 +29,10 @@
         "brief_summary": {
             "textblock": "The PATCH trial (Prevention And Treatment of COVID-19 with Hydroxychloroquine) is funded\n      investigator-initiated trial that includes 3 cohorts. Cohort 1: a double-blind placebo\n      controlled trial of high dose HCQ as a treatment for home bound COVID-19 positive patients;\n      Cohort 2: a randomized study testing different doses of HCQ in hospitalized patients; Cohort\n      3: a double blind placebo controlled trial of low dose HCQ as a preventative medicine in\n      health care workers."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 8, 2020"
+            "@type": "Actual",
+            "#text": "April 9, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -220,6 +220,7 @@
                     "country": "United States"
                 }
             },
+            "status": "Recruiting",
             "contact": {
                 "last_name": "Amelia Anderson",
                 "phone": "215-509-5690",
@@ -240,11 +241,11 @@
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "April 3, 2020",
-        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

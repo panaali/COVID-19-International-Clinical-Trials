@@ -1,0 +1,167 @@
+{
+    "clinical_study": {
+        "@rank": "130",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343794"
+        },
+        "id_info": {
+            "org_study_id": "COVID19_Biovitals_Protocol_1",
+            "nct_id": "NCT04343794"
+        },
+        "brief_title": "Using Biovitals\u00ae Sentinel to Monitor Disease Progression in Subjects Quarantined for Suspected COVID-19",
+        "official_title": "Using Biovitals\u00ae Sentinel to Monitor Disease Progression in Subjects Quarantined for Suspected COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "The University of Hong Kong",
+                "agency_class": "Other"
+            }
+        },
+        "source": "The University of Hong Kong",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The novel coronavirus (COVID-19) emerged in December 2019, and in mere months has spread to\n      more than 104 countries, resulting in an outbreak of viral pneumonia worldwide.\n\n      Current local quarantine policy in Hong Kong for individuals suspected for COVID-19 requires\n      daily self-reported symptomatology and body temperature, given the intermittent nature and\n      the high dependency of self-discipline undermine the practicality of the approach. To date,\n      the advance in sensor technology has made possible to continuously monitor individual\n      physiological parameters using a simple wearable device. Together with the mobile wearable\n      technology that allowing instantaneous, multi-directional, and massive data transfer, remote\n      continuous physiological monitoring is made possible. The Cardiology division, the Univeristy\n      of Hong Kong has been in collaboration with Biofourmis to implement such technology for\n      remote heart failure management. Similar digital therapeutic system can be applied to\n      remotely monitor physiological parameters of large number of quarantined or suspected\n      COVID-19 at home or in quarantine facility. It is purposed to allow the monitoring team to\n      effectively and remotely monitor COVID-19 quarantined and patients, manage and evaluate the\n      disease progression."
+        },
+        "detailed_description": {
+            "textblock": "Owing to the massive outbreak of COVID-19, as of March 9, 2020, the virus has reportedly\n      caused 108,618 infections and 3,800 deaths globally. The World Health Organization (WHO) has\n      declared COVID-19 disease a public health emergency of international concern. As there has\n      yet been specific therapeutic or vaccine for the condition, rigorous implementation of\n      traditional public health measures including isolation, quarantine, social distancing, and\n      community containment is the principle strategy to control the COVID-19 epidemic. In addition\n      to the isolation of confirmed COVID-19 infected patients from noninfected population, it is\n      equally if not more important to quarantine asymptomatic individuals with possible exposure\n      to COVID-19 in order to reduce the viral spread. Indeed, quarantine measures have been\n      initiated in many countries and regions, which restrict movements of asymptomatic individuals\n      with COVID-19 exposure often with fever and symptom surveillance at home or designated\n      facilities for the presumed incubation period (14 days). While conceptually attractive, the\n      intermittency and high dependency of selfdiscipline for body temperature and symptom\n      surveillance undermine the practicality and effectiveness of the approach. Furthermore, it\n      has been reported that as many as 50% of COVID-19 infected patients had not had fever until\n      the full-blown disease, thereby body temperature surveillance per se may not be sufficient to\n      detect early disease progression.\n\n      In the past few decades, advances in sensor technology miniaturize electronic physiological\n      sensors that could be incorporated into wearable devices allowing continuous monitoring of\n      physiological parameters such as skin temperature, heart rate, respiratory rate, oxygen\n      saturation, perspiration and activity of ambulatory subjects in a 24/7 basis. Together with\n      current telecommunication platform capable of instantaneous and multi-directional massive\n      data transfer, it is possible to remotely monitor a large number of individual subjects'\n      physiological parameters in a real-time manner, and relay to managing physicians for timely\n      intervention. Nonetheless, such potentials have not been fully explored in the real-world\n      disease management. The current study will assess the impact of remote continuous real-time\n      physiological monitoring using wearable armband device Everion\u00ae (Biofourmis, Singapore) and\n      artificial intelligence-powered analytical platform Biovitals\u00ae Sentinel (Biofourmis,\n      Singapore) on detection of disease progression in asymptomatic subjects with COVID-19\n      exposure under mandatory quarantine at designated facilities in Hong Kong. The research\n      hypothesis is that by processing continuous physiological data collected using wearable\n      device Everion\u00ae and patient reported outcomes with a cloud-based analytics platform\n      Biovitals\u00ae Sentinel, it will possible to detect physiological changes and other clinically\n      meaningful alerts that indicate early clinical progression in quarantined subjects with\n      COVID-19 exposure.\n\n      The wearable vital sign monitor Everion\u00ae is capable to track multiple vitals sings including\n      heart rate, heart rate variability, blood pulse variation, respiration rate under rest,\n      activity, steps, skin temperature and etc. It is Bluetooth connected to a dedicated\n      study-smartphone that allows remote transfer of all the physiological data captured by the\n      wearable device in real time. A specially-designed application (APP) on the study-smartphone\n      enables the patient to participate in health monitoring by reporting symptoms regularly and\n      make aware of his/her physical and physiological patterns via the monitoring displays on the\n      smart-phone. The patient's passive physiological data from the device and the active data on\n      the symptoms and outcomes from Biovitals\u00ae analytics platform are automatically transferred to\n      the monitoring console on the cloud. Thus, the Biofourmis platform solution is proposed to\n      allow the monitoring team to effectively and remotely monitor COVID-19 patients and evaluate\n      the disease progression. Leveraging Everion, the smartphone APP, Biovitals\u00ae analytics\n      platform and the caregiver dashboard, biofourmis has built an end to end solution, Biovitals\u00ae\n      Sentinel to remote monitor and manage the suspected subjects."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "January 31, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Diagnostic",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Time to diagnosis of COVID-19 by RT-PCR in subjects",
+            "time_frame": "within 14 days",
+            "description": "Time from quarantine to diagnosis of COVID-19"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Compliance to complete the study",
+                "time_frame": "within 14 days",
+                "description": "Adherence to device"
+            },
+            {
+                "measure": "Sensitivity and specificity of Biovitals\u00ae Sentinel",
+                "time_frame": "within 14 days",
+                "description": "To identify COVID19 subjects"
+            },
+            {
+                "measure": "Cross infection rate within the family cluster",
+                "time_frame": "within 14 days",
+                "description": "% of family members infection"
+            },
+            {
+                "measure": "Length of hospital stay of positive subjects",
+                "time_frame": "1 year at study completion",
+                "description": "Length of hospital stay"
+            },
+            {
+                "measure": "Length of ICU stay of positive patients",
+                "time_frame": "1 year at study completion",
+                "description": "Length of ICU stay"
+            },
+            {
+                "measure": "National Early Warning Score 2 rating of positive patients",
+                "time_frame": "4 weeks from diagnosis",
+                "description": "Vital signs of positive patients"
+            },
+            {
+                "measure": "Viral load of positive patients",
+                "time_frame": "4 weeks from diagnosis",
+                "description": "Virology laboratory result of nasopharyngeal swab"
+            },
+            {
+                "measure": "Worsening of comorbidities",
+                "time_frame": "1 year at study completion",
+                "description": "Worsening of comorbidities"
+            },
+            {
+                "measure": "Mortality",
+                "time_frame": "1 year at study completion",
+                "description": "Mortality"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "COVID19",
+        "arm_group": [
+            {
+                "arm_group_label": "Biovitals",
+                "arm_group_type": "Experimental",
+                "description": "Continuous physiological monitoring using Biovitals platform including (1) armband with multiple physiological sensor, (2) remote monitoring, and (3) Analytic platform. The arm will be worn 23 hours a day and off for 1 hour during showering for recharging battery during 24 hr quarantine period"
+            },
+            {
+                "arm_group_label": "Control",
+                "arm_group_type": "No Intervention",
+                "description": "Usual standard care"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Device",
+            "intervention_name": "BIOVITALS",
+            "description": "Biovitals platform including (1) armband with multiple physiological sensor, (2) remote monitoring, and (3) Analytic platform. The arm will be worn 23 hours a day and off for 1 hour during showering for recharging battery during 24 hr quarantine period",
+            "arm_group_label": "Biovitals"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adult subjects \u226518 years of age\n\n          -  Quarantined as suspected COVID-19\n\n          -  Asymptomatic upon enrolment\n\n          -  All subjects give written informed consent\n\n        Exclusion Criteria:\n\n        - Failure to provide written informed consent"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "February 20, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "The University of Hong Kong",
+            "investigator_full_name": "Ivan FN Hung MD",
+            "investigator_title": "Professor"
+        },
+        "keyword": "Wearable physiological monitor",
+        "condition_browse": {
+            "mesh_term": "Disease Progression"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

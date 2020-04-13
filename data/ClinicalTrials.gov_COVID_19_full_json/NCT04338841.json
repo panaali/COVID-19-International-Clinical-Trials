@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "392",
+        "@rank": "428",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04338841"
         },
@@ -31,10 +31,10 @@
         "detailed_description": {
             "textblock": "Definition of HOME-CoV rule:\n\n      The Delphi method is used to reach a consensus of a large panel of experts and to define an\n      easy-to-use clinical rule aiming to help emergency physicians in hospitalisation or\n      outpatient management decision making : the HOME-CoV rule.\n\n      The impact of the rule implementation is evaluated in a before and after study:\n\n        -  before period: observational assessment of current practices\n\n        -  implementation period : educational lectures, posters, and pocket cards showing and\n           explaining HOME-CoV rule are communicated to participating Emergency Departments.\n\n        -  after period : observational assessment of practices\n\n      In each period, patients consulting Emergency Departments with suspected or probable COVID-19\n      are evaluated for potential inclusion. Clinical, biological and imaging data that may be\n      involved in decision-making about hospitalization are collected as well as the physician\n      final decision (hospitalization or outpatient management) and its main determinants.\n\n      A phone-call follow-up is performed and the clinical status according to the Ordinal Scale\n      for Clinical Improvement of COVID-19 from the World Heath Organization is collected on day 7\n      and day 28 following inclusion."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 13, 2020"
+            "@type": "Actual",
+            "#text": "April 9, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -118,6 +118,11 @@
                         "city": "Bruxelles",
                         "country": "Belgium"
                     }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Andr\u00e9a PENALOZA",
+                    "email": "andrea.penaloza@uclouvain.be"
                 }
             },
             {
@@ -127,6 +132,11 @@
                         "city": "Liege",
                         "country": "Belgium"
                     }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "GHUYSEN Alexandre",
+                    "email": "a.ghuysen@chu.ulg.ac.be"
                 }
             },
             {
@@ -136,7 +146,8 @@
                         "city": "Argenteuil",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -145,6 +156,11 @@
                         "city": "Brest",
                         "country": "France"
                     }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Francis COUTURAUD",
+                    "email": "francis.couturaud@chu-brest.fr"
                 }
             },
             {
@@ -154,7 +170,8 @@
                         "city": "Cholet",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -163,7 +180,8 @@
                         "city": "Clermont Ferrand",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -172,7 +190,8 @@
                         "city": "Colmar",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -181,7 +200,8 @@
                         "city": "Contamine-sur-Arve",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -190,7 +210,8 @@
                         "city": "Dijon",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -199,7 +220,8 @@
                         "city": "Le Mans",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -208,7 +230,8 @@
                         "city": "Libourne",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -217,7 +240,8 @@
                         "city": "Limoges",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -226,7 +250,8 @@
                         "city": "Longjumeau",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -235,7 +260,8 @@
                         "city": "Lyon",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -244,7 +270,8 @@
                         "city": "Montpellier",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -253,7 +280,8 @@
                         "city": "Nantes",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -262,7 +290,8 @@
                         "city": "Niort",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -271,7 +300,8 @@
                         "city": "Paris",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -280,7 +310,8 @@
                         "city": "Paris",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -289,7 +320,8 @@
                         "city": "Paris",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -298,6 +330,11 @@
                         "city": "Paris",
                         "country": "France"
                     }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Anthony CHAUVIN",
+                    "email": "anthony.chauvin@aphp.fr"
                 }
             },
             {
@@ -308,7 +345,8 @@
                         "zip": "86000",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -317,7 +355,8 @@
                         "city": "Reims",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -326,7 +365,8 @@
                         "city": "Remiremont",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -335,7 +375,8 @@
                         "city": "Rennes",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -344,7 +385,8 @@
                         "city": "Rouen",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -354,7 +396,8 @@
                         "zip": "42000",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -363,15 +406,11 @@
                         "city": "Saint-Brieuc",
                         "country": "France"
                     }
-                }
-            },
-            {
-                "facility": {
-                    "name": "CHU Toulouse",
-                    "address": {
-                        "city": "Toulouse",
-                        "country": "France"
-                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Christian BRICE, MD",
+                    "email": "christian.brice@ch-stbrieuc.fr"
                 }
             },
             {
@@ -381,7 +420,8 @@
                         "city": "Troyes",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -390,7 +430,8 @@
                         "city": "Vichy",
                         "country": "France"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             },
             {
                 "facility": {
@@ -399,7 +440,8 @@
                         "city": "Monaco",
                         "country": "Monaco"
                     }
-                }
+                },
+                "status": "Active, not recruiting"
             }
         ],
         "location_countries": {
@@ -416,11 +458,11 @@
             "@type": "Actual",
             "#text": "April 8, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 8, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

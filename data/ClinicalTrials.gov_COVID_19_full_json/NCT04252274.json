@@ -1,18 +1,18 @@
 {
     "clinical_study": {
-        "@rank": "408",
+        "@rank": "290",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04252274"
         },
         "id_info": {
-            "org_study_id": "DACO-nCoV",
+            "org_study_id": "DC-COVID-19",
             "nct_id": "NCT04252274"
         },
-        "brief_title": "Efficacy and Safety of Darunavir and Cobicistat for Treatment of Pneumonia Caused by 2019-nCoV",
-        "acronym": "DACO-nCoV",
-        "official_title": "Efficacy and Safety of Darunavir and Cobicistat for Treatment of Pneumonia Caused by 2019-nCoV",
+        "brief_title": "Efficacy and Safety of Darunavir and Cobicistat for Treatment of COVID-19",
+        "acronym": "DC-COVID-19",
+        "official_title": "Efficacy and Safety of Darunavir and Cobicistat for Treatment of COVID-19",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Shanghai Public Health Clinical Center",
@@ -27,10 +27,10 @@
             "is_us_export": "No"
         },
         "brief_summary": {
-            "textblock": "The study aims to evaluate the efficacy and safety of darunavir and cobistastat in the\n      treatment of pneumonia caused by the 2019 novel coronavirus"
+            "textblock": "The study aims to evaluate the efficacy and safety of darunavir and cobistastat in the\n      treatment of COVID-19 pneumonia"
         },
         "detailed_description": {
-            "textblock": "There is no vaccine or antiviral treatment for human coronavirus, so this study aims to\n      evaluate the efficacy and safety of darunavir and cobistastat in the treatment of pneumonia\n      caused by the 2019 novel coronavirus."
+            "textblock": "There is no vaccine or antiviral treatment for human coronavirus, so this study aims to\n      evaluate the efficacy and safety of darunavir and cobistastat in the treatment of COVID-19\n      pneumonia."
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -110,7 +110,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  The participants were diagnosed as pneumonia caused by 2019-nCoV, according to the\n             notice on printing and distributing the diagnosis and treatment plan of pneumonia with\n             new coronavirus infection (trial version 4 or update version) made by National Health\n             Commission of the People's Republic of China.\n\n          -  Written the informed consent\n\n        Exclusion Criteria:\n\n          -  Hypersensitivity to darunavir, colibrestat, or any excipients\n\n          -  Patients with severe liver injury (Child-Pugh Class C)\n\n          -  Concomitant medications that are highly dependent on CYP3A clearance, and the elevated\n             plasma concentrations are associated with serious or life-threatening events.\n\n          -  Subjects were considered to be unable to complete the study, or not suitable for the\n             study by researchers\n\n        Exit criteria:\n\n          -  Subjects asked to withdraw the study\n\n          -  Subject will benefit if withdraw according to researchers' suggestions"
+                "textblock": "Inclusion Criteria:\n\n          -  The participants were diagnosed as COVID-19 pneumonia, according to the notice on\n             printing and distributing the diagnosis and treatment plan of pneumonia with new\n             coronavirus infection (trial version 4 or update version) made by National Health\n             Commission of the People's Republic of China.\n\n          -  Written the informed consent\n\n        Exclusion Criteria:\n\n          -  Hypersensitivity to darunavir, cobicistat, or any excipients\n\n          -  Patients with severe liver injury (Child-Pugh Class C)\n\n          -  Concomitant medications that are highly dependent on CYP3A clearance, and the elevated\n             plasma concentrations are associated with serious or life-threatening events.\n\n          -  Subjects were considered to be unable to complete the study, or not suitable for the\n             study by researchers\n\n        Exit criteria:\n\n          -  Subjects asked to withdraw the study\n\n          -  Subject will benefit if withdraw according to researchers' suggestions"
             },
             "gender": "All",
             "minimum_age": "N/A",
@@ -168,18 +168,18 @@
         "location_countries": {
             "country": "China"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "January 29, 2020",
         "study_first_submitted_qc": "January 31, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "February 5, 2020"
         },
-        "last_update_submitted": "March 3, 2020",
-        "last_update_submitted_qc": "March 3, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 4, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",
@@ -189,14 +189,13 @@
         },
         "keyword": [
             "Pneumonia",
-            "2019-new coronavirus",
+            "COVID-19",
             "Darunavir",
             "Cobicistat"
         ],
         "condition_browse": {
             "mesh_term": [
                 "Pneumonia, Pneumocystis",
-                "Coronavirus Infections",
                 "Pneumonia"
             ]
         },

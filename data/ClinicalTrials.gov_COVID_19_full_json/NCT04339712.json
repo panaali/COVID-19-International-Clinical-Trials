@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "185",
+        "@rank": "207",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04339712"
         },
@@ -57,9 +57,9 @@
         },
         "primary_outcome": [
             {
-                "measure": "Decrease of baseline total sequential organ failure assessment (SOFA) score",
+                "measure": "Change of baseline total sequential organ failure assessment (SOFA) score",
                 "time_frame": "Visit study day 8",
-                "description": "At least 25% decrease between baseline SOFA score and measured SOFA score at Study Day 8"
+                "description": "At least 25% decrease between baseline sequential organ failure assessment SOFA score and measured sequential organ failure assessment SOFA score at Study Day 8"
             },
             {
                 "measure": "Improvement of lung involvement measurements",
@@ -76,7 +76,7 @@
             {
                 "measure": "Comparison of change of baseline total sequential organ failure assessment (SOFA) score in enrolled subjects towards historical comparators",
                 "time_frame": "Screening, Day 8",
-                "description": "Change of total sequential organ failure assessment (SOFA) score between baseline and study visit day 8 will be compared with historical comparators from Hellenic Sepsis Study Group Database"
+                "description": "Change of total sequential organ failure assessment (SOFA) score between baseline and study visit day 8 will be compared with historical comparators from Hellenic Sepsis Study Group Database (Sequential organ failure assessment range 0-24, high score associated with worst outcome)"
             },
             {
                 "measure": "Comparison of change of lung involvement measurements in enrolled subjects towards historical comparators",
@@ -91,7 +91,7 @@
             {
                 "measure": "Change of sequential organ failure assessment (SOFA) score",
                 "time_frame": "Day 28",
-                "description": "Change of SOFA score on day 28"
+                "description": "Change of Sequential organ failure assessment (SOFA) score on day 28 (Sequential organ failure assessment range 0-24, high score associated with worst outcome)"
             },
             {
                 "measure": "Rate of Mortality",
@@ -273,6 +273,16 @@
             },
             {
                 "facility": {
+                    "name": "Intensive Care Unit, General Hospital ASKLEPIEIO Voulas",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "16673",
+                        "country": "Greece"
+                    }
+                }
+            },
+            {
+                "facility": {
                     "name": "Intensive Care Unit, \"Latsio\", Thriasio Elefsis General Hospital",
                     "address": {
                         "city": "Elefs\u00edna",
@@ -362,11 +372,11 @@
             "@type": "Actual",
             "#text": "April 9, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 9, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

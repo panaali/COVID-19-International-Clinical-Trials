@@ -1,0 +1,166 @@
+{
+    "clinical_study": {
+        "@rank": "397",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343404"
+        },
+        "id_info": {
+            "org_study_id": "7772",
+            "nct_id": "NCT04343404"
+        },
+        "brief_title": "PLACE OF VENOVENOUS ECMO IN THE MANAGEMENT OF SEVERE REFRACTORY ARDS ASSOCIATED WITH SARS-COV-2",
+        "acronym": "ECMO-COVID-19",
+        "official_title": "STUDY ECMO-COVID-19 : PLACE OF VENOVENOUS ECMO IN THE MANAGEMENT OF SEVERE REFRACTORY ARDS ASSOCIATED WITH SARS-COV-2",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Strasbourg, France",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Strasbourg, France",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Describe COVID-19 patients who are receiving ECMO-VV respiratory replacement and what happens\n      to them."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": {
+            "measure": "Retrospective description of COVID-19 patients receiving respiratory ECMO-VV supplementation and what happens to them",
+            "time_frame": "Files analysed retrospectily from March 1st, 2020 to April 15, 2020 will be examined"
+        },
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "Respiratory Distress Syndrome",
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Adult patients with a COVID-19 diagnosis by RT-PCR"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient over the age of 18;\n\n          -  Diagnostic COVID-19 by RT-PCR;\n\n          -  Hospitalisation in resuscitation for the management of complications related to\n             COVID-19\n\n          -  Implanted ECMO-VV during hospitalisation;\n\n          -  Patient agreeing to participate in the study\n\n        Exclusion Criteria:\n\n          -  Sujet under guardianship or trusteeship\n\n          -  Sujet under safeguard of justice"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A"
+        },
+        "overall_official": {
+            "last_name": "Pierre-Emmanuel FALCOZ, MD, PhD",
+            "role": "Study Director",
+            "affiliation": "Service de Chirurgie Thoracique Nouvel H\u00f4pital Civl H\u00f4pitaux Univesitaires de Strasbourg"
+        },
+        "overall_contact": {
+            "last_name": "Pierre-Emmanuel FALCOZ, MD, PhD",
+            "phone": "33 3 69 55 11 34",
+            "email": "pierre-emmanuel.falcoz@chru-strasbourg.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Sa\u00efd CHAYER, PhD, HDR",
+            "phone": "33 3 88 11 66 90",
+            "email": "said.chayer@chru-strasbourg.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "Service de Chirurgie Thoracique Nouvel H\u00f4pital Civil H\u00f4pitaux Universitaires de Strasbourg",
+                "address": {
+                    "city": "Strasbourg",
+                    "zip": "67091",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Pierre-Emmanuel FALCOZ, MD, PhD",
+                "phone": "33 3 69 55 11 34",
+                "email": "pierre-emmanuel.falcoz@chru-strasbourg.fr"
+            },
+            "investigator": [
+                {
+                    "last_name": "Pierre-Emmanuel FALCOZ, MD, PhD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Anne OLLAND, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Ferhat MEZIANI, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Francis SCHNEIDER, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Julien POTTECHER, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Michel MERTES, MD, PhD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Jean-Philipe MAZZUCOTELLI, MD, PhD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Respiratory Distress Syndrome",
+            "ARDS",
+            "SARS-COV-2",
+            "Extracorporeal membrane oxygenation",
+            "ECMO",
+            "Veno-venous ECMO"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Respiratory Distress Syndrome, Newborn",
+                "Respiratory Distress Syndrome, Adult"
+            ]
+        }
+    }
+}

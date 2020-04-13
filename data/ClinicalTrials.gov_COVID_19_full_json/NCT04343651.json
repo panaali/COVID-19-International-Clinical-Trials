@@ -1,0 +1,214 @@
+{
+    "clinical_study": {
+        "@rank": "241",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343651"
+        },
+        "id_info": {
+            "org_study_id": "CD10_COVID-19",
+            "nct_id": "NCT04343651"
+        },
+        "brief_title": "Study to Evaluate the Efficacy and Safety of Leronlimab for Mild to Moderate COVID-19",
+        "official_title": "A Phase 2, Randomized, Double Blind, Placebo Controlled Study to Evaluate the Efficacy and Safety of Leronlimab for Mild to Moderate Coronavirus Disease 2019 (COVID-19)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "CytoDyn, Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "CytoDyn, Inc.",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a Phase 2, two-arm, randomized, double blind, placebo controlled multicenter study to\n      evaluate the safety and efficacy of leronlimab (PRO 140) in patients with mild-to-moderate\n      symptoms of respiratory illness caused by coronavirus 2019 infection."
+        },
+        "detailed_description": {
+            "textblock": "This is a Phase 2, two-arm, randomized, double blind, placebo controlled multicenter study to\n      evaluate the safety and efficacy of leronlimab (PRO 140) in patients with mild-to-moderate\n      symptoms of respiratory illness caused by coronavirus 2019 infection. Patients will be\n      randomized to receive weekly doses of 700 mg leronlimab (PRO 140), or placebo. Leronlimab\n      (PRO 140) and placebo will be administered via subcutaneous injection.\n\n      The study will have three phases: Screening Period, Treatment Period, and Follow-Up Period.\n\n      A total of 75 subjects will be randomized 2:1 in this study."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 4, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 4, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Clinical Improvement as assessed by change in total symptom score (for fever, myalgia, dyspnea and cough)",
+            "time_frame": "Day 14",
+            "description": "Note: The total score per patient ranges from 0 to 12 points. Each symptom is graded from 0 to 3. [0=none, 1=mild, 2=moderate, and 3=severe]. Higher scores mean a worse outcome."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time to clinical resolution (TTCR)",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Change from baseline in National Early Warning Score 2 (NEWS2)",
+                "time_frame": "Days 3, 7, and 14",
+                "description": "This score is based on 7 clinical parameters (respiration rate, oxygen saturation, any supplemental oxygen, temperature, systolic blood pressure, heart rate, level of consciousness). Higher scores mean a worse outcome."
+            },
+            {
+                "measure": "Change from baseline in pulse oxygen saturation (SpO2)",
+                "time_frame": "Days 3, 7, and 14"
+            },
+            {
+                "measure": "Change from baseline in the patient's health status on a 7-category ordinal scale",
+                "time_frame": "Days 3, 7, and 14",
+                "description": "A 7-category ordinal scale of patient health status ranges from: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen; 6) Not hospitalized, limitation on activities; 7) Not hospitalized, no limitations on activities.\nLower scores mean a worse outcome."
+            },
+            {
+                "measure": "Incidence of hospitalization",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Duration (days) of hospitalization",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Incidence of mechanical ventilation supply",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Duration (days) of mechanical ventilation supply",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Incidence of oxygen use",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Duration (days) of oxygen use",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Mortality rate",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Time to return to normal activity",
+                "time_frame": "Day 14"
+            }
+        ],
+        "other_outcome": [
+            {
+                "measure": "Change in size of lesion area by chest radiograph or CT",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Change from baseline in serum cytokine and chemokine levels",
+                "time_frame": "Days 3, 7, and 14"
+            },
+            {
+                "measure": "Change from baseline in CCR5 receptor occupancy levels for Tregs and macrophages",
+                "time_frame": "Days 3, 7, and 14"
+            },
+            {
+                "measure": "Change from baseline in CD3+, CD4+ and CD8+ T cell count",
+                "time_frame": "Days 3, 7, and 14"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "75"
+        },
+        "condition": "Coronavirus Disease 2019",
+        "arm_group": [
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator"
+            },
+            {
+                "arm_group_label": "700mg Leronlimab",
+                "arm_group_type": "Experimental"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebos",
+                "description": "Placebo",
+                "arm_group_label": "Placebo"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Leronlimab (700mg)",
+                "description": "Leronlimab (PRO) 140 is a humanized IgG4, monoclonal antibody (mAb) to the C-C chemokine receptor type 5 (CCR5)",
+                "arm_group_label": "700mg Leronlimab",
+                "other_name": "PRO 140"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Male or female adult \u2265 18 years of age at time of enrollment.\n\n          2. Subjects with mild-to-moderate symptoms of respiratory illness caused by coronavirus\n             2019 infection as defined below:\n\n             Mild (uncomplicated) Illness:\n\n               -  Diagnosed with COVID-19 by a standardized RT-PCR assay AND\n\n               -  Mild symptoms, such as fever, rhinorrhea, mild cough, sore throat, malaise,\n                  headache, muscle pain, or malaise, but with no shortness of breath AND\n\n               -  No signs of a more serious lower airway disease AND\n\n               -  RR<20, HR <90, oxygen saturation (pulse oximetry) > 93% on room air\n\n             Moderate Illness:\n\n               -  Diagnosed with COVID-19 by a standardized RT-PCR assay AND\n\n               -  In addition to symptoms above, more significant lower respiratory symptoms,\n                  including shortness of breath (at rest or with exertion) OR\n\n               -  Signs of moderate pneumonia, including RR \u2265 20 but <30, HR \u2265 90 but less than\n                  125, oxygen saturation (pulse oximetry) > 93% on room air AND\n\n               -  If available, lung infiltrates based on X-ray or CT scan < 50% present\n\n          3. Clinically normal resting 12-lead ECG at Screening Visit or, if abnormal, considered\n             not clinically significant by the Principal Investigator.\n\n          4. Subject (or legally authorized representative) provides written informed consent prior\n             to initiation of any study procedures.\n\n          5. Understands and agrees to comply with planned study procedures.\n\n          6. Women of childbearing potential must agree to use at least one medically accepted\n             method of contraception (e.g., barrier contraceptives [condom, or diaphragm with a\n             spermicidal gel], hormonal contraceptives [implants, injectables, combination oral\n             contraceptives, transdermal patches, or contraceptive rings], or intrauterine devices)\n             for the duration of the study.\n\n        Exclusion Criteria:\n\n          1. Subjects showing signs of acute respiratory distress syndrome (ARDS) or respiratory\n             failure necessitating mechanical ventilation at the time of screening;\n\n          2. History of severe chronic respiratory disease and requirement for long-term oxygen\n             therapy;\n\n          3. Subjects showing signs of clinical jaundice at the time of screening;\n\n          4. History of moderate and severe liver disease (Child-Pugh score >12);\n\n          5. Subjects requiring Renal Replacement Therapy (RRT) at the time of screening;\n\n          6. History of severe chronic kidney disease or requiring dialysis;\n\n          7. Any uncontrolled active systemic infection requiring admission to an intensive care\n             unit (ICU); Note: Subjects infected with chronic hepatitis B virus or hepatitis C\n             virus will be eligible for the study if they have no signs of hepatic decompensation.\n\n             Note: Subjects infected with HIV-1 will be eligible for the study with undetectable\n             viral load and are on a stable ART regimen. Investigators are required to review the\n             subjects' medical records to confirm HIV-1 RNA suppression within the previous 3\n             months.\n\n             Note: Empirical antibiotic treatment for secondary bacterial infections is allowed\n             during the course of study.\n\n          8. Patients with malignant tumor, or other serious systemic diseases;\n\n          9. Patients who are participating in other clinical trials;\n\n         10. Patients who have a history of allergic reactions attributed to compounds of similar\n             chemical or biologic composition to leronlimab (PRO 140) are not eligible; and\n\n         11. Inability to provide informed consent or to comply with test requirements"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "99 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Kush Dhody, MBBS, MS, CCRA",
+            "phone": "301-956-2536",
+            "email": "kushd@amarexcro.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Montefiore Medical Center",
+                "address": {
+                    "city": "Bronx",
+                    "state": "New York",
+                    "zip": "10467",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting"
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 31, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "COVID-19",
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

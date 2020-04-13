@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "118",
+        "@rank": "132",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04331665"
         },
@@ -34,7 +34,7 @@
         "overall_status": "Not yet recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "April 6, 2020"
+            "#text": "April 20, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -52,10 +52,16 @@
             "primary_purpose": "Treatment",
             "masking": "None (Open Label)"
         },
-        "primary_outcome": {
-            "measure": "Proportion of patients with COVID-19 pneumonia who become critically ill (defined as requiring mechanical ventilation and/or FiO2 of 60% of more)",
-            "time_frame": "6 months"
-        },
+        "primary_outcome": [
+            {
+                "measure": "Proportion of patients with COVID-19 pneumonia who become critically ill (defined as requiring mechanical ventilation and/or FiO2 of 60% of more)",
+                "time_frame": "6 months"
+            },
+            {
+                "measure": "Number of adverse events",
+                "time_frame": "9 months"
+            }
+        ],
         "secondary_outcome": [
             {
                 "measure": "All cause mortality rate",
@@ -63,10 +69,6 @@
             },
             {
                 "measure": "Average duration of hospital stay",
-                "time_frame": "9 months"
-            },
-            {
-                "measure": "Number of occurrence of secondary infections",
                 "time_frame": "9 months"
             }
         ],
@@ -93,7 +95,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 infection diagnosed by nasopharyngeal sample\n\n          -  Need for supplemental oxygen to maintain oxygen saturation > 93%\n\n          -  12 years of age or older\n\n        Exclusion Criteria:\n\n          -  Neutrophils < 1 x 10^9/L\n\n          -  Platelets < 50 x 10^9/L\n\n          -  Total bilirubin, aspartate aminotransferase (AST), or alanine aminotransferase (ALT) >\n             5x upper limit of normal (ULN)\n\n          -  Creatinine clearance (CrCl) < 15 mL/minute\n\n          -  Pregnant women\n\n          -  Patients requiring invasive mechanical ventilation. Patients requiring non-invasive\n             mechanical ventilation (e.g., BiPAP) are eligible.\n\n          -  Patients who require supplemental oxygen support prior to COVID-19 infection.\n\n          -  Patients who are on ruxolitinib."
+                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 infection diagnosed by nasopharyngeal sample\n\n          -  Need for supplemental oxygen to maintain oxygen saturation > 93%\n\n          -  12 years of age or older\n\n        Exclusion Criteria:\n\n          -  Neutrophils < 1 x 10^9/L\n\n          -  Platelets < 50 x 10^9/L\n\n          -  Serum total bilirubin >2.0 x upper limit of normal (ULN)\n\n          -  Aspartate aminotransferase (AST), or alanine aminotransferase (ALT) > 5x ULN\n\n          -  Creatinine clearance (CrCl) < 15 mL/minute\n\n          -  Pregnant women\n\n          -  Known HBV or HIV infection\n\n          -  Signs and symptoms of Varicella Zoster Virus (VZV) infection\n\n          -  Patients requiring invasive mechanical ventilation. Patients requiring non-invasive\n             mechanical ventilation (e.g., BiPAP) are eligible.\n\n          -  Patients who require supplemental oxygen support prior to COVID-19 infection.\n\n          -  Patients who are on ruxolitinib or similiar drugs."
             },
             "gender": "All",
             "minimum_age": "12 Years",
@@ -114,8 +116,7 @@
         ],
         "overall_contact": {
             "last_name": "Steven Chan, M.D.",
-            "phone": "416-946-4501",
-            "phone_ext": "2253",
+            "phone": "416-946-2000",
             "email": "steven.chan@uhn.ca"
         },
         "location": {
@@ -130,8 +131,6 @@
             },
             "contact": {
                 "last_name": "Steven Chan, M.D.",
-                "phone": "416-946-4501",
-                "phone_ext": "2253",
                 "email": "steven.chan@uhn.ca"
             },
             "investigator": [
@@ -155,11 +154,11 @@
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

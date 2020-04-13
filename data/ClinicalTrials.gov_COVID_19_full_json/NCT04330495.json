@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "222",
+        "@rank": "250",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04330495"
         },
@@ -108,7 +108,7 @@
         "intervention": [
             {
                 "intervention_type": "Drug",
-                "intervention_name": "Experimental group",
+                "intervention_name": "Hidroxicloroquina",
                 "description": "Chemoprophylaxis with hydroxychloroquine at a dose of 200 mg twice a day for 6 months.",
                 "arm_group_label": "Testing and prophylaxis of SARS-CoV-2"
             },
@@ -133,18 +133,18 @@
             "phone": "942202520",
             "email": "javiercrespo1991@gmail.com"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 31, 2020",
         "study_first_submitted_qc": "March 31, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "March 31, 2020",
-        "last_update_submitted_qc": "March 31, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 1, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

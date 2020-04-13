@@ -1,0 +1,255 @@
+{
+    "clinical_study": {
+        "@rank": "278",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343053"
+        },
+        "id_info": {
+            "org_study_id": "250320",
+            "nct_id": "NCT04343053"
+        },
+        "brief_title": "Pro-thrombotic Status in Patients With SARS-Cov-2 Infection",
+        "acronym": "ATTAC-Co",
+        "official_title": "Patterns and Changes in Platelet Reactivity, Thrombotic Status and Endothelial Function in Hospitalized Patients With SARS-Cov-2 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital of Ferrara",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital of Ferrara",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The present study is ideated to prospectively investigate in patients with severe acute\n      respiratory syndrome (SARS) due to Coronavirus 19 (SARS-Cov-2) infection and moderate-severe\n      respiratory failure the patterns and changes in platelet reactivity, thrombotic status and\n      endothelial function. The observed patterns and changes will be related with inflammatory\n      status, myocardial injury and outcomes"
+        },
+        "detailed_description": {
+            "textblock": "Preliminary evidences suggested that patients with SARS-Cov-2 infection and concomitant\n      presence of cardiovascular risk factors (i.e. arterial hypertension) and/or cardiovascular\n      history (i.e. prior myocardial infarction) are at poor prognosis. The first reports from\n      China suggested in patients with SARS-Cov-2 infection a heightened inflammatory burden\n      associated with significant changes in coagulative status (i.e. low platelet count, increased\n      D-dimer) and dysfunction of micro-vessels in pulmonary circulation.\n\n      No data are available about patterns and changes in platelet reactivity, activation of\n      coagulation factors and endothelial function during SARS-Cov-2 infection.\n\n      The present study is ideated to fill this gap. Patients with moderate to severe respiratory\n      failure due to SARS-Cov-2 infection will be enrolled. One blood sample will be obtained from\n      each patient at the early, mid and late stage of disease. Several markers of platelet,\n      coagulation and endothelial function will be related with laboratory, clinical,\n      electrocardiographic, imaging (transthoracic echocardiogram, pulmonary ultrasonography,\n      computed tomography) and outcome data"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 8, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Diagnostic",
+            "masking": "None (Open Label)",
+            "masking_description": "Technicians performing assays will be blinded to stage of the infection and outcomes"
+        },
+        "primary_outcome": [
+            {
+                "measure": "on-treatment platelet reactivity",
+                "time_frame": "early stage of disease (first 96 hours)",
+                "description": "patterns and changes of platelet aggregation values assessed by light transmission aggregometry after arachidonic acid, adenosine diphosphate and thrombin receptor activating peptide stimuli"
+            },
+            {
+                "measure": "on-treatment platelet reactivity",
+                "time_frame": "mid stage of disease (96 hours - 14 days)",
+                "description": "patterns and changes of platelet aggregation values assessed by light transmission aggregometry after arachidonic acid, adenosine diphosphate and thrombin receptor activating peptide stimuli"
+            },
+            {
+                "measure": "on-treatment platelet reactivity",
+                "time_frame": "late stage of disease (>14 days)",
+                "description": "patterns and changes of platelet aggregation values assessed by light transmission aggregometry after arachidonic acid, adenosine diphosphate and thrombin receptor activating peptide stimuli"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "apoptosis rate in human umbilical vein endothelial cells (HUVEC)",
+                "time_frame": "early stage of disease (first 96 hours)",
+                "description": "patterns and changes of the rate of apoptosis in HUVEC incubated with serum from patients enrolled in the study."
+            },
+            {
+                "measure": "apoptosis rate in human umbilical vein endothelial cells (HUVEC)",
+                "time_frame": "mid stage of disease (96 hours - 14 days)",
+                "description": "patterns and changes of the rate of apoptosis in HUVEC incubated with serum from patients enrolled in the study."
+            },
+            {
+                "measure": "Nitric oxide (NO) intracellular levels",
+                "time_frame": "late stage of disease (>14 days)",
+                "description": "patterns and changes of intracellular level of NO in HUVEC incubated with serum from patients enrolled in the study."
+            },
+            {
+                "measure": "Nitric oxide (NO) intracellular levels",
+                "time_frame": "early stage of disease (first 96 hours)",
+                "description": "patterns and changes of intracellular level of NO in HUVEC incubated with serum from patients enrolled in the study."
+            },
+            {
+                "measure": "Nitric oxide (NO) intracellular levels",
+                "time_frame": "mid stage of disease (96 hours - 14 days)",
+                "description": "patterns and changes of intracellular level of NO in HUVEC incubated with serum from patients enrolled in the study."
+            },
+            {
+                "measure": "reactive oxygen species (ROS) levels",
+                "time_frame": "early stage of disease (first 96 hours)",
+                "description": "patterns and changes of ROS"
+            },
+            {
+                "measure": "reactive oxygen species (ROS) levels",
+                "time_frame": "mid stage of disease (96 hours - 14 days)",
+                "description": "patterns and changes of ROS"
+            },
+            {
+                "measure": "reactive oxygen species (ROS) levels",
+                "time_frame": "late stage of disease (>14 days)",
+                "description": "patterns and changes of ROS"
+            },
+            {
+                "measure": "coagulation factors levels",
+                "time_frame": "early stage of disease (first 96 hours)",
+                "description": "patterns and changes of the most important coagulation factors (i.e. tissue factor antigen pg/dL)"
+            },
+            {
+                "measure": "coagulation factors levels",
+                "time_frame": "mid stage of disease (96 hours - 14 days)",
+                "description": "patterns and changes of the most important coagulation factors (i.e. tissue factor antigen pg/dL)"
+            },
+            {
+                "measure": "coagulation factors levels",
+                "time_frame": "late stage of disease (>14 days)",
+                "description": "patterns and changes of the most important coagulation factors (i.e. tissue factor antigen pg/dL)"
+            },
+            {
+                "measure": "respiratory function",
+                "time_frame": "6-month",
+                "description": "values of FEV1% as assessed by spirometry"
+            },
+            {
+                "measure": "respiratory function",
+                "time_frame": "12-month",
+                "description": "values of FEV1% as assessed by spirometry"
+            },
+            {
+                "measure": "cardiac function",
+                "time_frame": "6-month",
+                "description": "values of left ventricular ejection fraction as assessed by transthoracic echocardiogram"
+            },
+            {
+                "measure": "cardiac function",
+                "time_frame": "12-month",
+                "description": "values of left ventricular ejection fraction as assessed by transthoracic echocardiogram"
+            },
+            {
+                "measure": "clinical outcome",
+                "time_frame": "12-month",
+                "description": "occurrence of death, myocardial infarction, stroke and other major adverse events"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "60"
+        },
+        "condition": "Severe Acute Respiratory Syndrome Coronavirus 2",
+        "arm_group": {
+            "arm_group_label": "SARS-Cov-2 infection",
+            "arm_group_type": "Other",
+            "description": "Single study group of patients with respiratory failure due to SARS-Cov-2 infection. Three blood samples will be collected at different stages of disease: early, defined as first 96 hours, mid, defined as time from 96 hours and 14 days, late. defined as >14 days"
+        },
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "SARS-Cov-2 infection",
+            "description": "blood sample withdrawal",
+            "arm_group_label": "SARS-Cov-2 infection"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Diagnosis of moderate-severe respiratory failure due to SARS\n\n          -  Diagnosis of Coronavirus 19 infection\n\n          -  Need of mechanical ventilation (cohort A) or of non invasive mechanical ventilation\n             (cohort B)\n\n        Exclusion Criteria:\n\n          -  Previous chronic use of P2Y12 inhibitors\n\n          -  Need for chronic oral anti-coagulation therapy\n\n          -  Know disorder of coagulation or platelet function"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Savino Spadaro, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Intensive care unit"
+            },
+            {
+                "last_name": "Gianluca Campo, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Cardiology Unit"
+            },
+            {
+                "last_name": "Marco Contoli, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Pulmonology Unit"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Veronica Lodolini",
+            "phone": "0532237079",
+            "email": "ldlvnc@unife.it"
+        },
+        "location": {
+            "facility": {
+                "name": "Azienda Ospedaliera Universitaria di Ferrara",
+                "address": {
+                    "city": "Ferrara",
+                    "country": "Italy"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Veronica Lodolini"
+            }
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University Hospital of Ferrara",
+            "investigator_full_name": "Gianluca Campo",
+            "investigator_title": "Associate Professor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "After specific request to study PIs",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)",
+                "Clinical Study Report (CSR)"
+            ]
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "42",
+        "@rank": "49",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04330690"
         },
@@ -162,6 +162,116 @@
         "location": [
             {
                 "facility": {
+                    "name": "Vancouver General Hospital, Vancouver Coastal Health, Univeristy of British Columbia",
+                    "address": {
+                        "city": "Vancouver",
+                        "state": "British Columbia",
+                        "zip": "V5Z1M9",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Allison Mah, MD",
+                    "phone": "604 612-1477",
+                    "email": "allimah@mail.ubc.ca"
+                },
+                "contact_backup": {
+                    "last_name": "Laura Oliveira",
+                    "phone": "604 875-4111",
+                    "phone_ext": "64164",
+                    "email": "laura.oliveira@ubc.ca"
+                },
+                "investigator": {
+                    "last_name": "Allison Mah, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "St Paul's Hospital",
+                    "address": {
+                        "city": "Vancouver",
+                        "state": "British Columbia",
+                        "zip": "V6Z 1Y6",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Natasha Press, MD",
+                    "phone": "604-341-9605",
+                    "email": "npress@cfenet.ubc.ca"
+                },
+                "contact_backup": {
+                    "last_name": "Leslie Love",
+                    "phone": "604 682-2344",
+                    "phone_ext": "64242",
+                    "email": "llove@cheos.ubc.ca"
+                },
+                "investigator": {
+                    "last_name": "Natasha Press, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "The Ottawa Hospital - General Campus",
+                    "address": {
+                        "city": "Ottawa",
+                        "state": "Ontario",
+                        "zip": "K1H 8L6",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Shane English, MD",
+                    "phone": "613-737-8899",
+                    "phone_ext": "16755",
+                    "email": "senglish@ohri.ca"
+                },
+                "contact_backup": {
+                    "last_name": "Irene Watpool",
+                    "phone": "613-737-8899",
+                    "phone_ext": "78724",
+                    "email": "iwatpool@ohri.ca"
+                },
+                "investigator": {
+                    "last_name": "Shane English, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "The Ottawa Hospital - Civic Campus",
+                    "address": {
+                        "city": "Ottawa",
+                        "state": "Ontario",
+                        "zip": "K1Y 4E9",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Shane English, MD",
+                    "phone": "613-737-8899",
+                    "phone_ext": "16755",
+                    "email": "senglish@ohri.ca"
+                },
+                "contact_backup": {
+                    "last_name": "Rebecca Porteous",
+                    "phone": "613-737-8899",
+                    "phone_ext": "17076",
+                    "email": "rporteous@ohri.ca"
+                },
+                "investigator": {
+                    "last_name": "Shane English, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
                     "name": "Sunnybrook Health Sciences Centre",
                     "address": {
                         "city": "Toronto",
@@ -183,6 +293,33 @@
                 },
                 "investigator": {
                     "last_name": "Robert Fowler, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "McGill University Health Centre-Glen Site Royal Victoria Hospital",
+                    "address": {
+                        "city": "Montr\u00e9al",
+                        "state": "Quebec",
+                        "zip": "H4A 3J1",
+                        "country": "Canada"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Matthew Cheng, MD",
+                    "phone": "514-934-1934",
+                    "phone_ext": "35064",
+                    "email": "matthew.cheng@mcgill.ca"
+                },
+                "contact_backup": {
+                    "last_name": "Rhyan Pineda",
+                    "phone": "514-290-7369",
+                    "email": "rhyan.pineda@muhc.mcgill.ca"
+                },
+                "investigator": {
+                    "last_name": "Matthew Cheng, MD",
                     "role": "Principal Investigator"
                 }
             },
@@ -229,7 +366,7 @@
         "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 10, 2020"
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

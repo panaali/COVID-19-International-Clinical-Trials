@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "96",
+        "@rank": "106",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04332913"
         },
@@ -23,7 +23,7 @@
         "brief_summary": {
             "textblock": "The current spread of the COrona VIrus Disease-2019 (COVID-19) epidemic in Italy, and the\n      current lack of effective and approved drugs for its treatment, poses the problem of Severe\n      acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infected patients management,\n      especially those who underwent to experience COVID-19 complications, such as CRS. This unmet\n      need becomes more severe if the investigator consider that, the COVID-19 mortality stands\n      around 2% in the general population, but it rises to 49% when considering intensive care unit\n      (ICU) patients. To increase the chances of survival of these patients, the compassionate use\n      of the available drugs is required, based on literature data, to the best of our abilities.\n      ICU patients with cytokine release syndrome (CRS) secondary to COVID-19, show increased\n      production of pro-inflammatory cytokines, including interleukin (IL-6), IL-2, IL-7, IL-10,\n      tumor necrosis factor (TNF)-\u03b1 and interferon (INF)\u03b3, similar to that found in patients who\n      develop CRS secondary to Chimeric Antigen Receptor-T (CAR-T) therapy. Although\n      immuno-modulatory therapy is not routinely recommended in COVID-19 pneumonia, tocilizumab\n      might have a rationale in those patients who develop CRS, blocking the complications caused\n      by high levels of IL-6, and possibly preventing the development of a multi-organ failure.\n      Reassuring data in this sense, come from the first studies conducted in China. In a Chinese\n      pilot study, Xiaoling Xu and collaborators used tocilizumab (at a dosage of 400 mg iv in a\n      single dose, with a possible second dose in case of no clinical response) in patients with\n      COVID-19 in the presence of one of the following criteria: i) respiratory rate \u2265 30 acts/min;\n      ii) SpO2 \u2264 93% in ambient air; iii) PaO2/FiO2 \u2264 300 mmHg. In the 21 patients treated with\n      tocilizumab a significant reduction in IL-6 levels and fever, with improvement in lung\n      function, was demonstrated. Besides, 90% of treated patients showed an improvement in the\n      radiological picture, in terms of a decrease in the frosted glass areas, and a return to\n      normal lymphocytes count in the peripheral blood. This is a prospective observational\n      clinical study and it is aimed at verifying tocilizumab efficacy and safety in patients with\n      COVID-19 complicated by acute distress respiratory syndrome (ARDS) and CRS."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
             "@type": "Anticipated",
             "#text": "April 1, 2020"
@@ -145,6 +145,25 @@
             "phone": "0039 0862 434742",
             "email": "roberto.giacomelli@univaq.it"
         },
+        "location": {
+            "facility": {
+                "name": "Ospedale San Salvatore",
+                "address": {
+                    "city": "L'Aquila",
+                    "zip": "67100",
+                    "country": "Italy"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Roberto Giacomelli, MD",
+                "phone": "0862434742",
+                "email": "roberto.giacomelli@univaq.it"
+            }
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
         "reference": [
             {
                 "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
@@ -212,11 +231,11 @@
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

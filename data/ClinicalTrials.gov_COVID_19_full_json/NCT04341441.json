@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "162",
+        "@rank": "183",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04341441"
         },
@@ -32,9 +32,9 @@
         "detailed_description": {
             "textblock": "The study will randomize a total of 3,000 healthcare workers (HCW) and first responders (FR)\n      within Henry Ford Hospital System, the Detroit COVID Consortium in Detroit, Michigan. The\n      participants will be randomized in a 1:1:1 blinded comparison of daily oral HCQ, weekly oral\n      HCQ, or placebo. A fourth comparator group of HCW and FR who are currently on standard HCQ\n      therapy will be recruited to assess the impact of weight-based daily dosing of HCQ as\n      compared to the randomized arms.\n\n      Eligible participants who are asymptomatic for pre-specified signs and symptoms suggestive of\n      COVID-19 infection will have a whole blood specimen obtained at study entry.\n\n      Participants will be provided with weekly dosing of hydroxychloroquine (HCQ) 400 mg po q\n      weekly, daily dosing of HCQ 200 mg po q daily following a loading dose of 400 mg day 1, or\n      placebo. Participants will receive monitoring at each study week visit to assess for the\n      development of COVID-19 related symptoms, COVID-19 clinical disease, and medication side\n      effects. At week 8 or if diagnosed positive, participants will provide additional samples of\n      whole blood and complete the final study questionnaire.\n\n      Data including demographic, clinical results, work duties, location of main work area and\n      possible exposures in the community will be collected through questionnaires and electronic\n      medical record (EMR) review. Disease-specific, immunologic, and other serologic marker data\n      will be obtained from stored samples.\n\n      Five (5) 10 ml blood tubes consisting of 4 ethylenediaminetetraacetic acid (EDTA) and 1\n      Shield tubes of whole blood will be collected from each participant at the\n      baseline/enrollment, week 4 and week 8 timepoints. The samples will be collected using\n      standard aseptic procedures and will be stored in a 4\u00b0C refrigerator or cooler until\n      transport to the research laboratory where the samples will be processed. Samples will be\n      processed to serum plasma or cell components. Testing for SARS-CoV 2 will be done for study\n      entry samples. Remainder of the samples will be stored in -80\u00b0C for whole blood/serum plasma\n      and cell samples will be stored in liquid nitrogen for future testing."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
+            "@type": "Actual",
             "#text": "April 7, 2020"
         },
         "completion_date": {
@@ -43,7 +43,7 @@
         },
         "primary_completion_date": {
             "@type": "Anticipated",
-            "#text": "July 1, 2020"
+            "#text": "June 30, 2020"
         },
         "phase": "Phase 3",
         "study_type": "Interventional",
@@ -170,49 +170,95 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          1. Participant is willing and able to provide informed consent.\n\n          2. Participant is 18-75 years of age.\n\n          3. Participant develops fever (measured temperature \u2265 38.0\u00b0 C) OR subjective fever and/or\n             possible COVID-19 symptoms (new onset in the past 3 days of cough, difficulty\n             breathing, sore throat, muscle aches, headache, nausea, vomiting, diarrhea, headache,\n             runny nose, congestion), or other symptoms associated with COVID-19.\n\n          4. Participant is willing to provide blood samples for the study.\n\n          5. Subject agrees to all aspects of the study.\n\n          6. The participant has no known allergies or contraindications (as stated in the consent\n             form) to the use of hydroxychloroquine (HCQ) as noted in the exclusion criteria and\n             Pharmacy sections.\n\n        Exclusion Criteria:\n\n          1. Does not meet inclusion criteria.\n\n          2. Participant unable or unwilling to provide informed consent.\n\n          3. Participant has any of the symptoms above or screens positive for possible COVID-19\n             disease.\n\n          4. Participant is currently enrolled in a study to evaluate an investigational drug.\n\n          5. Vulnerable populations deemed inappropriate for study by the site Principal\n             Investigator.\n\n          6. The participant has a known allergy/hypersensitivity or has a medication or\n             co-morbidity (including history of gastric bypass, epilepsy, cardiovascular disease or\n             renal failure) that prevents the use of HCQ (see pharmacy section).\n\n          7. The participant is a woman of childbearing age whose pregnancy status is unknown and\n             is not willing to use 2 methods of contraception.\n\n          8. The participant is pregnant or nursing.\n\n          9. The participant was diagnosed with retinopathy prior to study entry.\n\n         10. The participant has a diagnosis of porphyria prior to study entry.\n\n         11. The participant has renal failure with a creatinine clearance of <10 ml/min,\n             pre-dialysis or requiring dialysis.\n\n         12. The Participant has a family history of Sudden Cardiac Death.\n\n         13. The participant is currently on diuretic therapy.\n\n         14. The participant has a history of known Prolonged QT Syndrome.\n\n         15. The participant is already taking any of the following medications: Abiraterone\n             acetate, Agalsidase, Amodiaquine, Azithromycin, Conivaptan, Dabrafenib, Dacomitinib,\n             Dapsone (Systemic), Digoxin, Enzalutamide, Fusidic Acid (Systemic), Idelalisib,\n             Lanthanum, Lumefantrine, Mefloquine, Mifepristone, Mitotane, Pimozide, QT-prolonging\n             Agents, Stiripentol)."
+                "textblock": "Inclusion Criteria:\n\n          1. Participant is willing and able to provide informed consent.\n\n          2. Participant is 18-75 years of age.\n\n          3. Participant does not have symptoms of respiratory infection, including cough, fevers\n             (temperature >38.0C), difficulty breathing, shortness of breath, chest pains, malaise,\n             myalgia, headaches, nausea or vomiting, or other symptoms associated with COVID-19.\n\n          4. Participant is willing to provide blood samples for the study.\n\n          5. Subject agrees to all aspects of the study.\n\n          6. The participant has no known allergies or contraindications (as stated in the consent\n             form) to the use of hydroxychloroquine (HCQ) as noted in the exclusion criteria and\n             Pharmacy sections.\n\n        Exclusion Criteria:\n\n          1. Does not meet inclusion criteria.\n\n          2. Participant unable or unwilling to provide informed consent.\n\n          3. Participant has any of the symptoms above or screens positive for possible COVID-19\n             disease.\n\n          4. Participant is currently enrolled in a study to evaluate an investigational drug.\n\n          5. Vulnerable populations deemed inappropriate for study by the site Principal\n             Investigator.\n\n          6. The participant has a known allergy/hypersensitivity or has a medication or\n             co-morbidity (including history of gastric bypass, epilepsy, cardiovascular disease or\n             renal failure) that prevents the use of HCQ (see pharmacy section).\n\n          7. The participant is a woman of childbearing age whose pregnancy status is unknown and\n             is not willing to use 2 methods of contraception.\n\n          8. The participant is pregnant or nursing.\n\n          9. The participant was diagnosed with retinopathy prior to study entry.\n\n         10. The participant has a diagnosis of porphyria prior to study entry.\n\n         11. The participant has renal failure with a creatinine clearance of <10 ml/min,\n             pre-dialysis or requiring dialysis.\n\n         12. The Participant has a family history of Sudden Cardiac Death.\n\n         13. The participant is currently on diuretic therapy.\n\n         14. The participant has a history of known Prolonged QT Syndrome.\n\n         15. The participant is already taking any of the following medications: Abiraterone\n             acetate, Agalsidase, Amodiaquine, Azithromycin, Conivaptan, Dabrafenib, Dacomitinib,\n             Dapsone (Systemic), Digoxin, Enzalutamide, Fusidic Acid (Systemic), Idelalisib,\n             Lanthanum, Lumefantrine, Mefloquine, Mifepristone, Mitotane, Pimozide, QT-prolonging\n             Agents, Stiripentol)."
             },
             "gender": "All",
             "minimum_age": "18 Years",
             "maximum_age": "75 Years",
             "healthy_volunteers": "Accepts Healthy Volunteers"
         },
-        "overall_official": {
-            "last_name": "William W O'Neill, MD",
-            "role": "Principal Investigator",
-            "affiliation": "Henry Ford Health System"
-        },
+        "overall_official": [
+            {
+                "last_name": "William W O'Neill, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Henry Ford Health System"
+            },
+            {
+                "last_name": "Dee Dee Wang, MD",
+                "role": "Study Director",
+                "affiliation": "Henry Ford Health System"
+            }
+        ],
         "overall_contact": {
             "last_name": "Dee Dee Wang, MD",
-            "phone": "313-916-8708",
-            "email": "dwang2@hfhs.org"
+            "phone": "313-574-2651",
+            "email": "whipcovid19@hfhs.org"
         },
         "overall_contact_backup": {
             "last_name": "Laurie Nightengale, MD",
-            "phone": "313-916-4835",
-            "email": "lmarsha6@hfhs.org"
+            "phone": "313-574-2651",
+            "email": "whipcovid19@hfhs.org"
         },
-        "location": {
-            "facility": {
-                "name": "Henry Ford Hospital",
-                "address": {
-                    "city": "Detroit",
-                    "state": "Michigan",
-                    "zip": "48202",
-                    "country": "United States"
+        "location": [
+            {
+                "facility": {
+                    "name": "Henry Ford Hospital",
+                    "address": {
+                        "city": "Detroit",
+                        "state": "Michigan",
+                        "zip": "48202",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Dee Dee Wang, MD",
+                    "phone": "313-574-2651",
+                    "email": "whipcovid19@hfhs.org"
+                },
+                "contact_backup": {
+                    "last_name": "John McKinnon, MD",
+                    "phone": "313-574-2651",
+                    "email": "whipcovid19@hfhs.org"
                 }
             },
-            "contact": {
-                "last_name": "Dee Dee Wang, MD",
-                "phone": "313-916-8708",
-                "email": "dwang2@hfhs.org"
+            {
+                "facility": {
+                    "name": "Detroit Department of Transportation (DDOT)",
+                    "address": {
+                        "city": "Detroit",
+                        "state": "Michigan",
+                        "zip": "48226",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
             },
-            "contact_backup": {
-                "last_name": "John McKinnon, MD",
-                "phone": "800-436-7936",
-                "email": "JMCKINN3@hfhs.org"
+            {
+                "facility": {
+                    "name": "Detroit Fire Department & Detroit EMS",
+                    "address": {
+                        "city": "Detroit",
+                        "state": "Michigan",
+                        "zip": "48226",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Detroit Police Department",
+                    "address": {
+                        "city": "Detroit",
+                        "state": "Michigan",
+                        "zip": "48226",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
             }
-        },
+        ],
         "location_countries": {
             "country": "United States"
         },
@@ -262,14 +308,14 @@
         "study_first_submitted": "April 7, 2020",
         "study_first_submitted_qc": "April 7, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 10, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 10, 2020"
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

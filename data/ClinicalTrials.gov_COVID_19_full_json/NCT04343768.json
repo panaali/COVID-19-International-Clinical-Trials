@@ -1,0 +1,270 @@
+{
+    "clinical_study": {
+        "@rank": "26",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343768"
+        },
+        "id_info": {
+            "org_study_id": "Different Interferons in COVID",
+            "nct_id": "NCT04343768"
+        },
+        "brief_title": "An Investigation Into Beneficial Effects of Interferon Beta 1a, Compared to Interferon Beta 1b And The Base Therapeutic Regiment in Moderate to Severe COVID-19: A Randomized Clinical Trial",
+        "acronym": "DIC",
+        "official_title": "An Investigation Into Beneficial Effects of Interferon Beta 1a, Compared to Interferon Beta 1b And The Base Therapeutic Regiment in Moderate to Severe COVID-19: A Randomized Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Shahid Beheshti University of Medical Sciences",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Shahid Beheshti University of Medical Sciences",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The present study is a randomized clinical trial, with the approval of the ethics committee\n      will be conducted on patients who have a positive test confirming COVID-19 in Loghman Hakim\n      Medical Education Center in Tehran. Patients will be randomly assigned to the three arms of\n      the study and after completing the course of treatment and collecting and analyzing the\n      necessary information from each patient, the results of the study will be published both on\n      this site and in the form of an article in a reputable international journal."
+        },
+        "detailed_description": {
+            "textblock": "According to previous studies, IFN-\u03b2 has strong antiviral activity and also has an acceptable\n      safety profile. Based on possible therapeutic effects, We decided to lead An Investigation\n      into Beneficial Effects of Interferon Beta 1a, Compared to Interferon Beta 1b And The Base\n      Therapeutic Regiment in Moderate to Severe COVID-19. In a 2003 study, SARS was treated with\n      different human interferons and found that IFN-\u03b2 was 5 to 10 times more effective than other\n      types of interferons and the strongest antiviral drug possible against SARS-CoV.\n\n      The present study is a randomized clinical trial, with the approval of the ethics committee\n      will be conducted on patients who have a positive test confirming COVID-19 in Loghman Hakim\n      Medical Education Center in Tehran.\n\n      *Inclusion Criteria: Age \u2265 18 COVID-19 Confirmed Cases (Either RT-PCR or CT Scan Confirmed)\n      Tympanic Temperature of \u226537.5 AND at least one of the following: Cough, Sputum production,\n      nasal discharge, myalgia, headache or fatigue) on admission.\n\n      Time of onset of the symptoms should be acute ( Days \u2264 10) NEWS2 \u2265 1 on admission (National\n      Early Warning Score 2)\n\n      *Exclusion Criteria: Refusal to participate expressed by patient or legally authorized\n      representative if they are present Patients with prolonged QT or PR intervals, Second or\n      Third Degree heart block, Arrhythmias including torsade de pointes Patients using drugs with\n      potential interaction with Hydroxychloroquine + Lopinavir/Ritonavir, Interferon-\u03b2 1a\u060c\n      Interferon-\u03b2 1b.\n\n      Pregnant or lactating women. History of alcohol or drug addiction in the past 5 years. Blood\n      ALT/AST levels > 5 times the upper limit of normal on laboratory results.\n\n      Patients will be allocated to three therapeutic arms (Hydroxychloroquine + Lopinavir /\n      Ritonavir + Interferon-\u03b2 1a group and Hydroxychloroquine + Lopinavir / Ritonavir +\n      Interferon-\u03b2 1b group and the Base Therapeutic Regiment Group, i.e., Hydropinchloroquine + /\n      Ritonavir. For this purpose, we will use the method of Balance Block Randomization for three\n      groups.\n\n      After completing the course of treatment and collecting and analyzing the necessary\n      information from each patient, the results of the study will be published both on this site\n      and in the form of an article in a reputable international journal."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 24, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 20, 2020"
+        },
+        "phase": "Phase 4",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "The present study is a randomized clinical trial, with the approval of the ethics committee will be conducted on patients who have a positive test confirming COVID-19 in Loghman Hakim Medical Education Center in Tehran. Patients will be randomly assigned to the three arms of the study.\nPatients will be allocated to three therapeutic arms (Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1a group and Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1b group and the Base Therapeutic Regiment Group, i.e., Hydropinchloroquine + / Ritonavir. For this purpose, we will use the method of Balance Block Randomization for three groups.",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Time to clinical improvement",
+            "time_frame": "From date of randomization until 14 days later.",
+            "description": "Improvement of two points on a seven-category ordinal scale (recommended by the World Health Organization: Coronavirus disease (COVID-2019) R&D. Geneva: World Health Organization) or discharge from the hospital, whichever came first."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Mortality",
+                "time_frame": "From date of randomization until 14 days later.",
+                "description": "If the patient dies, we have reached an outcome."
+            },
+            {
+                "measure": "SpO2 Improvement",
+                "time_frame": "Days 1, 2, 3, 4, 5, 6, 7 and 14.",
+                "description": "Pulse-oxymetry"
+            },
+            {
+                "measure": "Incidence of new mechanical ventilation use",
+                "time_frame": "From date of randomization until 14 days later.",
+                "description": "Incidence of new mechanical ventilation use"
+            },
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "From date of randomization until the date of hospital discharge or date of death from any cause, whichever came first, assessed up to 14 days.",
+                "description": "Duration of hospitalization (days)"
+            },
+            {
+                "measure": "Cumulative incidence of serious adverse events",
+                "time_frame": "Days 1, 2, 3, 4, 5, 6, 7 and 14.",
+                "description": "With incidence of any serious adverse effects, the outcome has happened."
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "60"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1a",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1b",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Control group: hydroxychloroquine + Lopinavir / Ritonavir",
+                "arm_group_type": "Active Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "This Drug will be used in all arms.",
+                "arm_group_label": [
+                    "Control group: hydroxychloroquine + Lopinavir / Ritonavir",
+                    "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1a",
+                    "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1b"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Lopinavir / Ritonavir",
+                "description": "This Drug will be used in all arms.",
+                "arm_group_label": [
+                    "Control group: hydroxychloroquine + Lopinavir / Ritonavir",
+                    "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1a",
+                    "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1b"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Interferon Beta-1A",
+                "description": "This drug will be only used in Arm 1.",
+                "arm_group_label": "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1a"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Interferon Beta-1B",
+                "description": "This drug will be only used in Arm 2.",
+                "arm_group_label": "Hydroxychloroquine + Lopinavir / Ritonavir + Interferon-\u03b2 1b"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18\n\n          -  COVID-19 Confirmed Cases (Either RT-PCR or CT Scan Confirmed)\n\n          -  Tympanic Temperature of \u226537.5 AND at least one of the following: Cough, Sputum\n             production, nasal discharge, myalgia, headache or fatigue) on admission.\n\n          -  Time of onset of the symptoms should be acute ( Days \u2264 10)\n\n          -  NEWS2 \u2265 1 on admission (National Early Warning Score 2)\n\n        Exclusion Criteria:\n\n          -  Refusal to participate expressed by patient or legally authorized representative if\n             they are present\n\n          -  Patients with prolonged QT or PR intervals, Second or Third Degree heart block,\n             Arrhythmias including torsade de pointes\n\n          -  Patients using drugs with potential interaction with Hydroxychloroquine +\n             Lopinavir/Ritonavir, Interferon-\u03b2 1a\u060c Interferon-\u03b2 1b.\n\n          -  Pregnant or lactating women.\n\n          -  History of alcohol or drug addiction in the past 5 years.\n\n          -  Blood ALT/AST levels > 5 times the upper limit of normal on laboratory results."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Ilad Alavi Darazam, MD",
+                "role": "Study Chair",
+                "affiliation": "Shahid Beheshti University of Medical Sciences"
+            },
+            {
+                "last_name": "Shervin Shokouhi, MD",
+                "role": "Study Director",
+                "affiliation": "Shahid Beheshti University of Medical Sciences"
+            },
+            {
+                "last_name": "Minoosh Shabani, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Shahid Beheshti University of Medical Sciences"
+            },
+            {
+                "last_name": "Mohammadreza Haji Esmaelie, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Shahid Beheshti University of Medical Sciences"
+            },
+            {
+                "last_name": "Seyed Sina Naghibi Irvani, MD, MPH, MBA",
+                "role": "Principal Investigator",
+                "affiliation": "Shahid Beheshti University of Medical Sciences"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Seyed Sina Naghibi Irvani, MD, MPH, MBA",
+            "phone": "+989141182825",
+            "email": "sina.irvani@gmail.com"
+        },
+        "link": [
+            {
+                "url": "https://doi.org/10.1101/2020.02.03.20020263",
+                "description": "Related Info"
+            },
+            {
+                "url": "https://www.preprints.org/manuscript/202003.0206/v1",
+                "description": "Related Info"
+            }
+        ],
+        "reference": [
+            {
+                "citation": "Zu ZY, Jiang MD, Xu PP, Chen W, Ni QQ, Lu GM, Zhang LJ. Coronavirus Disease 2019 (COVID-19): A Perspective from China. Radiology. 2020 Feb 21:200490. doi: 10.1148/radiol.2020200490. [Epub ahead of print]",
+                "PMID": "32083985"
+            },
+            {
+                "citation": "Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N, Bi Y, Ma X, Zhan F, Wang L, Hu T, Zhou H, Hu Z, Zhou W, Zhao L, Chen J, Meng Y, Wang J, Lin Y, Yuan J, Xie Z, Ma J, Liu WJ, Wang D, Xu W, Holmes EC, Gao GF, Wu G, Chen W, Shi W, Tan W. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet. 2020 Feb 22;395(10224):565-574. doi: 10.1016/S0140-6736(20)30251-8. Epub 2020 Jan 30.",
+                "PMID": "32007145"
+            },
+            {
+                "citation": "Chen Y, Liu Q, Guo D. Emerging coronaviruses: Genome structure, replication, and pathogenesis. J Med Virol. 2020 Apr;92(4):418-423. doi: 10.1002/jmv.25681. Epub 2020 Feb 7. Review.",
+                "PMID": "31967327"
+            },
+            {
+                "citation": "Spiegel M, Pichlmair A, M\u00fchlberger E, Haller O, Weber F. The antiviral effect of interferon-beta against SARS-coronavirus is not mediated by MxA protein. J Clin Virol. 2004 Jul;30(3):211-3.",
+                "PMID": "15135736"
+            },
+            {
+                "citation": "Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol. 2017 Jul;39(5):529-539. doi: 10.1007/s00281-017-0629-x. Epub 2017 May 2. Review.",
+                "PMID": "28466096"
+            },
+            {
+                "citation": "Cinatl J, Morgenstern B, Bauer G, Chandra P, Rabenau H, Doerr HW. Treatment of SARS with human interferons. Lancet. 2003 Jul 26;362(9380):293-4. Erratum in: Lancet. 2003 Aug 30;362(9385):748.",
+                "PMID": "12892961"
+            },
+            {
+                "citation": "Hensley LE, Fritz LE, Jahrling PB, Karp CL, Huggins JW, Geisbert TW. Interferon-beta 1a and SARS coronavirus replication. Emerg Infect Dis. 2004 Feb;10(2):317-9.",
+                "PMID": "15030704"
+            },
+            {
+                "citation": "Zeng YM, Xu XL, He XQ, Tang SQ, Li Y, Huang YQ, Harypursat V, Chen YK. Comparative effectiveness and safety of ribavirin plus interferon-alpha, lopinavir/ritonavir plus interferon-alpha and ribavirin plus lopinavir/ritonavir plus interferon-alphain in patients with mild to moderate novel coronavirus pneumonia. Chin Med J (Engl). 2020 Mar 5. doi: 10.1097/CM9.0000000000000790. [Epub ahead of print]",
+                "PMID": "32149772"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Shahid Beheshti University of Medical Sciences",
+            "investigator_full_name": "Seyed Sina Naghibi Irvani, MD, MPH, MBA, Senior Researcher.",
+            "investigator_title": "Dr."
+        },
+        "keyword": [
+            "COVID-19",
+            "Novel Coronavirus",
+            "Interferon Beta 1a",
+            "Interferon Beta 1b"
+        ],
+        "intervention_browse": {
+            "mesh_term": [
+                "Interferons",
+                "Ritonavir",
+                "Lopinavir",
+                "Interferon-beta",
+                "Interferon beta-1a",
+                "Hydroxychloroquine",
+                "Interferon beta-1b"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "There is no further information."
+        }
+    }
+}

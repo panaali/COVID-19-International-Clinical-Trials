@@ -1,0 +1,202 @@
+{
+    "clinical_study": {
+        "@rank": "143",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342663"
+        },
+        "id_info": {
+            "org_study_id": "202004023",
+            "nct_id": "NCT04342663"
+        },
+        "brief_title": "A Double-blind, Placebo-controlled Clinical Trial of Fluvoxamine for Symptomatic Individuals With COVID-19 Infection",
+        "acronym": "STOP COVID",
+        "official_title": "A Double-blind, Placebo-controlled Clinical Trial of Fluvoxamine for Symptomatic Individuals With COVID-19 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Washington University School of Medicine",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Washington University School of Medicine",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this research study is to determine if a drug called fluvoxamine can be used\n      early in the course of the COVID-19 infection to prevent more serious complications like\n      shortness of breath. Fluvoxamine is an anti-depressant drug approved by the FDA for the\n      treatment of obsessive-compulsive disorder. The use of fluvoxamine for the treatment of\n      COVID-19 is considered investigational, which means the US Food and Drug Administration has\n      not approved it for this use.\n\n      This study is fully-remote, which means that there is no face-to-face contact; study\n      materials including study drug will be shipped to participants' houses. Only residents of\n      Missouri and Illinois may participate."
+        },
+        "detailed_description": {
+            "textblock": "We will consent approximately 152 participants, age 18 and older, who have tested tested\n      positive for COVID-19 and are currently experiencing mild symptoms. All interactions for this\n      study will be conducted remotely by videoconferencing, email, or phone.\n\n      Screening: All participants will first complete a pre-screen to see if they may be eligible\n      for the study. Once a participant is confirmed eligible and consented, the study team will\n      send the study materials. These materials will consist of study medication and\n      self-monitoring equipment, including a pregnancy test (for females of childbearing age not\n      using contraception), an oxygen saturation monitor, blood pressure monitor, and thermometer.\n      Once the study team has finalized the screening process, the participant will begin taking\n      the study medication.\n\n      RCT: Participants will be randomly assigned (1:1) to take either fluvoxamine or a placebo.\n      This phase of the study will last approximately 15 days and is double-blinded. Participants\n      will take 100mg of fluvoxamine or placebo by mouth three times a day for a daily total of\n      300mg. They will continue this dose for approximately 15 days. Depending on tolerability, the\n      dose may be adjusted. Participants will also complete short 10-15 minute assessments daily to\n      assess symptoms, results of self-monitoring (including oxygen level, blood pressure, and\n      temperature) and any adverse events.\n\n      Open-label Phase: After completing the randomization phase, participants will then\n      participate in an open-label phase (participant will definitely receive fluvoxamine) that\n      will last up to 15 days. Those randomized to placebo will have the opportunity to try\n      fluvoxamine during this time. Those randomized to fluvoxamine will continue this medication\n      while slowly decreasing the drug. The participant may opt out of this phase. The dosage\n      during this time will be 50-100mg two times daily until discontinuing the drug. Participants\n      will also continue completing short 10-15 minute daily assessments to assess physical\n      symptoms, vitals, and any adverse events.\n\n      Follow-up Phase: We will follow participants for approximately 30 days after the end of the\n      randomized phase. During this time, they may continue to complete daily study assessments to\n      monitor physical symptoms, vitals, and adverse events. If needed, the study team will review\n      medical records to determine the clinical course of participants."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 1, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Triple (Participant, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Time to clinical worsening",
+            "time_frame": "RCT (approximately 15 days)",
+            "description": "Clinical worsening is defined meeting both of the following: (1) presence of dyspnea and/or hospitalization for shortness of breath or pneumonia, plus (2) decrease in O2 saturation (<92%) on room air and/or supplemental oxygen requirement in order to keep O2 saturation >92%."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "clinical deterioration on a Likert-type scale (1-6)",
+                "time_frame": "RCT (approximately 15 days)",
+                "description": "(1) moderate severity of illness as defined by O2 saturation <92% but no supplemental oxygen requirement; (2) O2 saturation plus supplemental oxygen requirement; (3) O2 saturation <92% plus hospitalization (related to dyspnea/hypoxia); (4) the above, plus ventilator support requirement; (5) the above, plus ventilator support for at least 3 days; (6) death."
+            },
+            {
+                "measure": "clinical deterioration measured by number of days",
+                "time_frame": "RCT (approximately 15 days)",
+                "description": "(1) requiring supplemental oxygen; (2) requiring hospitalization; (3) requiring ventilator support."
+            },
+            {
+                "measure": "Symptomatic severity on a likert scale (0-10 where 0= none and 10=very severe)",
+                "time_frame": "RCT (approximately 15 days)",
+                "description": "Outcomes will be collected daily, with symptomatic data collected approximately twice daily. The most severe symptom at baseline will be the focus."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "152"
+        },
+        "condition": [
+            "COVID 19",
+            "Coronavirus"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Fluvoxamine",
+                "arm_group_type": "Experimental",
+                "description": "Start fluvoxamine 100mg capsules, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in the RCT for approximately 15 days."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Start placebo one capsule, three times daily. May reduce dose (or start at reduced dose) for tolerability reasons. Will be followed in RCT for approximately 15 days."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Fluvoxamine",
+                "description": "Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 300mg per day (3 capsules per day) as tolerated.",
+                "arm_group_label": "Fluvoxamine",
+                "other_name": "Luvox"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Randomized to either fluvoxamine or placebo for approximately 15 days. Will take up to 3 capsules per day as tolerated.",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. men and woman age 18 and older;\n\n          2. Not hospitalized;\n\n          3. Has recently tested SARS-CoV-2 (COVID-19 virus) positive.\n\n          4. Currently symptomatic with one or more of one or more of the following symptoms:\n             fever, cough, myalgia, mild dyspnea, diarrhea, vomiting, anosmia (inability to smell),\n             ageusia (inability to taste), sore throat.\n\n          5. Able to provide informed consent.\n\n        Exclusion Criteria:\n\n          1. Illness severe enough to require hospitalization or already meeting study's primary\n             endpoint for clinical worsening.\n\n          2. Unstable medical comorbidities including, but not limited to: Severe underlying lung\n             disease (COPD on home oxygen, interstitial lung disease, pulmonary hypertension),\n             decompensated cirrhosis, Congestive heart failure (stage 3 or 4 per patient report\n             and/or medical records).\n\n          3. Immunocompromised (solid organ transplant, BMT, AIDS, on biologics and/or high dose\n             steroids (>20mg prednisone per day)\n\n          4. Unable to provide informed consent (eg moderate-severe dementia diagnosis)\n\n          5. Unable to perform the study procedures"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Eric J Lenze, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Washington University School of Medicine"
+        },
+        "overall_contact": {
+            "last_name": "Angela Stevens",
+            "phone": "(314)362-6291",
+            "email": "stevens.a@wustl.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Marissa Rhea, MA",
+            "phone": "(314)362-3797",
+            "email": "marissa@wustl.edu"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "BJC",
+                    "address": {
+                        "city": "Belleville",
+                        "state": "Illinois",
+                        "zip": "62220",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Angela Stevens"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Washington University School of Medicine",
+                    "address": {
+                        "city": "Saint Louis",
+                        "state": "Missouri",
+                        "zip": "63110",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Angela Stevens"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Washington University School of Medicine",
+            "investigator_full_name": "Eric Lenze",
+            "investigator_title": "Wallace and Lucille Renard Professor of Psychiatry"
+        },
+        "keyword": [
+            "COVID 19",
+            "fluvoxamine"
+        ],
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "intervention_browse": {
+            "mesh_term": "Fluvoxamine"
+        }
+    }
+}

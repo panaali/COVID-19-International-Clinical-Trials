@@ -1,0 +1,212 @@
+{
+    "clinical_study": {
+        "@rank": "229",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342884"
+        },
+        "id_info": {
+            "org_study_id": "IRB00064912",
+            "nct_id": "NCT04342884"
+        },
+        "brief_title": "COVID-19 Community Research Partnership",
+        "official_title": "A Multicenter, Prospective Study of COVID-19 Using Real-Time Syndromic Surveillance, Scheduled At-home Serologic Testing, and Electronic Health Records",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Wake Forest University Health Sciences",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Wake Forest University Health Sciences",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this research is to collect information about the North Carolina community's\n      coronavirus exposures, symptoms, and health care visits due to the virus. Participation in\n      this study will involve completing a daily questionnaire which covers participants\n      coronavirus illness history or symptoms, health care seeking behaviors and treatments,\n      contact with other sick people, and for health care workers, their use of personal protective\n      equipment."
+        },
+        "detailed_description": {
+            "textblock": "Investigators will conduct a prospective, cohort study for SARS-CoV-2 infections among\n      clients and health care workers of Wake Forest Baptist Health (WFBH). Investigators will\n      conduct real-time syndromic respiratory disease surveillance and, for SARS-CoV-2 infections,\n      calculate baseline seroprevalence and seroconversion rates, hazard risks from close contacts,\n      estimate efficacy of personal protective equipment, and assess sequelae incidence.\n      Investigators will utilize the COVID-19 Therapeutic Learning System, an Oracle developed\n      self-reporting data collection system that can be easily modified to address these specific\n      questions. Over the course of the study, volunteers will report daily exposures, risk\n      reduction behaviors, and symptoms through a secure app on their smartphone, tablet, or\n      computer. In addition to daily syndromic surveillance, at baseline and once every month after\n      that we will use a serologic IgM/G test kit to identify infections and reinfections in\n      volunteers and send results to the Oracle developed database. The areas covered by this study\n      are experiencing community spread of COVID-19 but are early enough in the epidemic to capture\n      potentially a significant number of seroconversions over the 12 months of the study. This\n      surveillance model will be expanded to include the clients and health workers of other\n      medical agencies in North Carolina and in other states."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Seroprevalence of SARS-CoV-2 infection in the general population of North Carolina",
+                "time_frame": "baseline",
+                "description": "Percent of volunteers who are 2019-nCoV Ab test positive"
+            },
+            {
+                "measure": "Seroprevalence of SARS-CoV-2 infection among health care workers of North Carolina",
+                "time_frame": "baseline",
+                "description": "Percent of volunteers who are 2019-nCoV Ab test positive"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Cumulative incidence of SARS-CoV-2 infection",
+                "time_frame": "12 month"
+            },
+            {
+                "measure": "Monthly incidence of SARS-CoV-2 infection",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Stratified incidence of SARS-CoV-2 infection by age group",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Stratified incidence of SARS-CoV-2 infection by sex",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Stratified incidence of SARS-CoV-2 by season",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Stratified incidence of SARS-CoV-2 infection by geographic area (zip code)",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Stratified incidence of SARS-CoV-2 infection by preexisting comorbidities",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Stratified incidence of SARS-CoV-2 infection by COVID-2 contacts",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Stratified incidence of SARS-CoV-2 infection by use of personal protective equipment (PPE) by health workers",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Relative risk of SARS-CoV-2 infection by age group",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Relative risk of SARS-CoV-2 infection by sex",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Relative risk of SARS-CoV-2 infection by season",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Relative risk of SARS-CoV-2 infection by geographic area (zip code)",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Relative risk of SARS-CoV-2 infection by preexisting comorbidities",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Relative risk of SARS-CoV-2 infection by COVID-2 contacts",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Relative risk of SARS-CoV-2 infection by use of PPE by health workers",
+                "time_frame": "Month 1 thru month 12"
+            },
+            {
+                "measure": "Incidence of sequelae",
+                "time_frame": "Month 1 thru month 12"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "150000"
+        },
+        "condition": [
+            "Coronavirus",
+            "COVID"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Clients of Wake Forest Baptist Health (WFBH)"
+            },
+            {
+                "arm_group_label": "Health care workers of Wake Forest Baptist Health (WFBH)"
+            }
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Investigators will seek enrollment of the clients and health care workers from diverse\n        hospitals and clinics of WFBH."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All clients and health care worker of WFBH are eligible for enrollment.\n\n        Exclusion Criteria:\n\n          -  Health care workers who do not receive medical services through WFBH will not be\n             enrolled."
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "John W Sanders, MD, MPH&TM",
+            "role": "Principal Investigator",
+            "affiliation": "Wake Forest University Health Sciences"
+        },
+        "overall_contact": {
+            "last_name": "Wake Forest Baptist Medical Center",
+            "phone": "336-70-COVID",
+            "email": "jwsander@wakehealth.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Wake Forest Baptist Medical Center",
+                "address": {
+                    "city": "Winston-Salem",
+                    "state": "North Carolina",
+                    "zip": "27157",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "COVID-19",
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "clinical_study": {
+        "@rank": "427",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342728"
+        },
+        "id_info": {
+            "org_study_id": "IRB 20-361",
+            "nct_id": "NCT04342728"
+        },
+        "brief_title": "COVID-19 Using Ascorbic Acid and Zinc Supplementation",
+        "acronym": "COVIDAtoZ",
+        "official_title": "CORONAVIRUS DISEASE 2019- USING ASCORBIC ACID AND ZINC SUPPLEMENTATION (COVIDAtoZ) Research Study A RANDOMIZED, OPEN LABEL SINGLE CENTER STUDY",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "The Cleveland Clinic",
+                "agency_class": "Other"
+            }
+        },
+        "source": "The Cleveland Clinic",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this study is to examine the impact of ascorbic acid (vitamin c) and zinc\n      gluconate in reducing duration of symptoms in patients diagnosed with coronavirus disease\n      2019 (COVID-19). Patients above the age of 18 who present to the Cleveland Clinic outpatient\n      testing and receive a positive test for COVID-19 will be invited to participate."
+        },
+        "detailed_description": {
+            "textblock": "We aim to see whether ascorbic acid and zinc gluconate which has limited side effect profile\n      and is readily available over the counter can decrease the duration of symptoms seen in\n      patients with new diagnosis of COVID-2019. A secondary purpose is to see whether Zinc and/or\n      Ascorbic acid supplementation can prevent progression of the severe manifestations of the\n      disease including development of dyspnea and acute respiratory distress syndrome which may\n      require hospitalization, mechanical ventilation, and or lead to death.\n\n      This is a single-center, prospective, randomized study which plans to enroll 520 patients\n      with a principal diagnosis of COVID-2019, managed in an outpatient setting, who presented\n      after being sent by a healthcare provider to get tested and receive a PCR (Polymerase Chain\n      Reaction) -assay based confirmed diagnosis of the disease. All patients who agree to\n      participate in the study will answer a baseline questionnaire about their symptoms at the\n      time of inclusion. Patients will then be randomized to one of 4 study arms. Patients in Arm A\n      (n=130) will receive vitamin C (to be taken divided over 2-3 times a day with meals),\n      patients in Arm B (n=130) will receive zinc gluconate to be taken at bedtime, patients in Arm\n      C (n=130) will receive both vitamin C (to be taken divided over 2-3 times a day with meals)\n      and zinc gluconate (taken at bedtime). Patients in arms A, B and C will take study\n      supplements daily for 10 days. Patients in Arm D (n=130) will not receive any of the study\n      medications and continue on standard of care. Patients will then track their symptoms daily\n      from day 0 to day 28 answering 4 basic questions on illness severity.They will stop filling\n      out their daily questions once they reach 0 for all categories or they reach the end of the\n      28 day study period. Study team members will call patients at days 7, 14, 21, and 28 of the\n      study period to assess need for hospitalization, ER visit, or additional medications\n      prescribed by a healthcare provider, and any side effects from the supplements that the\n      patient could have experienced."
+        },
+        "overall_status": "Enrolling by invitation",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 8, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "A single-center, prospective, open label four arm study (1. Zinc only 2. Zinc and ascorbic acid 3. Ascorbic acid only 4. Standard of care.",
+            "primary_purpose": "Supportive Care",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Symptom Reduction",
+            "time_frame": "28 days",
+            "description": "Outpatients who test positive for the Coronavirus 2019; number of days required in which they reach a 50 percent reduction in the cumulative 0-12 score symptom category of fever based on a 0-3 scale: 0 = \u226498.6, 1 = >98.6- 100.6, 2 = > 100.6 - 102.6, 3 = >102; Cough on a 0-3 scale: 0 = no cough, 1 = mild, 2 = moderate, 3 = severe; Shortness of Breath on a 0-3: 0 = no shortness of breath, 1 = with moderate intensity exercise 2 = with walking on flat surface 3 = short of breath with getting dressed or daily activities; and Fatigue on a 0-3 scale: 0 = No fatigue/energetic, 1=mild fatigue, 2=moderate fatigue, 3=severe fatigue. Each patient will have a composite score ranging from 0-12/day"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Symptom Resolution: Fever",
+                "time_frame": "28 days",
+                "description": "The number of days required to reach a score of 0 from the symptom category of fever based on a 0-3 scale: 0 = \u226498.6, 1 = >98.6- 100.6, 2 = > 100.6 - 102.6, 3 = >102.6"
+            },
+            {
+                "measure": "Symptom Resolution: Cough",
+                "time_frame": "28 days",
+                "description": "The number of days required to reach a score of 0 from the symptom category of cough based on a 0-3 scale: 0 = no cough, 1 = mild, 2 = moderate, 3 = severe"
+            },
+            {
+                "measure": "Symptom Resolution: Shortness of Breath",
+                "time_frame": "28 days",
+                "description": "The number of days required to reach a score of 0 from the symptom category of shortness of breath based on a 0-3 scale: 0 = no shortness of breath, 1 = with moderate intensity exercise 2 = with walking on flat surface 3 = short of breath with getting dressed or daily activities"
+            },
+            {
+                "measure": "Symptom Resolution: Fatigue",
+                "time_frame": "28 days",
+                "description": "The number of days required to reach a score of 0 from the symptom category of fatigue based on a 0-3 scale: 1=mild fatigue, 2=moderate fatigue, 3=severe fatigue."
+            },
+            {
+                "measure": "Day 5 Symptoms",
+                "time_frame": "5 days",
+                "description": "Total symptom composite score at day 5 of study supplementation: Symptom categories of fever based on a 0-3 scale: 0 = \u226498.6, 1 = >98.6- 100.6, 2 = > 100.6 - 102.6, 3 = >102; Cough on a 0-3 scale: 0 = no cough, 1 = mild, 2 = moderate, 3 = severe; Shortness of Breath on a 0-3: 0 = no shortness of breath, 1 = with moderate intensity exercise 2 = with walking on flat surface 3 = short of breath with getting dressed or daily activities; and Fatigue on a 0-3 scale: 0 = No fatigue/energetic, 1=mild fatigue, 2=moderate fatigue, 3=severe fatigue."
+            },
+            {
+                "measure": "Hospitalizations",
+                "time_frame": "28 days",
+                "description": "Differences in hospitalization events between the study arms"
+            },
+            {
+                "measure": "Severity of Symptoms",
+                "time_frame": "28 days",
+                "description": "Differences in severity of symptoms between study arms"
+            },
+            {
+                "measure": "Adjunctive Medications",
+                "time_frame": "28 days",
+                "description": "Differences in number of patients who were prescribed adjunctive medications for their diagnosis between study arms"
+            },
+            {
+                "measure": "Supplementation Side Effects",
+                "time_frame": "28 days",
+                "description": "Differences in number of patients in study arms who experienced side effects from the supplements."
+            }
+        ],
+        "number_of_arms": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "520"
+        },
+        "condition": [
+            "COVID",
+            "Corona Virus Infection"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Ascorbic Acid",
+                "arm_group_type": "Active Comparator",
+                "description": "8000 mg of ascorbic acid divided into 2-3 doses/day with food."
+            },
+            {
+                "arm_group_label": "Zinc Gluconate",
+                "arm_group_type": "Active Comparator",
+                "description": "50 mg of zinc gluconate to be taken daily at bedtime"
+            },
+            {
+                "arm_group_label": "Ascorbic Acid and Zinc Gluconate",
+                "arm_group_type": "Active Comparator",
+                "description": "8000 mg of ascorbic acid divided into 2-3 doses/day with food and 50 mg of zinc gluconate to be taken daily at bedtime."
+            },
+            {
+                "arm_group_label": "Standard of Care",
+                "arm_group_type": "Other",
+                "description": "Standard of care medications only as prescribed by patient's physician."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Dietary Supplement",
+                "intervention_name": "Ascorbic Acid",
+                "description": "Readily available marketed open label ascorbic acid",
+                "arm_group_label": "Ascorbic Acid",
+                "other_name": "Vitamin C"
+            },
+            {
+                "intervention_type": "Dietary Supplement",
+                "intervention_name": "Zinc Gluconate",
+                "description": "Readily available marketed open label zinc gluconate",
+                "arm_group_label": "Zinc Gluconate",
+                "other_name": "Zinc"
+            },
+            {
+                "intervention_type": "Dietary Supplement",
+                "intervention_name": "Ascorbic Acid and Zinc Gluconate",
+                "description": "Readily available marketed open label ascorbic acid and zinc gluconate",
+                "arm_group_label": "Ascorbic Acid and Zinc Gluconate",
+                "other_name": "Vitamin C and Zinc"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Standard of Care",
+                "description": "Readily available prescribed medications/ supplements- None study supplements",
+                "arm_group_label": "Standard of Care",
+                "other_name": "Standard prescribed medications/ supplements"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Outpatients \u2265 18 years presenting to Cleveland Clinic Health System in Northeast Ohio\n             who test positive for COVID-19\n\n          -  Women of child bearing potential who have not had a menstrual period within the past\n             30 days, have not had previous sterilization or those who are perimenopausal (less\n             than 1 year) who have a negative pregnancy test\n\n        Exclusion Criteria:\n\n          -  Patients who are found to be COVID-19 positive during hospitalization or during an\n             emergency room visit.\n\n          -  Patients who live outside Ohio.\n\n          -  Pregnant women:\n\n        Current known pregnancy Positive pregnancy test (women of child bearing potential who have\n        not had previous sterilization as defined as hysterectomy or tubal ligation)\n\n          -  End stage CKD (Chronic kidney disease)\n\n          -  Advanced liver disease awaiting transplant\n\n          -  History of Calcium Oxalate kidney stones."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Milind Desai, M. D.",
+            "role": "Principal Investigator",
+            "affiliation": "The Cleveland Clinic"
+        },
+        "location": {
+            "facility": {
+                "name": "Cleveland Clinic",
+                "address": {
+                    "city": "Cleveland",
+                    "state": "Ohio",
+                    "zip": "44195",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "The Cleveland Clinic",
+            "investigator_full_name": "Milind Desai",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": [
+            "COVID-19",
+            "Viral Infection",
+            "Infection",
+            "Coronavirus-19",
+            "Ascorbic Acid",
+            "Zinc Gluconate"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Vitamins",
+                "Ascorbic Acid",
+                "Zinc"
+            ]
+        }
+    }
+}

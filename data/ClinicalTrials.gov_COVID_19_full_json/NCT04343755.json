@@ -1,0 +1,251 @@
+{
+    "clinical_study": {
+        "@rank": "14",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343755"
+        },
+        "id_info": {
+            "org_study_id": "Pro2020-0375",
+            "nct_id": "NCT04343755"
+        },
+        "brief_title": "Convalescent Plasma as Treatment for Hospitalized Subjects With COVID-19 Infection",
+        "official_title": "Phase IIa Study Exploring the Safety and Efficacy of Convalescent Plasma From Recovered COVID-19 Donors Collected by Plasmapheresis as Treatment for Hospitalized Subjects With COVID-19 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hackensack Meridian Health",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Hackensack Meridian Health",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "-  This is a single arm phase IIa study of convalescent plasma for the treatment of\n           individuals hospitalized with COVID-19 infection.\n\n        -  Subjects will be considered as having completed the study after 60 (+/- 3) days, unless\n           consent withdrawal or death occurs first.\n\n        -  Interim analysis will be permitted as described in the statistical section 8.\n\n        -  The final analysis will be conducted once the last subject completes the day 60 visit or\n           withdraws from the study."
+        },
+        "detailed_description": {
+            "textblock": "Overall study design\n\n        -  This is a single arm phase IIa study of convalescent plasma for the treatment of\n           individuals hospitalized with COVID-19 infection.\n\n        -  Subjects will be considered as having completed the study after 60 (+/- 3) days, unless\n           consent withdrawal or death occurs first.\n\n        -  Interim analysis will be permitted as described in the statistical section 8.\n\n        -  The final analysis will be conducted once the last subject completes the day 60 visit or\n           withdraws from the study.\n\n      Number of subjects\n\n      \u2022 Up to 36 patients in track 2, and 19 patients in track 3 as described in the statistical\n      section 8.\n\n      Overall study duration\n\n        -  The study begins when the first subject (this will likely be a donor) signs the informed\n           consent. The study will end once the last enrolled subject completes the study (likely a\n           recipient).\n\n        -  The expected duration of the study is approximately 12 months."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "For patients hospitalized for COVID-19 but not intubated",
+                "time_frame": "7 Days",
+                "description": "Mechanical ventilation rate at 7 days from starting treatment in hospitalized COVID-19 patients"
+            },
+            {
+                "measure": "Primary objective for patients with COVID-19 already intubated",
+                "time_frame": "30 Days",
+                "description": "Mortality rate at 30 days from starting treatment for patients with COVID-19"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Duration of hospitalization",
+                "time_frame": "60 Days",
+                "description": "The duration of hospitalization is defined as the time in days from the first day of hospitalized to the date of discharge or death. Patients who are not discharged, are alive and still in the hospital on the date of closing follow-up, or lost follow-up on the date of closing follow-up will be considered censored on that date."
+            },
+            {
+                "measure": "Duration of mechanical ventilation",
+                "time_frame": "60 Days",
+                "description": "The duration of mechanical ventilation is defined as the time in days from the first day of using mechanical ventilation to the last day of using mechanical ventilation. All evaluable patients will be included and no censoring for this analysis."
+            },
+            {
+                "measure": "Time to symptoms resolution",
+                "time_frame": "60 Days",
+                "description": "The time to symptom resolution is defined as the time in days from new therapy initiation to the first documented symptom resolution as assessed by local site. Patients whose symptom are not resolved, who are dead, or lost follow-up on the designed follow-up date will be censored on that date."
+            },
+            {
+                "measure": "Overall survival",
+                "time_frame": "60 Days",
+                "description": "Overall survival will be defined as the time in days from study entry to death. Patients who are alive on the date of closing follow-up will be censored on that date."
+            },
+            {
+                "measure": "Rate of virologic clearance by nasopharyngeal swab at day 10",
+                "time_frame": "60 Days"
+            },
+            {
+                "measure": "Impact of donor titers level on efficacy",
+                "time_frame": "60 Days"
+            },
+            {
+                "measure": "Impact of donor titers level on safety",
+                "time_frame": "60 Days"
+            },
+            {
+                "measure": "Recipient Anti-SARS-CoV2 titer assessment on days 0 (pre-infusion),3,10,30, 60",
+                "time_frame": "0, 3, 10, 30, and 60 Days"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "55"
+        },
+        "condition": "COVID-19",
+        "arm_group": {
+            "arm_group_label": "Convalescent Plasma",
+            "arm_group_type": "Experimental",
+            "description": "Fresh plasma will be infused one time to patients"
+        },
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "Convalescent Plasma",
+            "description": "Fresh plasma will be infused one time to hospitalized patients with COVID-19 infection",
+            "arm_group_label": "Convalescent Plasma"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Donor Eligibility Criteria:\n\n          -  Age 18-60\n\n          -  A history of a positive nasopharyngeal swab for COVID-19\n\n          -  At least 14 days from resolution of COVID-19-associated symptoms\n\n          -  Two negative nasopharyngeal swabs done at least 24 hours apart for COVID-19 RNA\n\n          -  Covid-19 neutralizing antibody >1:64\n\n          -  Adequate venous access for apheresis\n\n          -  Meets donor eligibility criteria in accordance to Hackensack University Medical Center\n             (HUMC) Collection Facility at the John Theurer Cancer Center (JTCC) and all regulatory\n             agencies as describes in SOP 800 01\n\n          -  Required testing of the donor and product must be performed in accordance to FDA\n             regulations (21 CFR 610.40), and the donation must be found suitable (21 CFR 630.30)\n\n        Recipient Eligibility Criteria:\n\n        Recipients age >18 years old, are assigned to one of two clinical tracks, track 2 or 3,\n        based on COVID-19 disease severity.\n\n        Track 2:\n\n          -  Hospitalized, moderate symptoms requiring medical care for COVID-19 infection\n\n          -  Symptoms may include fever, dyspnea, dehydration among others\n\n          -  Hypoxemia may be present but is not a requirement\n\n        Track 3:\n\n        \u2022 Requiring mechanical ventilation for the care of COVID-19 infection\n\n        Recipient exclusion criteria:\n\n          -  History of severe transfusion reaction to plasma products\n\n          -  Infusion of immune globulin within the previous 30 days\n\n          -  AST or ALT > 10 x upper limit of normal\n\n          -  Requirement for vasopressors\n\n          -  COVID-19-associated acute kidney injury requiring dialysis"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Michele L Donato, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Hackensack Meridian Health"
+        },
+        "overall_contact": {
+            "last_name": "Mariefel Vendivil",
+            "phone": "551-996-5828",
+            "email": "Marifiel.Vendivil@HackensackMeridian.org"
+        },
+        "overall_contact_backup": {
+            "last_name": "Marlo Kemp",
+            "phone": "551-996-4464",
+            "email": "Marlo.Kemp@HackensackMeridian.org"
+        },
+        "reference": [
+            {
+                "citation": "Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 16. pii: S0140-6736(20)30628-0. doi: 10.1016/S0140-6736(20)30628-0. [Epub ahead of print]",
+                "PMID": "32192578"
+            },
+            {
+                "citation": "Casadevall A, Scharff MD. Serum therapy revisited: animal models of infection and development of passive antibody therapy. Antimicrob Agents Chemother. 1994 Aug;38(8):1695-702. Review.",
+                "PMID": "7985997"
+            },
+            {
+                "citation": "Casadevall A, Scharff MD. Return to the past: the case for antibody-based therapies in infectious diseases. Clin Infect Dis. 1995 Jul;21(1):150-61. Review.",
+                "PMID": "7578724"
+            },
+            {
+                "citation": "Casadevall A, Pirofski LA. Antibody-mediated regulation of cellular immunity and the inflammatory response. Trends Immunol. 2003 Sep;24(9):474-8. Review.",
+                "PMID": "12967670"
+            },
+            {
+                "citation": "Casadevall A, Dadachova E, Pirofski LA. Passive antibody therapy for infectious diseases. Nat Rev Microbiol. 2004 Sep;2(9):695-703. Review.",
+                "PMID": "15372080"
+            },
+            {
+                "citation": "Casadevall A, Pirofski LA. The convalescent sera option for containing COVID-19. J Clin Invest. 2020 Mar 13. pii: 138003. doi: 10.1172/JCI138003. [Epub ahead of print]",
+                "PMID": "32167489"
+            },
+            {
+                "citation": "Zhang JS, Chen JT, Liu YX, Zhang ZS, Gao H, Liu Y, Wang X, Ning Y, Liu YF, Gao Q, Xu JG, Qin C, Dong XP, Yin WD. A serological survey on neutralizing antibody titer of SARS convalescent sera. J Med Virol. 2005 Oct;77(2):147-50.",
+                "PMID": "16121363"
+            },
+            {
+                "citation": "Sahr F, Ansumana R, Massaquoi TA, Idriss BR, Sesay FR, Lamin JM, Baker S, Nicol S, Conton B, Johnson W, Abiri OT, Kargbo O, Kamara P, Goba A, Russell JB, Gevao SM. Evaluation of convalescent whole blood for treating Ebola Virus Disease in Freetown, Sierra Leone. J Infect. 2017 Mar;74(3):302-309. doi: 10.1016/j.jinf.2016.11.009. Epub 2016 Nov 17.",
+                "PMID": "27867062"
+            },
+            {
+                "citation": "Cheng Y, Wong R, Soo YO, Wong WS, Lee CK, Ng MH, Chan P, Wong KC, Leung CB, Cheng G. Use of convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin Microbiol Infect Dis. 2005 Jan;24(1):44-6.",
+                "PMID": "15616839"
+            },
+            {
+                "citation": "Yeh KM, Chiueh TS, Siu LK, Lin JC, Chan PK, Peng MY, Wan HL, Chen JH, Hu BS, Perng CL, Lu JJ, Chang FY. Experience of using convalescent plasma for severe acute respiratory syndrome among healthcare workers in a Taiwan hospital. J Antimicrob Chemother. 2005 Nov;56(5):919-22. Epub 2005 Sep 23.",
+                "PMID": "16183666"
+            },
+            {
+                "citation": "Ko JH, Seok H, Cho SY, Ha YE, Baek JY, Kim SH, Kim YJ, Park JK, Chung CR, Kang ES, Cho D, M\u00fcller MA, Drosten C, Kang CI, Chung DR, Song JH, Peck KR. Challenges of convalescent plasma infusion therapy in Middle East respiratory coronavirus infection: a single centre experience. Antivir Ther. 2018;23(7):617-622. doi: 10.3851/IMP3243. Epub 2018 Jun 20.",
+                "PMID": "29923831"
+            },
+            {
+                "citation": "Arabi YM, Hajeer AH, Luke T, Raviprakash K, Balkhy H, Johani S, Al-Dawood A, Al-Qahtani S, Al-Omari A, Al-Hameed F, Hayden FG, Fowler R, Bouchama A, Shindo N, Al-Khairy K, Carson G, Taha Y, Sadat M, Alahmadi M. Feasibility of Using Convalescent Plasma Immunotherapy for MERS-CoV Infection, Saudi Arabia. Emerg Infect Dis. 2016 Sep;22(9):1554-61. doi: 10.3201/eid2209.151164.",
+                "PMID": "27532807"
+            },
+            {
+                "citation": "Gunn BM, Yu WH, Karim MM, Brannan JM, Herbert AS, Wec AZ, Halfmann PJ, Fusco ML, Schendel SL, Gangavarapu K, Krause T, Qiu X, He S, Das J, Suscovich TJ, Lai J, Chandran K, Zeitlin L, Crowe JE Jr, Lauffenburger D, Kawaoka Y, Kobinger GP, Andersen KG, Dye JM, Saphire EO, Alter G. A Role for Fc Function in Therapeutic Monoclonal Antibody-Mediated Protection against Ebola Virus. Cell Host Microbe. 2018 Aug 8;24(2):221-233.e5. doi: 10.1016/j.chom.2018.07.009.",
+                "PMID": "30092199"
+            },
+            {
+                "citation": "Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, He L, Chen Y, Wu J, Shi Z, Zhou Y, Du L, Li F. Molecular Mechanism for Antibody-Dependent Enhancement of Coronavirus Entry. J Virol. 2020 Feb 14;94(5). pii: e02015-19. doi: 10.1128/JVI.02015-19. Print 2020 Feb 14.",
+                "PMID": "31826992"
+            },
+            {
+                "citation": "Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw FM, Lim WS, Makki S, Rooney KD, Nguyen-Van-Tam JS, Beck CR; Convalescent Plasma Study Group. The effectiveness of convalescent plasma and hyperimmune immunoglobulin for the treatment of severe acute respiratory infections of viral etiology: a systematic review and exploratory meta-analysis. J Infect Dis. 2015 Jan 1;211(1):80-90. doi: 10.1093/infdis/jiu396. Epub 2014 Jul 16. Review.",
+                "PMID": "25030060"
+            },
+            {
+                "citation": "Crowe JE Jr, Firestone CY, Murphy BR. Passively acquired antibodies suppress humoral but not cell-mediated immunity in mice immunized with live attenuated respiratory syncytial virus vaccines. J Immunol. 2001 Oct 1;167(7):3910-8.",
+                "PMID": "11564809"
+            },
+            {
+                "citation": "Tan M, Xiong X. Continuous and group sequential conditional probability ratio tests for phase II clinical trials. Stat Med. 1996 Oct 15;15(19):2037-51.",
+                "PMID": "8896138"
+            },
+            {
+                "citation": "Tan MT, Xiong X. A flexible multi-stage design for phase II oncology trials. Pharm Stat. 2011 Jul-Aug;10(4):369-73. doi: 10.1002/pst.478. Epub 2010 Dec 8.",
+                "PMID": "22328328"
+            },
+            {
+                "citation": "Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, Wang F, Li D, Yang M, Xing L, Wei J, Xiao H, Yang Y, Qu J, Qing L, Chen L, Xu Z, Peng L, Li Y, Zheng H, Chen F, Huang K, Jiang Y, Liu D, Zhang Z, Liu Y, Liu L. Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma. JAMA. 2020 Mar 27. doi: 10.1001/jama.2020.4783. [Epub ahead of print]",
+                "PMID": "32219428"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Coronavirus",
+            "Covid19",
+            "SARS-CoV-2"
+        ],
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "38",
+        "@rank": "45",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04334512"
         },
@@ -11,7 +11,7 @@
             "nct_id": "NCT04334512"
         },
         "brief_title": "A Study of Quintuple Therapy to Treat COVID-19 Infection",
-        "acronym": "HAZCpaC",
+        "acronym": "HAZDpaC",
         "official_title": "A Phase II Pilot Study of Quintuple Therapy to Treat COVID-19 Infection",
         "sponsors": {
             "lead_sponsor": {
@@ -69,7 +69,7 @@
         "number_of_arms": "1",
         "enrollment": {
             "@type": "Anticipated",
-            "#text": "60"
+            "#text": "600"
         },
         "condition": "COVID-19",
         "arm_group": {
@@ -113,7 +113,7 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          1. Signed informed consent, demonstrating that the subject understands the procedures\n             required for the study and the purpose of the study\n\n          2. Healthy male or female subjects 18 years of age to 55 years of age\n\n          3. Subjects must agree to practice at least one highly effective method of birth control\n             for the duration of the study\n\n          4. Diagnosis of COVID-19 by RT-PCR\n\n        Exclusion Criteria:\n\n          1. Refusal to sign informed consent form\n\n          2. Negative test for COVID-19 by RT-PCR at screening\n\n          3. Diarrhea\n\n          4. Any comorbidities which, in the opinion of the investigator, constitute health risk\n             for the subject"
+                "textblock": "Inclusion Criteria:\n\n          1. Signed informed consent, demonstrating that the subject understands the procedures\n             required for the study and the purpose of the study\n\n          2. Healthy male or female subjects 18 years of age to 55 years of age\n\n          3. Subjects must agree to practice at least one highly effective method of birth control\n             for the duration of the study\n\n          4. Diagnosis of COVID-19 by RT-PCR\n\n        Exclusion Criteria:\n\n          1. Refusal to sign informed consent form\n\n          2. Negative test for COVID-19 by RT-PCR at screening\n\n          3. Diarrhea (prior to infection)\n\n          4. Any comorbidities which, in the opinion of the investigator, constitute health risk\n             for the subject"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -156,11 +156,11 @@
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "154",
+        "@rank": "174",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04342195"
         },
@@ -29,10 +29,10 @@
         "detailed_description": {
             "textblock": "Coronavirus disease (COVID-19), an infectious disease caused by severe acute respiratory\n      syndrome coronavirus 2 (SARS-CoV-2), has caused over 1,273,712 infections and over 69,458\n      deaths worldwide. Columbia University Irving Medical Center/NewYork-Presbyterian (CUIMC/NYP)\n      has assembled a team of committed virologists, molecular biologists, chemists, and\n      technologists to address this emerging threat. Monoclonal antibodies have become great\n      additions to our therapeutic arsenal, primarily in treating cancer or autoimmune diseases.\n      Recently, the use of monoclonal antibodies in combating infections such as respiratory\n      syncytial virus and HIV have also become clear. In recent years, advanced cell sorting and\n      sequencing technologies have been utilized to identify neutralizing antibodies from human B\n      cells. This protocol will outline our approach to obtaining blood specimens from participants\n      who are recovering from COVID-19 infection. Potential participants will be referred by health\n      care providers from within the CUIMC/NYP system and from outside institutions. If the\n      potential participant agrees to be contacted, study staff will call them to review the\n      informed consent, eligibility criteria and study procedures, and set up a study visit for\n      blood draw. Monoclonal antibodies that could potently neutralize 2019 novel coronavirus\n      (2019-nCoV) and related coronaviruses will be isolated from these specimens. Candidate\n      monoclonal antibodies will then be optimized and evaluated for therapeutic potential. The\n      ultimate goal would be able to produce a monoclonal antibody that could confer protection\n      during an outbreak or be utilized to treat patients with severe COVID disease."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 2020"
+            "@type": "Actual",
+            "#text": "March 25, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -104,6 +104,7 @@
                     "country": "United States"
                 }
             },
+            "status": "Recruiting",
             "contact": {
                 "last_name": "Brett Gray"
             }
@@ -115,14 +116,14 @@
         "study_first_submitted": "April 8, 2020",
         "study_first_submitted_qc": "April 8, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 10, 2020"
         },
-        "last_update_submitted": "April 8, 2020",
-        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 10, 2020"
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

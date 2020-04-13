@@ -1,0 +1,320 @@
+{
+    "clinical_study": {
+        "@rank": "144",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343001"
+        },
+        "id_info": {
+            "org_study_id": "2020-KEP-420",
+            "nct_id": "NCT04343001"
+        },
+        "brief_title": "Coronavirus Response - Active Support for Hospitalised Covid-19 Patients",
+        "acronym": "CRASH-19",
+        "official_title": "Aspirin, Losartan and Simvastatin in Hospitalised COVID-19 Patients: a Multinational Randomised Open-label Factorial Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "London School of Hygiene and Tropical Medicine",
+                "agency_class": "Other"
+            }
+        },
+        "source": "London School of Hygiene and Tropical Medicine",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The CRASH-19 trial is a multinational, open-label, factorial, randomised trial in adults\n      hospitalised with suspected or confirmed acute COVID-19 infection."
+        },
+        "detailed_description": {
+            "textblock": "We will evaluate the effect of aspirin (75mg once daily), losartan (100mg once daily), and\n      simvastatin (80mg once daily) in patients with COVID-19 infection.\n\n      Eligible patients will be randomly allocated to one of eight study arms (aspirin only;\n      losartan only; simvastatin only; aspirin and losartan; aspirin and simvastatin; losartan and\n      simvastatin; aspirin, losartan and simvastatin; standard care only). Trial treatments are\n      given in addition to the usual standard of care at the study hospital.\n\n      Treatment will be started as soon as possible after randomisation and will continue until\n      death, discharge or 28 days after randomisation, whichever occurs first."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Factorial Assignment",
+            "intervention_model_description": "2 x 2 x 2",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Death",
+            "time_frame": "up to 28 days of randomisation",
+            "description": "Cause of death will be described"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Myocardial infarction",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Congestive cardiac failure",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Severe cardiac arrythmia",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Myocarditis",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Respiratory failure including ARDS",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Viral pneumonitis",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Acute renal failure",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Sepsis",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Stroke",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Gastrointestinal bleeding",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Receipt of non invasive or mechanical ventilation",
+                "time_frame": "up to 28 days of randomisation"
+            },
+            {
+                "measure": "Ability to self care at hospital discharge",
+                "time_frame": "up to 28 days of randomisation"
+            }
+        ],
+        "number_of_arms": "8",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10000"
+        },
+        "condition": "Covid-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Standard care",
+                "arm_group_type": "No Intervention",
+                "description": "Usual standard of care at the study hospital"
+            },
+            {
+                "arm_group_label": "Aspirin",
+                "arm_group_type": "Experimental",
+                "description": "Aspirin 75mg once daily"
+            },
+            {
+                "arm_group_label": "Losartan",
+                "arm_group_type": "Experimental",
+                "description": "Losartan 100mg once daily"
+            },
+            {
+                "arm_group_label": "Simvastatin",
+                "arm_group_type": "Experimental",
+                "description": "Simvastatin 80mg once daily"
+            },
+            {
+                "arm_group_label": "Aspirin and Losartan",
+                "arm_group_type": "Experimental",
+                "description": "Aspirin 75mg once daily and Losartan 100mg once daily"
+            },
+            {
+                "arm_group_label": "Aspirin and Simvastatin",
+                "arm_group_type": "Experimental",
+                "description": "Aspirin 75mg once daily and Simvastatin 80mg once daily"
+            },
+            {
+                "arm_group_label": "Losartan and Simvastatin",
+                "arm_group_type": "Experimental",
+                "description": "Losartan 100mg once daily and Simvastatin 80mg once daily"
+            },
+            {
+                "arm_group_label": "Aspirin, Losartan and Simvastatin",
+                "arm_group_type": "Experimental",
+                "description": "Aspirin 75mg once daily, Losartan 100mg once daily and Simvastatin 80mg once daily"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Aspirin",
+                "description": "Aspirin 75mg",
+                "arm_group_label": [
+                    "Aspirin",
+                    "Aspirin and Losartan",
+                    "Aspirin and Simvastatin",
+                    "Aspirin, Losartan and Simvastatin"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Losartan",
+                "description": "Losartan 100mg",
+                "arm_group_label": [
+                    "Aspirin and Losartan",
+                    "Aspirin, Losartan and Simvastatin",
+                    "Losartan",
+                    "Losartan and Simvastatin"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Simvastatin",
+                "description": "Simvastatin 80mg",
+                "arm_group_label": [
+                    "Aspirin and Simvastatin",
+                    "Aspirin, Losartan and Simvastatin",
+                    "Losartan and Simvastatin",
+                    "Simvastatin"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Adults admitted to hospital with suspected or confirmed acute COVID-19 infection who\n             are believed to be \u226550 years old are eligible. Acute COVID-19 infection is suspected\n             in the presence of a fever and at least one symptom of respiratory disease e.g. cough,\n             difficulty breathing, signs of hypoxia, requiring hospitalization. The clinician may\n             suspect COVID-19 infection if i) the patient lives in or has recently travelled to an\n             area with COVID-19 transmission; ii) the patient had recent contact with a confirmed\n             or probable COVID-19 case, or iii) no alternative diagnosis fully explains the\n             clinical presentation. Patients hospitalised without symptoms of acute COVID-19\n             infection should not be recruited even if they test positive for COVID-19.\n\n        Exclusion Criteria:\n\n          -  Women known to be pregnant and patients already receiving or with a definite\n             indication or contraindication for any of the trial treatments are excluded. Patients\n             who are very severely frail (completely dependent and approaching end of life who\n             typically they could not recover even from a mild illness) or terminally ill should\n             not be recruited. Patients with a clinical indication for or contraindication to any\n             of the trial drugs should not be recruited"
+            },
+            "gender": "All",
+            "minimum_age": "50 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Haleema Shakur-Still",
+                "role": "Study Chair",
+                "affiliation": "London School of Hygiene and Tropical Medicine"
+            },
+            {
+                "last_name": "Ian Roberts",
+                "role": "Study Chair",
+                "affiliation": "London School of Hygiene and Tropical Medicine"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Haleema Shakur-Still",
+            "phone": "+44 207 958 8113",
+            "email": "haleema.shakur-still@lshtm.ac.uk"
+        },
+        "overall_contact_backup": {
+            "last_name": "Ian Roberts",
+            "phone": "+44 207 958 8128",
+            "email": "ian.roberts@lshtm.ac.uk"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "University College Hospital",
+                    "address": {
+                        "city": "Ibadan",
+                        "state": "Oyo",
+                        "country": "Nigeria"
+                    }
+                },
+                "contact": {
+                    "last_name": "Temitayo Shokunbi"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Nike Bello",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Oladapo Olayemi",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Shifa Tameer-e-Millat University",
+                    "address": {
+                        "city": "Rawalpindi",
+                        "country": "Pakistan"
+                    }
+                },
+                "contact": {
+                    "last_name": "Rizwana Chaudhri"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Aasia Kayani",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Kiran Javaid",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            }
+        ],
+        "location_countries": {
+            "country": [
+                "Nigeria",
+                "Pakistan"
+            ]
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Adult Respiratory Distress Syndrome",
+            "Pneumonia",
+            "Myocardial infarction"
+        ],
+        "intervention_browse": {
+            "mesh_term": [
+                "Aspirin",
+                "Losartan",
+                "Simvastatin"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "As many sites will contribute to this trial, individual sites cannot restrict the publication of the manuscript relating to the outcomes of this trial. All anonymised data from this trial will be made freely available on our data sharing site: http://freebird.lshtm.ac.uk.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Informed Consent Form (ICF)"
+            ],
+            "ipd_time_frame": "Within 6 months or sooner of publication",
+            "ipd_access_criteria": "Log-in required for the sole purpose to monitor data download.",
+            "ipd_url": "http://freebird.lshtm.ac.uk"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "281",
+        "@rank": "253",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04329533"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "Pending UA IRB Approval",
             "nct_id": "NCT04329533"
         },
-        "brief_title": "Effects of Using Mobile App on Perceived Stress During Coronavirus (\"COVID 19\") Pandemic",
-        "official_title": "Effects of a Mobile Meditation App on Stress During Coronavirus (\"COVID-19\") Pandemic in Outpatient Obstetrics and Gynecology Patients; a Randomized Controlled Trial",
+        "brief_title": "Effects of Using Mobile App on Perceived Stress During COVID-19 Pandemic",
+        "official_title": "Effects of a Mobile Meditation App on Stress During COVID-19 Pandemic in Outpatient Obstetrics and Gynecology Patients; a Randomized Controlled Trial",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "University of Arizona",
@@ -183,11 +183,11 @@
             "@type": "Actual",
             "#text": "April 1, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

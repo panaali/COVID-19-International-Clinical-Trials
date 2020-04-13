@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "100",
+        "@rank": "110",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04336332"
         },
@@ -29,12 +29,12 @@
             "textblock": "This is a three-arm randomized trial comparing the efficacy of single agent\n      hydroxychloroquine to the combination of hydroxychloroquine and azithromycin, and to a\n      delayed hydroxychloroquine regimen, which will serve as a contemporaneous Day 1-6 supportive\n      care control, in eliminating detectable SARS-CoV-2 on day 6 following the initiation of\n      treatment in order to determine which regimen is more effective."
         },
         "detailed_description": {
-            "textblock": "PRIMARY OBJECTIVE:\n\n      I. Determine change in viral load at day 6 compared to baseline between two regimens to treat\n      COVID-19 and a contemporaneous control group.\n\n      SECONDARY OBJECTIVES:\n\n      I. Time to resolution of symptoms (symptom questionnaire)\n\n      II. Change in the fever curve resulting in shorter time to afebrile for 48 hours\n\n      III. Normalization of vital signs\n\n      IV. Time to discharge (if hospitalized)\n\n      V. Assessment of agent toxicity as measured by standard metrics\n\n      VI. Collection of nasal swab and blood for viral load, presence of IgM or IgG antibodies\n\n      VII. If feasible on samples collected for quantitative PCR decrease in virus shedding (in\n      nasopharyngeal secretions)\n\n      VIII. Measures of cytokines in blood including IL6, IL-8, TNF, INF\n\n      IX. Routine standard of care labs obtained as part of the care of these patients such as\n      differential white count, CRP, troponin and LFTs will be analyzed for correlative trends"
+            "textblock": "PRIMARY OBJECTIVE:\n\n      I. Determine change in viral load at day 6 compared to baseline between two regimens to treat\n      COVID-19 and a contemporaneous control group.\n\n      SECONDARY OBJECTIVES:\n\n      I. Time to resolution of symptoms (symptom questionnaire)\n\n      II. Change in the fever curve resulting in shorter time to afebrile for 48 hours\n\n      III. Normalization of vital signs\n\n      IV. Time to discharge (if hospitalized)\n\n      V. Assessment of agent toxicity as measured by standard metrics\n\n      VI. Collection of throat swab and blood for viral load, presence of IgM or IgG antibodies\n\n      VII. If feasible on samples collected for quantitative PCR decrease in virus shedding (in\n      oropharyngeal secretions)\n\n      VIII. Measures of cytokines in blood including IL6, IL-8, TNF, INF\n\n      IX. Routine standard of care labs obtained as part of the care of these patients such as\n      differential white count, CRP, troponin and LFTs will be analyzed for correlative trends"
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 6, 2020"
+            "@type": "Actual",
+            "#text": "April 1, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -96,9 +96,9 @@
                 "description": "As measured by standard metrics"
             },
             {
-                "measure": "Nasal swab sample collections",
+                "measure": "Oropharynx swab sample collections",
                 "time_frame": "up to 10 days",
-                "description": "Collection of nasal swabs for viral load and microbiome analysis"
+                "description": "Collection of Oropharynx swabs for viral load and microbiome analysis"
             },
             {
                 "measure": "Blood Sample collections",
@@ -132,17 +132,17 @@
         ],
         "arm_group": [
             {
-                "arm_group_label": "Arm A: Hydroxychloroquine Sulfate + Azithromycin",
+                "arm_group_label": "Arm 1: Hydroxychloroquine Sulfate + Azithromycin",
                 "arm_group_type": "Experimental",
                 "description": "Hydroxychloroquine sulfate 200 mg taken by mouth three (3) times a day for 10 days\nAzithromycin 500 mg taken by mouth on Day 1, followed by\nAzithromycin 250 mg taken by mouth once (1) time a day for four (4) days."
             },
             {
-                "arm_group_label": "Arm B: Hydroxychloroquine Sulfate alone",
+                "arm_group_label": "Arm 2: Hydroxychloroquine Sulfate alone",
                 "arm_group_type": "Experimental",
                 "description": "\u2022 Hydroxychloroquine sulfate 200 mg taken by mouth three (3) times a day for 10 days"
             },
             {
-                "arm_group_label": "Arm C: Supportive Care",
+                "arm_group_label": "Arm 3: Supportive Care",
                 "arm_group_type": "No Intervention",
                 "description": "Supportive care Days 1-6.\nIf you still have COVID-19 symptoms you will receive Hydroxychloroquine sulfate 200 mg by mouth three (3) times a day for 10 days"
             }
@@ -152,7 +152,7 @@
                 "intervention_type": "Combination Product",
                 "intervention_name": "Hydroxychloroquine Sulfate + Azithromycin",
                 "description": "Given PO",
-                "arm_group_label": "Arm A: Hydroxychloroquine Sulfate + Azithromycin",
+                "arm_group_label": "Arm 1: Hydroxychloroquine Sulfate + Azithromycin",
                 "other_name": [
                     "Hydroxychloroquine",
                     "Plaquenil",
@@ -166,8 +166,8 @@
                 "intervention_name": "Hydroxychloroquine Sulfate",
                 "description": "Given PO",
                 "arm_group_label": [
-                    "Arm A: Hydroxychloroquine Sulfate + Azithromycin",
-                    "Arm B: Hydroxychloroquine Sulfate alone"
+                    "Arm 1: Hydroxychloroquine Sulfate + Azithromycin",
+                    "Arm 2: Hydroxychloroquine Sulfate alone"
                 ],
                 "other_name": [
                     "Hydroxychloroquine",
@@ -177,7 +177,7 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  Patients with proven SARS-CoV-2 infection by an accepted assay with symptoms\n             consistent with COVID-19\n\n          -  Ability to measure and quantify viral load by quantitative PCR\n\n          -  Temperature >100.6\u00b0F\n\n          -  Age 18 to 89\n\n          -  Ability to swallow oral medications\n\n          -  Patients must read, understand and sign IRB approved informed consent\n\n        Exclusion Criteria:\n\n          -  Pregnancy or women who are breast feeding\n\n          -  Two consecutive negative assays for SARS-CoV-2 infection\n\n          -  Patients that lack decision-making capacity will not be approached to participate in\n             this study\n\n          -  Inability to tolerate oral medications\n\n          -  Allergy or prior adverse reaction to either azithromycin or hydroxychloroquine sulfate\n\n          -  QTc interval > 450 mSEC\n\n          -  History of ongoing ventricular cardiac dysrhythmias of grade 2 as described by NCI\n             CTCAE 5.0 criteria\n\n          -  History of serious ventricular arrhythmia (VT or VF > 3 beats in a row)"
+                "textblock": "Inclusion Criteria:\n\n          -  Patients with proven SARS-CoV-2 infection by an accepted assay with symptoms\n             consistent with COVID-19\n\n          -  Ability to measure and quantify viral load by quantitative PCR\n\n          -  Temperature >100.6\u00b0F\n\n          -  Age 18 to 89\n\n          -  Ability to swallow oral medications\n\n          -  Patients must read, understand and sign IRB approved informed consent\n\n        Exclusion Criteria:\n\n          -  Pregnancy or women who are breast feeding\n\n          -  Two consecutive negative assays for SARS-CoV-2 infection\n\n          -  Patients that lack decision-making capacity will not be approached to participate in\n             this study\n\n          -  Inability to tolerate oral medications\n\n          -  Allergy or prior adverse reaction to either azithromycin or hydroxychloroquine sulfate\n\n          -  QTc interval > 470 mSEC\n\n          -  History of ongoing ventricular cardiac dysrhythmias of grade 2 as described by NCI\n             CTCAE 5.0 criteria\n\n          -  History of serious ventricular arrhythmia (VT or VF > 3 beats in a row)"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -212,6 +212,7 @@
                         "country": "United States"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Sabiha Hussain, MD",
                     "phone": "732-235-7840",
@@ -232,6 +233,7 @@
                         "country": "United States"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Sabiha Hussain, MD",
                     "phone": "732-235-7840",
@@ -252,6 +254,7 @@
                         "country": "United States"
                     }
                 },
+                "status": "Recruiting",
                 "contact": {
                     "last_name": "Shobha Swaminathan, MD",
                     "phone": "973-972-1057",
@@ -273,11 +276,11 @@
             "@type": "Actual",
             "#text": "April 7, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

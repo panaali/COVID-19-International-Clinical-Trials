@@ -1,0 +1,206 @@
+{
+    "clinical_study": {
+        "@rank": "433",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343729"
+        },
+        "id_info": {
+            "org_study_id": "CAEE: 30615920.2.0000.0005",
+            "nct_id": "NCT04343729"
+        },
+        "brief_title": "Methylprednisolone in the Treatment of Patients With Signs of Severe Acute Respiratory Syndrome in SARS-CoV2: a Randomized, Double-blind, Placebo-controlled Clinical Trial",
+        "acronym": "MetCOVID",
+        "official_title": "Efficacy and Safety of Injectable Methylprednisolone Sodium Succinate in the Treatment of Patients With Signs of Severe Acute Respiratory Syndrome Under the New Coronavirus (SARS-CoV2): a Phase IIb, Randomized, Double-blind, Placebo-controlled, Clinical Trial.",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Funda\u00e7\u00e3o de Medicina Tropical Dr. Heitor Vieira Dourado",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Funda\u00e7\u00e3o de Medicina Tropical Dr. Heitor Vieira Dourado",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This a phase IIb, double-blind, randomized, placebo-controlled clinical trial to assess the\n      efficacy and safety of injectable methylprednisolone sodium succinate (MPS) in patients with\n      severe acute respiratory syndrome (SARS) in COVID-19 infection. A total of 420 individuals of\n      both sexes, aged over 18 years old, with symptoms suggestive or confirmed diagnosis of severe\n      acute respiratory syndrome (SARS), hospitalized at the Hospital and Pronto-Socorro Delphina\n      Rinaldi Abdel Aziz (HPSDRAA), with clinical and radiological findings suggestive of SARS-CoV2\n      infection, will be randomized at a 1:1 ration to receive either MPS (0.5mg/kg of weight,\n      twice daily, for 5 days) or placebo (saline solution, twice daily, for 5 days)."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Mortality rate at day 28",
+            "time_frame": "on day 28, after randomization",
+            "description": "Mortality rate on day 28, after randomization"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Proportion of patients with SARS",
+                "time_frame": "after randomization, up to 7 days.",
+                "description": "Number of patients with diagnosis of early onset of SARS"
+            },
+            {
+                "measure": "Mortality rate on days 7, 14 and 28",
+                "time_frame": "after randomization, up to 28 days.",
+                "description": "Proportion of patient that died on days 7, 14 and 28."
+            },
+            {
+                "measure": "Incidence of orotracheal intubation",
+                "time_frame": "after randomization, up to 7 days.",
+                "description": "proportion of patients requiring orotracheal intubation"
+            },
+            {
+                "measure": "Change in oxygenation index",
+                "time_frame": "after randomization, up to 7 days.",
+                "description": "Proportion of patients with oxygenation index (PaO2 / FiO2) < 100 in 7 days."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "420"
+        },
+        "condition": [
+            "SARS-CoV Infection",
+            "Severe Acute Respiratory Syndrome (SARS) Pneumonia"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Methylprednisolone",
+                "arm_group_type": "Active Comparator",
+                "description": "0.5mg/kg injectable methylprednisolone sodium succinate, twice daily, for 5 days."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Saline solution, twice daily, for 5 days. Injectable."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Methylprednisolone Sodium Succinate",
+                "description": "injectable solution at a dose of 0.5mg/kg",
+                "arm_group_label": "Methylprednisolone",
+                "other_name": "methylprednisolone"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo solution",
+                "description": "injectable saline solution",
+                "arm_group_label": "Placebo",
+                "other_name": "placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Suspected cases of COVID-19, due to clinical and radiological data, during the\n             pandemic;\n\n          2. Adult aged 18 years or older, at the time of inclusion (children under 18 will not be\n             included due to the recognized lower lethality in previous published studies, and the\n             difficulty of consent in the context of an emergency in public health);\n\n          3. Present respiratory symptoms suggestive of SARS (cough OR dyspnoea) at the time of\n             screening, or confirmed SARS diagnosis, taking into account the following: I.\n             respiratory rate > 24 breaths per minute or report of feeling short of breath OR satO2\n             \u2264 94% in room air OR in use supplementary oxygen OR under invasive mechanical\n             ventilation\n\n        Exclusion Criteria:\n\n          1. History of hypersensitivity to MPS;\n\n          2. People living with HIV and AIDS;\n\n          3. Chronic use of corticosteroids or immunosuppressive agents;\n\n          4. Pregnancy or lactation;\n\n          5. decompensated cirrhosis;\n\n          6. Chronic renal failure."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Marcus Lacerda",
+            "phone": "+55 92 99114 7633",
+            "email": "marcuslacerda.br@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Fernando Val",
+            "phone": "+55 92 99116 3107",
+            "email": "ffaval@gmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Hospital e Pronto Socorro Delphina Rinaldi Abdel Aziz",
+                "address": {
+                    "city": "Manaus",
+                    "state": "Amazonas",
+                    "zip": "69093-415",
+                    "country": "Brazil"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Brazil"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "SARS-CoV-2",
+            "Covid-19",
+            "Corticosteroid",
+            "Severe Acute Respiratory Syndrome (SARS) Pneumonia",
+            "Coronavirus",
+            "methylprednisolone"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Severe Acute Respiratory Syndrome",
+                "Coronavirus Infections",
+                "Pneumonia",
+                "Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Methylprednisolone",
+                "Methylprednisolone Acetate",
+                "Methylprednisolone Hemisuccinate",
+                "Prednisolone",
+                "Prednisolone acetate",
+                "Pharmaceutical Solutions",
+                "Prednisolone hemisuccinate",
+                "Prednisolone phosphate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "all patient data will be shared after study publication",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Clinical Study Report (CSR)"
+            ],
+            "ipd_time_frame": "after study publication.",
+            "ipd_access_criteria": "upon formal request."
+        }
+    }
+}

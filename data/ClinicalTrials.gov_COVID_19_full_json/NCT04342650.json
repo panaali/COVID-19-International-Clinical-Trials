@@ -1,0 +1,219 @@
+{
+    "clinical_study": {
+        "@rank": "308",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342650"
+        },
+        "id_info": {
+            "org_study_id": "CAAE: 30504220.5.0000.0005",
+            "nct_id": "NCT04342650"
+        },
+        "brief_title": "Chloroquine Diphosphate in the Prevention of SARS in Covid-19 Infection",
+        "acronym": "CloroCOVID19II",
+        "official_title": "Phase IIb Study to Evaluate the Efficacy and Safety of Chloroquine Diphosphate in the Treatment of Patients With Comorbidities, Without Severe Acute Respiratory Syndrome, Under the New Coronavirus (SARS-CoV2): a Double-blind, Randomized, Placebo-controlled Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Funda\u00e7\u00e3o de Medicina Tropical Dr. Heitor Vieira Dourado",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Funda\u00e7\u00e3o de Medicina Tropical Dr. Heitor Vieira Dourado",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a double-blind, randomized, placebo-controlled clinical trial. A total of 210\n      individuals aged over 18 years old, without a diagnosis of severe respiratory disease, who\n      came to the study site with clinical and radiological suspicion of SARS-CoV2, will be\n      randomized into two treatment groups at a 1:1 ratio to receive a 5-day CQ diphosphate tablets\n      or placebo (tablet without active ingredient produced with the same physical\n      characteristics)."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Proportion of patients with onset of severe acute respiratory syndrome (SARS)",
+            "time_frame": "7 days after randomization",
+            "description": "Evaluate if CQ diphosphate prevents the onset of SARS in patients on intervention group through standardized questionnaires."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Mortality rate",
+                "time_frame": "after randomization, up to 28 days",
+                "description": "Mortality rate between intervention and placebo group on days 7, 14, and 28 after randomization"
+            },
+            {
+                "measure": "Number of participants in need of intensive care support",
+                "time_frame": "during and after intervention, up to 28 days",
+                "description": "Proportion of participants in need and duration of intensive care support after randomization"
+            },
+            {
+                "measure": "Viral concentration",
+                "time_frame": "After randomization, up to 7 days",
+                "description": "Viral load change in blood and oropharyngeal swab samples"
+            },
+            {
+                "measure": "Cumulative incidence of serious adverse events",
+                "time_frame": "During and after intervention, up to 28 days",
+                "description": "Incidence of serious adverse events during and after treatment"
+            },
+            {
+                "measure": "Cumulative incidence of grade 3 and 4 adverse events",
+                "time_frame": "During and after intervention, up to 28 days",
+                "description": "Incidence of grade 3 and 4 adverse events during and after treatment"
+            },
+            {
+                "measure": "Proportion of patients with discontinued treatment",
+                "time_frame": "after randomization, up to 28 days",
+                "description": "proportion of discontinuation or temporary suspension of treatment (for any reason)"
+            },
+            {
+                "measure": "Incidence of cardiac lesions",
+                "time_frame": "after randomization, up to 120 days",
+                "description": "proportion of patients with increased levels of troponin I"
+            },
+            {
+                "measure": "Incidence of cardiac disfunctions",
+                "time_frame": "after randomization, up to 120 days",
+                "description": "proportion and magnitude of QTcF interval increases higher than 500ms"
+            },
+            {
+                "measure": "Change in respiratory capacity",
+                "time_frame": "Day 120 after randomization",
+                "description": "Changes measured on day 120 will be compared to baseline, through spirometry."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "210"
+        },
+        "condition": [
+            "COVID-19",
+            "SARS-CoV Infection",
+            "Severe Acute Respiratory Syndrome (SARS) Pneumonia",
+            "Clinical Trial"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention",
+                "arm_group_type": "Active Comparator",
+                "description": "CQ 450mg twice daily (3 tablets of 150mg, every 12 hours) on day 1, followed by CQ 450mg once daily (3 tablets of 150mg) from D2 to D5. Oral administration."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo tables of equal characteristics and duration of treatment."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Chloroquine Diphosphate",
+                "description": "150mg tablets",
+                "arm_group_label": "Intervention",
+                "other_name": "chloroquine"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo oral tablet",
+                "description": "150mg placebo tablets",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Suspected cases of COVID-19, due to clinical and radiological data, during the\n             epidemic;\n\n          2. Adult aged 18 or over, at the time of inclusion\n\n          3. Not having severe acute respiratory syndrome (SARS), that is, not using mechanical\n             ventilation or supplemental oxygen, peripheral oxygen saturation> 94% in room air, and\n             having a respiratory rate below 24 incursions per minute.\n\n          4. Patients with comorbidities only, due to the increased risk of developing SARS\n\n        Exclusion Criteria:\n\n        1. Patients with chronic use of drugs known to prolong QTc interval."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Marcus Lacerda, MD",
+            "phone": "+55 92 99114 7633",
+            "email": "marcuslacerda.br@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Fernando Val, PhD",
+            "phone": "+55 92 99116 3107",
+            "email": "ffaval@gmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Hospital e Pronto Socorro Delphina Rinaldi Abdel Aziz",
+                "address": {
+                    "city": "Manaus",
+                    "state": "Amazonas",
+                    "zip": "69093-415",
+                    "country": "Brazil"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Brazil"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 4, 2020",
+        "study_first_submitted_qc": "April 8, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 8, 2020",
+        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Infection",
+                "Severe Acute Respiratory Syndrome",
+                "Coronavirus Infections",
+                "Pneumonia",
+                "Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Chloroquine",
+                "Chloroquine diphosphate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "all patient data will be shared after study publication",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Clinical Study Report (CSR)"
+            ],
+            "ipd_time_frame": "after study publication",
+            "ipd_access_criteria": "Upon formal request to researchers."
+        }
+    }
+}

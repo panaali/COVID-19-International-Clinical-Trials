@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "315",
+        "@rank": "341",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04333654"
         },
@@ -161,20 +161,36 @@
             "phone_ext": "option 6",
             "email": "Contact-US@sanofi.com"
         },
-        "location": {
-            "facility": {
-                "name": "Investigational site number 8401001",
-                "address": {
-                    "city": "Boston",
-                    "state": "Massachusetts",
-                    "zip": "02115",
-                    "country": "United States"
-                }
+        "location": [
+            {
+                "facility": {
+                    "name": "Investigational Site Number 8400001",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02115",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
             },
-            "status": "Recruiting"
-        },
+            {
+                "facility": {
+                    "name": "Investigational Site Number 2501001",
+                    "address": {
+                        "city": "Bordeaux Cedex",
+                        "zip": "33076",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            }
+        ],
         "location_countries": {
-            "country": "United States"
+            "country": [
+                "France",
+                "United States"
+            ]
         },
         "verification_date": "April 2020",
         "study_first_submitted": "April 1, 2020",
@@ -183,11 +199,11 @@
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 3, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

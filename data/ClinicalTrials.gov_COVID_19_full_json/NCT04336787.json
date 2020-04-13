@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "159",
+        "@rank": "240",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04336787"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "FADP-2",
             "nct_id": "NCT04336787"
         },
-        "brief_title": "Physical Activity Level, Stress Level, Sleep Quality in Covid-19 Quarantine",
-        "official_title": "Determination of Physical Activity, Sleep and Stress Level in the COVID-19 Quarantine Period",
+        "brief_title": "Physical Activity Level, Stress Level, Sleep Quality in Pregnant Women During Covid-19 Quarantine",
+        "official_title": "Determination Of Physical Activity, Sleep And Stress Level Of Pregnant Women In The Cov\u0131d-19 Quarantine Period",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Istanbul K\u00fclt\u00fcr University",
@@ -29,12 +29,15 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "The first COVID-19 case was detected on 10 March 2020 by the Ministry of Health Turkey. As a\n      result, universities were closed during the spring semester and various institutions\n      interrupted their activities. In addition, the concept of voluntary quarantine was brought to\n      the agenda and people were asked to stay home as much as possible, staying away from social\n      contact. This period, which is not certain how to proceed and we are at the beginning, has\n      affected the daily life routines.\n\n      Our hypothesis are:\n\n        -  During the COVID-19 epidemic, the sleep quality of individuals of different age groups\n           who live their daily lives at home decreases.\n\n        -  During the COVID-19 epidemic, the stress level of individuals of different age groups\n           who live their daily lives at home increases.\n\n        -  During the COVID-19 epidemic, the level of physical activity of individuals of different\n           age groups who live their daily lives at home decreases.\n\n      The aim of the study is to determine the sleep quality, stress level and physical activity\n      level of people of different age groups who maintain the home quarantine after the COVID-19\n      epidemic"
+            "textblock": "We hypothesized:\n\n      During the COVID-19 pandemic, the sleep quality of pregnant women decreases. During the\n      COVID-19 epidemic, the stress level of pregnant women increases. During the COVID-19\n      epidemic, the level of physical activity of pregnant women decreases.\n\n      Aims:\n\n      The aim of the study is to determine the sleep quality, stress level and physical activity\n      level of pregnant women who maintain the home quarantine during the COVID-19 pandemic."
+        },
+        "detailed_description": {
+            "textblock": "A novel coronavirus (COVID-19) first reported in Wuhan, China in December 2019. The COVID-19\n      has spread rapidly and posed a health threat of unknown magnitude globally. World Health\n      Organization (WHO) declared the new coronavirus outbreak is a public health emergency of\n      international concern on January 30, 2020 (1).\n\n      The first COVID-19 case was detected in Turkey on March 11, 2020, treatment-resistant cases\n      of pneumonia spread rapidly. Swift and protective measures have been taken to prevent the\n      spread of COVID-19. The protective measures included early diagnosis, public health\n      quarantine or physical isolation and symptomatic monitoring of contacts as well as confirmed\n      and suspended cases.\n\n      Quarantine or physical isolation, who may have or have been infected by a contagious disease\n      to control or limit contamination. Modern quarantine strategies include short- and\n      medium-term deadlocks, voluntary home curfew, cancellation of planned social and public\n      events, restrictions on the assembly of groups of people, closure of public transport systems\n      and other travel bans. Universities were closed during the spring semester and various\n      institutions interrupted their activities. In addition, people were asked to stay home as\n      much as possible to avoid unnecessary social contact. Pregnant women should take the same\n      precautions to avoid COVID-19 infection as other people.\n\n      Going early and regularly for prenatal care can help moms-to-be (and their babies) stay\n      healthy. Regular care lets doctors find and deal with any problems as soon as possible. It's\n      important to start prenatal care as early as possible - ideally, before a woman even becomes\n      pregnant. However, due to the increasing number of COVID-19 patients in Turkey, it is not\n      recommended to go to the hospitals unless it is obligatory. This is thought to be another\n      reason for anxiety in pregnant women, in addition to the hours spent at home for social\n      isolation. Moreover, the uncertainty of the hospital conditions can be thought as another\n      cause of stress among pregnant women in the last trimester.\n\n      Additionally, it is obvious that physical activity during pregnancy is beneficial for both\n      the woman and foetus. There is some evidence that physical activity during pregnancy is\n      associated with a reduced length of labor and delivery complications. Taking a brisk walk,\n      swimming and water workouts, low-impact aerobics classes, Yoga and Pilates classes are really\n      preferred. However, it is not possible to do such group exercises and outdoor sports due to\n      social isolation and it can affect the physical activity level of the pregnant women.\n\n      According to these informations, we hypothesized the followings:\n\n      During the COVID-19 pandemic, the sleep quality of pregnant women decreases. During the\n      COVID-19 epidemic, the stress level of pregnant women increases. During the COVID-19\n      epidemic, the level of physical activity of pregnant women decreases.\n\n      Aims:\n\n      The aim of the study is to determine the sleep quality, stress level and physical activity\n      level of pregnant women who maintain the home quarantine during the COVID-19 pandemic.\n\n        1. Sleep-wake hours of the pregnant women participating in our study will be questioned by\n           the questionnaire prepated by the study team.\n\n        2. Pain conditions of the participants of our study will be questioned with the questions\n           prepared and \"Visual Analogue Scale-VAS\",\n\n        3. The physical activity level of the pregnant women participating in the study will be\n           evaluated with the \"International Physical Activity Questionnaire -IPAQ\".\n\n        4. Since the pregnancy itself and the lifestyle after the pandemic is thought to cause\n           sleep disorder and stress, the stress level will be evaluated with the \"Perceived Stress\n           Scale\" and the sleep quality will be evaluated with the \"Pittsburg Sleep Quality Index\"."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "April 10, 2020"
+            "#text": "April 12, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -78,24 +81,25 @@
         },
         "condition": [
             "Covid-19",
-            "Coronavirus Infection"
+            "Coronavirus Infection",
+            "Pregnancy Related"
         ],
         "intervention": {
             "intervention_type": "Other",
             "intervention_name": "Survey",
-            "description": "A Google Survey which included that consent form, demographic information form, International Physical Activity Questionnaire, Pittsburgh Sleep Quality Index, Perceived Stress Scale will be created. Then the survey link will be shared via social media such as Whatsapp, Facebook, etc."
+            "description": "A Google Survey which included that consent form, demographic information form, International Physical Activity Questionnaire, Pittsburgh Sleep Quality Index, Perceived Stress Scale and The Numeric Rating Scale will be created. Then the survey link will be shared via social media such as Whatsapp, Facebook, etc."
         },
         "eligibility": {
             "study_pop": {
-                "textblock": "To assess the effect of social quarantine implementation that is for preventing COVID-19\n        infection in the Turkish community, Turkish people aged between 18-80 will participate in\n        the study."
+                "textblock": "Pregnant women, in different trimesters, who need to be active but have to stay at home\n        because of social quarantine implementation that is for preventing COVID-19 infection will\n        be evaluated."
             },
             "sampling_method": "Non-Probability Sample",
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  Volunteer to participate in the study\n\n          -  Aged > 18\n\n          -  Spending most of the day at home cause of the quarantine\n\n        Exclusion Criteria:\n\n          -  Aged < 18\n\n          -  Continuing to work at the office during the quarantine"
+                "textblock": "Inclusion Criteria:\n\n          -  Volunteer to participate in the study\n\n          -  Being pregnant\n\n          -  Aged between 18 - 45\n\n          -  To understand Turkish\n\n          -  Spend most of the day at home\n\n        Exclusion Criteria:\n\n          -  Risky pregnancy status"
             },
-            "gender": "All",
+            "gender": "Female",
             "minimum_age": "18 Years",
-            "maximum_age": "80 Years"
+            "maximum_age": "45 Years"
         },
         "overall_contact": {
             "last_name": "Ay\u015fe Zengin Alp\u00f6zgen, assistant professor",
@@ -150,11 +154,11 @@
             "@type": "Actual",
             "#text": "April 7, 2020"
         },
-        "last_update_submitted": "April 3, 2020",
-        "last_update_submitted_qc": "April 3, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",
@@ -168,7 +172,8 @@
             "quarantine",
             "sleep disorders",
             "stress level",
-            "physical activity level"
+            "physical activity level",
+            "pregnancy"
         ],
         "condition_browse": {
             "mesh_term": [

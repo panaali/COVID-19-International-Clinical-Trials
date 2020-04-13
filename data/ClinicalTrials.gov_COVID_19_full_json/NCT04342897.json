@@ -1,0 +1,188 @@
+{
+    "clinical_study": {
+        "@rank": "111",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342897"
+        },
+        "id_info": {
+            "org_study_id": "17824",
+            "secondary_id": "I7W-MC-UDAA",
+            "nct_id": "NCT04342897"
+        },
+        "brief_title": "A Study of LY3127804 in Participants With COVID-19",
+        "official_title": "A Randomized, Double-blind, Placebo-controlled, Clinical Trial of LY3127804 in Patients Who Are Hospitalized With Pneumonia and Presumed or Confirmed COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Eli Lilly and Company",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Eli Lilly and Company",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "A randomized, double-blind, placebo-controlled, clinical trial of LY3127804 in participants\n      who are hospitalized with pneumonia and presumed or confirmed COVID-19. The study may last up\n      to 9 weeks and include daily visits up to day 28, and follow-up visits by phone."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 18, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 10, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 10, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Number of Ventilator Free Days",
+            "time_frame": "Day 1 to Day 28",
+            "description": "Number of days on which a participant breathes without assistance"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of Participants Reporting Each Severity Rating on the National Institute of Allergy and Infectious Diseases (NIAID) Ordinal Assessment",
+                "time_frame": "Day 1 to Day 28",
+                "description": "The scale is an assessment of clinical status. The scale is as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities"
+            },
+            {
+                "measure": "Oxygen Saturation (SpO\u2082)",
+                "time_frame": "Day 1 to Day 28",
+                "description": "Oxygen Saturation"
+            },
+            {
+                "measure": "Oxygen Flow Rate",
+                "time_frame": "Day 1 to Day 28",
+                "description": "Oxygen Flow Rate"
+            },
+            {
+                "measure": "Mortality",
+                "time_frame": "Post First Dose Up to Day 28",
+                "description": "Mortality"
+            },
+            {
+                "measure": "Length of Hospitalization",
+                "time_frame": "Baseline up to at Least Week 6",
+                "description": "Days of Hospitalization"
+            },
+            {
+                "measure": "Number of Participants with any Serious Adverse Event (SAE)",
+                "time_frame": "Day 1 up to Day 60",
+                "description": "Number of Participants with any Serious Adverse Event (SAE)"
+            },
+            {
+                "measure": "Number of Participants with any Treatment Emergent Adverse Event (TEAE)",
+                "time_frame": "Day 1 up to Day 60",
+                "description": "Number of Participants with any Treatment Emergent Adverse Event (TEAE)"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": [
+            "COVID-19",
+            "Pneumonia"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "LY3127804",
+                "arm_group_type": "Experimental",
+                "description": "LY3127804 administered intravenously (IV), with standard of care treatment"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo administered IV, with standard of care treatment"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "LY3127804",
+                "description": "Administered IV",
+                "arm_group_label": "LY3127804"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Administered IV",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Are hospitalized with pneumonia, and presumed or confirmed COVID-19\n\n          -  Are able and willing to give signed informed consent (legally authorized\n             representative can provide informed consent if needed)\n\n        Exclusion Criteria:\n\n          -  Female participants must not be pregnant and/or lactating\n\n          -  Have Acute Respiratory Distress Syndrome (ARDS) or will require immediate intermittent\n             mandatory ventilation (IMV), or are ineligible for IMV\n\n          -  Have any concurrent serious medical condition (for example active malignancies on\n             chemotherapy, post organ transplant, dialysis) or concomitant medication that would\n             preclude participation in the study\n\n          -  Are moribund irrespective of the provision of treatments\n\n          -  Have a known history or show evidence of human immunodeficiency virus (HIV) and/or\n             hepatitis\n\n          -  Receiving full-dose anticoagulation therapy with warfarin or other anticoagulants\n\n          -  Have recently undergone major surgery or central venous access device placement\n\n          -  Have a significant bleeding disorder or vasculitis\n\n          -  Have experienced a thromboembolic event\n\n          -  Have symptomatic congestive heart failure, or symptomatic or poorly controlled cardiac\n             arrhythmia\n\n          -  Have a serious, nonhealing wound, peptic ulcer, or bone fracture\n\n          -  Have liver cirrhosis\n\n          -  Have a known sensitivity to monoclonal antibodies (mAbs) or other therapeutic proteins\n\n          -  Have a history of hypertensive crisis or hypertensive encephalopathy or current,\n             poorly controlled hypertension"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Call 1-877-CTLILLY (1-877-265-4559 or 1-317-615-4559) Mon - Fri 9AM - 5PM Eastern Time (UTC/GMT - 5 hours, EST)",
+            "role": "Study Director",
+            "affiliation": "Eli Lilly and Company"
+        },
+        "overall_contact": {
+            "last_name": "There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or",
+            "phone": "1-317-615-4559",
+            "email": "ClinicalTrials.gov@lilly.com"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Corona Virus Disease 19 (COVID-19)",
+            "2019 Novel Coronavirus (2019 n-COV)",
+            "Severe Acute Respiratory Syndrome (SARS)",
+            "Pulmonary Disease",
+            "SARS-CoV-2"
+        ],
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)",
+                "Clinical Study Report (CSR)"
+            ],
+            "ipd_time_frame": "Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting",
+            "ipd_access_criteria": "Data are available 6 months after the primary publication and approval of the indication studied in the US and EU, whichever is later. Data will be indefinitely available for requesting",
+            "ipd_url": "http://vivli.org/"
+        }
+    }
+}

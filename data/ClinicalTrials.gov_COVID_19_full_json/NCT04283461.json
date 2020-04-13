@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "397",
+        "@rank": "394",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04283461"
         },
@@ -11,7 +11,7 @@
             "secondary_id": "1UM1AI148373-01",
             "nct_id": "NCT04283461"
         },
-        "brief_title": "Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) for Prophylaxis SARS CoV-2 Infection",
+        "brief_title": "Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) for Prophylaxis SARS CoV-2 Infection (COVID-19)",
         "official_title": "Phase I, Open-Label, Dose-Ranging Study of the Safety and Immunogenicity of 2019-nCoV Vaccine (mRNA-1273) in Healthy Adults",
         "sponsors": {
             "lead_sponsor": {
@@ -204,17 +204,18 @@
             "@type": "Actual",
             "#text": "February 25, 2020"
         },
-        "last_update_submitted": "March 26, 2020",
-        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 30, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"
         },
         "keyword": [
             "2019-nCoV (mRNA-1273)",
+            "COVID-19",
             "Dose-escalation",
             "Immunogenicity",
             "novel coronavirus",

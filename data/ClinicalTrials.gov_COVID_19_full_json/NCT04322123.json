@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "379",
+        "@rank": "369",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04322123"
         },
@@ -10,7 +10,7 @@
             "org_study_id": "Brazil COVID Coalition I Trial",
             "nct_id": "NCT04322123"
         },
-        "brief_title": "Safety and Efficacy of Hydroxychloroquine Associated With Azythromycin in SARS-Cov-2 Virus",
+        "brief_title": "Safety and Efficacy of Hydroxychloroquine Associated With Azythromycin in SARS-Cov-2 Virus (COVID-19)",
         "acronym": "Coalition-I",
         "official_title": "An Open-label, Randomized Controlled Trial of Hydroxychloroquine and Azytromicyn for COVID-19 Infection on Hospitalized, Noncritical Patients",
         "sponsors": {
@@ -48,8 +48,8 @@
         },
         "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 6, 2020"
+            "@type": "Actual",
+            "#text": "April 1, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -171,12 +171,24 @@
             "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
-        "overall_official": {
-            "last_name": "Alexandre Biasi, PhD",
-            "role": "Principal Investigator",
-            "affiliation": "Hospital do Cora\u00e7\u00e3o"
-        },
+        "overall_official": [
+            {
+                "last_name": "Alexandre Biasi, PhD",
+                "role": "Study Chair",
+                "affiliation": "Hospital do Cora\u00e7\u00e3o"
+            },
+            {
+                "last_name": "Fernando G Zampieri",
+                "role": "Principal Investigator",
+                "affiliation": "Hospital do Cora\u00e7\u00e3o"
+            }
+        ],
         "overall_contact": {
+            "last_name": "Fernando G Zampieri, PhD",
+            "phone": "+55 11 99882-9343",
+            "email": "fzampieri@hcor.com.br"
+        },
+        "overall_contact_backup": {
             "last_name": "Alexandre Biasi, PhD",
             "phone": "+55 11 99882-9343",
             "email": "abiasi@hcor.com.br"
@@ -592,11 +604,11 @@
             "@type": "Actual",
             "#text": "March 26, 2020"
         },
-        "last_update_submitted": "April 5, 2020",
-        "last_update_submitted_qc": "April 5, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

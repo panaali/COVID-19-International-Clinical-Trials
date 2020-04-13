@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "345",
+        "@rank": "376",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04322396"
         },
@@ -182,19 +182,112 @@
             "phone": "004528938168",
             "email": "jens.ulrik.jensen@regionh.dk"
         },
-        "location": {
-            "facility": {
-                "name": "Herlev-Gentofte Hospital",
-                "address": {
-                    "city": "Copenhagen",
-                    "country": "Denmark"
+        "location": [
+            {
+                "facility": {
+                    "name": "Aalborg Sygehus",
+                    "address": {
+                        "city": "Aalborg",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ulla Weinreich"
                 }
             },
-            "status": "Recruiting",
-            "contact": {
-                "last_name": "Jens-Ulrik Jensen, MD, PhD"
+            {
+                "facility": {
+                    "name": "Bispebjerg Hospital",
+                    "address": {
+                        "city": "Copenhagen",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Therese Lapperre"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Herlev-Gentofte Hospital",
+                    "address": {
+                        "city": "Copenhagen",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jens-Ulrik Jensen, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hvidovre Hospital",
+                    "address": {
+                        "city": "Copenhagen",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Charlotte Ulrik"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Nordsj\u00e6llands Hospital",
+                    "address": {
+                        "city": "Hiller\u00f8d",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Andrea Browatzki"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Odense Universitetshospital",
+                    "address": {
+                        "city": "Odense",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Christian Laursen"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Roskilde Sygehus",
+                    "address": {
+                        "city": "Roskilde",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Christian Meyer"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Slagelse Sygehus",
+                    "address": {
+                        "city": "Slagelse",
+                        "country": "Denmark"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Uffe B\u00f8dtger"
+                }
             }
-        },
+        ],
         "location_countries": {
             "country": "Denmark"
         },
@@ -205,11 +298,11 @@
             "@type": "Actual",
             "#text": "March 26, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 9, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

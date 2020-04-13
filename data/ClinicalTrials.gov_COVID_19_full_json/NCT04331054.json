@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "184",
+        "@rank": "206",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04331054"
         },
@@ -142,7 +142,7 @@
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion criera :\n\n          -  Patient \u2265 18 years old and \u2264 75 years old\n\n          -  Laboratory proved infection by COVID-19 within 2 days\n\n          -  Hospitalization is required (based on investigator judgement)\n\n          -  Patient affiliated to a social security regime\n\n          -  Patient able to give free, informed and written consent\n\n        Exclusion criteria :\n\n          -  Oxygen flow rate >8l/min at inclusion\n\n          -  Current treatment with any inhaled steroid (any other form of steroid administration\n             does not exclude the patient)\n\n          -  Intensive care unit is required for the patient (based on investigator judgement)\n\n          -  Patient with cognitive impairment which do not guarantee proper use of the treatment\n             by the patient himself\n\n          -  Pregnant or breastfeeding women\n\n          -  Participation in another interventional drug study involving human participants and\n             concerning COVID-19 infection or being in the exclusion period of a previous study\n             involving human participants\n\n          -  Contraindications to the treatments (history of hypersensitivity)"
+                "textblock": "Inclusion criera :\n\n          -  Patient \u2265 18 years old and \u2264 75 years old\n\n          -  Laboratory proved infection by COVID-19 by RT-PCR on a nasopharyngeal sample within 2\n             days\n\n          -  Hospitalization is required according to current local recommendations\n\n          -  Patient affiliated to a social security regime\n\n          -  Patient able to give free, informed and written consent\n\n        Exclusion criteria :\n\n          -  Oxygen flow rate >8l/min at inclusion\n\n          -  Current treatment with any inhaled steroid (any other form of steroid administration\n             does not exclude the patient)\n\n          -  Intensive care unit is required for the patient (based on investigator judgement)\n\n          -  Patient with cognitive impairment which do not guarantee proper use of the treatment\n             by the patient himself\n\n          -  Pregnant (positive \u03b2-HCG at inclusion) or breastfeeding women\n\n          -  Participation in another interventional drug study involving human participants and\n             concerning COVID-19 infection or being in the exclusion period of a previous study\n             involving human participants\n\n          -  Contraindications to the treatments (history of hypersensitivity)\n\n          -  Patient admitted for isolation, for social reason or due to comorbidities without\n             gravity sign\n\n          -  Long-term patient treated with digitalis, disopyramide, procainamide or phenothiazine\n             that could lengthen the QT space"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -161,7 +161,7 @@
         },
         "overall_contact_backup": {
             "last_name": "Bruno CRESTANI, MD, PhD",
-            "phone": "+33 1 40 25 68 63",
+            "phone": "+33 1 40 25 68 00",
             "email": "bruno.crestani@aphp.fr"
         },
         "location": {
@@ -182,18 +182,18 @@
         "location_countries": {
             "country": "France"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 29, 2020",
         "study_first_submitted_qc": "April 1, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "April 2, 2020"
         },
-        "last_update_submitted": "April 1, 2020",
-        "last_update_submitted_qc": "April 1, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 2, 2020"
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "137",
+        "@rank": "154",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 10, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04342104"
         },
@@ -79,14 +79,29 @@
                 "description": "Patients on CPAP"
             }
         ],
-        "intervention": {
-            "intervention_type": "Other",
-            "intervention_name": "Monitoring for aggravation",
-            "description": "Monitor patients on CPAP or NIV and analyzing possible variables that may predict failure",
-            "arm_group_label": [
-                "CPAP",
-                "NIV"
-            ]
+        "intervention": [
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Monitoring for aggravation",
+                "description": "Monitor patients on CPAP or NIV and analyzing possible variables that may predict failure, namely:\nlymphopenia\nthrombocytopenia\nCRP\nferritin\nLDH\ntroponin I\nNT-ProBNP\nLiver enzymes\nD-dimers\nradiologic aggravation \" 1 day and 1 week after starting NIV or CPAP",
+                "arm_group_label": [
+                    "CPAP",
+                    "NIV"
+                ]
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Evaluate HACOR score effectivity in this patients",
+                "description": "Apply the HACOR score after starting NIV and CPAP and later verify if it was effective in predicting NIV/CPAP failure",
+                "arm_group_label": [
+                    "CPAP",
+                    "NIV"
+                ]
+            }
+        ],
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "Blood sample for biochemistry and blood count"
         },
         "eligibility": {
             "study_pop": {
@@ -101,6 +116,18 @@
             "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
+        "overall_official": [
+            {
+                "last_name": "Miguel Guia",
+                "role": "Principal Investigator",
+                "affiliation": "Hospital General Universitario Morales Meseguer"
+            },
+            {
+                "last_name": "Antonio Esquinas",
+                "role": "Study Director",
+                "affiliation": "Hospital General Universitario Morales Meseguer"
+            }
+        ],
         "overall_contact": {
             "last_name": "Miguel Guia",
             "phone": "00351915774975",
@@ -133,14 +160,14 @@
         "study_first_submitted": "April 8, 2020",
         "study_first_submitted_qc": "April 8, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 10, 2020"
         },
-        "last_update_submitted": "April 8, 2020",
-        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 10, 2020"
+            "#text": "April 13, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

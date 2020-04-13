@@ -1,0 +1,119 @@
+{
+    "clinical_study": {
+        "@rank": "177",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343781"
+        },
+        "id_info": {
+            "org_study_id": "ar20-0031v1",
+            "nct_id": "NCT04343781"
+        },
+        "brief_title": "National Survey of Symptoms of People Aged 70 and Overs Diagnosed With COVID-19",
+        "acronym": "COVID19PUGG2",
+        "official_title": "National Survey of Symptoms of People Aged 70 and Overs Diagnosed With COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Angers",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University Hospital, Angers",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Cross-sectional study based on a French national survey aimed to described and identify the\n      most frequent symptoms of COVID-19 older patients."
+        },
+        "detailed_description": {
+            "textblock": "This cross-sectional survey was initiated and conducted by the French Society of Geriatrics\n      and Gerontology. A standardized questionnaire was emailed to 1600 geriatrician members of the\n      French Society of Geriatrics and Gerontology throughout France between March 22, 2020 and\n      April 5, 2020. Geriatricians were asked to complete the survey for their last 10 patients\n      infected by the SARS-CoV-2. The study was declared to the Commission Nationale de\n      l'Informatique et des Libert\u00e9s (CNIL) under the number ar20-0031v1.\n\n      For each patient, demographic characteristics (age, gender, residence place, care place,\n      autonomy according to the Groupe Iso Ressource (GIR)), medical history (presence of major\n      neurocognitive disorder, hypertension, diabetes, asthma or chronic obstructive pulmonary\n      disease (COPD), heart pathology, severe renal failure with a clearance of creatinine under\n      30ml/min, solid or liquid cancer) were collected. The symptoms within de 72 hours of the\n      actual disease were also collected for each patient including geriatric syndromes (fall,\n      hypoactive or hyperactive delirium, altered general status, altered conscience), general\n      symptoms (temperature, blood pressure), respiratory symptoms (cough, polypnea), ear nose and\n      throat (ENT) symptoms (rhinorrhea, odynophagia, otalgia, conjunctivitis, ageusia or\n      dysgeusia, anosmia), digestive symptoms (diarrhea, nausea or vomiting), and blood formula\n      modification (leucopenia (with count if available), lymphopenia (with count if available),\n      thrombopenia (with count if available).\n\n      Procedure Data were collected by the physician who was in charge of the patient between March\n      22, 2020 and April 5, 2020.\n\n      Given the main objective of the study was only descriptive, no calculation was required\n      concerning the number of subjects to include in the study."
+        },
+        "overall_status": "Completed",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 22, 2020"
+        },
+        "completion_date": {
+            "@type": "Actual",
+            "#text": "April 5, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Actual",
+            "#text": "April 5, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Cross-Sectional"
+        },
+        "primary_outcome": {
+            "measure": "symptoms of COVID-19 in older patients",
+            "time_frame": "at baseline",
+            "description": "description and identification of symptoms presented by older patients with confirmed COVID-19"
+        },
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "353"
+        },
+        "condition": "SARS-CoV-2",
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "observation",
+            "description": "observation of clinical symptoms related to COVID-19 disease"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "all older French patients infected by SARS-CoV-2"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  confirmed COVID-19 defined by a positive RT-PCR to SARS-CoV-2\n\n        Exclusion Criteria:\n\n          -  none"
+            },
+            "gender": "All",
+            "minimum_age": "70 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "C\u00e9dric Annweiler, M.D., Ph.D.",
+            "role": "Principal Investigator",
+            "affiliation": "University Hospital, Angers"
+        },
+        "location": {
+            "facility": {
+                "name": "Angers University Hospital",
+                "address": {
+                    "city": "Angers",
+                    "zip": "49933 cedex 9",
+                    "country": "France"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

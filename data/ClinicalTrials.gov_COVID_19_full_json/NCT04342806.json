@@ -1,0 +1,159 @@
+{
+    "clinical_study": {
+        "@rank": "209",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04342806"
+        },
+        "id_info": {
+            "org_study_id": "Pro00105284",
+            "nct_id": "NCT04342806"
+        },
+        "brief_title": "Healthcare Worker Exposure Response and Outcomes (HERO) Registry Study, COVID-19",
+        "official_title": "Healthcare Worker Exposure Response and Outcomes (HERO) Registry Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Duke University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Patient-Centered Outcomes Research Institute",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Duke University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The HERO Registry provides a resource for collecting information on Healthcare Workers (HCWs)\n      currently working in the United States. The overall goal of the Registry is to develop the\n      infrastructure necessary to create and engage a community of HCWs who may be eligible for\n      participation in future research studies, including those of COVID-19 prophylaxis and\n      treatment."
+        },
+        "detailed_description": {
+            "textblock": "The HERO Registry provides a resource for collecting information on Healthcare Workers (HCWs)\n      currently working in the United States. The overall goal of the Registry is to create and\n      engage a community of HCWs who may be eligible for participation in future research studies,\n      including those of COVID-19 prophylaxis and treatment. The Hero registry will create a\n      repository of health care workers that can be eligible for future research studies. The main\n      objectives of the study are, 1) create a virtual community of adult HCWs in the United\n      States, 2) Identify HCWs interested in engaging in upcoming research studies, including those\n      related to COVID-19, and 3) Create a dataset of health related measurements, risk factors,\n      and outcomes for future analysis. The population of interest is adult healthcare workers in\n      the United States.\n\n      All analysis of the HERO Registry will be exploratory in nature. Analysis may include\n      descriptive statistics of the cohort, statistical associations between variables of interest,\n      and predictive modeling for health outcomes and behaviors. Analyses may be conducted on all\n      participants in the HERO Registry or may be conducted on subpopulations defined based on\n      clinical, demographic or other factors.\n\n      There is no direct benefit to the participants for their participation in this study, but the\n      information obtained will be used in scientific research and may be helpful to the\n      participant or others in the future. Participants may experience indirect benefits such as\n      learning about their own health, access to health data, and opportunities to participate in\n      future research."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2099"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2099"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "target_duration": "100 Years",
+        "primary_outcome": [
+            {
+                "measure": "Number and percent of participants who enroll in the HERO Registry Study by geographic region, age, COVID-19 risk factors, and past COVID-19 diagnosis",
+                "time_frame": "Up to 79 years"
+            },
+            {
+                "measure": "Distribution of COVID-19 risk factors by participant characteristics",
+                "time_frame": "Up to 79 years"
+            },
+            {
+                "measure": "Proportion of participants undergoing changes in health status (e.g. new diagnosis of COVID-19, ER visits, hospitalization)",
+                "time_frame": "Up to 79 years"
+            },
+            {
+                "measure": "Proportion of all participants enrolled in the HERO Registry who participate in an ancillary research study",
+                "time_frame": "Up to 79 years"
+            },
+            {
+                "measure": "Proportion of participants who continue to supple information about their health to the HERO Registry at various time points after their enrollment",
+                "time_frame": "Up to 79 years"
+            }
+        ],
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100000"
+        },
+        "condition": [
+            "Health Care Worker (HCW)",
+            "COVID-19"
+        ],
+        "arm_group": {
+            "arm_group_label": "HCWs currently working in the US",
+            "description": "The HERO Registry will include HCWs currently working across the United States. For the purposes of this study, a \"healthcare worker\" is defined as an individual who currently works in a setting where individuals receive healthcare. (Note: individuals do not have to work directly with patients, but may have any role within a setting where individuals receive healthcare, such as housekeeping, food service, etc.)"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "The HERO Registry will include HCWs currently working across the United States. For the\n        purposes of this study, a \"healthcare worker\" is defined as an individual who currently\n        works in a setting where individuals receive healthcare. (Note: individuals do not have to\n        work directly with patients, but may have any role within a setting where individuals\n        receive healthcare, such as housekeeping, food service, etc.)"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Individual currently works in a setting where individuals receive healthcare\n             (\"healthcare worker\") in the United States (including emergency medical services)\n\n          -  Age \u2265 18\n\n          -  Able to speak and read English or Spanish\n\n        Exclusion Criteria:\n\n        * There are no specific exclusion criteria for this study. Participants must meet inclusion\n        criteria."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "89 Years"
+        },
+        "overall_official": {
+            "last_name": "Emily O'Brien, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Duke University"
+        },
+        "overall_contact": {
+            "last_name": "Laura Webb",
+            "phone": "+1 919 668 8977",
+            "email": "laura.webb@duke.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Nina Y Hines",
+            "phone": "+1 919 668 3677",
+            "email": "nina.hines@duke.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Duke Clinical Research Institute",
+                "address": {
+                    "city": "Durham",
+                    "state": "North Carolina",
+                    "zip": "27701",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Laura Webb",
+                "phone": "919-668-8977",
+                "email": "laura.webb@duke.edu"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 13, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}
