@@ -1,0 +1,201 @@
+{
+    "clinical_study": {
+        "@rank": "225",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345601"
+        },
+        "id_info": {
+            "org_study_id": "H-47561 MSC for COVID-19",
+            "nct_id": "NCT04345601"
+        },
+        "brief_title": "Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure (COVID-19 Disease)",
+        "official_title": "Single Donor Third Party Bone Marrow Mesenchymal Stromal Cells for the Treatment of SARS-CoV-2 Induced Acute Respiratory Failure: A Pilot Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Baylor College of Medicine",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "Center for Cell and Gene Therapy, Baylor College of Medicine",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "The Methodist Hospital System",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Baylor College of Medicine",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a study for patients who have respiratory infection caused by SARS-CoV-2 that have\n      not gotten better. Because there is no standard treatment for this infection, patients are\n      being asked to volunteer for a gene transfer research study using mesenchymal stem cells\n      (MSCs).\n\n      Stem cells are cells that do not yet have a specific function in the body. Mesenchymal stem\n      cells (MSCs) are a type of stem cell that can be grown from bone marrow (the spongy tissue\n      inside of bones). Stem cells can develop into other types of more mature (specific) cells,\n      such as blood and muscle cells.\n\n      The purpose of this study is to see if MSCs can help to treat respiratory infections caused\n      by SARS-CoV-2."
+        },
+        "detailed_description": {
+            "textblock": "Earlier, a healthy donor provided blood cells to generate MSCs. These cells were grown and\n      frozen for later use.\n\n      Before being treated, the patient will receive a series of standard medical tests:\n\n        -  Physical exam and history\n\n        -  SARS-CoV-2 test\n\n        -  Blood tests\n\n        -  Chest X-ray or chest CT Scan\n\n        -  A urine pregnancy test, when applicable\n\n      These tests are done to assess the patient's eligibility to receive the cells. On the day\n      that the patient is scheduled to receive the cells they will be pre-medicated with Benadryl\n      and Tylenol. The patient will then receive a single intravenous (into the vein) infusion of 2\n      x 10^6 cells/kg of MSCs. The patient will be monitored closely for two hours after the\n      infusion.\n\n      The patient will receive standard medical tests when getting the infusion and afterwards. As\n      part of the research study, the patient will be evaluated daily for 7 days and then weekly at\n      weeks 2, 3, and 4. The evaluations that will be done at these visits include:\n\n        -  Physical exam and history\n\n        -  SARS-CoV-2 test\n\n        -  Blood tests\n\n        -  Chest X-ray or chest CT Scan"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "May 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 2022"
+        },
+        "phase": "Early Phase 1",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Incidence of unexpected adverse events",
+                "time_frame": "28 days post cell infusion",
+                "description": "Incidence of unexpected adverse events within 28 days following infusion of MSCs. Adverse events are graded by CTCAE version 5."
+            },
+            {
+                "measure": "Improved oxygen saturations \u226593%",
+                "time_frame": "Within 7 days of cell infusion",
+                "description": "Proportion of patients with improved oxygenation, defined as oxygen saturation >=93% on room air or no more than 5L of supplemental oxygen."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Decrease in oxygen supplementation by non-invasive or invasive interventions",
+                "time_frame": "Within 7 days of cell infusion",
+                "description": "Decrease in oxygen supplementation assessed by FiO2 % by non-invasive or invasive interventions from baseline to day 7."
+            },
+            {
+                "measure": "Frequency of progression to mechanical ventilation or ECMO",
+                "time_frame": "28 days post cell infusion",
+                "description": "Frequency of patients who progress using mechanical ventilation or ECMO"
+            },
+            {
+                "measure": "Duration of mechanical ventilation",
+                "time_frame": "Days from time of intubation to extubation or date of death, whichever occurs first, assessed up to 28 days post-infusion",
+                "description": "Days on mechanical ventilation"
+            },
+            {
+                "measure": "Duration of ICU stay",
+                "time_frame": "Days from admission to ICU to discharge from ICU or date of death, whichever occurs first, assessed up to 28 days post-infusion",
+                "description": "Days of ICU stay"
+            },
+            {
+                "measure": "Duration of hospital stay",
+                "time_frame": "Days from admission to hospital to discharge from hospital or date of death, whichever occurs first, assessed up to 28 days post-infusion",
+                "description": "Days of hospital stay"
+            },
+            {
+                "measure": "All-cause mortality at day 28",
+                "time_frame": "28 days post cell infusion",
+                "description": "Mortality rate from all causes at day 28"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": [
+            "Sars-CoV2",
+            "Acute Respiratory Distress Syndrome",
+            "COVID-19"
+        ],
+        "arm_group": {
+            "arm_group_label": "Mesenchymal stromal cells",
+            "arm_group_type": "Experimental",
+            "description": "This is a single arm study. One dose level will be evaluated."
+        },
+        "intervention": {
+            "intervention_type": "Genetic",
+            "intervention_name": "Mesenchymal Stromal Cells",
+            "description": "Patients will be given the cell product by intravenous injection (into the vein through an IV line). Dose:1 x 10^8 MSCs.",
+            "arm_group_label": "Mesenchymal stromal cells"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. 18 years or older\n\n          2. Confirmed SARS-CoV2 infection real-time reverse transcription polymerase chain\n             reaction (RT-PCR) assay\n\n          3. Respiratory distress or mild ARDS as evidenced by at least one of the following\n             criteria:\n\n               -  Respiratory rate \u226525/min\n\n               -  Oxygen saturation \u226492% on room air or at rest OR\n\n               -  PaO2/FiO2 \u2264300 and >200 mmHg\n\n        OR\n\n        4) Moderate to severe acute respiratory distress syndrome (ARDS), based on the degree of\n        impairment of oxygenation as defined by the ratio of arterial oxygen tension to fraction of\n        inspired oxygen (PaO2/FiO2). Based on the Berlin criteria noted below.\n\n          1. Moderate ARDS: PaO2/FiO2 100-200 mmHg, on ventilator settings that include PEEP \u22655 cm\n             H2O\n\n          2. Severe ARDS: PaO2/FiO2 \u2264100 mmHg on ventilator settings that include PEEP \u22655 cm H2O\n\n        AND\n\n          -  Bilateral opacities present on chest radiograph or computed tomographic (CT) scan,\n             that are not fully explained by pleural effusions, lung collapse, or lung nodules.\n\n          -  Respiratory failure not fully explained by cardiac failure or fluid overload.\n\n        Exclusion Criteria:\n\n          1. Currently receiving extracorporeal membrane oxygenation (ECMO)\n\n          2. Severe chronic respiratory disease requiring use of home oxygen\n\n          3. Pregnant or lactating\n\n          4. Known hypersensitivity to dimethyl sulfoxide (DMSO)\n\n          5. Unstable hemodynamics (ventricular tachycardia or fibrillation)\n\n          6. Uncontrolled bacterial or fungal co-infection\n\n          7. Any end-stage organ disease or condition, which in the opinion of the Investigator,\n             makes the patient an unsuitable candidate for treatment\n\n          8. Inability to obtain informed consent (from patient or legally appropriate proxy)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "LaQuisa Hill, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Baylor College of Medicine"
+        },
+        "overall_contact": {
+            "last_name": "LaQuisa Hill, MD",
+            "phone": "(713) 441-1450",
+            "email": "LaQuisa.Hill@bcm.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Houston Methodist Hospital",
+                "address": {
+                    "city": "Houston",
+                    "state": "Texas",
+                    "zip": "77030",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "LaQuisa Hill, MD",
+                "phone": "713-441-1450",
+                "email": "LaQuisa.Hill@bcm.edu"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Baylor College of Medicine",
+            "investigator_full_name": "LaQuisa Hill",
+            "investigator_title": "Assistant Professor"
+        },
+        "keyword": [
+            "Gene Therapy",
+            "Mesenchymal Stromal Cells",
+            "Respiratory failure"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Respiratory Distress Syndrome, Newborn",
+                "Respiratory Distress Syndrome, Adult",
+                "Respiratory Insufficiency",
+                "Acute Lung Injury"
+            ]
+        }
+    }
+}

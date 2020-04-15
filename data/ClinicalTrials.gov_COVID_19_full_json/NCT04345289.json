@@ -1,0 +1,605 @@
+{
+    "clinical_study": {
+        "@rank": "427",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345289"
+        },
+        "id_info": {
+            "org_study_id": "25032020",
+            "secondary_id": "2020-001367-88",
+            "nct_id": "NCT04345289"
+        },
+        "brief_title": "Efficacy and Safety of Novel Treatment Options for Adults With COVID-19 Pneumonia",
+        "acronym": "CCAP",
+        "official_title": "Efficacy and Safety of Novel Treatment Options for Adults With COVID-19 Pneumonia. A Double-blinded, Randomized, Multi-stage, 6-armed Placebo-controlled Trial in the Framework of an Adaptive Trial Platform",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Thomas Benfield",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Hvidovre University Hospital",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "CCAP is an investigator-initiated multicentre, randomized, double blinded,\n      placebo-controlled, multi-stage trial, which aims to assess the safety and efficacy of novel\n      treatment option of moderate-severe COVID-19.\n\n      Participants will be randomized 1:1:1:1:1:1 to parallel treatment arms: Convalescent plasma,\n      sarilumab, hydroxychloroquine, baricitinib, intravenous and subcutaneous placebo, or oral\n      placebo.\n\n      Primary outcome is a composite endpoint of all-cause mortality or need of invasive mechanical\n      ventilation up to 28 days."
+        },
+        "detailed_description": {
+            "textblock": "The study is a randomized, double blinded, placebo-controlled, multicenter, multi-stage study\n      with six parallel treatment arms consisting of either convalescent plasma, sarilumab,\n      hydroxychloroquine, baricitinib, intravenous and subcutaneous placebo, or oral placebo. We\n      plan to enroll 250 patients in each arm, with a total of 1500 patients yielding a statistical\n      power of 81 % to show a 40% relative reduction in risk of mechanical ventilation or death at\n      day 28. Patients with confirmed COVID-19 infection and signs compatible with pneumonia will\n      be enrolled in the study. The participants will be randomized 1:1:1:1:1:1 to the parallel\n      treatment arms, and depending on the randomization receive either single dose\n      injection/infusion treatment or oral treatment for 7 days.\n\n      The primary outcome is a composite endpoint of all-cause mortality or need of invasive\n      mechanical ventilation up to 28 days. Interim analysis will be performed frequently. We will\n      apply a win ratio matched approach to evaluate the primary endpoint"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 20, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 15, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 15, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Adaptive multi-arm trial comparing several different experimental treatments against two control groups. Interim analyses are included at 75 and 175 matched participants to compare the effect and safety of each experimental treatment to control (placebo). The results of the interim analyses are used to decide if one or more treatments should be discontinued due to either futility or harm. An arm is discontinued if either of the predefined stopping criteria are met. For the remaining arms, further patients are recruited until a decision has been reached or until a maximum number of patients is reached.\nAdditional experimental treatments may be added as they become available. Any efficacious treatment identified in this or any other high-quality RCT may become the new SOC after consensus by national and international societies, and, thus, the control arm will change accordingly and in parallel.",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",
+            "masking_description": "Infusion treatment (convalescent plasma and placebo) will be administered via a colored intravenous line with a colored sleeve disguising the fluid bag. Injective treatment (sarilumab and placebo) will be administered in a prepared syringe. Oral treatment (hydroxychloroquine, baricitinib placebo and active treatment) will be prepared in non-identifiable and identical capsules.\nIn order to achieve blinding of participants and treating personnel, patients randomized to active treatment will also receive placebo treatment."
+        },
+        "primary_outcome": {
+            "measure": "All-cause mortality or need of invasive mechanical ventilation",
+            "time_frame": "28 days",
+            "description": "Composite outcome"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Frequency of adverse events",
+                "time_frame": "90 days",
+                "description": "Number of participants with adverse events with possible relation to study drug"
+            },
+            {
+                "measure": "Frequency of severe adverse events",
+                "time_frame": "90 days",
+                "description": "Number of participants with serious adverse events according to International Council of Harmonisation-Good Clinical Practice (ICH-GCP) guidelines"
+            },
+            {
+                "measure": "Time to improvement of at least 2 categories relative to baseline on a 7-category ordinal scale of clinical status",
+                "time_frame": "90 days",
+                "description": "Number of days to improvement of at least 2 categories relative to baseline on the ordinal scale. Categories are as follows: Death; Hospitalized, in intensive care requiring Extracorporeal Membrane Oxygenation (ECMO) or mechanical ventilation; Hospitalized, on non-invasive ventilation or high-flow oxygen device; Hospitalized, requiring supplemental oxygen; Hospitalized, not requiring supplemental oxygen; Not hospitalized, limitation on activities and/or requiring home oxygen; Not hospitalized, no limitations on activities"
+            },
+            {
+                "measure": "Ventilator-free days",
+                "time_frame": "28 days",
+                "description": "Number of days without mechanical ventilation"
+            },
+            {
+                "measure": "Organ failure-free days",
+                "time_frame": "28 days",
+                "description": "Number of days without organ-failure"
+            },
+            {
+                "measure": "Duration of ICU stay",
+                "time_frame": "90 days",
+                "description": "Number of days in ICU"
+            },
+            {
+                "measure": "Mortality rate",
+                "time_frame": "7, 14, 21, 28 and 90 days",
+                "description": "Number of deaths by any cause"
+            },
+            {
+                "measure": "Length of hospital stay",
+                "time_frame": "90 days",
+                "description": "Days from the date of hospital admission for COVID-19 to the date of discharge"
+            },
+            {
+                "measure": "Duration of supplemental oxygen",
+                "time_frame": "90 days",
+                "description": "Days requiring supplement oxygen"
+            }
+        ],
+        "number_of_arms": "6",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1500"
+        },
+        "condition": [
+            "COVID",
+            "Corona Virus Infection",
+            "Viral Pneumonia"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Convalescent plasma",
+                "arm_group_type": "Active Comparator",
+                "description": "Will receive active treatment with convalescent anti-SARS-CoV-2 plasma (600 ml) as a single dose iv infusion + placebo treatment with saline 0.9% (1.14 mL) as a single sc injection, in addition to standard care."
+            },
+            {
+                "arm_group_label": "Sarilumab",
+                "arm_group_type": "Active Comparator",
+                "description": "Will receive active treatment with sarilumab (200 mg) as a single sc injection + placebo treatment with saline 0.9% (600 ml) as a single dose iv infusion, in addition to standard care."
+            },
+            {
+                "arm_group_label": "Injective placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Will receive placebo treatment with saline 0.9% (600 ml) as an iv single dose infusion + placebo treatment with saline 0.9% (1.14 mL) as a single sc injection, in addition to standard care."
+            },
+            {
+                "arm_group_label": "Hydroxychloroquine",
+                "arm_group_type": "Active Comparator",
+                "description": "Will receive active treatment with hydroxychloroquine (600 mg) as a daily oral administration for 7 days in addition to standard care."
+            },
+            {
+                "arm_group_label": "Baricitinib",
+                "arm_group_type": "Active Comparator",
+                "description": "Will receive active treatment with baricitinib (4 mg) as oral administration for 7 days + oral placebo treatment for 7 days, in addition to standard care."
+            },
+            {
+                "arm_group_label": "Oral placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Will receive placebo treatment with three glucose monohydrate placebo capsules daily for 7 days, in addition to standard care."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "Convalescent anti-SARS-CoV-2 plasma",
+                "description": "Single infusion of convalescent anti-SARS-CoV-2 plasma (2 x 300 mL)",
+                "arm_group_label": "Convalescent plasma",
+                "other_name": "Convalescent plasma"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Sarilumab",
+                "description": "Pre-filled syringe 200 mg (1.14 mL) as a single dose",
+                "arm_group_label": "Sarilumab",
+                "other_name": "Kevazara"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Baricitinib",
+                "description": "Tablets 4 mg/day for 7 days",
+                "arm_group_label": "Baricitinib",
+                "other_name": "Olumiant"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "Tablets 600 mg/day for 7 days",
+                "arm_group_label": "Hydroxychloroquine",
+                "other_name": "Plaquenil"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Injective placebo",
+                "description": "Saline 0.9% (600 ml) as an iv single dose infusion + placebo treatment with saline 0.9% (1.14 mL) as a single sc injection",
+                "arm_group_label": "Injective placebo"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Oral placebo",
+                "description": "Three glucose monohydrate placebo capsules daily for 7 days",
+                "arm_group_label": "Oral placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  \u226518 years of age\n\n          -  Confirmed COVID-19 infection by presence of SARS-CoV-2 nucleic acid by polymerase\n             chain reaction (PCR)\n\n          -  Evidence of pneumonia given by at least one of the following: SpO2 \u226493% on ambient air\n             or PaO2/FiO2 <300 mmHg/40 kPa OR Radiographic findings compatible with COVID-19\n             pneumonia\n\n          -  Onset of first experienced symptom, defined as one respiratory symptom or fever, no\n             more than 10 days before admission\n\n          -  For women of childbearing potential: Negative pregnancy test and willingness to use\n             contraceptive (consistent with local regulations) during study period\n\n          -  Signed Informed Consent Form by any patient capable of giving consent, or, when the\n             patient is not capable of giving consent, by his or her legal/authorized\n             representatives\n\n        Exclusion Criteria:\n\n          -  In the opinion of the investigator, progression to death is imminent and inevitable\n             within the next 24 hours, irrespective of the provision of treatment\n\n          -  History of allergic reaction to study drug (as judged by the site investigator)\n\n          -  Participating in other drug clinical trials (participation in COVID-19 antiviral\n             trials may be permitted if approved by sponsor)*\n\n          -  Pregnant or breastfeeding, positive pregnancy test in a pre-dose examination or\n             patients family planning within three months after receiving study agent\n\n          -  Estimated glomerular filtration (eGFR) <30 ml/min\n\n          -  Severe liver dysfunction (Child Pugh score C)\n\n          -  Known history of the following medical conditions: Active or latent tuberculosis (TB)\n             or history of incompletely treated TB; Chronic hepatitis B or C infection; Retinopathy\n             or maculopathy; Neurogenic hearing impairment\n\n          -  Presence of any of the following abnormal laboratory values at screening: Absolute\n             neutrophil count (ANC) less than 1000 mm3 (= 1,0 x 10\u2079 /L); Alanine aminotransferase\n             (ALT) greater than 5 x upper limit of normal (ULN); Platelet count <50,000 per mm3 (=\n             50 x 10\u2079 /L)\n\n          -  Immunosuppression, defined as following: Treatment with immunosuppressive agents,\n             chemotherapy or immunomodulatory drugs within 30 days prior to inclusion; Use of\n             chronic oral corticosteroids for a non-COVID-19-related condition in a dose higher\n             than prednisolone 20 mg or equivalent per day for 4 weeks; Ongoing chemotherapy\n\n          -  Any serious medical condition or abnormality of clinical laboratory tests that, in the\n             investigator's judgment, precludes the patient's safe participation in and completion\n             of the study"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Sandra Hansen, MD",
+                "role": "Study Director",
+                "affiliation": "Hvidovre University Hospital"
+            },
+            {
+                "last_name": "Simone Bastrup Israelsen, MD",
+                "role": "Study Director",
+                "affiliation": "Hvidovre University Hospital"
+            },
+            {
+                "last_name": "Louise Thorlacius-Ussing, MD",
+                "role": "Study Director",
+                "affiliation": "Hvidovre University Hospital"
+            },
+            {
+                "last_name": "Karen Brorup Heje Pedersen, MD",
+                "role": "Study Director",
+                "affiliation": "Hvidovre University Hospital"
+            },
+            {
+                "last_name": "Clara Clausen, MD",
+                "role": "Study Director",
+                "affiliation": "Hvidovre University Hospital"
+            },
+            {
+                "last_name": "Michaela Tinggaard, MD",
+                "role": "Study Director",
+                "affiliation": "Hvidovre University Hospital"
+            },
+            {
+                "last_name": "Nichlas Hovmand, MD",
+                "role": "Study Director",
+                "affiliation": "Hvidovre University Hospital"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Thomas Benfield, MD, DMSc",
+            "phone": "+45 38622302",
+            "email": "thomas.lars.benfield@regionh.dk"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Aalborg University Hospital",
+                    "address": {
+                        "city": "Aalborg",
+                        "country": "Denmark"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Aarhus University Hospital",
+                    "address": {
+                        "city": "Arhus",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Lars \u00d8stergaard, MD, DMSc"
+                },
+                "contact_backup": {
+                    "email": "larsoest@rm.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Bispebjerg Hospital",
+                    "address": {
+                        "city": "Copenhagen",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Stine Johnsen, MD, PhD",
+                    "email": "stine.johnsen.01@regionh.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Rigshospitalet",
+                    "address": {
+                        "city": "Copenhagen",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Jan Gerstoft, MD, DMSc"
+                },
+                "contact_backup": {
+                    "email": "jan.gerstoft@regionh.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Herlev Gentofte Hospital",
+                    "address": {
+                        "city": "Herlev",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Kasper Iversen, MD, DMSc",
+                    "email": "kasper.karmark.iversen@regionh.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Herning Hospital",
+                    "address": {
+                        "city": "Herning",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Rajesh Mohey, MD, PhD",
+                    "email": "rajemohe@rm.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Nordsj\u00e6llands Hospital",
+                    "address": {
+                        "city": "Hiller\u00f8d",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Birgitte Lindegaard Madsen, MD, PhD",
+                    "email": "birgitte.lindegaard.madsen@regionh.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hvidovre Hospital",
+                    "address": {
+                        "city": "Hvidovre",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Thomas Benfield, MD, DMSc",
+                    "phone": "+4538622302",
+                    "email": "thomas.lars.benfield@regionh.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Kolding Hospital",
+                    "address": {
+                        "city": "Kolding",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Janne Jensen, MD, PhD",
+                    "email": "janne.jensen@rsyd.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Odense University Hospital",
+                    "address": {
+                        "city": "Odense",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Isik Johansen, MD, DMSc",
+                    "email": "isik.somuncu.johansen@rsyd.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Roskilde Hospital",
+                    "address": {
+                        "city": "Roskilde",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Lothar Wiese, MD, PhD",
+                    "email": "low@regionsjaelland.dk"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Vejle Hospital",
+                    "address": {
+                        "city": "Vejle",
+                        "country": "Denmark"
+                    }
+                },
+                "contact": {
+                    "last_name": "Ole Hilberg, MD, DMSc",
+                    "email": "ole.hilberg@rsyd.dk"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Denmark"
+        },
+        "reference": [
+            {
+                "citation": "World Health Organization. Coronavirus disease 2019 (COVID-19) - Situation Report 67. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200327-sitrep-67-covid-19.pdf?sfvrsn=b65f68eb_4."
+            },
+            {
+                "citation": "Cameron MJ, Bermejo-Martin JF, Danesh A, Muller MP, Kelvin DJ. Human immunopathogenesis of severe acute respiratory syndrome (SARS). Virus Res. 2008 Apr;133(1):13-9. Epub 2007 Mar 19.",
+                "PMID": "17374415"
+            },
+            {
+                "citation": "Matthay MA, Ware LB, Zimmerman GA. The acute respiratory distress syndrome. J Clin Invest. 2012 Aug;122(8):2731-40. doi: 10.1172/JCI60331. Epub 2012 Aug 1. Review.",
+                "PMID": "22850883"
+            },
+            {
+                "citation": "Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol. 2017 Jul;39(5):529-539. doi: 10.1007/s00281-017-0629-x. Epub 2017 May 2. Review.",
+                "PMID": "28466096"
+            },
+            {
+                "citation": "Li Y, Chen M, Cao H, Zhu Y, Zheng J, Zhou H. Extraordinary GU-rich single-strand RNA identified from SARS coronavirus contributes an excessive innate immune response. Microbes Infect. 2013 Feb;15(2):88-95. doi: 10.1016/j.micinf.2012.10.008. Epub 2012 Oct 30.",
+                "PMID": "23123977"
+            },
+            {
+                "citation": "Cao B, Wang Y, Wen D, Liu W, Wang J, Fan G, Ruan L, Song B, Cai Y, Wei M, Li X, Xia J, Chen N, Xiang J, Yu T, Bai T, Xie X, Zhang L, Li C, Yuan Y, Chen H, Li H, Huang H, Tu S, Gong F, Liu Y, Wei Y, Dong C, Zhou F, Gu X, Xu J, Liu Z, Zhang Y, Li H, Shang L, Wang K, Li K, Zhou X, Dong X, Qu Z, Lu S, Hu X, Ruan S, Luo S, Wu J, Peng L, Cheng F, Pan L, Zou J, Jia C, Wang J, Liu X, Wang S, Wu X, Ge Q, He J, Zhan H, Qiu F, Guo L, Huang C, Jaki T, Hayden FG, Horby PW, Zhang D, Wang C. A Trial of Lopinavir-Ritonavir in Adults Hospitalized with Severe Covid-19. N Engl J Med. 2020 Mar 18. doi: 10.1056/NEJMoa2001282. [Epub ahead of print]",
+                "PMID": "32187464"
+            },
+            {
+                "citation": "Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies. Biosci Trends. 2020 Mar 16;14(1):72-73. doi: 10.5582/bst.2020.01047. Epub 2020 Feb 19.",
+                "PMID": "32074550"
+            },
+            {
+                "citation": "Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, Shi Z, Hu Z, Zhong W, Xiao G. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. 2020 Mar;30(3):269-271. doi: 10.1038/s41422-020-0282-0. Epub 2020 Feb 4.",
+                "PMID": "32020029"
+            },
+            {
+                "citation": "Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J Antimicrob Agents. 2020 Mar 11:105938. doi: 10.1016/j.ijantimicag.2020.105938. [Epub ahead of print]",
+                "PMID": "32171740"
+            },
+            {
+                "citation": "Luke TC, Kilbane EM, Jackson JL, Hoffman SL. Meta-analysis: convalescent blood products for Spanish influenza pneumonia: a future H5N1 treatment? Ann Intern Med. 2006 Oct 17;145(8):599-609. Epub 2006 Aug 29.",
+                "PMID": "16940336"
+            },
+            {
+                "citation": "Hung IF, To KK, Lee CK, Lee KL, Chan K, Yan WW, Liu R, Watt CL, Chan WM, Lai KY, Koo CK, Buckley T, Chow FL, Wong KK, Chan HS, Ching CK, Tang BS, Lau CC, Li IW, Liu SH, Chan KH, Lin CK, Yuen KY. Convalescent plasma treatment reduced mortality in patients with severe pandemic influenza A (H1N1) 2009 virus infection. Clin Infect Dis. 2011 Feb 15;52(4):447-56. doi: 10.1093/cid/ciq106. Epub 2011 Jan 19.",
+                "PMID": "21248066"
+            },
+            {
+                "citation": "Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw FM, Lim WS, Makki S, Rooney KD, Nguyen-Van-Tam JS, Beck CR; Convalescent Plasma Study Group. The effectiveness of convalescent plasma and hyperimmune immunoglobulin for the treatment of severe acute respiratory infections of viral etiology: a systematic review and exploratory meta-analysis. J Infect Dis. 2015 Jan 1;211(1):80-90. doi: 10.1093/infdis/jiu396. Epub 2014 Jul 16. Review.",
+                "PMID": "25030060"
+            },
+            {
+                "citation": "Taylor PC, Keystone EC, van der Heijde D, Weinblatt ME, Del Carmen Morales L, Reyes Gonzaga J, Yakushin S, Ishii T, Emoto K, Beattie S, Arora V, Gaich C, Rooney T, Schlichting D, Macias WL, de Bono S, Tanaka Y. Baricitinib versus Placebo or Adalimumab in Rheumatoid Arthritis. N Engl J Med. 2017 Feb 16;376(7):652-662. doi: 10.1056/NEJMoa1608345.",
+                "PMID": "28199814"
+            },
+            {
+                "citation": "Wu D, Yang XO. TH17 responses in cytokine storm of COVID-19: An emerging target of JAK2 inhibitor Fedratinib. J Microbiol Immunol Infect. 2020 Mar 11. pii: S1684-1182(20)30065-7. doi: 10.1016/j.jmii.2020.03.005. [Epub ahead of print]",
+                "PMID": "32205092"
+            },
+            {
+                "citation": "Stebbing J, Phelan A, Griffin I, Tucker C, Oechsle O, Smith D, Richardson P. COVID-19: combining antiviral and anti-inflammatory treatments. Lancet Infect Dis. 2020 Feb 27. pii: S1473-3099(20)30132-8. doi: 10.1016/S1473-3099(20)30132-8. [Epub ahead of print]",
+                "PMID": "32113509"
+            },
+            {
+                "citation": "Casadevall A, Pirofski LA. The convalescent sera option for containing COVID-19. J Clin Invest. 2020 Mar 13. pii: 138003. doi: 10.1172/JCI138003. [Epub ahead of print]",
+                "PMID": "32167489"
+            },
+            {
+                "citation": "Cunningham AC, Goh HP, Koh D. Treatment of COVID-19: old tricks for new challenges. Crit Care. 2020 Mar 16;24(1):91. doi: 10.1186/s13054-020-2818-6.",
+                "PMID": "32178711"
+            },
+            {
+                "citation": "Cheng Y, Wong R, Soo YO, Wong WS, Lee CK, Ng MH, Chan P, Wong KC, Leung CB, Cheng G. Use of convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin Microbiol Infect Dis. 2005 Jan;24(1):44-6.",
+                "PMID": "15616839"
+            },
+            {
+                "citation": "Soo YO, Cheng Y, Wong R, Hui DS, Lee CK, Tsang KK, Ng MH, Chan P, Cheng G, Sung JJ. Retrospective comparison of convalescent plasma with continuing high-dose methylprednisolone treatment in SARS patients. Clin Microbiol Infect. 2004 Jul;10(7):676-8.",
+                "PMID": "15214887"
+            },
+            {
+                "citation": "Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, Wang F, Li D, Yang M, Xing L, Wei J, Xiao H, Yang Y, Qu J, Qing L, Chen L, Xu Z, Peng L, Li Y, Zheng H, Chen F, Huang K, Jiang Y, Liu D, Zhang Z, Liu Y, Liu L. Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma. JAMA. 2020 Mar 27. doi: 10.1001/jama.2020.4783. [Epub ahead of print]",
+                "PMID": "32219428"
+            },
+            {
+                "citation": "Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, Yu J, Kang M, Song Y, Xia J, Guo Q, Song T, He J, Yen HL, Peiris M, Wu J. SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients. N Engl J Med. 2020 Mar 19;382(12):1177-1179. doi: 10.1056/NEJMc2001737. Epub 2020 Feb 19.",
+                "PMID": "32074444"
+            },
+            {
+                "citation": "Zhang Y, Li J, Zhan Y, Wu L, Yu X, Zhang W, Ye L, Xu S, Sun R, Wang Y, Lou J. Analysis of serum cytokines in patients with severe acute respiratory syndrome. Infect Immun. 2004 Aug;72(8):4410-5.",
+                "PMID": "15271897"
+            },
+            {
+                "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
+                "PMID": "32007143"
+            },
+            {
+                "citation": "Pelechas E, Voulgari PV, Drosos AA. Clinical evaluation of the safety, efficacy and tolerability of sarilumab in the treatment of moderate to severe rheumatoid arthritis. Ther Clin Risk Manag. 2019 Sep 4;15:1073-1079. doi: 10.2147/TCRM.S167452. eCollection 2019.",
+                "PMID": "31564885"
+            },
+            {
+                "citation": "Vincent MJ, Bergeron E, Benjannet S, Erickson BR, Rollin PE, Ksiazek TG, Seidah NG, Nichol ST. Chloroquine is a potent inhibitor of SARS coronavirus infection and spread. Virol J. 2005 Aug 22;2:69.",
+                "PMID": "16115318"
+            },
+            {
+                "citation": "Klumperman J, Locker JK, Meijer A, Horzinek MC, Geuze HJ, Rottier PJ. Coronavirus M proteins accumulate in the Golgi complex beyond the site of virion budding. J Virol. 1994 Oct;68(10):6523-34.",
+                "PMID": "8083990"
+            },
+            {
+                "citation": "Gay B, Bernard E, Solignat M, Chazal N, Devaux C, Briant L. pH-dependent entry of chikungunya virus into Aedes albopictus cells. Infect Genet Evol. 2012 Aug;12(6):1275-81. doi: 10.1016/j.meegid.2012.02.003. Epub 2012 Feb 20.",
+                "PMID": "22386853"
+            },
+            {
+                "citation": "multicenter collaboration group of Department of Science and Technology of Guangdong Province and Health Commission of Guangdong Province for chloroquine in the treatment of novel coronavirus pneumonia. [Expert consensus on chloroquine phosphate for the treatment of novel coronavirus pneumonia]. Zhonghua Jie He He Hu Xi Za Zhi. 2020 Mar 12;43(3):185-188. doi: 10.3760/cma.j.issn.1001-0939.2020.03.009. Chinese.",
+                "PMID": "32164085"
+            },
+            {
+                "citation": "Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Mailhe M, Doudier B, Courjon J, Giordanengo V, Vieira VE, Dupont HT, Honor\u00e9 S, Colson P, Chabri\u00e8re E, La Scola B, Rolain JM, Brouqui P, Raoult D. Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial. Int J Antimicrob Agents. 2020 Mar 20:105949. doi: 10.1016/j.ijantimicag.2020.105949. [Epub ahead of print]",
+                "PMID": "32205204"
+            },
+            {
+                "citation": "Yao X, Ye F, Zhang M, Cui C, Huang B, Niu P, Liu X, Zhao L, Dong E, Song C, Zhan S, Lu R, Li H, Tan W, Liu D. In Vitro Antiviral Activity and Projection of Optimized Dosing Design of Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Clin Infect Dis. 2020 Mar 9. pii: ciaa237. doi: 10.1093/cid/ciaa237. [Epub ahead of print]",
+                "PMID": "32150618"
+            },
+            {
+                "citation": "Jaki T, Wason JMS. Multi-arm multi-stage trials can improve the efficiency of finding effective treatments for stroke: a case study. BMC Cardiovasc Disord. 2018 Nov 27;18(1):215. doi: 10.1186/s12872-018-0956-4.",
+                "PMID": "30482176"
+            },
+            {
+                "citation": "Cordon-Cardo C, Lloyd KO, Finstad CL, McGroarty ME, Reuter VE, Bander NH, Old LJ, Melamed MR. Immunoanatomic distribution of blood group antigens in the human urinary tract. Influence of secretor status. Lab Invest. 1986 Oct;55(4):444-54.",
+                "PMID": "2429066"
+            },
+            {
+                "citation": "Vincent JL, Moreno R, Takala J, Willatts S, De Mendon\u00e7a A, Bruining H, Reinhart CK, Suter PM, Thijs LG. The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996 Jul;22(7):707-10.",
+                "PMID": "8844239"
+            },
+            {
+                "citation": "Distler P. ISBT 128: a global information standard. Cell Tissue Bank. 2010 Nov;11(4):365-73. doi: 10.1007/s10561-010-9196-2. Epub 2010 Jul 21.",
+                "PMID": "20652420"
+            },
+            {
+                "citation": "Clegg DO, Dietz F, Duffy J, Willkens RF, Hurd E, Germain BF, Wall B, Wallace DJ, Bell CL, Sleckman J. Safety and efficacy of hydroxychloroquine as maintenance therapy for rheumatoid arthritis after combination therapy with methotrexate and hydroxychloroquine. J Rheumatol. 1997 Oct;24(10):1896-902.",
+                "PMID": "9330929"
+            },
+            {
+                "citation": "Middelburg RA, Van Stein D, Zupanska B, Uhrynowska M, Gajic O, Mu\u00f1iz-Diaz E, Galvez NN, Silliman CC, Krusius T, Wallis JP, Vandenbroucke JP, Bri\u00ebt E, Van Der Bom JG. Female donors and transfusion-related acute lung injury: A case-referent study from the International TRALI Unisex Research Group. Transfusion. 2010 Nov;50(11):2447-54. doi: 10.1111/j.1537-2995.2010.02715.x.",
+                "PMID": "20529001"
+            },
+            {
+                "citation": "Lamb YN, Deeks ED. Sarilumab: A Review in Moderate to Severe Rheumatoid Arthritis. Drugs. 2018 Jun;78(9):929-940. doi: 10.1007/s40265-018-0929-z. Review.",
+                "PMID": "29931592"
+            },
+            {
+                "citation": "Pocock SJ, Ariti CA, Collier TJ, Wang D. The win ratio: a new approach to the analysis of composite endpoints in clinical trials based on clinical priorities. Eur Heart J. 2012 Jan;33(2):176-82. doi: 10.1093/eurheartj/ehr352. Epub 2011 Sep 6.",
+                "PMID": "21900289"
+            },
+            {
+                "citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]",
+                "PMID": "32031570"
+            },
+            {
+                "citation": "Rodriguez-Morales AJ, Cardona-Ospina JA, Guti\u00e9rrez-Ocampo E, Villamizar-Pe\u00f1a R, Holguin-Rivera Y, Escalera-Antezana JP, Alvarado-Arnez LE, Bonilla-Aldana DK, Franco-Paredes C, Henao-Martinez AF, Paniz-Mondolfi A, Lagos-Grisales GJ, Ram\u00edrez-Vallejo E, Su\u00e1rez JA, Zambrano LI, Villamil-G\u00f3mez WE, Balbin-Ramon GJ, Rabaan AA, Harapan H, Dhama K, Nishiura H, Kataoka H, Ahmad T, Sah R; Latin American Network of Coronavirus Disease 2019-COVID-19 Research (LANCOVID-19). Electronic address: https://www.lancovid.org. Clinical, laboratory and imaging features of COVID-19: A systematic review and meta-analysis. Travel Med Infect Dis. 2020 Mar 13:101623. doi: 10.1016/j.tmaid.2020.101623. [Epub ahead of print] Review.",
+                "PMID": "32179124"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Hvidovre University Hospital",
+            "investigator_full_name": "Thomas Benfield",
+            "investigator_title": "Professor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Pneumonia, Viral",
+                "Pneumonia",
+                "Virus Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

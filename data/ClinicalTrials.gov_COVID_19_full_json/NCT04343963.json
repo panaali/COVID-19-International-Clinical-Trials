@@ -1,0 +1,232 @@
+{
+    "clinical_study": {
+        "@rank": "194",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343963"
+        },
+        "id_info": {
+            "org_study_id": "Inf-3323",
+            "nct_id": "NCT04343963"
+        },
+        "brief_title": "Pyridostigmine in Severe SARS-CoV-2 Infection",
+        "acronym": "PISCO",
+        "official_title": "Pyridostigmine in Patients With Severe Acute Respiratory Syndrome Secondary to SARS-CoV-2 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "In brief, we will evaluate low-dose pyridostigmine as add-on therapy to best medical care in\n      patients with SARS-CoV-2 infection who require hospitalization and have at least one of the\n      criteria considered serious. Our hypothesis is that, in comparison to the placebo,\n      pyridostigmine will reduce in at least 10% a composite outcome (death, the requirement for\n      mechanical ventilation, or an increase of 2 points in the SOFA score) by day 28. Our\n      secondary outcome will be the decrease of circulating IL-6 levels from baseline sample to\n      post-intervention day 7.\n\n      In recent publications of the initial outbreak in Wuhan, it was described that between 25%\n      and 33% of patients hospitalized for COVID-19 were admitted to intensive care units (ICU) for\n      severe hypoxemia. The reported mortality in those first cases that required hospital\n      management is 15%, but in those with severe disease, the reported mortality is between 38%\n      and 49%. So far, there is no pharmacological therapeutic (or else) strategy known to reduce\n      morbidity and mortality in these patients. Mortality in COVID-19 appears to be mediated not\n      necessarily by the direct effect of the infection, but by the disproportionate inflammatory\n      response of the host.\n\n      Pyridostigmine is an old drug that, by inhibiting acetylcholine-esterase, the enzymatic\n      machinery that degrades acetylcholine (ACh), results in increased ACh bioavailability. ACh,\n      in turn, ligates to nicotinic-alpha7 receptors in macrophages and T cells, resulting in\n      reduced overactivation of these immune cells. In experimental murine sepsis, this family of\n      drugs has resulted in reduced inflammation and mortality. Human evidence is scarce for severe\n      inflammatory conditions. However, recent evidence from our group and others indicates that\n      pyridostigmine has an immunomodulatory effect in people living with HIV, resulting in\n      elevation of CD4+ T cell counts, decreased immune activation, and reduction in inflammatory\n      mediators (e.g., IFN-g, IL-6, sCD14). Altogether, this suggests that ACh-esterase inhibitors\n      may act as immunomodulators during viral infections, potentially reducing the overt\n      inflammatory cascade (the so-called \"cytokine storm\") observed in critically ill COVID-19\n      patients. So far, Mexico has less than 3,000 diagnosed patients, with about 16% requiring\n      hospital admission. However, we are expecting an upsurge in the next two-to-four weeks.\n\n      We also know that, at the proposed dose (60mg/d), the rate of minor adverse events is less\n      than 5% with no reported serious adverse effects. From that perspective, we consider that\n      pyridostigmine can function as an immuno-modulator and reduce morbidity and mortality in\n      COVID-19-stricken patients, with the added value of a safe pharmacological profile. Moreover,\n      as an old drug, repurposing it for a novel indication may be simpler (and cheaper) than\n      developing a novel one from the ground up."
+        },
+        "detailed_description": {
+            "textblock": "The study will be divided into two phases, each with different variables to evaluate, as\n      described below:\n\n      The primary objective of the first phase (proof-of-concept) will be to evaluate the effect of\n      pyridostigmine on the serum level of IL-6 as an indicator of severe inflammation, as well as\n      its kinetics throughout the days that the patient is hospitalized.\n\n      In the first phase we will evaluate the safety and feasibility of the study in a\n      representative sample and we will explore in a preliminary way the magnitude of the effect of\n      the intervention. Safety will be evaluated according to the adverse effects reported in\n      patients with acute intoxication (accidental or in suicide attempt) with pyridostigmine:\n\n        1. Abdominal pain/cramps\n\n        2. Diarrhea\n\n        3. Vomiting, nausea, or both\n\n        4. Hypersalivation\n\n        5. Urinary incontinence\n\n        6. Fasciculations or muscle weakness\n\n        7. Blurred vision\n\n      In the second phase (to be carried out only if the results of the first phase justify it),\n      the primary outcome to be evaluated is mortality, the requirement of invasive or non-invasive\n      mechanical ventilation, or an increase in the SOFA scale \u22652 points.\n\n      The following secondary outcomes were evaluated: changes in the total SOFA score between\n      study entry and evaluation at 3, 7, and 14 days; the number of days of hospital stay, days of\n      hospitalization in the intensive care unit, and the need (and if applicable, the number of\n      days required) for invasive or non-invasive mechanical ventilation.\n\n      The variables to measure are sex, age at hospitalization, date of COVID-19 diagnosis, date\n      and SOFA scale measurement, date of hospitalization, date of transfer to the intensive care\n      unit, date of initiation of mechanical ventilation. , date and reason for leaving the\n      intensive care unit."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 4, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 30, 2020"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Participants will receive pyridostigmine at a dose of 60 mg / day (or matching placebo), P.O. during a period of up to 14 days, until hospital discharge, death, mechanical ventilation, or increase in the SOFA scale \u22652 points.\nThe proposed dose is a safe dose according to the experience in myasthenia gravis and healthy people, as well as in at least three clinical studies in people living with HIV.\nParticipants will be double-blind 1: 1 randomized to receive pyridostigmine or placebo for up to 14 days.",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Critical condition or death",
+                "time_frame": "28 days",
+                "description": "Composite of death, Need for mechanical ventilation, or an increase of 2 or more points in the SOFA score"
+            },
+            {
+                "measure": "IL-6",
+                "time_frame": "14 days in-hospital, hospital discharge, or death",
+                "description": "Kinetics of circulating IL-6"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "436"
+        },
+        "condition": [
+            "COVID-19",
+            "SARS-CoV-2"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Pyridostigmine",
+                "arm_group_type": "Active Comparator",
+                "description": "Pyridostigmine bromide tablet (60mg P.O. once per day for 14 days)"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo tablet (60mg P.O. once per day for 14 days)"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Pyridostigmine Bromide",
+                "description": "One 60mg tablet P.O. once per day for 14 days",
+                "arm_group_label": "Pyridostigmine",
+                "other_name": [
+                    "Mestinon",
+                    "Pyridostigmine"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "One tablet P.O. once per day for 14 days",
+                "arm_group_label": "Placebo",
+                "other_name": "Starch (pharmaceutical grade)"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Adult patients (\u226518 years old)\n\n          2. Signed informed consent by the patient or designated legal representative\n\n          3. Confirmatory laboratory test for SARS-CoV-2 / COVID-19 infection\n\n          4. Pneumonia confirmed by imaging studies\n\n          5. Agree to venous blood collection according to the protocol\n\n          6. Need for hospitalization with increased mortality criteria according to published\n             observations, including one or more of the following severity criteria according to\n             the treating medical team:\n\n        to. Dyspnoea b. Lung infiltrates> 50% of lung fields by CT c. PaO2 / FiO2 <300mmHg d. Pulse\n        oximetry <90% to ambient air, or a 3% drop in baseline oximetry, or need to increase\n        supplemental oxygen due to chronic hypoxia, as well as the need for supplemental oxygen\n        according to medical judgment and. Alteration of one or more of the following laboratory\n        studies at the time of hospital admission: i. D-dimer greater than 1ug / mL ii. Ferritin\n        level greater than 300 iii. C reactive protein over 100 iv. LDH over 245 v. Lymphopenia\n        less than 800 / uL saw. CPK raised to twice the norm\n\n        Exclusion Criteria:\n\n          1. Pyridostigmine allergy\n\n          2. If female, pregnancy or breastfeeding\n\n          3. Meet the following critical illness criteria before signing informed consent and\n             taking the first dose of study medication:\n\n               1. . Need for mechanical ventilation\n\n               2. . Admission to the ICU for any reason\n\n               3. . Meet criteria for sepsis or septic shock\n\n          4. Concomitant autoimmune diseases\n\n          5. Known immunodeficiency (including HIV infection)\n\n          6. Need for mechanical ventilation before signing informed consent and taking the first\n             dose of study medication\n\n          7. Inability to administer orally / enterally\n\n          8. Use of immunosuppressants or immuno-modulators in the preceding 28 days, including\n             chemotherapeutics and steroids\n\n          9. Participation in clinical trials of any kind in the preceding 28 days"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Sergio I Vald\u00e9s-Ferrer, MD, PhD",
+            "role": "Study Chair",
+            "affiliation": "Instituto Nacional De Ciencias M\u00e9dicas y Nutrici\u00f3n"
+        },
+        "overall_contact": {
+            "last_name": "Sergio I Vald\u00e9s-Ferrer, MD, PhD",
+            "phone": "+525554870900",
+            "phone_ext": "4177",
+            "email": "sergio.valdesf@incmnsz.mx"
+        },
+        "overall_contact_backup": {
+            "last_name": "Juan Sierra-Madero, MD",
+            "phone": "+525554870900",
+            "email": "jsmadero@yahoo.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Instituto Nacional de Ciencias M\u00e9dicas y Nutrici\u00f3n Salvador Zubir\u00e1n",
+                "address": {
+                    "city": "Ciudad de M\u00e9xico",
+                    "state": "Tlalpan",
+                    "zip": "14080",
+                    "country": "Mexico"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Sergio I Vald\u00e9s-Ferrer, MD, PhD",
+                "phone": "+52(55)5487-0900",
+                "phone_ext": "4177",
+                "email": "sergio.valdesf@incmnsz.mx"
+            },
+            "contact_backup": {
+                "last_name": "Juan Sierra-Madero, MD",
+                "phone": "+52(55)5487-0900",
+                "email": "jsmadero@yahoo.com"
+            },
+            "investigator": {
+                "last_name": "Jos\u00e9 C Crisp\u00edn, MD, PhD",
+                "role": "Sub-Investigator"
+            }
+        },
+        "location_countries": {
+            "country": "Mexico"
+        },
+        "reference": [
+            {
+                "citation": "Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648. [Epub ahead of print]",
+                "PMID": "32091533"
+            },
+            {
+                "citation": "Chavan SS, Tracey KJ. Essential Neuroscience in Immunology. J Immunol. 2017 May 1;198(9):3389-3397. doi: 10.4049/jimmunol.1601613. Review.",
+                "PMID": "28416717"
+            },
+            {
+                "citation": "Koopman FA, Chavan SS, Miljko S, Grazio S, Sokolovic S, Schuurman PR, Mehta AD, Levine YA, Faltys M, Zitnik R, Tracey KJ, Tak PP. Vagus nerve stimulation inhibits cytokine production and attenuates disease severity in rheumatoid arthritis. Proc Natl Acad Sci U S A. 2016 Jul 19;113(29):8284-9. doi: 10.1073/pnas.1605635113. Epub 2016 Jul 5.",
+                "PMID": "27382171"
+            },
+            {
+                "citation": "Borovikova LV, Ivanova S, Zhang M, Yang H, Botchkina GI, Watkins LR, Wang H, Abumrad N, Eaton JW, Tracey KJ. Vagus nerve stimulation attenuates the systemic inflammatory response to endotoxin. Nature. 2000 May 25;405(6785):458-62.",
+                "PMID": "10839541"
+            },
+            {
+                "citation": "Rosas-Ballina M, Vald\u00e9s-Ferrer SI, Dancho ME, Ochani M, Katz D, Cheng KF, Olofsson PS, Chavan SS, Al-Abed Y, Tracey KJ, Pavlov VA. Xanomeline suppresses excessive pro-inflammatory cytokine responses through neural signal-mediated pathways and improves survival in lethal inflammation. Brain Behav Immun. 2015 Feb;44:19-27. doi: 10.1016/j.bbi.2014.07.010. Epub 2014 Jul 23.",
+                "PMID": "25063706"
+            },
+            {
+                "citation": "Vald\u00e9s-Ferrer SI, Crisp\u00edn JC, Belaunzar\u00e1n PF, Cant\u00fa-Brito CG, Sierra-Madero J, Alcocer-Varela J. Acetylcholine-esterase inhibitor pyridostigmine decreases T cell overactivation in patients infected by HIV. AIDS Res Hum Retroviruses. 2009 Aug;25(8):749-55. doi: 10.1089/aid.2008.0257.",
+                "PMID": "19645607"
+            },
+            {
+                "citation": "Robinson-Papp J, Nmashie A, Pedowitz E, George MC, Sharma S, Murray J, Benn EKT, Lawrence SA, Machac J, Heiba S, Kim-Schulze S, Navis A, Roland BC, Morgello S. The effect of pyridostigmine on small intestinal bacterial overgrowth (SIBO) and plasma inflammatory biomarkers in HIV-associated autonomic neuropathies. J Neurovirol. 2019 Aug;25(4):551-559. doi: 10.1007/s13365-019-00756-9. Epub 2019 May 16.",
+                "PMID": "31098925"
+            },
+            {
+                "citation": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Feb 28. doi: 10.1056/NEJMoa2002032. [Epub ahead of print]",
+                "PMID": "32109013"
+            },
+            {
+                "citation": "Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 Feb 24. pii: S2213-2600(20)30079-5. doi: 10.1016/S2213-2600(20)30079-5. [Epub ahead of print] Erratum in: Lancet Respir Med. 2020 Feb 28;:.",
+                "PMID": "32105632"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Bromides",
+                "Pyridostigmine Bromide"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

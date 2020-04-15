@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "433",
+        "@rank": "475",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04343729"
         },
@@ -10,7 +10,7 @@
             "org_study_id": "CAEE: 30615920.2.0000.0005",
             "nct_id": "NCT04343729"
         },
-        "brief_title": "Methylprednisolone in the Treatment of Patients With Signs of Severe Acute Respiratory Syndrome in SARS-CoV2: a Randomized, Double-blind, Placebo-controlled Clinical Trial",
+        "brief_title": "Methylprednisolone in the Treatment of Patients With Signs of Severe Acute Respiratory Syndrome in Covid-19",
         "acronym": "MetCOVID",
         "official_title": "Efficacy and Safety of Injectable Methylprednisolone Sodium Succinate in the Treatment of Patients With Signs of Severe Acute Respiratory Syndrome Under the New Coronavirus (SARS-CoV2): a Phase IIb, Randomized, Double-blind, Placebo-controlled, Clinical Trial.",
         "sponsors": {
@@ -151,14 +151,14 @@
         "study_first_submitted": "April 9, 2020",
         "study_first_submitted_qc": "April 9, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 13, 2020"
         },
-        "last_update_submitted": "April 9, 2020",
-        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 13, 2020"
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

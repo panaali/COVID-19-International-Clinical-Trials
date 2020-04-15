@@ -1,0 +1,195 @@
+{
+    "clinical_study": {
+        "@rank": "68",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344236"
+        },
+        "id_info": {
+            "org_study_id": "s20-00444",
+            "nct_id": "NCT04344236"
+        },
+        "brief_title": "Gargling and Nasal Rinses to Reduce Oro- and Nasopharyngeal Viral Load in Patients With COVID-19",
+        "official_title": "A Phase II, Randomized, Open-label, Single-institution Study of the Effects of Povidone Iodine Oral Gargles and Nasal Rinses on Viral Load in Patients With COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "NYU Langone Health",
+                "agency_class": "Other"
+            }
+        },
+        "source": "NYU Langone Health",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "For this study, 48 patients who have been diagnosed with COVID-19 will be randomly assigned\n      to four study groups: control, saline, chlorhexidine gluconate, and povidone-iodine. Each\n      patient will be asked to gargle with a solution of either saline, chlorhexidine gluconate, or\n      povidone-iodine or nothing (control group) as well as spray the same solution in their nose\n      four times daily. Patients will then be tested for COVID-19 once daily in the evening for 7\n      days and viral loads will be measured."
+        },
+        "detailed_description": {
+            "textblock": "COVID-19 has emerged as a worldwide pandemic and there is a strong need for identification of\n      any measures that can be used to treat this illness or reduce its transmission from person to\n      person. Povidone-iodine has been shown to have virucidal properties against multiple viruses\n      including against the virus that causes SARS which is very similar in makeup to the virus\n      causing COVID-19.\n\n      The investigators hypothesize that 4x daily use of oral gargles and nasal rinses using a\n      povidone iodine solution will help to reduce the viral load in the nasopharynx and oropharynx\n      in patients who are COVID-19+. If this hypothesis is shown to be true this could potentially\n      have an impact on time to recovery of clinical symptoms as well as reduce shedding of the\n      virus by infected patients. A time course of 7 days was chosen in order to recognize a trend\n      in the viral load over time for patients receiving each of the interventions. Chlorhexidine\n      gluconate and saline rinses were chosen as additional treatment arms as these are frequently\n      used for oral and nasal hygiene and their role in affecting viral load is currently unknown."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 9, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 9, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Randomized controlled open label trial, parallel design",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Viral load (and/or cycle time to PCR as a proxy for quantitative viral load) in the nasopharynx and oropharynx",
+            "time_frame": "7 days",
+            "description": "nasopharyngeal swab for viral PCR will be taken at the end of each day for 7 days"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Oxygen requirement of the patient",
+                "time_frame": "7 days",
+                "description": "Recorded daily"
+            },
+            {
+                "measure": "Oxygen saturation of the patient",
+                "time_frame": "7 days",
+                "description": "Recorded daily"
+            }
+        ],
+        "number_of_arms": "4",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "48"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Control",
+                "arm_group_type": "No Intervention"
+            },
+            {
+                "arm_group_label": "Saline oral/nasal rinse",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "0.5% Povidone/Iodine oral/nasal rinse",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "0.12% Chlorhexidine oral/nasal rinse",
+                "arm_group_type": "Experimental"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Saline oral/nasal rinse",
+                "description": "5 cc of nasal rinses total for both nostrils + 20 cc of oral gargles, 4 times a day, for 7 days.",
+                "arm_group_label": "Saline oral/nasal rinse"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "0.5% Povidone/Iodine oral/nasal rinse",
+                "description": "5 cc of nasal rinses total for both nostrils + 20 cc of oral gargles, 4 times a day, for 7 days.",
+                "arm_group_label": "0.5% Povidone/Iodine oral/nasal rinse"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "0.12% Chlorhexidine oral/nasal rinse",
+                "description": "5 cc of nasal rinses total for both nostrils + 20 cc of oral gargles, 4 times a day, for 7 days.",
+                "arm_group_label": "0.12% Chlorhexidine oral/nasal rinse"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Positive test for COVID-19\n\n          2. Age 18-79 years\n\n          3. Willing and able to perform oral gargles and nasal rinses four times daily\n\n        Exclusion Criteria\n\n          1. Requiring mechanical ventilation\n\n          2. Unable or unwilling to perform oral gargles and nasal rinses four times daily\n\n          3. History of chronic upper respiratory tract disease\n\n          4. Known iodine allergy\n\n          5. History of thyroid disease"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "79 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Scott Rickert, MD",
+            "role": "Principal Investigator",
+            "affiliation": "NYU Langone Health"
+        },
+        "overall_contact": {
+            "last_name": "Scott Rickert, MD",
+            "phone": "646-501-7890",
+            "email": "scott.rickert@nyulangone.org"
+        },
+        "overall_contact_backup": {
+            "last_name": "Lindsey Moses, MD",
+            "email": "Lindsey.moses@nyulangone.org"
+        },
+        "location": {
+            "facility": {
+                "name": "NYU Langone Health",
+                "address": {
+                    "city": "New York",
+                    "state": "New York",
+                    "zip": "10016",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Scott Rickert",
+                "email": "scott.rickert@nyulangone.org"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Iodine",
+                "Chlorhexidine",
+                "Chlorhexidine gluconate",
+                "Povidone"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "The de-identified participant data from the final research dataset used in the published manuscript will be shared upon reasonable request beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: [contact information for PI or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)"
+            ],
+            "ipd_time_frame": "Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.",
+            "ipd_access_criteria": "Requests should be directed to scott.rickert@nyulangone.org. To gain access, data requestors will need to sign a data access agreement."
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "clinical_study": {
+        "@rank": "256",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344600"
+        },
+        "id_info": {
+            "org_study_id": "IRB00248163",
+            "nct_id": "NCT04344600"
+        },
+        "brief_title": "Peginterferon Lambda-1a for the Prevention and Treatment of SARS-CoV-2 Infection",
+        "acronym": "PROTECT",
+        "official_title": "Peginterferon Lambda-1a for the Prevention and Treatment of SARS-CoV-2 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Johns Hopkins University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Eiger BioPharmaceuticals",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Johns Hopkins University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a phase 2b prospective, randomized, single-blind, controlled trial of two weekly\n      subcutaneous injections of lambda interferon alfa-1a versus placebo for prevention of\n      SARS-CoV-2 infection in non-hospitalized participants at high risk for infection due to\n      household exposure to an individual with coronavirus disease (COVID-19). The study will also\n      evaluate the regimens participants with asymptomatic SARS-CoV-2 infection detected at study\n      entry. All participants will be followed for up to 12 weeks."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "Prospective, randomized, single-blind, controlled trial",
+            "primary_purpose": "Prevention",
+            "masking": "Single (Participant)",
+            "masking_description": "Single-blinded study"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Proportion of participants with no evidence of SARS-CoV-2 infection",
+                "time_frame": "Up to 28 days",
+                "description": "No evidence of SARS-CoV-2 infection at or before study day 28"
+            },
+            {
+                "measure": "Time (days) to no detection of SARS-CoV-2 in two upper respiratory samples",
+                "time_frame": "Up to 14 days",
+                "description": "Resolution of SARS-CoV-2 infection in the upper respiratory tract"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "164"
+        },
+        "condition": "Sars-CoV2",
+        "arm_group": [
+            {
+                "arm_group_label": "Peginterferon lambda alfa-1a",
+                "arm_group_type": "Experimental",
+                "description": "peginterferon lambda-1a (Lambda) 180 micrograms by subcutaneous injection for participants who are not infected with SARS-CoV-2"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo (saline) by subcutaneous injection for participants who are not infected with SARS-CoV-2"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Peginterferon lambda alfa-1a subcutaneous injection",
+                "description": "Peginterferon lambda-1a 180 micrograms by subcutaneous injection",
+                "arm_group_label": "Peginterferon lambda alfa-1a"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Saline",
+                "description": "Saline subcutaneous injection",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Willing and able to provide written informed consent\n\n          -  Peripheral capillary oxygen saturation (SpO2) \u2265 95% on room air at screening\n\n          -  Age \u226518 years\n\n        Exclusion Criteria:\n\n          -  Hospitalized or impending hospitalization at the time of screening\n\n          -  Symptoms of cough, fever or shortness of breath within 72 hours\n\n          -  Prior or current treatment with other experimental or approved agents targeting\n             SARS-CoV-2 or SARS-CoV-1\n\n          -  Positive pregnancy test\n\n          -  Active autoimmune disease or sarcoidosis (with the exception of controlled thyroid\n             disease)\n\n          -  Active decompensated liver disease (ascites, encephalopathy)\n\n          -  Active congestive heart failure"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Mark Sulkowski, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Johns Hopkins University"
+        },
+        "overall_contact": {
+            "last_name": "Stephanie Katz, BSN",
+            "phone": "443-997-1900",
+            "email": "ssneddo2@jhmi.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Mark Sulkowski, MD",
+            "phone": "443-997-1900",
+            "email": "msulkowski@jhmi.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Johns Hopkins Hospital",
+                "address": {
+                    "city": "Baltimore",
+                    "state": "Maryland",
+                    "zip": "21287",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "link": {
+            "url": "https://www.who.int/blueprint/priority-diseases/key-action/novel-coronavirus/en/",
+            "description": "WHO COVID-19 landscape analysis of therapeutics."
+        },
+        "reference": [
+            {
+                "citation": "Hemann EA, Gale M Jr, Savan R. Interferon Lambda Genetics and Biology in Regulation of Viral Control. Front Immunol. 2017 Dec 6;8:1707. doi: 10.3389/fimmu.2017.01707. eCollection 2017. Review.",
+                "PMID": "29270173"
+            },
+            {
+                "citation": "Mordstein M, Neugebauer E, Ditt V, Jessen B, Rieger T, Falcone V, Sorgeloos F, Ehl S, Mayer D, Kochs G, Schwemmle M, G\u00fcnther S, Drosten C, Michiels T, Staeheli P. Lambda interferon renders epithelial cells of the respiratory and gastrointestinal tracts resistant to viral infections. J Virol. 2010 Jun;84(11):5670-7. doi: 10.1128/JVI.00272-10. Epub 2010 Mar 24.",
+                "PMID": "20335250"
+            },
+            {
+                "citation": "Loutfy MR, Blatt LM, Siminovitch KA, Ward S, Wolff B, Lho H, Pham DH, Deif H, LaMere EA, Chang M, Kain KC, Farcas GA, Ferguson P, Latchford M, Levy G, Dennis JW, Lai EK, Fish EN. Interferon alfacon-1 plus corticosteroids in severe acute respiratory syndrome: a preliminary study. JAMA. 2003 Dec 24;290(24):3222-8.",
+                "PMID": "14693875"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "SARS-CoV-2",
+            "COVID-19",
+            "Lambda interferon"
+        ],
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

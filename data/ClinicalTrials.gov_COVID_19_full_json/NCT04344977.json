@@ -1,0 +1,112 @@
+{
+    "clinical_study": {
+        "@rank": "127",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344977"
+        },
+        "id_info": {
+            "org_study_id": "200081",
+            "nct_id": "NCT04344977"
+        },
+        "brief_title": "COVID-19 Plasma Collection",
+        "acronym": "NIAID",
+        "official_title": "A Pilot Study for Collection of Anti-SARS-CoV-2 Immune Plasma",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institutes of Health Clinical Center (CC)",
+                "agency_class": "NIH"
+            }
+        },
+        "source": "National Institutes of Health Clinical Center (CC)",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Coronavirus disease 2019 (COVID-19) is a respiratory disease caused by a novel coronavirus\n      named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and causes substantial\n      morbidity and mortality. There is currently no vaccine to prevent infection with SARS-CoV-2\n      or therapeutic agent to treat COVID-19. The objective of this protocol is the identification\n      of eligible donors and collection of anti-SARSCoV-2 immune plasma from convalescent survivors\n      of COVID-19 illness.\n\n      Potential subjects will be screened for eligibility to participate in plasma donations and\n      their blood measured for antibodies to SARS-CoV-2. Enrolled subjects will receive a baseline\n      physical and laboratory examination. Subjects with high SARS-CoV-2 neutralizing antibody\n      titers who meet standard blood bank criteria for plasma donation will then be scheduled for\n      plasma collection sessions. Following testing of the collected plasma for potential\n      pathogens, this plasma may be used and/or converted into an intravenous immunoglobulin (IVIG)\n      preparation for further study."
+        },
+        "detailed_description": {
+            "textblock": "Coronavirus disease 2019 (COVID-19) is a respiratory disease caused by a novel coronavirus\n      named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and causes substantial\n      morbidity and mortality. There is currently no vaccine to prevent infection with SARS-CoV-2\n      or therapeutic agent to treat COVID-19. The objective of this protocol is the identification\n      of eligible donors and collection of anti-SARSCoV-2 immune plasma from convalescent survivors\n      of COVID-19 illness.\n\n      Potential subjects will be screened for eligibility to participate in plasma donations and\n      their blood measured for antibodies to SARS-CoV-2. Enrolled subjects will receive a baseline\n      physical and laboratory examination. Subjects with high SARS-CoV-2 neutralizing antibody\n      titers who meet standard blood bank criteria for plasma donation will then be scheduled for\n      plasma collection sessions. Following testing of the collected plasma for potential\n      pathogens, this plasma may be used and/or converted into an intravenous immunoglobulin (IVIG)\n      preparation for further study."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2025"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2024"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Identification of eligible donors and collection of anti-SARS-CoV-2 immune plasma",
+            "time_frame": "Screening, Days 120 or 240",
+            "description": "Donors screened and identified and anti-SARS-CoV-2 immune plasma collected"
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "2800"
+        },
+        "condition": "Coronavirus Disease 2019 (COVID-19)",
+        "arm_group": {
+            "arm_group_label": "Convalescent survivors of COVID-19",
+            "description": "h/o COVID-19 like illness or h/o positive test for SARS-CoV-2 or has the protocol-specified minimum anti-SARS-CoV-2 neutralizing antibody titer"
+        },
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "Serum, plasma"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Convalescent survivors of COVID-19 will be recruited at sites around the US."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Provide written informed consent before initiation of any study procedures.\n\n          2. Age \u2265 18 years old and \u2264 70 years old.\n\n          3. Females must have both of the following:\n\n               -  Negative serum or urine pregnancy test (females of childbearing potential only).\n\n               -  Negative anti-HLA screening test (to reduce risk of transfusion-related acute\n                  lung injury [TRALI] in plasma recipients, which is associated with antibodies\n                  found in some plasma from females and is likely generated during pregnancy).\n\n          4. Subjects must not be symptomatic, must be afebrile for \u226514 days, beyond 28 days of the\n             resolution of their acute illness, and must enroll within 18 months of onset of\n             illness, and must meet at least 1 of the following:\n\n               -  History suggestive of resolved COVID-19 like illness (e.g., prior fever, dry\n                  cough, and shortness of breath). OR\n\n               -  History of positive test for SARS-CoV-2 (either serologic or RT-PCR) OR\n\n               -  Current participation in a protocol for plasmapheresis and an anti-SARS-CoV-2\n                  neutralizing antibody titer of at least 1:80\n\n          5. Anti-SARS-CoV-2 neutralizing antibody titer of at least 1:80\n\n          6. Weight \u2265 110 pounds (50 kg)\n\n          7. Meets FDA-approved criteria of local blood collector for plasmapheresis for plasma\n             donation\n\n          8. Adequate peripheral venous access for plasma donation (as judged by the examiner)\n\n          9. Willingness to have samples stored\n\n        Exclusion Criteria:\n\n          1. Any sign of active illness of any kind including COVID-19 illness (as judged by the\n             investigator), including but not limited to:\n\n               -  Subjective or documented fever (\u226538\u00b0C)\n\n               -  Dry cough\n\n               -  Shortness of breath\n\n          2. Participation in medical research that includes:\n\n               -  Protocols that are currently ongoing or will start during the duration of this\n                  study that require more than 100 mL of blood to be given in any 8-week period of\n                  time\n\n               -  Administration of any unlicensed drug within the last 3 months or during the\n                  duration of this study\n\n               -  Administration of any unlicensed vaccine within the last 12 months or during the\n                  duration of this study.\n\n          3. Subjects that have participated in previous plasma collection or other cell component\n             collection procedures within the last 3 months may have restrictions to participation\n             based on the site plasma collection SOP. In this scenario, discussion should occur\n             with the blood establishment to ensure eligibility to donate plasma."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "70 Years",
+            "healthy_volunteers": "No"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 13, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Coronavirus",
+            "COVID-19",
+            "IVIG",
+            "Convalescent plasma",
+            "Severe acute respiratory syndrome coronavirus 2"
+        ],
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        }
+    }
+}

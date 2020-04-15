@@ -1,0 +1,154 @@
+{
+    "clinical_study": {
+        "@rank": "210",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344002"
+        },
+        "id_info": {
+            "org_study_id": "GECP 20/02_GRAVID",
+            "nct_id": "NCT04344002"
+        },
+        "brief_title": "LunG canceR pAtients coVId19 Disease (GRAVID)",
+        "acronym": "GRAVID",
+        "official_title": "Observational Retrospective Register of Spanish Lung Cancer Patients With COVID19 Disease",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Spanish Lung Cancer Group",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Spanish Lung Cancer Group",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is a multi-centre study on lung cancer patients which experienced COVID-19. Information\n      on clinical features, clinical course, management and outcomes will be collected for both,\n      thoracic cancers and COVID-19 infection. Firstly, investigators will be registered in an\n      online secure registry. After that, a protocol will be developed in order to collect clinical\n      data for the research. It will also include I on the care organization or the perception of\n      the patient and their family members.\n\n      The final stage will consist on retrospective data collection from patients. So, it is a\n      retrospective study data collection, preceded by prospective data registry."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "May 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 15, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 15, 2021"
+        },
+        "study_type": "Observational [Patient Registry]",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Other"
+        },
+        "target_duration": "1 Month",
+        "primary_outcome": {
+            "measure": "Description of lung cancer patients with COVID-19 diagnoses",
+            "time_frame": "From the diagnosis of the COVID until the patient is cured or dies, whichever comes first, assessed up to 5 years",
+            "description": "Describe characteristics and evolution of Spanish patients preferably with lung cancer who contract COVID 19 infection with identification and study of factors of interest, as well as clinical and histological data, diagnosis, treatments received, and prognostic factors."
+        },
+        "number_of_groups": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": [
+            "Covid-19",
+            "Lung Cancer"
+        ],
+        "arm_group": {
+            "arm_group_label": "lung cancer+COVID-19",
+            "description": "lung cancer patients diagnosed with COVID-19"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients diagnosed with lung cancer and who have been infected with COVID-19."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients diagnosed with lung cancer\n\n          -  Patients who have contracted COVID-19 infection\n\n        Exclusion Criteria:\n\n          -  Patients diagnosed with lung cancer but no confirmation of COVID-19 infection."
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Mariano MD Provencio, MD",
+                "role": "Study Chair",
+                "affiliation": "Hospital Puerta de Hierro de Majadahonda de Madrid"
+            },
+            {
+                "last_name": "Cristina MD Avenda\u00f1o Sol\u00e1, MD",
+                "role": "Study Chair",
+                "affiliation": "Hospital Puerta de Hierro de Majadahonda de Madrid"
+            },
+            {
+                "last_name": "Mar\u00eda MD Gonz\u00e1lez-Cao, MD",
+                "role": "Study Chair",
+                "affiliation": "Hospital Universitario Dexeus de Barcelona."
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Eva Pereira",
+            "phone": "+34934302006",
+            "email": "epereira@gecp.org"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "H. Universitario Quir\u00f3n Dexeus",
+                    "address": {
+                        "city": "Barcelona",
+                        "zip": "08036",
+                        "country": "Spain"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "H.U. Puerta de Hierro",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28035",
+                        "country": "Spain"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Spain"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "covid-19",
+            "coronavirus",
+            "lung cancer"
+        ],
+        "condition_browse": {
+            "mesh_term": "Lung Neoplasms"
+        }
+    }
+}

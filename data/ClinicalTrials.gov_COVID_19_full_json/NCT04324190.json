@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "161",
+        "@rank": "189",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04324190"
         },
@@ -35,10 +35,10 @@
         "detailed_description": {
             "textblock": "The overall aim of this randomised trial with observational component is to estimate the\n      effects of a guided digital online support program to increase mental health and reduce\n      psychosocial stress in the context of the COVID-19 pandemic. More specifically, the main\n      hypothesis is to estimate whether the improvement in mental health is stronger during the\n      first two weeks of applying the online support program as compared to a two weeks waiting\n      condition (with provision of WHO information on 'coping with stress during the 2019-nCoV'\n      outbreak only). In addition to the randomised control group (second arm: waiting condition,\n      followed by online support program), the study comprises as third arm a non-randomised\n      comparator condition, consisting of subjects not intending to participate in the online\n      support program. Furthermore, our aim is to estimate changes in the outcomes along taking\n      part in the program.\n\n      Additional research questions are:\n\n        -  to compare the intervention effects across modules and chapters of the online support\n           program, including between module comparison with an unspecific, control (comparator)\n           module: \"general information on the corona virus\" and its unspecific chapters;\n\n        -  to estimate the effects of selected modules on additional outcomes (e.g. physical\n           activity, and schooling related factors);\n\n        -  to describe the magnitude and course of psychosocial stress, mental health and related\n           factors in the context of the COVID-19 pandemic;\n\n        -  to estimate and predict which subjects profit most from specific parts of the program.\n\n      Follow-up assessment shall include estimating whether the program prevents the development of\n      detrimental mental health conditions, e.g. depression, anxiety, etc.\n\n      In order to make first study results available as early as possible, we intend to conduct\n      quick complete analyses (primary outcome and relevant parts of secondary/other outcomes):\n      These analyses will be conducted with data including subjects from the first 4 weeks of\n      recruitment, given that a sample size of at least 300 for the online support program arm and\n      a sample size of at least 300 for the waiting condition is reached; or if not yet reached\n      after 4 weeks of recruitment, as soon as a sample size of at least 300 for the online support\n      program arm and a sample size of at least 300 for the waiting condition is reached. However,\n      we intend to continue recruiting beyond this point in time and sample size (until the\n      COVID-19 pandemic situation has come to an end, i.e., vaccination is broadly available), to\n      allow further, also more detailed analyses at a later point in time, resulting in more\n      precise estimates."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 2020"
+            "@type": "Actual",
+            "#text": "April 8, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -200,6 +200,7 @@
                     "country": "Germany"
                 }
             },
+            "status": "Recruiting",
             "contact": {
                 "last_name": "Kati Bermbach",
                 "phone": "+49 (0) 30 - 3982031",
@@ -217,11 +218,11 @@
             "@type": "Actual",
             "#text": "March 27, 2020"
         },
-        "last_update_submitted": "April 8, 2020",
-        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_submitted": "April 11, 2020",
+        "last_update_submitted_qc": "April 11, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 10, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

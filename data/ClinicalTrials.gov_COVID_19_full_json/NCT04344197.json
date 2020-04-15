@@ -1,0 +1,124 @@
+{
+    "clinical_study": {
+        "@rank": "374",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344197"
+        },
+        "id_info": {
+            "org_study_id": "s-covid survey",
+            "nct_id": "NCT04344197"
+        },
+        "brief_title": "Surgery During Covid-19: The Role of Asymptomatic Patients, a Survey",
+        "official_title": "Surgery During Covid-19: The Role of Asymptomatic Patients, a Survey",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Rome Tor Vergata",
+                "agency_class": "Other"
+            }
+        },
+        "source": "University of Rome Tor Vergata",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "a brief questionnaire to get a clearer picture of the situation regarding surgical patients\n      with special emphasis on asymptomatic Covid-19 patients."
+        },
+        "detailed_description": {
+            "textblock": "With new evidence on the role of asymptomatic patients in spreading the disease during the\n      Covid-19 pandemic, symptom driven guidelines for testing, hospital allocation and personal\n      protective equipment (PPE) use do not seem appropriate to limit in-hospital transmission. At\n      time when lockdowns are in place in most countries, hospitals can become the new source of\n      infection.\n\n      Guidelines are very variable depending on local policies and availability of medical\n      supplies, resulting in most hospitals taking different preventive measures."
+        },
+        "overall_status": "Enrolling by invitation",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 2, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Actual",
+            "#text": "April 8, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Other",
+            "time_perspective": "Cross-Sectional"
+        },
+        "primary_outcome": {
+            "measure": "overview of surgical management on preventive measures of hospital infection spread during covid 19",
+            "time_frame": "2/04/2020 to 15/04/2020"
+        },
+        "secondary_outcome": {
+            "measure": "testing policies and preventive measures for Covid-19, and their association with asymptomatic cases.",
+            "time_frame": "02/04/2020 to 15/04/2020"
+        },
+        "enrollment": {
+            "@type": "Actual",
+            "#text": "1200"
+        },
+        "condition": [
+            "Surgery",
+            "COVID",
+            "Asymptomatic Patient",
+            "Covid-19",
+            "Preventive Measures"
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "global survey",
+            "description": "surgery questionnaire"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "surgeon"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        general surgeon\n\n        Exclusion Criteria:\n\n        other speciality"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "location": {
+            "facility": {
+                "name": "Tor Vergata Hospital",
+                "address": {
+                    "city": "Rome",
+                    "zip": "00133",
+                    "country": "Italy"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Italy"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Rome Tor Vergata",
+            "investigator_full_name": "Vittoria Bellato",
+            "investigator_title": "M.D."
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

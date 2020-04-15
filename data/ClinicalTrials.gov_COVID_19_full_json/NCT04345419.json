@@ -1,0 +1,205 @@
+{
+    "clinical_study": {
+        "@rank": "463",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345419"
+        },
+        "id_info": {
+            "org_study_id": "COVID 19 treatment",
+            "nct_id": "NCT04345419"
+        },
+        "brief_title": "A Real-life Experience on Treatment of Patients With COVID 19",
+        "official_title": "The Results of COVID 19 Treatment: A Real-life Experience on Patients With COVID 19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Tanta University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Tanta University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "COVID 19 treatment using Chloroquine with or without Azithromycin, Faviprevir, Nitazoxanide,\n      Ivermectin."
+        },
+        "detailed_description": {
+            "textblock": "COVID 19 treatment using Chloroquine with or without Azithromycin, Faviprevir, Nitazoxanide,\n      Ivermectin on real life experience."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2029"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2029"
+        },
+        "phase": "Phase 2/Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Single (Participant)"
+        },
+        "primary_outcome": {
+            "measure": "Number of patients with decreased viral load",
+            "time_frame": "6 months",
+            "description": "the estimated number of patients with decreased viral load"
+        },
+        "number_of_arms": "5",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "COVID",
+        "arm_group": [
+            {
+                "arm_group_label": "Chloroquine",
+                "arm_group_type": "Experimental",
+                "description": "Chloroquine tablets"
+            },
+            {
+                "arm_group_label": "Faviprevir",
+                "arm_group_type": "Experimental",
+                "description": "Faviprevir as antiviral treatment"
+            },
+            {
+                "arm_group_label": "Nitazoxanide",
+                "arm_group_type": "Experimental",
+                "description": "Nitazoxanide treatment"
+            },
+            {
+                "arm_group_label": "Ivermectin",
+                "arm_group_type": "Experimental",
+                "description": "Ivermectin treatment"
+            },
+            {
+                "arm_group_label": "Niclosamide",
+                "arm_group_type": "Experimental",
+                "description": "Yomesan or niclosamide tablets"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Chloroquine",
+                "description": "Chloroquine pills",
+                "arm_group_label": "Chloroquine",
+                "other_name": "Alexoquine"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Favipiravir",
+                "description": "Favipiravir as antiviral drug",
+                "arm_group_label": "Faviprevir",
+                "other_name": "faviprevir"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Nitazoxanide",
+                "description": "Nitazoxanide",
+                "arm_group_label": "Nitazoxanide",
+                "other_name": "alenia; nanazoxid"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Ivermectin",
+                "description": "Ivermectin drug",
+                "arm_group_label": "Ivermectin",
+                "other_name": "ivactin"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Niclosamide",
+                "description": "Yomesan or niclosamide tablets",
+                "arm_group_label": "Niclosamide",
+                "other_name": "Yomean, Niclosamide"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  COVID 19 patients\n\n        Exclusion Criteria:\n\n          -  allergy or contraindication to the drug"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Sherief Abd-Elsalam, ass. prof.",
+                "role": "Principal Investigator",
+                "affiliation": "Tanta University Faculty of medicine"
+            },
+            {
+                "last_name": "Eslam Saber, ass. lect",
+                "role": "Study Director",
+                "affiliation": "Tanta University Faculty of medicine"
+            },
+            {
+                "last_name": "Mai Khalaf, ass. lect.",
+                "role": "Study Chair",
+                "affiliation": "Tanta University Faculty of medicine"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Sherief Abd-Elsalam",
+            "phone": "+201147773440",
+            "email": "sheriefabdelsalam@yahoo.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Tanta university hospital",
+                "address": {
+                    "city": "Tanta",
+                    "country": "Egypt"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Egypt"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 11, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Tanta University",
+            "investigator_full_name": "Sherief Abd-Elsalam",
+            "investigator_title": "assistant professor of tropical medicine and infectious diseases"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Chloroquine",
+                "Chloroquine diphosphate",
+                "Ivermectin",
+                "Nitazoxanide",
+                "Niclosamide"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

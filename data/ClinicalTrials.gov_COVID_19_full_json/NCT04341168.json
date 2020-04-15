@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "75",
+        "@rank": "86",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04341168"
         },
@@ -171,11 +171,6 @@
                 "affiliation": "Children's University Hospital Cologne"
             },
             {
-                "last_name": "Jan Rybniker, PD Dr. Dr.",
-                "role": "Study Director",
-                "affiliation": "Department I of Internal Medicine University Hospital Cologne"
-            },
-            {
                 "last_name": "Miguel A Alejandre Alcazar, Prof. Dr. Dr.",
                 "role": "Study Director",
                 "affiliation": "Children's University Hospital Cologne"
@@ -210,14 +205,14 @@
                 "email": "robert.koerner@uk-koeln.de"
             },
             "contact_backup": {
-                "last_name": "Jan Rybniker, PD Dr. Dr.",
+                "last_name": "Miguel A Alejandre Alcazar, Prof. Dr. Dr.",
                 "phone": "+49221478",
-                "phone_ext": "89611",
-                "email": "jan.rybniker@uk-koeln.de"
+                "phone_ext": "96887",
+                "email": "miguel.alcazar@uk-koeln.de"
             },
             "investigator": [
                 {
-                    "last_name": "Miguel A Alejandre Alcazar, Prof. Dr. Dr.",
+                    "last_name": "Jan Rybniker, PD Dr. Dr.",
                     "role": "Principal Investigator"
                 },
                 {
@@ -272,11 +267,11 @@
             "@type": "Actual",
             "#text": "April 10, 2020"
         },
-        "last_update_submitted": "April 6, 2020",
-        "last_update_submitted_qc": "April 6, 2020",
+        "last_update_submitted": "April 11, 2020",
+        "last_update_submitted_qc": "April 11, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 10, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

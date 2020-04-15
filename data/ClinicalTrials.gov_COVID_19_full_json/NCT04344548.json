@@ -1,0 +1,162 @@
+{
+    "clinical_study": {
+        "@rank": "419",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344548"
+        },
+        "id_info": {
+            "org_study_id": "UNAL FSA COVID",
+            "nct_id": "NCT04344548"
+        },
+        "brief_title": "Phase I / II Clinical Study of Immunotherapy Based on Adoptive Cell Transfer as a Therapeutic Alternative for Patients With COVID-19 in Colombia",
+        "official_title": "Phase I / II Clinical Study of Immunotherapy Based on Adoptive Cell Transfer as a Therapeutic Alternative for Patients With COVID-19 in Colombia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universidad Nacional de Colombia",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Fundaci\u00f3n Salud de los Andes",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Universidad Nacional de Colombia",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Immunotherapy based on Adoptive Cellular Transfer (ACT) uses several types of immune cells,\n      including dendritic cells, cytotoxic T lymphocytes, lymphokine-activated killer cells, and NK\n      cells. NK cell-based immunotherapies are an attractive approach for treating diseases because\n      of their characteristic recognition and killing mechanisms; they are involved in the early\n      defense against infectious pathogens and against MHC class-I-negative or -low-expressing\n      targets without the requirement for prior immune sensitization of the host and are able to\n      lyse target through the release of perforin and granzymes and using antibody-dependent\n      cellular cytotoxicity pathways mediated by Fc receptor for IgG (CD16).\n\n      The aim of this project is to evaluate the safety and immunogenicity of allogeneic NK cells\n      from peripheral blood mononuclear cells (PBMCs) of healthy donors in patients infected with\n      COVID-19 collected by apheresis. This allows us to collect cGMP PBMCs and immunomagnetic\n      remove several types of undesirable cells including B, T and CD33+ cells with enrichment of\n      NK cells that will be expanded in bioreactors with GMP culture media (AIM-V) supplemented\n      with human AB serum and GMP grade IL-2, and IL-15. After quality control verification the\n      final NK cell product will be resuspended in 300 mL saline solution for intravenous infusion.\n      Initially, we will enroll in this study ten COVID-19 infected adult patients with moderate\n      symptoms (NEWS 2 scale score>4). Consent forms will be signed by the patient before the\n      therapy. Patients will be treated with three different infusions of NK cells 48 h apart with\n      1, 10, and 20 million cells/kg body weight. We will follow the patients for any adverse\n      effect, clinical response and immune effects by flow cytometry including markers for NK cells\n      expressing different markers (CD158b, NKG2A, and IFN-y). We anticipated that the release of\n      IFN-y by exogenous NK cells could attract other immune cell populations to boost the immune\n      response against COVID-19."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 13, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "November 10, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 10, 2020"
+        },
+        "phase": "Phase 1/Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "Phase I/II immunotherapy with NK cells for mild infected COVID-19 patients",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Adverse effects and Safety",
+            "time_frame": "3 months",
+            "description": "Adverse effects monitoring during and after vaccination"
+        },
+        "secondary_outcome": {
+            "measure": "NK transfer Immunogenicity",
+            "time_frame": "6 months",
+            "description": "Measure of NK response against SARS-Cov2 virus"
+        },
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "10"
+        },
+        "condition": "COVID",
+        "arm_group": {
+            "arm_group_label": "Treatment group",
+            "arm_group_type": "Experimental",
+            "description": "Adult patients with COVID-19 infection with NEWS 2 score >4"
+        },
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "Allogeneic NK transfer",
+            "description": "Three doses of allogeneic NK cell transfer",
+            "arm_group_label": "Treatment group"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 18 years at the time of the evaluation\n\n          -  Able and willing to understand the study, follow all study procedures, and provide\n             written informed consent.\n\n          -  Initial diagnosis of COVID-19 disease as defined by a molecular diagnostic test\n             approved by the National Institute of Health positive for SARS-CoV-2\n\n          -  Clinical presentation of moderate or severe (identified at the time of admission to\n             the room by the National Early Warning Score NEWS-2; moderate >4)\n\n        Exclusion Criteria:\n\n          -  Patients who are hospitalized for inpatient treatment or are currently being evaluated\n             for possible hospitalization at the time of informed consent initiation.\n\n          -  Oxygen saturation in ambient air of <92%\n\n          -  History of Chronic Obstructive Pulmonary Disease (COPD)\n\n          -  Participation in a clinical trial with or use of any investigational agent within 30\n             days prior to detection, or treatment with interferons (IFN) or immunomodulators\n             within 12 months prior to detection\n\n          -  Pregnant or lactating female patients.\n\n          -  Current or previous history of decompensated liver disease (Child-Pugh Class B or C)\n             or hepatocellular carcinoma\n\n          -  Co-infected with the human immunodeficiency virus (HIV) or the hepatitis C virus (HCV)\n\n          -  Significant abnormal laboratory test results on screening.\n\n          -  Significant concurrent diseases and other comorbidities that may require intervention\n             during the study.\n\n          -  Concurrent use of any of the following medications: Therapy with an immunomodulatory\n             agent. Current use of heparin o Coumadin. Received blood products within 30 days prior\n             to study randomization. Use of hematological growth factors within 30 days prior to\n             the randomization of the study. Any recipe or herbal product that is not approved by\n             the researcher. Long-term treatment (> 2 weeks) with agents that have a high risk of\n             nephrotoxicity or hepatotoxicity unless approved by the medical monitor. Receiving\n             systemic immunosuppressive therapy within 3 months prior to detection.\n\n          -  Considered by researchers to be unfit to participate in this clinical trial\n\n          -  Chronic heart failure with ejection fraction less than 30%."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "David A Bernal E., MD PhD",
+            "phone": "3105638254",
+            "email": "dbernal.investigacion@saluddelosandes.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Carlos A Parra-Lopez, MD PhS",
+            "phone": "3023742804",
+            "email": "caparral@unal.edu.co"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Fundacion Salud De Los Andes",
+                    "address": {
+                        "city": "Bogot\u00e1",
+                        "state": "Bogot\u00e1 Distrito Capital",
+                        "zip": "111321",
+                        "country": "Colombia"
+                    }
+                },
+                "contact": {
+                    "last_name": "David A Bernal-Est\u00e9vez, MD PhD",
+                    "phone": "3105638254",
+                    "email": "dbernal.investigacion@saluddelosandes.com"
+                },
+                "contact_backup": {
+                    "last_name": "Doris Mej\u00eda",
+                    "phone": "3202735366",
+                    "email": "secretariagerencia@saluddelosandes.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Universidad Nacional de Colombia",
+                    "address": {
+                        "city": "Bogota",
+                        "state": "Cundinamarca",
+                        "zip": "111321",
+                        "country": "Colombia"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Colombia"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Universidad Nacional de Colombia",
+            "investigator_full_name": "Carlos Alberto Parra Lopez",
+            "investigator_title": "CARLOS A PARRA-LOPEZ"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

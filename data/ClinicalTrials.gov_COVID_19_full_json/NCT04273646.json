@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "268",
+        "@rank": "118",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04273646"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "202001",
             "nct_id": "NCT04273646"
         },
-        "brief_title": "Study of Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Novel Coronavirus Severe Pneumonia",
-        "official_title": "Clinical Study of Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Novel Coronavirus Severe Pneumonia",
+        "brief_title": "Study of Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Severe COVID-19",
+        "official_title": "Clinical Study of Human Umbilical Cord Mesenchymal Stem Cells in the Treatment of Severe COVID-19",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Wuhan Union Hospital, China",
@@ -37,7 +37,7 @@
         "overall_status": "Not yet recruiting",
         "start_date": {
             "@type": "Anticipated",
-            "#text": "February 16, 2020"
+            "#text": "April 20, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -179,18 +179,18 @@
         "location_countries": {
             "country": "China"
         },
-        "verification_date": "February 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "February 14, 2020",
         "study_first_submitted_qc": "February 17, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "February 18, 2020"
         },
-        "last_update_submitted": "February 19, 2020",
-        "last_update_submitted_qc": "February 19, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "February 21, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

@@ -1,0 +1,171 @@
+{
+    "clinical_study": {
+        "@rank": "95",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344925"
+        },
+        "id_info": {
+            "org_study_id": "137654",
+            "nct_id": "NCT04344925"
+        },
+        "brief_title": "Non Invasive Positive Pressure Ventilation to Minimize Aerosolization for COVID 19",
+        "official_title": "Non-invasive Positive Pressure Ventilation Mask to Minimize Mask Leak and Potential Aerosolization Leading to Spread of Virus Such as COVID-19: A Non-inferiority Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Lawson Health Research Institute",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Lawson Health Research Institute",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Patients presenting to the emergency department, or needing hospitalization, for a variety of\n      medical conditions often require non-invasive ventilation (breathing support). For example,\n      for a person with shortness of breath as a complication of COPD (Chronic obstructive\n      pulmonary disease) the gold standard of care requires application of a BiPAP machine.\n      However, in the current environment of COVID-19, the aerosols produced by this machine in a\n      COVID-19 positive patient pose serious potential harms to healthcare providers and other\n      patients. All patients with similar symptoms to COVID-19 need to be treated as positive until\n      definite testing determines otherwise. The best test available for COVID-19 takes up to 4\n      hours to determine the patients status, which is too long to delay application of a BiPAP.\n      This could lead to either a delay in care or the need for invasive breathing measures\n      (intubation), which requires intense resource utilization, may not be in line with a\n      patient's goals of care, and could cause serious harms (i.e. infection, medication reactions,\n      etc.) in patients who do not need it. The use of a closed-loop BiPAP machine in which no\n      expired air is released into the environment would solve these problems. Building off the\n      failures of a similar approach that was trialed in Italy in response to the COVID-19 crisis,\n      this project will develop and test a novel closed-loop BiPAP system."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Total Leak Volume of Non Invasive Ventilation Mask",
+            "time_frame": "Baseline to 24 hours",
+            "description": "The primary objective of this study is to assess if the mask device leaks when attached to a patient's face in real-world use.\nThis outcome will be measured by having a researcher assess the physical seal on the patient four times throughout the device's use. The researcher will also screen the non-invasive ventilator machine for indications that the leak alarm has been triggered throughout the participant's engagement in the study. This outcome will be measured by total leak volume litres/minute."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Glasgow Coma Scale(GCS)",
+                "time_frame": "Baseline to 24 hours",
+                "description": "Metabolic data will include measuring the patients level of consciousness through the 15 point Glasgow coma scale (3-15 points, 3 points= lowest level of consciousness (no response, decompensation of patient), 15= awake, oriented, responding appropriately)."
+            },
+            {
+                "measure": "Respiratory Rate",
+                "time_frame": "Baseline to 24 hours",
+                "description": "Respiratory status will be measured in part by the patients respiratory rate by respirations per minute. Normal respiratory rate is 12-20 respirations per minute."
+            },
+            {
+                "measure": "Heart Rate",
+                "time_frame": "Baseline to 24 hours",
+                "description": "Patient's condition will be measured by vital signs including heart rate in beats per minute. Normal heart rate is 60-100 beats per minute."
+            },
+            {
+                "measure": "Metabolic Data: Blood Gas Measurements",
+                "time_frame": "Baseline to 24 hours",
+                "description": "The patients pH will be measured to monitor patient condition throughout the study. Normal pH 7.35-7.45. Increasing acidosis indicative of worsening hypercapnia."
+            },
+            {
+                "measure": "Metabolic Data: Bicarbonate (HC03)",
+                "time_frame": "Baseline to 24 hours",
+                "description": "The patients HC03 level will be measured in mmol/L to monitor patients condition throughout the study."
+            },
+            {
+                "measure": "Metabolic Data: Partial Pressure of Carbon Dioxide (PaC02)",
+                "time_frame": "Baseline to 24 hours",
+                "description": "The patients PaC02 level will be measured in mmHg to monitor patients condition. throughout the study. Increase in PaC02 levels indicative of worsening hypercapnia."
+            },
+            {
+                "measure": "Metabolic Data: Partial Pressure of Oxygen (Pa02)",
+                "time_frame": "Baseline to 24 hours",
+                "description": "The patients Pa02 level will be measured in mmHg to monitor patients condition throughout the study."
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "50"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Aerosol-reducing Mask",
+                "description": "The participant will be placed on BIPAP using the aerosol-reducing mask. In the case where the patient is located in a care area where BIPAP is prohibited with a standard mask, they will assigned the aerosol-reducing mask."
+            },
+            {
+                "arm_group_label": "Standard Mask",
+                "description": "The patient will be placed on BIPAP using the standard mask. In the case where the patient is located in a care area where BIPAP is prohibited with a standard mask, they will assigned the aerosol-reducing mask."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Aerosol-reducing Mask",
+                "description": "Patient will be put on BIPAP using the aerosol-reducing mask. In the case where the patient is located in a care area where BIPAP is prohibited with a standard mask, they will assigned the aerosol-reducing mask.",
+                "arm_group_label": "Aerosol-reducing Mask"
+            },
+            {
+                "intervention_type": "Device",
+                "intervention_name": "Standard Mask",
+                "description": "Patient will be put on BIPAP using the standard mask",
+                "arm_group_label": "Standard Mask"
+            }
+        ],
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "The secondary objective of the study is to assess markers of ventilation and perfusion in\n      patients with both Type I and Type II respiratory failure, including pH, pCO2, pO2,\n      respiratory rate, heart rate and level of consciousness (via GCS).\n\n      These markers will be measured through routine vital signs monitoring (respiratory rate,\n      heart rate and GCS) and an arterial or venous blood gas (pH, pCO2, pO2)."
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Adult patients presenting to the emergency department with respiratory distress requiring\n        non-invasive ventilation."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient with respiratory failure due to primary pulmonary pathology.\n\n          -  Patient who is selected for BiPAP or CPAP by the health care provider\n\n        Exclusion Criteria:\n\n          -  Age <18 years.\n\n          -  Respiratory failure due to non-pulmonary pathology.\n\n          -  Impaired consciousness (Glasgow coma scale <10).\n\n          -  Patients with contraindications of NIV.\n\n          -  Severe upper gastrointestinal bleeding.\n\n          -  Chest trauma.\n\n          -  Agitated or violent patient."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_contact": {
+            "last_name": "Tarek Loubani, MD",
+            "phone": "5194886475",
+            "email": "tlouban@uwo.ca"
+        },
+        "overall_contact_backup": {
+            "last_name": "Chelsea Darling",
+            "phone": "5196979223",
+            "email": "chelsea.darling@lhsc.on.ca"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 3, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Lawson Health Research Institute",
+            "investigator_full_name": "Tarek Loubani, MD",
+            "investigator_title": "Associate Professor"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

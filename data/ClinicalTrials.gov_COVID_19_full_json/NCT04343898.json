@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "345",
+        "@rank": "384",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04343898"
         },
@@ -99,11 +99,18 @@
             "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
-        "overall_official": {
-            "last_name": "David E Leaf, MD, MMSc",
-            "role": "Principal Investigator",
-            "affiliation": "Brigham and Women's Hospital"
-        },
+        "overall_official": [
+            {
+                "last_name": "David E Leaf, MD, MMSc",
+                "role": "Principal Investigator",
+                "affiliation": "Brigham and Women's Hospital"
+            },
+            {
+                "last_name": "Shruti Gupta, MD, MPH",
+                "role": "Principal Investigator",
+                "affiliation": "Brigham and Women's Hospital"
+            }
+        ],
         "overall_contact": {
             "last_name": "David E Leaf, MD, MMSc",
             "phone": "617-525-7612",
@@ -132,14 +139,14 @@
         "study_first_submitted": "April 9, 2020",
         "study_first_submitted_qc": "April 10, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 13, 2020"
         },
-        "last_update_submitted": "April 10, 2020",
-        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 13, 2020"
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",

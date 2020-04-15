@@ -1,0 +1,197 @@
+{
+    "clinical_study": {
+        "@rank": "150",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343976"
+        },
+        "id_info": {
+            "org_study_id": "2020p00xxxx",
+            "nct_id": "NCT04343976"
+        },
+        "brief_title": "Pegylated Interferon Lambda Treatment for COVID-19",
+        "official_title": "A Randomized Controlled Trial to Evaluate the Safety and Efficacy of Pegylated Interferon Lambda vs. Standard Supportive Care in Subjects Infected With COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Raymond Chung",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Eiger BioPharmaceuticals",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Massachusetts General Hospital",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Prospective randomized, two-stage trial to assess the antiviral efficacy of Pegylated\n      Interferon Lambda (180 mcg SC injection) vs. standard of care in up to 40 subjects (20\n      inpatient and 20 outpatient) with COVID-19 infection."
+        },
+        "detailed_description": {
+            "textblock": "The study objective is to assess the efficacy of Pegylated Interferon Lambda (180 mcg) vs.\n      standard of care in inducting PCR negativity at day 7 among inpatient subjects with\n      mild-to-moderate symptomatic as well as among outpatient subjects with mildly symptomatic\n      COVID-19"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 1, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Undetectable COVID PCR at day 7",
+            "time_frame": "1 week",
+            "description": "Negative COVID PCR testing 7 days after first lambda dose"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Undetectable COVID PCR at day 3, 10 and 14",
+                "time_frame": "2 weeks",
+                "description": "Negative COVID PCR testing 3, 10 and 14 days after first lambda dose"
+            },
+            {
+                "measure": "Percentage of subjects on Lambda vs standard of care with symptomatic improvement",
+                "time_frame": "2 weeks",
+                "description": "Daily symptom score improvement during treatment period"
+            },
+            {
+                "measure": "Percentage of subjects on Lambda vs standard of care with improved clinical outcomes",
+                "time_frame": "2 weeks",
+                "description": "Time to event for death, intubation, hospital discharge"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "40"
+        },
+        "condition": [
+            "COVID-19",
+            "COVID"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Lambda Treatment",
+                "arm_group_type": "Experimental",
+                "description": "Treatment with subcutaneous injection (180 mcg) of pegylated interferon lambda"
+            },
+            {
+                "arm_group_label": "Standard of Care",
+                "arm_group_type": "No Intervention",
+                "description": "Clinical supportive treatment for COVID-19 (standard of care)"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Pegylated interferon lambda",
+            "description": "180 mcg subcutaneous injection of pegylated interferon lambda",
+            "arm_group_label": "Lambda Treatment",
+            "other_name": "Lambda"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Able to provide informed consent\n\n          -  Confirmed COVID-19 diagnosis based on PCR analysis of respiratory secretions\n\n          -  Asymptomatic or exhibiting early symptoms of respiratory infection (fever \u2264 38.6\u00b0C,\n             heart rate \u2264 100 bpm, respiratory rate \u2264 24 bpm, O2 % \u2265 94% on room air)\n\n        Exclusion Criteria:\n\n          -  Clinically-significant illness or any other major medical disorder that in the opinion\n             of the investigator, may interfere with subject treatment, assessment or compliance\n             with the protocol\n\n          -  Treatment with IFN or other immunomodulatory/immunosuppressive agent within 12 months\n             before screening.\n\n          -  Respiratory compromise requiring invasive or non-invasive ventilatory support\n             (supplementary oxygen through nasal cannula, mask, bipap or intubation and mechanical\n             ventilation).\n\n          -  Pregnant or Nursing Females\n\n          -  Platelet count <90,000 cells/mm3\n\n          -  WBC count <3,000 cells/mm3\n\n          -  ANC <1,500 cells/mm3\n\n          -  Hb <11 g/dL for women and <12 g/dL for men\n\n          -  CrCl < 50 mL/min\n\n          -  Bilirubin level \u2265 2.5 mg/dL\n\n          -  Alb <3.5 g/dL\n\n          -  INR \u22651.5 (except in the setting of concomitant anticoagulant use)\n\n          -  Clinically-relevant alcohol or drug abuse within 12 months of screening\n\n          -  Known hypersensitivity to Interferons\n\n          -  Current or planned participation in an investigational new drug (IND) trial from\n             30-days prior to randomization through Day 14 post treatment"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Raymond Chung, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Massachusetts General Hospital"
+        },
+        "overall_contact": {
+            "last_name": "Jenna Gustafson, MSc",
+            "phone": "6177243836",
+            "email": "JLGustafson@mgh.harvard.edu"
+        },
+        "location": {
+            "facility": {
+                "name": "Massachusetts General Hospital",
+                "address": {
+                    "city": "Boston",
+                    "state": "Massachusetts",
+                    "zip": "02114",
+                    "country": "United States"
+                }
+            },
+            "contact": {
+                "last_name": "Raymond Chung, MD",
+                "email": "Chung.Raymond@mgh.harvard.edu"
+            },
+            "contact_backup": {
+                "last_name": "Jenna Gustafson, MSc",
+                "email": "JLGustafson@mgh.harvard.edu"
+            },
+            "investigator": [
+                {
+                    "last_name": "Raymond Chung, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Arthur Kim, MD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Massachusetts General Hospital",
+            "investigator_full_name": "Raymond Chung",
+            "investigator_title": "Director of Hepatology, MGH"
+        },
+        "keyword": [
+            "COVID",
+            "Coronavirus"
+        ],
+        "intervention_browse": {
+            "mesh_term": "Interferons"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "Coded data is anticipated to be shared with outside institutions. Safety data will be shared with the drug manufacturer",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Informed Consent Form (ICF)"
+            ],
+            "ipd_time_frame": "Data is anticiapted to be made available within 3 months of study completion. Safety data, specifically treatment related adverse events, will be shared in real time",
+            "ipd_access_criteria": "researchers accessing IPD must be an approved and have a data use agreement in place with Partners Healthcare to access the data"
+        }
+    }
+}

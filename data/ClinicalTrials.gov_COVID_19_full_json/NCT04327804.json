@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "441",
+        "@rank": "399",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04327804"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "20-002",
             "nct_id": "NCT04327804"
         },
-        "brief_title": "A Longitudinal Study of SARS-CoV-2 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research",
-        "official_title": "A Longitudinal Study of SARS-CoV-2 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research",
+        "brief_title": "A Longitudinal Study of COVID-19 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research",
+        "official_title": "A Longitudinal Study of COVID-19 Positive Patients Testing Nasal Swabs and Collecting Blood Samples for Research",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Dr. Deneen Vojta",
@@ -42,7 +42,7 @@
             "textblock": "Minimal risk research study:\n\n        1. Comparing polyester nasal swabs and foam nasal swabs to detect SARS-CoV-2 virus;\n\n        2. Quantifying the development and trajectory of the disease through clinic visits and\n           blood values."
         },
         "detailed_description": {
-            "textblock": "This work will serve both the Everett Clinic and broader UnitedHealth Group patient\n      populations as well as advance the public health emergency response to the community spread\n      of SARS-CoV-2 virus, especially as the number of cases and deaths continues to rise in many\n      geographies. A recent study conducted at The Everett Clinic showed that foam nasal swabs were\n      able to detect SARS-CoV-2 virus at comparable levels to nasopharyngeal (NP) swabs. We now\n      look to build of this work by comparing polyester foam swabs, which are more readily\n      available and mass producible, to foam nasal swabs, in their sensitivity for detecting\n      SARS-CoV-2 virus. We also plan to assess the viability of dry swabbing, where the swab is\n      stored without saline or viral transport media (VTM) at room temperature for four days, to\n      calculate the degradation of the viral sample. Finally, we will collect up to 50 mL/visit of\n      blood longitudinally from patients who have previously tested positive for SARS-CoV-2 at\n      visit one, two, and four weeks following their initial COVID-10 diagnosis These longitudinal\n      blood samples will help us gain a better understanding of the trajectory of COVID-19 (in\n      terms of both clinical symptomology and viral load) and antibody development. At each visit,\n      nasal swabs and blood samples will be collected, and the blood samples will be stored in a\n      repository for future research."
+            "textblock": "This work will serve both the Everett Clinic and broader UnitedHealth Group patient\n      populations as well as advance the public health emergency response to the community spread\n      of SARS-CoV-2 virus, especially as the number of cases and deaths continues to rise in many\n      geographies. A recent study conducted at The Everett Clinic showed that foam nasal swabs were\n      able to detect SARS-CoV-2 virus at comparable levels to nasopharyngeal (NP) swabs. We now\n      look to build off this work by comparing polyester foam swabs, which are more readily\n      available and mass producible, to foam nasal swabs, in their sensitivity for detecting\n      SARS-CoV-2 virus. We also plan to assess the viability of dry swabbing, where the swab is\n      stored without saline or viral transport media (VTM) at room temperature for four days, to\n      calculate the degradation of the viral sample.\n\n      Finally, we will collect up to 50 mL/visit of blood longitudinally from patients who have\n      previously tested positive for SARS-CoV-2 at visit one, two, and four weeks following their\n      initial COVID-10 diagnosis.The medical professional drawing the blood will determine if the\n      patient is at an increased risk from a blood draw due to underlying conditions such as\n      anemia. In these cases, the amount of blood drawn will be left to the discretion of the\n      medical professional but shall not surpass 10 mL per visit.These longitudinal blood samples\n      will help us gain a better understanding of the trajectory of COVID-19 (in terms of both\n      clinical symptomology and viral load) and antibody development. At each visit, nasal swabs\n      and blood samples will be collected, and the blood samples will be stored in a repository for\n      future research."
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -160,18 +160,18 @@
                 "citation": "Frosch, Dan, et al. \"Coronavirus Testing Chaos Across America\". Wall Street Journal, March 19, 2020"
             }
         ],
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 26, 2020",
         "study_first_submitted_qc": "March 26, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 31, 2020"
         },
-        "last_update_submitted": "March 26, 2020",
-        "last_update_submitted_qc": "March 26, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 31, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

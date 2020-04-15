@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "308",
+        "@rank": "342",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04342650"
         },
@@ -28,10 +28,10 @@
         "brief_summary": {
             "textblock": "This is a double-blind, randomized, placebo-controlled clinical trial. A total of 210\n      individuals aged over 18 years old, without a diagnosis of severe respiratory disease, who\n      came to the study site with clinical and radiological suspicion of SARS-CoV2, will be\n      randomized into two treatment groups at a 1:1 ratio to receive a 5-day CQ diphosphate tablets\n      or placebo (tablet without active ingredient produced with the same physical\n      characteristics)."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 2020"
+            "@type": "Actual",
+            "#text": "April 8, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -168,6 +168,11 @@
                     "zip": "69093-415",
                     "country": "Brazil"
                 }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Mayla Borba, MD",
+                "phone": "+5592981519122"
             }
         },
         "location_countries": {
@@ -177,14 +182,14 @@
         "study_first_submitted": "April 4, 2020",
         "study_first_submitted_qc": "April 8, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 13, 2020"
         },
-        "last_update_submitted": "April 8, 2020",
-        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 13, 2020"
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

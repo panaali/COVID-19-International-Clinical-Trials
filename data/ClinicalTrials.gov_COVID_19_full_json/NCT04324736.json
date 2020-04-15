@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "436",
+        "@rank": "443",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04324736"
         },
@@ -10,9 +10,9 @@
             "org_study_id": "RC20_0148",
             "nct_id": "NCT04324736"
         },
-        "brief_title": "\"Coronavirus SARS-CoV2 and Diabetes Outcomes\"",
+        "brief_title": "\"COVID-19 and Diabetes Outcomes\"",
         "acronym": "CORONADO",
-        "official_title": "\"Coronavirus SARS-CoV2 and Diabetes Outcomes\"",
+        "official_title": "\"Coronavirus SARS-CoV2 and Diabetes Outcomes\" : CORONADO",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Nantes University Hospital",
@@ -131,11 +131,11 @@
             "@type": "Actual",
             "#text": "March 27, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 8, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

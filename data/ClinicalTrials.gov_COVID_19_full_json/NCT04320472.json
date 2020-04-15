@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "217",
+        "@rank": "249",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04320472"
         },
@@ -103,22 +103,423 @@
             "phone": "33139638839",
             "email": "neurocovid19study@ictalgroup.org"
         },
-        "location": {
-            "facility": {
-                "name": "Centre Hospitalier de Versailles",
-                "address": {
-                    "city": "Le Chesnay",
-                    "zip": "78150",
-                    "country": "France"
+        "location": [
+            {
+                "facility": {
+                    "name": "Centre Hospitalier d'Argenteuil",
+                    "address": {
+                        "city": "Argenteuil",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Gaetan Plantefeve, MD"
                 }
             },
-            "status": "Recruiting",
-            "contact": {
-                "last_name": "Stephane LEGRIEL, MD, PhD",
-                "phone": "33139638839",
-                "email": "neurocovid19study@ictalgroup.org"
+            {
+                "facility": {
+                    "name": "Centre Hospitalier de Beauvais",
+                    "address": {
+                        "city": "Beauvais",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "David Luis, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire Ambroise Par\u00e9",
+                    "address": {
+                        "city": "Boulogne",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Guillaume Geri, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier R\u00e9gional Universitaire de Brest",
+                    "address": {
+                        "city": "Brest",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Pierre Bailly, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier de Brives",
+                    "address": {
+                        "city": "Brive-la-Gaillarde",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Nicolas Pichon, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire Beaujon",
+                    "address": {
+                        "city": "Clichy",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Mathilde Holleville, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire Louis Mourier",
+                    "address": {
+                        "city": "Colombes",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Damien Roux, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre hospitalier de Dieppe",
+                    "address": {
+                        "city": "Dieppe",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Philippe Rigaud, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire de Dijon",
+                    "address": {
+                        "city": "Dijon",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Pierre Quenot, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier d'Etampes",
+                    "address": {
+                        "city": "Etampes",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Shidasp Siami, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Grand H\u00f4pital de l'Est Francilien - Site de Marne-la-Vall\u00e9e",
+                    "address": {
+                        "city": "Jossigny",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jonathan Zarka, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier de la Roche-sur-Yon",
+                    "address": {
+                        "city": "La Roche-sur-Yon",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Gwenhael Colin, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier de La Rochelle",
+                    "address": {
+                        "city": "La Rochelle",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Olivier Lesieur, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier de Versailles",
+                    "address": {
+                        "city": "Le Chesnay",
+                        "zip": "78150",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Stephane LEGRIEL, MD, PhD",
+                    "phone": "33139638839",
+                    "email": "neurocovid19study@ictalgroup.org"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Marine Paul, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Alexis Ferre, MD",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Gwenaelle Jacq, RN",
+                        "role": "Sub-Investigator"
+                    },
+                    {
+                        "last_name": "Marie-Charlotte De Carn\u00e9, MD",
+                        "role": "Sub-Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire de Lille",
+                    "address": {
+                        "city": "Lille",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Merc\u00e8 Jourdain, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire H\u00f4pital Edouard Herriot",
+                    "address": {
+                        "city": "Lyon",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Laurent Argaud, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital priv\u00e9 Jacques Cartier",
+                    "address": {
+                        "city": "Massy",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Wulfran Bougouin, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire de Nantes",
+                    "address": {
+                        "city": "Nantes",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jean-Baptiste Lascarrou, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier R\u00e9gional d'Orl\u00e9ans",
+                    "address": {
+                        "city": "Orl\u00e9ans",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Dalila Benzekri, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire Cochin",
+                    "address": {
+                        "city": "Paris",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Sarah Benghanem, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Groupe hospitalier Paris Saint-Joseph",
+                    "address": {
+                        "city": "Paris",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Cedric Bruel, MD"
+                },
+                "investigator": {
+                    "last_name": "Candice Fontaine, MD",
+                    "role": "Sub-Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital Fondation Adolphe de Rothschild",
+                    "address": {
+                        "city": "Paris",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Nicolas Engrand, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hopital Priv\u00e9 Claude Galien",
+                    "address": {
+                        "city": "Quincy-sous-S\u00e9nart",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Arnaud Galbois, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire de Rennes",
+                    "address": {
+                        "city": "Rennes",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Yoann Launey, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier de Roanne",
+                    "address": {
+                        "city": "Roanne",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Pascal Beuret, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Hopital Foch",
+                    "address": {
+                        "city": "Suresnes",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Benjamin Zuber, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier de Toulon",
+                    "address": {
+                        "city": "Toulon",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Jonathan Chelly, MD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire de Toulouse",
+                    "address": {
+                        "city": "Toulouse",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Stein Silva, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Centre Hospitalier Universitaire de Tours",
+                    "address": {
+                        "city": "Tours",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Antoine Guillon, MD, PhD"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Gustave-Roussy",
+                    "address": {
+                        "city": "Villejuif",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Carole Ruault, MD"
+                }
             }
-        },
+        ],
         "location_countries": {
             "country": "France"
         },
@@ -129,11 +530,11 @@
             "@type": "Actual",
             "#text": "March 25, 2020"
         },
-        "last_update_submitted": "April 9, 2020",
-        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 13, 2020"
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

@@ -1,0 +1,164 @@
+{
+    "clinical_study": {
+        "@rank": "65",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344444"
+        },
+        "id_info": {
+            "org_study_id": "COVID 2020-001",
+            "nct_id": "NCT04344444"
+        },
+        "brief_title": "Treatment in Patients With Suspected or Confirmed COVID-19 With Early Moderate or Severe Disease",
+        "acronym": "RCT",
+        "official_title": "Treatment in Patients With Suspected or Confirmed COVID-19 With Early Moderate or Severe Disease: A Randomized Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "LCMC Health",
+                "agency_class": "Other"
+            }
+        },
+        "source": "LCMC Health",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study proposes to evaluate clinical outcomes and viral load in COVID-19 infected\n      patients with early moderate and severe disease admitted to the hospital and randomized to\n      one of three arms. Patients will be randomized to supportive care, OR hydroxychloroquine\n      alone, OR hydroxychloroquine and azithromycin."
+        },
+        "detailed_description": {
+            "textblock": "This is a phase 3 study.\n\n      Primary Objective:\n\n      \u2022 To evaluate clinical outcomes in patients with suspected or confirmed COVID-19 with early\n      moderate to severe disease in a randomized controlled trial.\n\n      Secondary Objectives:\n\n        -  To evaluate quantitative viral load over time\n\n        -  To evaluate length of hospital stay and days in ICU\n\n        -  To evaluate toxicity of the treatment options\n\n        -  To evaluate rate of readmission after hospital discharge\n\n        -  To evaluate duration of clinical symptoms\n\n      Arm A:\n\n      Control Arm - Supportive Care Only\n\n      Arm B:\n\n      Hydroxychloroquine 400 mg po bid on Day 1 Hydroxychloroquine 200 mg po bid Days 2 through 5\n\n      Arm C:\n\n      Hydroxychloroquine as in Arm B AND Azithromycin 500 mg po on Day 1 Azithromycin 250 mg po\n      days 2 through 5"
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 10, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 10, 2021"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Most severe outcome",
+            "time_frame": "5 days",
+            "description": "ordinal outcome of most severe a patient experienced after inpatient admission"
+        },
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "600"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Arm A",
+                "arm_group_type": "No Intervention",
+                "description": "Supportive Care only"
+            },
+            {
+                "arm_group_label": "Arm B",
+                "arm_group_type": "Experimental",
+                "description": "Hydroxychloroquine 400 mg po bid on Day 1 Hydroxychloroquine 200 mg po bid Days 2 through 5"
+            },
+            {
+                "arm_group_label": "Arm C",
+                "arm_group_type": "Experimental",
+                "description": "Hydroxychloroquine as in Arm B AND Azithromycin 500 mg po on Day 1 Azithromycin 250 mg po days 2 through 5"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxychloroquine",
+                "description": "tablets provided as described in Arm B",
+                "arm_group_label": [
+                    "Arm B",
+                    "Arm C"
+                ]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Azithromycin",
+                "description": "tablets provided as described in Arm C",
+                "arm_group_label": "Arm C"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age greater than 18 years\n\n          -  Positive SARS-CoV-2 testing or consistent clinical syndrome (based on clinical picture\n             e.g. characteristic infiltrates on chest x-ray, laboratory findings, and with\n             agreement by two physicians) in patients under investigation (PUIs).\n\n          -  Onset of symptoms < 7 days from date of enrollment\n\n          -  Oxygen saturation of >94% on room air with defined risk factors (Table 1) consistent\n             with moderate disease OR oxygen saturation of < 94% on room air consistent with severe\n             disease\n\n          -  Ability and willingness to comply with study procedures\n\n        Exclusion Criteria:\n\n          -  QTc greater than 450 milliseconds on screening EKG\n\n          -  Pregnant or lactating women\n\n          -  Inability to take oral pills or inability to use a feeding tube\n\n          -  Inability to obtain informed consent either from the patient or from the next of kin\n             if patient is incapacitated. For the purpose of this study obtaining a verbal consent\n             from a family member on the phone with a witness will be considered acceptable since\n             there is a 'no visitor' policy in force at hospitals.\n\n          -  Patients requiring ICU level care\n\n          -  use of azithromycin or hydroxychloroquine within 30 days prior to admission"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "100 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Meredith Clement, MD",
+            "role": "Principal Investigator",
+            "affiliation": "LSUHSC/UMCNO"
+        },
+        "overall_contact": {
+            "last_name": "Jeannine Ascani, MS",
+            "phone": "5047023141",
+            "email": "jeannine.ascani@lcmchealth.org"
+        },
+        "location": {
+            "facility": {
+                "name": "University Medical Center New Orleans",
+                "address": {
+                    "city": "New Orleans",
+                    "state": "Louisiana",
+                    "zip": "70112",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Jeannine Ascani",
+                "phone": "504-702-3141",
+                "email": "jeannine.ascani@lcmchealth.org"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

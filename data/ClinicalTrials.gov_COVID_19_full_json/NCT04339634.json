@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "324",
+        "@rank": "362",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04339634"
         },
@@ -118,28 +118,11 @@
             "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
-        "overall_official": [
-            {
-                "last_name": "Veronique Michaud, PhD",
-                "role": "Principal Investigator",
-                "affiliation": "Tabula Rasa HealthCare"
-            },
-            {
-                "last_name": "Malavika Deodhar, PhD",
-                "role": "Principal Investigator",
-                "affiliation": "Tabula Rasa HealthCare"
-            },
-            {
-                "last_name": "Sweilem B Al Rihani, PharmD, PhD",
-                "role": "Principal Investigator",
-                "affiliation": "Tabula Rasa HealthCare"
-            },
-            {
-                "last_name": "Jacques Turgeon, PhD",
-                "role": "Principal Investigator",
-                "affiliation": "Tabula Rasa HealthCare"
-            }
-        ],
+        "overall_official": {
+            "last_name": "Veronique Michaud, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Tabula Rasa HealthCare"
+        },
         "location": {
             "facility": {
                 "name": "Tabula Rasa HealthCare Precision Pharmacotherapy Research and Development Institute",
@@ -197,11 +180,11 @@
             "@type": "Actual",
             "#text": "April 9, 2020"
         },
-        "last_update_submitted": "April 8, 2020",
-        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_submitted": "April 11, 2020",
+        "last_update_submitted_qc": "April 11, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 9, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

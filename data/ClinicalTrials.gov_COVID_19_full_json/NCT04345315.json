@@ -1,0 +1,229 @@
+{
+    "clinical_study": {
+        "@rank": "180",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345315"
+        },
+        "id_info": {
+            "org_study_id": "IRSTB113",
+            "nct_id": "NCT04345315"
+        },
+        "brief_title": "Correlative Study on Cancer Patients and Healthcare Professionals Exposed to Severe Acute Respiratory Syndrome-Corona Virus-2 Infection",
+        "acronym": "CORSA",
+        "official_title": "Correlative Study on Cancer Patients and Healthcare Professionals Exposed to SARS-CoV-2 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "AUSL Romagna",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Istituto Scientifico Romagnolo per lo Studio e la cura dei Tumori",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Translational, prospective / retrospective, non-profit, non-pharmacological study, with\n      cohort characteristics.\n\n      The study consists of two parts: the first to study epidemiological aspects of the spread of\n      the disease and the second one to identify infection-related genetic factors."
+        },
+        "detailed_description": {
+            "textblock": "The outbreak of COVID-19 infections is spreading in Italy with unprecedented severity\n      characteristics. In this context, it is essential to collect data relating to the\n      epidemiology of the disease, to outline further useful tools for diagnosis and to define the\n      correct use of rapid molecular and / or serological tests in the surveillance of high-risk\n      subjects (cancer patients and healthcare operators), in order to identify any new disease\n      control strategies, crucial to reduce the transmission and to outline specific guidelines for\n      cancer patients healthcare management. It is also necessary to identify the factors that\n      determine the evolution of the viral genome over time in the various geographical areas and\n      also the potential susceptibility markers in the different types of affected subjects\n      (symptomatic, mildly symptomatic and asymptomatic)."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 27, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "March 2021"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Other"
+        },
+        "primary_outcome": {
+            "measure": "epidemiology",
+            "time_frame": "12 months",
+            "description": "Investigate the epidemiology of the infection in an asymptomatic population including both healthy individuals at high risk of infection and oncological patients by assessing the seroprevalence of IgG and IgM antibodies against the SARS-CoV-2"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Immunoglobulin G (IgG) and Immunoglobulin M (IgM) antibodies evaluation",
+                "time_frame": "12 months",
+                "description": "IgG and IgM antibodies evaluation over time"
+            },
+            {
+                "measure": "methods comparison",
+                "time_frame": "24 months",
+                "description": "Make a comparison between different serological investigation methods and rapid molecular methods becoming available"
+            },
+            {
+                "measure": "correlation between biochemical and coagulative factors with SARS-CoV-2 positivity.",
+                "time_frame": "24 months",
+                "description": "To evaluate correlation between biochemical and coagulative factors with SARS-CoV-2 positivity"
+            },
+            {
+                "measure": "phylogenetic map",
+                "time_frame": "24 months",
+                "description": "Building a phylogenetic map of an epidemic Italian macro-region"
+            },
+            {
+                "measure": "interactions between the virus and host cells",
+                "time_frame": "24 months",
+                "description": "Evaluate the spectrum of possible interactions between the virus and host cells, considering their genetic variability / instability in patients diagnosed with COVID-19"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": [
+            "COVID-19",
+            "SARS-CoV-2"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "asymptomatic population at high risk of infection",
+                "description": "healthy individuals at high risk of infection, including individuals who have had contact with a patient tested positive for COVID-19, voluntary health workers and oncological patients candidate to immunosuppressive therapy"
+            },
+            {
+                "arm_group_label": "COVID-19 patients",
+                "description": "patients with confirmed diagnosis of COVID-19"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Other",
+                "intervention_name": "serological test",
+                "description": "serological test assessing IgM and IgG directed against SARS-CoV-2",
+                "arm_group_label": "asymptomatic population at high risk of infection"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Rapid molecular test",
+                "description": "Molecular test to detect SARS-CoV-2 in oro/rhinopharyngeal swab",
+                "arm_group_label": "asymptomatic population at high risk of infection"
+            },
+            {
+                "intervention_type": "Genetic",
+                "intervention_name": "Next generation Sequencing (NGS) analysis",
+                "description": "analysis of genetic variability of virus and host",
+                "arm_group_label": "COVID-19 patients"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "serum chemistry analysis",
+                "description": "Analysis of serum chemistry factors and coagulation panel in blood samples",
+                "arm_group_label": "asymptomatic population at high risk of infection"
+            }
+        ],
+        "biospec_retention": "Samples With DNA",
+        "biospec_descr": {
+            "textblock": "oropharyngeal and nasal swabs and blood samples will be collected"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "For epidemiologic analysis, asymptomatic population 350 health workers / healthy subjects\n        at risk of infection and 50 cancer patients candidates for immunosuppressive therapies will\n        be enrolled.\n\n        For analysis of genetic variability of virus and host factors impacting on susceptibility\n        to infection: samples from about 100 SARS-CoV-2 positive patients (sintomatic,\n        paucisintomatic or asymptomatic), retained at Pievesestina Laboratory after diagnostic\n        procedure, will be analyzed. All samples for genetic analysis will be anonymized."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "For epidemiologic analysis:\n\n        Inclusion Criteria:\n\n          -  Age > 18 years\n\n          -  asymptomatic\n\n          -  One of the following three conditions: \u2022 Healthy subjects who have had contact with\n             COVID-19 positive patients \u2022 Healthcare workers \u2022 oncological patients candidates for\n             cytotoxic chemotherapy at myeloablative doses (such as transplants) or treated with\n             immune-check point inhibitors.\n\n          -  informed consent to the study and processing of data\n\n        Exclusion Criteria:\n\n          -  presence of symptoms for COronaVIrus Disease 19 (COVID-19) (fever > 37.5 \u00b0, cough,\n             shortness of breath)\n\n        For analysis of viral/host genetic factors involved in susceptibility/resistance to\n        infection, samples from patients with confirmed diagnosis of COVID-19, residual from\n        diagnostic procedures will be analyzed. All samples for genetic analysis will be\n        anonymized."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Giovanni Martinelli, Prof.",
+            "role": "Principal Investigator",
+            "affiliation": "IRST IRCCS"
+        },
+        "overall_contact": {
+            "last_name": "Giovanni Martinelli, Prof",
+            "phone": "+39 0543 739100",
+            "email": "giovanni.martinelli@irst.emr.it"
+        },
+        "overall_contact_backup": {
+            "last_name": "Oriana Nanni, Dr",
+            "phone": "+39 0543 739100",
+            "email": "oriana.nanni@irst.emr.it"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "UO Microbiologia,Centro Servizi Pievesestina, AUSL Romagna",
+                    "address": {
+                        "city": "Cesena",
+                        "state": "FC",
+                        "zip": "47522",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Active, not recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Irst Irccs",
+                    "address": {
+                        "city": "Meldola",
+                        "state": "FC",
+                        "zip": "47014",
+                        "country": "Italy"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Giovanni Martinelli, Prof",
+                    "email": "giovanni.martinelli@irst.emr.it"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Italy"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "SARS-CoV-2",
+            "COVID-19",
+            "cancer",
+            "IgM-IgG",
+            "seroprevalence"
+        ],
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

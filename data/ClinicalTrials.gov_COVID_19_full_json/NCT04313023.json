@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "62",
+        "@rank": "75",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04313023"
         },
@@ -10,8 +10,8 @@
             "org_study_id": "PUL-042-501",
             "nct_id": "NCT04313023"
         },
-        "brief_title": "The Use PUL-042 Inhalation Solution to Prevent COVID-19 in Adults Exposed to SARS-CoV-2",
-        "official_title": "A Phase 2 Multiple Dose Study to Evaluate the Efficacy and Safety of PUL-042 Inhalation Solution in Reducing COVID-19 Infection in Adults Exposed to COVID-19",
+        "brief_title": "The Use PUL-042 to Reduce the Infection Rate and Progression to COVID-19 in Adults Exposed to SARS-CoV-2",
+        "official_title": "A Phase 2 Multiple Dose Study to Evaluate the Efficacy and Safety of PUL-042 Inhalation Solution in Reducing the Infection Rate and Progression to COVID-19 in Adults Exposed to SARS-CoV-2",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Pulmotect, Inc.",
@@ -25,7 +25,7 @@
             "is_fda_regulated_device": "No"
         },
         "brief_summary": {
-            "textblock": "Subjects who have documented exposure to SARS-CoV-2 (COVID-19) and test negative for\n      SARS-CoV-2 infection will receive 4 doses of PUL-042 Inhalation Solution or 4 doses of a\n      placebo solution by inhalation over 2 weeks. Subjects must be under quarantine in a\n      controlled facility or hospital (home quarantine is not sufficient). Subjects will be under\n      observation and tested for infection with SARS-CoV-2 over a 14 day period."
+            "textblock": "Subjects who have documented exposure to SARS-CoV-2 (COVID-19) will receive 4 doses of\n      PUL-042 Inhalation Solution or 4 doses of a placebo solution by inhalation over 10 days.\n      Subjects will be followed for the incidence and severity of COVID-19 over 28 days. Subjects\n      will be tested for infection with SARS-CoV-2 at the beginning, middle and end of the study."
         },
         "overall_status": "Not yet recruiting",
         "start_date": {
@@ -50,10 +50,37 @@
             "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
         },
         "primary_outcome": {
-            "measure": "Prevention of COVID-19",
+            "measure": "Severity of COVID-19",
             "time_frame": "14 days",
-            "description": "Difference in the incidence of infection with SARS-CoV-2"
+            "description": "To determine the efficacy of PUL-042 Inhalation Solution in the prevention of viral infection with SARS-CoV-2 and progression to COVID-19 in subjects: 1) who have repeated exposure to individuals with SARS-CoV-2 infection and, 2) are asymptomatic at enrollment.\nThe primary endpoint is the severity of COVID-19 as measured by the maximum difference from the baseline value in the Ordinal Scale for Symptom Improvement within 14 days from the start of experimental therapy."
         },
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of SARS-CoV-2 infection",
+                "time_frame": "14 days",
+                "description": "Positive test for SARS-CoV-2 infection 14 days from the start of experimental therapy in subjects who test negative for SARS-CoV-2 at the pre-treatment visit"
+            },
+            {
+                "measure": "Severity of COVID-19",
+                "time_frame": "28 days",
+                "description": "The severity of COVID-19 as measured by the maximum difference from the baseline value in the Ordinal Scale for Symptom Improvement within 28 days from the start of experimental therapy."
+            },
+            {
+                "measure": "ICU admission",
+                "time_frame": "28 days",
+                "description": "The requirement for ICU admission within 28 days from the start of experimental therapy."
+            },
+            {
+                "measure": "Mechanical ventilation",
+                "time_frame": "28 days",
+                "description": "The requirement for mechanical ventilation within 28 days from the start of experimental therapy."
+            },
+            {
+                "measure": "Mortality",
+                "time_frame": "28 days",
+                "description": "All cause mortality at 28 days from the start of experimental therapy."
+            }
+        ],
         "number_of_arms": "2",
         "enrollment": {
             "@type": "Anticipated",
@@ -64,31 +91,31 @@
             {
                 "arm_group_label": "PUL-042 Inhalation Solution",
                 "arm_group_type": "Experimental",
-                "description": "PUL-042 Inhalation Solution given by nebulization on study days 1,3, 6, and 10"
+                "description": "PUL-042 Inhalation Solution given by nebulization on Study Days 1, 3, 6, and 10"
             },
             {
-                "arm_group_label": "Sterile normal saline for inhalation",
+                "arm_group_label": "Sterile saline for inhalation",
                 "arm_group_type": "Placebo Comparator",
-                "description": "Sterile normal saline for inhalation given by nebulization on study days 1, 3, 6, and 10"
+                "description": "Sterile saline for inhalation given by nebulization on Study Days 1, 3, 6, and 10"
             }
         ],
         "intervention": [
             {
                 "intervention_type": "Drug",
                 "intervention_name": "PUL-042 Inhalation Solution",
-                "description": "20.3 \u00b5g Pam2 : 29.8 \u00b5g ODN/mL (50 \u00b5g PUL-042) PUL-042 Inhalation Solution will be given by nebulization on study days 1, 3, 6, and 10",
+                "description": "20.3 \u00b5g Pam2 : 29.8 \u00b5g ODN/mL (50 \u00b5g PUL-042) PUL-042 Inhalation Solution",
                 "arm_group_label": "PUL-042 Inhalation Solution"
             },
             {
                 "intervention_type": "Drug",
                 "intervention_name": "Placebo",
-                "description": "Sterile normal saline for inhalation",
-                "arm_group_label": "Sterile normal saline for inhalation"
+                "description": "Sterile saline for inhalation",
+                "arm_group_label": "Sterile saline for inhalation"
             }
         ],
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  1. Subjects must have documented exposure to COVID-19 and have a documented negative\n             test for the virus within 72 hours of the administration of study drug\n\n          -  2. Subjects must be free of clinical symptoms (fever, cough, shortness of breath) of a\n             potential COVID-19 infection\n\n          -  3. Subjects must be under quarantine in a controlled facility or hospital (home\n             quarantine is not sufficient)\n\n          -  4. Spirometry (forced expiratory volume in one second [FEV1] and forced vital capacity\n             [FVC]) \u226570% of predicted value\n\n          -  5. If female, must be either post-menopausal (one year or greater without menses),\n             surgically sterile, or, for female subjects of child-bearing potential who are capable\n             of conception must be: practicing two effective methods of birth control (acceptable\n             methods include intrauterine device, spermicide, barrier, male partner surgical\n             sterilization, and hormonal contraception) during the study and through 30 days after\n             completion of the study. Abstinence is not classified as an effective method of birth\n             control.\n\n          -  6. If female, must not be pregnant, plan to become pregnant, or nurse a child during\n             the study and through 30 days after completion of the study. A pregnancy test must be\n             negative at the Screening Visit, prior to dosing on Day 1.\n\n          -  7. If male, must be surgically sterile or willing to practice two effective methods of\n             birth control (acceptable methods include barrier, spermicide, or female partner\n             surgical sterilization) during the study and through 30 days after completion of the\n             study. Abstinence is not classified as an effective method of birth control.\n\n          -  8. Ability to understand and give informed consent.\n\n        Exclusion Criteria:\n\n          -  1. Documented infection with COVID-19\n\n          -  2. Clinical signs and symptoms consistent with COVID-19 infection (fever, cough,\n             shortness of breath) at the time of screening\n\n          -  3. Known history of chronic pulmonary disease (e.g., asthma [including atopic asthma,\n             exercise-induced asthma, or asthma triggered by respiratory infection], chronic\n             pulmonary disease, pulmonary fibrosis, COPD), pulmonary hypertension, or heart\n             failure.\n\n          -  4. Any condition which, in the opinion of the Principal Investigator, would prevent\n             full participation in this trial or would interfere with the evaluation of the trial\n             endpoints.\n\n          -  5. Previous exposure to PUL-042 Inhalation Solution"
+                "textblock": "Inclusion Criteria:\n\n          1. Subjects must have documented exposure to SARS-CoV-2 (defined as repeated daily\n             exposure to an infected individual(s) [such as cohabiting with a SARS-CoV-2 positive\n             individual] or involved in the assessment or care of COVID-19 patients without\n             adequate PPE such as non availability of a N95 mask).\n\n          2. Subjects must be 50 years or older if the exposure is due to cohabitation.\n\n          3. Subjects must be free of clinical signs or symptoms of a potential COVID-19 diagnosis\n             (Ordinal Scale of Clinical Improvement score of 0) with a SARS-CoV-2 infection symptom\n             score (fever, cough, shortness of breath, and fatigue) of 0 in each category.\n\n          4. Spirometry (forced expiratory volume in one second FEV1 and forced vital capacity\n             [FVC]) \u226570% of predicted value.\n\n          5. If female, the subject must be surgically sterile or \u2265 1 year postmenopausal. If of\n             child-bearing potential (including being < 1years postmenopausal) and, if\n             participating in sexual activity that may lead to pregnancy, the subject agrees to use\n             an effective dual method of birth control (acceptable methods include intrauterine\n             device, spermicide, barrier, male partner surgical sterilization, and hormonal\n             contraception) during the study and through 30 days after completion of the study.\n\n          6. If female, must not be pregnant, plan to become pregnant, or nurse a child during the\n             study and through 30 days after completion of the study. A pregnancy test must be\n             negative at the Screening Visit, prior to dosing on Day 1.\n\n          7. If male, must be surgically sterile or, if not surgically sterile and if participating\n             in sexual activities that may lead to pregnancy, be willing to practice two effective\n             methods of birth control (acceptable methods include barrier, spermicide, or female\n             partner surgical sterilization) during the study and through 30 days after completion\n             of the study.\n\n          8. Ability to understand and give informed consent.\n\n        Exclusion Criteria:\n\n          1. Previous infection with SARS-CoV-2.\n\n          2. A SARS-CoV-2 infection symptom score greater than 0 in any of the 4 catergories\n             (fever, cough, shortness of breath or fatigue) at the time of screening (Ordinal Scale\n             for Clinical Improvement score of 0).\n\n          3. Known history of chronic pulmonary disease (e.g., asthma [including atopic asthma,\n             exercise-induced asthma, or asthma triggered by respiratory infection], chronic\n             pulmonary disease, pulmonary fibrosis, COPD), pulmonary hypertension, or heart\n             failure.\n\n          4. Any condition which, in the opinion of the Principal Investigator, would prevent full\n             participation"
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -110,24 +137,27 @@
             "phone": "713-579-9226",
             "email": "clincaltrials@pulmotect.com"
         },
-        "verification_date": "March 2020",
+        "verification_date": "April 2020",
         "study_first_submitted": "March 16, 2020",
         "study_first_submitted_qc": "March 16, 2020",
         "study_first_posted": {
             "@type": "Actual",
             "#text": "March 18, 2020"
         },
-        "last_update_submitted": "March 22, 2020",
-        "last_update_submitted_qc": "March 22, 2020",
+        "last_update_submitted": "April 12, 2020",
+        "last_update_submitted_qc": "April 12, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "March 24, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"
         },
         "condition_browse": {
-            "mesh_term": "Respiratory Aspiration"
+            "mesh_term": [
+                "Infection",
+                "Disease Progression"
+            ]
         },
         "intervention_browse": {
             "mesh_term": [

@@ -1,0 +1,206 @@
+{
+    "clinical_study": {
+        "@rank": "32",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344587"
+        },
+        "id_info": {
+            "org_study_id": "H-40070",
+            "nct_id": "NCT04344587"
+        },
+        "brief_title": "COVID-19 smArtphone-based Trial of Non-ICU Admission Prone Positioning",
+        "acronym": "CATNAP",
+        "official_title": "COVID-19 smArtphone-based Trial of Non-ICU Admission Prone Positioning",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Boston University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Boston University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Prone positioning is a well studied and validated treatment for severe acute respiratory\n      distress syndrome (ARDS), however there are no randomized studies on the use of prone\n      positioning in the non-intubated patient. The purpose of this trial is to investigate the use\n      of prone positioning in SARS-CoV-2 infected patients who are not intubated. It is unknown if\n      this intervention would be helpful in preventing further respiratory deterioration in terms\n      of increasing supplemental oxygen requirements, endotracheal intubation, and ICU admission.\n      The CATNAP Study is a pragmatic adaptive randomized controlled unblinded trial. CATNAP\n      compares a smartphone tool that recommends non-ICU patients with COVID-19 or who are under\n      evaluation for COVID-19 to lie in a prone position (i.e, with their stomach and chest facing\n      down) to usual care."
+        },
+        "detailed_description": {
+            "textblock": "The COVID-19 smArtphone-based Trial of Non-ICU Admission Prone Positioning (CATNAP) Study is\n      a pragmatic adaptive randomized controlled unblinded trial. CATNAP randomizes non-ICU\n      patients with COVID-19 or who are under evaluation for COVID-19 to lie in a prone position\n      (i.e, with their stomach and chest facing down) or to usual care."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Supportive Care",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Change in respiratory status",
+            "time_frame": "up to 30 days",
+            "description": "Change in respiratory status will be defined as:1) admission to the ICU and/or a 2) an increase in supplemental oxygen delivery (defined as an increase in oxygen delivery rate of \u22652 liter per minute compared to the oxygen delivery rate at the time of intervention or usual care text message that is sustained for \u226512 or more hours OR the switch to an oxygen delivery method that increases the level of supplemental oxygen."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Length of time participant spends in the prone position",
+                "time_frame": "up to 30 days",
+                "description": "Length of time in the prone position will be assessed from the smartphone survey and measured in categories of no time, up to 6 hours, 6 hours to 11 hours, 12 hours or more."
+            },
+            {
+                "measure": "Length of time participant spends in the supine position",
+                "time_frame": "up to 30 days",
+                "description": "Length of time in the supine/lying on back position will be assessed from the smartphone survey and measured in categories of no time, up to 6 hours, 6 hours to 11 hours, 12 hours or more."
+            },
+            {
+                "measure": "Length of time participant spends lying on side",
+                "time_frame": "up to 30 days",
+                "description": "Length of time lying on side will be assessed from the smartphone survey and measured in categories of no time, up to 6 hours, 6 hours to 11 hours, 12 hours or more."
+            },
+            {
+                "measure": "Length of time participant spends sitting up",
+                "time_frame": "up to 30 days",
+                "description": "Length of time sitting up will be assessed from the smartphone survey and measured in categories of no time, up to 6 hours, 6 hours to 11 hours, 12 hours or more."
+            },
+            {
+                "measure": "Length of time participant spends standing or walking",
+                "time_frame": "up to 30 days",
+                "description": "Length of time standing or walking will be assessed from the smartphone survey and measured in categories of no time, up to 6 hours, 6 hours to 11 hours, 12 hours or more."
+            },
+            {
+                "measure": "Dyspnea or difficult/labored breathing",
+                "time_frame": "up to 30 days",
+                "description": "Dyspnea will be assessed by the modified Borg Dyspnea Score (10-point ordinal scale) from 1= nothing at all to 10= maximal. Higher scores indicate more dyspnea."
+            },
+            {
+                "measure": "Discomfort with proning",
+                "time_frame": "up to 30 days",
+                "description": "Discomfort with proning (4-point ordinal scale: very comfortable, somewhat comfortable, somewhat uncomfortable, very uncomfortable)"
+            },
+            {
+                "measure": "Length of hospital stay",
+                "time_frame": "up to 30 days",
+                "description": "Total number of days hospitalized will be abstracted from the electronic medical record."
+            },
+            {
+                "measure": "Invasive mechanical ventilation",
+                "time_frame": "up to 30 days",
+                "description": "Invasive mechanical ventilation will be abstracted from the electronic medical record."
+            },
+            {
+                "measure": "Loss of IV access as a consequence of turning in bed",
+                "time_frame": "up to 30 days",
+                "description": "Loss of IV access as a consequence of turning in bed will be reported by participant using monitoring surveys"
+            },
+            {
+                "measure": "Acute respiratory distress syndrome (ARDS) diagnosis",
+                "time_frame": "up to 30 days",
+                "description": "ARDS diagnosis will be abstracted from the electronic medical record"
+            },
+            {
+                "measure": "Hospital mortality",
+                "time_frame": "up to 30 days",
+                "description": "Hospital mortality will be abstracted from the electronic medical record"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "380"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention group",
+                "arm_group_type": "Experimental",
+                "description": "Participants in the intervention arm will receive a text message on their smartphones linking to the Qualtrics intervention website"
+            },
+            {
+                "arm_group_label": "Usual care group",
+                "arm_group_type": "Active Comparator",
+                "description": "Participants in the usual care arm will receive a text message on their smartphone linking to the Qualtrics usual care website"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Self-prone position recommendation",
+                "description": "The Qualtrics self-prone position recommendation intervention website will include the following sections:\nWelcome message\nEducational review of the potential benefits of prone positioning\nHow-To guide to safely \"prone\" in a hospital bed\nA recommendation to \"prone\" while lying in bed (up to 3 times daily for 1 hour each time and at night for up to 9 hours) for a total of 12 hours per day\nA reminder to keep track of the time spent in 1) prone position, 2) lying flat on back, 3) lying on side, 4) sitting up, and 5) standing or walking",
+                "arm_group_label": "Intervention group"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Usual care",
+                "description": "The Qualtrics usual care website will include the following sections:\nWelcome message\nA reminder to keep track of the time spent in 1) prone position, 2) lying flat on back, 3) lying on side, 4) sitting up, and 5) standing or walking",
+                "arm_group_label": "Usual care group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Assigned to or admitted to a COVID-19 ward team at Boston Medical Center (these teams\n             only admit patients who are under investigation for COVID-19 or who have confirmed\n             COVID-19 infection) via the emergency department (ED) within the last 24 hours\n\n          -  Have access to their own functioning smartphone in the hospital room\n\n          -  English or Spanish-speaking\n\n          -  Ability to read simple instructions and answer simple written questions\n\n        Exclusion Criteria:\n\n        Baseline patient factors\n\n          -  Inability to operate the hospital bed\n\n          -  Inability to lie flat comfortably\n\n          -  Inability to lie flat without shortness of breath\n\n          -  Inability to turn over independently\n\n        Medical comorbidities\n\n          -  Hemoptysis in the last 2 days\n\n          -  Prior lung transplant\n\n        Acute issues\n\n          -  Deep venous thrombosis treated for less than 2 days\n\n          -  Unstable spine, femur, or pelvic fractures\n\n          -  Mean arterial pressure lower than 65 mmHg\n\n        Recent interventions\n\n          -  Chest tube in place\n\n          -  Tracheal surgery or sternotomy during the previous 15 days\n\n          -  Serious facial trauma or facial surgery during the previous 15 days\n\n          -  Cardiac pacemaker inserted in the last 2 days\n\n        Other\n\n          -  Pregnancy\n\n          -  Comfort measures only status\n\n          -  Prisoner"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Allan J Walkey, MD",
+            "role": "Study Director",
+            "affiliation": "Boston University"
+        },
+        "overall_contact": {
+            "last_name": "Nicholas A Bosch, MD",
+            "phone": "(617) 358-2800",
+            "email": "nabosch@bu.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Michael Garcia, MD",
+            "phone": "(617) 638-8698",
+            "email": "michael.garcia@bmc.org"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Prone position",
+            "Coronavirus",
+            "Inhalation oxygen therapy",
+            "Pragmatic Clinical Tria",
+            "Hypoxia"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "51",
+        "@rank": "55",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04333628"
         },
@@ -15,6 +15,10 @@
         "sponsors": {
             "lead_sponsor": {
                 "agency": "HaEmek Medical Center, Israel",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "T MAY BIOPHARMA LTD.",
                 "agency_class": "Other"
             }
         },
@@ -135,11 +139,11 @@
             "@type": "Actual",
             "#text": "April 3, 2020"
         },
-        "last_update_submitted": "April 5, 2020",
-        "last_update_submitted_qc": "April 5, 2020",
+        "last_update_submitted": "April 12, 2020",
+        "last_update_submitted_qc": "April 12, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

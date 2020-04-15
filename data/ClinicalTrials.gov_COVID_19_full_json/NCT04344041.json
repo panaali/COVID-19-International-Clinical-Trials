@@ -1,0 +1,335 @@
+{
+    "clinical_study": {
+        "@rank": "425",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344041"
+        },
+        "id_info": {
+            "org_study_id": "2020-001602-34",
+            "nct_id": "NCT04344041"
+        },
+        "brief_title": "COvid-19 and Vitamin D Supplementation: a Multicenter Randomized Controlled Trial of High Dose Versus Standard Dose Vitamin D3 in High-risk COVID-19 Patients (CoVitTrial)",
+        "official_title": "COvid-19 and Vitamin D Supplementation: a Multicenter Randomized Controlled Trial of High Dose Versus Standard Dose Vitamin D3 in High-risk COVID-19 Patients (CoVitTrial)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University Hospital, Angers",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Mylan Laboratories",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "University Hospital, Angers",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Vitamin D is a secosteroid hormone produced by the skin during Summer exposure to UVB rays.\n      Hypovitaminosis D is common in Winter (October to March) at Northern latitudes above 20\n      degrees North, and from April to September at Southern latitudes beyond 20 degrees below the\n      equator.\n\n      In the past, coronaviruses and influenza viruses have exhibited very high seasonality, with\n      outbreaks occurring preferentially during the Winter. The Covid-19 pandemic is indeed more\n      severe above Winter latitudes of 20 degrees, while it remains until now less severe in the\n      Southern hemisphere, with a much lower number of deaths.\n\n      Preclinical research suggests that the SARS-Cov-2 virus enters cells via the angiotensin\n      converting enzyme 2 (ACE2). Coronavirus viral replication downregulates ACE2, thereby\n      dysregulating the renin-angiotensin system (RAS) and leading to a cytokine storm in the host,\n      causing acute respiratory distress syndrome (ARDS).\n\n      Research also shows that vitamin D plays a role in balancing RAS and in reducing lung damage.\n      On the contrary, chronic hypovitaminosis D induces pulmonary fibrosis through activation of\n      RAS. Similarly, hypovitaminosis D has been strongly associated in the literature with ARDS,\n      as well as with a pejorative vital prognosis in resuscitation but also in geriatric units,\n      and with various comorbidities associated to deaths during SARS-Cov-2 infections. Conversely,\n      vitamin D supplementation has been reported to increase immunity and to reduce inflammatory\n      responses and the risk of acute respiratory tract infections.\n\n      High-dose oral vitamin D3 supplementation has been shown to decrease short-term mortality in\n      resuscitation patients with severe hypovitaminosis D (17% absolute risk reduction). It is\n      considered safe to take oral vitamin D supplementation at doses up to 10,000 IU/day for short\n      periods, particularly in older adults, i.e. a population that is mostly affected by\n      hypovitaminosis D and who should receive at least 1,500 IU of vitamin D daily to ensure\n      satisfactory vitamin D status.\n\n      Vitamin D supplementation is mentioned as a potentially interesting treatment for SARS-Cov-2\n      infection but on a scientific basis with a low level of evidence until now.\n\n      We hypothesize that high-dose vitamin D supplementation improves the prognosis of older\n      patients diagnosed with COVID-19 compared to a standard dose of vitamin D."
+        },
+        "detailed_description": {
+            "textblock": "\u2022 Inclusion visit A clinical examination is carried out. Social-demographic measures, health\n      history, clinical examination measures (including OSCI score) and biological measures are\n      collected.\n\n      Randomization is conducted on the day of the inclusion visit. The ZYMAD\u00ae 400,000 IU (2 vials\n      of 200,000 IU) or 50,000 IU (1 vial of 50,000 IU) treatment is given to the patient.\n\n        -  Visit at day 7 A blood test is carried out by a nurse to determine the serum 25-OHD,\n           creatrinine and calcium concentrations.\n\n        -  Visit at day 14 A visit or telephone call allows recording the onset of clinical events\n           of interest. The drugs received as part of the usual treatment during the last 14 days\n           are collected.\n\n        -  Visit at day 28 A visit or telephone call allows recording the onset of clinical events\n           of interest. The drugs received as part of the usual treatment during the last 14 days\n           are collected."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Number of death of any cause, during the 14 days following the inclusion and intervention.",
+            "time_frame": "Day 14"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Number of death of any cause, during the 28 days following the inclusion and intervention.",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 14 based on the change of the WHO Ordinal Scale for Clinical Improvement (OSCI) for COVID-19",
+                "time_frame": "Day 14",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 28 based on the change of the OSCI for COVID-19",
+                "time_frame": "Day 28",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            },
+            {
+                "measure": "Rate of patients with at least one severe adverse event at day 28, according to the regulations",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "Number of death of any cause during the 14 days following the inclusion and intervention, in patients with severe hypovitaminosis D (25-OHD <25nmol/L) at baseline",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Number of death of any cause during the 28 days following the inclusion and intervention, in patients with severe hypovitaminosis D (25-OHD <25nmol/L) at baseline",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 14 based on the change of the OSCI for COVID-19, in patients with severe hypovitaminosis D (25-OHD <25nmol/L) at baseline",
+                "time_frame": "Day 14",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 28 based on the change of the OSCI for COVID-19, in patients with severe hypovitaminosis D (25-OHD<25nmol/L) at baseline",
+                "time_frame": "Day 28",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            },
+            {
+                "measure": "Number of death of any cause during the 14 days following the inclusion and intervention, depending on serum vitamin D concentration achieved at day 7 (25-OHD<75nmol/L or 25-OHD\u226575nmol/L)",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Number of death of any cause during the 28 days following the inclusion and intervention, depending on serum vitamin D concentration achieved at day 7 (25-OHD<75nmol/L or 25-OHD\u226575nmol/L)",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 14 based on the change of the OSCI for COVID-19, depending on serum vitamin D concentration achieved at day 7 (25-OHD<75nmol/L or 25-OHD\u226575nmol/L)",
+                "time_frame": "Day 14",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 28 based on the change of the OSCI for COVID-19, depending on serum vitamin D concentration achieved at day 7 (25-OHD<75nmol/L or 25-OHD\u226575nmol/L)",
+                "time_frame": "Day 28",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            },
+            {
+                "measure": "Number of death of any cause during the 14 days following the inclusion and intervention, in patients with severe hypovitaminosis D (25-OHD<25nmol/L) at day 0, depending on serum vitamin D concentration achieved at day 7 (<75nmol/L or \u226575nmol/L)",
+                "time_frame": "Day 14"
+            },
+            {
+                "measure": "Number of death of any cause during the 28 days following the inclusion and intervention, in patients with severe hypovitaminosis D (25-OHD<25nmol/L) at day 0, depending on serum vitamin D concentration achieved at day 7 (<75nmol/L or \u226575nmol/L)",
+                "time_frame": "Day 28"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 14 based on the change of the OSCI for COVID-19, in patients with severe hypovitaminosis D (25-OHD<25nmol/L) at day 0, depending on serum vitamin D concentration achieved at day 7 (<75nmol/L or \u226575nmol/L)",
+                "time_frame": "Day 14",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            },
+            {
+                "measure": "Clinical evolution between day 0 and day 28 based on the change of the OSCI for COVID-19, in patients with severe hypovitaminosis D (25-OHD<25nmol/L) at day 0, depending on serum vitamin D concentration achieved at day 7 (<75nmol/L or \u226575nmol/L)",
+                "time_frame": "Day 28",
+                "description": "OSCI ranges from 0 to 8, higher score meaning poorer outcome"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "260"
+        },
+        "condition": "Coronavirus",
+        "arm_group": [
+            {
+                "arm_group_label": "Intervention group",
+                "arm_group_type": "Experimental",
+                "description": "High dose of vitamin D3"
+            },
+            {
+                "arm_group_label": "Comparator group",
+                "arm_group_type": "Active Comparator",
+                "description": "Standard dose of vitamin D3"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "cholecalciferol 200,000 IU",
+                "description": "Patients receive a vitamin D supplementation of 400,000 IU in a single oral dose.",
+                "arm_group_label": "Intervention group"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "cholecalciferol 50,000 IU",
+                "description": "Patients receive a vitamin D supplementation of 50,000 IU in a single oral dose",
+                "arm_group_label": "Comparator group"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age \u2265 70 years old\n\n          -  Infection with COVID-19 diagnosed with RT-PCR SARS-CoV-2 or withCT-scan of the chest\n             suggesting viral pneumonia of peripheral predominance in a clinically relevant context\n\n          -  Diagnosed within the preceding 48 hours\n\n          -  Having at least one of the following two risk factors for complications:\n\n               -  age \u226575 years\n\n               -  Peripheral capillary oxygen saturation (SpO2) \u2264 94% ambient air, or a partial\n                  oxygen pressure (PaO2) to fraction of inspired oxygen (FiO2) ratio \u2264 300 mmHg\n\n          -  Patients affiliated with or benefitting from a social security scheme\n\n          -  Written and signed consent of the patient or a relative or, if not possible, emergency\n             inclusion procedure\n\n        Exclusion Criteria:\n\n          -  Organ failure requiring admission to a resuscitation or high dependency unit\n\n          -  Comorbidity that is life-threatening in the short-term (life expectancy <3 months)\n\n          -  Any reason that makes follow-up at day 28 impossible\n\n          -  Vitamin D supplementation in the previous month\n\n          -  Contraindication for vitamin D supplementation: active granulomatosis (sarcoidosis,\n             tuberculosis, lymphoma), history of calcic lithiasis, known hypervitaminosis D or\n             hypercalcemia, known intolerance to vitamin D\n\n          -  Participation in another simultaneous trial\n\n          -  Persons deprived of their liberty by administrative or judicial decision, persons\n             under psychiatric care under duress, adults subject to a legal protection measure"
+            },
+            "gender": "All",
+            "minimum_age": "70 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "C\u00e9dric ANNWEILER",
+            "phone": "241354725",
+            "phone_ext": "+33",
+            "email": "cedric.annweiler@chu-angers.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "DCRI Angers",
+            "phone": "02 41 35 36 37",
+            "phone_ext": "+33",
+            "email": "DRCI-promotion-interne@chu-angers.fr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "CHU Bordeaux",
+                    "address": {
+                        "city": "Bordeaux",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Claire ROUBAUD BAUDRON"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CH Le Mans",
+                    "address": {
+                        "city": "Le Mans",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Fr\u00e9d\u00e9ric SHOLASTIQUE"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Lille",
+                    "address": {
+                        "city": "Lille",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Jean Baptiste BEUSCART"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Limoges",
+                    "address": {
+                        "city": "Limoges",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Achille TCHALLA"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Nantes",
+                    "address": {
+                        "city": "Nantes",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Guillaume CHAPELET"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Nice",
+                    "address": {
+                        "city": "Nice",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Olivier GUERIN"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Saint Etienne",
+                    "address": {
+                        "city": "Saint Etienne",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Thomas CELARIER"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CH Saumur",
+                    "address": {
+                        "city": "Saumur",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Marjorie HOUVET"
+                }
+            },
+            {
+                "facility": {
+                    "name": "CHU Tours",
+                    "address": {
+                        "city": "Tours",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Bertrand FOUGERE"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "vitamin D",
+            "older adults"
+        ],
+        "condition_browse": {
+            "mesh_term": "Coronavirus Infections"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Vitamin D",
+                "Ergocalciferols",
+                "Cholecalciferol",
+                "Vitamins"
+            ]
+        }
+    }
+}

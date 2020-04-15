@@ -1,0 +1,163 @@
+{
+    "clinical_study": {
+        "@rank": "200",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345653"
+        },
+        "id_info": {
+            "org_study_id": "Pro2020-0356",
+            "nct_id": "NCT04345653"
+        },
+        "brief_title": "Hydroxychloroquine as Chemoprevention for COVID-19 for High Risk Healthcare Workers",
+        "official_title": "Feasibility, Safety and Early Efficacy Trial of Hydroxychloroquine as Primary Prevention of Corona Virus Disease 2019 in High Risk Health Care Providers",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Hackensack Meridian Health",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Hackensack Meridian Health",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The study proposes to conduct an open-label Phase II trial to evaluate the feasibility,\n      safety and early efficacy of hydroxychloroquine (HCQ) administration in reduction of\n      transmission of severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) and development\n      of Corona Virus Disease 2019 (COVID-19) in high-risk, healthy acute care provider\n      participants exposed, directly or indirectly, to COVID-19 patients. There is a more than 50\n      years track record of safety of HCQ for treatment and prevention of various disease states.\n      Early data on use of HCQ for COVID treatment suggests anti-viral activity and\n      immunomodulatory properties for reducing inflammation associated with COVID-19. Given the\n      lack of data regarding use of HCQ for COVID-19 prevention in healthy participants in midst of\n      pandemic crisis, this study proposes an expedited feasibility study focusing on safety and\n      early efficacy.\n\n      Prior to HCQ administration, baseline SARS-CoV-2 and other baseline biomarker testing will be\n      conducted. During the 4-week study period, participants will be monitored for drug related\n      adverse events and assessed for development of COVID. SARS-CoV-2 assay and biomarker testing\n      will be repeated at the end of four-week study. Safety outcomes will be assessed by the\n      number of adverse events (AEs) and their severity; and early efficacy as the number of\n      participants who tested positive at the end of the 4-week period comparing to data collected\n      by occupational Health regarding the total number of high-risk healthcare workers that were\n      tested positive during the same period and historical controls from known high risk infection\n      rates. An exploratory analysis of inflammatory regulation and immunomodulatory markers by HCQ\n      and its effect on possible disease modification based on previously studied\n      pathophysiological mechanism of COVID-19.\n\n      The broader aim of this study is to set a precedent to facilitate a large-scale emergent\n      public health intervention. Purpose would be to mitigate, or abort further transmission of\n      COVID-19. Given that COVID-19 transmission has occurred prior to initiation of this study,\n      the rationale for this intervention is based on prior epidemiological evidence.\n      Post-infectious or vaccination-induced immunity in at least 30% of population at-risk has\n      been shown to mitigate or abort propagation of a local epidemics and global pandemic. This\n      would help flatten the curve of the disease progression, until such time that a vaccine may\n      become available. Data from this study will be used to design and implement a\n      population-based phase IIb/III randomized clinical trial."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 14, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 8, 2022"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 8, 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Recruitment Feasibility",
+                "time_frame": "Study period , up to two months from the day the first participant was screened",
+                "description": "To evaluate the feasibility of this protocol including participants' recruitment within the estimated time frame."
+            },
+            {
+                "measure": "Recourse utilization",
+                "time_frame": "Study period , up to two months from the day the first participant was screened",
+                "description": "To evaluate the utilization of tests and drug for this study in consideration with the limited availability of both for research purposes."
+            },
+            {
+                "measure": "Safety as reflected on the number and severity of adverse events and serious adverse events",
+                "time_frame": "28 day post enrollment",
+                "description": "To Determine the Safety profile for a previously well studied drug in this select group of HCP. Incidence of well described side effects would be studied over the course of the study and will be compared with the side effects and their prevalence as described in the Pharmacy manual for HCQ."
+            },
+            {
+                "measure": "Early feasibility as reflected on the number of participants contracting COVID-19 (10% or less) in comparison to the expected 30% as per CDC.",
+                "time_frame": "28 day post enrollment",
+                "description": "To evaluate the early efficacy of HCQ in high-risk, healthy volunteers in the prevention of acquiring COVID-19 while continuing to follow standard precautions that meet or exceed Centers of Disease Control (CDC) guidelines."
+            }
+        ],
+        "secondary_outcome": {
+            "measure": "Effect of basic inflammatory regulation",
+            "time_frame": "28 day post enrollment",
+            "description": "To evaluate the effect of basic inflammatory regulation due to interventional drug and its effect on possible disease modification based on understood pathophysiological mechanism of COVID-19. COVID specific inflammatory response including cytokine IL-6 levels would be compared at the start and end of 4 week study with interventional drug."
+        },
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "45"
+        },
+        "condition": "COVID19",
+        "arm_group": {
+            "arm_group_label": "Study arm",
+            "arm_group_type": "Experimental",
+            "description": "HCQ sulfate HCQ 400mg (2x 200mg tablets) by mouth 6-12 hours apart on day 1, followed by 3 weeks of weekly 400mg (2x 200mg tablets) by mouth"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Hydroxychloroquine Sulfate (HCQ)",
+            "description": "Open-label, consecutive at-risk subjects allocation with chemoprophylaxis with HCQ.",
+            "arm_group_label": "Study arm"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Volunteers ages 18 to 99 years,\n\n          -  able to sign own informed consent form,\n\n          -  considered high-risk healthcare care providers in a hospital setting with active\n             exposure to COVID-19 infection.\n\n        High-risk HCP's are defined as those actively working during the study duration in the\n        Emergency Department and in the Intensive Care Setting, for the purpose of this study.\n\n        Exclusion Criteria:\n\n          -  inability to tolerate an oral medication or known allergy to chloroquine or\n             hydroxychloroquine\n\n          -  Pregnancy or breast-feeding\n\n          -  Immunocompromised status, hepatic failure, electrolytic imbalance\n\n          -  Creatinine clearance (CCL) <30 mL/min\n\n          -  Prolonged QT interval (QTc > 450ms for males and QTc > 470 for females)\n\n          -  Confirmed COVID-19 infection on baseline testing\n\n          -  Has another known contraindication to treatment with the study drug, including\n             retinopathy."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "99 Years",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Jawad Kirmani, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Hackensack Meridian Health Corporation"
+        },
+        "overall_contact": {
+            "last_name": "Elli Gourna, PhD",
+            "phone": "5519961244",
+            "email": "Elli.Gourna@hackensackmeridian.org"
+        },
+        "location": {
+            "facility": {
+                "name": "Hackensack Meridian Health - JFK Medical Center",
+                "address": {
+                    "city": "Edison",
+                    "state": "New Jersey",
+                    "zip": "08820",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Elli Gourna, PhD",
+                "phone": "551-996-1244",
+                "email": "Elli.gourna@hackensackmeridian.org"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "covid-19",
+            "workers",
+            "prevention"
+        ],
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

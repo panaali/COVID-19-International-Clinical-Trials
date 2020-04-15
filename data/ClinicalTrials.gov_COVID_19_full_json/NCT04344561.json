@@ -1,0 +1,237 @@
+{
+    "clinical_study": {
+        "@rank": "386",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344561"
+        },
+        "id_info": {
+            "org_study_id": "IRB00246834",
+            "nct_id": "NCT04344561"
+        },
+        "brief_title": "Incline Positioning in COVID-19 Patients for Improvement in Oxygen Saturation",
+        "acronym": "UPSAT",
+        "official_title": "UPright Incline Positioning in COVID-19 Patients for Oxygen SATuration Improvement With Hypoxemic Respiratory Failure (UPSAT)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Johns Hopkins University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Johns Hopkins University",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "COVID-19 is a respiratory illness caused by SARS-CoV-2 with a range of symptoms from mild,\n      self-limiting respiratory tract infections to severe progressive pneumonia, multiorgan\n      dysfunction and death. A portion of individuals with COVID-19 experience life-threatening\n      hypoxia requiring supplemental oxygen and mechanical ventilation. Management of hypoxia in\n      this population is complicated by contraindication of non-invasive ventilation and\n      limitations in access to mechanical ventilation and critical care staff given the clinical\n      burden of disease. Positional therapy is readily deployable and may ultimately be used to\n      treat COVID-19 related respiratory failure in resources limited settings; and, it has been\n      demonstrated to improve oxygenation and is easy to implement in the clinical setting.\n\n      The overall goal of this randomized controlled trial is to establish the feasibility of\n      performing a randomized trial using a simple, minimally invasive positional therapy approach\n      to improve hypoxia and reduce progression to mechanical ventilation. The objectives are to\n      examine the effectiveness and feasibility of maintaining an inclined position in patients\n      with confirmed or suspected COVID-19 associated hypoxemic respiratory failure. The\n      investigators hypothesize that (1) oxyhemoglobin saturation will improve with therapy, (2)\n      participants will tolerate and adhere to the intervention, and that (3) participants who\n      adhere to positional therapy will have reduced rates of mechanical ventilation at 72 hours.\n      If successful, this feasibility trial will demonstrate that a simple, readily deployed\n      nocturnal postural maneuver is well tolerated and reverses underlying defects in ventilation\n      and oxygenation due to COVID-19. It will also inform the design of a pivotal Phase III trial\n      with estimates of sample sizes for clinically relevant outcomes."
+        },
+        "detailed_description": {
+            "textblock": "Study Design: The investigators will conduct a pilot study to examine the acute effects of\n      inclined posture on oxyhemoglobin saturation and the feasibility of conducting randomized\n      controlled clinical trial among patients with confirmed or suspected COVID-19-associated\n      hypoxia.\n\n      In a subgroup of participants, the investigators will examine the acute effect of postural\n      therapy (15-degree incline on hospital beds) on oxyhemoglobin saturation among hypoxic\n      patients to establish a biologic response. The investigators will enroll a subset of\n      participants (n=16) who will lie supine on hospital beds, which will be placed in the\n      horizontal (flat) or 15-degree inclined (reverse Trendelenberg) orientation in random order.\n      During this time, the investigators will continuous record pulse oximetry, pulse rate and\n      variations in peripheral arterial tone with WatchPAT one devices. Subjects will be visually\n      monitored for work of breathing during this time. If work of breathing becomes excessive, as\n      defined as a sustain respiratory rate of >25 and an increase of >5 breaths per minute from\n      baseline, or oxygenation decreases below 88% for > 30 seconds in the inclined position, then\n      maneuvers will be stopped. If the patient meets these criteria in the flat position, then the\n      investigators sit the patient upright, and allow breathing to return to baseline before\n      examining responses in the inclined position.\n\n      The investigators will randomize participants to have beds placed in 15-degree incline or\n      usual care (ad-lib positioning) for 72 hours. During the first night in a subgroup of\n      participants, the investigators will record oxygenation, sleep wake state and markers of\n      sympathetic activity with WatchPAT One devices, which can obtain cardiopulmonary parameters\n      with high temporal resolution. The investigators will obtain vital signs from the data\n      warehouse, which archives telemetry data with a maximum sampling frequency of 1 minute. The\n      investigators will record adherence with continuous accelerometry sensors placed on the bed\n      rails and on the anterolateral surface of participants' chests to measure bed and\n      participants' positions, respectively. Aside from position, participants will receive usual\n      treatment for COVID-19.\n\n      The investigators will enroll in 3 phases. At the end of each phase, the investigators will\n      assess for completion of milestones for proceeding to the subsequent phase, as detailed\n      below:\n\n        1. Pilot Study: The investigators will pilot the study in 16 participants to obtain\n           critical information on logistics of conducting the trial including performance of\n           recording instruments in a biocontainment environment, to examine the feasibility of the\n           intervention, perform preliminary safety evaluations to ascertain potential harm and to\n           determine whether the intervention results in a meaningful difference in body position.\n\n        2. Phase II RCT: If inclined therapy results in a difference in body position and no\n           significant safety issues were detected, the investigators will conduct a phase II\n           randomized-controlled trial (RCT) in 70 participants (see sample size calculation below)\n           to estimate the effect size of inclined position on rates of intubation and determine\n           sample size for a Phase III trial.\n\n      Randomization will be occur in both phases and will be stratified by study phase and study\n      site."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 20, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2021"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Incidence of Mechanical Ventilation",
+                "time_frame": "72 hours",
+                "description": "Number of participants needing mechanical ventilation over total number of participants per arm."
+            },
+            {
+                "measure": "Percentage of time in the assigned position",
+                "time_frame": "72 hours",
+                "description": "Percentage of time participants stay in the assigned position will be used to determine adherence."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Number of participants with supplemental oxygen requirements",
+                "time_frame": "72 hours",
+                "description": "Number of participants with supplemental oxygen requirements."
+            },
+            {
+                "measure": "Change in mean oxyhemoglobin saturation",
+                "time_frame": "At 24, 48 and 72 hours",
+                "description": "Mean oxyhemoglobin saturation (percentage) measured over a 24-hour period."
+            },
+            {
+                "measure": "Change in Nocturnal Oxyhemoglobin saturation",
+                "time_frame": "Measured between 10pm and 6am daily, up to 72 hours",
+                "description": "Mean oxyhemoglobin saturation (percentage) measured over an 8-hour period (between 10pm and 6am)."
+            },
+            {
+                "measure": "Change in Heart Rate",
+                "time_frame": "At 10, 24, 48 and 72 hours",
+                "description": "Heart Rate (beats per minute) on Routine Vital Sign Assessment."
+            },
+            {
+                "measure": "Change in Respiratory Rate",
+                "time_frame": "At 10, 24, 48 and 72 hours",
+                "description": "Respiratory Rate (cycles per minute) on Routine Vital Sign Assessment."
+            }
+        ],
+        "other_outcome": {
+            "measure": "Acute change in oxyhemoglobin saturation",
+            "time_frame": "During the final 7 minutes at each position, up to 72 hours",
+            "description": "Mean oxyhemoglobin saturation (percentage) during final 7 minutes in a position."
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "70"
+        },
+        "condition": [
+            "COVID",
+            "Hypoxic Respiratory Failure"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Postural Positioning",
+                "arm_group_type": "Experimental",
+                "description": "Participants in the group will have hospital beds placed in 15 degree (reverse Trendelenburg)."
+            },
+            {
+                "arm_group_label": "Standard Care",
+                "arm_group_type": "No Intervention",
+                "description": "Participants in this group will have beds managed per standard nursing protocol."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Postural Positioning",
+            "description": "Investigators will adjust the positioning of hospital beds to assess improvements in oxygenation and respiratory status.",
+            "arm_group_label": "Postural Positioning"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  COVID-19 positive\n\n          -  Pneumonia defined as hospitalization for acute (< 7 days) onset of symptoms (cough,\n             sputum production, or dyspnea).\n\n          -  Hypoxemia defined as \u2265 2 L/min oxygen\n\n        Exclusion Criteria:\n\n          -  Intubation\n\n          -  Inability to lie supine"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Luu Pham, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Johns Hopkins University"
+        },
+        "overall_contact": {
+            "last_name": "Luu Pham, MD",
+            "phone": "410-550-2118",
+            "email": "luu.pham@jhmi.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Trishul Siddharthan, MD",
+            "phone": "410-614-0154",
+            "email": "tsiddha1@jhmi.edu"
+        },
+        "reference": [
+            {
+                "citation": "Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.",
+                "PMID": "32007143"
+            },
+            {
+                "citation": "Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.",
+                "PMID": "31986264"
+            },
+            {
+                "citation": "Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Feb 7. doi: 10.1001/jama.2020.1585. [Epub ahead of print]",
+                "PMID": "32031570"
+            },
+            {
+                "citation": "Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Feb 28. doi: 10.1056/NEJMoa2002032. [Epub ahead of print]",
+                "PMID": "32109013"
+            },
+            {
+                "citation": "Scholten EL, Beitler JR, Prisk GK, Malhotra A. Treatment of ARDS With Prone Positioning. Chest. 2017 Jan;151(1):215-224. doi: 10.1016/j.chest.2016.06.032. Epub 2016 Jul 8. Review.",
+                "PMID": "27400909"
+            },
+            {
+                "citation": "Scaravilli V, Grasselli G, Castagna L, Zanella A, Isgr\u00f2 S, Lucchini A, Patroniti N, Bellani G, Pesenti A. Prone positioning improves oxygenation in spontaneously breathing nonintubated patients with hypoxemic acute respiratory failure: A retrospective study. J Crit Care. 2015 Dec;30(6):1390-4. doi: 10.1016/j.jcrc.2015.07.008. Epub 2015 Jul 16.",
+                "PMID": "26271685"
+            },
+            {
+                "citation": "Ikeda H, Ayuse T, Oi K. The effects of head and body positioning on upper airway collapsibility in normal subjects who received midazolam sedation. J Clin Anesth. 2006 May;18(3):185-93.",
+                "PMID": "16731320"
+            },
+            {
+                "citation": "Penzel T, M\u00f6ller M, Becker HF, Knaack L, Peter JH. Effect of sleep position and sleep stage on the collapsibility of the upper airways in patients with sleep apnea. Sleep. 2001 Feb 1;24(1):90-5.",
+                "PMID": "11204057"
+            },
+            {
+                "citation": "Oksenberg A, Silverberg DS. The effect of body posture on sleep-related breathing disorders: facts and therapeutic implications. Sleep Med Rev. 1998 Aug;2(3):139-62.",
+                "PMID": "15310498"
+            },
+            {
+                "citation": "Neill AM, Angus SM, Sajkov D, McEvoy RD. Effects of sleep posture on upper airway stability in patients with obstructive sleep apnea. Am J Respir Crit Care Med. 1997 Jan;155(1):199-204.",
+                "PMID": "9001312"
+            },
+            {
+                "citation": "Oksenberg A, Khamaysi I, Silverberg DS, Tarasiuk A. Association of body position with severity of apneic events in patients with severe nonpositional obstructive sleep apnea. Chest. 2000 Oct;118(4):1018-24.",
+                "PMID": "11035672"
+            },
+            {
+                "citation": "Hakala K, Maasilta P, Sovij\u00e4rvi AR. Upright body position and weight loss improve respiratory mechanics and daytime oxygenation in obese patients with obstructive sleep apnoea. Clin Physiol. 2000 Jan;20(1):50-5.",
+                "PMID": "10651792"
+            },
+            {
+                "citation": "Gu\u00e9rin C, Reignier J, Richard JC, Beuret P, Gacouin A, Boulain T, Mercier E, Badet M, Mercat A, Baudin O, Clavel M, Chatellier D, Jaber S, Rosselli S, Mancebo J, Sirodot M, Hilbert G, Bengler C, Richecoeur J, Gainnier M, Bayle F, Bourdin G, Leray V, Girard R, Baboi L, Ayzac L; PROSEVA Study Group. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med. 2013 Jun 6;368(23):2159-68. doi: 10.1056/NEJMoa1214103. Epub 2013 May 20.",
+                "PMID": "23688302"
+            },
+            {
+                "citation": "Boudewyns A, Punjabi N, Van de Heyning PH, De Backer WA, O'Donnell CP, Schneider H, Smith PL, Schwartz AR. Abbreviated method for assessing upper airway function in obstructive sleep apnea. Chest. 2000 Oct;118(4):1031-41.",
+                "PMID": "11035674"
+            },
+            {
+                "citation": "Meng L, Qiu H, Wan L, Ai Y, Xue Z, Guo Q, Deshpande R, Zhang L, Meng J, Tong C, Liu H, Xiong L. Intubation and Ventilation amid the COVID-19 Outbreak: Wuhan's Experience. Anesthesiology. 2020 Mar 26. doi: 10.1097/ALN.0000000000003296. [Epub ahead of print]",
+                "PMID": "32195705"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Respiratory Insufficiency"
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "Access to IPD on reasonable request"
+        }
+    }
+}

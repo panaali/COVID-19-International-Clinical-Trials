@@ -1,0 +1,163 @@
+{
+    "clinical_study": {
+        "@rank": "309",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345159"
+        },
+        "id_info": {
+            "org_study_id": "GDE_2020_11",
+            "nct_id": "NCT04345159"
+        },
+        "brief_title": "Prevalence of COVID-19 Symptoms History in Patients With Autoimmune Diseases",
+        "acronym": "COVCALL",
+        "official_title": "Prevalence of COVID-19 Symptoms History in Patients With Systemic Lupus Erythematosus, Rheumatoid Arthritis, Sjogren's Syndrome or Psoriatic Arthritis, With or Without Hydroxychloroquine Long-term Treatment",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Fondation Ophtalmologique Adolphe de Rothschild",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Fondation Ophtalmologique Adolphe de Rothschild",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This epidemiological, transversal, cohort study aims to determine the potential influence of\n      an active long-term hydroxychloroquine intake over the prevalence of a history of symptoms\n      evocative of a COVID-19 infection in patients with a history of systemic lupus erythematosus,\n      rheumatoid arthritis, Sjogren's syndrome or psoriatic arthritis, during the epidemic period\n      in France. The information is gathered using a standardized questionnaire, by phone call."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "October 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Retrospective"
+        },
+        "primary_outcome": {
+            "measure": "Adjusted Odds Ratio",
+            "time_frame": "4 months after inclusion",
+            "description": "Adjusted Odds Ratio measuring the association between an exposure to long-term hydroxychloroquine intake and a history of symptoms compatible with a COVID-19 infection."
+        },
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "1500"
+        },
+        "condition": [
+            "SARS-CoV-2",
+            "Systemic Lupus Erythematosus",
+            "Rheumatoid Arthritis",
+            "Sjogren's Syndrome",
+            "Psoriatic Arthritis"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Patient previously treated with hydroxychloroquine"
+            },
+            {
+                "arm_group_label": "Patients not previously treated with hydroxychloroquine"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "Questionnaire by phone call",
+            "description": "2 questionnaires : at inclusion et 4 months later The exposure to hydroxychloroquine is determined during the phone call. The symptoms presented by the patient are classified in \"Probable COVID-19 infection\" or \"Unlikely COVID-19 infection\" in a blind-manner by a team of internists and infectiologists, by studying the questionnaires after the completion.",
+            "arm_group_label": [
+                "Patient previously treated with hydroxychloroquine",
+                "Patients not previously treated with hydroxychloroquine"
+            ]
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "Patients seen at least one time at Rothschild Foundation with history of Systemic Lupus\n        Erythematosus, Rheumatoid arthritis, Sjogren's Syndrome, Psoriatic Arthritis."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  History of Systemic Lupus Erythematosus, Rheumatoid arthritis, Sjogren's Syndrome or\n             Psoriatic Arthritis.\n\n        Exclusion Criteria:\n\n          -  beginning, or end, of an hydroxychloroquine treatment between Jan 1, 2020 and day of\n             the phone call.\n\n          -  Bad treatment compliance"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Guillaume DEBELLEMANIERE, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Fondation Adolphe de Rothschild"
+        },
+        "overall_contact": {
+            "last_name": "Am\u00e9lie YAVCHITZ, MD",
+            "phone": "(0)148036454",
+            "phone_ext": "+33",
+            "email": "ayavchitz@for.paris"
+        },
+        "overall_contact_backup": {
+            "last_name": "Guillaume DEBELLEMANIERE, MD",
+            "email": "gdebellemaniere@for.paris"
+        },
+        "location": {
+            "facility": {
+                "name": "Fondation Adolphe de Rothschild",
+                "address": {
+                    "city": "Paris",
+                    "zip": "75019",
+                    "country": "France"
+                }
+            },
+            "contact": {
+                "last_name": "Guillaume DEBELLEMANIERE, MD",
+                "email": "gdebellemaniere@for.paris"
+            },
+            "contact_backup": {
+                "last_name": "Damien GATINEL, MD",
+                "email": "dgatinel@for.paris"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": "Hydroxychloroquine",
+        "condition_browse": {
+            "mesh_term": [
+                "Arthritis",
+                "Arthritis, Rheumatoid",
+                "Arthritis, Psoriatic",
+                "Sjogren's Syndrome",
+                "Lupus Erythematosus, Systemic",
+                "Syndrome"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "73",
+        "@rank": "82",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04292730"
         },
@@ -253,6 +253,18 @@
             },
             {
                 "facility": {
+                    "name": "El Camino Hospital",
+                    "address": {
+                        "city": "Mountain View",
+                        "state": "California",
+                        "zip": "94040",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Hoag Memorial Hospital Presbyterian",
                     "address": {
                         "city": "Newport Beach",
@@ -306,6 +318,30 @@
                         "city": "Panorama City",
                         "state": "California",
                         "zip": "91402",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Sutter Medical Center Sacramento, One Medical Plaza",
+                    "address": {
+                        "city": "Roseville",
+                        "state": "California",
+                        "zip": "95661",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Sutter Medical Center Sacramento",
+                    "address": {
+                        "city": "Sacramento",
+                        "state": "California",
+                        "zip": "95815",
                         "country": "United States"
                     }
                 },
@@ -433,6 +469,18 @@
             },
             {
                 "facility": {
+                    "name": "Rose Medical Center",
+                    "address": {
+                        "city": "Denver",
+                        "state": "Colorado",
+                        "zip": "80220",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "SCL Health St. Joseph Hospital, 200 Exempla Circle.",
                     "address": {
                         "city": "Lafayette",
@@ -493,11 +541,47 @@
             },
             {
                 "facility": {
+                    "name": "IU Health Methodist Hospital",
+                    "address": {
+                        "city": "Indianapolis",
+                        "state": "Indiana",
+                        "zip": "46077",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "University of Iowa Hospitals & Clinics",
                     "address": {
                         "city": "Iowa City",
                         "state": "Iowa",
                         "zip": "52242",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Tulane University",
+                    "address": {
+                        "city": "New Orleans",
+                        "state": "Louisiana",
+                        "zip": "70112",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Maine Medical Center",
+                    "address": {
+                        "city": "Portland",
+                        "state": "Maine",
+                        "zip": "04102",
                         "country": "United States"
                     }
                 },
@@ -553,6 +637,30 @@
             },
             {
                 "facility": {
+                    "name": "The University of Michigan Hospitals and Health Systems",
+                    "address": {
+                        "city": "Ann Arbor",
+                        "state": "Michigan",
+                        "zip": "48109-5378",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Henry Ford Health System",
+                    "address": {
+                        "city": "Detroit",
+                        "state": "Michigan",
+                        "zip": "48202",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Hennepin Healthcare",
                     "address": {
                         "city": "Minneapolis",
@@ -570,6 +678,18 @@
                         "city": "Rochester",
                         "state": "Minnesota",
                         "zip": "55905",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Providence St Patrick Hospital and International Heart Institute of MT Foundation",
+                    "address": {
+                        "city": "Missoula",
+                        "state": "Montana",
+                        "zip": "59802",
                         "country": "United States"
                     }
                 },
@@ -793,6 +913,18 @@
             },
             {
                 "facility": {
+                    "name": "Duke University Medical Center",
+                    "address": {
+                        "city": "Durham",
+                        "state": "North Carolina",
+                        "zip": "27710",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "University Hospitals Cleveland Medical Center",
                     "address": {
                         "city": "Cleveland",
@@ -846,6 +978,18 @@
                         "city": "Portland",
                         "state": "Oregon",
                         "zip": "97227",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital of the University of Pennsylvania, 51 N. 31st Street",
+                    "address": {
+                        "city": "Philadelphia",
+                        "state": "Pennsylvania",
+                        "zip": "19104",
                         "country": "United States"
                     }
                 },
@@ -1009,6 +1153,18 @@
             },
             {
                 "facility": {
+                    "name": "Virginia Hospital Center",
+                    "address": {
+                        "city": "Arlington",
+                        "state": "Virginia",
+                        "zip": "22205",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Inova Fairfax Hospital",
                     "address": {
                         "city": "Falls Church",
@@ -1131,6 +1287,17 @@
             },
             {
                 "facility": {
+                    "name": "CHU de BORDEAUX",
+                    "address": {
+                        "city": "Bordeaux",
+                        "zip": "33076",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Chu Montpellier",
                     "address": {
                         "city": "Montpelier Cedex 5",
@@ -1146,6 +1313,28 @@
                     "address": {
                         "city": "Nantes",
                         "zip": "44035",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Saint Louis hospital",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75010",
+                        "country": "France"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hopital Saint Antoine",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75012",
                         "country": "France"
                     }
                 },
@@ -1336,9 +1525,10 @@
             },
             {
                 "facility": {
-                    "name": "Istituto Nazionale Malattie Infettive Lazzaro Spallanzani I.R.C.C.S.",
+                    "name": "UOC Malattie Infettive ad Alta Intensita di Cure, Istituto Nazionale Malattie Infettive Lazzaro Spallanzani I.R.C.C.S.",
                     "address": {
                         "city": "Roma",
+                        "zip": "00149",
                         "country": "Italy"
                     }
                 },
@@ -1379,6 +1569,17 @@
             },
             {
                 "facility": {
+                    "name": "Amsterdam University Medical Centre - Location AMC",
+                    "address": {
+                        "city": "Amsterdam",
+                        "zip": "1105 AZ",
+                        "country": "Netherlands"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Leiden University Medical Center",
                     "address": {
                         "city": "Leiden",
@@ -1390,7 +1591,7 @@
             },
             {
                 "facility": {
-                    "name": "Erasmus MC University Hospital",
+                    "name": "Erasmus Medical Centre",
                     "address": {
                         "city": "Rotterdam",
                         "zip": "3015 GD",
@@ -1434,6 +1635,18 @@
             },
             {
                 "facility": {
+                    "name": "Hospital Principe de Asturias",
+                    "address": {
+                        "city": "Alcal\u00e1 De Henares",
+                        "state": "Madrid",
+                        "zip": "28805",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Hospital Clinic de Barcelona",
                     "address": {
                         "city": "Barcelona",
@@ -1456,6 +1669,17 @@
             },
             {
                 "facility": {
+                    "name": "Hospital Universitario Ram\u00f3n y Cajal",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28034",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Hospital Universitario 12 de Octubre",
                     "address": {
                         "city": "Madrid",
@@ -1471,6 +1695,17 @@
                     "address": {
                         "city": "Madrid",
                         "zip": "28046",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Hospital Regional Universitario de M\u00e1laga",
+                    "address": {
+                        "city": "M\u00e1laga",
+                        "zip": "29010",
                         "country": "Spain"
                     }
                 },
@@ -1544,6 +1779,52 @@
             },
             {
                 "facility": {
+                    "name": "Imperial College NHS Trust",
+                    "address": {
+                        "city": "London",
+                        "state": "Greater London",
+                        "zip": "W2 1NY",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Manchester Royal",
+                    "address": {
+                        "city": "Manchester",
+                        "state": "M13 9wl",
+                        "zip": "M13 9WL",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Royal infirmary edinburgh",
+                    "address": {
+                        "city": "Edinburgh",
+                        "zip": "EH4 2XU",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Queen Elizabeth University Hospital",
+                    "address": {
+                        "city": "Glasgow",
+                        "zip": "G51 4TF",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Hull University Teaching Hospitals NHS Trust",
                     "address": {
                         "city": "Hull",
@@ -1559,6 +1840,39 @@
                     "address": {
                         "city": "Lancaster",
                         "zip": "LA1 4RP",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Liverpool University Hospital",
+                    "address": {
+                        "city": "Liverpool",
+                        "zip": "L7 8XP",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Northwick Park Hospital",
+                    "address": {
+                        "city": "London",
+                        "zip": "HA1 3UJ",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Royal Free London NHS Foundation Trust",
+                    "address": {
+                        "city": "London",
+                        "zip": "NW3 2QG",
                         "country": "United Kingdom"
                     }
                 },
@@ -1588,10 +1902,32 @@
             },
             {
                 "facility": {
+                    "name": "Manchester University NHS Foundation Trust",
+                    "address": {
+                        "city": "Manchester",
+                        "zip": "M23 9LT",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
                     "name": "Pennine Acute Hospitals NHS Trust",
                     "address": {
                         "city": "Manchester",
                         "zip": "M8 5RB",
+                        "country": "United Kingdom"
+                    }
+                },
+                "status": "Recruiting"
+            },
+            {
+                "facility": {
+                    "name": "Derriford Hospital",
+                    "address": {
+                        "city": "Plymouth",
+                        "zip": "PL6 8BG",
                         "country": "United Kingdom"
                     }
                 },
@@ -1636,11 +1972,11 @@
             "@type": "Actual",
             "#text": "March 3, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 11, 2020",
+        "last_update_submitted_qc": "April 11, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 9, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

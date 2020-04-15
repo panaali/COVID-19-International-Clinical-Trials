@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "177",
+        "@rank": "123",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04343781"
         },
@@ -59,7 +59,10 @@
             "@type": "Actual",
             "#text": "353"
         },
-        "condition": "SARS-CoV-2",
+        "condition": [
+            "SARS-CoV-2",
+            "COVID-19"
+        ],
         "intervention": {
             "intervention_type": "Other",
             "intervention_name": "observation",
@@ -100,14 +103,14 @@
         "study_first_submitted": "April 9, 2020",
         "study_first_submitted_qc": "April 9, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 13, 2020"
         },
-        "last_update_submitted": "April 9, 2020",
-        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_submitted": "April 11, 2020",
+        "last_update_submitted_qc": "April 11, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 13, 2020"
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

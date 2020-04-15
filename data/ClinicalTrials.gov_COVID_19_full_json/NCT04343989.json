@@ -1,0 +1,198 @@
+{
+    "clinical_study": {
+        "@rank": "80",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04343989"
+        },
+        "id_info": {
+            "org_study_id": "s20-00392",
+            "nct_id": "NCT04343989"
+        },
+        "brief_title": "A Randomized Placebo-controlled Safety and Dose-finding Study for the Use of the IL-6 Inhibitor Clazakizumab in Patients With Life-threatening COVID-19 Infection",
+        "official_title": "A Randomized Placebo-controlled Safety and Dose-finding Study for the Use of the IL-6 Inhibitor Clazakizumab in Patients With Life-threatening COVID-19 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "NYU Langone Health",
+                "agency_class": "Other"
+            }
+        },
+        "source": "NYU Langone Health",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "In this study clazakizumab will be administered to patients with life-threatening COVID-19\n      infection manifest by pulmonary failure and a clinical picture consistent with a cytokine\n      storm syndrome. This is a single-center randomized, double-blind, placebo-controlled trial in\n      which 30 patients will be enrolled and randomly assigned in a 1:1:1 ratio to three study arms\n      that will receive clazakizumab at a dose of 12.5 mg, 25 mg or placebo"
+        },
+        "detailed_description": {
+            "textblock": "The limited understanding of the clinical behavior of patients infected with SARS-CoV-2 (the\n      viral organism responsible for COVID-19 disease) is evolving on a daily basis. Reports from\n      China indicate that a subset of patients with the worst clinical outcomes may manifest\n      cytokine storm syndrome. Hypotheses that excess cytokines may trigger a secondary\n      hemophagocytic lymphhistiocytosis (sHLH) have been proposed. Indeed, cytokine profiles\n      consistent with this picture were observed in Chinese patients with severe pulmonary\n      involvement. Specifically, elevated ferritin and interleukin-6 (IL-6) were associated with\n      fatalities among the infected patients. A role for targeted anti-inflammatory and\n      anti-cytokine therapies in the treatment of pulmonary hyperinflammation has been proposed.\n\n      Clazakizumab is a genetically engineered humanized IgG1 monoclonal antibody (mAb) that binds\n      with high affinity to human IL-6. This investigational agent is currently being studied as a\n      treatment for chronic active antibody mediated rejection of renal allografts.\n\n      In this study we propose to administer clazakizumab to patients with life-threatening\n      pulmonary failure secondary to COVID-19 disease."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 31, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 1, 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "This is a single-center randomized, double-blind, placebo-controlled trial in which 30 patients will be enrolled and randomly assigned in a 1:1:1 ratio to three study arms that will receive clazakizumab at a dose of 12.5 mg, 25 mg or placebo",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)",
+            "masking_description": "This study is double-blind and therefore neither the Investigator, the subject, the Sponsor and its representatives, nor other designated study site personnel involved in running of the study will be aware of the identification of the investigational drug administered to each subject."
+        },
+        "primary_outcome": {
+            "measure": "Incidence of serious adverse events associated with clazakizumab or placebo",
+            "time_frame": "60 days"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of intubation",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Time to extubation",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Length of ICU stay",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Number of patients who present a decrease in C-reactive protein",
+                "time_frame": "14 days"
+            },
+            {
+                "measure": "Patient survival",
+                "time_frame": "60 days",
+                "description": "Assessed at 28 and 60 days"
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Clazakizumab 12.5 mg",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Clazakizumab 25 mg",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Clazakizumab 12.5 mg",
+                "description": "The first dose will be administered as soon as possible after the patient is enrolled and randomized into the Clazakizumab 12.5 mg arm. The route of administration will be intravenous. Each dose will be administered as an infusion that is run over 30 minutes. Serum CRP will be evaluated at baseline and on days 1 and 2 following clazakizumab administration. If the CRP does not decrease by 50% within 36-48 hours after the first dose, a second dose of 12.5 mg clazakizumab will be given no later than day 3.",
+                "arm_group_label": "Clazakizumab 12.5 mg"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Clazakizumab 25 mg",
+                "description": "The first dose will be administered as soon as possible after the patient is enrolled and randomized into the Clazakizumab 25 mg arm. The route of administration will be intravenous. Each dose will be administered as an infusion that is run over 30 minutes. Serum CRP will be evaluated at baseline and on days 1 and 2 following clazakizumab administration. If the CRP does not decrease by 50% within 36-48 hours after the first dose, a second dose of 25 mg clazakizumab will be given no later than day 3.",
+                "arm_group_label": "Clazakizumab 25 mg"
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "The first dose will be administered as soon as possible after the patient is enrolled and randomized into the Placebo arm. The route of administration will be intravenous. Each dose will be administered as an infusion that is run over 30 minutes. Serum CRP will be evaluated at baseline and on days 1 and 2 following clazakizumab administration. If the CRP does not decrease by 50% within 36-48 hours after the first dose, a second dose of placebo will be given no later than day 3.",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        In order to be eligible to participate in this study, the patients must meet all of the\n        following criteria:\n\n          1. At least 18 years of age\n\n          2. Confirmed COVID-19 disease (by Cobas SARS-CoV-2 real time RT-PCR using nasopharyngeal\n             swab sample, or equivalent test available to be performed by the NYU Langone clinical\n             laboratory). Effort will be made to have the confirmatory test result <72 hours prior\n             to enrollment however given overall clinical demand this may not be feasible in all\n             cases.\n\n          3. Respiratory failure manifesting as: Acute Respiratory Distress Syndrome (defined by a\n             P/F ratio of <200), OR SpO2 < 90% on 4L (actual or expected given higher O2\n             requirement) OR increasing O2 requirements over 24 hours, PLUS 2 or more of the\n             following predictors for severe disease:\n\n             CRP > 35 mg/L Ferritin > 500 ng/mL D-dimer > 1 mcg/L Neutrophil-Lymphocyte Ratio > 4\n             LDH > 200 U/L Increase in troponin in patient w/out known cardiac disease\n\n          4. Has a consent designee willing to provide informed consent on behalf of the patient\n             (this assumes that a mechanically ventilated patients lacks capacity to consent on\n             his/her own behalf. Should it be deemed that the patient has capacity to consent,\n             consent may be obtained from the patient.)\n\n          5. Women of childbearing potential must be willing and able to use at least one highly\n             effective contraceptive method for a period of 5 months following the study drug\n             administration. In the context of this study, an effective method is defined as those\n             which result in low failure rate (i.e. less than 1% per year) when used consistently\n             and correctly such as:\n\n               1. combined (estrogen and progestogen containing) hormonal contraception combined\n                  (estrogen and progestogen containing) hormonal contraception (oral, intravaginal,\n                  or transdermal)\n\n               2. progestogen-only hormonal contraception associated with inhibition of ovulation\n                  (oral, injectable, implantable)\n\n               3. intrauterine device (IUD)\n\n               4. intrauterine hormone-releasing system (IUS)\n\n               5. vasectomized partner\n\n               6. bilateral tubal occlusion\n\n               7. true abstinence. when this is in line with the preferred and usual lifestyle of\n                  the subject. Periodic abstinence, such as calendar, ovulation, symptothermal,\n                  postovulation methods, and withdrawal are not acceptable methods of\n                  contraception.\n\n          6. Men must be willing to use a double-barrier contraception from enrollment until at 5\n             months after the last dose of study drug, if not abstinent.\n\n        Exclusion Criteria:\n\n        An individual who meets any of the following criteria will be excluded from participation\n        in this study:\n\n          1. Evidence of irreversible injury deemed non-survivable even if the pulmonary failure\n             recovers (for example severe anoxic brain injury)\n\n          2. Known active inflammatory bowel disease\n\n          3. Known active, untreated diverticulitis\n\n          4. Known untreated bacteremia\n\n          5. Pregnancy. (The protocol will exclude pregnant subjects given the lack of overall data\n             on use of clazakizumab in pregnancy however the study team would consider a protocol\n             revision should more than 3 potential pregnant study subjects be excluded on this\n             basis).\n\n          6. Known hypersensitivity to the clazakizumab"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Bonnie Lonze, MD",
+            "role": "Principal Investigator",
+            "affiliation": "NYU Langone Health"
+        },
+        "overall_contact": {
+            "last_name": "Bonnie Lonze, MD",
+            "phone": "212-263-8365",
+            "email": "bonnie.lonze@nyulangone.org"
+        },
+        "overall_contact_backup": {
+            "last_name": "Elaina Weldon, ACNP-BC",
+            "phone": "646-385-0920",
+            "email": "elaina.weldon@nyulangone.org"
+        },
+        "location": {
+            "facility": {
+                "name": "New York University School of Medicine",
+                "address": {
+                    "city": "New York",
+                    "state": "New York",
+                    "zip": "10016",
+                    "country": "United States"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Bonnie Lonze, MD",
+                "email": "bonnie.lonze@nyulangone.org"
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "patient_data": {
+            "sharing_ipd": "Yes",
+            "ipd_description": "The de-identified participant data from the final research dataset used in the published manuscript will be shared upon reasonable request beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research provided the investigator who proposes to use the data executes a data use agreement with NYU Langone Health. Requests may be directed to: [contact information for PI or designee]. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.",
+            "ipd_info_type": [
+                "Study Protocol",
+                "Statistical Analysis Plan (SAP)"
+            ],
+            "ipd_time_frame": "Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.",
+            "ipd_access_criteria": "Upon reasonable request by an investigator who proposes to use the data."
+        }
+    }
+}

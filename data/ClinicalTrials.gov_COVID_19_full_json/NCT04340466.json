@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "272",
+        "@rank": "308",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04340466"
         },
@@ -65,7 +65,7 @@
                 "description": "Delay in imaging in hours"
             },
             {
-                "measure": "Microbiological diagnosis",
+                "measure": "Delay in Microbiological diagnosis",
                 "time_frame": "day 1",
                 "description": "delay in microbiological diagnosis in hours"
             },
@@ -180,11 +180,11 @@
             "@type": "Actual",
             "#text": "April 9, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 9, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

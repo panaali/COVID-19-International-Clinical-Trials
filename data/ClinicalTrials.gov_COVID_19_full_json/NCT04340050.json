@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "236",
+        "@rank": "270",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04340050"
         },
@@ -28,10 +28,10 @@
         "brief_summary": {
             "textblock": "The purpose of this study is to assess the feasibility of delivering anti-SARS-CoV-2\n      convalescent plasma to hospitalized patients with severe or life-threatening COVID-19.\n\n      Beyond supportive care, there are currently no proven treatment options for coronavirus\n      disease (COVID-19), the infection caused by Severe Acute Respiratory Syndrome Coronavirus 2\n      (SARS-CoV-2). Human convalescent plasma is an option for treatment of COVID-19 and could be\n      rapidly available when there are sufficient numbers of people who have recovered and can\n      donate high titer neutralizing immunoglobulin-containing plasma.\n\n      Hypothesis: Collecting and administering convalescent plasma requires a level of logistical\n      coordination that is not available in all centers.\n\n      Objective: To establish feasibility for a hospital-based integrated system to collect and\n      administer convalescent plasma to patients with severe or life-threatening COVID-19."
         },
-        "overall_status": "Not yet recruiting",
+        "overall_status": "Recruiting",
         "start_date": {
-            "@type": "Anticipated",
-            "#text": "April 30, 2020"
+            "@type": "Actual",
+            "#text": "April 10, 2020"
         },
         "completion_date": {
             "@type": "Anticipated",
@@ -149,6 +149,7 @@
                     "country": "United States"
                 }
             },
+            "status": "Recruiting",
             "contact": {
                 "last_name": "Maria Lucia Madariaga"
             },
@@ -167,11 +168,11 @@
             "@type": "Actual",
             "#text": "April 9, 2020"
         },
-        "last_update_submitted": "April 8, 2020",
-        "last_update_submitted_qc": "April 8, 2020",
+        "last_update_submitted": "April 12, 2020",
+        "last_update_submitted_qc": "April 12, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 9, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

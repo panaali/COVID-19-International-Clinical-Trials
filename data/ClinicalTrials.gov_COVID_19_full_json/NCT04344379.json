@@ -1,0 +1,311 @@
+{
+    "clinical_study": {
+        "@rank": "279",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344379"
+        },
+        "id_info": {
+            "org_study_id": "APHP200386",
+            "secondary_id": "2020-001273-73",
+            "nct_id": "NCT04344379"
+        },
+        "brief_title": "Prevention of SARS-CoV-2 in Hospital Workers s Exposed to the Virus",
+        "acronym": "PREP-COVID",
+        "official_title": "Randomized Multicenter Study Evaluating the Efficacy of Azithromycin and Hydroxychloroquine in the Prevention of SARS-CoV-2 Infection in the Hospital Population Exposed to Virus",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique - H\u00f4pitaux de Paris",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Assistance Publique - H\u00f4pitaux de Paris",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "The Investigators propose to set up a preventive trial of infection in hospital workers at\n      risk of coronavirus infection by comparing the rate of SARS-Cov-2 infection in a population\n      of negative SARS-Cov-2 hospital workers receiving preventively azithromycin,\n      hydroxychloroquine or a Placebo"
+        },
+        "detailed_description": {
+            "textblock": "Randomized clinical trial with 3 arms : hydroxychloroquine group, 300 subjects/azithromycin\n      group, 300 subjects/ placebo of hydroxychloroquine group, 300 subjects. Hospital workers\n      workers will be invited to participate in the study in each hospital and they will be\n      included after giving their consent, assessment of their eligibility criteria, endonasal PCR\n      and serolology at baseline. They will be randomized in one of the 3 arms, receive their\n      treatment and will be followed by physical visit (at Day 2, Day 5, Day 15, Day 28) and by\n      phone (at Day) 40 days with clinical data collection (tolerance and clinical signs of\n      infection). At the end of treatment, another serology will be collected."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 14, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 31, 2020"
+        },
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "To assess the impact of hydroxychloroquine and azithromycin on the prevention of SARS-CoV-2 contamination in hospital workers exposed to 40 days of treatment.",
+            "time_frame": "3 months",
+            "description": "The number of hospital workers with a positive serology or a positive PCR within 40 days of follow-up."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Reducing clinical episodes due to suspected SARS-2 CoV infection confirmed by PCR",
+                "time_frame": "40 days",
+                "description": "Clinical signs suggesting SARS-2 CoV infection confirmed by positive endonasal PCR"
+            },
+            {
+                "measure": "Reducing seroconversion for SARS-CoV-2 without any clinical sign",
+                "time_frame": "3 months",
+                "description": "number of seroconversion by serology between Day 0 and Day 40."
+            },
+            {
+                "measure": "Evaluation of drug tolerance in the study",
+                "time_frame": "40 days",
+                "description": "number of cardiological severe adverse events assessed (ECG abnormalities : widening QT, ventricular arythmia, and cardiac arrests), other serious adverse events including hospitalizations, and deaths"
+            },
+            {
+                "measure": "Evaluation on work stopping of hospital workers",
+                "time_frame": "40 days",
+                "description": "Number of work stoppages over the period"
+            },
+            {
+                "measure": "Observance of treatment measured by plasmatic concentrations of hydroxychloroquine or azythromycine",
+                "time_frame": "40 days",
+                "description": "Plasmatic concentrations of treatments"
+            },
+            {
+                "measure": "Incidence of cardiologic events",
+                "time_frame": "40 days",
+                "description": "number of cardiac events, especialy ECG abnormalities (widening QT) due to treatments"
+            }
+        ],
+        "number_of_arms": "3",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "900"
+        },
+        "condition": "SARS-CoV-2 Infection",
+        "arm_group": [
+            {
+                "arm_group_label": "Arm Title : hydroxychloroquine",
+                "arm_group_type": "Active Comparator"
+            },
+            {
+                "arm_group_label": "Placebo of hydroxychloroquine",
+                "arm_group_type": "Placebo Comparator"
+            },
+            {
+                "arm_group_label": "azythromycin",
+                "arm_group_type": "Active Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "hydroxychloroquine",
+                "description": "200 mg BID per day",
+                "arm_group_label": "Arm Title : hydroxychloroquine"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "azithromycin",
+                "description": "250 mg per day",
+                "arm_group_label": "azythromycin"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "hydroxychloroquine placebo",
+                "description": "200 mg BID per day",
+                "arm_group_label": "Placebo of hydroxychloroquine"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n        Hospital workers working at AP-HP hospitals over the age of 18\n\n          -  Hospital workers who have signed consent\n\n          -  No signs of COVID-19 infection\n\n          -  Women who are likely to procreate should have a negative pregnancy test on inclusion\n             day. In addition, they should use at least one effective contraceptive method before\n             starting treatment, during treatment and up to 8 months after the last drug tested\n             during the trial. Sexually active men should also have effective contraception during\n             treatment and for at least 8 months after the last drug tested during the trial.\n\n          -  Affiliated or beneficiary of Social Security\n\n        Exclusion Criteria:\n\n          -  History of SARS-CoV-2 infection confirmed by PCR or serology is available at inclusion\n\n          -  A history of clinical episode suspecting a PCR-confirmed or unconfirmed COVID-19\n             infection.\n\n          -  Pregnancy and breastfeeding\n\n          -  Allergy or contraindications to one of the 2 drugs in the study\n\n          -  Known retinopathy\n\n          -  Long congenital QT syndrome (or known in the family)\n\n          -  QTc or 450 ms in men, or 460 ms in women, if Fc 55/mn (except in case of intense sport\n             practice), if ESV on baseline ECG, if QRS - or 120 ms, if AC/FA, if the PR or BAV\n             lengthening\n\n          -  History of severe ischemic heart disease or unbalanced heart failure.\n\n          -  Clinically significant bradycardia known\n\n          -  Known kidney or liver failure\n\n          -  Known G6PD deficit\n\n          -  Subject who received antiviral treatment in the 14 days prior to inclusion\n\n          -  Subject who had treatment with azithromycin or hydroxychloroquine, in the 14 days\n             prior to inclusion\n\n          -  Hypokaliemia (<= 3.5 mmol/L), Increase in creatinine (>=120 micromol/Ll, Increase in\n             transaminases at baseline (>=2N)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Jean Marc Treluyer, MD PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Assitance publique - H\u00f4pitaux de Paris."
+        },
+        "overall_contact": {
+            "last_name": "Jean Marc Treluyer, MD PhD",
+            "phone": "1 58 41 28 85",
+            "phone_ext": "+33",
+            "email": "jean-marc.treluyer@aphp.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Guillaume Masson, MsC",
+            "phone": "1 58 41 34 78",
+            "phone_ext": "+33",
+            "email": "guillaume.masson@aphp.fr"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "H\u00f4pital GHU Paris Saclay",
+                    "address": {
+                        "city": "Boulogne-Billancourt",
+                        "zip": "92100",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Lamiae Grimaldi, MD PhD",
+                    "phone": "1 49 09 50 00",
+                    "phone_ext": "+33",
+                    "email": "lamiae.grimaldi@aphp.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital Saint Antoine",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75012",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Tabassome Simon, MD PhD",
+                    "phone": "1 49 28 22 23",
+                    "phone_ext": "+ 33",
+                    "email": "tabassome.simon@aphp.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital Broca",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75013",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Olivier HANON, MD PhD",
+                    "phone": "1 44 08 33 81",
+                    "phone_ext": "+33",
+                    "email": "olivier.hanon@aphp.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital La Piti\u00e9-Salp\u00e9tri\u00e8re",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75013",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Joe Elie Salem, MD",
+                    "phone": "1 42 16 16 61",
+                    "phone_ext": "+33",
+                    "email": "joe-elie.salem@aphp.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital Cochin",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75014",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Jean Marc Treluyer, MD PhD",
+                    "phone": "1 58 41 28 85",
+                    "phone_ext": "+33",
+                    "email": "jean-marc.treluyer@aphp.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital europ\u00e9en Georges Pompidou",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75015",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Olivier Sanchez, MD PhD",
+                    "phone": "1 56 09 34 61",
+                    "phone_ext": "+33",
+                    "email": "olivier.sanchez@aphp.fr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "H\u00f4pital Necker",
+                    "address": {
+                        "city": "Paris",
+                        "zip": "75015",
+                        "country": "France"
+                    }
+                },
+                "contact": {
+                    "last_name": "Michaela Semeraro, MD PhD",
+                    "phone": "1 42 19 27 16",
+                    "phone_ext": "+33",
+                    "email": "michaela.semeraro@aphp.fr"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "March 27, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "SARS-CoV-2",
+            "hydroxychloroquine",
+            "azithromycin",
+            "caregivers"
+        ],
+        "condition_browse": {
+            "mesh_term": "Infection"
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxychloroquine"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "clinical_study": {
+        "@rank": "469",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344106"
+        },
+        "id_info": {
+            "org_study_id": "20202703-2",
+            "nct_id": "NCT04344106"
+        },
+        "brief_title": "Prone Positioning in Spontaneously Breathing Nonintubated Covid-19 Patient: a Pilot Study",
+        "acronym": "ProCov",
+        "official_title": "Prone Positioning in Spontaneously Breathing Nonintubated Covid-19 Patient: a Pilot Study (ProCov)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "ELHARRAR Xavier",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Centre Hospitalier Intercommunal Aix-Pertuis",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The prone position consists of placing the patient on his or her stomach with the head on the\n      side, during sessions lasting several hours a day and could help spontaneous ventilate the\n      patient."
+        },
+        "detailed_description": {
+            "textblock": "SARS-CoV-2 is an RNA virus whose tropism for the respiratory system is responsible for many\n      cases of acute respiratory failure. This can lead to acute respiratory distress syndrome\n      (ARDS) requiring orotracheal intubation and mechanical ventilation. The prone position is a\n      validated intensive care technique in the treatment of ARDS in mechanically ventilated\n      patients. Performing prone position sessions improves patient oxygenation by optimizing the\n      ventilation/perfusion ratios of the posterior areas of the lungs.\n\n      There is limited data in the literature on the ventral decubitus in spontaneous ventilation.\n      They are mainly case series or retrospective studies. In the case of the SARS-CoV-2 epidemic,\n      we are seeing patients with posterior lung involvement who may benefit from prone position\n      sessions prior to mechanical ventilation. This maneuver, usually done in an\n      intubated-ventilated-curarized patient, will be done in our spontaneous ventilation study in\n      a conscious patient.The patient will then be placed in prone position with the help of\n      physiotherapists so that the patient is correctly positioned.\n\n      The maneuver and the clinical monitoring of the patient's tolerance to the prone position\n      will be done under medical and paramedical supervision, including monitoring of saturation\n      during and after the procedure. A polygraph will also be installed on the patient in order to\n      monitor the patient's position (on the back vs. on the stomach), saturation and heart rate\n      during the entire prone position session. An arterial gasometry will be performed before the\n      patient is placed in the prone position, one hour after and after returning to the supine\n      position."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 1, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Supportive Care",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Proportion of \"responder\" patients to prone position",
+            "time_frame": "1 hour",
+            "description": "PaO2 improvement of more than 20% after one hour in prone position in spontaneously breathing non intubated COVID-19 patients."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "proportion of \"persistent responders\" patients after prone position",
+                "time_frame": "1 day",
+                "description": "PaO2 improvement of more than 20% at 6 to 12 hours from return to supine position."
+            },
+            {
+                "measure": "Evolution of PaO2",
+                "time_frame": "1 day",
+                "description": "PaO2 at 1 hour from the start of prone position and at 6 to 12 hours afterreturn to supine position."
+            },
+            {
+                "measure": "Duration of prone positioning and PaO2 evolution",
+                "time_frame": "2 days",
+                "description": "Look for an association between the time spent in Prone positione and persistent responder or not;"
+            },
+            {
+                "measure": "Evolution of Spo2",
+                "time_frame": "1 hour",
+                "description": "proportion of patients improving their arterial saturation within 1 hour of Prone Position"
+            },
+            {
+                "measure": "EVA Dyspnea",
+                "time_frame": "1 day",
+                "description": "evolution of the EVA scores for dyspnea at 1 hour from the start of the Prone Position and at 6 hours after the end of the Prone Position"
+            },
+            {
+                "measure": "Intolerance to prone positioning",
+                "time_frame": "1 day",
+                "description": "proportion of patients intolerant to prone position (Prone Position <1h);"
+            },
+            {
+                "measure": "Tolerance to prone positioning",
+                "time_frame": "1 day",
+                "description": "proportion of patients who can maintain prone position for more than 3 h."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "25"
+        },
+        "condition": [
+            "Coronavirus Infection",
+            "Oxygen Deficiency"
+        ],
+        "arm_group": {
+            "arm_group_label": "Prone positioning",
+            "arm_group_type": "Experimental",
+            "description": "Participants are all turned to prone position for an optimal minimum duration of 3 hours .\nTolerance, oxygen saturation, heart rate and position are monitoring during all procedure. Arterial blood gases are realized before, 1 to 2 hours after the beginning of the prone position, and 6 to 12 hours after resupination."
+        },
+        "intervention": {
+            "intervention_type": "Procedure",
+            "intervention_name": "Prone positioning",
+            "description": "The prone positioning consists of placing the patient on his or her stomach with the head on the side, during sessions lasting several hours a day.",
+            "arm_group_label": "Prone positioning"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patient aged at least 18 years;\n\n          -  Hospitalized in a COVID unit or intensive care unit;\n\n          -  Spontaneously breathing and with oxygen therapy with nasal canula, mask or High Flow\n             Oxygen Therapy;\n\n          -  Requiring oxygen therapy \u2265 1l for Sat \u2265 90%;\n\n          -  COVID 19 positive in RT-PCR or diagnosis on clinicals symptoms and highly evocatives\n             scannographics lesions in an epidemic period;\n\n          -  Chest scanner without injection within 72 hours prior to inclusion;\n\n          -  Bilateral scannographic lesions, including posterior condensations and/or posterior\n             predominance of lesions;\n\n          -  Patient benefiting from French social security, under any regime\n\n        Exclusion Criteria:\n\n          -  acute respiratory distress (polypnea >25 or use of accessory respiratory muscles);\n\n          -  Alteration of consciousness;\n\n          -  Active or recent hemoptysis (<1 month);\n\n          -  Recent Thrombo-Embolic Venous Disease (< 1 month);\n\n          -  Pericardial effusion;\n\n          -  Pleural effusion of high abundance, clinical or scannographic;\n\n          -  Chronic back or cervical pain/ history of spinal surgery/ bone metastases;\n\n          -  Wounds, facial trauma, tracheal, sternal or facial surgery < 15 days;\n\n          -  Recent abdominal surgery (< 1 month);\n\n          -  Intracranial HyperTension > 30mmHg;\n\n          -  Patient deprived of liberty, under guardianship or curatorship;\n\n          -  Pregnant or lactating woman."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Xavier ELHARRAR, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            },
+            {
+                "last_name": "Youssef Trigui, MD",
+                "role": "Study Director",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            },
+            {
+                "last_name": "Stephanie Martinez, MD",
+                "role": "Study Chair",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            },
+            {
+                "last_name": "Laurence Maulin, MD",
+                "role": "Study Chair",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            },
+            {
+                "last_name": "Marie Bernardi, MD",
+                "role": "Study Chair",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            },
+            {
+                "last_name": "Laurent Lefebvre, MD",
+                "role": "Study Chair",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            },
+            {
+                "last_name": "Thibaut Helbert, MD",
+                "role": "Study Chair",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            },
+            {
+                "last_name": "Camille begne, MD",
+                "role": "Study Chair",
+                "affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis (CHIAP), France"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Xavier ELHARRAR, MD",
+            "phone": "0442335650",
+            "phone_ext": "+33",
+            "email": "rechercheclinique@ch-aix.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Youssef Trigui, MD",
+            "phone": "0033674215193",
+            "email": "rechercheclinique@ch-aix.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "CHI Aix-Pertuis",
+                "address": {
+                    "city": "Aix-en-Provence",
+                    "zip": "13100",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Xavier ELHARRAR",
+                "phone": "0442335650",
+                "phone_ext": "+33",
+                "email": "rechercheclinique@ch-aix.fr"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "reference": [
+            {
+                "citation": "Sun Q, Qiu H, Huang M, Yang Y. Lower mortality of COVID-19 by early recognition and intervention: experience from Jiangsu Province. Ann Intensive Care. 2020 Mar 18;10(1):33. doi: 10.1186/s13613-020-00650-2.",
+                "PMID": "32189136"
+            },
+            {
+                "citation": "Scaravilli V, Grasselli G, Castagna L, Zanella A, Isgr\u00f2 S, Lucchini A, Patroniti N, Bellani G, Pesenti A. Prone positioning improves oxygenation in spontaneously breathing nonintubated patients with hypoxemic acute respiratory failure: A retrospective study. J Crit Care. 2015 Dec;30(6):1390-4. doi: 10.1016/j.jcrc.2015.07.008. Epub 2015 Jul 16.",
+                "PMID": "26271685"
+            },
+            {
+                "citation": "Ding L, Wang L, Ma W, He H. Efficacy and safety of early prone positioning combined with HFNC or NIV in moderate to severe ARDS: a multi-center prospective cohort study. Crit Care. 2020 Jan 30;24(1):28. doi: 10.1186/s13054-020-2738-5.",
+                "PMID": "32000806"
+            },
+            {
+                "citation": "Munshi L, Del Sorbo L, Adhikari NKJ, Hodgson CL, Wunsch H, Meade MO, Uleryk E, Mancebo J, Pesenti A, Ranieri VM, Fan E. Prone Position for Acute Respiratory Distress Syndrome. A Systematic Review and Meta-Analysis. Ann Am Thorac Soc. 2017 Oct;14(Supplement_4):S280-S288. doi: 10.1513/AnnalsATS.201704-343OT. Review.",
+                "PMID": "29068269"
+            },
+            {
+                "citation": "Gattinoni L, Taccone P, Carlesso E, Marini JJ. Prone position in acute respiratory distress syndrome. Rationale, indications, and limits. Am J Respir Crit Care Med. 2013 Dec 1;188(11):1286-93. doi: 10.1164/rccm.201308-1532CI. Review.",
+                "PMID": "24134414"
+            },
+            {
+                "citation": "Gu\u00e9rin C, Reignier J, Richard JC, Beuret P, Gacouin A, Boulain T, Mercier E, Badet M, Mercat A, Baudin O, Clavel M, Chatellier D, Jaber S, Rosselli S, Mancebo J, Sirodot M, Hilbert G, Bengler C, Richecoeur J, Gainnier M, Bayle F, Bourdin G, Leray V, Girard R, Baboi L, Ayzac L; PROSEVA Study Group. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med. 2013 Jun 6;368(23):2159-68. doi: 10.1056/NEJMoa1214103. Epub 2013 May 20.",
+                "PMID": "23688302"
+            },
+            {
+                "citation": "Shi H, Han X, Jiang N, Cao Y, Alwalid O, Gu J, Fan Y, Zheng C. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. 2020 Apr;20(4):425-434. doi: 10.1016/S1473-3099(20)30086-4. Epub 2020 Feb 24.",
+                "PMID": "32105637"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 8, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Centre Hospitalier Intercommunal Aix-Pertuis",
+            "investigator_full_name": "ELHARRAR Xavier",
+            "investigator_title": "pulmologist"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Coronavirus Infections",
+                "Severe Acute Respiratory Syndrome",
+                "Hypoxia"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

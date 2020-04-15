@@ -1,0 +1,244 @@
+{
+    "clinical_study": {
+        "@rank": "66",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344080"
+        },
+        "id_info": {
+            "org_study_id": "CYTOCOV-19",
+            "secondary_id": [
+                "U1111-1250-2078",
+                "DRKS00021199"
+            ],
+            "nct_id": "NCT04344080"
+        },
+        "brief_title": "Effect of CytoSorb Adsorber on Hemodynamic and Immunological Parameters in Critical Ill Patients With COVID-19",
+        "acronym": "CYTOCOV-19",
+        "official_title": "Effect of CytoSorb Adsorber on Hemodynamic and Immunological Parameters in Critical Ill Patients With COVID-19",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Universit\u00e4tsklinikum Hamburg-Eppendorf",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This prospective randomized single Center study investigates to what extent the physical\n      elimination of the inflammatory mediators using the CytoSorb adsorber reduces the morbidity\n      of severely and critically ill patients with Covid-19."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 1, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "February 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Percentage of patients with a significant stabilization of hemodynamics for at least 24 hours",
+            "time_frame": "24 hours",
+            "description": "Percentage of patients with a significant stabilization of hemodynamics (\"shock reversal\"), defined as a significant reduction of the noradrenaline dose (\u2264 0.05 \u00b5g/kg/min) while maintaining mean arterial pressure \u2265 65 mmHg for at least 24 hours compared to control group"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Change in organ dysfunction",
+                "time_frame": "10 days",
+                "description": "Change in organ dysfunction based on \"Sequential Organ Failure Assessment\" (SOFA) Score The SOFA score is made of 6 variables, each representing an organ system. Each organ system is assigned a point value from 0 (normal) to 4 (high degree of dysfunction/failure) The worst physiological variables were collected serially every 24 hours of a patient's ICU admission. The \"worst\" measurement was defined as the measure that correlated to the highest number of points. The SOFA score ranges from 0 to 24."
+            },
+            {
+                "measure": "Lactate clearance",
+                "time_frame": "10 days",
+                "description": "Improving lactate clearance by lowering serum lactate levels"
+            },
+            {
+                "measure": "Renal replacement therapy",
+                "time_frame": "10 days",
+                "description": "Time with need for renal replacement therapy"
+            },
+            {
+                "measure": "Extracorporeal Membrane Oxygenation",
+                "time_frame": "10 days",
+                "description": "Time with Need for Extracorporeal Membrane Oxygenation"
+            },
+            {
+                "measure": "ICU length of stay",
+                "time_frame": "90 days",
+                "description": "ICU length of stay"
+            },
+            {
+                "measure": "Time on mechanical ventilation",
+                "time_frame": "10 days",
+                "description": "Time on mechanical ventilation"
+            },
+            {
+                "measure": "Cumulative catecholamine dose",
+                "time_frame": "10 days",
+                "description": "Cumulative catecholamine dose"
+            },
+            {
+                "measure": "Overall and ICU mortality",
+                "time_frame": "90 days",
+                "description": "Overall and ICU mortality"
+            },
+            {
+                "measure": "Change of plasma Interleukin-6 (IL6) level",
+                "time_frame": "10 days",
+                "description": "Change of plasma Interleukin-6 (IL6) level"
+            },
+            {
+                "measure": "Change of plasma Interleukin-10 (IL10) level",
+                "time_frame": "10 days",
+                "description": "Change of plasma Interleukin-10 (IL10) level"
+            },
+            {
+                "measure": "Change of plasma Procalcitonin (PCT) level",
+                "time_frame": "10 days",
+                "description": "Change of plasma Procalcitonin (PCT) level"
+            },
+            {
+                "measure": "Change of HLA-DR level",
+                "time_frame": "10 days",
+                "description": "Change of HLA-DR (Human Leukocyte Antigen - DR isotype) level of monocytes"
+            },
+            {
+                "measure": "Change of TNF alpha level after ex-vivo stimulation",
+                "time_frame": "10 days",
+                "description": "Change of TNF-alfa level (Tumor Necrosis Factor alpha) level after LPS (Lipopolysaccharides) stimulation as sign of monocytic immunocompetence"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "24"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "CytoSorb-Therapy",
+                "arm_group_type": "Active Comparator",
+                "description": "Therapy of COVID-19 with need for extracorporeal circulation (continuous renal replacement therapy or extracorporeal membrane oxygenation) using standard of care in Addition with hemoadsorption using CytoSorb-Adsorber"
+            },
+            {
+                "arm_group_label": "Standard of care",
+                "arm_group_type": "No Intervention",
+                "description": "Therapy of COVID-19 with need for extracorporeal circulation (continuous renal replacement therapy or extracorporeal membrane oxygenation) using standard of care"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Device",
+            "intervention_name": "CytoSorb-Therapy",
+            "description": "Additional use of Cytosorb-Adsorber in patients with COVID-19 and need for extracorporeal circulation (continuous renal replacement therapy or extracorporeal membrane oxygenation)",
+            "arm_group_label": "CytoSorb-Therapy"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  confirmed COVID-19 disease\n\n          -  refractory shock with need for norepinephrine \u2265 0.2 \u03bcg/kg/min for MAP \u2265 65 mmHg\n\n          -  IL6 \u2265 500 ng/l\n\n          -  Indication for CRRT or ECMO\n\n        Exclusion Criteria:\n\n          -  Liver cirrhosis Child Pugh C\n\n          -  \"do not resuscitate\"-order\n\n          -  expected survival due to comorbidities < 14 days\n\n          -  pregnancy or breastfeeding\n\n          -  participation in another interventional trial"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "90 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Stefan Kluge, MD",
+            "role": "Principal Investigator",
+            "affiliation": "University Hospital Hamburg-Eppendorf, Department of Intensive Care Medicine"
+        },
+        "overall_contact": {
+            "last_name": "Dominik Jarczak, MD",
+            "phone": "+49 40 741035315",
+            "email": "d.jarczak@uke.de"
+        },
+        "overall_contact_backup": {
+            "last_name": "Axel Nierhaus, MD",
+            "phone": "+49 40 741035315",
+            "email": "nierhaus@uke.de"
+        },
+        "location": {
+            "facility": {
+                "name": "University Medical Center Hamburg-Eppendorf",
+                "address": {
+                    "city": "Hamburg",
+                    "country": "Germany"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Dominik Jarczak, MD",
+                "phone": "+49 40 741035315",
+                "email": "d.jarczak@uke.de"
+            },
+            "contact_backup": {
+                "last_name": "Axel Nierhaus, MD",
+                "phone": "+49 40 741035315",
+                "email": "nierhaus@uke.de"
+            },
+            "investigator": [
+                {
+                    "last_name": "Stefan Kluge, MD",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Dominik Jarczak, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Axel Nierhaus, MD",
+                    "role": "Sub-Investigator"
+                },
+                {
+                    "last_name": "Kevin Roedl, MD",
+                    "role": "Sub-Investigator"
+                }
+            ]
+        },
+        "location_countries": {
+            "country": "Germany"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "critically ill",
+            "intensive care medicine",
+            "CytoSorb",
+            "hemoadsorption"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

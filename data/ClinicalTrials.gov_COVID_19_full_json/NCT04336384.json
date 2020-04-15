@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "184",
+        "@rank": "215",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04336384"
         },
@@ -66,6 +66,14 @@
                 {
                     "agency": "Alexis BLANC, Montpellier",
                     "agency_class": "Other"
+                },
+                {
+                    "agency": "Pr. Roland HENAINE, Lyon",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Hamouda ABASSI, Montpellier",
+                    "agency_class": "Other"
                 }
             ]
         },
@@ -98,15 +106,15 @@
             "time_perspective": "Prospective"
         },
         "primary_outcome": {
-            "measure": "Population characteristics",
+            "measure": "Prevalence of Covid-19 infection in the overall CHD population",
             "time_frame": "through study completion, an average of 2 weeks",
-            "description": "Population characteristics"
+            "description": "Prevalence of Covid-19 infection in the overall CHD population"
         },
         "secondary_outcome": [
             {
-                "measure": "Clinical course",
+                "measure": "Prevalence of Covid-19 infection per CHD sub-group",
                 "time_frame": "through study completion, an average of 2 weeks",
-                "description": "Clinical course"
+                "description": "Prevalence of Covid-19 infection per CHD sub-group"
             },
             {
                 "measure": "Cardiovascular complications",
@@ -223,6 +231,14 @@
                 {
                     "last_name": "Daniela LAUX, MD",
                     "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Roland HENAINE, PU PH",
+                    "role": "Principal Investigator"
+                },
+                {
+                    "last_name": "Hamouda ABASSI, MD",
+                    "role": "Principal Investigator"
                 }
             ]
         },
@@ -254,11 +270,11 @@
             "@type": "Actual",
             "#text": "April 7, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 7, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

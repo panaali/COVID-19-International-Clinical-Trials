@@ -1,0 +1,184 @@
+{
+    "clinical_study": {
+        "@rank": "87",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344171"
+        },
+        "id_info": {
+            "org_study_id": "CovidDB",
+            "nct_id": "NCT04344171"
+        },
+        "brief_title": "CovidDB: The Covid-19 Inpatient Database",
+        "official_title": "CovidDB: The Covid-19 Inpatient Database",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "ClarData",
+                "agency_class": "Other"
+            }
+        },
+        "source": "ClarData",
+        "oversight_info": {
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The aim of the project is to better understand the Covid-19 inpatient course of the disease\n      and to quickly identify the positive experiences in the treatment in order to update\n      guidelines for the treatment and use of medication."
+        },
+        "detailed_description": {
+            "textblock": "The exponentially increasing number of SARS-CoV-2 infected people, despite the influence of\n      the currently existing non-medical measures, is generating a rapidly increasing number of\n      inpatients, some of whom need artificial ventilation. The average focus is on the extent to\n      which the hospitals' capacities will be sufficient to adequately treat all patients.\n      Regardless of this, it can be expected that even if the non-medical measures are successful,\n      the number of inpatients treated will remain high in the course of the pandemic. With regard\n      to the distribution of infection, it can be expected that clinics with a wide range of\n      expertise will have to treat a large number of Covid-19 patients.\n\n      So far, however, there is little to no experience in treating patients. In addition to\n      epidemiological data, only case descriptions and some Chinese studies mostly from Wuhan based\n      on fewer patients are available. In view of the rapidly spreading pandemic, preprints are\n      increasingly being used. What has been missing so far is a uniform, structured recording of\n      the courses of Covid-19 inpatients handled by many clinics, which goes beyond the\n      epidemiological events in terms of depth of detail. With this documentation of real\n      processes, the basis for a large number of studies and the associated better understanding of\n      the disease process could be created.\n\n      The current dynamics make it imperative that the clinics, even those who have not received\n      the most up-to-date scientific knowledge, cannot wait for the results of studies, but rather\n      need concrete help in the treatment of patients. Efficient assistance within the framework of\n      a close exchange between the treatment units is only possible with a multicentre, uniform\n      documentation environment.\n\n      The aim of the project is to better understand the Covid-19 inpatient course of the disease\n      and to quickly identify the positive experiences in the treatment in order to update\n      guidelines for the treatment and use of medication."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "March 30, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2023"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2022"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Outcome comparison between different antiviral therapies",
+                "time_frame": "through study completion, an average of 1 year",
+                "description": "Different antivirals and their combinations will be tested and the outcome (cured/deceased) will be assessed"
+            },
+            {
+                "measure": "Outcome comparisons between ventilation types",
+                "time_frame": "through study completion, an average of 1 year",
+                "description": "Different ventilation types will be tested and the outcome (cured/deceased) will be assessed"
+            },
+            {
+                "measure": "Identification of risk factors",
+                "time_frame": "through study completion, an average of 1 year",
+                "description": "Clinical and laboratory risk factors will be recorded and the outcome (cured/deceased) will be assessed"
+            },
+            {
+                "measure": "Number of days in hospital vs. clinical classification",
+                "time_frame": "through study completion, an average of 1 year",
+                "description": "Correlation between number of days in hospital and worst clinical classification will be calculated"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "5000"
+        },
+        "condition": "COVID-19",
+        "eligibility": {
+            "study_pop": {
+                "textblock": "The study is focused on all Covid-19 inpatients which are treated in the recruited\n        hospitals."
+            },
+            "sampling_method": "Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Covid-19 inpatients\n\n        Exclusion Criteria:\n\n          -  assumed Covid-19 patient"
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Julia Ferencz, MD",
+            "role": "Principal Investigator",
+            "affiliation": "ClarData"
+        },
+        "overall_contact": {
+            "last_name": "Julia Ferencz, MD",
+            "phone": "+4917687607223",
+            "email": "j.ferencz@clardata.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Sebastian Dieng",
+            "phone": "+4915140212025",
+            "email": "s.dieng@clardata.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Universit\u00e4tsklinikum Ulm",
+                    "address": {
+                        "city": "Ulm",
+                        "country": "Germany"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Thomas Seufferlein, Prof."
+                }
+            },
+            {
+                "facility": {
+                    "name": "Klinikum Altm\u00fchlfranken",
+                    "address": {
+                        "city": "Wei\u00dfenburg",
+                        "country": "Germany"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Marius Ghidau, Dr."
+                }
+            },
+            {
+                "facility": {
+                    "name": "Municipal Clinical Emergency Hospital of Timisoara",
+                    "address": {
+                        "city": "Timisoara",
+                        "country": "Romania"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ovidiu Bedreag, Prof."
+                }
+            }
+        ],
+        "location_countries": {
+            "country": [
+                "Germany",
+                "Romania"
+            ]
+        },
+        "link": {
+            "url": "https://www.covid-db.com",
+            "description": "This is the website of the study and database"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Sars-Cov-2",
+            "Covid-19",
+            "antiviral therapy",
+            "ventilation",
+            "ECMO"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

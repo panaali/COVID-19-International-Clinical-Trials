@@ -1,0 +1,223 @@
+{
+    "clinical_study": {
+        "@rank": "24",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344145"
+        },
+        "id_info": {
+            "org_study_id": "PSY-ENCOVID19",
+            "nct_id": "NCT04344145"
+        },
+        "brief_title": "Exhaustion and Needs in Frontline COVID-19 Healthcare Workers: Cross-sectional Study in a Belgian Population",
+        "official_title": "Burnout, Emotional Distress and Needs in Frontline COVID-19 Healthcare Workers: Cross-sectional Study in a Belgian Population",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Universit\u00e9 Libre de Bruxelles",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Universit\u00e9 Libre de Bruxelles",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Background: In the Covid-19 pandemic context, all healthcare teams face clinical,\n      organizational and technical challenges given the contagion, severity and mortality\n      characteristics of the disease. A study reported the negative psychological impact on\n      healthcare workers of this new situation, in terms of depression, anxiety and distress.\n      Working in frontline constitutes an independent risk factor for worse mental health outcomes.\n\n      Methods: This is a cross-sectional study aiming to compare levels of burnout, emotional\n      distress and needs between frontline Covid-19 and non-Covid-19 healthcare workers. Any\n      physician, nurse and physiotherapist will be recruited from emergency care units and Covid-19\n      care units (target group) and from non-Covid-19 care units (control group) from different\n      hospitals in Belgium. The participation will occur on a voluntary basis. Participants will be\n      recruited from April 15th 2020 to May 15th 2020. Participants will complete self-reported\n      questionnaires and scales. A mixed-mode data collection will be carried out, either in paper\n      or web-based form. This mixed-mode survey will ensure the highest range of participants,\n      considering the hygiene and organizational requirements for target care units. Assessment\n      will provide socio-demographic characteristics and professional information. It will also\n      measure professional fulfillment and burnout with the Stanford Professional Fulfillment Index\n      (PFI), emotional distress with the Depression, Anxiety and Distress Scale-Short Form\n      (DASS-21), sleep disturbance with the Insomnia Severity Index (ISI) and needs with the Needs\n      and Difficulties Inventory (developed for the study).\n\n      Hypothesis: This study is based on the hypothesis that higher levels of burnout, depression,\n      anxiety and stress will be found in frontline Covid-19 healthcare workers than in\n      non-Covid-19 healthcare workers. Considering the unprecedented challenges for healthcare\n      workers and organizations, and considering the exploratory nature of the study, no hypothesis\n      is made for the needs of the healthcare workers.\n\n      Statistical Analysis: Means and standard deviation will be calculated for the PFI, the\n      DASS-21, the ISI and the NDI. Analysis of variance (ANOVA) will be performed for the PFI, the\n      DASS-21 and the ISI (group effect). Age, gender, profession, sector of activity, job status\n      and job experience will be entered as covariate. Effect sizes will be reported with the\n      eta-squared (\u03b7\u00b2) given by the ANOVA. All tests are two-tailed and alpha is set at .05. All\n      analyzes will be performed using IBM SPSS\u00ae, version 26."
+        },
+        "detailed_description": {
+            "textblock": "This is a cross-sectional comparative study based on self-reported questionnaires and scales\n      (validated for the most part) assessing the levels of burnout, emotional distress, sleep\n      disturbance and needs in frontline Covid-19 healthcare workers vs non-Covid-19 healthcare\n      workers. The enrollment and the course of the study will be carried out on site. Participants\n      are volunteers and are informed about the objectives and methods of the study.\n\n      Any physician, nurse or physiotherapist (referred as \"healthcare worker\") actively working in\n      a medical care unit from Erasme Hospital (Brussels, Belgium) will be informed of the study.\n      An email containing information regarding the study and its implications will be sent. If\n      required by the care unit they work in, potential participants will also be invited to a\n      one-time information session. Potential participants will also be given an information form\n      during this oral information session. Participants will be recruited from April 15th to May\n      15th 2020.\n\n      The assessment will be proposed by paper or web-based self-reported questionnaires and\n      scales. This mixed-mode survey will not be randomized and will ensure the highest range of\n      participants, considering the hygiene and organizational requirements in the target units.\n      The assessment time will be proposed at the participant's inclusion. Because of the\n      mixed-mode survey and anonymity of data, the completion of questionnaires and scales will be\n      considered as informed consent as stated in the information form received by the\n      participants.\n\n      The questionnaires and scales include sociodemographic characteristics, professional\n      information, the Professional Fulfillment Index (PFI), the Depression, Anxiety and Stress\n      Scale-Short Form (DASS-21), the Insomnia Severity Index (ISI) and the Needs and Difficulties\n      Inventory (NDI, developed for the study).\n\n      Healthcare workers from emergency units, non-intensive Covid-19 and intensive Covid-19 units\n      will be in the target group. Healthcare workers from non-Covid-19 units will be in the\n      control group. In terms of enrollment, 200 participants (100 in each group) are expected. The\n      objectives of the study will be reached by statistical comparison of these groups.\n\n      In terms of data collection, the data manager collects data from paper version and electronic\n      version. For the paper version, participants will be able to deposit their assessment in\n      specific drop boxes available in the concerned care units. Then, data manager's assistant\n      will be in charge of producing a digital copy. The data from the paper version will undergo\n      double encoding (by two assistants, not linked to the principal investigator) in order to\n      reduce encoding errors. The electronic data will be stored on a secure platform, linked to\n      the Free University of Brussels. The paper version will be stored in a secure location within\n      Erasme Hospital (Brussels, Belgium), accessible only by the principal investigator and the\n      data manager. Evaluations, whether paper or electronic, will be destroyed 1 month after study\n      completion date.\n\n      Statistical analysis consisted first in a comparative analysis of participants'\n      characteristics using parametric and nonparametric tests as appropriate (Student's t test,\n      Mann-Withney U test or Chi-squared test). Second, means and standard deviation will be\n      calculated for the PFI, the DASS-21, the ISI and the NDI. Third, Analysis of Variance (ANOVA)\n      will be performed for the PFI, the DASS-21 and the ISI (group effect). Age, gender,\n      profession, sector of activity, job status and job experience will be entered as covariate.\n      Effect sizes will be report with the eta-squared (\u03b7\u00b2) given by the ANOVA. All tests are\n      two-tailed and alpha is set at .05. All analyzes will be performed using IBM SPSS\u00ae, version\n      26."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 15, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 15, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Control",
+            "time_perspective": "Cross-Sectional"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Burnout",
+                "time_frame": "1 assessment time, at inclusion",
+                "description": "Measured with the Professional Fulfillment Index (PFI). This is a 16-item scale, divided into 2 sub-scales: professional fulfillment (6 items) and burnout, including professional exhaustion (4 items) and interpersonal disengagement (6 items). Subscales scores are given by the mean of all sub-scale items (professional fulfillment, 0-4; burnout, 0-4). Cut-off scores are set for the fulfillment sub-scale at > 3, significant professional fulfillment and for the burnout sub-scale at > 1.33, significant burnout."
+            },
+            {
+                "measure": "Emotional Distress",
+                "time_frame": "1 assessment time, at inclusion",
+                "description": "Measured with the Depression, Anxiety and Stress Scale-Short Form (DASS-21). This a 21-item scale divided into 3 7-item sub-scales: depression, anxiety and stress. Sub-scales scores are given by the sum of all sub-scale items. The DASS has a 4-point Likert scale. Responses options range from \" Never \" to \" Almost always \" (0-3 score range). Only cut-off scores are provided for the original version of the DASS. Sub-scales scores must therefore be multiplied by 2. Cut-off scores for depression are Normal, 0-9; Mild, 10-13; Moderate, 14-20; Severe, 21-27; Extremely severe, 28+. Cut-off scores for anxiety are Normal, 0-7; Mild, 8-9; Moderate, 10-14; Severe, 15-19; Extremely severe, 20+. Cut-off scores for stress are Normal, 0-14; Mild, 15-18; Moderate, 19-25; Severe, 26-33; Extremely severe, 34+."
+            },
+            {
+                "measure": "Insomnia",
+                "time_frame": "1 assessment time, at inclusion",
+                "description": "Measured with the Insomnia Severity Index (ISI). This is a 7-item scale. The ISI has a 5-point Likert scale (0-4 score range). Responses options range from \" None \" to \" Very severe \" for items 1a., 1b. and 1c., from \" Very satisfied \" to \" Very dissatisfied \" for item 2 and from \" None \" to \" Very much \" for items 3,4 and 5. The ISI provides a total score by summing all items scores. Cut-off scores are set for no clinically significant insomnia (0-7), subthreshold insomnia (8-14), moderate clinical insomnia (15-21) and severe clinical insomnia (22-28)."
+            }
+        ],
+        "secondary_outcome": {
+            "measure": "Needs and difficulties in work situations",
+            "time_frame": "1 assessment time, at inclusion",
+            "description": "Measured with the Needs and Difficulties Inventory (developed for the study). This scale has been set up for this study. This is a 19-item scale, divided into 5 sub-scales: information/communication (3 items), practical (6 items), physical (4 items), emotional (4 items) and ethical (2 items). The NDI has a 4-point Likert scale. Responses options range from \" Not at all agree \" to \" Totally agree \" (0-3 score range). The NDI provides 5 sub-scales scores by summing all sub-scales items: information/communication, 0-9; practical, 0-18; physical, 0-12; emotional, 0-12 and ethical, 0-6. As a no-validated scale, scores and their treatment will be taken into account with caution. In order to compare sub-scales with each other, each sub-scale score must be divided by its maximum value, providing a coefficient (0-1)."
+        },
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Target Group",
+                "description": "This group includes frontline healthcare workers who are actively involved in the management of the Covid-19 outbreak: from emergency units, non-intensive Covid-19 and intensive Covid-19 units. They will fill self-reported questionnaires and scales upon their inclusion."
+            },
+            {
+                "arm_group_label": "Control group",
+                "description": "This group includes healthcare workers who are actively involved in usual medical care units, referred in this study as non-Covid-19 units. They will fill same self-reported questionnaires and scales than those filled in the Target group, also upon their inclusion.This group will be the comparator of the Target Group to assess the \"frontline Covid-19\" condition."
+            }
+        ],
+        "eligibility": {
+            "study_pop": {
+                "textblock": "This study targets healthcare workers in Belgian hospital. It targets any physician, nurse\n        or physiotherapist in emergency, non-intensive Covid-19 and intensive Covid-19 care unit\n        (target group) and in usual medical care unit (control group). There is no sampling method.\n        Participation is on voluntary basis."
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Ability to read, speak and write in French;\n\n          -  Being professionally active (doctor, nurse or physiotherapist) within a medical care\n             unit;\n\n        Exclusion Criteria:\n\n          -  Having been off work (for medical, professional or personal reasons) for \u2265 3 weeks\n             before first assessment time."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "Accepts Healthy Volunteers"
+        },
+        "overall_official": {
+            "last_name": "Julien Tiete, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "Universit\u00e9 Libre de Bruxelles"
+        },
+        "overall_contact": {
+            "last_name": "Julien Tiete, PhD",
+            "phone": "+3225555265",
+            "email": "julien.tiete@erasme.ulb.ac.be"
+        },
+        "overall_contact_backup": {
+            "last_name": "Andr\u00e9e Marcoen",
+            "phone": "+3225553557",
+            "email": "Andree.Marcoen@erasme.ulb.ac.be"
+        },
+        "results_reference": [
+            {
+                "citation": "Vandenbroeck S, Van Gerven E, De Witte H, Vanhaecht K, Godderis L. Burnout in Belgian physicians and nurses. Occup Med (Lond). 2017 Oct 1;67(7):546-554. doi: 10.1093/occmed/kqx126.",
+                "PMID": "29016982"
+            },
+            {
+                "citation": "Shanafelt TD, Boone S, Tan L, Dyrbye LN, Sotile W, Satele D, West CP, Sloan J, Oreskovich MR. Burnout and satisfaction with work-life balance among US physicians relative to the general US population. Arch Intern Med. 2012 Oct 8;172(18):1377-85.",
+                "PMID": "22911330"
+            },
+            {
+                "citation": "Wurm W, Vogel K, Holl A, Ebner C, Bayer D, M\u00f6rkl S, Szilagyi IS, Hotter E, Kapfhammer HP, Hofmann P. Depression-Burnout Overlap in Physicians. PLoS One. 2016 Mar 1;11(3):e0149913. doi: 10.1371/journal.pone.0149913. eCollection 2016.",
+                "PMID": "26930395"
+            },
+            {
+                "citation": "Aiken LH, Clarke SP, Sloane DM, Sochalski J, Silber JH. Hospital nurse staffing and patient mortality, nurse burnout, and job dissatisfaction. JAMA. 2002 Oct 23-30;288(16):1987-93.",
+                "PMID": "12387650"
+            },
+            {
+                "citation": "Shanafelt TD, Hasan O, Dyrbye LN, Sinsky C, Satele D, Sloan J, West CP. Changes in Burnout and Satisfaction With Work-Life Balance in Physicians and the General US Working Population Between 2011 and 2014. Mayo Clin Proc. 2015 Dec;90(12):1600-13. doi: 10.1016/j.mayocp.2015.08.023. Erratum in: Mayo Clin Proc. 2016 Feb;91(2):276.",
+                "PMID": "26653297"
+            },
+            {
+                "citation": "van der Heijden F, Dillingh G, Bakker A, Prins J. Suicidal thoughts among medical residents with burnout. Arch Suicide Res. 2008;12(4):344-6. doi: 10.1080/13811110802325349.",
+                "PMID": "18828037"
+            },
+            {
+                "citation": "Shanafelt TD, Mungo M, Schmitgen J, Storz KA, Reeves D, Hayes SN, Sloan JA, Swensen SJ, Buskirk SJ. Longitudinal Study Evaluating the Association Between Physician Burnout and Changes in Professional Work Effort. Mayo Clin Proc. 2016 Apr;91(4):422-31. doi: 10.1016/j.mayocp.2016.02.001.",
+                "PMID": "27046522"
+            },
+            {
+                "citation": "West CP, Huschka MM, Novotny PJ, Sloan JA, Kolars JC, Habermann TM, Shanafelt TD. Association of perceived medical errors with resident distress and empathy: a prospective longitudinal study. JAMA. 2006 Sep 6;296(9):1071-8.",
+                "PMID": "16954486"
+            },
+            {
+                "citation": "West CP, Tan AD, Habermann TM, Sloan JA, Shanafelt TD. Association of resident fatigue and distress with perceived medical errors. JAMA. 2009 Sep 23;302(12):1294-300. doi: 10.1001/jama.2009.1389.",
+                "PMID": "19773564"
+            },
+            {
+                "citation": "Fahrenkopf AM, Sectish TC, Barger LK, Sharek PJ, Lewin D, Chiang VW, Edwards S, Wiedermann BL, Landrigan CP. Rates of medication errors among depressed and burnt out residents: prospective cohort study. BMJ. 2008 Mar 1;336(7642):488-91. doi: 10.1136/bmj.39469.763218.BE. Epub 2008 Feb 7.",
+                "PMID": "18258931"
+            },
+            {
+                "citation": "Linzer M, Visser MR, Oort FJ, Smets EM, McMurray JE, de Haes HC; Society of General Internal Medicine (SGIM) Career Satisfaction Study Group (CSSG). Predicting and preventing physician burnout: results from the United States and the Netherlands. Am J Med. 2001 Aug;111(2):170-5.",
+                "PMID": "11498074"
+            },
+            {
+                "citation": "Meo SA, Alhowikan AM, Al-Khlaiwi T, Meo IM, Halepoto DM, Iqbal M, Usmani AM, Hajjar W, Ahmed N. Novel coronavirus 2019-nCoV: prevalence, biological and clinical characteristics comparison with SARS-CoV and MERS-CoV. Eur Rev Med Pharmacol Sci. 2020 Feb;24(4):2012-2019. doi: 10.26355/eurrev_202002_20379.",
+                "PMID": "32141570"
+            },
+            {
+                "citation": "Cook TM, El-Boghdadly K, McGuire B, McNarry AF, Patel A, Higgs A. Consensus guidelines for managing the airway in patients with COVID-19: Guidelines from the Difficult Airway Society, the Association of Anaesthetists the Intensive Care Society, the Faculty of Intensive Care Medicine and the Royal College of Anaesthetists. Anaesthesia. 2020 Mar 27. doi: 10.1111/anae.15054. [Epub ahead of print]",
+                "PMID": "32221970"
+            },
+            {
+                "citation": "Wu YC, Chen CS, Chan YJ. The outbreak of COVID-19: An overview. J Chin Med Assoc. 2020 Mar;83(3):217-220. doi: 10.1097/JCMA.0000000000000270.",
+                "PMID": "32134861"
+            },
+            {
+                "citation": "Lai J, Ma S, Wang Y, Cai Z, Hu J, Wei N, Wu J, Du H, Chen T, Li R, Tan H, Kang L, Yao L, Huang M, Wang H, Wang G, Liu Z, Hu S. Factors Associated With Mental Health Outcomes Among Health Care Workers Exposed to Coronavirus Disease 2019. JAMA Netw Open. 2020 Mar 2;3(3):e203976. doi: 10.1001/jamanetworkopen.2020.3976.",
+                "PMID": "32202646"
+            },
+            {
+                "citation": "Trockel M, Bohman B, Lesure E, Hamidi MS, Welle D, Roberts L, Shanafelt T. A Brief Instrument to Assess Both Burnout and Professional Fulfillment in Physicians: Reliability and Validity, Including Correlation with Self-Reported Medical Errors, in a Sample of Resident and Practicing Physicians. Acad Psychiatry. 2018 Feb;42(1):11-24. doi: 10.1007/s40596-017-0849-3. Epub 2017 Dec 1.",
+                "PMID": "29196982"
+            },
+            {
+                "citation": "Antony, MM, Bieling, PJ, Cox, BJ, Enns, MW, Swinson, RP. (1998). Psychometric properties of the 42-item and 21-item versions of the depression anxiety stress scales in clinical groups and a community sample. Psychological Assessment 10, 176-81."
+            },
+            {
+                "citation": "Lovibond, SH, Lovibond, PF. (1995). Manual for the Depression Anxiety & Stress Scales (2nd Ed.) Sydney: Psychology Foundation."
+            },
+            {
+                "citation": "Morin, CM. (1993). Insomnia: Psychological assessment and management. New York: Guilford Press"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Universit\u00e9 Libre de Bruxelles",
+            "investigator_full_name": "Dr Julien Tiete",
+            "investigator_title": "Dr"
+        },
+        "keyword": [
+            "COVID-19",
+            "Healthcare workers burn out",
+            "Healthcare workers emotional distress",
+            "Healthcare workers needs"
+        ],
+        "patient_data": {
+            "sharing_ipd": "Undecided",
+            "ipd_description": "Local Ethics Committee has not yet approved the study. No plan has therefore been done for the IPD sharing."
+        }
+    }
+}

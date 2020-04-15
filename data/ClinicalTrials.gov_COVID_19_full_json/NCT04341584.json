@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "384",
+        "@rank": "476",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04341584"
         },
@@ -10,9 +10,9 @@
             "org_study_id": "APHP200375-5",
             "nct_id": "NCT04341584"
         },
-        "brief_title": "CORIMUNO-ANA: TRIAL EVALUATING EFFICACY OF ANAKINRA IN PATIENTS WITH COVID-19 INFECTION, NESTED IN THE CORIMUNO-19 COHORT",
+        "brief_title": "CORIMUNO-ANA: Trial Evaluating Efficacy Of Anakinra In Patients With Covid-19 Infection",
         "acronym": "CORIMUNO-ANA",
-        "official_title": "CORIMUNO-ANA: TRIAL EVALUATING EFFICACY OF ANAKINRA IN PATIENTS WITH COVID-19 INFECTION, NESTED IN THE CORIMUNO-19 COHORT",
+        "official_title": "CORIMUNO-ANA: Trial Evaluating Efficacy Of Anakinra In Patients With Covid-19 Infection, Nested In The CORIMUNO-19",
         "sponsors": {
             "lead_sponsor": {
                 "agency": "Assistance Publique - H\u00f4pitaux de Paris",
@@ -155,6 +155,11 @@
             "maximum_age": "N/A",
             "healthy_volunteers": "No"
         },
+        "overall_official": {
+            "last_name": "Xavier Mariette, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "H\u00f4pital Bic\u00eatre, Assistance Publique-H\u00f4pitaux de Paris"
+        },
         "overall_contact": {
             "last_name": "Xavier Mariette, MD, PhD",
             "phone": "145213751",
@@ -174,11 +179,11 @@
             "@type": "Actual",
             "#text": "April 10, 2020"
         },
-        "last_update_submitted": "April 7, 2020",
-        "last_update_submitted_qc": "April 7, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 10, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor"

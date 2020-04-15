@@ -1,0 +1,247 @@
+{
+    "clinical_study": {
+        "@rank": "223",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344184"
+        },
+        "id_info": {
+            "org_study_id": "HM20018977",
+            "nct_id": "NCT04344184"
+        },
+        "brief_title": "Early Infusion of Vitamin C for Treatment of Novel COVID-19 Acute Lung Injury (EVICT-CORONA-ALI)",
+        "official_title": "Early Infusion of Vitamin C for Treatment of Novel Coronavirus Acute Lung Injury (EVICT-CORONA-ALI)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Virginia Commonwealth University",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Virginia Commonwealth University",
+        "oversight_info": {
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No",
+            "is_us_export": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study will test to see if a 72-hour intravenous vitamin C infusion protocol (100 mg/kg\n      every 8 hours) in patients with hypoxemia and suspected COVID-19 will reduce the lung injury\n      caused by the SARS-Cov-2."
+        },
+        "detailed_description": {
+            "textblock": "In December 2019, a cluster of pneumonia cases was reported in Wuhan, China, and a novel\n      coronavirus, SARS-Cov-2, was identified. The World Health Organization (WHO) designated the\n      respiratory disease as coronavirus disease (COVID-19) on February 12, 2020. Numerous reports\n      have since characterized the COVID-19 clinical syndrome, ranging from asymptomatic/mild\n      disease to severe disease leading to respiratory failure requiring mechanical ventilation\n      (i.e., ARDS, multi-organ failure, sepsis, and death).\n\n      A safe, effective, and inexpensive therapy is urgently needed, one that can alter the natural\n      course of the disease process and reduce strain on healthcare systems. High Dose Intravenous\n      Vitamin C is a safe and possibly effective treatment for ARDS and has been described to be\n      effective for ARDS of viral origin.\n\n      A double-blind, placebo-controlled randomized control trial from our institution involving\n      167 patients with ARDS who were randomized to receive 50 mg/kg every 6 hours of HDIVC for 4\n      days versus placebo showed a statistically significant difference in 28-day all-cause\n      mortality. The 28-day mortality was 29.8% in the vitamin C group versus 46.3% in the placebo\n      group, although this was a secondary outcome.\n\n      This can be translated as a Number Needed to Treat (NNT) of 6-8 patients to save one life\n      from ARDS. The statistical effect on mortality remained up to 60-days following trial\n      completion.\n\n      We, therefore, cannot withhold the treatment from patients with ARDS. It remains unknown if\n      HDIVC given early can prevent the progression to ARDS and if it is effective in COVID-19\n      ARDS.\n\n      The first study, published in 1986, treated 16 ARDS patients with intravenous vitamin C (1000\n      mg IV every 6 hours) plus antioxidants versus 16 ARDS patients who received the standard care\n      at that time (i.e., control group). There was a reduction in mortality in the vitamin C\n      group: 37% versus 71% in the standard care group (p<0.01). A phase I trial in 2014 proved\n      that plasma vitamin C in patients with severe sepsis and ARDS were low, almost at scorbutic\n      levels and that HDIVC administration had a dose-dependent effect in the prevention of\n      multi-organ failure, as measured by the Sequential Organ Failure Assessment (SOFA) scores.\n\n      Patients who received a total of 200 mg/kg/day of HDIVC for 4 days (administered in 50\n      mg/kg/dose, every 6 hours), had significantly lower organ failure scores than placebo, and\n      even lower scores than the patients who received lower-doses of IV vitamin C (50 mg/kg/day\n      administered at 12.5 mg/kg/dose, every 6 hours for 4 days). In this trial, the patients in\n      the HDIVC group (200 mg/kg/day) achieved plasma levels up to 3,000 \u00b5M on day 4.\n\n      To assess the treatment effect of a 72-hour intravenous vitamin C infusion protocol (100\n      mg/kg every 8 hours) in patients with hypoxemia and suspected COVID-19 (Novel Coronavirus\n      ID-19). In the course of performing this phase 2 trial we will explore three following\n      hypotheses:\n\n      Primary Endpoint: HDIVC infusion will increase 28-day ventilator-free days. Secondary\n      Endpoint A: HDIVC infusion will reduce 28-day all-cause hospital mortality.\n\n      Secondary Endpoint B: HDIVC infusion will significantly increase acute inflammation-free days\n      (defined as CRP >=10 mg/L) among COVID-19 patients.\n\n      Secondary Endpoint C: HDIVC infusion will be safe, as demonstrated by organ-failure-free days\n      up to 28 days."
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 22, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "May 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+        },
+        "primary_outcome": {
+            "measure": "Number of ventilator-free days",
+            "time_frame": "Up to 28 days",
+            "description": "Documented days free off mechanical ventilation the first 28 days post enrollment"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "All-cause-mortality",
+                "time_frame": "Up to 28 days",
+                "description": "Mortality at 28-days by all causes"
+            },
+            {
+                "measure": "Acute-inflammation-free days",
+                "time_frame": "Up to 28 days",
+                "description": "Number of days free of acute inflammation (defined as CRP >= 10 mg/L)"
+            },
+            {
+                "measure": "Organ-failure-free days",
+                "time_frame": "Up to 1 year",
+                "description": "Number of days that the participant is free of organ failure in ALL of the following organ systems: Cardiovascular, Respiratory, Neurological, Liver, Bone marrow organ, Renal"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "200"
+        },
+        "condition": [
+            "COVID-19",
+            "Lung Injury, Acute"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Infusion",
+                "arm_group_type": "Active Comparator",
+                "description": "L-Ascorbic Acid (Vitamin C), intravenous infusion"
+            },
+            {
+                "arm_group_label": "Standard of care",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Dextrose 5% Water"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "L-ascorbic acid",
+            "description": "100 mg/kg intravenous vitamin C infusion every 8 hours for up to 72 hours",
+            "arm_group_label": [
+                "Infusion",
+                "Standard of care"
+            ],
+            "other_name": "Vitamin C, Intravenous"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Patients hospitalized with a diagnosis of COVID-19 based on positive RT-PCR of nasal,\n             oropharyngeal, or BAL specimen with hypoxemia, (i.e., decrease in oxygenation, as\n             outlined below)\n\n          -  New pulse oximetry saturation < 93% on room air OR\n\n          -  Any new requirement of supplemental oxygen, with any device\n\n          -  In patients with supplemental oxygen at home, any increase in the requirement of\n             supplemental oxygen.\n\n        Exclusion Criteria:\n\n          -  Known allergy to Vitamin C\n\n          -  Inability to obtain consent from patient or next of kin\n\n          -  Presence of diabetic ketoacidosis\n\n          -  Active kidney stone(s)\n\n          -  Pregnant\n\n          -  Incarcerated"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Markos G Kashiouris, MD MPH",
+                "role": "Principal Investigator",
+                "affiliation": "Virginia Commonwealth University"
+            },
+            {
+                "last_name": "Brian Davis, MD",
+                "role": "Study Director",
+                "affiliation": "Hunter Holmes McGuire VA Medical Center - Richmond, VA"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Markos G Kashiouris, MD MPH",
+            "phone": "804-305-7187",
+            "email": "mkashiouris@vcu.edu"
+        },
+        "overall_contact_backup": {
+            "last_name": "Alpha (Berry) A Fowler, III, MD",
+            "phone": "804-828-9071",
+            "email": "alpha.fowler@vcuhealth.org"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Hunter Holmes McGuire VA Medical Center",
+                    "address": {
+                        "city": "Richmond",
+                        "state": "Virginia",
+                        "zip": "23249",
+                        "country": "United States"
+                    }
+                },
+                "contact": {
+                    "last_name": "Brian Davis, MD",
+                    "email": "brian.davis1@vcuhealth.org"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Virginia Commonwealth University",
+                    "address": {
+                        "city": "Richmond",
+                        "state": "Virginia",
+                        "zip": "23298",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "reference": [
+            {
+                "citation": "Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect Dis. 2020 Feb 19. pii: S1473-3099(20)30120-1. doi: 10.1016/S1473-3099(20)30120-1. [Epub ahead of print]",
+                "PMID": "32087114"
+            },
+            {
+                "citation": "Fowler AA 3rd, Truwit JD, Hite RD, Morris PE, DeWilde C, Priday A, Fisher B, Thacker LR 2nd, Natarajan R, Brophy DF, Sculthorpe R, Nanchal R, Syed A, Sturgill J, Martin GS, Sevransky J, Kashiouris M, Hamman S, Egan KF, Hastings A, Spencer W, Tench S, Mehkri O, Bindas J, Duggal A, Graf J, Zellner S, Yanny L, McPolin C, Hollrith T, Kramer D, Ojielo C, Damm T, Cassity E, Wieliczko A, Halquist M. Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure: The CITRIS-ALI Randomized Clinical Trial. JAMA. 2019 Oct 1;322(13):1261-1270. doi: 10.1001/jama.2019.11825. Erratum in: JAMA. 2020 Jan 28;323(4):379.",
+                "PMID": "31573637"
+            },
+            {
+                "citation": "Fowler AA 3rd, Fisher BJ, Kashiouris MG. Vitamin C for Sepsis and Acute Respiratory Failure-Reply. JAMA. 2020 Feb 25;323(8):792-793. doi: 10.1001/jama.2019.21987.",
+                "PMID": "32096845"
+            },
+            {
+                "citation": "Kashiouris MG, L'Heureux M, Cable CA, Fisher BJ, Leichtle SW, Fowler AA. The Emerging Role of Vitamin C as a Treatment for Sepsis. Nutrients. 2020 Jan 22;12(2). pii: E292. doi: 10.3390/nu12020292. Review.",
+                "PMID": "31978969"
+            },
+            {
+                "citation": "Fowler AA 3rd, Syed AA, Knowlson S, Sculthorpe R, Farthing D, DeWilde C, Farthing CA, Larus TL, Martin E, Brophy DF, Gupta S; Medical Respiratory Intensive Care Unit Nursing, Fisher BJ, Natarajan R. Phase I safety trial of intravenous ascorbic acid in patients with severe sepsis. J Transl Med. 2014 Jan 31;12:32. doi: 10.1186/1479-5876-12-32.",
+                "PMID": "24484547"
+            },
+            {
+                "citation": "Fisher BJ, Seropian IM, Kraskauskas D, Thakkar JN, Voelkel NF, Fowler AA 3rd, Natarajan R. Ascorbic acid attenuates lipopolysaccharide-induced acute lung injury. Crit Care Med. 2011 Jun;39(6):1454-60. doi: 10.1097/CCM.0b013e3182120cb8. Erratum in: Crit Care Med. 2011 Aug;39(8):2022.",
+                "PMID": "21358394"
+            },
+            {
+                "citation": "Fisher BJ, Kraskauskas D, Martin EJ, Farkas D, Wegelin JA, Brophy D, Ward KR, Voelkel NF, Fowler AA 3rd, Natarajan R. Mechanisms of attenuation of abdominal sepsis induced acute lung injury by ascorbic acid. Am J Physiol Lung Cell Mol Physiol. 2012 Jul 1;303(1):L20-32. doi: 10.1152/ajplung.00300.2011. Epub 2012 Apr 20.",
+                "PMID": "22523283"
+            },
+            {
+                "citation": "Fisher BJ, Kraskauskas D, Martin EJ, Farkas D, Puri P, Massey HD, Idowu MO, Brophy DF, Voelkel NF, Fowler AA 3rd, Natarajan R. Attenuation of sepsis-induced organ injury in mice by vitamin C. JPEN J Parenter Enteral Nutr. 2014 Sep;38(7):825-39. doi: 10.1177/0148607113497760. Epub 2013 Aug 5.",
+                "PMID": "23917525"
+            },
+            {
+                "citation": "Agathocleous M, Meacham CE, Burgess RJ, Piskounova E, Zhao Z, Crane GM, Cowin BL, Bruner E, Murphy MM, Chen W, Spangrude GJ, Hu Z, DeBerardinis RJ, Morrison SJ. Ascorbate regulates haematopoietic stem cell function and leukaemogenesis. Nature. 2017 Sep 28;549(7673):476-481. doi: 10.1038/nature23876. Epub 2017 Aug 21.",
+                "PMID": "28825709"
+            },
+            {
+                "citation": "Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Feb 24. doi: 10.1001/jama.2020.2648. [Epub ahead of print]",
+                "PMID": "32091533"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Lung Injury",
+                "Acute Lung Injury",
+                "Respiratory Distress Syndrome, Adult",
+                "Wounds and Injuries"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Vitamins",
+                "Ascorbic Acid"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "No",
+            "ipd_description": "There is no default plan to share individual participant data. May be considered upon reaching the VCU IRB"
+        }
+    }
+}

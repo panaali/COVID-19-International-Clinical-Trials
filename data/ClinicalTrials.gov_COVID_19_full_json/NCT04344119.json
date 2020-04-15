@@ -1,0 +1,142 @@
+{
+    "clinical_study": {
+        "@rank": "467",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344119"
+        },
+        "id_info": {
+            "org_study_id": "20dermatocovid.02",
+            "nct_id": "NCT04344119"
+        },
+        "brief_title": "Assessment of Chilbains Occuring During Covid-19 Infection",
+        "acronym": "ChilblainCOVID",
+        "official_title": "Assessment of Skin Manifestations Occuring During Covid-19 Infection With a Special Focus on Chilbains",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Centre Hospitalier Universitaire de Nice",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Centre Hospitalier Universitaire de Nice",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "Some patients infected by covid-19 develop skin manifestations. These manifestations are\n      still not well known and there pathophysiology remain unclear. Among them, acral\n      manifestation resembling to chilblains appears frequent and quite specific. The aim of this\n      project is to better characterize the cutaneous manifestations occurring during Covid-19\n      infection with a special focus on chilblains. These acral manifestation could be due to a\n      direct viral effect, but also to microthrombosis or vascularitis. Understanding the\n      pathomechanisms involved could provide interesting clue for understanding not only the skin\n      manifestations but also some of the other systemic symptoms associated to covid-19 infection.\n      This study plan to characterize these acral manifestations by analyzing the clinical and\n      dermoscopic patterns and to correlate them with the non-invasive vascular explorations but\n      also immune and coagulopathy explorations that are done in the CHU of Nice in covid-19\n      patients."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 9, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Case-Only",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Clinical skin manifestations",
+            "time_frame": "3 months",
+            "description": "Type and description of the skin manifestations with a special focus on patients with chilblains"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Histology and biological data",
+                "time_frame": "3 months",
+                "description": "Data on Histology (HE staining and immunofluorescence) and on biology (blood cells counts, CRP and immune profile) will be collected in covid patient with skin manifestation"
+            },
+            {
+                "measure": "Non invasive vascular examination",
+                "time_frame": "3 months",
+                "description": "Vascular examination will be performed by Capillaroscopy, laser-doppler or lung TDM if clinically required"
+            }
+        ],
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "30"
+        },
+        "condition": [
+            "Skin Manifestations",
+            "COVID",
+            "Chilblains"
+        ],
+        "biospec_retention": "Samples Without DNA",
+        "biospec_descr": {
+            "textblock": "Serum, skin biopsy, urine"
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All patients with covid infection presenting with skin manifestations"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  All patients with proven covid infection (using PCR, serum antibody or lung TDM) and\n             presenting at least one cutaneous lesions that occurred during the infection."
+            },
+            "gender": "All",
+            "minimum_age": "N/A",
+            "maximum_age": "90 Years"
+        },
+        "overall_contact": {
+            "last_name": "Cynthia CAILLON",
+            "phone": "+33492034011",
+            "email": "caillon.c@chu-nice.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Sylvie MALERBA",
+            "phone": "+33492034011",
+            "email": "malerba.s@chu-nice.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "CHU de Nice",
+                "address": {
+                    "city": "Nice",
+                    "zip": "06200",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "Thierry PASSERON"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Skin Manifestations",
+                "Chilblains"
+            ]
+        }
+    }
+}

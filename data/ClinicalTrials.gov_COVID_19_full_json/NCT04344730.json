@@ -1,0 +1,310 @@
+{
+    "clinical_study": {
+        "@rank": "158",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344730"
+        },
+        "id_info": {
+            "org_study_id": "APHP200388",
+            "secondary_id": "2020-001457-43",
+            "nct_id": "NCT04344730"
+        },
+        "brief_title": "Dexamethasone and Oxygen Support Strategies in ICU Patients With Covid-19 Pneumonia",
+        "acronym": "COVIDICUS",
+        "official_title": "Dexamethasone and Oxygen Support Strategies in ICU Patients With Covid-19 pneumonia_COVIDICUS",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Assistance Publique - H\u00f4pitaux de Paris",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Assistance Publique - H\u00f4pitaux de Paris",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The main manifestation of COVID-19 is acute hypoxemic respiratory failure (AHRF). In patients\n      with AHRF, the need for invasive mechanical ventilation is associated with high mortality.\n\n      Two hypotheses will be tested in this study. The first hypothesis is the benefit of\n      corticosteroid therapy on severe COVID-19 infection admitted in ICU in terms of survival.\n\n      The second hypothesis is that, in the subset of patients free of mechanical ventilation at\n      admission, either Continuous Positive Airway Pressure (CPAP) or High-Flow Nasal Oxygen (HFNO)\n      allows to reduce intubation rate safely during COVID-19 related acute hypoxemic respiratory\n      failure."
+        },
+        "detailed_description": {
+            "textblock": "The main manifestation of COVID-19 is acute hypoxemic respiratory failure (AHRF). In patients\n      with AHRF, the need for invasive mechanical ventilation is associated with high mortality.\n\n      Two hypotheses will be tested in this study. The first hypothesis is the benefit of\n      corticosteroid therapy on severe COVID-19 infection admitted in ICU in terms of survival.\n\n      The second hypothesis is that, in the subset of patients free of mechanical ventilation at\n      admission, either Continuous Positive Airway Pressure (CPAP) or High-Flow Nasal Oxygen (HFNO)\n      allows to reduce intubation rate safely during COVID-19 related acute hypoxemic respiratory\n      failure.\n\n      The main objective is to assess the impact of dexamethasone on overall mortality at day-60\n      after randomization in patients admitted in ICU for severe COVID-19 infection.\n\n      In non mechanical ventilation (MV) patients, the additional objective is to assess whether\n      oxygen support based on either HFNO or CPAP modality in COVID-19 related AHRF reduces the\n      need for mechanical ventilation at day-28.\n\n      An ancillary study CACAO (COVIDICUS air contamination) will be performed in 4 centers aiming\n      at assessing the environmental contamination by SARS-CoV-2 according to the oxygen support\n      modality. Additional funding will be searched for these analyses (submitted for ANR call).\n\n      A metanalysis on individual data will be performed using patients enrolled in the 3 PHRC\n      flash exploring the activity of corticosteroids."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 10, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "December 31, 2020"
+        },
+        "phase": "N/A",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Factorial Assignment",
+            "intervention_model_description": "In non-mechanically ventilated patients, a 2x2 factorial design will be used to assess the two interventions, separately.",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",
+            "masking_description": "The masking label is available only for the treatment assignation"
+        },
+        "primary_outcome": [
+            {
+                "measure": "The time-to-death from all causes",
+                "time_frame": "day-60",
+                "description": "The time-to-death from all causes within the first 60 days after randomization."
+            },
+            {
+                "measure": "The time to need for mechanical ventilation (MV)",
+                "time_frame": "day-28.",
+                "description": "the time to need for mechanical ventilation (MV), as defined by any of the 3 criteria for intubation within the first 28 days after randomization."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "The viral load in the respiratory tract",
+                "time_frame": "day-10",
+                "description": "The cycle threshold for SARS-CoV-2 PCR at baseline, day 7 and day 10 in samples of the same origin (preferably subglottic i.e. bronchoalveolar lavage or tracheal aspiration, otherwise nasopharyngeal swab)"
+            },
+            {
+                "measure": "Number of patient with at least one episode of healthcare-associated infections",
+                "time_frame": "day-28",
+                "description": "Proportion of patients with at least one episode of any healthcare-associated infection between randomization and D28"
+            },
+            {
+                "measure": "Number of days alive without mechanical ventilation",
+                "time_frame": "day-28",
+                "description": "To compare the exposition to mechanical ventilation"
+            },
+            {
+                "measure": "Measure of SOFA score",
+                "time_frame": "day-28",
+                "description": "Changes in SOFA (Sepsis-related Organ Failure Assessment) score. (min = 0 for normal status max = 24 for worse status)"
+            },
+            {
+                "measure": "Number of days alive without renal replacement therapy",
+                "time_frame": "day-28",
+                "description": "to compare the exposition to renal replacement therapy"
+            },
+            {
+                "measure": "Lengths of ICU-stay",
+                "time_frame": "day-60",
+                "description": "To compare the lengths of ICU"
+            },
+            {
+                "measure": "Lengths of hospital-stay",
+                "time_frame": "day-60",
+                "description": "To compare the lengths of hospital-stay"
+            },
+            {
+                "measure": "Number of patients with severe hypoxemia,",
+                "time_frame": "day 60",
+                "description": "Proportion of patients with severe hypoxemia, which is defined as an oxygen saturation of less than 80% during the same interval during the interval between induction and 2 minutes after tracheal intubation"
+            },
+            {
+                "measure": "Number of patients with cardiac arrest within 1 hour after intubation",
+                "time_frame": "day 60",
+                "description": "Proportion of patients with cardiac arrest within 1 hour after intubation"
+            }
+        ],
+        "number_of_arms": "8",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "550"
+        },
+        "condition": [
+            "Acute Hypoxemic Respiratory Failure",
+            "COVID-19"
+        ],
+        "arm_group": [
+            {
+                "arm_group_label": "Standard oxygen 1",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Standard oxygen and placebo of Dexamethasone"
+            },
+            {
+                "arm_group_label": "Standard oxygen 2",
+                "arm_group_type": "Experimental",
+                "description": "Standard oxygen and Dexamethasone"
+            },
+            {
+                "arm_group_label": "CPAP 1",
+                "arm_group_type": "Experimental",
+                "description": "CPAP and placebo of Dexamethasone"
+            },
+            {
+                "arm_group_label": "CPAP 2",
+                "arm_group_type": "Experimental",
+                "description": "CPAP and Dexamethasone"
+            },
+            {
+                "arm_group_label": "HFNO 1",
+                "arm_group_type": "Experimental",
+                "description": "HFNO and placebo of Dexamethasone"
+            },
+            {
+                "arm_group_label": "HFNO 2",
+                "arm_group_type": "Experimental",
+                "description": "HFNO and Dexamethasone"
+            },
+            {
+                "arm_group_label": "mechanically ventilated 1",
+                "arm_group_type": "Placebo Comparator",
+                "description": "placebo"
+            },
+            {
+                "arm_group_label": "mechanically ventilated 2",
+                "arm_group_type": "Experimental",
+                "description": "Dexamethasone"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Dexamethasone injection",
+                "description": "Box of 10 DEXAMETHASONE 20 mg / 5 ml, solution for injection in ampoule of 5mL. Each allocated box contains complete treatment from D1 to D10 for one patient.",
+                "arm_group_label": [
+                    "CPAP 2",
+                    "HFNO 2",
+                    "Standard oxygen 2",
+                    "mechanically ventilated 2"
+                ],
+                "other_name": "experimental treatment"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "placebo",
+                "description": "Box of 10 NaCl 0,9% , solution for injection in ampoule of 5mL. Each allocated box contains complete treatment from D1 to D10 for one patient.",
+                "arm_group_label": [
+                    "CPAP 1",
+                    "HFNO 1",
+                    "Standard oxygen 1",
+                    "mechanically ventilated 1"
+                ]
+            },
+            {
+                "intervention_type": "Procedure",
+                "intervention_name": "conventional oxygen",
+                "description": "The oxygen flow will be adjusted to maintain an oxygen saturation level of 92% or more, as measured by means of pulse oximetry (SpO2)",
+                "arm_group_label": [
+                    "Standard oxygen 1",
+                    "Standard oxygen 2"
+                ]
+            },
+            {
+                "intervention_type": "Procedure",
+                "intervention_name": "CPAP",
+                "description": "Patients assigned to the CPAP plus oxygen group will receive periods of CPAP in addition to the standard treatment.The oxygen flow will be adjusted to maintain an oxygen saturation level of 92% or more, as measured by means of pulse oximetry (SpO2)",
+                "arm_group_label": [
+                    "CPAP 1",
+                    "CPAP 2"
+                ]
+            },
+            {
+                "intervention_type": "Procedure",
+                "intervention_name": "HFNO",
+                "description": "TIn the high-flow-nasal cannula group, oxygen will be delivered through a heated humidifier (Airvo-2, Fisher and Paykel Healthcare) and applied continuously through large-bore binasal prongs, with a gas flow rate of 30 liters per minute and adjusted based on the clinical response. FiO2 will be adjusted for the target SpO2",
+                "arm_group_label": [
+                    "HFNO 1",
+                    "HFNO 2"
+                ]
+            },
+            {
+                "intervention_type": "Procedure",
+                "intervention_name": "mechanical ventilation",
+                "description": "The oxygen flow will be adjusted to maintain an oxygen saturation level of 92% or more, as measured by means of pulse oximetry (SpO2)",
+                "arm_group_label": [
+                    "mechanically ventilated 1",
+                    "mechanically ventilated 2"
+                ]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Age \u2265 18 years\n\n          2. Admitted to ICU within 48 hours\n\n          3. Confirmed or highly suspected COVID-19 infection\n\n          4. Acute hypoxemic respiratory failure (PaO2 <70 mmHg or SpO2<90% on room air or\n             tachypnea>30/min or labored breathing or respiratory distress; need for oxygen flow\n             >=6L/min)\n\n          5. Any treatment intended to treat the SARS-CoV-2 infection (either as a compassionate\n             use or in the context of a clinical trial, i.e remdesivir, lopinavir/ritonavir,\n             favipiravir, hydroxychloroquine and any other new drug with potential activity).\n\n        Exclusion Criteria:\n\n          1. Moribund status\n\n          2. Pregnancy or breastfeeding\n\n          3. Long term corticotherapy at a dose of 0.5mg/kg/j or higher\n\n          4. Active and untreated bacterial, fungal or parasitic infection\n\n          5. Not Written informed consent from the patient or a legal representative if appropriate\n\n          6. hypersensitivity to dexamethasone or to any of the excipients\n\n          7. Not Affiliation to the French social security\n\n             In the subset of non-mechanically ventilated patients, additional non-inclusion\n             criteria are:\n\n          8. Anatomical factors precluding the use of nasal cannula\n\n          9. Hypercapnia indicating NIV (paCO2 \u2265 50 mmHg)"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Jean Fran\u00e7ois TIMSIT, Pr",
+            "role": "Principal Investigator",
+            "affiliation": "Assistance Publique - H\u00f4pitaux de Paris"
+        },
+        "overall_contact": {
+            "last_name": "Jean Fran\u00e7ois TIMSIT, Pr",
+            "phone": "1 40 25 77 03",
+            "phone_ext": "33",
+            "email": "jean-fran\u00e7ois.timsit@aphp.fr"
+        },
+        "overall_contact_backup": {
+            "last_name": "Lila Bouadma, Pr",
+            "phone": "1 40 25 77 03",
+            "phone_ext": "33",
+            "email": "lila.bouadma@aphp.fr"
+        },
+        "location": {
+            "facility": {
+                "name": "Hopital Bichat - Aphp",
+                "address": {
+                    "city": "Paris",
+                    "zip": "75018",
+                    "country": "France"
+                }
+            },
+            "status": "Recruiting",
+            "contact": {
+                "last_name": "LILA BOUADMA, Pr"
+            },
+            "contact_backup": {
+                "last_name": "Jean-Fran\u00e7ois TIMSIT, Pr"
+            }
+        },
+        "location_countries": {
+            "country": "France"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 9, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "acute hypoxemic respiratory failure (AHRF)"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Pneumonia",
+                "Respiratory Insufficiency"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Dexamethasone",
+                "Dexamethasone acetate",
+                "BB 1101"
+            ]
+        }
+    }
+}

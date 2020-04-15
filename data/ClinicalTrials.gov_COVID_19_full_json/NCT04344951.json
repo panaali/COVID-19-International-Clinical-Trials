@@ -1,0 +1,296 @@
+{
+    "clinical_study": {
+        "@rank": "175",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344951"
+        },
+        "id_info": {
+            "org_study_id": "UNIKINON-01/HOPE",
+            "nct_id": "NCT04344951"
+        },
+        "brief_title": "Chloroquine Phosphate Against Infection by the Novel Coronavirus SARS-CoV-2 (COVID-19): The HOPE Open-Label, Non Randomized Clinical Trial",
+        "acronym": "HOPE",
+        "official_title": "Chloroquine Phosphate Against Infection by the Novel Coronavirus SARS-CoV-2 (COVID-19): The HOPE Open-Label, Non Randomized Clinical Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A.",
+                "agency_class": "Industry"
+            },
+            "collaborator": [
+                {
+                    "agency": "Athens General Hospital Hippokrateio",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Athens General Hospital of Thoracic Diseases SOTIRIA",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "General Hospital of Athens Sismanoglio",
+                    "agency_class": "Other"
+                },
+                {
+                    "agency": "Divine Providence Hospital Pammakaristos",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Uni-Pharma Kleon Tsetis Pharmaceutical Laboratories S.A.",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This is an open label clinical study to evaluate the activity of chloroquine phosphate in\n      patients with SARS-CoV-2 virus infection. The study aims to document possible prevention of\n      pneumonia in patients staying at home and in improving the symptoms of SARS-CoV-2 pneumonia\n      in patients who will be hospitalised."
+        },
+        "detailed_description": {
+            "textblock": "Humanity has been experiencing a new pandemic of the SARS Coronavirus-19 virus (SARS-CoV-2)\n      since December 2019, causing the disease known as COVID-19. As of March 23, 2020, there have\n      been 382,341 documented episodes of infection worldwide, of which 16,567 have died. An\n      important limitation in the treatment of the disease is the absence of drugs with known\n      antiviral activity against SARS-CoV-2. Recent data suggest that chloroquine has sufficient in\n      vitro activity against the SARS-CoV-2 virus by inhibiting virus entry into cells. It has\n      recently been described that hydroxychloroquine significantly reduces the percentage of\n      patients who have positive sputum in the SARS-CoV-2 virus within 6 days. However, the\n      clinical efficacy of the drug has not been described and it has significant side effects,\n      including more than 10% anorexia, headache, blurred vision, diarrhea or vomiting, and\n      myocardiotoxicity. The frequency of adverse effects of chloroquine in combination with the\n      well-known in vitro activity of chloroquine have led to the design of clinical trials around\n      the world to document the benefits of its use. The present study will evaluate the activity\n      of chloroquine phosphate in patients with SARS-CoV-2 virus infection."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 6, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 1, 2021"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "intervention_model": "Single Group Assignment",
+            "intervention_model_description": "Prospective, open label, Phase II study",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "50% reduction in symptom score for patients with lower respiratory tract infection",
+                "time_frame": "Day 8 visit from study initiation",
+                "description": "Achieving 50% reduction in symptom score for patients with lower respiratory tract infection on day 8 visit from study initiation."
+            },
+            {
+                "measure": "Lack of progression for patients with upper respiratory tract infection",
+                "time_frame": "Day 8 visit from study initiation",
+                "description": "Lack of progression to lower respiratory tract infection in patients enrolled in the study due to upper respiratory tract infection on day 8 visit from study initiation."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Comparison of the primary endpoint with respective patients not receiving the treatment",
+                "time_frame": "Day 14 visit from study initiation",
+                "description": "Lower respiratory tract infection rating takes place. The symptoms checked are: Cough, Chest pain, Dyspnea, expectoration. For each symptom score is given from 0 to 3 depending on the intensity and they are summed."
+            },
+            {
+                "measure": "Serious respiratory failure until day 14. This will be compared with respective patients not receiving the treatment.",
+                "time_frame": "Day 14 visit from study initiation",
+                "description": "It is defined as the presence of both of the following:\nRespiratory quotient (pO2 / FiO2) less than 150\nNeed for treatment with CPAP or mechanical ventilation"
+            },
+            {
+                "measure": "Frequency of AEs and SAEs",
+                "time_frame": "Day 14 visit from study initiation",
+                "description": "Frequency of AEs and SAEs"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "60"
+        },
+        "condition": [
+            "Pneumonia, Viral",
+            "Covid-19"
+        ],
+        "arm_group": {
+            "arm_group_label": "UNIKINON (Chloroquine phosphate)",
+            "arm_group_type": "Experimental",
+            "description": "Once a patient is considered eligible for the study, they will receive oral chloroquine phosphate. The total duration of treatment will be 7 days. The dosage will be 500mg every 12 hours. It is clarified that any other treatment at the discretion of the therapist is permitted except for the administration of hydroxychloroquine."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "UNIKINON (Chloroquine phosphate) 200mg tablets",
+            "description": "Two and a half tablets (500mg) twice daily for seven days.",
+            "arm_group_label": "UNIKINON (Chloroquine phosphate)"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          -  Age 18 or older\n\n          -  Both genders\n\n          -  For women of childbearing age, they should use or be willing to use a double\n             contraceptive method during the study. A urine pregnancy test to exclude pregnancy\n             will be performed prior to study initiation.\n\n          -  Written consent after information provided by the patient or the legal representative\n             in the event that the patient cannot consent.\n\n          -  Upper respiratory or lower respiratory tract infection, as in Annexes II and III\n             respectively.\n\n          -  Positive respiratory secretion test for SARS-CoV-2 virus by molecular techniques or\n             positive blood IgM titers.\n\n        Exclusion Criteria:\n\n          -  Under 18 years of age\n\n          -  Denial of written consent\n\n          -  Any patient case where it has been decided not to rejuvenate\n\n          -  Serum AST values greater than 5 times the upper normal range\n\n          -  QTc interval in rest electrocardiogram greater than 500msecs\n\n          -  Pregnancy or lactation. Urgent pregnancy test to exclude pregnancy before inclusion in\n             the study"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "90 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Helen Sambatakou, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Athens General Hospital \"Hippokrateio\", 2nd department of Pathology"
+            },
+            {
+                "last_name": "Nikolaos Koulouris, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Athens General Hospital of Thoracic Diseases \"SOTIRIA\", 1st University Pulmonary Clinic"
+            },
+            {
+                "last_name": "Garyfallia Poulakou, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Athens General Hospital of Thoracic Diseases \"SOTIRIA\", 3rd University Pathology Clinic"
+            },
+            {
+                "last_name": "Malvina Lada, MD",
+                "role": "Principal Investigator",
+                "affiliation": "General Hospital of Athens \"Sismanoglio\", 2nd Department of Pathology"
+            },
+            {
+                "last_name": "Ioannis Baraboutis, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Divine Providence Hospital \"Pammakaristos\", Pathology Department"
+            }
+        ],
+        "location": [
+            {
+                "facility": {
+                    "name": "Divine Providence Hospital \"Pammakaristos\"",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11144",
+                        "country": "Greece"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Ioannis Baraboutis, MD",
+                    "phone": "30 213 2042100",
+                    "email": "ioannisbaraboutis@gmail.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Athens General Hospital \"Hippokrateio\"",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11527",
+                        "country": "Greece"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Helen Sambatakou, MD",
+                    "phone": "30 213 2088000",
+                    "email": "helensambatakou@msn.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Athens General Hospital of Thoracic Diseases \"SOTIRIA\", 1st University Pulmonary Clinic",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11527",
+                        "country": "Greece"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Nikolaos Koulouris, MD",
+                    "phone": "30 210 7763702",
+                    "email": "koulnik@med.uoa.gr"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Athens General Hospital of Thoracic Diseases \"SOTIRIA\", 3rd University Pathology Clinic",
+                    "address": {
+                        "city": "Athens",
+                        "zip": "11527",
+                        "country": "Greece"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Garyfallia Poulakou, MD",
+                    "phone": "30 210 7763702",
+                    "email": "gpoulakou@gmail.com"
+                }
+            },
+            {
+                "facility": {
+                    "name": "General Hospital of Athens \"Sismanoglio\"",
+                    "address": {
+                        "city": "Maro\u00fasi",
+                        "zip": "151 26",
+                        "country": "Greece"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Malvina Lada, MD",
+                    "phone": "30 213 2058 001",
+                    "email": "malvinalada@gmail.com"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "Greece"
+        },
+        "results_reference": [
+            {
+                "citation": "Arabi YM, Murthy S, Webb S. COVID-19: a novel coronavirus and a novel challenge for critical care. Intensive Care Med. 2020 Mar 3. doi: 10.1007/s00134-020-05955-1. [Epub ahead of print] Erratum in: Intensive Care Med. 2020 Mar 18;:.",
+                "PMID": "32125458"
+            },
+            {
+                "citation": "Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J Antimicrob Agents. 2020 Mar 11:105938. doi: 10.1016/j.ijantimicag.2020.105938. [Epub ahead of print]",
+                "PMID": "32171740"
+            },
+            {
+                "citation": "Gautret P, Lagier JC, Parola P, Hoang VT, Meddeb L, Mailhe M, Doudier B, Courjon J, Giordanengo V, Vieira VE, Dupont HT, Honor\u00e9 S, Colson P, Chabri\u00e8re E, La Scola B, Rolain JM, Brouqui P, Raoult D. Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial. Int J Antimicrob Agents. 2020 Mar 20:105949. doi: 10.1016/j.ijantimicag.2020.105949. [Epub ahead of print]",
+                "PMID": "32205204"
+            }
+        ],
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 6, 2020",
+        "study_first_submitted_qc": "April 9, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 9, 2020",
+        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "Pneumonia",
+            "Chloroquine phosphate",
+            "SARS-CoV-2"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Pneumonia, Viral",
+                "Pneumonia"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Chloroquine",
+                "Chloroquine diphosphate"
+            ]
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

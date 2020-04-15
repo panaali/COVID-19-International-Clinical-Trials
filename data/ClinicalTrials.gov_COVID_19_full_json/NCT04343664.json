@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "381",
+        "@rank": "426",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04343664"
         },
@@ -59,22 +59,22 @@
             {
                 "measure": "Depression",
                 "time_frame": "up to 5 minutes",
-                "description": "The depression symptoms assessed by PHQ-9"
+                "description": "The depression symptoms assessed by Patient Health Queationnaire-9 Scale. The range is 0 -27, the highest score means the highest depresive"
             },
             {
                 "measure": "Anxiety symptoms",
                 "time_frame": "up to 5 minutes",
-                "description": "The anxiety symptoms assessed by GAD7"
+                "description": "The anxiety symptoms assessed by Generalized Anxiety Disorder -7 Scale. It is consists of 7 item with ranged score 0 -21. The highest score means the highest anxiety"
             },
             {
                 "measure": "Stress related problems",
                 "time_frame": "up to 7 minutes",
-                "description": "The stress related problems assessed by SRQ-20"
+                "description": "The stress related problems assessed by Self Reporting Questionnaire-20 Scale. The range is 0 -20, the highest score means the highest mental health problems"
             },
             {
                 "measure": "Behavior and emotional problem among children and adolescents",
                 "time_frame": "up to 5 minutes",
-                "description": "Behavior and emotional problem among children and adolescents assessed by SDQ"
+                "description": "Behavior and emotional problem among children and adolescents assessed by Strength and Difficulties Questionnaire. SDQ consists of 25 statements, the score is ranged from 0 - 60. The highest score means the highest problems"
             }
         ],
         "enrollment": {
@@ -141,14 +141,14 @@
         "study_first_submitted": "April 9, 2020",
         "study_first_submitted_qc": "April 9, 2020",
         "study_first_posted": {
-            "@type": "Estimate",
+            "@type": "Actual",
             "#text": "April 13, 2020"
         },
-        "last_update_submitted": "April 9, 2020",
-        "last_update_submitted_qc": "April 9, 2020",
+        "last_update_submitted": "April 11, 2020",
+        "last_update_submitted_qc": "April 11, 2020",
         "last_update_posted": {
             "@type": "Estimate",
-            "#text": "April 13, 2020"
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Sponsor-Investigator",

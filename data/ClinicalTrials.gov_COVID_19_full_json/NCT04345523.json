@@ -1,0 +1,440 @@
+{
+    "clinical_study": {
+        "@rank": "84",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345523"
+        },
+        "id_info": {
+            "org_study_id": "ConPlas-19",
+            "nct_id": "NCT04345523"
+        },
+        "brief_title": "Convalescent Plasma Therapy vs. SOC for the Treatment of COVID19 in Hospitalized Patients",
+        "acronym": "ConPlas-19",
+        "official_title": "Multi-center, Randomized Clinical Trial of Convalescent Plasma Therapy Versus Standard of Care for the Treatment of COVID-19 in Hospitalized Patients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Cristina Avenda\u00f1o Sol\u00e1",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Puerta de Hierro University Hospital",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "A total of 278 patients are planned.\n\n      All patients will be in an early-stage of COVID-19. They must be adults and hospitalized.\n\n      In this study, all participating patients will receive the standard treatment provided\n      according to the current treatment protocols for coronavirus disease. In addition to this\n      treatment, each patient will be randomly assigned to receive additional treatment with\n      convalescent plasma transfusion (CP; blood plasma from patients who have been cured of\n      coronavirus), or continue with standard treatment but without adding transfusion.\n\n      50% of the chances of additional treatment with CP, and 50% of the chances of receiving only\n      the standard treatment for coronavirus.\n\n      The duration of the study shall be one month from the assignment of the treatment.\n\n      The patient and the doctor will know the treatment assigned."
+        },
+        "detailed_description": {
+            "textblock": "A multi-center, randomized, clinical trial with two arms to study the efficacy and safety of\n      passive immunotherapy with CP compared to a control of standard of care (SOC).\n\n      All trial participants will receive SOC:\n\n        -  Treatment arm: Pathogen-reduced CP from patients recovered from COVID-19, whom, for the\n           purpose of this trial, are herein designated as donors.\n\n        -  Control arm: SOC for COVID-19.\n\n      Randomization among the two arms will be 1:1 and will be stratified per center. Of note, in\n      the current status of a worldwide pandemic for which we have no approved vaccines or drugs,\n      for the purpose of this trial SOC would also accept any drugs that are being used in clinical\n      practice (e.g. lopinavir/ritonavir; darunavir/cobicistat; hydroxy/chloroquine, tocilizumab,\n      etc.), other than those used as part of another clinical trial.\n\n      The study is planned with a sequential design. Interim analyses: comprehensive safety data\n      monitoring analyses will be conducted when 20%, 40%, 60% and 80% of patients, or at the\n      discretionary DSMB criteria when needed. A DSMB charter will be set before the trial\n      initiation where criteria for prematurely stopping the trial due to safety issues will be\n      set. Interim analyses will be predefined upfront based on the DSMB recommendations."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 3, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "intervention_model_description": "1:1 ratio for CP: Control arm. Also, approximately 140-200 CP donors.",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Category Changes in Ordinal Scale",
+            "time_frame": "15 days",
+            "description": "Proportion of patients in categories 5, 6 or 7 of the 7-point ordinal scale at day 15\nOrdinal scale:\nNot hospitalized, no limitations on activities.\nNot hospitalized, limitation on activities.\nHospitalized, not requiring supplemental oxygen.\nHospitalized, requiring supplemental oxygen.\nHospitalized, on non-invasive ventilation or high flow oxygen devices or oxygen mask with reservoir bag.\nHospitalized, on invasive mechanical ventilation or ECMO.\nDeath."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Time to category 5, 6 or 7 of the ordinal scale",
+                "time_frame": "29 days",
+                "description": "Time to change from baseline category to worsening into 5,6 or 7 categories of the ordinal scale"
+            },
+            {
+                "measure": "Mortality of any cause at 14 days",
+                "time_frame": "15 days",
+                "description": "Mortality"
+            },
+            {
+                "measure": "Mortality of any cause at 28 days",
+                "time_frame": "29 days",
+                "description": "Mortality"
+            },
+            {
+                "measure": "Oxygenation free days",
+                "time_frame": "29 days",
+                "description": "days free from oxygen supplementation"
+            },
+            {
+                "measure": "Ventilator free days",
+                "time_frame": "29 days",
+                "description": "days free from mechanical ventilation"
+            },
+            {
+                "measure": "Incidence of Treatment-Emergent Adverse Events",
+                "time_frame": "29 days",
+                "description": "Infusion-related adverse events Cumulative incidence of serious adverse events (SAEs) Cumulative incidence of Grade 3 and 4 adverse events (AEs)."
+            },
+            {
+                "measure": "Antibodies levels in CP donors recovered from COVID-19",
+                "time_frame": "3 months",
+                "description": "Quantitative total antibodies and neutralizing antibody activity against SARSCoV-2 in the sera from donors and patients using viral pseudotypes"
+            },
+            {
+                "measure": "Viral load",
+                "time_frame": "Days 1,3,5,8,11 and 29",
+                "description": "Change in PCR for SARS-CoV-2 in naso/oropharyngeal swabs and blood at baseline and on days 3, 5, 8, 11 (while hospitalized); and days 15 and 29 (if able to return to clinic or still hospitalized)."
+            }
+        ],
+        "other_outcome": {
+            "measure": "Change in biological parameters",
+            "time_frame": "Days 1,3,5,8,11 and 29",
+            "description": "Serum levels of CRP, lymphocyte count, LDH, D Dimer,IL-6, coagulation tests at baseline and days 3, 5, 8, 11, 15 and 29."
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "278"
+        },
+        "condition": "COVID-19",
+        "arm_group": [
+            {
+                "arm_group_label": "Treatment Arm",
+                "arm_group_type": "Experimental",
+                "description": "Pathogen-reduced CP from patients recovered from COVID-19, whom, for the purpose of this trial, are herein designated as donors."
+            },
+            {
+                "arm_group_label": "Control Arm",
+                "arm_group_type": "Active Comparator",
+                "description": "Standard of Care (SOC) for COVID-19"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Blood and derivatives.",
+                "description": "Administration of fresh plasma from donor immunized against COVID-19",
+                "arm_group_label": "Treatment Arm",
+                "other_name": "Convalescent Plasma from patients recovered from COVID-19"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Standard of Care",
+                "description": "Standard of care for the treatment of COVID-19 in hospitalized patients",
+                "arm_group_label": "Control Arm",
+                "other_name": "SOC"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. Written informed consent prior to performing study procedures. Witnessed oral consent\n             will be accepted in order to avoid paper handling. Written consent by patient or\n             representatives will be obtained as soon as possible.\n\n          2. Male or female adult patient \u226518 years of age at time of enrolment.\n\n          3. Has laboratory-confirmed SARS-CoV-2 infection as determined by PCR in\n             naso/oropharyngeal swabs or any other relevant specimen.\n\n          4. Patients requiring hospitalization for COVID-19 without mechanical ventilation\n             (invasive or non-invasive) or high flow oxygen devices (including oxygen mask with\n             reservoir bag) and at least one of the following:\n\n               -  Radiographic evidence of pulmonary infiltrates by imaging (chest x-ray, CT scan,\n                  etc.), OR\n\n               -  Clinical assessment (evidence of rales/crackles on exam) AND SpO2 \u2264 94% on room\n                  air that requires supplemental oxygen.\n\n          5. No more than 12 days between the onset of symptoms (fever or cough) and treatment\n             administration day.\n\n        Exclusion Criteria:\n\n          1. Requiring mechanical ventilation (invasive or non-invasive) or high flow oxygen\n             devices (including oxygen mask with reservoir bag).\n\n          2. More than 12 days since symptoms (fever or cough).\n\n          3. Participation in any other clinical trial of an experimental treatment for COVID-19.\n\n          4. In the opinion of the clinical team, progression to death is imminent and inevitable\n             within the next 24 hours, irrespective of the provision of treatments.\n\n          5. Any incompatibility or allergy to the administration of human plasma.\n\n          6. Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR <30)."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "Cristina Avenda\u00f1o Sol\u00e1, MD, PhD",
+                "role": "Study Chair",
+                "affiliation": "Hospital Universitario Puerta de Hierro Majadahonda"
+            },
+            {
+                "last_name": "Rafael Duarte Palomino, MD, PhD",
+                "role": "Study Chair",
+                "affiliation": "Hospital Universitario Puerta de Hierro Majadahonda"
+            },
+            {
+                "last_name": "Antonio Ramos, MD, PhD",
+                "role": "Principal Investigator",
+                "affiliation": "Hospital Universitario Puerta de Hierro Majadahonda"
+            },
+            {
+                "last_name": "Jos\u00e9 Luis Bueno, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Hospital Universitario Puerta de Hierro Majadahonda"
+            },
+            {
+                "last_name": "Inmaculada Casas Flecha, PharmD, PhD",
+                "role": "Principal Investigator",
+                "affiliation": "Centro Nacional de Microbiolog\u00eda, Instituto de Salud Carlos III"
+            }
+        ],
+        "overall_contact": {
+            "last_name": "Cristina Avenda\u00f1o Sol\u00e1, MD, PhD",
+            "phone": "+34 91 191 64 79",
+            "email": "cavendano@salud.madrid.org"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Hospital Cl\u00ednico Universitario Lozano Blesa",
+                    "address": {
+                        "city": "Zaragoza",
+                        "state": "Arag\u00f3n",
+                        "zip": "50009",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Jos\u00e9 Ram\u00f3n Pa\u00f1o Pardo, MD, PhD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Jos\u00e9 Ram\u00f3n Pa\u00f1o Pardo, MD, PhD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Jos\u00e9 Antonio Moreno Chulilla, MD, PhD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario Severo Ochoa",
+                    "address": {
+                        "city": "Legan\u00e9s",
+                        "state": "Madrid",
+                        "zip": "28911",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Miguel Cervero Jim\u00e9nez, MD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Miguel Cervero Jim\u00e9nez, MD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Margarita Barberana, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario Puerta de Hierro Majadahonda",
+                    "address": {
+                        "city": "Majadahonda",
+                        "state": "Madrid",
+                        "zip": "28222",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Elena Mu\u00f1ez, MD, PhD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Elena Mu\u00f1ez, MD, PhD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Jos\u00e9 Luis Bueno, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario Pr\u00edncipe de Asturias",
+                    "address": {
+                        "city": "Meco",
+                        "state": "Madrid",
+                        "zip": "28805",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Cristina Hern\u00e1ndez Guiti\u00e9rrez, MD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Cristina Hern\u00e1ndez Guti\u00e9rrez, MD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Elena Flores Ballester, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario La Princesa",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28006",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Ignacio de Santos Gil, MD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Ignacio de Santos Gil, MD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Isabel Vicu\u00f1a Andr\u00e9s, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital General Universitario Gregorio Mara\u00f1\u00f3n",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28009",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Marina Machado, MD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Marina Machado, MD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Javier Anguita Velasco, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario Ram\u00f3n y Cajal",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28034",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Javier Mart\u00ednez Sanz, MD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Javier Mart\u00ednez Sanz, MD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Gemma Moreno, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital Cl\u00ednico San Carlos",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28040",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Vicente Estrada P\u00e9rez, MD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Vicente Estrada P\u00e9rez, MD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Mar\u00eda Isabel Saez Serrano, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            },
+            {
+                "facility": {
+                    "name": "Hospital Universitario 12 de Octubre",
+                    "address": {
+                        "city": "Madrid",
+                        "zip": "28041",
+                        "country": "Spain"
+                    }
+                },
+                "status": "Not yet recruiting",
+                "contact": {
+                    "last_name": "Jaime Lora Tamayo, MD"
+                },
+                "investigator": [
+                    {
+                        "last_name": "Jaime Lora Tamayo, MD",
+                        "role": "Principal Investigator"
+                    },
+                    {
+                        "last_name": "Mar\u00eda Liz Paciello, MD",
+                        "role": "Principal Investigator"
+                    }
+                ]
+            }
+        ],
+        "location_countries": {
+            "country": "Spain"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 2, 2020",
+        "study_first_submitted_qc": "April 10, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor-Investigator",
+            "investigator_affiliation": "Puerta de Hierro University Hospital",
+            "investigator_full_name": "Cristina Avenda\u00f1o Sol\u00e1",
+            "investigator_title": "MD, PhD"
+        },
+        "keyword": [
+            "COVID-19",
+            "Coronavirus",
+            "SARS-CoV-2",
+            "Convalescent Plasma",
+            "SOC",
+            "CP"
+        ],
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

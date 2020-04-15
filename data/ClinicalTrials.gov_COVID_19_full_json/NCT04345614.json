@@ -1,0 +1,236 @@
+{
+    "clinical_study": {
+        "@rank": "349",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345614"
+        },
+        "id_info": {
+            "org_study_id": "CM4620-204",
+            "nct_id": "NCT04345614"
+        },
+        "brief_title": "A Study of CM4620-Injectable Emulsion (IE) in Patients With Severe COVID-19 Pneumonia",
+        "official_title": "A Randomized Controlled Open-Label Study of CM4620 Injectable Emulsion in Patients With Severe COVID-19 Pneumonia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "CalciMedica, Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "CalciMedica, Inc.",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This open-label randomized controlled study will evaluate safety, efficacy, and the\n      pharmacokinetic profile of CM4620-IE in patients with severe COVID-19 pneumonia. Forty\n      patients will receive 2.0 mg/kg of CM4620-IE by continuous IV infusion on Day 1, followed by\n      1.6 mg/kg for days 2 and 3. Another 20 patients will receive local standard of care only. The\n      infusion of CM4620-IE will start within 8 hours from the time the patient or LAR provides\n      informed consent."
+        },
+        "overall_status": "Recruiting",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 8, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "September 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "July 2020"
+        },
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Improvement on a 7-point Ordinal Scale",
+                "time_frame": "Upon enrollment into the study through hospital discharge, up to day 28",
+                "description": "The ordinal scale is an assessment of the clinical status at a given day. Each day, the worst score from the previous day will be recorded. The scale is as follows: 1. Death 2. Hospitalized, on invasive mechanical ventilation or ECMO 3. Hospitalized, on non-invasive ventilation or high flow oxygen devices 4. Hospitalized, requiring low flow supplemental oxygen 5. Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care (other than per protocol study drug administration) 7. Not hospitalized"
+            },
+            {
+                "measure": "Incidence of treatment-emergent adverse events (TEAE) (safety and tolerability)",
+                "time_frame": "from enrollment and up to 60 days",
+                "description": "Defined as the number of participants who experience TEAEs with investigator-specified relationship to CM4620-IE and assessment of severity."
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Change in estimated PaO2/FiO2",
+                "time_frame": "from enrollment and up to day 28",
+                "description": "Defined as the change in the ratio of arterial oxygen partial pressure to fractional inspired oxygen"
+            },
+            {
+                "measure": "Number of days alive and free of mechanical ventilation",
+                "time_frame": "from enrollment and up to day 60",
+                "description": "Defined as the number of days that a participant is both alive and free of mechanical ventilation"
+            },
+            {
+                "measure": "Time to discharge alive from hospital",
+                "time_frame": "From day 1 of hospital admission to hospital discharge, up to day 28",
+                "description": "Defined as the number of days from hospital admission to discharge alive from the hospital"
+            },
+            {
+                "measure": "Number of patients alive on day 30 and day 60",
+                "time_frame": "Day 30 and day 60"
+            },
+            {
+                "measure": "Change in interleukin (IL)-6 level",
+                "time_frame": "from enrollment until day 10",
+                "description": "Measurement of IL-6 levels in patient blood"
+            },
+            {
+                "measure": "Change in IL-17 level",
+                "time_frame": "from enrollment until day 10",
+                "description": "Measurement of IL-17 levels in patient blood"
+            },
+            {
+                "measure": "Change in tumor necrosis factor-alpha level",
+                "time_frame": "from enrollment until day 10",
+                "description": "Measurement of tumor necrosis factor-alpha in patient blood"
+            },
+            {
+                "measure": "Change in cytokine levels",
+                "time_frame": "from enrollment until day 10",
+                "description": "Measurement of cytokines in patient blood"
+            },
+            {
+                "measure": "CM4620-IE serum concentration",
+                "time_frame": "enrollment through 72 hours",
+                "description": "Concentration measured using a validated assay"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "60"
+        },
+        "condition": "Pneumonia",
+        "arm_group": [
+            {
+                "arm_group_label": "CM4620-IE",
+                "arm_group_type": "Experimental",
+                "description": "Forty patients will be randomized 2:1 to receive CM4620-IE versus local standard of care alone. Planned doses for patients who are randomized to receive CM4620-IE are 2.0 mg/kg on Day 1 and 1.6 mg/kg on Days 2 and 3."
+            },
+            {
+                "arm_group_label": "Local Standard of Care",
+                "arm_group_type": "No Intervention",
+                "description": "Twenty patients will be randomized 1:2 to receive local standard of care vs CM4620-IE."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "CM4620-Injectable Emulsion",
+            "description": "CM4620-IE 2.0 mg/kg on Day 1 and then 1.6 mg/kg on Days 2 and 3. All doses of CM4620-IE will be administered intravenously (IV) over 4 hours.",
+            "arm_group_label": "CM4620-IE",
+            "other_name": "CM4620-IE"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. The diagnosis of COVID-19 established standard reverse transcription polymerase chain\n             reaction (RT-PCR) assay;\n\n          2. At least 1 of the following symptoms: Fever, cough, sore throat, malaise, headache,\n             muscle pain, dyspnea at rest or with exertion, confusion, or respiratory distress;\n\n          3. At least 1 of the following clinical signs; Respiratory rate \u226530, heart rate \u2265125,\n             arterial oxygen saturation (SaO2) <93% on room air or requires >2 liters oxygen by\n             nasal cannula to maintain SaO2 \u226593%, or arterial oxygen partial pressure/inspired\n             oxygen fraction (PaO2/FiO2) <300, estimated from pulse oximetry or determined by\n             arterial blood gas;\n\n          4. The presence of a respiratory infiltrate or abnormality consistent with pneumonia that\n             is documented by either a chest X-ray or computerized tomography scan of the lungs;\n\n          5. The patient is \u2265 18 years of age;\n\n          6. A female patient of childbearing potential must not attempt to become pregnant for 39\n             months, and if sexually active with a male partner, is willing to practice acceptable\n             methods of birth control for 39 months after the last dose of CM4620-IE;\n\n          7. A male patient who is sexually active with a female partner of childbearing potential\n             is willing to practice acceptable methods of birth control for 39 months after the\n             last dose of CM4620-IE. A male patient must not donate sperm for 39 months;\n\n          8. The patient is willing and able to, or has a legal authorized representative (LAR) who\n             is willing and able to, provide informed consent to participate, and to cooperate with\n             all aspects of the protocol\n\n        Exclusion Criteria:\n\n          1. Expected survival or time to withdrawal of life-sustaining treatments expected to be\n             <7 days;\n\n          2. Do Not Intubate order;\n\n          3. Home mechanical ventilation (noninvasive ventilation or via tracheotomy) except for\n             continuous positive airway pressure or bi-level positive airway pressure (CPAP/BIPAP)\n             used solely for sleep-disordered breathing;\n\n          4. Endotracheal intubation;\n\n          5. Oxygen delivered by high flow nasal cannula, noninvasive positive pressure\n             ventilation, or extracorporeal membrane oxygenation (ECMO);\n\n          6. Shock defined by systolic blood pressure (SBP) <90 or diastolic blood pressure (DBP)\n             <60 or use of vasopressors;\n\n          7. Multiple organ failure;\n\n          8. Positive Influenza A or B testing;\n\n          9. Pathogens detected by a respiratory panel tested as local standard of care;\n\n         10. The patient has a history of:\n\n               1. Organ or hematologic transplant;\n\n               2. HIV;\n\n               3. Active hepatitis B, or hepatitis C infection;\n\n         11. Current treatment with:\n\n               1. Chemotherapy;\n\n               2. Glucocorticoids at the time of consent;\n\n               3. Immunosuppressive medications or immunotherapy (see Section 5.3 for list of\n                  prohibited immunosuppressive medications and immunotherapy) at the time of\n                  consent;\n\n               4. Hemodialysis or Peritoneal Dialysis;\n\n         12. The patient is known to be pregnant or is nursing;\n\n         13. Currently participating in another study of an investigational drug or therapeutic\n             medical device at the time of consent;\n\n         14. Allergy to eggs or known hypersensitivity to any components of CM4620-IE."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Sudarshan Hebbar, MD",
+            "role": "Study Director",
+            "affiliation": "CalciMedica, Inc."
+        },
+        "overall_contact": {
+            "last_name": "Sudarshan Hebbar, MD",
+            "phone": "816-838-7105",
+            "email": "sudarshan@calcimedica.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Ken Stauderman, PhD",
+            "phone": "858-353-2726",
+            "email": "ken@calcimedica.com"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Henry Ford Hospital",
+                    "address": {
+                        "city": "Detroit",
+                        "state": "Michigan",
+                        "zip": "48202",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Kathleen Wilson, RN",
+                    "phone": "313-916-9551",
+                    "email": "kwilso10@hfhs.org"
+                },
+                "investigator": {
+                    "last_name": "Joseph Miller, MD",
+                    "role": "Principal Investigator"
+                }
+            },
+            {
+                "facility": {
+                    "name": "Regions Hospital",
+                    "address": {
+                        "city": "Saint Paul",
+                        "state": "Minnesota",
+                        "zip": "55101",
+                        "country": "United States"
+                    }
+                },
+                "status": "Recruiting",
+                "contact": {
+                    "last_name": "Marissa K. Peterson",
+                    "phone": "651-254-5321",
+                    "email": "marissa.k.peterson@healthpartners.com"
+                },
+                "investigator": {
+                    "last_name": "Charles Bruen, MD",
+                    "role": "Principal Investigator"
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 7, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "COVID-19",
+            "Coronavirus",
+            "Pneumonia",
+            "Calcium release-activated calcium channel (CRAC) inhibitors",
+            "CM4620"
+        ],
+        "condition_browse": {
+            "mesh_term": "Pneumonia"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

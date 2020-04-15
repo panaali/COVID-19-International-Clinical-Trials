@@ -1,0 +1,147 @@
+{
+    "clinical_study": {
+        "@rank": "404",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04344535"
+        },
+        "id_info": {
+            "org_study_id": "SBU-COVID19-ConvalescentPlasma",
+            "nct_id": "NCT04344535"
+        },
+        "brief_title": "Convalescent Plasma vs. Standard Plasma for COVID-19",
+        "official_title": "Convalescent Plasma to Reduce Complications Associated With COVID-19 Infection: A Randomized Trial Comparing the Efficacy and Safety of High-Titer Anti-SARS-CoV-2 Plasma vs. Standard Plasma in Hospitalized Patients With COVID- 19 Infection",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Stony Brook University",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Chembio Diagnostic Systems, Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Stony Brook University",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "The purpose of this study is to find out if transfusion of blood plasma containing antibodies\n      against COVID-19 (anti-SARS-CoV-2), which were donated from a patient who recovered from\n      COVID-19 infection, is safe and can treat COVID-19 in hospitalized patients.\n\n      Antibodies are blood proteins produced by the body in response to a virus and can remain in\n      the person's bloodstream (plasma) for a long time after they recover. Transferring plasma\n      from a person who recovered from COVID-19 may help neutralize the virus in sick patients'\n      blood, and/or reduce the chances of the infection getting worse."
+        },
+        "overall_status": "Enrolling by invitation",
+        "start_date": {
+            "@type": "Actual",
+            "#text": "April 8, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "August 31, 2021"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "April 30, 2021"
+        },
+        "phase": "Phase 1/Phase 2",
+        "study_type": "Interventional",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)",
+            "masking_description": "Staff in Transfusion Services (Blood Bank) at Stony Brook will be unblinded so they can collect, store, and dispense either convalescent plasma or standard plasma. They will affix an approved label with all required information, e.g. bar code, blood type, expiration date, and will indicate that the bag contains convalescent plasma/standard plasma."
+        },
+        "primary_outcome": {
+            "measure": "28 day ventilator free days",
+            "time_frame": "28 days post randomization",
+            "description": "Number of days a patient is receiving mechanical invasive ventilation through 28 days post randomization. Patients who die during this time period are assigned 0 ventilator free days."
+        },
+        "secondary_outcome": {
+            "measure": "90 day all-cause mortality",
+            "time_frame": "90 days",
+            "description": "All cause mortality from randomization until 90 days post randomization"
+        },
+        "number_of_arms": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "500"
+        },
+        "condition": "COVID",
+        "arm_group": [
+            {
+                "arm_group_label": "Convalescent Donor Plasma",
+                "arm_group_type": "Active Comparator"
+            },
+            {
+                "arm_group_label": "Standard Donor Plasma",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "Convalescent Plasma",
+                "description": "450-550 mL of plasma containing anti-SARS-CoV-2 antibody titer ideally > 1:320, but meeting minimum titer per FDA Guidelines for convalescent plasma.",
+                "arm_group_label": "Convalescent Donor Plasma"
+            },
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "Standard Donor Plasma",
+                "description": "450-550 mL of plasma with low titer to anti-SARS-CoV-2 antibodies",
+                "arm_group_label": "Standard Donor Plasma"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "There are 2 groups of research subjects: plasma donor and recipients\n\n        Volunteer plasma donors can donate Convalescent Plasma if they:\n\n          -  have adequate antibody levels against COVID-19 per FDA Guidelines\n\n          -  have had no symptoms of COVID-19 for at least 14 days\n\n          -  meet routine plasma donation criteria\n\n        Inclusion Criteria for Plasma Recipients:\n\n          -  Adults 18 years of age or older\n\n          -  Hospitalized with PCR+ COVID-19 infection\n\n          -  If female must not be pregnant and/or breastfeeding.\n\n        Exclusion Criteria for Plasma Recipients:\n\n          -  Unable to randomize patient within 14 days of admission to Stony Brook Hospital (or\n             any other hospital if a transfer to Stony Brook Hospital).\n\n          -  In the treating physician's opinion, the patient cannot tolerate a 450-550 mL infusion\n             of plasma over up to 8 hours (4 hours max per unit), even if prophylaxed with\n             intravenous diuretic\n\n          -  Contraindication to transfusion or history of prior reactions to blood transfusions"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Elliott Bennett-Guerrero, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Stony Brook Hospital"
+        },
+        "location": {
+            "facility": {
+                "name": "Stony Brook University Hospital",
+                "address": {
+                    "city": "Stony Brook",
+                    "state": "New York",
+                    "zip": "11794",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Stony Brook University",
+            "investigator_full_name": "Elliott Bennett-Guerrero",
+            "investigator_title": "Professor of Anesthesiology"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "clinical_study": {
+        "@rank": "400",
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/show/NCT04345640"
+        },
+        "id_info": {
+            "org_study_id": "ILBS-COVID-01",
+            "nct_id": "NCT04345640"
+        },
+        "brief_title": "The Spectrum and Profile of COVID-19 Infection and Its Impact on Liver.",
+        "official_title": "The Spectrum and Profile of COVID-19 Infection and Its Impact on Liver - The Pan Asia-Pacific Prospective Multi-centre Observational Study (APCOLIS STUDY)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Institute of Liver and Biliary Sciences, India",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Institute of Liver and Biliary Sciences, India",
+        "oversight_info": {
+            "has_dmc": "No",
+            "is_fda_regulated_drug": "No",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "To address the existing deficiencies in the knowledge regarding liver involvement and\n      spectrum of clinical presentation and the impact of COVID-19 infection in patients of liver\n      disease was planned. The present study will be a hospital based and the cases of confirmed\n      COVID-19 infection will be evaluated in relation to liver involvement irrespective of\n      pre-existing liver disease. The primary objective was to address the clinical presentation,\n      biochemical alteration and outcomes of COVID-19 infection in subjects with chronic hepatitis,\n      cirrhosis in comparison to those having infection in the absence of pre-existing liver\n      disease"
+        },
+        "overall_status": "Not yet recruiting",
+        "start_date": {
+            "@type": "Anticipated",
+            "#text": "April 15, 2020"
+        },
+        "completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "primary_completion_date": {
+            "@type": "Anticipated",
+            "#text": "June 30, 2020"
+        },
+        "study_type": "Observational",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "observational_model": "Cohort",
+            "time_perspective": "Prospective"
+        },
+        "primary_outcome": {
+            "measure": "Spontaneous recovery or death in both groups",
+            "time_frame": "90 days"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Severity of prior as well as present decompensation in both groups",
+                "time_frame": "90 days"
+            },
+            {
+                "measure": "Duration of prior as well as present decompensation in both groups",
+                "time_frame": "90 days"
+            },
+            {
+                "measure": "Improvement in severity assessment Indices Model for End Stage Liver Disease (MELD) scores in both groups",
+                "time_frame": "90 days"
+            },
+            {
+                "measure": "Improvement in severity assessment Indices Child-Turcotte-Pugh (CTP) scores in both groups",
+                "time_frame": "90 days"
+            },
+            {
+                "measure": "Improvement in severity assessment Indices Sequential Organ Failure Assessment (SOFA) scores in both groups",
+                "time_frame": "90 days"
+            },
+            {
+                "measure": "Improvement in severity assessment Indices Acute Physiology And Chronic Health Evaluation (APACHE) scores II in both groups",
+                "time_frame": "90 days"
+            },
+            {
+                "measure": "Improvement in severity assessment Indices Chronic Liver Failure-Sequential Organ Failure Assessment (CLIF SOFA) scores in both groups.",
+                "time_frame": "90 days"
+            }
+        ],
+        "number_of_groups": "2",
+        "enrollment": {
+            "@type": "Anticipated",
+            "#text": "100"
+        },
+        "condition": "Liver Cirrhoses",
+        "arm_group": [
+            {
+                "arm_group_label": "Covid-19 with liver disease",
+                "description": "Covid-19 with liver disease"
+            },
+            {
+                "arm_group_label": "Covid-19 without liver disease",
+                "description": "Covid-19 with liver disease"
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Other",
+            "intervention_name": "no intervention",
+            "description": "no intervention",
+            "arm_group_label": [
+                "Covid-19 with liver disease",
+                "Covid-19 without liver disease"
+            ]
+        },
+        "eligibility": {
+            "study_pop": {
+                "textblock": "All Covid-19 patients with or without liver disease"
+            },
+            "sampling_method": "Non-Probability Sample",
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n          1. All patients of COVID-19 positive\n\n          2. Age 18-70 years\n\n        Exclusion Criteria:\n\n          1. No Valid consent"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "70 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_contact": {
+            "last_name": "Dr Ashok Choudhary, DM",
+            "phone": "01146300000",
+            "email": "doctor.ashokchoudhury@gmail.com"
+        },
+        "overall_contact_backup": {
+            "last_name": "Dr Ankit Bhardwaj, PhD",
+            "phone": "01146300000",
+            "email": "bhardwaj.ankit3@gmail.com"
+        },
+        "location": {
+            "facility": {
+                "name": "Institute of Liver and Biliary Sciences",
+                "address": {
+                    "city": "New Delhi",
+                    "state": "Delhi",
+                    "zip": "110070",
+                    "country": "India"
+                }
+            },
+            "contact": {
+                "last_name": "Dr Ashok Choudhary, DM",
+                "phone": "01146300000",
+                "email": "doctor.ashokchoudhury@gmail.com"
+            }
+        },
+        "location_countries": {
+            "country": "India"
+        },
+        "verification_date": "April 2020",
+        "study_first_submitted": "April 10, 2020",
+        "study_first_submitted_qc": "April 13, 2020",
+        "study_first_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "last_update_submitted": "April 13, 2020",
+        "last_update_submitted_qc": "April 13, 2020",
+        "last_update_posted": {
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
+        },
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Liver Cirrhosis"
+        },
+        "intervention_browse": {
+            "mesh_term": "Liver Extracts"
+        },
+        "patient_data": {
+            "sharing_ipd": "Undecided"
+        }
+    }
+}

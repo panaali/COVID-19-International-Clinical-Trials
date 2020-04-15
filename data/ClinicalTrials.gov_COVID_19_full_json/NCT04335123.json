@@ -1,8 +1,8 @@
 {
     "clinical_study": {
-        "@rank": "11",
+        "@rank": "12",
         "required_header": {
-            "download_date": "ClinicalTrials.gov processed this data on April 13, 2020",
+            "download_date": "ClinicalTrials.gov processed this data on April 14, 2020",
             "link_text": "Link to the current ClinicalTrials.gov record.",
             "url": "https://clinicaltrials.gov/show/NCT04335123"
         },
@@ -26,10 +26,10 @@
             "is_us_export": "No"
         },
         "brief_summary": {
-            "textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Briefly, 50 patients with COVID-19 and respiratory failure who meet eligibility criteria and\n      agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If\n      parameters are met the dose of losartan will be increased to 50 mg daily on study day 3.\n      Participants will continue losartan until they experience resolution of respiratory failure\n      (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria\n      (detailed below) or complete 14 days of therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group."
+            "textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Briefly, 50 patients with COVID-19 and respiratory failure who meet eligibility criteria and\n      agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If\n      parameters are met the dose of losartan will be increased to 50 mg once daily on study day 3.\n      Participants will continue losartan until they experience resolution of respiratory failure\n      (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria\n      (detailed below) or complete 14 days of therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group."
         },
         "detailed_description": {
-            "textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Clinical Trial setup:\n\n      Detailed inclusion and exclusion criteria are listed below. Briefly, 50 patients with\n      COVID-19 and respiratory failure who meet criteria and agree to participation in the study\n      will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of\n      losartan will be increased to 50 mg on study day 3. Participants will continue losartan until\n      they experience resolution of respiratory failure (normal oxygen levels on room air), are\n      discharged from the hospital, meet stoppage criteria (detailed below) or complete 14 days of\n      therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group."
+            "textblock": "This is an open label, phase 1 clinical trial to evaluate the safety of losartan in\n      respiratory failure due to COVID-19.\n\n      Clinical Trial setup:\n\n      Detailed inclusion and exclusion criteria are listed below. Briefly, 50 patients with\n      COVID-19 and respiratory failure who meet criteria and agree to participation in the study\n      will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of\n      losartan will be increased to 50 mg once daily on study day 3. Participants will continue\n      losartan until they experience resolution of respiratory failure (normal oxygen levels on\n      room air), are discharged from the hospital, meet stoppage criteria (detailed below) or\n      complete 14 days of therapy.\n\n      Patients and/or surrogate decision maker who do not give consent to treatment will be asked\n      to allow collection of data from their medical record for use as a control group.\n\n      Stoppage criteria for losartan\n\n        -  Hyperkalemia (persistent values >5.5 mM recorded on at least 2 readings).\n\n        -  Worsening renal function (Cockcroft-Gault <30 mL/min/1.73 m2) or urinary output <20\n           mL/h.\n\n        -  Skin rashes, palpitations or other moderate or severe adverse events (interference with\n           usual daily activities) without clear explanation should warrant immediate cessation of\n           treatment and notification of study personnel.\n\n        -  Development of sustained hypotension defined as SBP <90 mmHg, DBP <60 mmHg recorded on\n           at least two readings 30 min apart or use of norepinephrine >0.1 \u00b5g/kg/min.\n\n        -  Any change in monitor lab parameters deemed significant and potentially related to study\n           drug by the Investigator."
         },
         "overall_status": "Recruiting",
         "start_date": {
@@ -49,7 +49,7 @@
         "has_expanded_access": "No",
         "study_design_info": {
             "intervention_model": "Single Group Assignment",
-            "intervention_model_description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg on study day 3. Patients and/or surrogate decision maker who do not give consent to treatment will be asked to allow collection of data from their medical record for use as a control group.",
+            "intervention_model_description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg once daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg once daily on study day 3. Patients and/or surrogate decision maker who do not give consent to treatment will be asked to allow collection of data from their medical record for use as a control group.",
             "primary_purpose": "Treatment",
             "masking": "None (Open Label)"
         },
@@ -149,7 +149,7 @@
         "arm_group": {
             "arm_group_label": "Open Label Losartan",
             "arm_group_type": "Experimental",
-            "description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg daily on study day 3. Participants will continue losartan until they experience resolution of respiratory failure (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria (detailed below) or complete 14 days of therapy."
+            "description": "50 patients with COVID-19 and respiratory failure who meet criteria and agree to participation in the study will be placed on losartan 25 mg once daily on study day 0. If parameters are met the dose of losartan will be increased to 50 mg once daily on study day 3. Participants will continue losartan until they experience resolution of respiratory failure (normal oxygen levels on room air), are discharged from the hospital, meet stoppage criteria or complete 14 days of therapy."
         },
         "intervention": {
             "intervention_type": "Drug",
@@ -160,7 +160,7 @@
         },
         "eligibility": {
             "criteria": {
-                "textblock": "Inclusion Criteria:\n\n          -  Age >18 years admitted to the University of Kansas Health System.\n\n          -  Confirmation of infection with SARS-CoV-2 by PCR testing.\n\n          -  Hypoxic respiratory failure\n\n             o Requiring mechanical ventilation or oxygen, an oxygen saturation (SpO2) \u226494% or a\n             PaO2/FiO2 (P/F) ratio <300 or tachypnea (respiratory rate \u226524 breaths/min).\n\n          -  Other concomitant medications such as antivirals and hydroxychloroquine are allowed.\n\n        Exclusion Criteria:\n\n          -  Pregnancy.\n\n          -  Respiratory failure due to a process other than COVID-19.\n\n          -  Intolerance to ARBs.\n\n          -  Current treatment with an angiotensin receptor blocker (ARB) or angiotensin converting\n             enzyme (ACE) inhibitor.\n\n          -  Current chronic use of medication with known interactions with losartan including\n             NSAIDs (intermittent prior use is acceptable), potassium supplementation aliskiren.\n\n          -  Blood pressure less than 90 mm Hg systolic or 60 mm Hg diastolic recorded on at least\n             two readings 30 min apart.\n\n          -  Need for vasopressors, unless norepinephrine \u22640.1 \u00b5g/kg/min\n\n          -  need for vasopressors.\n\n          -  Hyperkalemia (serum K+ >5.5 mM).\n\n          -  Known cardiac failure (left ventricular ejection fraction \u226435%), renal insufficiency\n             (Cockcroft-Gault <30 mL/min/1.73 m2 or urinary output <20 mL/h), hepatic failure (LFTs\n             > 5x normal upper limit).\n\n          -  Known renal artery stenosis.\n\n          -  Neurological, psychiatric, endocrine or neoplastic diseases that are judged to\n             interfere with participation in the study.\n\n          -  On another interventional trial (including one for COVID-19) that excludes\n             participation."
+                "textblock": "Inclusion Criteria:\n\n          -  Age >18 years admitted to the University of Kansas Health System.\n\n          -  Confirmation of infection with SARS-CoV-2 by PCR testing.\n\n          -  Hypoxic respiratory failure Requiring mechanical ventilation or oxygen OR a SpO2 \u226494%\n             on room air or a PaO2/FiO2 (P/F) ratio <300 OR tachypnea (respiratory rate \u226524\n             breaths/min). Criteria to be met within 48 hours prior to Day 0.\n\n          -  Other concomitant medications such as antivirals and hydroxychloroquine are allowed.\n\n          -  Participants prescribed standard of care (SOC) losartan (25mg QD) within 48 hours of\n             consenting may be considered for enrollment if eligibility criteria are met based on\n             EMR data assessment, i.e. no other ARB or ACE prior to SOC medication administration.\n             If participant is eligible and signs consent form, investigational losartan 25mg QD\n             will be ordered to replace SOC prescription on the following scheduled dose.\n\n        Exclusion Criteria:\n\n          -  Pregnancy.\n\n          -  Respiratory failure due to a process other than COVID-19.\n\n          -  Intolerance to ARBs.\n\n          -  Previous treatment with an ARB or ACE inhibitor (see exception in inclusion criteria).\n\n          -  Current chronic use of medication with known interactions with losartan including\n             NSAIDs (intermittent prior use is acceptable), potassium supplementation aliskiren.\n\n          -  Blood pressure less than 90 mm Hg systolic or 60 mm Hg diastolic recorded on at least\n             two readings 30 min apart.\n\n          -  Need for vasopressors, unless norepinephrine \u22640.1 \u00b5g/kg/min\n\n          -  Hyperkalemia (serum K+ >5.5 mM).\n\n          -  Known cardiac failure (left ventricular ejection fraction \u226435%), renal insufficiency\n             (Cockcroft-Gault <30 mL/min/1.73 m2 or urinary output <20 mL/h), hepatic failure (LFTs\n             > 5x normal upper limit).\n\n          -  Known renal artery stenosis.\n\n          -  Neurological, psychiatric, endocrine or neoplastic diseases that are judged to\n             interfere with participation in the study.\n\n          -  On another interventional trial (including one for COVID-19) that excludes\n             participation."
             },
             "gender": "All",
             "minimum_age": "18 Years",
@@ -228,11 +228,11 @@
             "@type": "Actual",
             "#text": "April 6, 2020"
         },
-        "last_update_submitted": "April 2, 2020",
-        "last_update_submitted_qc": "April 2, 2020",
+        "last_update_submitted": "April 10, 2020",
+        "last_update_submitted_qc": "April 10, 2020",
         "last_update_posted": {
-            "@type": "Actual",
-            "#text": "April 6, 2020"
+            "@type": "Estimate",
+            "#text": "April 14, 2020"
         },
         "responsible_party": {
             "responsible_party_type": "Principal Investigator",
